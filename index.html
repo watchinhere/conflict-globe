@@ -1,0 +1,81 @@
+<!doctype html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>분쟁 관측 지구본</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans+KR:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500;600&display=swap">
+<link rel="stylesheet" href="css/app.css">
+<script type="importmap">
+{ "imports": {
+  "three": "https://unpkg.com/three@0.170.0/build/three.module.js",
+  "three/addons/": "https://unpkg.com/three@0.170.0/examples/jsm/"
+} }
+</script>
+</head>
+<body>
+<canvas id="globe" aria-label="3D 지구본: 드래그로 회전, 스크롤로 확대, 표시 지점 클릭 시 상세 정보"></canvas>
+<div id="labels"></div>
+
+<header class="top">
+  <div class="brand">
+    <h1>분쟁 관측 지구본 <span class="live"><i></i>LIVE</span></h1>
+    <p id="subline">전쟁 · 국지전 · 폭동 · 시위 · 탄압 · 자연재해 · 산불</p>
+  </div>
+  <div class="console">
+    <div class="clock mono"><b id="utc">--</b> UTC <span class="sep">·</span> <b id="kst">--</b> KST</div>
+    <button type="button" class="feedBtn" id="feedBtn" aria-expanded="false" aria-controls="feedPop"><span class="dot" id="feedDot"></span><span id="feedSum">실시간 피드 연결 중</span>
+      <svg viewBox="0 0 24 24" class="chev"><path d="M6 9l6 6 6-6"/></svg></button>
+    <div class="feedPop card" id="feedPop" hidden>
+      <h4>데이터 피드</h4>
+      <ul id="feedList"></ul>
+      <p>모든 데이터는 브라우저가 각 기관 공개 API에서 직접 받아옵니다.</p>
+    </div>
+  </div>
+</header>
+
+<aside class="rail" id="rail">
+  <button class="railToggle" id="railToggle" type="button">사건 목록 펼치기</button>
+  <div class="card filters" id="filters" role="group" aria-label="사건 유형 필터"></div>
+  <div class="card listCard">
+    <div class="tools">
+      <label class="search"><svg viewBox="0 0 24 24"><circle cx="11" cy="11" r="6.5"/><path d="M16 16l4.5 4.5"/></svg>
+        <input id="search" type="search" placeholder="사건 · 국가 검색" autocomplete="off"></label>
+      <select id="sort" aria-label="정렬">
+        <option value="severity">심각도순</option>
+        <option value="casualties">사망자순</option>
+        <option value="recent">최근 발생순</option>
+      </select>
+    </div>
+    <div class="list" id="list"></div>
+  </div>
+  <div class="card trackers">
+    <b>외부 실시간 트래커</b>
+    <a href="https://liveuamap.com" target="_blank" rel="noopener">Liveuamap</a>
+    <a href="https://understandingwar.org" target="_blank" rel="noopener">ISW</a>
+    <a href="https://acleddata.com" target="_blank" rel="noopener">ACLED</a>
+    <a href="https://www.crisisgroup.org/crisiswatch" target="_blank" rel="noopener">CrisisWatch</a>
+    <a href="https://www.gdacs.org" target="_blank" rel="noopener">GDACS</a>
+  </div>
+</aside>
+
+<section class="card panel" id="panel" hidden aria-live="polite"></section>
+<button class="globeBtn" id="globeBtn" type="button" hidden>지구 전체 보기</button>
+
+<footer class="bottom">
+  <div class="hint">드래그 회전 · 스크롤 확대 · 지점 클릭 상세 · Esc 전체 보기</div>
+  <div class="attrib" id="attrib"></div>
+</footer>
+
+<div id="loader"><div class="box"><div class="ring"></div><p id="loadMsg">위성 영상을 불러오는 중</p></div></div>
+<script>
+  if (location.protocol === 'file:') {
+    document.getElementById('loadMsg').innerHTML = '이 앱은 로컬 서버에서 실행해야 합니다.<br>같은 폴더의 <b>실행.bat</b>을 더블클릭하세요.';
+    document.querySelector('#loader .ring').style.display = 'none';
+  }
+</script>
+<script type="module" src="js/main.js"></script>
+</body>
+</html>
