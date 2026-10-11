@@ -1,5 +1,6 @@
 import * as THREE from 'three';
 import { R, D2R, R2D, scene, camera, ll2v, view } from './core.js';
+import { countryKo } from './data.js';
 
 // Natural Earth 1:50m 국경·도시(한국어 이름)와 역지오코딩
 export const geo = { ready: false, countries: [], cities: [] };
@@ -37,7 +38,9 @@ export async function loadGeo() {
   geo.countries = countries.map((c) => {
     let bb = [180, 90, -180, -90];
     for (const poly of c.p) { rings.push(...poly); const o = poly[0]; for (let i = 0; i < o.length; i += 2) { bb = [Math.min(bb[0], o[i]), Math.min(bb[1], o[i + 1]), Math.max(bb[2], o[i]), Math.max(bb[3], o[i + 1])]; } }
-    return { ...c, bb, n: ll2v(c.ly, c.lx).normalize(), el: mkLabel(`glab country r${Math.min(c.r, 6)}`, c.ko), w: 0 };
+    const short = countryKo(c.en);
+    const ko = short !== c.en ? short : c.ko;
+    return { ...c, ko, bb, n: ll2v(c.ly, c.lx).normalize(), el: mkLabel(`glab country r${Math.min(c.r, 6)}`, ko), w: 0 };
   });
   const border = new THREE.LineSegments(lines(rings, R + 0.00025, true), mats.border);
   const adm = new THREE.LineSegments(lines(admin1, R + 0.0002, false), mats.admin);

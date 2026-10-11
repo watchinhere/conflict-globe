@@ -7,6 +7,7 @@ import { updatePatch, patch, patchMesh } from './terrain.js';
 import { renderFilters, renderList, renderFeeds, active, closePanel } from './ui.js';
 import { startLive } from './live.js';
 import { loadGeo, placeGeoLabels, locate, coordText } from './geo.js';
+import { updateTiles } from './tiles.js';
 
 const $ = (id) => document.getElementById(id);
 manager.onProgress = (_u, done, total) => { $('loadMsg').textContent = `위성 영상을 불러오는 중 (${done}/${total})`; };
@@ -113,7 +114,7 @@ function updateLoc() {
   const l = locate(lat, lon);
   if (!l) return;
   el.hidden = false;
-  el.innerHTML = `<span class="lk">${pointer ? '커서 위치' : '화면 중앙'}</span><b>${l.country}</b>${l.near ? `<span>${l.near}</span>` : ''}<span class="mono">${coordText(lat, lon)}</span>`;
+  el.innerHTML = `<span class="lk mono">${pointer ? 'CURSOR' : 'CENTER'}</span><b>${l.country}</b>${l.near ? `<span>${l.near}</span>` : ''}<span class="mono">${coordText(lat, lon)}</span>`;
 }
 canvas.addEventListener('pointermove', (e) => {
   pointer = { x: e.clientX, y: e.clientY };
@@ -165,9 +166,10 @@ function frame() {
   view.ring = 0.3 + 0.7 * THREE.MathUtils.smoothstep(alt, 0.08, 0.8);
   atmoMat.uniforms.inside.value = alt < 0.035 ? 1 : 0;
 
+  updateTiles(now);
   updatePatch(now, alt, viewCenter());
   if (patchMesh.visible) { patch.fade = Math.min(1, patch.fade + dt * 2.5); patchMesh.material.uniforms.uFade.value = patch.fade; }
-  attrib.textContent = patch.active ? '위성사진·지명 © Esri, Maxar, Earthstar Geographics · 고도 Mapzen Terrarium · 야간 NASA GIBS · 국경 Natural Earth' : '지구 텍스처 NASA Blue Marble / Black Marble · 국경·지명 Natural Earth · 데이터: 위키백과, GDELT';
+  attrib.textContent = patch.active ? '위성사진·지명 © Esri, Maxar, Earthstar Geographics · 고도 Mapzen Terrarium · 야간 NASA GIBS · 국경 Natural Earth' : '위성사진 © Esri, Maxar, Earthstar Geographics · 야간 NASA Black Marble · 국경·지명 Natural Earth · 데이터: 위키백과, GDELT';
 
   // 폭발 섬광 감쇠, 지속 조명은 사이트가 매 프레임 다시 켠다
   for (let i = 0; i < 2; i++) {

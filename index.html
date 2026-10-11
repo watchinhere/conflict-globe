@@ -20,18 +20,24 @@
 <canvas id="globe" aria-label="3D 지구본: 드래그로 회전, 스크롤로 확대, 표시 지점 클릭 시 상세 정보"></canvas>
 <div id="geolabels"></div>
 <div id="labels"></div>
+<div class="hud" aria-hidden="true">
+  <i class="cnr tl"></i><i class="cnr tr"></i><i class="cnr bl"></i><i class="cnr br"></i>
+  <div class="reticle"><i></i></div>
+</div>
+
+<div class="banner"><span>OSINT</span> 공개 출처 정보 · 위키백과 · GDELT · Esri · Natural Earth 실시간 집계 <span>OPEN SOURCE</span></div>
 
 <header class="top">
   <div class="brand">
-    <h1>분쟁 관측 지구본 <span class="live"><i></i>LIVE</span></h1>
-    <p id="subline">전쟁 · 국지전 · 폭동 · 시위 · 소수민족 탄압</p>
+    <p class="sys mono">GCM-01 // GLOBAL CONFLICT MONITOR</p>
+    <h1>분쟁 관측 지구본</h1>
+    <p id="subline" class="mono">INITIALIZING…</p>
   </div>
   <div class="console">
-    <div class="clock mono"><b id="utc">--</b> UTC <span class="sep">·</span> <b id="kst">--</b> KST</div>
-    <button type="button" class="feedBtn" id="feedBtn" aria-expanded="false" aria-controls="feedPop"><span class="dot" id="feedDot"></span><span id="feedSum">실시간 피드 연결 중</span>
-      <svg viewBox="0 0 24 24" class="chev"><path d="M6 9l6 6 6-6"/></svg></button>
-    <div class="feedPop card" id="feedPop" hidden>
-      <h4>데이터 피드</h4>
+    <div class="clock mono"><span class="lk">UTC</span><b id="utc">--</b><span class="lk">KST</span><b id="kst">--</b></div>
+    <button type="button" class="feedBtn mono" id="feedBtn" aria-expanded="false" aria-controls="feedPop"><span class="sq" id="feedDot"></span><span id="feedSum">LINK …</span></button>
+    <div class="feedPop pnl" id="feedPop" hidden>
+      <h4 class="mono">DATA LINKS</h4>
       <ul id="feedList"></ul>
       <p>모든 데이터는 브라우저가 각 기관 공개 API에서 직접 받아옵니다.</p>
     </div>
@@ -39,43 +45,40 @@
 </header>
 
 <aside class="rail" id="rail">
-  <button class="railToggle" id="railToggle" type="button">사건 목록 펼치기</button>
-  <div class="card filters" id="filters" role="group" aria-label="사건 유형 필터"></div>
-  <div class="card listCard">
+  <button class="railToggle mono" id="railToggle" type="button">사건 목록 펼치기</button>
+  <div class="pnl filters">
+    <div class="pnl-h mono"><span>FILTER</span><span>유형</span></div>
+    <div id="filters" role="group" aria-label="사건 유형 필터"></div>
+  </div>
+  <div class="pnl listCard">
+    <div class="pnl-h mono"><span>TARGET LIST</span><span id="listCount">—</span></div>
     <div class="tools">
-      <label class="search"><svg viewBox="0 0 24 24"><circle cx="11" cy="11" r="6.5"/><path d="M16 16l4.5 4.5"/></svg>
+      <label class="search"><span class="mono">QRY</span>
         <input id="search" type="search" placeholder="사건 · 국가 검색" autocomplete="off"></label>
-      <select id="sort" aria-label="정렬">
-        <option value="severity">심각도순</option>
-        <option value="casualties">사망자순</option>
-        <option value="recent">최근 발생순</option>
+      <select id="sort" aria-label="정렬" class="mono">
+        <option value="severity">SEV 심각도</option>
+        <option value="casualties">KIA 사망자</option>
+        <option value="recent">NEW 최근</option>
       </select>
     </div>
     <div class="list" id="list"></div>
   </div>
-  <div class="card trackers">
-    <b>외부 실시간 트래커</b>
-    <a href="https://liveuamap.com" target="_blank" rel="noopener">Liveuamap</a>
-    <a href="https://understandingwar.org" target="_blank" rel="noopener">ISW</a>
-    <a href="https://acleddata.com" target="_blank" rel="noopener">ACLED</a>
-    <a href="https://www.crisisgroup.org/crisiswatch" target="_blank" rel="noopener">CrisisWatch</a>
-  </div>
 </aside>
 
-<section class="card panel" id="panel" hidden aria-live="polite"></section>
-<button class="globeBtn" id="globeBtn" type="button" hidden>지구 전체 보기</button>
+<section class="pnl panel" id="panel" hidden aria-live="polite"></section>
+<button class="globeBtn mono" id="globeBtn" type="button" hidden><span>◎</span> GLOBAL VIEW · 전체 보기</button>
 
 <footer class="bottom">
-  <div class="hint">드래그 회전 · 스크롤 확대 · 지점 클릭 상세 · Esc 전체 보기</div>
+  <div class="hint mono">DRAG 회전 · SCROLL 확대 · CLICK 상세 · ESC 전체</div>
   <div class="loc" id="loc" hidden></div>
   <div class="attrib" id="attrib"></div>
 </footer>
 
-<div id="loader"><div class="box"><div class="ring"></div><p id="loadMsg">위성 영상을 불러오는 중</p></div></div>
+<div id="loader"><div class="box"><p class="mono boot">GCM-01 // ESTABLISHING SATELLITE LINK</p><div class="bar"><i></i></div><p id="loadMsg" class="mono">위성 영상을 불러오는 중</p></div></div>
 <script>
   if (location.protocol === 'file:') {
     document.getElementById('loadMsg').innerHTML = '이 앱은 로컬 서버에서 실행해야 합니다.<br>같은 폴더의 <b>실행.bat</b>을 더블클릭하세요.';
-    document.querySelector('#loader .ring').style.display = 'none';
+    document.querySelector('#loader .bar').style.display = 'none';
   }
 </script>
 <script type="module" src="js/main.js"></script>

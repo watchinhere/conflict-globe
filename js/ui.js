@@ -54,7 +54,7 @@ export function renderFilters() {
   const counts = {};
   for (const s of sites) counts[s.cat] = (counts[s.cat] || 0) + 1;
   $('filters').innerHTML = Object.entries(CATS).map(([k, c]) =>
-    `<button type="button" class="chip" data-cat="${k}" aria-pressed="${active.has(k)}" style="--c:${c.color}">${iconFor(k)}<span class="nm">${c.ko}</span><span class="ct">${counts[k] || 0}</span></button>`).join('');
+    `<button type="button" class="chip" data-cat="${k}" aria-pressed="${active.has(k)}" style="--c:${c.color}"><span class="box"></span><span class="nm">${c.ko}</span><span class="ct">${String(counts[k] || 0).padStart(2, '0')}</span></button>`).join('');
 }
 $('filters').addEventListener('click', (e) => {
   const b = e.target.closest('.chip'); if (!b) return;
@@ -69,16 +69,21 @@ const sorters = {
   recent: (a, b) => (Date.parse(b.ev.start) || 0) - (Date.parse(a.ev.start) || 0),
   casualties: (a, b) => (casOf(b.ev)?.num || 0) - (casOf(a.ev)?.num || 0),
 };
+const CODE = { war: 'WAR', clash: 'SKR', riot: 'RIOT', protest: 'PRT', oppression: 'HRV' };
+function evCode(ev) {
+  let h = 0;
+  for (const ch of String(ev.id)) h = (h * 31 + ch.charCodeAt(0)) >>> 0;
+  return `${CODE[ev.cat] || 'EVT'}-${String(h % 10000).padStart(4, '0')}`;
+}
 function itemHTML(s) {
-  const ev = s.ev, cas = casOf(ev), lv = ev.level, meter = ev.intensity || 1;
+  const ev = s.ev, cas = casOf(ev);
   return `<button type="button" class="item${s === app.selected ? ' sel' : ''}" data-id="${esc(ev.id)}" style="--c:${s.color}">
-    <span class="ico">${iconFor(ev.cat)}</span>
-    <span class="body">
-      <span class="r1"><b>${esc(ev.name)}</b>${ev.auto ? '<i class="src" title="실시간 자동 수집">AUTO</i>' : ''}</span>
-      <span class="r2">${esc(ev.region)}</span>
-      <span class="r3">${levelPill(lv)}${cas ? `<span class="cas" title="사망">† ${esc(cas.text)}</span>` : ''}<span class="dur">${since(ev.start)}</span></span>
+    <span class="ix-main">
+      <span class="ix-top"><span class="ix-code">${evCode(ev)}</span>${levelPill(ev.level)}${ev.auto ? '<span class="ix-auto" title="실시간 자동 수집">AUTO</span>' : ''}<span class="ix-age">${since(ev.start)}</span></span>
+      <b class="ix-name">${esc(ev.name)}</b>
+      <span class="ix-sub">${esc(ev.region)}</span>
     </span>
-    <span class="meter" aria-label="강도 ${meter}/3">${[1, 2, 3].map((i) => `<i class="${i <= meter ? 'on' : ''}"></i>`).join('')}</span>
+    ${cas ? `<span class="ix-kia" title="사망"><small>KIA</small><b>${esc(cas.text)}</b></span>` : ''}
   </button>`;
 }
 export function renderList() {
@@ -89,10 +94,11 @@ export function renderList() {
     if (!list.length) return '';
     const total = list.length, open = !ui.collapsed.has(g) || !!q;
     return `<section class="grp${open ? '' : ' shut'}" data-g="${g}">
-      <button type="button" class="grp-h" data-g="${g}" aria-expanded="${open}"><span>${GROUPS[g]}</span><span class="n">${total}</span><svg viewBox="0 0 24 24" class="chev"><path d="M6 9l6 6 6-6"/></svg></button>
+      <button type="button" class="grp-h" data-g="${g}" aria-expanded="${open}"><span>${GROUPS[g]}</span><span class="n">${String(total).padStart(2, '0')}</span><svg viewBox="0 0 24 24" class="chev"><path d="M6 9l6 6 6-6"/></svg></button>
       <div class="grp-b">${list.map(itemHTML).join('')}</div>
     </section>`;
   }).join('');
+  $('listCount').textContent = `${pool.length} TRACKED`;
   $('list').innerHTML = html || '<p class="empty">조건에 맞는 사건이 없습니다. 위의 유형 필터나 검색어를 확인하세요.</p>';
 }
 $('list').addEventListener('click', (e) => {
@@ -147,27 +153,27 @@ export function renderPanel(site) {
   const srcLabel = { wiki: '위키백과 분쟁 목록에서 자동 추가', news: '위키백과 오늘의 사건에서 자동 추가' }[ev.auto];
   panel.style.setProperty('--c', site.color);
   panel.innerHTML = `
+    <div class="p-bar"><span>DOSSIER</span><span class="code">${evCode(ev)}</span><span class="src">${srcLabel || `큐레이션 ${ASOF.replace(/-/g, '.')} + 실시간`}</span>
+      <button type="button" class="close" id="pClose" aria-label="닫기"><svg viewBox="0 0 24 24"><path d="M6 6l12 12M18 6L6 18"/></svg></button></div>
     <div class="p-hero">
-      <div class="p-top"><span class="badge">${iconFor(ev.cat)}${c.ko}</span>${srcLabel ? `<span class="src-chip">${srcLabel}</span>` : `<span class="src-chip">${ASOF.replace(/-/g, '.')} 큐레이션 + 자동 갱신</span>`}
-        <button type="button" class="close" id="pClose" aria-label="닫기"><svg viewBox="0 0 24 24"><path d="M6 6l12 12M18 6L6 18"/></svg></button></div>
+      <span class="badge">${iconFor(ev.cat)}${c.ko}</span>
       <h2>${esc(ev.name)}</h2>
       <p class="en">${esc(ev.en)}</p>
-      <div class="p-meta">${levelPill(ev.level)}<span>${since(ev.start)}</span>${casOf(ev) ? `<span class="cas">† ${esc(casOf(ev).text)}</span>` : ''}</div>
+      <div class="p-meta"><div><small>STATUS</small><b>${levelPill(ev.level)}</b></div><div><small>DURATION</small><b>${since(ev.start)}</b></div><div><small>KIA</small><b class="kia">${casOf(ev) ? esc(casOf(ev).text) : '—'}</b></div></div>
     </div>
-    <section class="p-sec"><h3>사상자 · 피해</h3>${casSection(ev)}</section>
+    <section class="p-sec"><h3><span class="k">CASUALTIES</span>사상자 · 피해</h3>${casSection(ev)}</section>
     <dl class="facts">${factsFor(ev).map(([k, v]) => `<div><dt>${k}</dt><dd>${v}</dd></div>`).join('')}</dl>
-    <section class="p-sec"><h3>진행 상황 ${ev.summaryLang === 'en' ? `<a class="tr" href="${trUrl(ev.summary)}" target="_blank" rel="noopener">한국어로 번역</a>` : ''}</h3>
+    <section class="p-sec"><h3><span class="k">SITREP</span>진행 상황${ev.summaryLang === 'en' ? `<a class="tr" href="${trUrl(ev.summary)}" target="_blank" rel="noopener">한국어로 번역</a>` : ''}</h3>
       <p class="sum">${esc(ev.summary)}</p>
       ${ev.points?.length ? `<ul class="pts">${ev.points.map((p) => `<li>${esc(p)}</li>`).join('')}</ul>` : ''}</section>
-    ${news.length ? `<section class="p-sec"><h3>최근 동향 <span>위키백과 오늘의 사건 · 30분마다 갱신</span></h3>
+    ${news.length ? `<section class="p-sec"><h3><span class="k">TIMELINE</span>최근 동향<span class="r">위키백과 · 30분 갱신</span></h3>
       <ol class="timeline">${news.map((n) => `<li><time>${fmtDate(n.date)}</time><p>${esc(n.text)}</p><div class="tl-links">${n.sources.slice(0, 3).map((s) => `<a href="${esc(s.u)}" target="_blank" rel="noopener">${esc(s.t)}</a>`).join('')}<a class="tr" href="${trUrl(n.text)}" target="_blank" rel="noopener">번역</a></div></li>`).join('')}</ol></section>` : ''}
-    <section class="p-sec"><h3>관련 기사</h3>
+    <section class="p-sec"><h3><span class="k">SOURCES</span>관련 기사</h3>
       <ul class="arts">${(ev.articles || []).map((a) => `<li><a href="${esc(a.u)}" target="_blank" rel="noopener"><b>${esc(a.t)}</b><span>${esc(a.s)}${a.d ? ' · ' + esc(a.d) : ''}</span></a></li>`).join('')}</ul></section>
-    <section class="p-sec"><h3>실시간 뉴스 <span>GDELT · 최근 7일</span></h3><ul class="arts" id="live"><li class="msg">최신 기사를 찾는 중…</li></ul>
+    <section class="p-sec"><h3><span class="k">INTERCEPT</span>실시간 뉴스<span class="r">GDELT · 7일</span></h3><ul class="arts" id="live"><li class="msg">최신 기사를 찾는 중…</li></ul>
       <div class="more">
         <a href="https://news.google.com/search?q=${encodeURIComponent(ev.qko || ev.q)}&hl=ko&gl=KR&ceid=KR:ko" target="_blank" rel="noopener">Google 뉴스 (한국어)</a>
         <a href="https://news.google.com/search?q=${encodeURIComponent(ev.q)}&hl=en-US&gl=US&ceid=US:en" target="_blank" rel="noopener">Google News (English)</a>
-        <a href="https://liveuamap.com" target="_blank" rel="noopener">Liveuamap 지도</a>
         <a href="https://earth.google.com/web/@${ev.lat},${ev.lon},2000a,120000d,35y,0h,0t,0r" target="_blank" rel="noopener">Google Earth에서 보기</a>
       </div></section>
     <p class="note">${ev.auto ? '실시간 피드에서 자동으로 수집된 사건입니다. 영어 원문 요약과 자동 추출 수치는 오류가 있을 수 있으니 출처를 함께 확인하세요.' : `요약은 ${ASOF.replace(/-/g, '.')}까지의 공개 보도를 정리한 것이며, 자동 집계·최근 동향은 실시간으로 덧붙습니다. 사상자 수치에는 교전 당사자의 주장이 포함될 수 있습니다.`}</p>`;
@@ -194,9 +200,9 @@ export function renderPanel(site) {
 /* ---------- feeds & clock ---------- */
 export function renderFeeds() {
   const list = Object.values(feeds), ok = list.filter((f) => f.ok).length, bad = list.filter((f) => f.ok === false).length;
-  $('feedSum').textContent = `실시간 피드 ${ok}/${list.length}`;
-  $('feedDot').className = 'dot ' + (bad ? 'warn' : ok ? 'ok' : '');
-  $('feedList').innerHTML = list.map((f) => `<li><span class="dot ${f.ok ? 'ok' : f.ok === false ? 'bad' : ''}"></span><div><b>${esc(f.name)}</b>
+  $('feedSum').textContent = `LINK ${ok}/${list.length}`;
+  $('feedDot').className = 'sq ' + (bad ? 'warn' : ok ? 'ok' : '');
+  $('feedList').innerHTML = list.map((f) => `<li><span class="sq ${f.ok ? 'ok' : f.ok === false ? 'bad' : ''}"></span><div><b>${esc(f.name)}</b>
     <small>${f.ok === null ? (f.every ? '불러오는 중' : '사건 선택 시 조회') : f.ok ? `${f.n ? f.n.toLocaleString('ko-KR') + '건 · ' : ''}${relTime(f.at)} 갱신${f.every ? ` · ${f.every}분마다` : ''}` : `실패 · ${esc(f.err || '요청 제한')} · 자동 재시도`}</small></div></li>`).join('');
 }
 $('feedBtn').addEventListener('click', (e) => { const p = $('feedPop'); p.hidden = !p.hidden; e.currentTarget.setAttribute('aria-expanded', String(!p.hidden)); });
