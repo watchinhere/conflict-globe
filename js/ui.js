@@ -211,7 +211,6 @@ export function renderPanel(site, keepScroll) {
       <div class="more">
         <a href="https://news.google.com/search?q=${encodeURIComponent(qLocal)}&hl=${en ? 'en-US&gl=US&ceid=US:en' : 'ko&gl=KR&ceid=KR:ko'}" target="_blank" rel="noopener">${en ? t('newsEn') : t('newsKo')}</a>
         <a href="https://news.google.com/search?q=${encodeURIComponent(en ? ev.qko || ev.q : ev.q)}&hl=${en ? 'ko&gl=KR&ceid=KR:ko' : 'en-US&gl=US&ceid=US:en'}" target="_blank" rel="noopener">${en ? t('newsKo') : t('newsEn')}</a>
-        <a href="https://earth.google.com/web/@${ev.lat},${ev.lon},2000a,120000d,35y,0h,0t,0r" target="_blank" rel="noopener">${t('earth')}</a>
       </div></section>
     <p class="note">${ev.auto ? t('noteAuto') : t('noteCur', { d: ASOF.replace(/-/g, '.') })}</p>`;
   panel.hidden = false;
