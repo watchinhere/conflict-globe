@@ -36,7 +36,7 @@ const mkLabel = (cls, text) => {
 let markReady;
 export const geoReady = new Promise((r) => { markReady = r; });
 export async function loadGeo() {
-  const [countries, cities, admin1] = await Promise.all(['countries', 'cities', 'admin1'].map((n) => fetch(`data/${n}.json`).then((r) => r.json())));
+  const [countries, cities, admin1] = await Promise.all(['countries', 'cities', 'admin1'].map((n) => fetch(`data/${n}.json${new URL(import.meta.url).search}`).then((r) => r.json())));
   const rings = [];
   geo.countries = countries.map((c) => {
     let bb = [180, 90, -180, -90];

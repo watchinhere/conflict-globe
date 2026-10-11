@@ -1,5 +1,5 @@
 import { EVENTS, COUNTRIES, findCountries, countryKo, canonCountry } from './data.js';
-import { countryAt, geoReady } from './geo.js';
+import { countryAt, geoReady, geo } from './geo.js';
 import { sites, upsert, removeWhere, getSite } from './sites.js';
 import { app } from './core.js';
 import { t } from './i18n.js';
@@ -53,12 +53,33 @@ function tableGrid(t) {
   return grid;
 }
 const firstNum = (s) => { const m = String(s || '').replace(/,/g, '').match(/\d+(\.\d+)?/); return m ? +m[0] : 0; };
+// 육지 판정은 국경 데이터가 준비된 뒤에만 의미가 있다
+const onLand = (lat, lon) => !geo.ready || !!countryAt(lat, lon);
+const crowded = (lat, lon, selfId) => sites.some((s) => s.id !== selfId && Math.abs(s.ev.lat - lat) < 1.1 && Math.abs(s.ev.lon - lon) < 1.1);
+const NUDGES = [[0, 0], [0.8, 1.2], [-0.8, -1.2], [1.2, -0.8], [-1.2, 0.8], [0, 1.6], [0, -1.6], [1.6, 0], [-1.6, 0], [1.4, 1.4], [-1.4, -1.4], [1.4, -1.4], [-1.4, 1.4]];
 function nudge(lat, lon, selfId) {
-  for (let k = 0; k < 5; k++) {
-    if (!sites.some((s) => s.id !== selfId && Math.abs(s.ev.lat - lat) < 1.1 && Math.abs(s.ev.lon - lon) < 1.1)) break;
-    lon += 1.5; lat += k % 2 ? 0.6 : -0.6;
+  const land = onLand(lat, lon);
+  for (const [a, b] of NUDGES) {
+    const la = lat + a, lo = lon + b;
+    if (land && !onLand(la, lo)) continue;
+    if (!crowded(la, lo, selfId)) return [la, lo];
   }
   return [lat, lon];
+}
+// 국가 중심점이 바다(군도 국가 등)면 그 나라 안의 가장 가까운 도시로 옮긴다
+function countryPoint(country) {
+  const [lat, lon] = COUNTRIES[country];
+  if (!geo.ready) return [lat, lon];
+  const c = countryAt(lat, lon);
+  if (c && canonCountry(c.en) === country) return [lat, lon];
+  let best = null, bd = Infinity;
+  for (const p of geo.cities) {
+    p.cc ??= canonCountry(countryAt(p.lat, p.lon)?.en || '') || '';
+    if (p.cc !== country) continue;
+    const d = (p.lat - lat) ** 2 + ((p.lon - lon) * Math.cos(lat * Math.PI / 180)) ** 2 - (p.cap === 2 ? 4 : 0);
+    if (d < bd) { bd = d; best = p; }
+  }
+  return best ? [best.lat, best.lon] : [lat, lon];
 }
 
 /* ---------- Wikipedia page info (한국어 제목·좌표·요약) ---------- */
@@ -105,7 +126,7 @@ const stripGloss = (s) => s.replace(/\s*\((?:[^()]*?(?:[A-Z][a-z]+|[가-힣]+어
 const TIERS = ['major', 'minor', 'conflict', 'skirmish'];
 export const tierLabel = (tier) => t({ major: 'tierMajor', minor: 'tierMinor', conflict: 'tierConflict', skirmish: 'tierSkirmish' }[tier] || '');
 async function loadWiki() {
-  const doc = await parsePage('List_of_ongoing_armed_conflicts');
+  const [doc] = await Promise.all([parsePage('List_of_ongoing_armed_conflicts'), Promise.race([geoReady, sleep(15000)])]);
   const tables = [...doc.querySelectorAll('table.wikitable')].slice(0, 4);
   const rows = [];
   tables.forEach((t, ti) => {
@@ -141,7 +162,7 @@ async function loadWiki() {
     const withCoord = row.links.slice(0, 6).map((l) => info.get(norm(l))).find((r) => r?.lat != null);
     let lat = withCoord?.lat, lon = withCoord?.lon, approx = false;
     if (lat == null && refined.has('wiki:' + row.main)) [lat, lon] = refined.get('wiki:' + row.main);
-    if (lat == null && row.countries[0]) { [lat, lon] = COUNTRIES[row.countries[0]]; approx = true; }
+    if (lat == null && row.countries[0]) { [lat, lon] = countryPoint(row.countries[0]); approx = true; }
     if (lat == null) continue;
     const id = 'wiki:' + row.main;
     [lat, lon] = nudge(lat, lon, id);
@@ -253,7 +274,7 @@ function sumCas(news) {
   return killed || injured ? { killed, injured, at } : null;
 }
 async function loadNews() {
-  const doc = await parsePage('Portal:Current_events');
+  const [doc] = await Promise.all([parsePage('Portal:Current_events'), Promise.race([geoReady, sleep(15000)])]);
   const items = [];
   for (const day of doc.querySelectorAll('.current-events-main')) {
     const date = dayISO(day.id), content = day.querySelector('.current-events-content');
@@ -294,7 +315,7 @@ async function loadNews() {
       if (r?.lat != null) { lat = r.lat; lon = r.lon; break; }
     }
     const countries = findCountries(list.map((i) => `${i.text} ${i.chain.join(' ')} ${i.links.join(' ')}`).join(' '));
-    if (lat == null && countries[0]) [lat, lon] = COUNTRIES[countries[0]];
+    if (lat == null && countries[0]) [lat, lon] = countryPoint(countries[0]);
     if (lat == null) continue;
     const kinds = list.map((i) => i.kind), cat = kinds.includes('riot') ? 'riot' : kinds.includes('protest') ? 'protest' : 'clash';
     const rec = info.get(norm(key)) || {}, id = 'news:' + key;

@@ -32,7 +32,7 @@ export const zones = { ready: false, provinces: [], byEvent: new Map() };
 let readyResolve;
 const ready = new Promise((r) => { readyResolve = r; });
 export async function loadZones() {
-  const list = await fetch('data/provinces.json').then((r) => r.json());
+  const list = await fetch(`data/provinces.json${new URL(import.meta.url).search}`).then((r) => r.json());
   zones.provinces = list.map((p) => {
     let bb = [180, 90, -180, -90];
     for (const poly of p.p) { const o = poly[0]; for (let i = 0; i < o.length; i += 2) bb = [Math.min(bb[0], o[i]), Math.min(bb[1], o[i + 1]), Math.max(bb[2], o[i]), Math.max(bb[3], o[i + 1])]; }
