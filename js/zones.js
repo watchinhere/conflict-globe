@@ -1,6 +1,6 @@
 import * as THREE from 'three';
 import { R, D2R, scene, camera, ll2v } from './core.js';
-import { canonCountry } from './data.js';
+import { canonCountry, findCountries } from './data.js';
 
 // 분쟁 지역 채색: 국가 전체가 아니라 해당 주·도(Natural Earth admin-1)만 사선 해칭으로 칠한다
 const ZONES = {
@@ -8,7 +8,6 @@ const ZONES = {
   sudan: ['Sudan', ['kordofan', 'kurdufan']],
   iran: ['Iran', ['tehran']],
   yemen: ['Yemen', ['hudayd', 'hodeid', 'hajjah', 'taizz', "ta'izz"]],
-  myanmar: ['Myanmar', ['sagaing', 'kachin', 'chin', 'magway']],
   drc: ['Democratic Republic of the Congo', ['nord-kivu', 'north kivu', 'sud-kivu', 'south kivu']],
   afpak: [['Afghanistan', ['kunar', 'nangarhar']], ['Pakistan', ['khyber', 'n.w.f.p', 'federally administered']]],
   ethiopia: ['Ethiopia', ['tigray']],
@@ -64,7 +63,11 @@ function provincesFor(ev) {
     for (const [country, pats] of groups) for (const p of zones.provinces) if (p.c === country && pats.some((k) => (k[0] === '=' ? p.f === k.slice(1) : p.f.includes(k))) && !out.includes(p)) out.push(p);
     if (out.length) return out;
   }
-  if (ev.approx) return [];
+  // 정확한 위치가 없는 분쟁은 특정 지역이 아니라 나라 전체의 문제로 보고 국가 전체를 칠한다
+  if (ev.approx || ev.nationwide) {
+    const country = findCountries(ev.regionEn || ev.en || '')[0];
+    return country ? zones.provinces.filter((p) => p.c === country) : [];
+  }
   const p = provinceAt(ev.lat, ev.lon);
   return p ? [p] : [];
 }
@@ -150,7 +153,10 @@ export function updateZones(t, active, selected, alt) {
     z.g.visible = on;
     if (!on) continue;
     const sel = site === selected;
-    z.fill.material.uniforms.uAlpha.value = sel ? 0.3 + 0.08 * Math.sin(t * 2.2) : alt < 0.3 ? 0.12 : 0.2;
-    z.edge.material.opacity = sel ? 0.95 : 0.6;
+    // 멀리서는 깜빡여 눈에 띄게, 가까이서는 지도를 가리지 않도록 잔잔하게
+    const far = THREE.MathUtils.smoothstep(alt, 0.35, 0.9), blink = 0.5 + 0.5 * Math.sin(t * 4 + (site.id.length % 7));
+    const base = sel ? 0.3 + 0.08 * Math.sin(t * 2.2) : alt < 0.3 ? 0.12 : 0.2;
+    z.fill.material.uniforms.uAlpha.value = base * (1 - far) + far * (0.08 + 0.42 * blink);
+    z.edge.material.opacity = (sel ? 0.95 : 0.6) * (1 - far) + far * (0.35 + 0.65 * blink);
   }
 }

@@ -77,7 +77,7 @@ export const EVENTS = [
       { t: 'Yemen’s Houthis claim attacks on Saudi airports, military bases', s: 'The Express Tribune', d: '2026-10', u: 'https://tribune.com.pk/story/2633438/yemens-houthis-claim-attacks-on-saudi-airports-military-bases' },
     ], q: 'Houthi Saudi Yemen', q2: 'Houthi', qko: '후티 사우디 예멘' },
 
-  { id: 'myanmar', cat: 'war', name: '미얀마 내전', en: 'Myanmar Civil War', region: '미얀마 사가잉·라카인·카친·친주', lat: 22.0, lon: 95.8, start: '2021-02-01', level: 'active', intensity: 2, air: true,
+  { id: 'myanmar', cat: 'war', name: '미얀마 내전', en: 'Myanmar Civil War', region: '미얀마 사가잉·라카인·카친·친주', lat: 22.0, lon: 95.8, start: '2021-02-01', level: 'active', intensity: 2, air: true, nationwide: true,
     wiki: ['Myanmar civil war (2021–present)', 'Myanmar civil war', 'Myanmar conflict', 'Arakan Army'],
     summary: '2021년 쿠데타 이후 군정과 저항세력·소수민족 무장단체 사이의 내전입니다. 9월 라카인주에서는 아라칸군(AA)과 군정의 교전이 연일 이어졌고, 카친·친주에서는 군정 공습으로 민간인이 숨졌습니다.',
     points: ['ACLED: 2026년 상반기 집단 살해 10여 건, 민간인 450명 이상 사망', '민 아웅 흘라잉, 야권 배제 선거 뒤 대통령 취임', '1,600만 명 이상 인도적 지원 필요 (유엔, 2026.7)'],
