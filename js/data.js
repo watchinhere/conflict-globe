@@ -1,17 +1,24 @@
 // 큐레이션 데이터: 2026-10-10까지 공개 보도 종합. 실시간 갱신분은 live.js가 덧붙인다.
 export const ASOF = '2026-10-10';
 
+import { isEn } from './i18n.js';
+
 export const CATS = {
-  war:        { ko: '전쟁',          color: '#ff4a4a', group: 'conflict' },
-  clash:      { ko: '국지전',        color: '#ff6b9a', group: 'conflict' },
-  riot:       { ko: '폭동',          color: '#ffbe3d', group: 'unrest' },
-  protest:    { ko: '대규모 시위',   color: '#5aa9ff', group: 'unrest' },
-  oppression: { ko: '소수민족 탄압', color: '#b48cff', group: 'rights' },
+  war:        { ko: '전쟁',          en: 'War',                color: '#ff4a4a', group: 'conflict' },
+  clash:      { ko: '국지전',        en: 'Armed clash',        color: '#ff6b9a', group: 'conflict' },
+  riot:       { ko: '폭동',          en: 'Riot',               color: '#ffbe3d', group: 'unrest' },
+  protest:    { ko: '대규모 시위',   en: 'Mass protest',       color: '#5aa9ff', group: 'unrest' },
+  oppression: { ko: '소수민족 탄압', en: 'Ethnic persecution', color: '#b48cff', group: 'rights' },
 };
-export const GROUPS = { conflict: '전쟁 · 무력 분쟁', unrest: '폭동 · 시위', rights: '인권 · 탄압' };
-export const LEVELS = { escalating: '격화', active: '진행 중', stalemate: '교착', ceasefire: '불안한 휴전' };
+const GROUPS = { conflict: ['전쟁 · 무력 분쟁', 'War · Armed conflict'], unrest: ['폭동 · 시위', 'Riots · Protests'], rights: ['인권 · 탄압', 'Human rights'] };
+const LEVELS = { escalating: ['격화', 'Escalating'], active: ['진행 중', 'Active'], stalemate: ['교착', 'Stalemate'], ceasefire: ['불안한 휴전', 'Fragile ceasefire'] };
+const CAS_LABEL = { killed: ['사망', 'Killed'], injured: ['부상', 'Injured'], displaced: ['피란', 'Displaced'], detained: ['구금 · 연행', 'Detained'], missing: ['실종', 'Missing'] };
+const pickLang = (pair, k) => (pair ? pair[isEn() ? 1 : 0] : k);
+export const catName = (k) => (isEn() ? CATS[k]?.en : CATS[k]?.ko) || k;
+export const groupName = (k) => pickLang(GROUPS[k], k);
+export const levelName = (k) => pickLang(LEVELS[k], k);
+export const casLabel = (k) => pickLang(CAS_LABEL[k], k);
 export const LEVEL_RANK = { escalating: 0, active: 1, stalemate: 2, ceasefire: 3 };
-export const CAS_LABEL = { killed: '사망', injured: '부상', displaced: '피란', detained: '구금 · 연행', missing: '실종' };
 
 const P = {
   war: '<path d="M3.5 15.5h17l-1.6 4h-13.8z"/><path d="M6.5 15.5v-3.2h8.5l2.2 3.2"/><path d="M13 13l7.5-2.8"/>',
@@ -207,6 +214,101 @@ export const EVENTS = [
     ], q: 'Darfur RSF El Fasher', q2: 'Darfur', qko: '다르푸르 엘파셰르' },
 ];
 
+// 큐레이션 사건의 영어판
+const EN = {
+  ukraine: { region: 'Eastern Ukraine (Donetsk, Kharkiv, Zaporizhzhia fronts)',
+    summary: 'Russian forces keep attacking on the Donetsk, Kharkiv and Zaporizhzhia axes, but Ukraine’s commander-in-chief says the pace of the Russian advance more than halved in the first half of 2026. In August Ukrainian troops regained ground toward Kupiansk and Borova. Civilian harm, however, hit its highest level since 2022 in June and July.',
+    points: ['ISW (2 Sep): Putin again ruled out freezing the front line or meaningful peace talks', 'July: 437 civilians killed and 2,610 injured, the most since May 2022 (UN)', 'Russia claims villages on the Kharkiv and Zaporizhzhia axes; not independently verified'],
+    cas: [['16,431+', 'Civilians, cumulative (Feb 2022 – mid-Jul 2026)'], ['48,613+', 'Civilians, cumulative'], ['15,280', 'Civilians killed or injured, Jan–Aug 2026']],
+    src: 'UN Human Rights Office (OHCHR/HRMMU). Military casualties on both sides are undisclosed and estimated in the hundreds of thousands.' },
+  sudan: { region: 'Kordofan, Sudan (around El Obeid)',
+    summary: 'A civil war between the Sudanese Armed Forces (SAF) and the paramilitary Rapid Support Forces (RSF). After the RSF took El Fasher in October 2025, the three Kordofan states became the main battlefield. The RSF counterattacked on several fronts in late August while the army retook key points on the Omdurman–El Obeid export road.',
+    points: ['Army chief al-Burhan vows to defeat the RSF by year-end', 'Fighting continued after the Quad (US, Saudi Arabia, UAE, Egypt) peace plan of February 2026', 'The rainy season through October limits movement'],
+    cas: [['40,000–150,000', 'WHO minimum 40,000; IRC and US envoy estimate up to 150,000'], ['~14 million', '9 million inside Sudan, 4.4 million abroad (Apr 2026)']],
+    src: 'WHO, UN News (Apr 2026), IRC. Restricted access means the real toll may be far higher than official counts.' },
+  iran: { region: 'Iran (Tehran and other cities) · Gulf region',
+    summary: 'Began with US and Israeli strikes on Iran on 28 February 2026. After a conditional ceasefire on 8 April, fighting resumed in July following attacks on shipping in the Strait of Hormuz and a missile strike on a US base in Jordan; strikes were exchanged again on 1–2 September.',
+    points: ['Early October: the Pentagon told CENTCOM to finish preparations to resume major combat operations (Just Security, 8 Oct)', 'No US–Iran talks on ending the war are under way (UK House of Commons Library)', 'The war has spread to the Lebanese, Yemeni and Saudi fronts'],
+    cas: [['3,468', 'Iranian Health Ministry, first 40 days (28 Feb – 8 Apr)'], ['26,500+', 'Same period'], ['3,636–7,650', 'Rights groups’ estimates incl. military (HRANA, Hengaw)']],
+    src: 'Iranian Health Ministry, HRANA, Hengaw. Casualties since the July flare-up are not included; internet blackouts hinder verification.' },
+  yemen: { region: 'Yemen’s Red Sea coast · southern Saudi Arabia',
+    summary: 'Saudi Arabia and allied Yemeni forces launched a major ground and air offensive to retake the Red Sea coast and Bab el-Mandeb area seized by the Houthis a month earlier. On 6–8 October the Houthis struck Riyadh and Abha airports and the Aramco Rabigh refinery with missiles and drones.',
+    points: ['Houthis issued a “final warning” to airlines using Saudi airspace', 'Aden International Airport was also targeted by ballistic missiles and drones'],
+    cas: [['3', 'Saudi airport strikes, 6–7 Oct'], ['36', 'Same attacks (Abha 28, Riyadh 8)'], ['~377,000', 'Whole war incl. indirect deaths (UNDP estimate, 2021)']],
+    src: 'Saudi General Authority of Civil Aviation (October), UNDP.' },
+  myanmar: { region: 'Sagaing, Rakhine, Kachin and Chin, Myanmar',
+    summary: 'A civil war between the junta and resistance forces and ethnic armed groups since the 2021 coup. In September the Arakan Army fought the junta in Rakhine almost daily, and junta airstrikes killed civilians in Kachin and Chin states.',
+    points: ['ACLED: more than a dozen mass killings and 450+ civilian deaths in the first half of 2026', 'Min Aung Hlaing became president after an election that excluded most opposition', '16 million+ people need humanitarian aid (UN, Jul 2026)'],
+    cas: [['~100,000', 'Cumulative since 2021 (Reuters)'], ['~3.8 million', 'Internally displaced (UN, Jul 2026)'], ['982', 'Civilians killed by military airstrikes in 2025 (UN)']],
+    src: 'Reuters, UN OCHA and UN Human Rights Office.' },
+  drc: { region: 'Masisi and Walikale (North Kivu), South Kivu highlands',
+    summary: 'The Rwanda-backed M23 (AFC) coalition is fighting the Congolese army, Burundian troops and Wazalendo militias. Government forces advanced in southern Masisi in mid-September but stalled toward Ngungu around the 25th. The Minembwe highlands in South Kivu are the fiercest front.',
+    points: ['Positions on the RP529 road in Walikale changed hands several times', 'Early-September clashes on the Masisi–Walikale border caused new displacement', 'Some figures are claims by parties to the conflict and unverified'],
+    cas: [['1,500+', 'M23 capture of Uvira (Dec 2025, local authorities)'], ['171 bodies', 'Mass graves near Uvira, Feb 2026'], ['7 million+', 'Displaced across DR Congo, cumulative (UNHCR)']],
+    src: 'Local authorities, AP, UNHCR. There is no official 2026-wide death toll.' },
+  afpak: { region: 'Kunar and Helmand (Afghanistan) · Pakistan’s northwest border',
+    summary: 'After the October 2025 ceasefire collapsed, Pakistan declared “open war” in February 2026. Following a suicide bombing that killed 31 in northwestern Pakistan on 18 September, Pakistan carried out three rounds of airstrikes in Kunar, Helmand and elsewhere in Afghanistan.',
+    points: ['On the 30 Sep strikes Pakistan claimed 22 militants killed; the Taliban said 9 civilians died', 'Airstrikes continued into a third week in early October (FDD Long War Journal)'],
+    cas: [['1,100+', 'Afghan civilians killed or injured in 2026 (UNAMA)'], ['31', '18 Sep suicide bombing, northwestern Pakistan'], ['100+', 'Same attack']],
+    src: 'UNAMA, FDD Long War Journal. Combatant casualty claims from both sides differ sharply.' },
+  ethiopia: { region: 'Tigray, Ethiopia (around Adigrat)',
+    summary: 'On 23 September an Ethiopian rebel coalition (EPFAS) launched a large offensive against the federal army (ENDF) in Tigray. Eritrean troops were reported inside Ethiopia, and Addis Ababa was hit by drone attacks on 1 October.',
+    points: ['8–9 Oct: the army carried out drone strikes on Eritrean forces near Adigrat', 'Current information relies mostly on Wikipedia summaries and needs cross-checking'],
+    cas: [], src: 'No reliable casualty count yet. See the auto tally and latest reports below.' },
+  sahel: { region: 'Central Mali (Ségou, Mopti, Sévaré)',
+    summary: 'In April the al-Qaeda-linked JNIM and the Tuareg separatist FLA staged nationwide attacks that killed Mali’s defence minister. The 10 September assault on the Dioura base is believed to have killed more than 100 soldiers, and a checkpoint outside Bamako and a drone hangar at Sévaré were hit on 18–20 September.',
+    points: ['JNIM released videos of captured Malian soldiers', 'Fears the offensive will extend into Burkina Faso'],
+    cas: [['50–130', 'Malian soldiers killed at Dioura, 10 Sep (reports vary)'], ['93', 'Prisoners claimed by JNIM']],
+    src: 'AFP and Reuters security sources; JNIM claims (unverified).' },
+  gaza: { region: 'Gaza Strip, Palestine',
+    summary: 'A ceasefire took effect on 10 October 2025, but Israeli airstrikes, shelling, drone attacks and ground operations never stopped. More than 1,300 people have been killed since the truce, and each side accuses the other of violations.',
+    points: ['WHO: only 19 of 36 hospitals partly functioning, none fully', 'About two-thirds of Gaza is inaccessible or severely restricted (UN)'],
+    cas: [['73,922', 'Cumulative since 7 Oct 2023 (as of 23 Sep)'], ['174,995', 'Same period'], ['1,326', 'Since the 10 Oct 2025 ceasefire (as of 1 Sep)']],
+    src: 'Gaza Health Ministry (cited by the UN). Israel disputes the figures.' },
+  lebanon: { region: 'Southern Lebanon · northern Israel',
+    summary: 'Began days after the Iran war started, when Hezbollah fired rockets into northern Israel. Temporary ceasefires followed on 16 April and, with US and Qatari mediation, on 19 June, but Israel says there will be no full ceasefire until Hezbollah disarms.',
+    points: ['First direct Israel–Lebanon talks since 1993'],
+    cas: [['4,000+', 'Deaths in Lebanon from Israeli strikes'], ['1 million+', 'Displaced inside Lebanon']],
+    src: 'Lebanese health authorities (Wikipedia tally).' },
+  haiti: { region: 'Port-au-Prince and the Cul-de-Sac plain, Haiti',
+    summary: 'Gangs control about 90% of Port-au-Prince. On 23 August a church sheltering displaced people in Kenscoff was attacked; more than 40 were killed and over 50 kidnapped.',
+    points: ['The international stabilisation force has about 1,500 personnel against a target of 5,500', 'General elections planned for December'],
+    cas: [['3,050', 'Jan–Jun 2026 (Q1 1,642 + Q2 1,408)'], ['656', 'Q2 2026'], ['~1.5 million', 'Internally displaced']],
+    src: 'UN Integrated Office in Haiti (BINUH); UN High Commissioner (2 Oct: 5,700+ casualties in 2026).' },
+  belgium: { region: 'Brussels and Liège, Belgium',
+    summary: 'A national strike rally of about 30,000 against the government’s €10 billion austerity plan was held in Brussels on 9 October, and groups of masked youths clashed with police near the central station. Police used water cannon and tear gas.',
+    points: ['In Liège student protests turned into riots, prompting a ban on gatherings', 'Unions say the violent groups were unrelated to the main rally'],
+    cas: [['0', 'No deaths reported'], ['Dozens of police', 'Liège clashes'], ['220+', 'About 20 in Brussels plus 200+ in Liège']],
+    src: 'Euronews, DW, The Belgian Times.' },
+  delhi: { region: 'New Delhi, India',
+    summary: 'After the Gen Z-led Cockroach Janta Party called for protests against Chief Election Commissioner Gyanesh Kumar and a march on Parliament, authorities locked down New Delhi and detained thousands of demonstrators, including opposition leaders such as Arvind Kejriwal.',
+    points: ['Stones were thrown after barricades fell near Akashvani Bhawan', 'The UN voiced concern over mass detentions of protesters, activists, lawyers and journalists'],
+    cas: [['0', 'No deaths reported'], ['2 police', 'Stone-throwing (10 Oct)'], ['7,000+', 'Detained on 10 Oct (authorities)']],
+    src: 'Outlook India, BBC, The Guardian.' },
+  uyghur: { region: 'Xinjiang Uyghur Autonomous Region, China',
+    summary: 'International criticism continues that the Chinese government controls Uyghurs and other Muslim minorities through mass detention, surveillance and forced labour. China says it closed most camps in 2019; the US State Department says many remain imprisoned.',
+    points: ['January 2026: China rejected UN experts’ concerns about forced labour in Xinjiang', 'Rights groups urged governments to step up their response (HRW, January 2026)'],
+    cas: [['Up to 1 million+', 'Estimated detained in camps, 2017–2019 (reports cited by UN CERD)']],
+    src: 'UN CERD (2018), US State Department human rights reports. China calls the facilities vocational training centres.' },
+  rohingya: { region: 'Northern Rakhine, Myanmar · Bangladesh border',
+    summary: 'As the Myanmar army and the Arakan Army fight in Rakhine, reports say Rohingya civilians face extrajudicial killings, abductions and indiscriminate shelling from both sides.',
+    points: ['The US State Department called the treatment of the Rohingya “ethnic cleansing” in 2023', 'The UN warned of a repeat of the 2017 atrocities'],
+    cas: [['6,700+', 'First month of the August 2017 crackdown (MSF estimate)'], ['~1 million', 'Refugee camps in Cox’s Bazar, Bangladesh']],
+    src: 'Médecins Sans Frontières (MSF), UNHCR.' },
+  darfur: { region: 'North Darfur, Sudan (El Fasher)',
+    summary: 'After the RSF took El Fasher in October 2025 following a long siege, mass killings targeting non-Arab residents were reported. Following the 2023 Masalit massacres in El Geneina, the international community is warning of genocide risk.',
+    points: ['Global Centre for R2P: risk of atrocities against Darfur’s population at its highest level', 'Mass displacement and blocked humanitarian access since El Fasher fell'],
+    cas: [['10,000–15,000', 'Masalit massacres in El Geneina, 2023 (UN Panel of Experts)'], ['1,500+', 'Immediately after El Fasher fell, Oct 2025 (Sudan Doctors Network claim)']],
+    src: 'UN Panel of Experts on Sudan, Sudan Doctors Network.' },
+};
+for (const ev of EVENTS) {
+  const e = EN[ev.id];
+  ev.nameEn = ev.en;
+  if (!e) continue;
+  Object.assign(ev, { regionEn: e.region, summaryEn: e.summary, pointsEn: e.points });
+  if (ev.cas) { ev.cas.srcEn = e.src; ev.cas.items.forEach((it, i) => { if (e.cas[i]) [it.vEn, it.dEn] = e.cas[i]; }); }
+}
+
 // 국가 중심 좌표 [위도, 경도, 한국어명]
 export const COUNTRIES = {
   'Afghanistan': [33.9, 67.7, '아프가니스탄'], 'Albania': [41.15, 20.17, '알바니아'], 'Algeria': [28.0, 1.66, '알제리'], 'Angola': [-11.2, 17.87, '앙골라'],
@@ -287,3 +389,4 @@ export function findCountries(text) {
   return out;
 }
 export const countryKo = (n) => COUNTRIES[canonCountry(n)]?.[2] || n;
+export const countryName = (n) => (isEn() ? canonCountry(n) || n : countryKo(n));

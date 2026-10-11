@@ -1,6 +1,7 @@
 import * as THREE from 'three';
 import { R, D2R, R2D, scene, camera, ll2v, view } from './core.js';
 import { countryKo } from './data.js';
+import { t, isEn } from './i18n.js';
 
 // Natural Earth 1:50m 국경·도시(한국어 이름)와 역지오코딩
 export const geo = { ready: false, countries: [], cities: [] };
@@ -32,6 +33,8 @@ const mkLabel = (cls, text) => {
   return el;
 };
 
+let markReady;
+export const geoReady = new Promise((r) => { markReady = r; });
 export async function loadGeo() {
   const [countries, cities, admin1] = await Promise.all(['countries', 'cities', 'admin1'].map((n) => fetch(`data/${n}.json`).then((r) => r.json())));
   const rings = [];
@@ -40,16 +43,17 @@ export async function loadGeo() {
     for (const poly of c.p) { rings.push(...poly); const o = poly[0]; for (let i = 0; i < o.length; i += 2) { bb = [Math.min(bb[0], o[i]), Math.min(bb[1], o[i + 1]), Math.max(bb[2], o[i]), Math.max(bb[3], o[i + 1])]; } }
     const short = countryKo(c.en);
     const ko = short !== c.en ? short : c.ko;
-    return { ...c, ko, bb, n: ll2v(c.ly, c.lx).normalize(), el: mkLabel(`glab country r${Math.min(c.r, 6)}`, ko), w: 0 };
+    return { ...c, ko, bb, n: ll2v(c.ly, c.lx).normalize(), el: mkLabel(`glab country r${Math.min(c.r, 6)}`, isEn() ? c.en : ko), w: 0 };
   });
   const border = new THREE.LineSegments(lines(rings, R + 0.00025, true), mats.border);
   const adm = new THREE.LineSegments(lines(admin1, R + 0.0002, false), mats.admin);
   border.renderOrder = adm.renderOrder = 1;
   scene.add(border, adm);
   geo.border = border; geo.admin = adm;
-  geo.cities = cities.map(([ko, en, lat, lon, sr, pop, cap]) => ({ ko, en, lat, lon, sr, pop, cap, n: ll2v(lat, lon).normalize(), el: mkLabel(`glab city${cap === 2 ? ' cap' : ''}`, ko), w: 0 }))
+  geo.cities = cities.map(([ko, en, lat, lon, sr, pop, cap]) => ({ ko, en, lat, lon, sr, pop, cap, n: ll2v(lat, lon).normalize(), el: mkLabel(`glab city${cap === 2 ? ' cap' : ''}`, isEn() ? en : ko), w: 0 }))
     .sort((a, b) => a.sr - b.sr || b.pop - a.pop);
   geo.ready = true;
+  markReady();
 }
 
 /* ---------- reverse geocoding ---------- */
@@ -68,7 +72,11 @@ export function countryAt(lat, lon) {
   }
   return null;
 }
-const DIR8 = ['북', '북동', '동', '남동', '남', '남서', '서', '북서'];
+const DIR8 = { ko: ['북', '북동', '동', '남동', '남', '남서', '서', '북서'], en: ['N', 'NE', 'E', 'SE', 'S', 'SW', 'W', 'NW'] };
+export function relabelGeo() {
+  for (const c of geo.countries) { c.el.textContent = isEn() ? c.en : c.ko; c.w = 0; }
+  for (const c of geo.cities) { c.el.textContent = isEn() ? c.en : c.ko; c.w = 0; }
+}
 function distKm(la1, lo1, la2, lo2) {
   const a = Math.sin((la2 - la1) * D2R / 2) ** 2 + Math.cos(la1 * D2R) * Math.cos(la2 * D2R) * Math.sin((lo2 - lo1) * D2R / 2) ** 2;
   return 12742 * Math.asin(Math.sqrt(a));
@@ -80,15 +88,16 @@ export function locate(lat, lon) {
   for (const p of geo.cities) { const d = distKm(lat, lon, p.lat, p.lon); if (d < bd) { bd = d; best = p; } }
   let near = '';
   if (best && bd < 400) {
-    if (bd < 12) near = `${best.ko}`;
+    const cityName = isEn() ? best.en : best.ko;
+    if (bd < 12) near = cityName;
     else {
       const y = Math.sin((lon - best.lon) * D2R) * Math.cos(lat * D2R);
       const x = Math.cos(best.lat * D2R) * Math.sin(lat * D2R) - Math.sin(best.lat * D2R) * Math.cos(lat * D2R) * Math.cos((lon - best.lon) * D2R);
       const brg = (Math.atan2(y, x) * R2D + 360) % 360;
-      near = `${best.ko} ${DIR8[Math.round(brg / 45) % 8]}쪽 ${Math.round(bd)}km`;
+      near = t('near', { city: cityName, dir: DIR8[isEn() ? 'en' : 'ko'][Math.round(brg / 45) % 8], km: Math.round(bd) });
     }
   }
-  return { country: c ? c.ko : '해상', near, city: best, km: bd };
+  return { country: c ? (isEn() ? c.en : c.ko) : t('atSea'), near, city: best, km: bd };
 }
 export const coordText = (lat, lon) => `${Math.abs(lat).toFixed(2)}°${lat >= 0 ? 'N' : 'S'} ${Math.abs(lon).toFixed(2)}°${lon >= 0 ? 'E' : 'W'}`;
 

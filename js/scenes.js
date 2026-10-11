@@ -5,6 +5,19 @@ import {
   instanced, setInst, paint, placeStatic, makeTank, makeHeli, makeJet, facadeMat, flash,
 } from './fx.js';
 
+// 분쟁 규모 1–5: 연간 전투 사망(위키백과 집계) → 누적 사망 → 구금 규모 → 강도 순으로 판단
+const numOf = (s) => { const m = String(s || '').replace(/,/g, '').match(/\d+/); return m ? +m[0] : 0; };
+export function scaleOf(ev) {
+  if (ev.tier) return { major: 5, minor: 4, conflict: 2, skirmish: 1 }[ev.tier] || 2;
+  const yearly = ev.wikiRow ? numOf(ev.wikiRow.f26) || numOf(ev.wikiRow.f25) : 0;
+  let k = yearly >= 10000 ? 5 : yearly >= 3000 ? 4 : yearly >= 1000 ? 3 : yearly >= 100 ? 2 : yearly ? 1 : 0;
+  const killed = ev.cas?.killedNum || 0;
+  k = Math.max(k, killed >= 50000 ? 5 : killed >= 10000 ? 4 : killed >= 1000 ? 3 : killed >= 100 ? 2 : 1);
+  const detained = numOf(ev.cas?.items?.find((i) => i.k === 'detained')?.v);
+  if (detained) k = Math.max(k, detained >= 5000 ? 4 : detained >= 500 ? 3 : 2);
+  if (ev.auto === 'news') k = Math.min(k, 2);
+  return Math.max(1, Math.min(5, Math.max(k, ev.intensity || 1)));
+}
 export const nightOf = (site) => 1 - THREE.MathUtils.smoothstep(site.normal.dot(sunDir), -0.08, 0.12);
 const _v = new THREE.Vector3();
 
@@ -15,7 +28,7 @@ function pulse(site, r = 1, period = 2.8, color = site.color) {
   site.on((t) => {
     const k = ((t + ph) % period) / period;
     m.scale.set(r * 2 * (0.2 + k), 1, r * 2 * (0.2 + k));
-    m.material.opacity = (1 - k) * 0.75 * site.hl * view.ring;
+    m.material.opacity = site.hl > 1 ? (1 - k) * 0.55 * view.ring : 0;
   });
 }
 function shadowCatcher(site, size = 2.4) {
@@ -75,9 +88,9 @@ function streetWithLamps(site, len, wid) {
 export function BEACON(site) {
   const ev = site.ev;
   const col = site.color, r = 1;
-  const g = decal(site, TX.glow, r, col, 0.22, true, 0.002, { conform: false });
-  site.on(() => { g.material.opacity = 0.22 * site.hl * view.ring; });
-  pulse(site, r * 1.15, 2.8, col);
+  const g = decal(site, TX.glow, r * 0.45, col, 0.16, true, 0.002, { conform: false });
+  site.on(() => { g.material.opacity = (site.hl > 1 ? 0.3 : 0.14) * view.ring; });
+  pulse(site, r * 0.9, 3.2, col);
   site.g = site.bfx;
   if (ev.cat === 'war' || ev.cat === 'clash') {
     const gl = new Glows(site, 8, site.bfx);
@@ -238,16 +251,17 @@ function buildBattle(site, cfg) {
    폭동 · 시위
    ========================================================================= */
 function buildRiot(site) {
+  const NC = [0, 60, 90, 130, 180, 240][scaleOf(site.ev)], NP = Math.round(NC / 6) * 2;
   shadowCatcher(site, 1.8);
   streetWithLamps(site, 1.5, 0.44);
   townBlocks(site, 18, (i) => [-0.68 + (i % 9) * 0.16 + rnd() * 0.03, (i < 9 ? 1 : -1) * (0.3 + rnd() * 0.08)], 0.04, 0.1, 0.1);
-  const crowd = instanced(site, GEO.person, 130), people = [];
-  for (let i = 0; i < 130; i++) {
+  const crowd = instanced(site, GEO.person, NC), people = [];
+  for (let i = 0; i < NC; i++) {
     paint(crowd, i, pick(['#2a2a30', '#43434b', '#5f2a2a', '#22304a', '#555', '#1a1a1a', '#6d5a3a']));
     people.push({ x: -0.55 + rnd() * 0.47, z: (rnd() - 0.5) * 0.36, ph: rnd() * 10, cx: 0, cz: 0 });
   }
-  const pol = instanced(site, GEO.police, 22), cops = [];
-  for (let i = 0; i < 22; i++) { paint(pol, i, '#1b2433'); cops.push({ x: 0.1 + (i % 2) * 0.03, z: -0.19 + (Math.floor(i / 2) / 10) * 0.38 }); }
+  const pol = instanced(site, GEO.police, NP), cops = [];
+  for (let i = 0; i < NP; i++) { paint(pol, i, '#1b2433'); cops.push({ x: 0.1 + (i % 2) * 0.03, z: -0.19 + (Math.floor(i / 2) / Math.max(1, NP / 2 - 1)) * 0.38 }); }
   const vans = instanced(site, GEO.truck, 2);
   placeStatic(site, vans, [{ x: 0.33, z: 0.09, ry: Math.PI, sx: 1.3 }, { x: 0.36, z: -0.1, ry: Math.PI, sx: 1.3 }]);
   paint(vans, 0, '#d9dde4'); paint(vans, 1, '#d9dde4');
@@ -297,7 +311,7 @@ function buildProtest(site) {
   shadowCatcher(site, 1.9);
   streetWithLamps(site, 1.7, 0.36);
   townBlocks(site, 24, (i) => [-0.8 + (i % 12) * 0.14 + rnd() * 0.02, (i < 12 ? 1 : -1) * (0.26 + rnd() * 0.1)], 0.05, 0.14, 0);
-  const N = 320, crowd = instanced(site, GEO.person, N), people = [];
+  const N = [0, 90, 160, 240, 340, 460][scaleOf(site.ev)], crowd = instanced(site, GEO.person, N), people = [];
   const cloth = ['#e63946', '#f1faee', '#a8dadc', '#457b9d', '#1d3557', '#f4a261', '#2a9d8f', '#e9c46a', '#264653', '#ffffff', '#ff7aa2'];
   for (let i = 0; i < N; i++) { paint(crowd, i, pick(cloth)); people.push({ x: -0.8 + rnd() * 1.6, z: (rnd() - 0.5) * 0.3, ph: rnd() * 10 }); }
   const NS = 80, signs = instanced(site, GEO.sign, NS);
@@ -413,9 +427,9 @@ function buildVillage(site) {
 }
 
 export const BUILD = {
-  war: (s) => buildBattle(s, { tanks: s.ev.intensity >= 3 ? 3 : 2, soldiers: 12 + (s.ev.intensity || 2) * 3, artillery: 0.35 + (s.ev.intensity || 2) * 0.25,
-    heli: (s.ev.intensity || 2) >= 2 ? 1 + ((s.ev.intensity || 2) >= 3 ? 1 : 0) : 0, jet: !!s.ev.air }),
-  clash: (s) => buildBattle(s, { tanks: (s.ev.intensity || 1) >= 2 ? 1 : 0, soldiers: 9, town: 26, urban: true, burning: 4, artillery: 0.35, pool: 5, jet: !!s.ev.air }),
+  war: (s) => { const k = scaleOf(s.ev); buildBattle(s, { tanks: [0, 1, 2, 3, 4, 6][k], soldiers: [0, 8, 12, 18, 26, 36][k], artillery: [0, 0.15, 0.3, 0.5, 0.8, 1.2][k], burning: [0, 1, 2, 3, 4, 6][k], pool: 4 + k, town: 10 + k * 2,
+    heli: [0, 0, 0, 1, 2, 3][k], jet: !!s.ev.air && k >= 3 }); },
+  clash: (s) => { const k = scaleOf(s.ev); buildBattle(s, { tanks: [0, 0, 0, 1, 1, 2][k], soldiers: [0, 6, 9, 12, 16, 20][k], town: 26, urban: true, burning: [0, 1, 2, 3, 4, 5][k], artillery: [0, 0.1, 0.2, 0.35, 0.5, 0.7][k], pool: 3 + k, jet: !!s.ev.air && k >= 3 }); },
   riot: buildRiot,
   protest: buildProtest,
   oppression: (s) => (s.ev.variant === 'camp' ? buildCamp(s) : buildVillage(s)),

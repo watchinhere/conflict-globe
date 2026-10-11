@@ -8,11 +8,13 @@ import { renderFilters, renderList, renderFeeds, active, closePanel } from './ui
 import { startLive } from './live.js';
 import { loadGeo, placeGeoLabels, locate, coordText } from './geo.js';
 import { updateTiles } from './tiles.js';
+import { loadZones, syncZones, updateZones } from './zones.js';
+import { t as tr } from './i18n.js';
 
 const $ = (id) => document.getElementById(id);
-manager.onProgress = (_u, done, total) => { $('loadMsg').textContent = `위성 영상을 불러오는 중 (${done}/${total})`; };
+manager.onProgress = (_u, done, total) => { $('loadMsg').textContent = tr('loadingN', { done, total }); };
 manager.onLoad = () => $('loader').classList.add('done');
-manager.onError = () => { $('loadMsg').className = 'err'; $('loadMsg').textContent = '위성 텍스처를 불러오지 못했습니다. 인터넷 연결을 확인한 뒤 새로고침하세요.'; };
+manager.onError = () => { $('loadMsg').className = 'err'; $('loadMsg').textContent = tr('loadErr'); };
 
 /* ---------- camera ---------- */
 const Y = new THREE.Vector3(0, 1, 0);
@@ -96,7 +98,7 @@ canvas.addEventListener('pointerup', (e) => {
   const s = pickAt(e.clientX, e.clientY);
   if (s) app.select(s, true);
 });
-let pointer = null, locAt = 0;
+let pointer = null, locAt = 0, zoneAt = 0;
 const ray = new THREE.Raycaster(), ndc = new THREE.Vector2();
 canvas.addEventListener('pointerleave', () => { pointer = null; });
 function hitGlobe(x, y) {
@@ -169,7 +171,7 @@ function frame() {
   updateTiles(now);
   updatePatch(now, alt, viewCenter());
   if (patchMesh.visible) { patch.fade = Math.min(1, patch.fade + dt * 2.5); patchMesh.material.uniforms.uFade.value = patch.fade; }
-  attrib.textContent = patch.active ? '위성사진·지명 © Esri, Maxar, Earthstar Geographics · 고도 Mapzen Terrarium · 야간 NASA GIBS · 국경 Natural Earth' : '위성사진 © Esri, Maxar, Earthstar Geographics · 야간 NASA Black Marble · 국경·지명 Natural Earth · 데이터: 위키백과, GDELT';
+  attrib.textContent = tr(patch.active ? 'attribPatch' : 'attribBase');
 
   // 폭발 섬광 감쇠, 지속 조명은 사이트가 매 프레임 다시 켠다
   for (let i = 0; i < 2; i++) {
@@ -232,6 +234,8 @@ function frame() {
     s.tag.style.transform = `translate(${s.sx.toFixed(1)}px,${s.sy.toFixed(1)}px) translate(-50%,-140%)`;
   }
   placeGeoLabels(boxes, W, H);
+  updateZones(t, active, app.selected, alt);
+  if (now - zoneAt > 2000) { zoneAt = now; syncZones(sites); }
   if (now - locAt > 150) { locAt = now; updateLoc(); }
   composer.render();
   requestAnimationFrame(frame);
@@ -245,3 +249,4 @@ requestAnimationFrame(frame);
 setInterval(updateSun, 10000);
 startLive();
 loadGeo().then(() => app.refreshUI()).catch((e) => console.warn('geo data', e));
+loadZones().then(() => syncZones(sites)).then(() => app.refreshUI()).catch((e) => console.warn('zones', e));

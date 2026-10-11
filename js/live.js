@@ -1,11 +1,13 @@
-import { EVENTS, COUNTRIES, findCountries, countryKo } from './data.js';
-import { sites, upsert, removeWhere } from './sites.js';
+import { EVENTS, COUNTRIES, findCountries, countryKo, canonCountry } from './data.js';
+import { countryAt, geoReady } from './geo.js';
+import { sites, upsert, removeWhere, getSite } from './sites.js';
 import { app } from './core.js';
+import { t } from './i18n.js';
 
 export const feeds = {
-  wiki: { name: '위키백과 · 진행 중인 무력 분쟁 목록', every: 60, ok: null, at: 0, n: 0 },
-  news: { name: '위키백과 · 오늘의 사건 (최근 7일)', every: 30, ok: null, at: 0, n: 0 },
-  gdelt: { name: 'GDELT · 사건별 실시간 기사', every: 0, ok: null, at: 0, n: 0 },
+  wiki: { key: 'feedWiki', every: 60, ok: null, at: 0, n: 0 },
+  news: { key: 'feedNews', every: 30, ok: null, at: 0, n: 0 },
+  gdelt: { key: 'feedGdelt', every: 0, ok: null, at: 0, n: 0 },
 };
 
 /* ---------- helpers ---------- */
@@ -77,9 +79,11 @@ async function fetchInfo(titles) {
     for (const t of chunk) if (!info.has(norm(t))) info.set(norm(t), { title: t });
   }
 }
+// 영어 요약은 모든 문서, 한국어 요약은 한국어 문서가 있을 때만
 async function fetchExtracts(recs) {
-  for (const [lang, list] of [['ko', recs.filter((r) => r.ko && r.extract === undefined)], ['en', null]]) {
-    const todo = list || recs.filter((r) => !r.extract && r.extractTried !== true);
+  for (const lang of ['en', 'ko']) {
+    const field = lang === 'en' ? 'extractEn' : 'extractKo';
+    const todo = recs.filter((r) => r[field] === undefined && (lang === 'en' || r.ko));
     for (let i = 0; i < todo.length; i += 20) {
       const chunk = todo.slice(i, i + 20), titles = chunk.map((r) => (lang === 'ko' ? r.ko : r.title));
       try {
@@ -87,17 +91,19 @@ async function fetchExtracts(recs) {
         const m = resolveMap(j.query, titles);
         for (const p of j.query.pages || []) for (const t of m.get(p.title) || []) {
           const r = chunk[titles.indexOf(t)];
-          if (r && p.extract) { r.extract = p.extract.replace(/\s+/g, ' ').trim(); r.extractLang = lang; }
+          if (r && p.extract) r[field] = p.extract.replace(/\s+/g, ' ').trim();
         }
       } catch (e) { console.warn('extract', e); }
-      for (const r of chunk) { if (lang === 'en') r.extractTried = true; else if (r.extract === undefined) r.extract = null; }
+      for (const r of chunk) if (r[field] === undefined) r[field] = null;
     }
   }
 }
 
 /* ---------- 1) 진행 중인 무력 분쟁 목록 ---------- */
+// "(Thai: …; Malay: …)" 같은 언어 병기 괄호는 번역을 망가뜨리므로 제거
+const stripGloss = (s) => s.replace(/\s*\((?:[^()]*?(?:[A-Z][a-z]+|[가-힣]+어)\s*:)[^()]*\)/g, '').replace(/\s{2,}/g, ' ').trim();
 const TIERS = ['major', 'minor', 'conflict', 'skirmish'];
-export const TIER_KO = { major: '대규모 전쟁 (연간 전투 사망 1만 명 이상)', minor: '소규모 전쟁 (연간 1,000–9,999명)', conflict: '분쟁 (연간 100–999명)', skirmish: '충돌·교전 (연간 100명 미만)' };
+export const tierLabel = (tier) => t({ major: 'tierMajor', minor: 'tierMinor', conflict: 'tierConflict', skirmish: 'tierSkirmish' }[tier] || '');
 async function loadWiki() {
   const doc = await parsePage('List_of_ongoing_armed_conflicts');
   const tables = [...doc.querySelectorAll('table.wikitable')].slice(0, 4);
@@ -114,7 +120,7 @@ async function loadWiki() {
         countries: findCountries(clean(c[3])), cum: clean(c[4]), f25: clean(c[5]), f26: clean(c[6]) });
     }
   });
-  if (!rows.length) throw new Error('표 구조를 읽지 못함');
+  if (!rows.length) throw new Error('table parse error');
   const consumed = new Set();
   for (const ev of EVENTS) {
     let best = null, bi = 1e9;
@@ -127,29 +133,67 @@ async function loadWiki() {
     ev.wikiRow = best;
   }
   const auto = rows.filter((r) => !consumed.has(r));
-  await fetchInfo(auto.map((r) => r.main));
+  await fetchInfo(auto.flatMap((r) => r.links.slice(0, 6)));
   await fetchExtracts([...new Set(auto.map((r) => info.get(norm(r.main))).filter(Boolean))]);
   const ids = new Set();
   for (const row of auto) {
     const rec = info.get(norm(row.main)) || {};
-    let lat = rec.lat, lon = rec.lon;
-    if (lat == null && row.countries[0]) [lat, lon] = COUNTRIES[row.countries[0]];
+    const withCoord = row.links.slice(0, 6).map((l) => info.get(norm(l))).find((r) => r?.lat != null);
+    let lat = withCoord?.lat, lon = withCoord?.lon, approx = false;
+    if (lat == null && refined.has('wiki:' + row.main)) [lat, lon] = refined.get('wiki:' + row.main);
+    if (lat == null && row.countries[0]) { [lat, lon] = COUNTRIES[row.countries[0]]; approx = true; }
     if (lat == null) continue;
     const id = 'wiki:' + row.main;
     [lat, lon] = nudge(lat, lon, id);
     ids.add(id);
     upsert({
-      id, auto: 'wiki', cat: row.tier === 'major' || row.tier === 'minor' ? 'war' : 'clash', name: rec.ko || row.name, en: row.main,
-      region: row.countries.map(countryKo).join(' · ') || '—', lat, lon, start: row.start, level: 'active',
+      id, auto: 'wiki', cat: row.tier === 'major' || row.tier === 'minor' ? 'war' : 'clash', name: row.name, nameEn: row.name, nameKo: rec.ko || undefined, en: row.main,
+      region: row.countries.map(countryKo).join(' · ') || '—', regionEn: row.countries.join(' · ') || '—', lat, lon, approx, start: row.start, level: 'active', tier: row.tier,
       intensity: { major: 3, minor: 2, conflict: 1, skirmish: 1 }[row.tier], size: { major: 0.85, minor: 0.7, conflict: 0.55, skirmish: 0.45 }[row.tier], minor: row.tier === 'skirmish',
-      summary: rec.extract || `${TIER_KO[row.tier]}으로 분류된 분쟁입니다.`, summaryLang: rec.extract ? rec.extractLang : 'ko',
+      summary: stripGloss(rec.extractEn || ''), summaryKo: rec.extractKo ? stripGloss(rec.extractKo) : undefined,
       wiki: row.links.slice(0, 8), wikiRow: row, points: [],
-      articles: [{ t: `${row.main} — Wikipedia`, s: 'Wikipedia (영문)', d: '갱신 중', u: wikiUrl(row.main) }, ...(rec.ko ? [{ t: `${rec.ko} — 위키백과`, s: '위키백과 (한국어)', d: '', u: wikiUrl(rec.ko, 'ko') }] : [])],
+      articles: [{ t: `${row.main} — Wikipedia`, s: 'Wikipedia (EN)', d: '', u: wikiUrl(row.main) }, ...(rec.ko ? [{ t: `${rec.ko} — 위키백과`, s: 'Wikipedia (KO)', d: '', u: wikiUrl(rec.ko, 'ko') }] : [])],
       q: row.main.replace(/\(.*?\)/g, '').trim(), q2: row.countries[0] || row.main.split(' ')[0], qko: rec.ko || row.name,
     });
   }
   removeWhere((s) => s.ev.auto === 'wiki' && !ids.has(s.id));
+  refineLocations(auto.filter((r) => sites.some((s) => s.id === 'wiki:' + r.main && s.ev.approx)));
   return rows.length;
+}
+
+// 좌표 없는 분쟁: 문서 첫 문단에 링크된 지명 중 해당 국가 안에 있는 첫 장소로 위치를 보정
+const leadCache = new Map(), refined = new Map();
+async function leadLinks(title) {
+  if (leadCache.has(title)) return leadCache.get(title);
+  let out = [];
+  try {
+    const j = await wjson({ action: 'parse', page: title, prop: 'text', section: 0, redirects: 1 });
+    const doc = new DOMParser().parseFromString(j.parse?.text || '', 'text/html');
+    out = [...doc.querySelectorAll('p a[href^="/wiki/"]')].map(titleOf)
+      .filter((x) => x && !x.includes(':') && !canonCountry(x) && !/^\d/.test(x)).slice(0, 40);
+  } catch { /* 무시 */ }
+  leadCache.set(title, out);
+  return out;
+}
+async function refineLocations(rows) {
+  if (!rows.length) return;
+  await Promise.race([geoReady, sleep(20000)]);
+  const lists = [];
+  for (let i = 0; i < rows.length; i += 6) lists.push(...await Promise.all(rows.slice(i, i + 6).map((r) => leadLinks(r.main))));
+  await fetchInfo(lists.flat());
+  let moved = 0;
+  rows.forEach((row, i) => {
+    const placed = lists[i].map((l) => info.get(norm(l))).filter((r) => r?.lat != null).map((r) => ({ r, c: canonCountry(countryAt(r.lat, r.lon)?.en || '') }));
+    const hit = row.countries.map((cn) => placed.find((p) => p.c === cn)).find(Boolean);
+    if (hit) {
+      const r = hit.r;
+      const id = 'wiki:' + row.main, [lat, lon] = nudge(r.lat, r.lon, id);
+      refined.set(id, [lat, lon]);
+      if (getSite(id)) upsert({ id, lat, lon, approx: false });
+      moved++;
+    }
+  });
+  if (moved) app.refreshUI?.();
 }
 
 /* ---------- 2) 오늘의 사건 (최근 7일) ---------- */
@@ -220,7 +264,7 @@ async function loadNews() {
       else if (el.tagName === 'UL') for (const li of el.children) walk(li, [], section, date, items);
     }
   }
-  if (!items.length) throw new Error('오늘의 사건을 읽지 못함');
+  if (!items.length) throw new Error('current events parse error');
   for (const s of sites) s.ev.news = [];
   const groups = new Map();
   for (const it of items) {
@@ -257,10 +301,11 @@ async function loadNews() {
     [lat, lon] = nudge(lat, lon, id);
     ids.add(id);
     upsert({
-      id, auto: 'news', cat, name: rec.ko || key, en: key, region: countries.map(countryKo).join(' · ') || '—', lat, lon,
+      id, auto: 'news', cat, name: key, nameEn: key, nameKo: rec.ko || undefined, en: key,
+      region: countries.map(countryKo).join(' · ') || '—', regionEn: countries.join(' · ') || '—', lat, lon,
       start: list[list.length - 1].date, level: 'active', intensity: 1, size: 0.45, minor: true,
-      summary: list[0].text, summaryLang: 'en', points: [], wiki: [key], news: list,
-      articles: list.flatMap((i) => i.sources.slice(0, 2).map((s) => ({ t: `${s.t} 보도 (${i.date})`, s: s.t, d: i.date, u: s.u }))).slice(0, 6),
+      summary: list[0].text, points: [], wiki: [key], news: list,
+      articles: list.flatMap((i) => i.sources.slice(0, 2).map((s) => ({ t: `${s.t} · ${i.date}`, s: s.t, d: i.date, u: s.u }))).slice(0, 6),
       q: key.replace(/\(.*?\)/g, '').trim(), q2: countries[0] || key.split(' ')[0], qko: rec.ko || key,
     });
   }

@@ -3,6 +3,7 @@ import { R, ll2v, v2ll, app, scene } from './core.js';
 import { CATS } from './data.js';
 import { terrain, heightAt, heightUnits } from './terrain.js';
 import { BUILD, BEACON } from './scenes.js';
+import { tx } from './i18n.js';
 
 export const sites = [];
 const byId = new Map();
@@ -48,7 +49,7 @@ export class Site {
     const ev = this.ev;
     this.tag.className = 'tag' + (ev.minor ? ' small' : '') + (ev.auto ? ' auto' : '');
     this.tag.style.setProperty('--c', this.color);
-    this.tag.textContent = ev.short || ev.name;
+    this.tag.textContent = tx(ev, 'name');
     this.tagW = 0;
   }
   on(fn) { (this.g === this.detail && this.detail ? this.fns : this.bfns).push(fn); }
@@ -130,7 +131,7 @@ export function upsert(ev) {
   const s = byId.get(ev.id);
   if (!s) { const n = new Site(ev); sites.push(n); byId.set(ev.id, n); return n; }
   const moved = Math.abs(ev.lat - s.ev.lat) + Math.abs(ev.lon - s.ev.lon) > 0.15;
-  Object.assign(s.ev, ev);
+  for (const [k, v] of Object.entries(ev)) if (v !== undefined) s.ev[k] = v;
   if (moved) s.place(ev.lat, ev.lon);
   s.refreshTag();
   return s;

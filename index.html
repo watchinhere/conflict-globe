@@ -17,7 +17,7 @@
 </script>
 </head>
 <body>
-<canvas id="globe" aria-label="3D 지구본: 드래그로 회전, 스크롤로 확대, 표시 지점 클릭 시 상세 정보"></canvas>
+<canvas id="globe" data-i18n-aria="canvas" aria-label="3D 지구본: 드래그로 회전, 스크롤로 확대, 표시 지점 클릭 시 상세 정보"></canvas>
 <div id="geolabels"></div>
 <div id="labels"></div>
 <div class="hud" aria-hidden="true">
@@ -25,21 +25,22 @@
   <div class="reticle"><i></i></div>
 </div>
 
-<div class="banner"><span>OSINT</span> 공개 출처 정보 · GDELT · Esri · Natural Earth 실시간 집계 <span>OPEN SOURCE</span></div>
+<div class="banner"><span>OSINT</span> <em data-i18n="banner">공개 출처 정보 · GDELT · Esri · Natural Earth 실시간 집계</em> <span>OPEN SOURCE</span></div>
 
 <header class="top">
   <div class="brand">
     <p class="sys mono">GCM-01 // GLOBAL CONFLICT MONITOR</p>
-    <h1>분쟁 관측 지구본</h1>
+    <h1 data-i18n="title">분쟁 관측 지구본</h1>
     <p id="subline" class="mono">INITIALIZING…</p>
   </div>
   <div class="console">
+    <div class="langSw mono" id="langSw" role="group" aria-label="Language"><button type="button" data-lang="ko">한국어</button><button type="button" data-lang="en">English</button></div>
     <div class="clock mono"><span class="lk">UTC</span><b id="utc">--</b><span class="lk">KST</span><b id="kst">--</b></div>
     <button type="button" class="feedBtn mono" id="feedBtn" aria-expanded="false" aria-controls="feedPop"><span class="sq" id="feedDot"></span><span id="feedSum">LINK …</span></button>
     <div class="feedPop pnl" id="feedPop" hidden>
       <h4 class="mono">DATA LINKS</h4>
       <ul id="feedList"></ul>
-      <p>모든 데이터는 브라우저가 각 기관 공개 API에서 직접 받아옵니다.</p>
+      <p data-i18n="feedNote">모든 데이터는 브라우저가 각 기관 공개 API에서 직접 받아옵니다.</p>
     </div>
   </div>
 </header>
@@ -47,18 +48,18 @@
 <aside class="rail" id="rail">
   <button class="railToggle mono" id="railToggle" type="button">사건 목록 펼치기</button>
   <div class="pnl filters">
-    <div class="pnl-h mono"><span>FILTER</span><span>유형</span></div>
+    <div class="pnl-h mono"><span>FILTER</span><span data-i18n="type">유형</span></div>
     <div id="filters" role="group" aria-label="사건 유형 필터"></div>
   </div>
   <div class="pnl listCard">
     <div class="pnl-h mono"><span>TARGET LIST</span><span id="listCount">—</span></div>
     <div class="tools">
       <label class="search"><span class="mono">QRY</span>
-        <input id="search" type="search" placeholder="사건 · 국가 검색" autocomplete="off"></label>
+        <input id="search" type="search" data-i18n-ph="search" placeholder="사건 · 국가 검색" autocomplete="off"></label>
       <select id="sort" aria-label="정렬" class="mono">
-        <option value="severity">SEV 심각도</option>
-        <option value="casualties">KIA 사망자</option>
-        <option value="recent">NEW 최근</option>
+        <option value="severity" data-i18n="sortSev">SEV 심각도</option>
+        <option value="casualties" data-i18n="sortKia">KIA 사망자</option>
+        <option value="recent" data-i18n="sortNew">NEW 최근</option>
       </select>
     </div>
     <div class="list" id="list"></div>
@@ -66,18 +67,18 @@
 </aside>
 
 <section class="pnl panel" id="panel" hidden aria-live="polite"></section>
-<button class="globeBtn mono" id="globeBtn" type="button" hidden><span>◎</span> GLOBAL VIEW · 전체 보기</button>
+<button class="globeBtn mono" id="globeBtn" type="button" hidden data-i18n="globe">◎ GLOBAL VIEW · 전체 보기</button>
 
 <footer class="bottom">
-  <div class="hint mono">DRAG 회전 · SCROLL 확대 · CLICK 상세 · ESC 전체</div>
+  <div class="hint mono" data-i18n="hint">DRAG 회전 · SCROLL 확대 · CLICK 상세 · ESC 전체</div>
   <div class="loc" id="loc" hidden></div>
   <div class="attrib" id="attrib"></div>
 </footer>
 
-<div id="loader"><div class="box"><p class="mono boot">GCM-01 // ESTABLISHING SATELLITE LINK</p><div class="bar"><i></i></div><p id="loadMsg" class="mono">위성 영상을 불러오는 중</p></div></div>
+<div id="loader"><div class="box"><p class="mono boot">GCM-01 // ESTABLISHING SATELLITE LINK</p><div class="bar"><i></i></div><p id="loadMsg" class="mono" data-i18n="loading">위성 영상을 불러오는 중</p></div></div>
 <script>
   if (location.protocol === 'file:') {
-    document.getElementById('loadMsg').innerHTML = '이 앱은 로컬 서버에서 실행해야 합니다.<br>같은 폴더의 <b>실행.bat</b>을 더블클릭하세요.';
+    document.getElementById('loadMsg').innerHTML = '이 앱은 로컬 서버에서 실행해야 합니다. 같은 폴더의 <b>실행.bat</b>을 더블클릭하세요.<br>This app must run from a local server. Double-click <b>실행.bat</b> in the same folder.';
     document.querySelector('#loader .bar').style.display = 'none';
   }
 </script>
