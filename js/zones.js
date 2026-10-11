@@ -20,6 +20,14 @@ const ZONES = {
   uyghur: ['China', ['xinjiang']],
   rohingya: ['Myanmar', ['rakhine', 'arakan']],
   darfur: ['Sudan', ['darfur']],
+  somalia: ['Somalia', ['banaadir', 'shabeellaha', 'shabeelle', 'bay', 'gedo', 'hiiraan', 'jubbada', 'galguduud']],
+  nigeria: [['Nigeria', ['borno', 'yobe', 'adamawa']], ['Chad', ['lac']], ['Niger', ['diffa']]],
+  burkina: ['Burkina Faso', ['soum', 'oudalan', 'seno', 'yagha', 'gnagna', 'komondjari', 'tapoa', 'loroum', 'sanmatenga', 'bam', 'kompienga', 'gourma']],
+  syria: ['Syria', ['aleppo', 'latakia', 'tartus', 'as suwayda', 'sweida', 'dayr', 'deir']],
+  westbank: ['Palestine', ['west bank', 'jenin', 'tulkarm', 'nablus', 'hebron', 'ramallah']],
+  mexico: ['Mexico', ['sinaloa', 'jalisco', 'guerrero', 'michoac']],
+  colombia: ['Colombia', ['norte de santander', 'cauca']],
+  mozambique: ['Mozambique', ['cabo delgado']],
 };
 const fold = (s) => String(s || '').toLowerCase().normalize('NFKD').replace(/[̀-ͯ]/g, '');
 

@@ -214,6 +214,36 @@ export const EVENTS = [
     ], q: 'Darfur RSF El Fasher', q2: 'Darfur', qko: '다르푸르 엘파셰르' },
 ];
 
+// 추가 수록: 상세 수치는 실시간 위키백과 집계(자동)로 표시
+const W = (t) => ({ t: `${t} — Wikipedia`, s: 'Wikipedia', d: '갱신 중', u: `https://en.wikipedia.org/wiki/${encodeURIComponent(t.replace(/ /g, '_'))}` });
+const NOCAS = { items: [], killedNum: 0, src: '사상자는 아래 위키백과 실시간 집계를 참고하세요.' };
+EVENTS.push(
+  { id: 'somalia', cat: 'war', name: '소말리아 내전 (알샤바브)', en: 'Somali Civil War', region: '소말리아 중남부', lat: 2.05, lon: 45.32, start: '2009', level: 'active', intensity: 2, air: true,
+    wiki: ['Somali Civil War (2009–present)', 'Somali Civil War', 'Al-Shabaab insurgency'], summary: '알카에다 연계 무장단체 알샤바브가 중남부 농촌을 장악한 채 소말리아 정부군·아프리카연합 지원군과 싸우고 있습니다. 수도 모가디슈에서도 폭탄 테러가 반복됩니다.',
+    points: ['미군의 대알샤바브·IS 소말리아 공습이 이어지고 있음', '가뭄과 겹쳐 대규모 인도적 위기'], cas: NOCAS, articles: [W('Somali Civil War (2009–present)')], q: 'Somalia al-Shabaab', q2: 'Somalia', qko: '소말리아 알샤바브' },
+  { id: 'nigeria', cat: 'war', name: '나이지리아 북동부 지하디스트 분쟁', en: 'Boko Haram & ISWAP insurgency', region: '나이지리아 보르노 · 차드호 유역', lat: 11.85, lon: 13.16, start: '2009-07', level: 'active', intensity: 2,
+    wiki: ['Communal conflicts in Nigeria', 'Boko Haram insurgency', 'Islamic State – West Africa Province'], summary: '보코하람과 IS 서아프리카주(ISWAP)가 나이지리아 북동부와 차드호 주변국에서 군기지·마을을 공격하고 있습니다. 북서부에서는 무장 강도단의 대규모 납치도 이어집니다.',
+    points: ['차드·니제르·카메룬 국경 지대까지 확산', '수백만 명이 장기 피란 중'], cas: NOCAS, articles: [W('Boko Haram insurgency')], q: 'Nigeria Boko Haram ISWAP', q2: 'Borno', qko: '나이지리아 보코하람' },
+  { id: 'burkina', cat: 'war', name: '부르키나파소 지하디스트 분쟁', en: 'Jihadist insurgency in Burkina Faso', region: '부르키나파소 북부 · 동부', lat: 13.1, lon: -0.7, start: '2015', level: 'escalating', intensity: 2,
+    wiki: ['Jihadist insurgency in Burkina Faso'], summary: 'JNIM과 IS 사헬주가 국토 상당 부분을 위협하며 군정과 싸우고 있습니다. 민간인 학살과 봉쇄된 도시의 식량난이 보고되고 있습니다.',
+    points: ['JNIM이 말리에 이어 부르키나파소에서도 공세 강화', '군정은 민병대(VDP)를 대규모 동원'], cas: NOCAS, articles: [W('Jihadist insurgency in Burkina Faso')], q: 'Burkina Faso JNIM', q2: 'Burkina Faso', qko: '부르키나파소 무장단체' },
+  { id: 'syria', cat: 'clash', name: '시리아 분쟁 (아사드 정권 붕괴 이후)', en: 'Post-Assad Syrian conflict', region: '시리아 북부 · 해안 · 남부', lat: 36.2, lon: 37.15, start: '2024-12-08', level: 'active', intensity: 2, size: 0.75, air: true,
+    wiki: ['Aftermath of the Syrian civil war', 'Syrian civil war', 'Aleppo clashes (2025–2026)'], summary: '2024년 12월 아사드 정권 붕괴 후 과도정부와 쿠르드 주도 SDF, 드루즈·알라위 공동체, 잔존 무장세력 사이의 충돌이 이어지고 있습니다. 이스라엘의 남부 공습도 계속됩니다.',
+    points: ['알레포 등 북부에서 정부군과 SDF 간 교전 보도', '종파 간 보복 폭력 우려'], cas: NOCAS, articles: [W('Aftermath of the Syrian civil war')], q: 'Syria clashes', q2: 'Syria', qko: '시리아 충돌' },
+  { id: 'westbank', cat: 'clash', name: '요르단강 서안 충돌', en: 'West Bank violence', region: '팔레스타인 요르단강 서안', lat: 32.22, lon: 35.25, start: '2023-10-07', level: 'escalating', intensity: 1, size: 0.55,
+    wiki: ['Israeli settler violence', 'Israeli incursions in the West Bank during the Gaza war', 'West Bank'], summary: '이스라엘군의 대규모 군사작전과 정착민 폭력이 이어지며 팔레스타인 주민 사상과 강제 이주가 늘고 있습니다.',
+    points: ['제닌·툴카렘 난민촌 일대 군사작전', '정착민의 마을 습격 증가'], cas: NOCAS, articles: [W('Israeli settler violence')], q: 'West Bank settlers raid', q2: 'West Bank', qko: '요르단강 서안' },
+  { id: 'mexico', cat: 'clash', name: '멕시코 카르텔 전쟁', en: 'Mexican drug war', region: '멕시코 시날로아 · 할리스코 · 게레로', lat: 24.8, lon: -107.39, start: '2006-12-11', level: 'active', intensity: 2, size: 0.7,
+    wiki: ['Mexican drug war', 'Sinaloa Cartel'], summary: '시날로아 카르텔 내부 분열 이후 쿨리아칸 일대에서 파벌 간 전쟁이 격해졌고, 정부군과 카르텔의 교전도 이어지고 있습니다.',
+    points: ['시날로아 카르텔 파벌 간 내전', '실종자 10만 명 이상 (멕시코 정부 등록 기준)'], cas: NOCAS, articles: [W('Mexican drug war')], q: 'Sinaloa cartel violence', q2: 'Mexico cartel', qko: '멕시코 카르텔' },
+  { id: 'colombia', cat: 'clash', name: '콜롬비아 무장 분쟁', en: 'Colombian conflict', region: '콜롬비아 카타툼보 · 카우카', lat: 8.3, lon: -73.1, start: '1964-05-27', level: 'active', intensity: 2, size: 0.65,
+    wiki: ['Colombian conflict', 'Catatumbo campaign'], summary: '민족해방군(ELN)과 옛 FARC 이탈 세력, 마약 조직이 카타툼보·카우카 등지에서 영역 다툼을 벌이고 있습니다.',
+    points: ['카타툼보 교전으로 대규모 피란', '평화협상은 사실상 중단'], cas: NOCAS, articles: [W('Colombian conflict')], q: 'Colombia ELN Catatumbo', q2: 'Colombia', qko: '콜롬비아 무장단체' },
+  { id: 'mozambique', cat: 'clash', name: '모잠비크 카보델가두 반란', en: 'Insurgency in Cabo Delgado', region: '모잠비크 카보델가두주', lat: -12.3, lon: 40.2, start: '2017-10-05', level: 'active', intensity: 1, size: 0.6,
+    wiki: ['Insurgency in Cabo Delgado'], summary: 'IS 연계 무장단체가 북부 카보델가두주의 마을과 도로를 공격하고 있으며, 르완다군이 정부군을 지원하고 있습니다.',
+    points: ['천연가스 개발 지역 인근 공격 반복', '민간인 참수·납치 보고'], cas: NOCAS, articles: [W('Insurgency in Cabo Delgado')], q: 'Cabo Delgado insurgents', q2: 'Mozambique', qko: '모잠비크 카보델가두' },
+);
+
 // 큐레이션 사건의 영어판
 const EN = {
   ukraine: { region: 'Eastern Ukraine (Donetsk, Kharkiv, Zaporizhzhia fronts)',
@@ -300,6 +330,14 @@ const EN = {
     points: ['Global Centre for R2P: risk of atrocities against Darfur’s population at its highest level', 'Mass displacement and blocked humanitarian access since El Fasher fell'],
     cas: [['10,000–15,000', 'Masalit massacres in El Geneina, 2023 (UN Panel of Experts)'], ['1,500+', 'Immediately after El Fasher fell, Oct 2025 (Sudan Doctors Network claim)']],
     src: 'UN Panel of Experts on Sudan, Sudan Doctors Network.' },
+  somalia: { region: 'South-central Somalia', summary: 'Al-Qaeda-linked al-Shabaab holds much of the rural south-centre and fights Somali government forces backed by African Union troops. Bombings recur in Mogadishu.', points: ['US airstrikes on al-Shabaab and IS-Somalia continue', 'Overlapping drought has created a major humanitarian crisis'], cas: [], src: 'See the live Wikipedia tally below.' },
+  nigeria: { region: 'Borno, Nigeria · Lake Chad basin', summary: 'Boko Haram and Islamic State West Africa Province (ISWAP) attack military bases and villages in northeastern Nigeria and around Lake Chad. In the northwest, armed bandits carry out mass kidnappings.', points: ['Violence spills into Chad, Niger and Cameroon', 'Millions remain displaced long-term'], cas: [], src: 'See the live Wikipedia tally below.' },
+  burkina: { region: 'Northern and eastern Burkina Faso', summary: 'JNIM and Islamic State Sahel Province threaten large parts of the country and fight the military junta. Massacres of civilians and food shortages in blockaded towns are reported.', points: ['JNIM has stepped up offensives in Burkina Faso as well as Mali', 'The junta has mobilised volunteer militias (VDP) on a large scale'], cas: [], src: 'See the live Wikipedia tally below.' },
+  syria: { region: 'Northern, coastal and southern Syria', summary: 'Since Assad fell in December 2024, clashes have continued between the transitional government, the Kurdish-led SDF, Druze and Alawite communities and remaining armed groups. Israeli strikes in the south also continue.', points: ['Fighting between government forces and the SDF reported around Aleppo', 'Concerns over sectarian reprisals'], cas: [], src: 'See the live Wikipedia tally below.' },
+  westbank: { region: 'West Bank, Palestine', summary: 'Large Israeli military operations and settler violence continue, increasing Palestinian casualties and forced displacement.', points: ['Operations around Jenin and Tulkarm refugee camps', 'Rising settler attacks on villages'], cas: [], src: 'See the live Wikipedia tally below.' },
+  mexico: { region: 'Sinaloa, Jalisco and Guerrero, Mexico', summary: 'After the Sinaloa Cartel split, factional war intensified around Culiacán, and clashes between security forces and cartels continue.', points: ['Civil war between Sinaloa Cartel factions', 'More than 100,000 people registered as missing (Mexican government registry)'], cas: [], src: 'See the live Wikipedia tally below.' },
+  colombia: { region: 'Catatumbo and Cauca, Colombia', summary: 'The ELN, FARC dissident factions and drug-trafficking groups are fighting over territory in Catatumbo, Cauca and elsewhere.', points: ['Fighting in Catatumbo caused mass displacement', 'Peace talks are effectively stalled'], cas: [], src: 'See the live Wikipedia tally below.' },
+  mozambique: { region: 'Cabo Delgado, Mozambique', summary: 'IS-linked militants attack villages and roads in northern Cabo Delgado; Rwandan troops support government forces.', points: ['Repeated attacks near natural-gas projects', 'Beheadings and abductions of civilians reported'], cas: [], src: 'See the live Wikipedia tally below.' },
 };
 for (const ev of EVENTS) {
   const e = EN[ev.id];
