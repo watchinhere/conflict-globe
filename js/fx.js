@@ -27,16 +27,6 @@ function blob(g, x, y, r, c0, c1) {
   gr.addColorStop(0, c0); gr.addColorStop(1, c1);
   g.fillStyle = gr; g.beginPath(); g.arc(x, y, r, 0, 7); g.fill();
 }
-function crackLines(g, s, n, w, color) {
-  g.strokeStyle = color; g.lineCap = 'round';
-  for (let i = 0; i < n; i++) {
-    let x = rnd() * s, y = rnd() * s, a = rnd() * 7;
-    g.lineWidth = w * (0.5 + rnd());
-    g.beginPath(); g.moveTo(x, y);
-    for (let k = 0; k < 14; k++) { a += (rnd() - 0.5) * 1.3; x += Math.cos(a) * s * 0.03; y += Math.sin(a) * s * 0.03; g.lineTo(x, y); }
-    g.stroke();
-  }
-}
 export const TX = {
   soft: canvasTex(64, (g, s) => {
     const gr = g.createRadialGradient(s / 2, s / 2, 0, s / 2, s / 2, s / 2);
@@ -70,36 +60,6 @@ export const TX = {
     for (let i = 0; i < 260; i++) { const [x, y] = discPt(s * 0.43); blob(g, s / 2 + x, s / 2 + y, s * (0.01 + rnd() * 0.05), 'rgba(30,24,18,.28)', 'rgba(30,24,18,0)'); }
     for (let i = 0; i < 80; i++) { const [x, y] = discPt(s * 0.4); blob(g, s / 2 + x, s / 2 + y, s * (0.006 + rnd() * 0.02), 'rgba(10,8,6,.8)', 'rgba(24,19,14,0)'); }
   }),
-  burn: canvasTex(512, (g, s) => {
-    for (let i = 0; i < 340; i++) { const [x, y] = discPt(s * 0.36); blob(g, s / 2 + x, s / 2 + y, s * (0.02 + rnd() * 0.06), 'rgba(14,10,8,.45)', 'rgba(14,10,8,0)'); }
-    for (let i = 0; i < 900; i++) {
-      const [x, y] = discPt(s * 0.34);
-      g.fillStyle = `rgba(255,${(90 + rnd() * 90) | 0},20,${0.25 + rnd() * 0.6})`;
-      g.fillRect(s / 2 + x, s / 2 + y, 1 + rnd() * 2, 1 + rnd() * 2);
-    }
-  }),
-  crack: canvasTex(512, (g, s) => {
-    const gr = g.createRadialGradient(s / 2, s / 2, 0, s / 2, s / 2, s / 2);
-    gr.addColorStop(0, 'rgba(70,58,44,.55)'); gr.addColorStop(1, 'rgba(70,58,44,0)');
-    g.fillStyle = gr; g.fillRect(0, 0, s, s);
-    g.save(); g.beginPath(); g.arc(s / 2, s / 2, s * 0.46, 0, 7); g.clip();
-    crackLines(g, s, 40, 2.4, 'rgba(18,12,8,.85)');
-    g.restore();
-  }),
-  dry: canvasTex(512, (g, s) => {
-    const gr = g.createRadialGradient(s / 2, s / 2, 0, s / 2, s / 2, s / 2);
-    gr.addColorStop(0, 'rgba(196,160,104,.85)'); gr.addColorStop(0.7, 'rgba(176,140,90,.6)'); gr.addColorStop(1, 'rgba(176,140,90,0)');
-    g.fillStyle = gr; g.fillRect(0, 0, s, s);
-    g.save(); g.beginPath(); g.arc(s / 2, s / 2, s * 0.45, 0, 7); g.clip();
-    for (let y = 0; y < s; y += 22) for (let x = 0; x < s; x += 22) {
-      g.strokeStyle = 'rgba(70,48,24,.75)'; g.lineWidth = 1.6;
-      g.beginPath(); g.moveTo(x + rnd() * 6, y + rnd() * 6); g.lineTo(x + 22 + rnd() * 6, y + rnd() * 6); g.lineTo(x + 22 + rnd() * 6, y + 22 + rnd() * 6); g.stroke();
-    }
-    g.restore();
-  }),
-  mud: canvasTex(512, (g, s) => {
-    for (let i = 0; i < 300; i++) { const x = s * (0.3 + rnd() * 0.4) + (rnd() - 0.5) * s * 0.2, y = s * (0.05 + rnd() * 0.9); blob(g, x + (y / s - 0.5) * s * 0.15, y, s * (0.03 + rnd() * 0.06), 'rgba(92,66,40,.4)', 'rgba(92,66,40,0)'); }
-  }),
   camoGreen: camo('#4f5a38', ['#3c4529', '#66704a', '#2d331f']),
   camoSand: camo('#8b7d5c', ['#a2916a', '#6f6247', '#b8a77e']),
   facade: canvasTex(128, (g, s) => {
@@ -116,24 +76,6 @@ export const TX = {
       if (rnd() < 0.42) { g.fillStyle = pick(['#ffd28a', '#ffe6b0', '#fff1d6', '#9fd0ff']); g.fillRect(8 + x * 30, 6 + y * 20, 18, 12); }
     }
   }),
-  rock: canvasTex(256, (g, s) => {
-    g.fillStyle = '#3b3530'; g.fillRect(0, 0, s, s);
-    for (let i = 0; i < 1600; i++) { const v = (40 + rnd() * 50) | 0; g.fillStyle = `rgba(${v + 10},${v},${v - 6},.5)`; g.fillRect(rnd() * s, rnd() * s, 2 + rnd() * 5, 2 + rnd() * 5); }
-  }, { wrap: true }),
-  lava: canvasTex(256, (g, s) => {
-    g.fillStyle = '#000'; g.fillRect(0, 0, s, s);
-    for (let i = 0; i < 9; i++) {
-      let x = rnd() * s, y = 0; const len = s * (0.25 + rnd() * 0.45);
-      g.lineCap = 'round';
-      while (y < len) {
-        const nx = x + (rnd() - 0.5) * 10, ny = y + 6;
-        g.strokeStyle = `rgba(255,${(80 + rnd() * 90) | 0},20,${1 - y / len})`; g.lineWidth = 3 + rnd() * 4 * (1 - y / len);
-        g.beginPath(); g.moveTo(x, y); g.lineTo(nx, ny); g.stroke(); x = nx; y = ny;
-      }
-    }
-    const gr = g.createLinearGradient(0, 0, 0, s * 0.1); gr.addColorStop(0, 'rgba(255,160,40,1)'); gr.addColorStop(1, 'rgba(255,90,20,0)');
-    g.fillStyle = gr; g.fillRect(0, 0, s, s * 0.1);
-  }, { wrap: true }),
 };
 function camo(base, cols) {
   return canvasTex(256, (g, s) => {
@@ -427,13 +369,7 @@ export function groundMesh(site, w, d, material, off = 0.0012) {
   GEO.leg = new THREE.BoxGeometry(0.0034, 0.0115, 0.0034).translate(0, -0.0057, 0);
   GEO.police = mergeGeometries([body(), head(), helmet(), legsStatic(), new THREE.BoxGeometry(0.003, 0.024, 0.016).translate(0.008, 0.015, 0)]);
   GEO.sign = mergeGeometries([new THREE.BoxGeometry(0.0015, 0.03, 0.0015).translate(0.004, 0.04, 0), new THREE.BoxGeometry(0.002, 0.015, 0.024).translate(0.004, 0.057, 0)]);
-  GEO.tree = mergeGeometries([new THREE.ConeGeometry(0.012, 0.028, 7).translate(0, 0.022, 0), new THREE.ConeGeometry(0.009, 0.022, 7).translate(0, 0.036, 0),
-    new THREE.CylinderGeometry(0.0016, 0.002, 0.01, 5).translate(0, 0.005, 0)]);
-  GEO.deadTree = mergeGeometries([new THREE.CylinderGeometry(0.001, 0.0022, 0.03, 5).translate(0, 0.015, 0),
-    new THREE.CylinderGeometry(0.0006, 0.001, 0.014, 4).rotateZ(0.8).translate(0.004, 0.024, 0), new THREE.CylinderGeometry(0.0006, 0.001, 0.012, 4).rotateZ(-0.9).translate(-0.004, 0.02, 0)]);
   GEO.hut = mergeGeometries([new THREE.CylinderGeometry(0.011, 0.011, 0.012, 8).translate(0, 0.006, 0), new THREE.ConeGeometry(0.016, 0.014, 8).translate(0, 0.019, 0)]);
-  GEO.house = mergeGeometries([new THREE.BoxGeometry(0.03, 0.016, 0.022).translate(0, 0.008, 0),
-    new THREE.CylinderGeometry(0.0001, 0.019, 0.012, 4, 1).rotateY(Math.PI / 4).scale(1.1, 1, 0.82).translate(0, 0.022, 0)]);
   GEO.box = new THREE.BoxGeometry(1, 1, 1).translate(0, 0.5, 0);
   GEO.boulder = new THREE.IcosahedronGeometry(0.008, 0);
   GEO.car = mergeGeometries([new THREE.BoxGeometry(0.042, 0.011, 0.02).translate(0, 0.0075, 0), new THREE.BoxGeometry(0.022, 0.009, 0.018).translate(-0.002, 0.0175, 0)]);

@@ -1,12 +1,13 @@
 import { app } from './core.js';
-import { CATS, GROUPS, SUBTYPES, LEVELS, LEVEL_RANK, CAS_LABEL, ASOF, iconFor } from './data.js';
+import { CATS, GROUPS, LEVELS, LEVEL_RANK, CAS_LABEL, ASOF, iconFor } from './data.js';
+import { locate } from './geo.js';
 import { sites } from './sites.js';
 import { feeds, loadGdelt, TIER_KO, firstNum, norm } from './live.js';
 
 const $ = (id) => document.getElementById(id);
 export const active = new Set(Object.keys(CATS));
 const store = { get(k, d) { try { return JSON.parse(localStorage.getItem('cg.' + k)) ?? d; } catch { return d; } }, set(k, v) { try { localStorage.setItem('cg.' + k, JSON.stringify(v)); } catch { /* 저장 불가 환경 */ } } };
-const ui = { q: '', sort: store.get('sort', 'severity'), collapsed: new Set(store.get('collapsed', [])), fireAll: false };
+const ui = { q: '', sort: store.get('sort', 'severity'), collapsed: new Set(store.get('collapsed', [])) };
 
 export const esc = (s) => String(s ?? '').replace(/[&<>"']/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]));
 const fmtDate = (s) => {
@@ -62,16 +63,16 @@ $('filters').addEventListener('click', (e) => {
 });
 
 /* ---------- list ---------- */
-const GROUP_ORDER = ['conflict', 'unrest', 'rights', 'disaster', 'fire'];
+const GROUP_ORDER = ['conflict', 'unrest', 'rights'];
 const sorters = {
   severity: (a, b) => (LEVEL_RANK[a.ev.level] ?? 9) - (LEVEL_RANK[b.ev.level] ?? 9) || (!!a.ev.auto - !!b.ev.auto) || (b.ev.intensity || 0) - (a.ev.intensity || 0) || (casOf(b.ev)?.num || 0) - (casOf(a.ev)?.num || 0),
   recent: (a, b) => (Date.parse(b.ev.start) || 0) - (Date.parse(a.ev.start) || 0),
   casualties: (a, b) => (casOf(b.ev)?.num || 0) - (casOf(a.ev)?.num || 0),
 };
 function itemHTML(s) {
-  const ev = s.ev, cas = casOf(ev), lv = ev.level, meter = ev.cat === 'disaster' ? ({ red: 3, orange: 2, yellow: 1 }[lv] || 0) : (ev.intensity || 1);
+  const ev = s.ev, cas = casOf(ev), lv = ev.level, meter = ev.intensity || 1;
   return `<button type="button" class="item${s === app.selected ? ' sel' : ''}" data-id="${esc(ev.id)}" style="--c:${s.color}">
-    <span class="ico">${iconFor(ev.cat, ev.sub)}</span>
+    <span class="ico">${iconFor(ev.cat)}</span>
     <span class="body">
       <span class="r1"><b>${esc(ev.name)}</b>${ev.auto ? '<i class="src" title="실시간 자동 수집">AUTO</i>' : ''}</span>
       <span class="r2">${esc(ev.region)}</span>
@@ -87,11 +88,9 @@ export function renderList() {
     let list = pool.filter((s) => CATS[s.cat].group === g).sort(sorters[ui.sort]);
     if (!list.length) return '';
     const total = list.length, open = !ui.collapsed.has(g) || !!q;
-    let more = '';
-    if (g === 'fire' && !q && !ui.fireAll && list.length > 12) { list = list.slice(0, 12); more = `<button type="button" class="more-btn" data-more="fire">산불 ${total - 12}건 더 보기</button>`; }
     return `<section class="grp${open ? '' : ' shut'}" data-g="${g}">
       <button type="button" class="grp-h" data-g="${g}" aria-expanded="${open}"><span>${GROUPS[g]}</span><span class="n">${total}</span><svg viewBox="0 0 24 24" class="chev"><path d="M6 9l6 6 6-6"/></svg></button>
-      <div class="grp-b">${list.map(itemHTML).join('')}${more}</div>
+      <div class="grp-b">${list.map(itemHTML).join('')}</div>
     </section>`;
   }).join('');
   $('list').innerHTML = html || '<p class="empty">조건에 맞는 사건이 없습니다. 위의 유형 필터나 검색어를 확인하세요.</p>';
@@ -99,7 +98,6 @@ export function renderList() {
 $('list').addEventListener('click', (e) => {
   const h = e.target.closest('.grp-h');
   if (h) { const g = h.dataset.g; ui.collapsed.has(g) ? ui.collapsed.delete(g) : ui.collapsed.add(g); store.set('collapsed', [...ui.collapsed]); renderList(); return; }
-  if (e.target.closest('[data-more]')) { ui.fireAll = true; renderList(); return; }
   const b = e.target.closest('.item'); if (!b) return;
   const s = sites.find((x) => x.ev.id === b.dataset.id); if (s) select(s, true);
 });
@@ -137,28 +135,20 @@ function casSection(ev) {
 }
 function factsFor(ev) {
   const f = [['지역', esc(ev.region)]];
-  if (ev.cat === 'wildfire') {
-    f.push(['최초 관측', `${fmtDate(ev.start)} <small>${since(ev.start)}</small>`], ['최근 갱신', `${fmtDate(ev.last)} <small>${(ev.last || '').slice(11, 16)} UTC</small>`]);
-    f.push(['연소 면적', ev.acres ? `${Math.round(ev.acres).toLocaleString('ko-KR')} 에이커 <small>≈ ${(ev.acres * 0.004047).toFixed(1)} km²</small>` : '보고 없음']);
-  } else if (ev.cat === 'disaster') {
-    f.push(['발생', `${fmtDate(ev.start)} <small>${since(ev.start)}</small>`]);
-    if (ev.sub === 'quake') f.push(['규모 · 깊이', `M${ev.mag?.toFixed(1)} <small>깊이 ${Math.round(ev.depth || 0)}km</small>`]);
-    if (ev.sub === 'cyclone' && ev.wind) f.push(['최대 풍속', `${Math.round(ev.wind)}kt <small>≈ ${Math.round(ev.wind * 1.852)} km/h</small>`]);
-  } else {
-    f.push(['진행 시기', `${fmtDate(ev.start)} – 현재 <small>${since(ev.start)}</small>`]);
-  }
+  const loc = locate(ev.lat, ev.lon);
+  if (loc) f.push(['국가 · 도시', `${esc(loc.country)}${loc.near ? ` <small>${esc(loc.near)}</small>` : ''}`]);
+  f.push(['진행 시기', `${fmtDate(ev.start)} – 현재 <small>${since(ev.start)}</small>`]);
   f.push(['좌표', `<span class="mono">${coord(ev.lat, ev.lon)}</span>`]);
   return f;
 }
 export function renderPanel(site) {
   const ev = site.ev, c = CATS[ev.cat], panel = $('panel');
   const news = (ev.news || []).slice().sort((a, b) => b.date.localeCompare(a.date)).slice(0, 8);
-  const sub = ev.cat === 'disaster' && ev.sub ? ` · ${SUBTYPES[ev.sub]}` : '';
-  const srcLabel = { wiki: '위키백과 분쟁 목록에서 자동 추가', news: '위키백과 오늘의 사건에서 자동 추가', usgs: 'USGS 실시간', eonet: 'NASA EONET 실시간', gdacs: 'GDACS 실시간', fires: 'NASA EONET 실시간' }[ev.auto];
+  const srcLabel = { wiki: '위키백과 분쟁 목록에서 자동 추가', news: '위키백과 오늘의 사건에서 자동 추가' }[ev.auto];
   panel.style.setProperty('--c', site.color);
   panel.innerHTML = `
     <div class="p-hero">
-      <div class="p-top"><span class="badge">${iconFor(ev.cat, ev.sub)}${c.ko}${sub}</span>${srcLabel ? `<span class="src-chip">${srcLabel}</span>` : `<span class="src-chip">${ASOF.replace(/-/g, '.')} 큐레이션 + 자동 갱신</span>`}
+      <div class="p-top"><span class="badge">${iconFor(ev.cat)}${c.ko}</span>${srcLabel ? `<span class="src-chip">${srcLabel}</span>` : `<span class="src-chip">${ASOF.replace(/-/g, '.')} 큐레이션 + 자동 갱신</span>`}
         <button type="button" class="close" id="pClose" aria-label="닫기"><svg viewBox="0 0 24 24"><path d="M6 6l12 12M18 6L6 18"/></svg></button></div>
       <h2>${esc(ev.name)}</h2>
       <p class="en">${esc(ev.en)}</p>
@@ -171,13 +161,14 @@ export function renderPanel(site) {
       ${ev.points?.length ? `<ul class="pts">${ev.points.map((p) => `<li>${esc(p)}</li>`).join('')}</ul>` : ''}</section>
     ${news.length ? `<section class="p-sec"><h3>최근 동향 <span>위키백과 오늘의 사건 · 30분마다 갱신</span></h3>
       <ol class="timeline">${news.map((n) => `<li><time>${fmtDate(n.date)}</time><p>${esc(n.text)}</p><div class="tl-links">${n.sources.slice(0, 3).map((s) => `<a href="${esc(s.u)}" target="_blank" rel="noopener">${esc(s.t)}</a>`).join('')}<a class="tr" href="${trUrl(n.text)}" target="_blank" rel="noopener">번역</a></div></li>`).join('')}</ol></section>` : ''}
-    <section class="p-sec"><h3>${ev.cat === 'wildfire' || ev.cat === 'disaster' ? '출처 · 관측 기관' : '관련 기사'}</h3>
+    <section class="p-sec"><h3>관련 기사</h3>
       <ul class="arts">${(ev.articles || []).map((a) => `<li><a href="${esc(a.u)}" target="_blank" rel="noopener"><b>${esc(a.t)}</b><span>${esc(a.s)}${a.d ? ' · ' + esc(a.d) : ''}</span></a></li>`).join('')}</ul></section>
     <section class="p-sec"><h3>실시간 뉴스 <span>GDELT · 최근 7일</span></h3><ul class="arts" id="live"><li class="msg">최신 기사를 찾는 중…</li></ul>
       <div class="more">
         <a href="https://news.google.com/search?q=${encodeURIComponent(ev.qko || ev.q)}&hl=ko&gl=KR&ceid=KR:ko" target="_blank" rel="noopener">Google 뉴스 (한국어)</a>
         <a href="https://news.google.com/search?q=${encodeURIComponent(ev.q)}&hl=en-US&gl=US&ceid=US:en" target="_blank" rel="noopener">Google News (English)</a>
-        ${ev.cat === 'disaster' || ev.cat === 'wildfire' ? '<a href="https://www.gdacs.org" target="_blank" rel="noopener">GDACS 경보 지도</a>' : '<a href="https://liveuamap.com" target="_blank" rel="noopener">Liveuamap 지도</a>'}
+        <a href="https://liveuamap.com" target="_blank" rel="noopener">Liveuamap 지도</a>
+        <a href="https://earth.google.com/web/@${ev.lat},${ev.lon},2000a,120000d,35y,0h,0t,0r" target="_blank" rel="noopener">Google Earth에서 보기</a>
       </div></section>
     <p class="note">${ev.auto ? '실시간 피드에서 자동으로 수집된 사건입니다. 영어 원문 요약과 자동 추출 수치는 오류가 있을 수 있으니 출처를 함께 확인하세요.' : `요약은 ${ASOF.replace(/-/g, '.')}까지의 공개 보도를 정리한 것이며, 자동 집계·최근 동향은 실시간으로 덧붙습니다. 사상자 수치에는 교전 당사자의 주장이 포함될 수 있습니다.`}</p>`;
   panel.hidden = false;
@@ -232,7 +223,7 @@ app.refreshUI = () => {
   pending = setTimeout(() => {
     pending = 0;
     renderFilters(); renderList(); renderFeeds();
-    $('subline').textContent = `추적 중인 사건 ${sites.length.toLocaleString('ko-KR')}건 · 분쟁·재난·산불 자동 갱신`;
+    $('subline').textContent = `추적 중인 사건 ${sites.length.toLocaleString('ko-KR')}건 · 분쟁·시위 자동 갱신`;
     if (app.selected && !$('panel').hidden && document.activeElement?.closest?.('#panel') == null) {
       const top = $('panel').scrollTop; renderPanel(app.selected); $('panel').scrollTop = top;
     }

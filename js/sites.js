@@ -17,7 +17,6 @@ export class Site {
     this.ev = ev; this.id = ev.id; this.cat = ev.cat;
     this.color = CATS[ev.cat].color;
     this.size = ev.size ?? (ev.cat === 'war' ? 1 : 0.7);
-    this.fixedScale = ev.sub === 'cyclone' ? 0.045 + Math.min(ev.wind || 40, 160) / 160 * 0.05 : 0;
     this.uScale = { value: 0.05 };
     this.hl = 1; this.focused = false; this.vis = false; this.detailOn = false;
     this.fns = []; this.bfns = []; this.conformFns = []; this.grounds = []; this.world = [];
@@ -37,7 +36,6 @@ export class Site {
     this.tag.addEventListener('click', () => app.select?.(this, true));
     labelsEl.appendChild(this.tag);
     this.refreshTag();
-    if (ev.sub === 'cyclone') this.ensureDetail();
   }
   place(lat, lon) {
     this.normal = ll2v(lat, lon).normalize();
@@ -48,7 +46,7 @@ export class Site {
   }
   refreshTag() {
     const ev = this.ev;
-    this.tag.className = 'tag' + (ev.cat === 'wildfire' || ev.minor ? ' small' : '') + (ev.auto ? ' auto' : '');
+    this.tag.className = 'tag' + (ev.minor ? ' small' : '') + (ev.auto ? ' auto' : '');
     this.tag.style.setProperty('--c', this.color);
     this.tag.textContent = ev.short || ev.name;
     this.tagW = 0;

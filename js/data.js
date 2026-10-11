@@ -7,20 +7,10 @@ export const CATS = {
   riot:       { ko: '폭동',          color: '#ffbe3d', group: 'unrest' },
   protest:    { ko: '대규모 시위',   color: '#5aa9ff', group: 'unrest' },
   oppression: { ko: '소수민족 탄압', color: '#b48cff', group: 'rights' },
-  disaster:   { ko: '자연재해',      color: '#33dcb0', group: 'disaster' },
-  wildfire:   { ko: '산불',          color: '#ff7a1a', group: 'fire' },
 };
-export const GROUPS = {
-  conflict: '전쟁 · 무력 분쟁', unrest: '폭동 · 시위', rights: '인권 · 탄압', disaster: '자연재해', fire: '산불 · NASA 실시간',
-};
-export const SUBTYPES = {
-  quake: '지진', volcano: '화산 분화', cyclone: '태풍 · 허리케인', flood: '홍수', drought: '가뭄', landslide: '산사태',
-};
-export const LEVELS = {
-  escalating: '격화', active: '진행 중', stalemate: '교착', ceasefire: '불안한 휴전', live: '연소 중',
-  red: '적색 경보', orange: '주황 경보', yellow: '황색 경보', green: '녹색 · 경미',
-};
-export const LEVEL_RANK = { red: 0, escalating: 1, orange: 2, active: 3, yellow: 4, stalemate: 5, live: 6, ceasefire: 7, green: 8 };
+export const GROUPS = { conflict: '전쟁 · 무력 분쟁', unrest: '폭동 · 시위', rights: '인권 · 탄압' };
+export const LEVELS = { escalating: '격화', active: '진행 중', stalemate: '교착', ceasefire: '불안한 휴전' };
+export const LEVEL_RANK = { escalating: 0, active: 1, stalemate: 2, ceasefire: 3 };
 export const CAS_LABEL = { killed: '사망', injured: '부상', displaced: '피란', detained: '구금 · 연행', missing: '실종' };
 
 const P = {
@@ -29,15 +19,8 @@ const P = {
   riot: '<path d="M13.5 2 5 14h6.2L10 22l9-12.5h-6.4z"/>',
   protest: '<path d="M3 10v4h3l7.5 4.5v-13L6 10z"/><path d="M17.5 9a4 4 0 0 1 0 6"/>',
   oppression: '<path d="M6 3v18M12 3v18M18 3v18M3 8h18M3 16h18"/>',
-  wildfire: '<path d="M12 2.5c1.2 4 6 6.2 6 12a6 6 0 0 1-12 0c0-3 1.8-5 3-7 0 2 1 3.2 2.2 3.2 0-3-1.4-5.4.8-8.2z"/>',
-  quake: '<path d="M2 12h4l2.2-6 3.3 12 3-9 2 5 1.6-2H22"/>',
-  volcano: '<path d="M2.5 20.5 9 10h6l6.5 10.5z"/><path d="M10.5 7.5 9.5 4M12 7V3M13.5 7.5l1-3.5"/>',
-  cyclone: '<path d="M12 12m-2.2 0a2.2 2.2 0 1 0 4.4 0a2.2 2.2 0 1 0-4.4 0"/><path d="M4 9c2-4 8-6 13-3"/><path d="M20 15c-2 4-8 6-13 3"/>',
-  flood: '<path d="M2 15c2.5 0 2.5-2 5-2s2.5 2 5 2 2.5-2 5-2 2.5 2 5 2"/><path d="M2 20c2.5 0 2.5-2 5-2s2.5 2 5 2 2.5-2 5-2 2.5 2 5 2"/><path d="M6 11V6l6-3.5L18 6v5"/>',
-  drought: '<circle cx="12" cy="7.5" r="3.5"/><path d="M3 20.5h18M8 20.5l2-3-2-2.2M15.5 20.5l-1.2-3 2-2"/>',
-  landslide: '<path d="M2.5 20.5h19L8.5 5z"/><circle cx="16" cy="15" r="1.5"/><circle cx="19" cy="11.5" r="1"/>',
 };
-export const iconFor = (cat, sub) => `<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">${P[cat === 'disaster' ? sub || 'quake' : cat]}</svg>`;
+export const iconFor = (cat) => `<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">${P[cat]}</svg>`;
 
 export const EVENTS = [
   { id: 'ukraine', cat: 'war', name: '러시아–우크라이나 전쟁', en: 'Russia–Ukraine War', region: '우크라이나 동부 (도네츠크·하르키우·자포리자 전선)', lat: 48.3, lon: 37.6, start: '2022-02-24', level: 'stalemate', intensity: 3, air: true,

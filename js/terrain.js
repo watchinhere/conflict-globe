@@ -16,15 +16,16 @@ const mkCanvas = (px, smooth = true) => {
 };
 const [dayCv, dayCtx] = mkCanvas(256 * G);
 const [nightCv, nightCtx] = mkCanvas(256 * G);
+const [labelCv, labelCtx] = mkCanvas(256 * G);
 const [, elevCtx] = mkCanvas(ELEV_PX, false);
 const mkTex = (cv) => { const t = new THREE.CanvasTexture(cv); t.colorSpace = THREE.SRGBColorSpace; t.anisotropy = maxAniso; return t; };
-const dayTex = mkTex(dayCv), nightTex = mkTex(nightCv);
+const dayTex = mkTex(dayCv), nightTex = mkTex(nightCv), labelTex = mkTex(labelCv);
 
 const PATCH_VS = `
 attribute vec2 aEq; varying vec2 vUv; varying vec2 vEq; varying vec3 vN; varying vec3 vNrm;
 void main(){ vUv=uv; vEq=aEq; vNrm=normal; vec4 w=modelMatrix*vec4(position,1.); vN=normalize(w.xyz); gl_Position=projectionMatrix*viewMatrix*w; }`;
 const PATCH_FS = `
-uniform sampler2D map, nightMap, brcMap; uniform vec3 sunDir; uniform float uTime, cloudAmt, uFade;
+uniform sampler2D map, nightMap, brcMap, labelMap; uniform vec3 sunDir; uniform float uTime, cloudAmt, uFade;
 varying vec2 vUv; varying vec2 vEq; varying vec3 vN; varying vec3 vNrm;
 ${CLOUD_FN}
 void main(){
@@ -38,6 +39,8 @@ void main(){
   col=mix(col,cloudCol,cl*0.93);
   vec3 lights=texture2D(nightMap,vUv).rgb*vec3(1.,.82,.6)*2.6*(1.-cl*0.85);
   col=col*dayMix+lights*(1.-dayMix)+c*0.012;
+  vec4 lb=texture2D(labelMap,vUv);
+  col=mix(col,lb.rgb*1.15,lb.a);
   float edge=smoothstep(0.,.1,vUv.x)*smoothstep(1.,.9,vUv.x)*smoothstep(0.,.1,vUv.y)*smoothstep(1.,.9,vUv.y);
   gl_FragColor=vec4(col,edge*uFade);
   #include <tonemapping_fragment>
@@ -55,7 +58,7 @@ const geo = new THREE.BufferGeometry();
   geo.setIndex(idx);
 }
 export const patchMesh = new THREE.Mesh(geo, new THREE.ShaderMaterial({
-  uniforms: { map: { value: dayTex }, nightMap: { value: nightTex }, brcMap: { value: T.brc }, sunDir: { value: sunDir }, uTime: shared.uTime,
+  uniforms: { map: { value: dayTex }, nightMap: { value: nightTex }, labelMap: { value: labelTex }, brcMap: { value: T.brc }, sunDir: { value: sunDir }, uTime: shared.uTime,
     cloudAmt: earthMat.uniforms.cloudAmt, uFade: { value: 0 } },
   vertexShader: PATCH_VS, fragmentShader: PATCH_FS, transparent: true, depthWrite: true, side: THREE.DoubleSide,
 }));
@@ -99,14 +102,18 @@ export async function updatePatch(now, alt, center) {
   const key = `${z}/${x0}/${y0}`;
   if (key === patch.key) return;
   patch.busy = true;
-  const [day, night, elev] = await Promise.all([
+  const esriRef = (svc) => (zz, x, y) => `https://server.arcgisonline.com/ArcGIS/rest/services/Reference/${svc}/MapServer/tile/${zz}/${y}/${x}`;
+  const [day, night, elev, places, roads] = await Promise.all([
     drawSet(dayCtx, 256 * G, (zz, x, y) => `https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/${zz}/${y}/${x}`, z, z, x0, y0),
     drawSet(nightCtx, 256 * G, (zz, x, y) => `https://gibs.earthdata.nasa.gov/wmts/epsg3857/best/VIIRS_Black_Marble/default/2016-01-01/GoogleMapsCompatible_Level8/${zz}/${y}/${x}.png`, Math.min(z, 8), z, x0, y0),
     drawSet(elevCtx, ELEV_PX, (zz, x, y) => `https://s3.amazonaws.com/elevation-tiles-prod/terrarium/${zz}/${x}/${y}.png`, Math.min(z, 12), z, x0, y0),
+    drawSet(labelCtx, 256 * G, esriRef('World_Boundaries_and_Places'), z, z, x0, y0),
+    z >= 8 ? drawSet(labelCtx, 256 * G, esriRef('World_Transportation'), z, z, x0, y0) : null,
   ]);
   patch.busy = false;
   if (day.ok < 0.6) return;
   dayCtx.fillStyle = '#1b2a1e'; dayCtx.fillRect(0, 0, 256 * G, 256 * G); day.draw(); dayTex.needsUpdate = true;
+  labelCtx.clearRect(0, 0, 256 * G, 256 * G); roads?.draw(); places.draw(); labelTex.needsUpdate = true;
   nightCtx.fillStyle = '#000'; nightCtx.fillRect(0, 0, 256 * G, 256 * G); night.draw(); nightTex.needsUpdate = true;
   elevCtx.fillStyle = 'rgb(128,0,0)'; elevCtx.fillRect(0, 0, ELEV_PX, ELEV_PX); elev.draw();
   const px = elevCtx.getImageData(0, 0, ELEV_PX, ELEV_PX).data;

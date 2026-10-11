@@ -6,6 +6,7 @@ import { sites, upsert } from './sites.js';
 import { updatePatch, patch, patchMesh } from './terrain.js';
 import { renderFilters, renderList, renderFeeds, active, closePanel } from './ui.js';
 import { startLive } from './live.js';
+import { loadGeo, placeGeoLabels, locate, coordText } from './geo.js';
 
 const $ = (id) => document.getElementById(id);
 manager.onProgress = (_u, done, total) => { $('loadMsg').textContent = `위성 영상을 불러오는 중 (${done}/${total})`; };
@@ -70,7 +71,7 @@ app.focusOn = (site) => {
   if (east.lengthSq() < 1e-6) east.set(1, 0, 0);
   east.normalize();
   const north = new THREE.Vector3().crossVectors(N, east);
-  const d = site.fixedScale ? site.fixedScale * 2.8 : 0.034 + 0.034 * site.size;
+  const d = 0.034 + 0.034 * site.size;
   flyTo(P.clone().addScaledVector(N, d * 0.72).addScaledVector(north, -d * 0.7), P, N.clone(), 'focus');
 };
 function goGlobal() {
@@ -94,7 +95,28 @@ canvas.addEventListener('pointerup', (e) => {
   const s = pickAt(e.clientX, e.clientY);
   if (s) app.select(s, true);
 });
+let pointer = null, locAt = 0;
+const ray = new THREE.Raycaster(), ndc = new THREE.Vector2();
+canvas.addEventListener('pointerleave', () => { pointer = null; });
+function hitGlobe(x, y) {
+  ndc.set(x / innerWidth * 2 - 1, -(y / innerHeight) * 2 + 1);
+  ray.setFromCamera(ndc, camera);
+  const o = ray.ray.origin, d = ray.ray.direction, b = o.dot(d), c = o.lengthSq() - R * R, disc = b * b - c;
+  return disc < 0 ? null : o.clone().addScaledVector(d, -b - Math.sqrt(disc));
+}
+function updateLoc() {
+  const p = (pointer && hitGlobe(pointer.x, pointer.y)) || viewCenter();
+  const el = $('loc');
+  if (!p) { el.hidden = true; return; }
+  const r = p.length(), lat = 90 - Math.acos(p.y / r) * 180 / Math.PI;
+  let lon = Math.atan2(p.z, -p.x) * 180 / Math.PI - 180; if (lon < -180) lon += 360;
+  const l = locate(lat, lon);
+  if (!l) return;
+  el.hidden = false;
+  el.innerHTML = `<span class="lk">${pointer ? '커서 위치' : '화면 중앙'}</span><b>${l.country}</b>${l.near ? `<span>${l.near}</span>` : ''}<span class="mono">${coordText(lat, lon)}</span>`;
+}
 canvas.addEventListener('pointermove', (e) => {
+  pointer = { x: e.clientX, y: e.clientY };
   if (e.buttons) return;
   const s = pickAt(e.clientX, e.clientY);
   if (s !== hover) { if (hover && hover !== app.selected) hover.tag.classList.remove('sel'); hover = s; if (s) s.tag.classList.add('sel'); }
@@ -145,7 +167,7 @@ function frame() {
 
   updatePatch(now, alt, viewCenter());
   if (patchMesh.visible) { patch.fade = Math.min(1, patch.fade + dt * 2.5); patchMesh.material.uniforms.uFade.value = patch.fade; }
-  attrib.textContent = patch.active ? '위성사진 © Esri, Maxar, Earthstar Geographics · 고도 Mapzen Terrarium · 야간 NASA GIBS' : '지구 텍스처 NASA Blue Marble / Black Marble · 데이터: 위키백과, USGS, NASA EONET, GDACS, GDELT';
+  attrib.textContent = patch.active ? '위성사진·지명 © Esri, Maxar, Earthstar Geographics · 고도 Mapzen Terrarium · 야간 NASA GIBS · 국경 Natural Earth' : '지구 텍스처 NASA Blue Marble / Black Marble · 국경·지명 Natural Earth · 데이터: 위키백과, GDELT';
 
   // 폭발 섬광 감쇠, 지속 조명은 사이트가 매 프레임 다시 켠다
   for (let i = 0; i < 2; i++) {
@@ -175,7 +197,7 @@ function frame() {
   const tagCands = [];
   let builds = 0;
   for (const s of sites) {
-    const sc = s.fixedScale || scaleBase * s.size;
+    const sc = scaleBase * s.size;
     const facing = s.normal.dot(camP) > R + 0.002 - sc * 0.5;
     sph.center.copy(s.root.position); sph.radius = sc * 1.4;
     const on = active.has(s.cat) && facing && frustum.intersectsSphere(sph);
@@ -187,13 +209,13 @@ function frame() {
     s.sx = (tmp.x * 0.5 + 0.5) * W; s.sy = (-tmp.y * 0.5 + 0.5) * H;
     tmp2.copy(s.root.position).addScaledVector(camera.up, sc).project(camera);
     s.pr = Math.hypot((tmp2.x - tmp.x) * 0.5 * W, (tmp2.y - tmp.y) * 0.5 * H);
-    const want = s.pr > (s.detailOn ? 26 : 36) || s === foc || !!s.fixedScale;
+    const want = s.pr > (s.detailOn ? 26 : 36) || s === foc;
     if (want && !s.detail && builds < 2) { s.ensureDetail(); builds++; }
     s.detailOn = want && !!s.detail;
     if (s.detail) s.detail.visible = s.detailOn;
     s.bfx.visible = !s.detailOn;
     s.update(t);
-    const minor = s.cat === 'wildfire' || s.ev.minor;
+    const minor = !!s.ev.minor;
     if ((!minor || showMinor || s === app.selected) && !(s === app.selected && mode === 'focus' && !flight)) tagCands.push(s);
     else s.tag.hidden = true;
   }
@@ -202,11 +224,13 @@ function frame() {
   for (const s of tagCands) {
     s.tag.hidden = false;
     if (!s.tagW) s.tagW = s.tag.offsetWidth || 120;
-    const b = [s.sx - s.tagW / 2 - 2, s.sy - 32, s.sx + s.tagW / 2 + 2, s.sy - 8];
+    const b = [s.sx - s.tagW / 2 - 2, s.sy - 32, s.sx + s.tagW / 2 + 2, s.sy + 4];
     if (boxes.some((o) => b[0] < o[2] && b[2] > o[0] && b[1] < o[3] && b[3] > o[1])) { s.tag.hidden = true; continue; }
     boxes.push(b);
     s.tag.style.transform = `translate(${s.sx.toFixed(1)}px,${s.sy.toFixed(1)}px) translate(-50%,-140%)`;
   }
+  placeGeoLabels(boxes, W, H);
+  if (now - locAt > 150) { locAt = now; updateLoc(); }
   composer.render();
   requestAnimationFrame(frame);
 }
@@ -218,3 +242,4 @@ app.refreshUI();
 requestAnimationFrame(frame);
 setInterval(updateSun, 10000);
 startLive();
+loadGeo().then(() => app.refreshUI()).catch((e) => console.warn('geo data', e));
