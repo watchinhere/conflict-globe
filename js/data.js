@@ -450,7 +450,7 @@ const RECENT = {
   darfur:     [R('2025.10', 'RSF, 엘파셰르 함락 직후 학살', 'Killings after RSF took El Fasher', '1,500+', '')],
   balochistan:[R('2025.03.11', '자파르 익스프레스 열차 납치', 'Jaffar Express train hijacking', ['약 60 (인질 26 포함)', '~60 (incl. 26 hostages)'], '')],
   benin:      [R('2025.04.17', 'JNIM, 북부 국경 군 초소 공격', 'JNIM attack on northern border posts', ['54 (군인)', '54 (soldiers)'], '')],
-  thaicambo:  [R('2025.07.24', '국경 포격·공습 (5일간)', 'Border shelling and airstrikes (5 days)', '약 40+', ['수백 명', 'hundreds'])],
+  thaicambo:  [R('2025.07.24', '국경 포격·공습 (5일간)', 'Border shelling and airstrikes (5 days)', ['약 40명+', '~40+'], ['수백 명', 'hundreds'])],
 };
 for (const ev of EVENTS) {
   if (HARM[ev.id]) ev.harm = HARM[ev.id];

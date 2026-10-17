@@ -38,7 +38,8 @@ export function relTime(d) {
 const trUrl = (text) => `https://translate.google.com/?sl=auto&tl=${I18N.lang}&text=${encodeURIComponent(text)}&op=translate`;
 const levelPill = (lv) => `<span class="lvl ${esc(lv)}">${esc(levelName(lv))}</span>`;
 const nameOf = (ev) => tx(ev, 'name');
-const altName = (ev) => { const a = isEn() ? ev.name : (ev.nameEn || ev.en); return a && a !== nameOf(ev) ? a : ''; };
+// 부제: 한국어 화면에서만 영어 원명을 덧붙인다 (영어 화면에 한국어를 보이지 않음)
+const altName = (ev) => { if (isEn()) return ''; const a = ev.nameEn || ev.en; return a && a !== nameOf(ev) ? a : ''; };
 
 export function casOf(ev) {
   const k = ev.cas?.items?.find((i) => i.k === 'killed');
@@ -240,7 +241,7 @@ export function renderPanel(site, keepScroll) {
     ${news.length ? `<section class="p-sec"><h3>${t('timeline')}<span class="r">${t('timelineR')}</span></h3>
       <ol class="timeline">${news.map((n) => `<li><time>${fmtDate(n.date)}</time><p>${esc(!en && n.textKo ? n.textKo : n.text)}</p><div class="tl-links">${n.sources.slice(0, 3).map((s) => `<a href="${esc(s.u)}" target="_blank" rel="noopener">${esc(s.t)}</a>`).join('')}${!en && n.textKo ? `<a class="tr" href="${trUrl(n.text)}" target="_blank" rel="noopener">${t('translate')}</a>` : ''}</div></li>`).join('')}</ol></section>` : ''}
     <section class="p-sec"><h3>${t('sources')}</h3>
-      <ul class="arts">${(ev.articles || []).map((a) => `<li><a href="${esc(a.u)}" target="_blank" rel="noopener"><b>${esc(a.t)}</b><span>${esc(a.s)}${a.d ? ' · ' + esc(a.d) : ''}</span></a></li>`).join('')}</ul></section>
+      <ul class="arts">${(ev.articles || []).map((a) => `<li><a href="${esc(a.u)}" target="_blank" rel="noopener"><b>${esc(a.t)}</b><span>${esc(a.s)}${a.d ? ' · ' + esc(a.d === '갱신 중' ? t('updating') : a.d) : ''}</span></a></li>`).join('')}</ul></section>
     <section class="p-sec"><h3>${t('intercept')}<span class="r">${t('interceptR')}</span></h3><ul class="arts" id="live"><li class="msg">${t('gdeltWait')}</li></ul>
       <div class="more">
         <a href="https://news.google.com/search?q=${encodeURIComponent(qLocal)}&hl=${en ? 'en-US&gl=US&ceid=US:en' : 'ko&gl=KR&ceid=KR:ko'}" target="_blank" rel="noopener">${en ? t('newsEn') : t('newsKo')}</a>
