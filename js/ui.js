@@ -60,6 +60,19 @@ export function deathsOf(ev) {
   return null;
 }
 
+// 상단 요약 두 칸: 사망자가 없거나 집계가 없으면 구금·부상 같은 다른 피해를 보여 준다
+export function headStats(ev) {
+  const d = deathsOf(ev), en = isEn(), hm = ev.harm, P = (p) => p[en ? 1 : 0];
+  const noDeaths = d && /^(0명?|집계 없음|no count)$/.test(d.total);
+  if (d && !noDeaths) return [[t('dTotal'), d.total], [t('dYear'), d.year]];
+  if (!hm) return d ? [[t('dTotal'), d.total], [t('dYear'), d.year]] : null;
+  const out = [];
+  if (hm.x) out.push([casLabel(hm.x[0]), en ? hm.x[2] : hm.x[1]]);
+  if (!/^(0명?|해당 없음|n\/a|집계 없음|no count)$/.test(P(hm.inj))) out.push([t('hInj'), P(hm.inj)]);
+  if (out.length < 2) out.push([t('hDisp'), P(hm.disp)]);
+  return out.slice(0, 2);
+}
+
 /* ---------- 자동 번역: 한국어 모드에서 영어뿐인 이름·요약·동향을 채운다 ---------- */
 let fillRun = 0;
 async function fillKoNames() {
@@ -111,14 +124,14 @@ function evCode(ev) {
   return `${CODE[ev.cat] || 'EVT'}-${String(h % 10000).padStart(4, '0')}`;
 }
 function itemHTML(s) {
-  const ev = s.ev, dth = deathsOf(ev);
+  const ev = s.ev, hs = headStats(ev);
   return `<button type="button" class="item${s === app.selected ? ' sel' : ''}" data-id="${esc(ev.id)}" style="--c:${s.color}">
     <span class="ix-main">
       <span class="ix-top">${levelPill(ev.level)}${ev.auto ? `<span class="ix-auto">${t('autoTag')}</span>` : ''}<span class="ix-age">${since(ev.start)}</span></span>
       <b class="ix-name">${esc(nameOf(ev))}</b>
       <span class="ix-sub">${esc(tx(ev, 'region'))}</span>
     </span>
-    ${dth ? `<span class="ix-kia"><small>${t('dTotal')}</small><b>${esc(dth.total)}</b><small>${t('dYear')}</small><b class="yr">${esc(dth.year)}</b></span>` : ''}
+    ${hs ? `<span class="ix-kia">${hs.map(([l, v], i) => `<small>${esc(l)}</small><b${i ? ' class="yr"' : ''}>${esc(v)}</b>`).join('')}</span>` : ''}
   </button>`;
 }
 export function renderList() {
@@ -170,7 +183,10 @@ function casSection(ev) {
   if (hm) {
     const cells = [['injured', t('hInj'), hm.inj], ['civ', t('hCiv'), hm.civ], ['displaced', t('hDisp'), hm.disp]];
     if (hm.x) cells.push([hm.x[0], casLabel(hm.x[0]), [hm.x[1], hm.x[2]]]);
-    h += `<div class="h-grid">${cells.map(([k, lab, v]) => `<div class="k-${k}"><small>${esc(lab)}</small><b>${L(v)}</b></div>`).join('')}</div><p class="d-note">${t('dNote')}</p>`;
+    // 상단 요약칸에 이미 나온 항목은 빼서 중복을 없앤다
+    const shown = new Set((headStats(ev) || []).map(([l]) => l));
+    const rest = cells.filter(([, lab, v]) => !shown.has(lab) && !/^(0명?|해당 없음|n\/a)$/.test(v[en ? 1 : 0]));
+    if (rest.length) h += `<div class="h-grid">${rest.map(([k, lab, v]) => `<div class="k-${k}"><small>${esc(lab)}</small><b>${L(v)}</b></div>`).join('')}</div><p class="d-note">${t('dNote')}</p>`;
   }
   // 최근 주요 사건별 사상자 (누적 수치는 위에 있으므로 개별 사건만)
   const V = (v) => (Array.isArray(v) ? v[en ? 1 : 0] : en ? v : v && /^[\d,.–+~ ]+$/.test(v) ? v.replace(/(\+?)$/, '명$1') : v);
@@ -212,7 +228,7 @@ export function renderPanel(site, keepScroll) {
       <span class="badge">${iconFor(ev.cat)}${esc(catName(ev.cat))}</span>
       <h2>${esc(nameOf(ev))}</h2>
       ${altName(ev) ? `<p class="en">${esc(altName(ev))}</p>` : ''}
-      <div class="p-meta"><div><small>${t('mStatus')}</small><b>${levelPill(ev.level)}</b></div><div><small>${t('dTotal')}</small><b class="kia">${esc(deathsOf(ev)?.total || '—')}</b></div><div><small>${t('dYear')}</small><b class="kia">${esc(deathsOf(ev)?.year || '—')}</b></div></div>
+      <div class="p-meta"><div><small>${t('mStatus')}</small><b>${levelPill(ev.level)}</b></div>${(headStats(ev) || [[t('dTotal'), '—'], [t('dYear'), '—']]).map(([l, v]) => `<div><small>${esc(l)}</small><b class="kia">${esc(v)}</b></div>`).join('')}</div>
     </div>
     <section class="p-sec"><h3>${t('sitrep')}${sumMT ? `<span class="r">${t('mtNote')}</span>` : ''}</h3>
       <p class="sum">${esc(summary)}</p>
