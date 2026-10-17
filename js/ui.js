@@ -51,6 +51,15 @@ export function casOf(ev) {
   return null;
 }
 
+// 사망자 어림값: 전체 / 최근 1년. 자동 수집 사건은 위키백과 행(누적 / 2026년)으로 대신한다.
+export function deathsOf(ev) {
+  const en = isEn();
+  if (ev.deaths) return { total: (en && ev.deaths.totalEn) || ev.deaths.total, year: (en && ev.deaths.yearEn) || ev.deaths.year };
+  const r = ev.wikiRow;
+  if (r && (r.cum || r.f26)) return { total: r.cum || '—', year: r.f26 ? `${r.f26} (2026)` : '—' };
+  return null;
+}
+
 /* ---------- 자동 번역: 한국어 모드에서 영어뿐인 이름·요약·동향을 채운다 ---------- */
 let fillRun = 0;
 async function fillKoNames() {
@@ -102,14 +111,14 @@ function evCode(ev) {
   return `${CODE[ev.cat] || 'EVT'}-${String(h % 10000).padStart(4, '0')}`;
 }
 function itemHTML(s) {
-  const ev = s.ev, cas = casOf(ev);
+  const ev = s.ev, dth = deathsOf(ev);
   return `<button type="button" class="item${s === app.selected ? ' sel' : ''}" data-id="${esc(ev.id)}" style="--c:${s.color}">
     <span class="ix-main">
-      <span class="ix-top"><span class="ix-code">${evCode(ev)}</span>${levelPill(ev.level)}${ev.auto ? '<span class="ix-auto">AUTO</span>' : ''}<span class="ix-age">${since(ev.start)}</span></span>
+      <span class="ix-top">${levelPill(ev.level)}${ev.auto ? `<span class="ix-auto">${t('autoTag')}</span>` : ''}<span class="ix-age">${since(ev.start)}</span></span>
       <b class="ix-name">${esc(nameOf(ev))}</b>
       <span class="ix-sub">${esc(tx(ev, 'region'))}</span>
     </span>
-    ${cas ? `<span class="ix-kia"><small>KIA</small><b>${esc(cas.text)}</b></span>` : ''}
+    ${dth ? `<span class="ix-kia"><small>${t('dTotal')}</small><b>${esc(dth.total)}</b><small>${t('dYear')}</small><b class="yr">${esc(dth.year)}</b></span>` : ''}
   </button>`;
 }
 export function renderList() {
@@ -155,15 +164,25 @@ app.select = select; app.closePanel = closePanel;
 function casSection(ev) {
   const items = ev.cas?.items || [], row = ev.wikiRow, nc = ev.newsCas, en = isEn();
   const matchedMain = row && (ev.wiki || []).some((k) => norm(row.main) === norm(k));
-  let h = '';
-  if (items.length) h += `<div class="cas-grid">${items.map((i) => `<div class="cas-cell k-${i.k}"><span class="lab">${esc(casLabel(i.k))}</span><b>${esc((en && i.vEn) || i.v)}</b><small>${esc((en && i.dEn) || i.d)}</small></div>`).join('')}</div>`;
-  const src = (en && ev.cas?.srcEn) || ev.cas?.src;
-  if (src) h += `<p class="cas-src">${esc(src)}</p>`;
-  if (row) h += `<div class="auto-stat"><div class="as-h"><span class="tag-auto">${esc(t('autoTally'))}</span><span>${esc(t('autoTallyD'))}${matchedMain || ev.auto ? '' : ` · ${esc(t('parentRow', { name: row.name }))}`}</span></div>
+  let h = '', extra = '';
+  // 사망자는 상단 요약칸에 있으므로 여기서는 그 밖의 피해만 보여 준다
+  const hm = ev.harm, L = (p) => esc(p[en ? 1 : 0]);
+  if (hm) {
+    const cells = [['injured', t('hInj'), hm.inj], ['civ', t('hCiv'), hm.civ], ['displaced', t('hDisp'), hm.disp]];
+    if (hm.x) cells.push([hm.x[0], casLabel(hm.x[0]), [hm.x[1], hm.x[2]]]);
+    h += `<div class="h-grid">${cells.map(([k, lab, v]) => `<div class="k-${k}"><small>${esc(lab)}</small><b>${L(v)}</b></div>`).join('')}</div><p class="d-note">${t('dNote')}</p>`;
+  }
+  // 최근 주요 사건별 사상자 (누적 수치는 위에 있으므로 개별 사건만)
+  const V = (v) => (Array.isArray(v) ? v[en ? 1 : 0] : en ? v : v && /^[\d,.–+~ ]+$/.test(v) ? v.replace(/(\+?)$/, '명$1') : v);
+  if (ev.recent?.length) h += `<p class="d-sub">${t('recentH')}</p><ul class="inc">${ev.recent.map((r) => `<li><time>${esc(r.d)}</time><p>${esc(en ? r.en : r.ko)}</p><div class="inc-n">${
+    [[t('killed'), r.k, 'k'], [t('injured'), r.i, 'i'], ...(r.x ? [['', r.x, 'x']] : [])].filter(([, v]) => v).map(([lab, v, c]) => `<span class="${c}">${lab ? `${esc(lab)} ` : ''}<b>${esc(V(v))}</b></span>`).join('')}</div></li>`).join('')}</ul>`;
+  if (row) extra += `<div class="auto-stat"><div class="as-h"><span class="tag-auto">${esc(t('autoTally'))}</span><span>${esc(t('autoTallyD'))}${matchedMain || ev.auto ? '' : ` · ${esc(t('parentRow', { name: row.name }))}`}</span></div>
       <div class="stat-row"><div><small>${t('cum')}</small><b>${esc(row.cum || '—')}</b></div><div><small>${t('y25')}</small><b>${esc(row.f25 || '—')}</b></div><div><small>${t('y26')}</small><b>${esc(row.f26 || '—')}</b></div></div>
       <p class="as-note">${esc(tierLabel(row.tier))} · ${t('hourly')}</p></div>`;
-  if (nc) h += `<div class="auto-stat"><div class="as-h"><span class="tag-auto news">${esc(t('newsTally'))}</span><span>${esc(t('newsTallyD'))}</span></div>
+  if (nc) extra += `<div class="auto-stat"><div class="as-h"><span class="tag-auto news">${esc(t('newsTally'))}</span><span>${esc(t('newsTallyD'))}</span></div>
       <div class="stat-row"><div><small>${t('killed')}</small><b>${nc.killed ? t('people', { n: num(nc.killed) }) : '—'}</b></div><div><small>${t('injured')}</small><b>${nc.injured ? t('people', { n: num(nc.injured) }) : '—'}</b></div><div><small>${t('lastMention')}</small><b>${fmtDate(nc.at)}</b></div></div></div>`;
+  // 출처가 다른 자동 집계는 수치가 엇갈리므로, 정리된 수치가 있으면 접어 둔다
+  if (extra) h += h ? `<details class="more-stat"><summary>${t('otherTally')}</summary>${extra}</details>` : extra;
   return h || `<p class="cas-src">${esc(t('noCas'))}</p>`;
 }
 function factsFor(ev) {
@@ -173,7 +192,6 @@ function factsFor(ev) {
   else if (loc) f.push([t('fPlace'), `${esc(loc.country)}${loc.near ? ` <small>${esc(loc.near)}</small>` : ''}`]);
   if (ev.zoneNames?.length) f.push([t('fZone'), esc(ev.zoneNames.map((z) => (isEn() ? z.en : z.ko)).join(', '))]);
   f.push([t('fPeriod'), `${fmtDate(ev.start)} – ${t('now')} <small>${since(ev.start)}</small>`]);
-  f.push([t('fCoord'), `<span class="mono">${coord(ev.lat, ev.lon)}</span>`]);
   return f;
 }
 export function renderPanel(site, keepScroll) {
@@ -188,26 +206,26 @@ export function renderPanel(site, keepScroll) {
   const qLocal = en ? ev.q : ev.qko || ev.q;
   panel.style.setProperty('--c', site.color);
   panel.innerHTML = `
-    <div class="p-bar"><span>DOSSIER</span><span class="code">${evCode(ev)}</span><span class="src">${esc(srcLabel)}</span>
+    <div class="p-bar"><span class="src">${esc(srcLabel)}</span>
       <button type="button" class="close" id="pClose" aria-label="Close"><svg viewBox="0 0 24 24"><path d="M6 6l12 12M18 6L6 18"/></svg></button></div>
     <div class="p-hero">
       <span class="badge">${iconFor(ev.cat)}${esc(catName(ev.cat))}</span>
       <h2>${esc(nameOf(ev))}</h2>
       ${altName(ev) ? `<p class="en">${esc(altName(ev))}</p>` : ''}
-      <div class="p-meta"><div><small>STATUS</small><b>${levelPill(ev.level)}</b></div><div><small>DURATION</small><b>${since(ev.start)}</b></div><div><small>KIA</small><b class="kia">${casOf(ev) ? esc(casOf(ev).text) : '—'}</b></div></div>
+      <div class="p-meta"><div><small>${t('mStatus')}</small><b>${levelPill(ev.level)}</b></div><div><small>${t('dTotal')}</small><b class="kia">${esc(deathsOf(ev)?.total || '—')}</b></div><div><small>${t('dYear')}</small><b class="kia">${esc(deathsOf(ev)?.year || '—')}</b></div></div>
     </div>
-    <section class="p-sec"><h3><span class="k">CASUALTIES</span>${t('casH')}</h3>${casSection(ev)}</section>
-    <dl class="facts">${factsFor(ev).map(([k, v]) => `<div><dt>${k}</dt><dd>${v}</dd></div>`).join('')}</dl>
-    <section class="p-sec"><h3><span class="k">SITREP</span>${t('sitrep')}${sumMT ? `<span class="r">${t('mtNote')}</span>` : ''}</h3>
+    <section class="p-sec"><h3>${t('sitrep')}${sumMT ? `<span class="r">${t('mtNote')}</span>` : ''}</h3>
       <p class="sum">${esc(summary)}</p>
       ${sumMT ? `<p class="mt-src"><a href="${trUrl(ev.summary)}" target="_blank" rel="noopener">${t('translate')}</a></p>` : ''}
-      ${needKo ? `<p class="mt-wait mono">${t('translating')}</p>` : ''}
-      ${points.length ? `<ul class="pts">${points.map((p) => `<li>${esc(p)}</li>`).join('')}</ul>` : ''}</section>
-    ${news.length ? `<section class="p-sec"><h3><span class="k">TIMELINE</span>${t('timeline')}<span class="r">${t('timelineR')}</span></h3>
+      ${needKo ? `<p class="mt-wait">${t('translating')}</p>` : ''}
+      ${points.length ? `<ul class="pts">${points.map((p) => `<li>${esc(p.replace(' [출처 미확인]', ''))}${p.includes('[출처 미확인]') ? `<em class="unv">${t('unverified')}</em>` : ''}</li>`).join('')}</ul>` : ''}</section>
+    <section class="p-sec"><h3>${t('casH')}</h3>${casSection(ev)}</section>
+    <section class="p-sec"><h3>${t('basics')}</h3><dl class="facts">${factsFor(ev).map(([k, v]) => `<div><dt>${k}</dt><dd>${v}</dd></div>`).join('')}</dl></section>
+    ${news.length ? `<section class="p-sec"><h3>${t('timeline')}<span class="r">${t('timelineR')}</span></h3>
       <ol class="timeline">${news.map((n) => `<li><time>${fmtDate(n.date)}</time><p>${esc(!en && n.textKo ? n.textKo : n.text)}</p><div class="tl-links">${n.sources.slice(0, 3).map((s) => `<a href="${esc(s.u)}" target="_blank" rel="noopener">${esc(s.t)}</a>`).join('')}${!en && n.textKo ? `<a class="tr" href="${trUrl(n.text)}" target="_blank" rel="noopener">${t('translate')}</a>` : ''}</div></li>`).join('')}</ol></section>` : ''}
-    <section class="p-sec"><h3><span class="k">SOURCES</span>${t('sources')}</h3>
+    <section class="p-sec"><h3>${t('sources')}</h3>
       <ul class="arts">${(ev.articles || []).map((a) => `<li><a href="${esc(a.u)}" target="_blank" rel="noopener"><b>${esc(a.t)}</b><span>${esc(a.s)}${a.d ? ' · ' + esc(a.d) : ''}</span></a></li>`).join('')}</ul></section>
-    <section class="p-sec"><h3><span class="k">INTERCEPT</span>${t('intercept')}<span class="r">${t('interceptR')}</span></h3><ul class="arts" id="live"><li class="msg">${t('gdeltWait')}</li></ul>
+    <section class="p-sec"><h3>${t('intercept')}<span class="r">${t('interceptR')}</span></h3><ul class="arts" id="live"><li class="msg">${t('gdeltWait')}</li></ul>
       <div class="more">
         <a href="https://news.google.com/search?q=${encodeURIComponent(qLocal)}&hl=${en ? 'en-US&gl=US&ceid=US:en' : 'ko&gl=KR&ceid=KR:ko'}" target="_blank" rel="noopener">${en ? t('newsEn') : t('newsKo')}</a>
         <a href="https://news.google.com/search?q=${encodeURIComponent(en ? ev.qko || ev.q : ev.q)}&hl=${en ? 'ko&gl=KR&ceid=KR:ko' : 'en-US&gl=US&ceid=US:en'}" target="_blank" rel="noopener">${en ? t('newsKo') : t('newsEn')}</a>
