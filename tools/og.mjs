@@ -1,5 +1,5 @@
-// build.mjs가 고른 공유 카드(1200×630)를 og-card.html 스크린샷으로 만든다.
-// 사용: 저장소 루트를 http://localhost:8080 으로 띄운 뒤 node tools/og.mjs
+﻿// build.mjs가 고른 공유 카드(1200×630)를 og-card.html 스크린샷으로 만든다.
+// 사용(Actions에서 자동): 저장소 루트를 http://localhost:8080 으로 띄운 뒤 node tools/og.mjs
 import { readFile, writeFile, mkdir, rm } from 'node:fs/promises';
 import { dirname, join } from 'node:path';
 import { fileURLToPath } from 'node:url';
