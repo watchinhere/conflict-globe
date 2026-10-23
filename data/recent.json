@@ -1,0 +1,413 @@
+{
+ "updated": "2026-10-23",
+ "news": {
+  "ukraine": [
+   {
+    "date": "2026-10-21",
+    "text": "United States special envoy Steve Witkoff arrives in Saint Petersburg to talk with Russian president Vladimir Putin about potentially resolving the war with Ukraine. Putin states he would resume United States-mediated trilateral peace talks with Ukraine, on or after November 10.",
+    "sources": [
+     {
+      "t": "Reuters",
+      "u": "https://www.reuters.com/world/us-envoy-witkoff-arrives-st-petersburg-talks-with-putin-2026-10-21/"
+     },
+     {
+      "t": "Reuters",
+      "u": "https://www.reuters.com/world/europe/putin-hosts-trump-envoy-new-ukraine-peace-talks-frees-us-citizen-held-russia-2026-10-21/"
+     }
+    ],
+    "ko": "스티브 위트코프 미국 특사가 상트페테르부르크에 도착해 블라디미르 푸틴 러시아 대통령과 우크라이나와의 전쟁 해결 가능성에 관해 회담했습니다. 푸틴 대통령은 미국이 중재하는 우크라이나와의 3자 평화 회담을 11월 10일 이후에 재개할 것이라고 밝혔습니다."
+   },
+   {
+    "date": "2026-10-21",
+    "text": "American military veteran Stephen Hubbard, who was arrested by Russian authorities in 2022 during the Battle of Izium, is released from custody during the meeting between Putin and Witkoff.",
+    "sources": [
+     {
+      "t": "AP",
+      "u": "https://apnews.com/article/russia-american-released-stephen-hubbard-ukraine-witkoff-2c7e34d6606be242ed4a7473e57110c7"
+     },
+     {
+      "t": "BBC News",
+      "u": "https://www.bbc.com/news/articles/c6m24l9v3745o"
+     }
+    ],
+    "ko": "2022년 이지움 전투 당시 러시아 당국에 체포됐던 미군 퇴역 군인 스티븐 허바드가 푸틴 대통령과 위트코프의 회담 도중 구금에서 풀려났다."
+   }
+  ],
+  "sudan": [
+   {
+    "date": "2026-10-22",
+    "text": "The Sudanese Armed Forces recaptures two strategic areas in Sudan's Blue Nile state, including the Bukuri base in Ad-Damazin.",
+    "sources": [
+     {
+      "t": "Sudan Tribune",
+      "u": "https://sudantribune.com/article/320301"
+     }
+    ],
+    "ko": "수단군은 Ad-Damazin의 Bukuri 기지를 포함하여 수단 블루나일 주의 두 전략적 지역을 탈환했습니다."
+   },
+   {
+    "date": "2026-10-20",
+    "text": "The death toll in the market drone attack in Abyei on the border of South Sudan and Sudan yesterday rises to 220.",
+    "sources": [
+     {
+      "t": "Sudans Post",
+      "u": "https://www.sudanspost.com/abyei-drone-attack-death-toll-reaches-220/"
+     }
+    ],
+    "ko": "남수단과 수단 국경에 위치한 아비에이(Abyei)에서 어제 시장 드론 공격으로 인한 사망자 수가 220명으로 늘어났습니다."
+   },
+   {
+    "date": "2026-10-20",
+    "text": "The Sudanese Army says that they have repelled an attack by the Rapid Support Forces and Sudan People's Liberation Movement–North (SPLM–N) on the Blue Nile state.",
+    "sources": [
+     {
+      "t": "Sudan Tribune",
+      "u": "https://sudantribune.com/article/320207#google_vignette"
+     }
+    ],
+    "ko": "수단군은 블루나일 주에서 신속지원군과 북부수단인민해방운동(SPLM-N)의 공격을 격퇴했다고 밝혔습니다."
+   },
+   {
+    "date": "2026-10-20",
+    "text": "The Rapid Support Forces launches a drone strike on a power plant in Tendelti in Sudan's White Nile State, knocking out the main transition line connecting North Kordofan.",
+    "sources": [
+     {
+      "t": "Sudan Tribune",
+      "u": "https://sudantribune.com/article/320202"
+     }
+    ],
+    "ko": "신속지원군이 수단 백나일주 텐델티 발전소에 드론 공격을 가해 북코르도판을 연결하는 주요 전이선을 무너뜨렸습니다."
+   },
+   {
+    "date": "2026-10-19",
+    "text": "A drone strike kills at least 73 people at a market in the disputed Abyei area between South Sudan and Sudan.",
+    "sources": [
+     {
+      "t": "Reuters",
+      "u": "https://www.reuters.com/world/africa/drone-strike-disputed-sudan-south-sudan-area-kills-dozens-minister-says-2026-10-20/"
+     }
+    ],
+    "ko": "남수단과 수단 사이 분쟁 중인 아비에이(Abyei) 지역의 한 시장에서 드론 공격으로 최소 73명이 사망했습니다."
+   },
+   {
+    "date": "2026-10-19",
+    "text": "Three children are killed in an alleged Rapid Support Forces drone strike in Khartoum, Sudan.",
+    "sources": [
+     {
+      "t": "AP",
+      "u": "https://apnews.com/article/sudan-drone-rapid-support-forces-khartoum-97536d115acd1afb479d2c7ff6df580d"
+     }
+    ],
+    "ko": "수단 하르툼에서 신속 지원군 드론 공격으로 어린이 3명이 사망했습니다."
+   }
+  ],
+  "iran": [
+   {
+    "date": "2026-10-22",
+    "text": "Iran's Islamic Revolutionary Guard Corps reports that seven oil tankers have been hit in the Strait of Hormuz.",
+    "sources": [
+     {
+      "t": "Al Jazeera",
+      "u": "https://www.aljazeera.com/news/2026/10/22/iran-says-seven-ships-hit-in-hormuz-strait-warns-us-of-wider-response"
+     }
+    ],
+    "ko": "이란 이슬람 혁명수비대는 호르무즈 해협에서 유조선 7척이 피격됐다고 밝혔습니다."
+   },
+   {
+    "date": "2026-10-18",
+    "text": "Iran's Islamic Revolutionary Guard Corps reports that an oil tanker has caught on fire and exploded in the southern part of the Strait of Hormuz after striking a naval mine.",
+    "sources": [
+     {
+      "t": "Middle East Eye",
+      "u": "https://www.middleeasteye.net/live-blog/live-blog-update/irans-irgc-navy-says-oil-tanker-hits-mine-catches-fire-strait-hormuz"
+     }
+    ],
+    "ko": "이란 이슬람 혁명수비대는 호르무즈 해협 남부에서 유조선이 해군 기뢰를 공격한 후 불이 붙고 폭발했다고 보고했습니다."
+   }
+  ],
+  "yemen": [
+   {
+    "date": "2026-10-22",
+    "text": "Al-Qaeda gunmen ambushes troops of the Yemeni Armed Forces at a mountainous area in the Shabwah Governorate, killing two soldiers and wounding several more.",
+    "sources": [
+     {
+      "t": "Xinhua",
+      "u": "https://english.news.cn/20261023/1db4ce38e905456db92465e90381a44a/c.html"
+     }
+    ],
+    "ko": "알카에다 무장세력이 샤브와 주의 산악지대에서 예멘군을 매복 공격해 군인 2명이 사망하고 여러 명이 부상을 입었습니다."
+   },
+   {
+    "date": "2026-10-21",
+    "text": "Two people are killed and eight others are injured in a Houthi attack on King Fahd International Airport in Dammam, Saudi Arabia.",
+    "sources": [
+     {
+      "t": "BBC News",
+      "u": "https://www.bbc.com/news/articles/cqwy71ww156ro"
+     }
+    ],
+    "ko": "사우디아라비아 담맘의 킹파드 국제공항에서 후티 반군이 공격해 2명이 숨지고 8명이 부상했다."
+   },
+   {
+    "date": "2026-10-21",
+    "text": "The U.S. Department of State orders non-emergency employees at its embassy in Riyadh to leave the country as Houthi attacks ramp up.",
+    "sources": [
+     {
+      "t": "Al Jazeera",
+      "u": "https://www.aljazeera.com/news/2026/10/21/us-orders-departure-of-personnel-from-saudi-arabia-citing-houthi-threat"
+     }
+    ],
+    "ko": "후티 반군의 공격이 거세지자 미 국무부는 리야드 주재 대사관의 비응급 직원들에게 출국 명령을 내렸다."
+   },
+   {
+    "date": "2026-10-21",
+    "text": "Two people are killed and two others are injured by debris after a suspected Houthi drone is shot down near Shaybah oil field in Eastern Province, Saudi Arabia.",
+    "sources": [
+     {
+      "t": "ABS-CBN News",
+      "u": "https://www.abs-cbn.com/news/nation/2026/10/22/filipino-killed-in-drone-attack-targeting-saudi-arabia-oil-field-1739"
+     }
+    ],
+    "ko": "사우디아라비아 동부 샤이바 유전 인근에서 후티 반군으로 의심되는 드론이 격추된 사건으로 2명이 숨지고 2명이 부상당했다."
+   },
+   {
+    "date": "2026-10-19",
+    "text": "A missile attack by the Houthis kills 58 soldiers, injures over 200, and leaves 14 missing at a training center in Shabwah Governorate, Yemen.",
+    "sources": [
+     {
+      "t": "Reuters",
+      "u": "https://www.reuters.com/world/least-18-killed-houthi-attack-yemeni-government-military-camp-shabwa-sources-say-2026-10-19/"
+     }
+    ],
+    "ko": "예멘 샤브와 주 훈련소에서 후티 반군의 미사일 공격으로 군인 58명이 사망하고 200명 이상이 부상당했으며 14명이 실종됐다."
+   },
+   {
+    "date": "2026-10-17",
+    "text": "Egyptian president Abdel Fattah El-Sisi states that Egypt will take all necessary steps to protect and defend Saudi Arabia should the latter so desire.",
+    "sources": [
+     {
+      "t": "AFP via Arab News",
+      "u": "https://www.arabnews.com/middle-east/egypts-sisi-seeks-parliament-approval-to-authorize-support-for-saudi-arabia-3006835"
+     }
+    ],
+    "ko": "이집트 대통령 압델 파타 엘시시(Abdel Fattah El-Sisi)는 사우디아라비아가 원할 경우 이집트는 사우디아라비아를 보호하고 방어하기 위해 필요한 모든 조치를 취할 것이라고 밝혔습니다."
+   }
+  ],
+  "gaza": [
+   {
+    "date": "2026-10-21",
+    "text": "The Israel Defense Forces (IDF) and Shin Bet say that they have killed Musa Abd Muhammad Hamouda, a Hamas Nukhba forces militant that took part in planning the killing of four IDF soldiers in September 2025.",
+    "sources": [
+     {
+      "t": "Ynetnews",
+      "u": "https://www.ynetnews.com/article/s1l00peuhgl"
+     }
+    ],
+    "ko": "이스라엘 방위군(IDF)과 신 베트(Shin Bet)는 2025년 9월 IDF 군인 4명의 살해 계획에 참여한 하마스 누크바(Hamas Nukhba) 군대 무장세력 무사 압드 무함마드 하무다(Musa Abd Muhammad Hamouda)를 사살했다고 밝혔습니다."
+   },
+   {
+    "date": "2026-10-19",
+    "text": "Israel Police arrest 10 people in the occupied West Bank over attacks on American photojournalist Heidi Levine and the mayor of Aulnoye-Aymeries, France, who were travelling with European diplomats, and seize vehicles and other evidence during raids.",
+    "sources": [
+     {
+      "t": "AFP via France 24",
+      "u": "https://www.france24.com/en/live-news/20261019-israel-announces-arrests-after-west-bank-settler-attacks-on-westerners"
+     },
+     {
+      "t": "Reuters",
+      "u": "https://www.reuters.com/business/media-telecom/israel-police-arrest-suspects-over-settler-attacks-us-journalist-european-2026-10-19/"
+     }
+    ],
+    "ko": "이스라엘 경찰이 유럽 외교관들과 함께 여행 중이던 미국 사진기자 하이디 레빈과 프랑스 오누아메리스 시장을 공격한 혐의로 서안 지구 점령지에서 10명을 체포하고, 급습 과정에서 차량과 기타 증거물을 압수했습니다."
+   },
+   {
+    "date": "2026-10-17",
+    "text": "Masked Israeli settlers attack a group of European diplomats, including the Belgian consul general, French and Polish diplomats, and Catholic representatives visiting Taybeh in the occupied West Bank, Palestine.",
+    "sources": [
+     {
+      "t": "AP",
+      "u": "https://apnews.com/article/west-bank-israel-european-diplomats-settlers-89ebd068167669db357ad1fa4f3a8758"
+     }
+    ],
+    "ko": "가면을 쓴 이스라엘 정착민들이 벨기에 총영사, 프랑스와 폴란드 외교관, 팔레스타인 서안 지구의 타이베를 방문하는 가톨릭 대표단을 포함한 유럽 외교관 그룹을 공격합니다."
+   }
+  ],
+  "delhi": [
+   {
+    "date": "2026-10-17",
+    "text": "A court in New Delhi, India, orders the release of Cockroach Janta Party founder and activist Abhijeet Dipke on a peace bond, one day after police detained him while he was heading to a protest against the Election Commission of India.",
+    "sources": [
+     {
+      "t": "AFP via France 24",
+      "u": "https://www.france24.com/en/live-news/20261017-cockroach-party-founder-released-from-indian-police-custody"
+     }
+    ],
+    "ko": "인도 뉴델리 법원은 바퀴벌레 잔타당(Cockroach Janta Party) 창립자이자 활동가인 아비지트 딥케(Abhijeet Dipke)가 인도 선거관리위원회에 반대하는 시위를 하러 가던 중 경찰에 의해 구금된 지 하루 만에 평화 담보로 석방을 명령했습니다."
+   }
+  ],
+  "westbank": [
+   {
+    "date": "2026-10-23",
+    "text": "The Israeli government orders the military to prepare for a complete lockdown of the West Bank. This comes after two men who allegedly planned an attack are killed.",
+    "sources": [
+     {
+      "t": "Tagesschau",
+      "u": "https://www.tagesschau.de/ausland/asien/westjordanland-abriegelung-100.html"
+     }
+    ],
+    "ko": "이스라엘 정부는 군대에 서안지구의 완전한 봉쇄를 준비하라고 명령했습니다. 이번 사건은 공격을 계획한 것으로 알려진 남성 2명이 사망한 이후에 나온 것입니다."
+   },
+   {
+    "date": "2026-10-21",
+    "text": "Over 80 Americans, British citizens, and Israelis are detained by Israeli soldiers in the Israel-occupied West Bank, including U.S. House of Representatives candidate Brad Lander.",
+    "sources": [
+     {
+      "t": "The Guardian",
+      "u": "https://www.theguardian.com/world/2026/oct/21/israeli-military-detains-brad-lander-rabbis-west-bank-olive-harvest"
+     }
+    ],
+    "ko": "미국 하원 후보인 브래드 랜더(Brad Lander)를 포함해 80명 이상의 미국인, 영국 시민, 이스라엘인이 이스라엘이 점령한 서안 지구에서 이스라엘 군인들에 의해 구금되었습니다."
+   }
+  ]
+ },
+ "tallies": {
+  "ukraine": {
+   "cum": "369,028–827,000+",
+   "cur": "44,588",
+   "year": "2026",
+   "page": "Russo-Ukrainian war"
+  },
+  "sudan": {
+   "cum": "1,521,000+",
+   "cur": "10,844",
+   "year": "2026",
+   "page": "Sudanese Civil War"
+  },
+  "iran": {
+   "cum": "47,900+",
+   "cur": "7,055+",
+   "year": "2026",
+   "page": "Terrorism in Iran"
+  },
+  "yemen": {
+   "cum": "385,000+",
+   "cur": "8,690",
+   "year": "2026",
+   "page": "Yemeni civil war (2014–present)"
+  },
+  "myanmar": {
+   "cum": "214,000+",
+   "cur": "8,875",
+   "year": "2026",
+   "page": "Myanmar conflict"
+  },
+  "drc": {
+   "cum": "219,700+",
+   "cur": "3,660",
+   "year": "2026",
+   "page": "Congolese Civil War (disambiguation)"
+  },
+  "afpak": {
+   "cum": "380,000–2,805,000+",
+   "cur": "5,522",
+   "year": "2026",
+   "page": "Afghan conflict"
+  },
+  "ethiopia": {
+   "cum": "500,000–616,300+",
+   "cur": "5,700",
+   "year": "2026",
+   "page": "Ethiopian civil war (disambiguation)"
+  },
+  "sahel": {
+   "cum": "488,500+",
+   "cur": "19,131",
+   "year": "2026",
+   "page": "Insurgency in the Maghreb (2002–present)"
+  },
+  "gaza": {
+   "cum": "254,000–263,000+",
+   "cur": "11,610",
+   "year": "2026",
+   "page": "Arab–Israeli conflict"
+  },
+  "lebanon": {
+   "cum": "254,000–263,000+",
+   "cur": "11,610",
+   "year": "2026",
+   "page": "Arab–Israeli conflict"
+  },
+  "haiti": {
+   "cum": "25,000+",
+   "cur": "2,496",
+   "year": "2026",
+   "page": "Haitian crisis (2018–present)"
+  },
+  "somalia": {
+   "cum": "376,200–1,000,000+",
+   "cur": "5,847",
+   "year": "2026",
+   "page": "Somali Civil War"
+  },
+  "nigeria": {
+   "cum": "107,300+",
+   "cur": "3,500",
+   "year": "2026",
+   "page": "Communal conflicts in Nigeria"
+  },
+  "syria": {
+   "cum": "664,800+",
+   "cur": "1,654",
+   "year": "2026",
+   "page": "Aftermath of the Syrian civil war"
+  },
+  "westbank": {
+   "cum": "254,000–263,000+",
+   "cur": "11,610",
+   "year": "2026",
+   "page": "Arab–Israeli conflict"
+  },
+  "mexico": {
+   "cum": "358,000–417,000",
+   "cur": "5,945",
+   "year": "2026",
+   "page": "Mexican drug war"
+  },
+  "colombia": {
+   "cum": "460,300+",
+   "cur": "1,622",
+   "year": "2026",
+   "page": "Colombian conflict"
+  },
+  "mozambique": {
+   "cum": "7,800+",
+   "cur": "471",
+   "year": "2026",
+   "page": "Insurgency in Cabo Delgado"
+  },
+  "southsudan": {
+   "cum": "1,521,000+",
+   "cur": "10,844",
+   "year": "2026",
+   "page": "Sudanese Civil War"
+  },
+  "cameroon": {
+   "cum": "11,000+",
+   "cur": "1,531",
+   "year": "2026",
+   "page": "Cameroonian Civil War (disambiguation)"
+  },
+  "balochistan": {
+   "cum": "23,100+",
+   "cur": "1,243",
+   "year": "2026",
+   "page": "Terrorism in Pakistan"
+  },
+  "benin": {
+   "cum": "488,500+",
+   "cur": "19,131",
+   "year": "2026",
+   "page": "Insurgency in the Maghreb (2002–present)"
+  }
+ }
+}
