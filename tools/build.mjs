@@ -89,7 +89,8 @@ function walk(li, chain, date, out) {
   clone.querySelectorAll('a.external').forEach((a) => a.remove());
   const text = clone.textContent.replace(/\s+/g, ' ').trim();
   const links = [...clone.querySelectorAll('a[href^="/wiki/"]')].map(titleOf).filter(Boolean);
-  if (text) out.push({ date, chain, links, text, sources: sources.slice(0, 3) });
+  const uniq = sources.filter((s, i) => sources.findIndex((o) => o.t === s.t) === i);
+  if (text) out.push({ date, chain, links, text, sources: uniq.slice(0, 3) });
   if (sub) for (const c of sub.children) walk(c, chain.concat(direct), date, out);
 }
 // 최근 7일 '오늘의 사건'에서 큐레이션 사건과 연결되는 항목
@@ -221,7 +222,7 @@ function conflictPage(ev, lang) {
 <h1>${esc(name)}</h1>
 <p class="lede">${esc(summary)}</p>
 <dl class="meta"><div><dt>${t.region}</dt><dd>${esc(region)}</dd></div><div><dt>${t.start}</dt><dd class="mono">${fmt(ev.start)}</dd></div><div><dt>${t.status}</dt><dd>${LV[lang][ev.level]}</dd></div><div><dt>${t.updated}</dt><dd class="mono"><time datetime="${mod}">${fmt(mod)}</time></dd></div></dl>
-${recent.length ? `<h2>${t.recent}</h2><ul class="news">${recent.slice(0, 8).map((n) => `<li><time class="mono" datetime="${n.date}">${fmt(n.date).slice(5)}</time><span>${esc(newsText(n, en))}${n.sources.length ? ` <small>${n.sources.map((s) => `<a href="${esc(s.u)}" rel="noopener nofollow">${esc(s.t)}</a>`).join(' · ')}</small>` : ''}</span></li>`).join('')}</ul><p class="note">${t.recentNote}</p>` : ''}
+${recent.length ? `<h2>${t.recent}</h2><ul class="news">${recent.slice(0, 8).map((n) => `<li><time class="mono" datetime="${n.date}">${fmt(n.date).slice(5)}</time><span>${esc(newsText(n, en))}${n.sources.length ? ` <small>${n.sources.filter((s, i, a) => a.findIndex((o) => o.t === s.t) === i).map((s) => `<a href="${esc(s.u)}" rel="noopener nofollow">${esc(s.t)}</a>`).join(' · ')}</small>` : ''}</span></li>`).join('')}</ul><p class="note">${t.recentNote}</p>` : ''}
 ${points.length ? `<h2>${t.keys}</h2><ul>${points.map((p) => `<li>${esc(p)}</li>`).join('')}</ul>` : ''}
 <h2>${t.cas}</h2>
 ${items.length ? `<div class="cas">${items.map((i) => `<div><span>${CL[lang][i.k]}</span><b>${esc(en ? i.vEn || i.v : i.v)}</b><small>${esc(en ? i.dEn || i.d : i.d)}</small></div>`).join('')}</div>` : `<p>${t.casNone}</p>`}
