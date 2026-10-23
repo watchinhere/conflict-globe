@@ -197,6 +197,41 @@ button:focus-visible, a:focus-visible, input:focus-visible, select:focus-visible
 .cas-cell .lab { font: 500 10px var(--f-mono); letter-spacing: .14em; color: var(--k); }
 .cas-cell b { display: block; margin-top: 4px; font: 600 17px/1.25 var(--f-mono); font-variant-numeric: tabular-nums; letter-spacing: -0.02em; word-break: keep-all; }
 .cas-cell small { display: block; margin-top: 4px; font-size: 11px; color: var(--dim); line-height: 1.45; }
+/* 사망자 어림값: 전체 / 최근 1년 */
+.d-pair { display: grid; grid-template-columns: 1fr 1fr; border: 1px solid var(--line); }
+.d-pair div { padding: 12px 14px; min-width: 0; }
+.d-pair div + div { border-left: 1px solid var(--line); }
+.d-pair small { display: block; font-size: 12px; color: var(--dim); }
+.d-pair b { display: block; margin-top: 4px; font: 700 20px/1.25 var(--f-body); color: var(--kill); word-break: keep-all; }
+.h-grid { display: grid; grid-template-columns: 1fr 1fr; border: 1px solid var(--line); }
+.h-grid div { padding: 9px 12px; min-width: 0; border-right: 1px solid var(--line); border-bottom: 1px solid var(--line); margin: 0 -1px -1px 0; --k: var(--hurt); }
+.h-grid .k-civ { --k: var(--kill); } .h-grid .k-displaced { --k: var(--disp); } .h-grid .k-detained, .h-grid .k-missing { --k: var(--det); }
+.h-grid small { display: block; font-size: 11px; color: var(--k); }
+.h-grid b { display: block; margin-top: 3px; font: 600 13px/1.4 var(--f-body); color: var(--ink); word-break: keep-all; }
+.inc { margin: 0; padding: 0; list-style: none; border-top: 1px solid var(--line); }
+.inc li { padding: 9px 2px; border-bottom: 1px solid var(--line); }
+.inc time { font: 500 11px var(--f-mono); color: var(--amber); }
+.inc p { margin: 2px 0 4px; font-size: 13px; line-height: 1.5; color: var(--ink); }
+.inc-n { display: flex; flex-wrap: wrap; gap: 4px 14px; font-size: 12px; color: var(--dim); }
+.inc-n b { font-weight: 600; }
+.inc-n .k b { color: var(--kill); } .inc-n .i b { color: var(--hurt); } .inc-n .x b { color: var(--det); }
+.d-note { margin: 6px 0 0; font-size: 11.5px; color: var(--faint); }
+.d-sub { margin: 16px 0 6px; font-size: 12px; font-weight: 600; color: var(--dim); }
+.ix-kia b.yr { color: var(--dim); font-size: 11px; }
+/* 인명 피해: 한 줄에 한 수치 — 구분 · 숫자 · 기준 */
+.cas-list { margin: 0; padding: 0; list-style: none; border-top: 1px solid var(--line); }
+.cas-list li { display: grid; grid-template-columns: 52px minmax(0, 1fr); column-gap: 12px; padding: 10px 2px; border-bottom: 1px solid var(--line); --k: var(--kill); }
+.cas-list li.k-injured { --k: var(--hurt); } .cas-list li.k-displaced { --k: var(--disp); } .cas-list li.k-detained, .cas-list li.k-missing { --k: var(--det); }
+.cas-list .lab { grid-row: span 2; align-self: center; font-size: 12px; font-weight: 600; color: var(--k); }
+.cas-list b { font: 600 13.5px/1.35 var(--f-body); font-variant-numeric: tabular-nums; color: var(--ink); }
+.cas-list small { font-size: 12px; color: var(--dim); line-height: 1.5; }
+.unv { margin-left: 6px; padding: 1px 6px; border: 1px solid rgba(227,170,69,.45); border-radius: 3px; font-style: normal; font-size: 10.5px; color: var(--amber); white-space: nowrap; }
+.more-stat { margin-top: 12px; }
+.more-stat summary { cursor: pointer; font-size: 12px; color: var(--dim); }
+.more-stat summary:hover { color: var(--ink); }
+.panel .facts { margin: 0; }
+.panel .facts dt { font: 12px var(--f-body); letter-spacing: 0; }
+.panel .p-meta small { font: 11px var(--f-body); letter-spacing: 0; }
 .cas-src { margin: 10px 0 0; font-size: 11.5px; color: var(--faint); line-height: 1.6; }
 .auto-stat { margin-top: 10px; padding: 10px 12px; border: 1px dashed var(--line-hi); }
 .as-h { display: flex; gap: 8px; align-items: center; font-size: 11.5px; color: var(--dim); }

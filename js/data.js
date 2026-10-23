@@ -1,4 +1,5 @@
 // 큐레이션 데이터: 2026-10-10까지 공개 보도 종합. 실시간 갱신분은 live.js가 덧붙인다.
+// [출처 미확인]: 해당 항목의 articles 링크 본문에서 확인되지 않은 수치 (2026-10-17 점검).
 export const ASOF = '2026-10-10';
 
 import { isEn } from './i18n.js';
@@ -33,8 +34,8 @@ export const EVENTS = [
   { id: 'ukraine', cat: 'war', name: '러시아–우크라이나 전쟁', en: 'Russia–Ukraine War', region: '우크라이나 동부 (도네츠크·하르키우·자포리자 전선)', lat: 48.3, lon: 37.6, start: '2022-02-24', level: 'stalemate', intensity: 3, air: true,
     wiki: ['Russo-Ukrainian war', 'Russian invasion of Ukraine', 'Russo-Ukrainian war (2022–present)', 'Russian strikes against Ukrainian infrastructure'],
     summary: '러시아군이 도네츠크·하르키우·자포리자 축에서 공세를 이어가고 있지만, 우크라이나군 총사령관은 2026년 상반기 러시아군의 진격 속도가 절반 이하로 줄었다고 밝혔습니다. 8월에는 우크라이나군이 쿠피안스크·보로바 방면에서 일부 지역을 되찾았습니다. 반면 민간인 피해는 6–7월 2022년 이후 최고치를 기록했습니다.',
-    points: ['ISW(9월 2일): 푸틴은 현 전선 동결과 실질적인 평화협상에 응하지 않겠다는 입장을 반복', '7월 민간인 사망 437명·부상 2,610명으로 2022년 5월 이후 최다 (유엔)', '러시아는 하르키우·자포리자 축의 마을 점령을 주장하나 독립 검증은 되지 않음'],
-    cas: { items: [{ k: 'killed', v: '16,431명+', d: '민간인 누적 (2022.2–2026.7 중순)' }, { k: 'injured', v: '48,613명+', d: '민간인 누적' }, { k: 'killed', v: '15,280명', d: '2026년 1–8월 민간인 사상(사망+부상)' }], killedNum: 16431,
+    points: ['ISW(9월 2일): 푸틴은 현 전선 동결과 실질적인 평화협상에 응하지 않겠다는 입장을 반복', '7월 민간인 사망 437명·부상 2,610명으로 2022년 5월 이후 최다 (유엔) [출처 미확인]', '러시아는 하르키우·자포리자 축의 마을 점령을 주장하나 독립 검증은 되지 않음'],
+    cas: { items: [{ k: 'killed', v: '16,431명+', d: '민간인 누적 (2022.2–2026.7 중순) [출처 미확인]' }, { k: 'injured', v: '48,613명+', d: '민간인 누적 [출처 미확인]' }, { k: 'killed', v: '15,280명', d: '2026년 1–8월 민간인 사상(사망+부상)' }], killedNum: 16431,
       src: '유엔 인권사무소(OHCHR·HRMMU). 양측 군 사상자는 공개되지 않으며 수십만 명으로 추정됩니다.' },
     articles: [
       { t: 'Russian Offensive Campaign Assessment, September 2, 2026', s: 'ISW / Critical Threats', d: '2026-09-02', u: 'https://www.criticalthreats.org/analysis/russian-offensive-campaign-assessment-september-2-2026' },
@@ -46,7 +47,7 @@ export const EVENTS = [
     wiki: ['Sudanese civil war (2023–present)', 'War in Sudan (2023–present)', 'Sudanese civil war'],
     summary: '수단군(SAF)과 준군사조직 신속지원군(RSF)의 내전입니다. 2025년 10월 RSF가 엘파셰르를 함락한 뒤 코르도판 3개 주가 주 전장이 됐습니다. 8월 말 RSF가 여러 지역에서 반격했고, 수단군은 옴두르만–엘오베이드 수출도로의 요충지를 되찾았습니다.',
     points: ['부르한 수단군 사령관: 연내 RSF 격퇴 공언', '2026년 2월 쿼드(미국·사우디·UAE·이집트) 평화안 발표 이후에도 교전 지속', '10월까지 이어지는 우기로 기동 제약'],
-    cas: { items: [{ k: 'killed', v: '4만–15만 명', d: 'WHO 최소 4만 명, IRC·미 특사 최대 15만 명 추정' }, { k: 'displaced', v: '약 1,400만 명', d: '국내 900만 · 국외 440만 (2026.4)' }], killedNum: 40000,
+    cas: { items: [{ k: 'killed', v: '4만–15만 명', d: 'WHO 최소 4만 명, IRC·미 특사 최대 15만 명 추정 [출처 미확인]' }, { k: 'displaced', v: '약 1,400만 명', d: '국내 900만 · 국외 440만 (2026.4)' }], killedNum: 40000,
       src: 'WHO, 유엔 뉴스(2026.4), IRC. 현장 접근 제한으로 실제 사망자는 공식 집계보다 훨씬 많을 수 있습니다.' },
     articles: [
       { t: 'Africa File: Sudan RSF counterattacks, August 20, 2026', s: 'Critical Threats', d: '2026-08-20', u: 'https://www.criticalthreats.org/analysis/sudan-rsf-splm-issp-lakirawa-nigeria-africa-file-august-20-2026' },
@@ -58,7 +59,7 @@ export const EVENTS = [
     wiki: ['2026 Iran war', '2026 Iran–United States war', 'Iran–Israel conflict', 'Iran–United States relations'],
     summary: '2026년 2월 28일 미국과 이스라엘의 대이란 공습으로 시작됐습니다. 4월 8일 조건부 휴전 뒤 7월 호르무즈 해협 선박 공격과 요르단 미군기지 미사일 공격으로 다시 충돌했고, 9월 1–2일에도 공습을 주고받았습니다.',
     points: ['10월 초 미 국방부가 중부사령부에 대규모 전투작전 재개 준비를 마치라고 지시 (Just Security, 10월 8일)', '미·이란 간 종전 협상은 현재 없음 (영국 하원 도서관)', '전쟁은 레바논·예멘·사우디 전선으로 확산'],
-    cas: { items: [{ k: 'killed', v: '3,468명', d: '이란 보건부, 2.28–4.8 개전 40일' }, { k: 'injured', v: '26,500명+', d: '같은 기간' }, { k: 'killed', v: '3,636–7,650명', d: '인권단체 추정 (HRANA·Hengaw, 군인 포함)' }], killedNum: 3468,
+    cas: { items: [{ k: 'killed', v: '3,468명', d: '이란 보건부, 2.28–4.8 개전 40일' }, { k: 'injured', v: '26,500명+', d: '같은 기간 [출처 미확인]' }, { k: 'killed', v: '3,636–7,650명', d: '인권단체 추정 (HRANA·Hengaw, 군인 포함) [출처 미확인]' }], killedNum: 3468,
       src: '이란 보건부·HRANA·Hengaw. 7월 이후 재충돌 사상자는 포함되지 않았고, 인터넷 차단으로 독립 검증이 어렵습니다.' },
     articles: [
       { t: 'Early Edition: October 8, 2026', s: 'Just Security', d: '2026-10-08', u: 'https://justsecurity.org/160040/early-edition-october-8-2026' },
@@ -70,7 +71,7 @@ export const EVENTS = [
     wiki: ['Yemeni civil war (2014–present)', 'Red Sea crisis', 'Houthi movement', 'Saudi Arabian-led intervention in Yemen'],
     summary: '사우디와 연합 예멘군이 후티 반군이 한 달 전 장악한 홍해 연안과 바브엘만데브 해협 일대를 되찾기 위해 대규모 지상·공중 공세에 나섰습니다. 후티는 10월 6–8일 리야드·아브하 공항과 아람코 라비그 정유시설을 미사일과 드론으로 공격했습니다.',
     points: ['후티, 사우디 영공 운항 항공사에 “최후 경고”', '아덴 국제공항도 탄도미사일·드론 공격 받음'],
-    cas: { items: [{ k: 'killed', v: '3명', d: '10.6–7 사우디 공항 피격' }, { k: 'injured', v: '36명', d: '같은 공격 (아브하 28명·리야드 8명)' }, { k: 'killed', v: '약 37만 7천 명', d: '전쟁 전체 (간접 사망 포함, 유엔개발계획 2021 추정)' }], killedNum: 377000,
+    cas: { items: [{ k: 'killed', v: '3명', d: '10.6–7 사우디 공항 피격' }, { k: 'injured', v: '36명', d: '같은 공격 (아브하 28명·리야드 8명)' }, { k: 'killed', v: '약 37만 7천 명', d: '전쟁 전체 (간접 사망 포함, 유엔개발계획 2021 추정) [출처 미확인]' }], killedNum: 377000,
       src: '사우디 민항청(10월), 유엔개발계획(UNDP).' },
     articles: [
       { t: 'Iran-backed Houthis attack Saudi Arabia airports, killing 3', s: 'AP / Honolulu Star-Advertiser', d: '2026-10-07', u: 'https://www.staradvertiser.com/2026/10/07/breaking-news/iran-backed-houthis-attack-saudi-arabia-airports-killing-3/' },
@@ -81,7 +82,7 @@ export const EVENTS = [
     wiki: ['Myanmar civil war (2021–present)', 'Myanmar civil war', 'Myanmar conflict', 'Arakan Army'],
     summary: '2021년 쿠데타 이후 군정과 저항세력·소수민족 무장단체 사이의 내전입니다. 9월 라카인주에서는 아라칸군(AA)과 군정의 교전이 연일 이어졌고, 카친·친주에서는 군정 공습으로 민간인이 숨졌습니다.',
     points: ['ACLED: 2026년 상반기 집단 살해 10여 건, 민간인 450명 이상 사망', '민 아웅 흘라잉, 야권 배제 선거 뒤 대통령 취임', '1,600만 명 이상 인도적 지원 필요 (유엔, 2026.7)'],
-    cas: { items: [{ k: 'killed', v: '약 10만 명', d: '2021년 이후 누적 (로이터)' }, { k: 'displaced', v: '약 380만 명', d: '국내 피란 (유엔, 2026.7)' }, { k: 'killed', v: '982명', d: '2025년 군 공습에 의한 민간인 사망 (유엔)' }], killedNum: 100000,
+    cas: { items: [{ k: 'killed', v: '약 10만 명', d: '2021년 이후 누적 (로이터)' }, { k: 'displaced', v: '약 380만 명', d: '국내 피란 (유엔, 2026.7) [출처 미확인]' }, { k: 'killed', v: '982명', d: '2025년 군 공습에 의한 민간인 사망 (유엔) [출처 미확인]' }], killedNum: 100000,
       src: '로이터, 유엔 OCHA·인권사무소.' },
     articles: [
       { t: 'Myanmar military escalates civilian killings, monitor warns amid diplomatic push', s: 'News Tribune (AP)', d: '2026-07-27', u: 'https://www.newstribune.com/news/2026/jul/27/myanmar-military-escalates-civilian-killings-monitor-warns-amid-diplomatic-push/' },
@@ -92,7 +93,7 @@ export const EVENTS = [
     wiki: ['M23 campaign (2022–present)', 'Kivu conflict', 'M23 offensive', 'March 23 Movement', 'Democratic Republic of the Congo–Rwanda relations'],
     summary: '르완다가 지원하는 M23(AFC) 연합과 콩고군(FARDC)·부룬디군·와잘렌도 민병대가 싸우고 있습니다. 9월 중순 정부군이 남부 마시시에서 진전을 이뤘지만 25일께 응궁구 방면에서 공세가 멈췄습니다. 남키부 고원 미넴브웨 일대가 가장 치열한 전선입니다.',
     points: ['왈리칼레 RP529 도로에서 거점 주인이 여러 차례 바뀜', '9월 초 마시시–왈리칼레 경계 교전으로 새 피란 행렬', '일부 수치는 교전 당사자 주장으로 미확인'],
-    cas: { items: [{ k: 'killed', v: '1,500명+', d: 'M23의 우비라 점령 (2025.12, 지방 당국)' }, { k: 'killed', v: '171구', d: '2026.2 우비라 인근 집단매장지' }, { k: 'displaced', v: '700만 명+', d: '콩고 전체 누적 (UNHCR)' }], killedNum: 1500,
+    cas: { items: [{ k: 'killed', v: '1,500명+', d: 'M23의 우비라 점령 (2025.12, 지방 당국) [출처 미확인]' }, { k: 'killed', v: '171구', d: '2026.2 우비라 인근 집단매장지' }, { k: 'displaced', v: '700만 명+', d: '콩고 전체 누적 (UNHCR) [출처 미확인]' }], killedNum: 1500,
       src: '지방 당국, AP, UNHCR. 2026년 전체 사망자 공식 집계는 없습니다.' },
     articles: [
       { t: 'Congo War Security Review — September 25, 2026', s: 'Critical Threats', d: '2026-09-25', u: 'https://www.criticalthreats.org/briefs/congo-war-security-review/september-25-2026' },
@@ -114,7 +115,7 @@ export const EVENTS = [
     wiki: ['2026 Ethiopian offensive', 'Fano insurgency', 'Ethiopian civil conflict (2018–present)', 'Eritrea–Ethiopia relations'],
     summary: '9월 23일 에티오피아 반군 연합(EPFAS)이 티그라이에서 정부군(ENDF)을 상대로 대규모 공세를 시작했습니다. 에리트레아군이 에티오피아 영내에 있다는 보도가 나왔고, 10월 1일에는 아디스아바바가 드론 공격을 받았습니다.',
     points: ['10월 8–9일 정부군, 아디그라트 인근 에리트레아군에 드론 공습', '현재 정보는 주로 위키백과 정리에 기반, 교차 확인 필요'],
-    cas: { items: [], killedNum: 0, src: '아직 신뢰할 만한 사상자 집계가 없습니다. 아래 자동 집계와 최근 보도를 참고하세요.' },
+    cas: { items: [], killedNum: 0, src: '아직 신뢰할 만한 사상자 집계가 없습니다. 아래 자동 집계와 최근 보도를 참고하십시오.' },
     articles: [
       { t: '2026 Ethiopian offensive', s: 'Wikipedia', d: '갱신 중', u: 'https://en.wikipedia.org/wiki/2026_Ethiopian_offensive' },
       { t: 'Early Edition: October 8, 2026', s: 'Just Security', d: '2026-10-08', u: 'https://justsecurity.org/160040/early-edition-october-8-2026' },
@@ -135,7 +136,7 @@ export const EVENTS = [
     wiki: ['Gaza war', 'Gaza–Israel conflict', 'Gaza war ceasefire', 'Israeli–Palestinian conflict'],
     summary: '2025년 10월 10일 휴전이 발효됐지만 이스라엘군의 공습·포격·드론 공격과 지상 작전은 멈추지 않았습니다. 휴전 이후 사망자는 1,300명을 넘었고, 양측은 서로 휴전 위반을 주장하고 있습니다.',
     points: ['WHO: 병원 36곳 중 19곳만 부분 가동, 완전 가동 병원 없음', '가자 면적의 약 3분의 2가 접근 불가 또는 심각한 제한 (유엔)'],
-    cas: { items: [{ k: 'killed', v: '73,922명', d: '2023.10.7 이후 누적 (9.23)' }, { k: 'injured', v: '174,995명', d: '같은 기간' }, { k: 'killed', v: '1,326명', d: '2025.10.10 휴전 이후 (9.1)' }], killedNum: 73922,
+    cas: { items: [{ k: 'killed', v: '73,462명', d: '2023.10.7 이후 누적 (9.4 기준, Gaza Unlocked)' }, { k: 'injured', v: '174,509명', d: '같은 기간' }, { k: 'killed', v: '1,326명', d: '2025.10.10 휴전 이후 (9.1) [출처 미확인]' }], killedNum: 73462,
       src: '가자 보건부(유엔 인용). 이스라엘은 수치에 이의를 제기합니다.' },
     articles: [
       { t: 'Weekly summary of the War on Gaza, September 4, 2026', s: 'Gaza Unlocked', d: '2026-09-04', u: 'https://gazaunlocked.org/posts/weekly-gaza-update-september-4' },
@@ -156,7 +157,7 @@ export const EVENTS = [
     wiki: ['Haitian crisis (2018–present)', 'Gang war in Haiti', 'Haitian gang war', 'Viv Ansanm'],
     summary: '갱단이 수도 포르토프랭스의 약 90%를 장악했습니다. 8월 23일 켄스코프에서 피란민이 머물던 교회가 습격당해 40명 넘게 숨지고 50명 이상이 납치됐습니다.',
     points: ['국제 안정화군 약 1,500명, 목표 5,500명에 크게 못 미침', '12월 총선 예정'],
-    cas: { items: [{ k: 'killed', v: '3,050명', d: '2026년 1–6월 (1분기 1,642 + 2분기 1,408)' }, { k: 'injured', v: '656명', d: '2026년 2분기' }, { k: 'displaced', v: '약 150만 명', d: '국내 피란' }], killedNum: 3050,
+    cas: { items: [{ k: 'killed', v: '3,050명', d: '2026년 1–6월 (1분기 1,642 + 2분기 1,408)' }, { k: 'injured', v: '656명', d: '2026년 2분기' }, { k: 'displaced', v: '약 150만 명', d: '국내 피란 [출처 미확인]' }], killedNum: 3050,
       src: '유엔 아이티 통합사무소(BINUH), 유엔 인권최고대표(10.2: 2026년 사상자 5,700명+).' },
     articles: [
       { t: 'Violência de gangues no Haiti matou 5,7 mil em 2026, diz ONU', s: 'O Povo', d: '2026-10-03', u: 'https://www.opovo.com.br/noticias/mundo/2026/10/03/violencia-de-gangues-no-haiti-matou-57-mil-em-2026-diz-onu.html' },
@@ -167,7 +168,7 @@ export const EVENTS = [
     wiki: ['2026 Belgian protests', 'Belgian anti-austerity protests'],
     summary: '정부의 100억 유로 긴축안에 반대하는 전국 파업 집회(약 3만 명)가 10월 9일 브뤼셀에서 열렸고, 복면을 쓴 청년 무리가 중앙역 근처에서 경찰과 충돌했습니다. 경찰은 물대포와 최루탄을 썼습니다.',
     points: ['리에주에서 학생 시위가 폭동으로 번져 집회 금지령', '노조 측: 폭력 행위자는 본 집회와 무관'],
-    cas: { items: [{ k: 'killed', v: '0명', d: '사망자 보고 없음' }, { k: 'injured', v: '경찰 수십 명', d: '리에주 충돌' }, { k: 'detained', v: '220명+', d: '브뤼셀 약 20명 + 리에주 200명 이상' }], killedNum: 0, src: 'Euronews, DW, The Belgian Times.' },
+    cas: { items: [{ k: 'killed', v: '0명', d: '사망자 보고 없음' }, { k: 'injured', v: '경찰 수십 명', d: '리에주 충돌' }, { k: 'detained', v: '220명+', d: '브뤼셀 약 20명 + 리에주 200명 이상 (리에주 수치 출처 미확인)' }], killedNum: 0, src: 'Euronews, DW, The Belgian Times.' },
     articles: [
       { t: 'Police and protesters clash in Brussels as anti-austerity rally disrupts city', s: 'Euronews', d: '2026-10-09', u: 'https://www.euronews.com/2026/10/09/police-and-protesters-clash-in-brussels-as-anti-austerity-rally-disrupts-city' },
       { t: 'Thousands flood Brussels streets as anti-austerity protests erupt into clashes with police', s: 'Fox News', d: '2026-10-09', u: 'https://www.foxnews.com/world/thousands-flood-brussels-streets-anti-austerity-protests-erupt-clashes-police' },
@@ -187,7 +188,7 @@ export const EVENTS = [
     wiki: ['Persecution of Uyghurs in China', 'Xinjiang internment camps', 'Uyghur genocide'],
     summary: '중국 정부가 위구르족 등 무슬림 소수민족을 대규모 구금·감시·강제노동 체제로 통제하고 있다는 국제적 비판이 이어지고 있습니다. 중국은 2019년 수용소 대부분을 닫았다고 밝혔지만 미 국무부는 다수가 여전히 수감돼 있다고 봅니다.',
     points: ['2026년 1월 중국, 신장 강제노동에 대한 유엔 전문가 우려 거부', '인권단체들, 각국에 대응 강화 촉구 (HRW, 2026년 1월)'],
-    cas: { items: [{ k: 'detained', v: '최대 100만 명+', d: '2017–2019 수용소 구금 추정 (유엔 인종차별철폐위원회 인용 보고)' }], killedNum: 0, src: '유엔 CERD(2018), 미 국무부 인권보고서. 중국 정부는 직업훈련 시설이라고 주장합니다.' },
+    cas: { items: [{ k: 'detained', v: '최대 100만 명+', d: '2017–2019 수용소 구금 추정 (유엔 인종차별철폐위원회 인용 보고) [출처 미확인]' }], killedNum: 0, src: '유엔 CERD(2018), 미 국무부 인권보고서. 중국 정부는 직업훈련 시설이라고 주장합니다.' },
     articles: [
       { t: 'Persecution of Uyghurs in Xinjiang: Torture, Crimes Against Humanity, and Genocide', s: 'Hoover Institution', d: '', u: 'https://www.hoover.org/node/379149' },
       { t: 'Uyghurs — latest coverage', s: 'Arab News', d: '2026', u: 'https://www.arabnews.com/tag/uyghurs' },
@@ -197,7 +198,7 @@ export const EVENTS = [
     wiki: ['Rohingya genocide', 'Rohingya people', 'Rohingya refugee crisis'],
     summary: '라카인주에서 미얀마군과 아라칸군(AA)의 전투가 이어지는 가운데, 로힝야족이 양측 모두로부터 초법적 살해·납치·무차별 폭격 피해를 입고 있다는 보고가 나오고 있습니다.',
     points: ['미 국무부, 2023년 로힝야 처우를 “인종청소”로 규정', '유엔, 2017년 대학살 재연 우려 경고'],
-    cas: { items: [{ k: 'killed', v: '6,700명+', d: '2017.8 군 소탕작전 첫 한 달 (국경없는의사회 추정)' }, { k: 'displaced', v: '약 100만 명', d: '방글라데시 콕스바자르 난민촌' }], killedNum: 6700, src: '국경없는의사회(MSF), UNHCR.' },
+    cas: { items: [{ k: 'killed', v: '6,700명+', d: '2017.8 군 소탕작전 첫 한 달 (국경없는의사회 추정) [출처 미확인]' }, { k: 'displaced', v: '약 100만 명', d: '방글라데시 콕스바자르 난민촌 [출처 미확인]' }], killedNum: 6700, src: '국경없는의사회(MSF), UNHCR.' },
     articles: [
       { t: 'UN fears repeat of 2017 atrocities against Rohingyas', s: 'The Sun (Malaysia)', d: '', u: 'https://thesun.my/world/un-fears-repeat-of-2017-atrocities-against-rohingyas-GK12901676' },
       { t: 'US report: ‘Ethnic cleansing’ of Rohingya took place last year', s: 'Radio Free Asia', d: '2024-04-22', u: 'https://www.rfa.org/english/news/myanmar/rohinya-ethnic-cleansing-04222024152550.html' },
@@ -207,7 +208,7 @@ export const EVENTS = [
     wiki: ['Siege of El Fasher', 'El Fasher massacre', 'Masalit massacres', 'War in Darfur (2023–present)'],
     summary: 'RSF가 2025년 10월 오랜 포위 끝에 엘파셰르를 함락한 뒤 비아랍계 주민을 겨냥한 집단 살해가 보고됐습니다. 2023년 서다르푸르 엘제네이나의 마살리트족 학살에 이어 국제사회는 제노사이드 위험을 경고하고 있습니다.',
     points: ['보호책임 국제센터(GR2P): 다르푸르 주민에 대한 잔학행위 위험 최고 단계', '엘파셰르 함락 이후 대규모 피란과 인도적 접근 차단'],
-    cas: { items: [{ k: 'killed', v: '1만–1만5천 명', d: '2023 엘제네이나 마살리트족 학살 (유엔 전문가 패널)' }, { k: 'killed', v: '1,500명+', d: '2025.10 엘파셰르 함락 직후 (수단 의사네트워크 주장)' }], killedNum: 10000, src: '유엔 수단 전문가 패널, 수단 의사네트워크.' },
+    cas: { items: [{ k: 'killed', v: '1만–1만5천 명', d: '2023 엘제네이나 마살리트족 학살 (유엔 전문가 패널) [출처 미확인]' }, { k: 'killed', v: '1,500명+', d: '2025.10 엘파셰르 함락 직후 (수단 의사네트워크 주장) [출처 미확인]' }], killedNum: 10000, src: '유엔 수단 전문가 패널, 수단 의사네트워크.' },
     articles: [
       { t: 'Sudan — Populations at risk', s: 'Global Centre for the Responsibility to Protect', d: '갱신 중', u: 'https://www.globalr2p.org/countries/sudan/' },
       { t: 'War in Sudan: Humanitarian collapse, fighting, deadlock', s: 'Al Jazeera', d: '2025-12-31', u: 'https://www.aljazeera.com/news/2025/12/31/war-in-sudan-humanitarian-collapse-fighting-deadlock-december-2025' },
@@ -216,7 +217,7 @@ export const EVENTS = [
 
 // 추가 수록: 상세 수치는 실시간 위키백과 집계(자동)로 표시
 const W = (t) => ({ t: `${t} — Wikipedia`, s: 'Wikipedia', d: '갱신 중', u: `https://en.wikipedia.org/wiki/${encodeURIComponent(t.replace(/ /g, '_'))}` });
-const NOCAS = { items: [], killedNum: 0, src: '사상자는 아래 위키백과 실시간 집계를 참고하세요.' };
+const NOCAS = { items: [], killedNum: 0, src: '사상자는 아래 위키백과 실시간 집계를 참고하십시오.' };
 EVENTS.push(
   { id: 'somalia', cat: 'war', name: '소말리아 내전 (알샤바브)', en: 'Somali Civil War', region: '소말리아 중남부', lat: 2.05, lon: 45.32, start: '2009', level: 'active', intensity: 2, air: true,
     wiki: ['Somali Civil War (2009–present)', 'Somali Civil War', 'Al-Shabaab insurgency'], summary: '알카에다 연계 무장단체 알샤바브가 중남부 농촌을 장악한 채 소말리아 정부군·아프리카연합 지원군과 싸우고 있습니다. 수도 모가디슈에서도 폭탄 테러가 반복됩니다.',
@@ -242,6 +243,24 @@ EVENTS.push(
   { id: 'mozambique', cat: 'clash', name: '모잠비크 카보델가두 반란', en: 'Insurgency in Cabo Delgado', region: '모잠비크 카보델가두주', lat: -12.3, lon: 40.2, start: '2017-10-05', level: 'active', intensity: 1, size: 0.6,
     wiki: ['Insurgency in Cabo Delgado'], summary: 'IS 연계 무장단체가 북부 카보델가두주의 마을과 도로를 공격하고 있으며, 르완다군이 정부군을 지원하고 있습니다.',
     points: ['천연가스 개발 지역 인근 공격 반복', '민간인 참수·납치 보고'], cas: NOCAS, articles: [W('Insurgency in Cabo Delgado')], q: 'Cabo Delgado insurgents', q2: 'Mozambique', qko: '모잠비크 카보델가두' },
+  { id: 'southsudan', cat: 'war', name: '남수단 내전 재발', en: 'South Sudan conflict', region: '남수단 상나일주 · 종글레이주', lat: 9.53, lon: 31.66, start: '2025-03', level: 'escalating', intensity: 2, air: true,
+    wiki: ['South Sudanese conflict (2025–present)', 'South Sudanese Civil War', 'Ethnic violence in South Sudan'], summary: '2025년 초 상나일주 나시르 충돌을 계기로 키르 대통령 측 정부군(SSPDF)과 마차르 전 부통령 계열 SPLA-IO의 교전이 다시 번졌습니다. 마차르가 체포·기소되면서 2018년 평화협정이 사실상 무너졌습니다.',
+    points: ['정부군의 공습과 지상 작전으로 상나일·종글레이에서 대규모 피란', '수단 내전과 겹쳐 국경 지대 인도적 위기 심화'], cas: NOCAS, articles: [W('South Sudanese Civil War')], q: 'South Sudan SPLA-IO fighting', q2: 'South Sudan', qko: '남수단 내전' },
+  { id: 'cameroon', cat: 'clash', name: '카메룬 영어권 분리주의 분쟁', en: 'Anglophone Crisis (Cameroon)', region: '카메룬 북서부 · 남서부주', lat: 5.96, lon: 10.15, start: '2017-09-09', level: 'active', intensity: 1, size: 0.6,
+    wiki: ['Anglophone Crisis', 'Ambazonia'], summary: '카메룬 영어권 지역의 분리주의 무장단체(암바조니아)와 정부군이 충돌하고 있습니다. 납치·방화와 학교 폐쇄가 이어지며, 북부에서는 보코하람 공격도 계속됩니다.',
+    points: ['양측 모두 민간인 대상 폭력 의혹', '수십만 명이 장기 피란 중'], cas: NOCAS, articles: [W('Anglophone Crisis')], q: 'Cameroon Anglophone separatists', q2: 'Cameroon', qko: '카메룬 분리주의' },
+  { id: 'niger', cat: 'war', name: '니제르 지하디스트 분쟁', en: 'Jihadist insurgency in Niger', region: '니제르 틸라베리 · 타후아', lat: 14.2, lon: 1.45, start: '2015-02', level: 'escalating', intensity: 2,
+    wiki: ['Jihadist insurgency in Niger', 'Islamic State – Sahel Province'], summary: 'IS 사헬주와 JNIM이 말리·부르키나파소 국경과 맞닿은 틸라베리 지역에서 군과 민간인을 공격하고 있습니다. 2023년 쿠데타 이후 서방 군이 철수하면서 공격이 늘었습니다.',
+    points: ['모스크·시장 등 민간인 밀집 지역 공격 반복', '군정은 러시아와 군사 협력 확대'], cas: NOCAS, articles: [W('Jihadist insurgency in Niger')], q: 'Niger Tillaberi attack', q2: 'Niger', qko: '니제르 무장단체' },
+  { id: 'balochistan', cat: 'clash', name: '파키스탄 발루치스탄 분리주의 반란', en: 'Insurgency in Balochistan', region: '파키스탄 발루치스탄주', lat: 29.0, lon: 66.5, start: '2004', level: 'escalating', intensity: 2, size: 0.65,
+    wiki: ['Insurgency in Balochistan', 'Balochistan Liberation Army'], summary: '발루치스탄해방군(BLA) 등 분리주의 무장단체가 파키스탄군과 중국 관련 시설, 다른 지역 출신 노동자를 공격하고 있습니다. 2025년 3월에는 퀘타행 자파르 익스프레스 열차 납치 사건이 일어났습니다.',
+    points: ['고속도로 검문·버스 승객 살해 사건 반복', '강제 실종 문제로 주민 반발'], cas: NOCAS, articles: [W('Insurgency in Balochistan')], q: 'Balochistan BLA attack', q2: 'Balochistan', qko: '발루치스탄' },
+  { id: 'benin', cat: 'clash', name: '베냉 북부 지하디스트 확산', en: 'Jihadist insurgency in Benin', region: '베냉 북부 (W·펜드자리 국립공원)', lat: 11.2, lon: 1.9, start: '2021-12', level: 'escalating', intensity: 1, size: 0.55,
+    wiki: ['Jihadist insurgency in Benin', 'Jihadist insurgency in Togo'], summary: '사헬의 JNIM이 남쪽 해안국가로 세력을 넓히며 베냉 북부 국경 지대의 군 초소를 공격하고 있습니다. 2025년 4월 공격으로 베냉군 50명 이상이 숨졌습니다.',
+    points: ['토고 북부에서도 비슷한 공격 발생', '국립공원 지대가 무장단체 근거지로 이용됨'], cas: NOCAS, articles: [W('Jihadist insurgency in Benin')], q: 'Benin JNIM attack', q2: 'Benin', qko: '베냉 무장단체' },
+  { id: 'thaicambo', cat: 'clash', name: '태국–캄보디아 국경 충돌', en: 'Cambodia–Thailand border conflict', region: '태국–캄보디아 국경 (프레아비헤아르 일대)', lat: 14.39, lon: 104.68, start: '2025-05-28', level: 'ceasefire', intensity: 1, size: 0.55, air: true,
+    wiki: ['2025 Cambodia–Thailand border conflict', 'Cambodia–Thailand border dispute'], summary: '2025년 5월 국경 총격전 이후 7월 포격과 공습을 동반한 무력 충돌로 번졌고, 12월에도 다시 교전이 벌어졌습니다. 휴전은 이어지고 있지만 국경 분쟁은 해결되지 않았습니다.',
+    points: ['양국 국경 주민 수십만 명이 한때 피란', '말레이시아·미국 등이 휴전 중재'], cas: NOCAS, articles: [W('2025 Cambodia–Thailand border conflict')], q: 'Thailand Cambodia border clash', q2: 'Thailand Cambodia', qko: '태국 캄보디아 국경' },
 );
 
 // 큐레이션 사건의 영어판
@@ -338,8 +357,106 @@ const EN = {
   mexico: { region: 'Sinaloa, Jalisco and Guerrero, Mexico', summary: 'After the Sinaloa Cartel split, factional war intensified around Culiacán, and clashes between security forces and cartels continue.', points: ['Civil war between Sinaloa Cartel factions', 'More than 100,000 people registered as missing (Mexican government registry)'], cas: [], src: 'See the live Wikipedia tally below.' },
   colombia: { region: 'Catatumbo and Cauca, Colombia', summary: 'The ELN, FARC dissident factions and drug-trafficking groups are fighting over territory in Catatumbo, Cauca and elsewhere.', points: ['Fighting in Catatumbo caused mass displacement', 'Peace talks are effectively stalled'], cas: [], src: 'See the live Wikipedia tally below.' },
   mozambique: { region: 'Cabo Delgado, Mozambique', summary: 'IS-linked militants attack villages and roads in northern Cabo Delgado; Rwandan troops support government forces.', points: ['Repeated attacks near natural-gas projects', 'Beheadings and abductions of civilians reported'], cas: [], src: 'See the live Wikipedia tally below.' },
+  southsudan: { region: 'Upper Nile and Jonglei, South Sudan', summary: 'After clashes in Nasir, Upper Nile, in early 2025, fighting resumed between President Kiir’s army (SSPDF) and the SPLA-IO loyal to former vice-president Machar. Machar’s arrest and indictment effectively collapsed the 2018 peace deal.', points: ['Army airstrikes and ground operations have displaced many in Upper Nile and Jonglei', 'The Sudan war deepens the humanitarian crisis along the border'], cas: [], src: 'See the live Wikipedia tally below.' },
+  cameroon: { region: 'Northwest and Southwest regions, Cameroon', summary: 'Separatist armed groups (Ambazonia) in Cameroon’s English-speaking regions are fighting government forces. Kidnappings, arson and school closures continue, and Boko Haram still attacks in the far north.', points: ['Both sides accused of violence against civilians', 'Hundreds of thousands remain displaced'], cas: [], src: 'See the live Wikipedia tally below.' },
+  niger: { region: 'Tillabéri and Tahoua, Niger', summary: 'Islamic State Sahel Province and JNIM attack soldiers and civilians in Tillabéri on the Mali and Burkina Faso borders. Attacks rose after Western troops left following the 2023 coup.', points: ['Repeated attacks on mosques, markets and other crowded places', 'The junta has expanded military cooperation with Russia'], cas: [], src: 'See the live Wikipedia tally below.' },
+  balochistan: { region: 'Balochistan, Pakistan', summary: 'Separatist groups such as the Balochistan Liberation Army (BLA) attack the Pakistani military, Chinese-linked projects and workers from other provinces. In March 2025 they hijacked the Jaffar Express train bound for Quetta.', points: ['Repeated highway checkpoints where bus passengers are killed', 'Enforced disappearances fuel local anger'], cas: [], src: 'See the live Wikipedia tally below.' },
+  benin: { region: 'Northern Benin (W and Pendjari parks)', summary: 'Sahel-based JNIM is expanding toward coastal states and attacking army posts along Benin’s northern border. An April 2025 attack killed more than 50 Beninese soldiers.', points: ['Similar attacks in northern Togo', 'National parks serve as militant bases'], cas: [], src: 'See the live Wikipedia tally below.' },
+  thaicambo: { region: 'Thailand–Cambodia border (Preah Vihear area)', summary: 'A border shootout in May 2025 escalated in July into fighting with artillery and airstrikes, and clashes flared again in December. A ceasefire holds, but the border dispute is unresolved.', points: ['Hundreds of thousands of border residents were displaced at the peak', 'Malaysia and the US mediated the truce'], cas: [], src: 'See the live Wikipedia tally below.' },
+};
+// 사망자 어림값: [전체, 최근 1년(2025.10–2026.10)] — 한국어 / 영어. 기관마다 기준이 달라 대략적인 규모만 나타낸다.
+// 위키백과 ‘진행 중인 무력 분쟁 목록’(2026.10.17 조회)과 위 사상자 자료를 바탕으로 어림함.
+const DEATHS = {
+  ukraine:   [['약 40만 명+', '약 6만 명'], ['~400,000+', '~60,000']],
+  sudan:     [['약 15만 명', '약 2만 명'], ['~150,000', '~20,000']],
+  iran:      [['약 5천–8천 명', '약 5천–8천 명'], ['~5,000–8,000', '~5,000–8,000']],
+  yemen:     [['약 38만 명', '약 1만 명'], ['~380,000', '~10,000']],
+  myanmar:   [['약 10만–20만 명', '약 1만 2천 명'], ['~100,000–200,000', '~12,000']],
+  drc:       [['약 1만 명+', '약 4천–5천 명'], ['~10,000+', '~4,000–5,000']],
+  afpak:     [['약 2천 명+', '약 2천 명+'], ['~2,000+', '~2,000+']],
+  ethiopia:  [['1천 명 미만', '1천 명 미만'], ['under 1,000', 'under 1,000']],
+  sahel:     [['약 2만 명+', '약 5천 명'], ['~20,000+', '~5,000']],
+  gaza:      [['약 7만 3천 명', '약 1,400명'], ['~73,000', '~1,400']],
+  lebanon:   [['약 4천 명+', '약 4천 명+'], ['~4,000+', '~4,000+']],
+  haiti:     [['약 1만 5천 명+', '약 7천 명'], ['~15,000+', '~7,000']],
+  belgium:   [['0명', '0명'], ['0', '0']],
+  delhi:     [['0명', '0명'], ['0', '0']],
+  uyghur:    [['집계 없음', '집계 없음'], ['no count', 'no count']],
+  rohingya:  [['약 7천–2만 4천 명', '수백 명'], ['~7,000–24,000', 'hundreds']],
+  darfur:    [['약 2만–3만 명+', '약 5천 명+'], ['~20,000–30,000+', '~5,000+']],
+  somalia:   [['약 37만 명+ (1991년 이후)', '약 8천 명'], ['~370,000+ (since 1991)', '~8,000']],
+  nigeria:   [['약 35만 명+ (간접 사망 포함)', '약 4천 명'], ['~350,000+ (incl. indirect)', '~4,000']],
+  burkina:   [['약 2만 5천 명+', '약 8천 명'], ['~25,000+', '~8,000']],
+  syria:     [['약 1만 명+ (2024.12 이후)', '약 3천 명'], ['~10,000+ (since Dec 2024)', '~3,000']],
+  westbank:  [['약 1,100명+', '약 250명'], ['~1,100+', '~250']],
+  mexico:    [['약 40만 명', '약 1만 명+'], ['~400,000', '~10,000+']],
+  colombia:  [['약 45만 명 (1964년 이후)', '약 2천 명'], ['~450,000 (since 1964)', '~2,000']],
+  mozambique:[['약 7,800명+', '약 600명'], ['~7,800+', '~600']],
+  southsudan:[['약 40만 명 (2013년 내전 이후, 간접 사망 포함)', '약 2천–3천 명'], ['~400,000 (since 2013, incl. indirect)', '~2,000–3,000']],
+  cameroon:  [['약 6,500명+', '약 400명'], ['~6,500+', '~400']],
+  niger:     [['약 1만 명+', '약 2천 명'], ['~10,000+', '~2,000']],
+  balochistan:[['약 1만 명+', '약 1,500명'], ['~10,000+', '~1,500']],
+  benin:     [['약 500명+', '약 300명'], ['~500+', '~300']],
+  thaicambo: [['약 100명+', '약 50명+'], ['~100+', '~50+']],
+};
+// 기타 피해 어림값: 부상자 · 민간인 사망 · 피란민·난민 (+ 구금/실종). 한국어 | 영어
+const H = (inj, civ, disp, x) => ({ inj, civ, disp, x });
+const HARM = {
+  ukraine:    H(['민간인 약 4만 9천 명+', '~49,000+ civilians'], ['약 1만 6천 명+', '~16,000+'], ['약 1,000만 명 (국내외)', '~10 million (in & out)']),
+  sudan:      H(['수만 명 (집계 없음)', 'tens of thousands (no count)'], ['약 3만 명+', '~30,000+'], ['약 1,400만 명', '~14 million']),
+  iran:       H(['약 2만 6천 명+', '~26,000+'], ['약 2천–3천 명', '~2,000–3,000'], ['수십만 명 (일시 피란)', 'hundreds of thousands (temporary)']),
+  yemen:      H(['수만 명', 'tens of thousands'], ['약 1만 9천 명+ (직접 사망)', '~19,000+ (direct)'], ['약 450만 명', '~4.5 million']),
+  myanmar:    H(['수만 명', 'tens of thousands'], ['약 7천 명+ (확인분)', '~7,000+ (verified)'], ['약 380만 명', '~3.8 million']),
+  drc:        H(['수천 명', 'thousands'], ['수천 명', 'thousands'], ['약 700만 명+', '~7 million+']),
+  afpak:      H(['수천 명', 'thousands'], ['약 1천 명+', '~1,000+'], ['수만 명', 'tens of thousands']),
+  ethiopia:   H(['집계 없음', 'no count'], ['집계 없음', 'no count'], ['수만 명+ (신규)', 'tens of thousands+ (new)']),
+  sahel:      H(['수천 명', 'thousands'], ['약 5천 명+', '~5,000+'], ['국내 약 40만 명 · 난민 약 30만 명', '~400,000 internal · ~300,000 refugees']),
+  gaza:       H(['약 17만 4천 명', '~174,000'], ['사망자 대부분 (여성·아동 절반 이상)', 'most deaths (over half women & children)'], ['약 190만 명 (인구 90%)', '~1.9 million (90% of population)']),
+  lebanon:    H(['약 1만 5천 명+', '~15,000+'], ['약 2천 명+', '~2,000+'], ['100만 명+', '1 million+']),
+  haiti:      H(['약 3천 명+ (2026년)', '~3,000+ (2026)'], ['사망자 대부분', 'most deaths'], ['약 150만 명', '~1.5 million']),
+  belgium:    H(['경찰 수십 명', 'dozens of police'], ['0명', '0'], ['해당 없음', 'n/a'], ['detained', '220명+', '220+']),
+  delhi:      H(['경찰 2명+', '2+ police'], ['0명', '0'], ['해당 없음', 'n/a'], ['detained', '7,000명+', '7,000+']),
+  uyghur:     H(['집계 없음', 'no count'], ['집계 없음', 'no count'], ['해외 망명 수만 명', 'tens of thousands in exile'], ['detained', '최대 100만 명+', 'up to 1 million+']),
+  rohingya:   H(['집계 없음', 'no count'], ['약 7천–2만 4천 명', '~7,000–24,000'], ['약 120만 명 (방글라데시 난민)', '~1.2 million (refugees in Bangladesh)']),
+  darfur:     H(['집계 없음', 'no count'], ['약 2만 명+', '~20,000+'], ['약 400만 명+', '~4 million+']),
+  somalia:    H(['수천 명', 'thousands'], ['수천 명', 'thousands'], ['약 350만 명', '~3.5 million']),
+  nigeria:    H(['수만 명', 'tens of thousands'], ['수만 명', 'tens of thousands'], ['약 230만 명 (북동부)', '~2.3 million (northeast)'], ['missing', '납치 수천 명', 'thousands abducted']),
+  burkina:    H(['수천 명', 'thousands'], ['약 1만 명+', '~10,000+'], ['약 200만 명', '~2 million']),
+  syria:      H(['수천 명', 'thousands'], ['약 3천 명+', '~3,000+'], ['국내 약 700만 명', '~7 million internal']),
+  westbank:   H(['약 1만 명+', '~10,000+'], ['약 1천 명+', '~1,000+'], ['약 4만 명 (난민촌 강제 이주)', '~40,000 (camp evictions)']),
+  mexico:     H(['집계 없음', 'no count'], ['사망자 대부분', 'most deaths'], ['수십만 명', 'hundreds of thousands'], ['missing', '10만 명+', '100,000+']),
+  colombia:   H(['수백 명', 'hundreds'], ['수백 명', 'hundreds'], ['약 6만 명+ (카타툼보)', '~60,000+ (Catatumbo)']),
+  mozambique: H(['수백 명', 'hundreds'], ['약 2천 명+', '~2,000+'], ['약 60만 명', '~600,000']),
+  southsudan: H(['수천 명', 'thousands'], ['수천 명', 'thousands'], ['국내 약 200만 명 · 난민 약 230만 명', '~2 million internal · ~2.3 million refugees']),
+  cameroon:   H(['수천 명', 'thousands'], ['약 4천 명+', '~4,000+'], ['약 60만 명', '~600,000']),
+  niger:      H(['수천 명', 'thousands'], ['약 5천 명+', '~5,000+'], ['약 50만 명', '~500,000']),
+  balochistan:H(['수천 명', 'thousands'], ['약 3천 명+', '~3,000+'], ['수만 명', 'tens of thousands'], ['missing', '강제 실종 수천 명', 'thousands disappeared']),
+  benin:      H(['수백 명', 'hundreds'], ['약 200명+', '~200+'], ['수만 명', 'tens of thousands']),
+  thaicambo:  H(['수백 명', 'hundreds'], ['약 40명+', '~40+'], ['약 30만 명 (일시 피란)', '~300,000 (temporary)']),
+};
+// 최근 주요 사건: [날짜, 무슨 일(한국어), 무슨 일(영어), 사망, 부상, 기타(구금·납치 등, 한국어|영어)]
+const R = (d, ko, en, k, i, x) => ({ d, ko, en, k, i, x });
+const RECENT = {
+  ukraine:    [R('2026.07', '7월 한 달 러시아 공습·포격 (민간인)', 'Russian strikes in July (civilians)', '437', '2,610')],
+  iran:       [R('2026.02.28', '개전 후 40일 (2.28–4.8, 이란 측)', 'First 40 days of war (Iranian side)', '3,468', '26,500+')],
+  yemen:      [R('2026.10.06', '후티, 사우디 리야드·아브하 공항 미사일·드론 공격', 'Houthi strikes on Riyadh and Abha airports', '3', '36')],
+  drc:        [R('2026.02', '우비라 인근 집단매장지 발견', 'Mass graves found near Uvira', ['171구', '171 bodies'], ''), R('2025.12', 'M23의 우비라 점령', 'M23 captures Uvira', '1,500+', '')],
+  afpak:      [R('2026.09.30', '파키스탄, 아프간 영토 공습 (주장 엇갈림)', 'Pakistani strikes in Afghanistan (claims differ)', '9–22', ''), R('2026.09.18', '파키스탄 북서부 자폭 테러', 'Suicide bombing, northwest Pakistan', '31', '100+')],
+  sahel:      [R('2026.09.10', 'JNIM, 말리군 디우라 기지 공격', 'JNIM assault on Dioura army base', '50–130', '', ['포로 93명 (JNIM 주장)', '93 captured (JNIM claim)'])],
+  gaza:       [R('2026.09', '알마가지 등 이스라엘 공습', 'Israeli strikes incl. al-Maghazi', '7', '')],
+  haiti:      [R('2026.08.23', '켄스코프 피란민 교회 갱단 습격', 'Gang attack on church sheltering displaced, Kenscoff', '40+', '', ['납치 50명+', '50+ kidnapped'])],
+  belgium:    [R('2026.10.09', '브뤼셀 반긴축 집회 중 경찰 충돌', 'Clashes at Brussels anti-austerity rally', '0', '', ['구금 약 20명', '~20 detained']), R('2026.10', '리에주 학생 시위 폭동화', 'Liège student protest turns violent', '0', ['경찰 수십 명', 'dozens of police'], ['구금 200명+', '200+ detained'])],
+  delhi:      [R('2026.10.10', '의회 행진 저지 · 투석', 'Parliament march blocked, stone-throwing', '0', ['경찰 2명', '2 police'], ['연행 7,000명+', '7,000+ detained'])],
+  darfur:     [R('2025.10', 'RSF, 엘파셰르 함락 직후 학살', 'Killings after RSF took El Fasher', '1,500+', '')],
+  balochistan:[R('2025.03.11', '자파르 익스프레스 열차 납치', 'Jaffar Express train hijacking', ['약 60 (인질 26 포함)', '~60 (incl. 26 hostages)'], '')],
+  benin:      [R('2025.04.17', 'JNIM, 북부 국경 군 초소 공격', 'JNIM attack on northern border posts', ['54 (군인)', '54 (soldiers)'], '')],
+  thaicambo:  [R('2025.07.24', '국경 포격·공습 (5일간)', 'Border shelling and airstrikes (5 days)', ['약 40명+', '~40+'], ['수백 명', 'hundreds'])],
 };
 for (const ev of EVENTS) {
+  if (HARM[ev.id]) ev.harm = HARM[ev.id];
+  if (RECENT[ev.id]) ev.recent = RECENT[ev.id];
+  const dd = DEATHS[ev.id];
+  if (dd) ev.deaths = { total: dd[0][0], year: dd[0][1], totalEn: dd[1][0], yearEn: dd[1][1] };
   const e = EN[ev.id];
   ev.nameEn = ev.en;
   if (!e) continue;
