@@ -1,0 +1,120 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>OG card</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans+KR:wght@500;600;700&family=JetBrains+Mono:wght@500;600&display=block">
+<style>
+/* 1200×630 공유 카드: 사건 지점 위성사진 위에 정찰 콘솔 스타일 요약 */
+* { box-sizing: border-box; margin: 0; }
+html, body { width: 1200px; height: 630px; overflow: hidden; background: #07090b; }
+body { position: relative; color: #e2e6ea; font-family: "IBM Plex Sans KR", sans-serif; -webkit-font-smoothing: antialiased; }
+#map { position: absolute; inset: 0; filter: saturate(.85) contrast(1.05); }
+#map img { position: absolute; width: 256px; height: 256px; }
+#map .ref { opacity: .7; }
+.shade { position: absolute; inset: 0; background:
+  linear-gradient(90deg, rgba(7,9,11,.95) 0%, rgba(7,9,11,.86) 38%, rgba(7,9,11,.25) 66%, rgba(7,9,11,.15) 100%),
+  linear-gradient(0deg, rgba(7,9,11,.7) 0%, rgba(7,9,11,0) 30%); }
+.scan { position: absolute; inset: 0; background: repeating-linear-gradient(0deg, rgba(255,255,255,.025) 0 1px, transparent 1px 3px); }
+.mono { font-family: "JetBrains Mono", monospace; letter-spacing: .12em; }
+.cnr { position: absolute; width: 26px; height: 26px; border: 0 solid rgba(226,230,234,.55); }
+.tl { top: 22px; left: 22px; border-top-width: 2px; border-left-width: 2px; }
+.tr { top: 22px; right: 22px; border-top-width: 2px; border-right-width: 2px; }
+.bl { bottom: 22px; left: 22px; border-bottom-width: 2px; border-left-width: 2px; }
+.br { bottom: 22px; right: 22px; border-bottom-width: 2px; border-right-width: 2px; }
+.ret { position: absolute; left: 870px; top: 300px; width: 0; height: 0; }
+.ret i { position: absolute; border: 2px solid var(--c); }
+.ret .r1 { width: 96px; height: 96px; left: -48px; top: -48px; border-radius: 50%; opacity: .9; }
+.ret .r2 { width: 190px; height: 190px; left: -95px; top: -95px; border-radius: 50%; opacity: .35; border-style: dashed; }
+.ret .dot { width: 12px; height: 12px; left: -6px; top: -6px; background: var(--c); box-shadow: 0 0 18px var(--c); }
+.ret b { position: absolute; background: var(--c); opacity: .85; }
+.ret .h1 { left: -150px; top: -1px; width: 90px; height: 2px; } .ret .h2 { left: 60px; top: -1px; width: 90px; height: 2px; }
+.ret .v1 { top: -150px; left: -1px; width: 2px; height: 90px; } .ret .v2 { top: 60px; left: -1px; width: 2px; height: 90px; }
+.coord { position: absolute; left: 890px; top: 380px; font-size: 15px; color: rgba(226,230,234,.85); }
+.txt { position: absolute; left: 64px; top: 58px; width: 700px; }
+.sys { font-size: 15px; color: #e3aa45; }
+.tag { margin-top: 40px; display: flex; gap: 12px; align-items: center; font-size: 17px; }
+.tag .cat { color: var(--c); border: 1.5px solid var(--c); padding: 3px 10px; }
+.tag .lv { color: #c9d0d6; }
+h1 { margin-top: 18px; font-size: 64px; line-height: 1.12; font-weight: 700; letter-spacing: -.01em; text-wrap: balance; }
+h1.long { font-size: 52px; }
+.region { margin-top: 18px; font-size: 22px; color: #aab3bb; line-height: 1.4; }
+.kia { position: absolute; left: 64px; bottom: 64px; display: flex; gap: 40px; }
+.kia div { border-left: 3px solid var(--c); padding-left: 14px; }
+.kia span { display: block; font-size: 14px; color: #9aa3ac; }
+.kia b { display: block; font: 700 38px "IBM Plex Sans KR", sans-serif; letter-spacing: 0; margin-top: 2px; }
+.tag .lv { letter-spacing: .05em; }
+.brand { position: absolute; right: 64px; bottom: 60px; text-align: right; }
+.brand b { display: block; font-size: 22px; font-weight: 700; }
+.brand span { font-size: 13px; color: #9aa3ac; }
+</style>
+</head>
+<body>
+<div id="map"></div><div class="shade"></div><div class="scan"></div>
+<i class="cnr tl"></i><i class="cnr tr"></i><i class="cnr bl"></i><i class="cnr br"></i>
+<div class="ret"><i class="r2"></i><i class="r1"></i><i class="dot"></i><b class="h1"></b><b class="h2"></b><b class="v1"></b><b class="v2"></b></div>
+<div class="coord mono" id="coord"></div>
+<div class="txt">
+  <p class="sys mono" id="sys"></p>
+  <p class="tag mono"><span class="cat" id="cat"></span><span class="lv" id="lv"></span></p>
+  <h1 id="name"></h1>
+  <p class="region" id="region"></p>
+</div>
+<div class="kia mono" id="kia"></div>
+<div class="brand"><b id="site"></b><span class="mono">OSINT · LIVE 3D GLOBE</span></div>
+<script type="module">
+const q = new URLSearchParams(location.search), lang = q.get('lang') === 'en' ? 'en' : 'ko', en = lang === 'en';
+// data.js의 영어 병합은 언어 설정과 무관하지만, 라벨 함수가 쓰는 언어를 맞춰 둔다
+try { localStorage.setItem('cg.lang', lang); } catch { /* 무시 */ }
+const { EVENTS, CATS } = await import('../js/data.js');
+const ev = EVENTS.find((e) => e.id === q.get('id'));
+const LV = { ko: { escalating: '격화', active: '진행 중', stalemate: '교착', ceasefire: '불안한 휴전' }, en: { escalating: 'ESCALATING', active: 'ACTIVE', stalemate: 'STALEMATE', ceasefire: 'FRAGILE CEASEFIRE' } };
+const CL = { ko: { killed: '사망', injured: '부상', displaced: '피란', detained: '구금 · 연행', missing: '실종' }, en: { killed: 'KILLED', injured: 'INJURED', displaced: 'DISPLACED', detained: 'DETAINED', missing: 'MISSING' } };
+const $ = (id) => document.getElementById(id);
+const cat = CATS[ev.cat];
+document.body.style.setProperty('--c', cat.color);
+$('sys').textContent = `GCM-01 // TARGET DOSSIER · ${ev.id.toUpperCase()}`;
+$('cat').textContent = en ? cat.en.toUpperCase() : cat.ko;
+$('lv').textContent = `${LV[lang][ev.level]} · ${en ? 'SINCE' : '시작'} ${ev.start.slice(0, 7).replace('-', '.')}`;
+const name = en ? ev.en : ev.name;
+$('name').textContent = name;
+if (name.length > (en ? 30 : 16)) $('name').className = 'long';
+$('region').textContent = (en ? ev.regionEn || ev.region : ev.region).replace(/\s*\(.*\)\s*$/, '');
+$('site').textContent = en ? 'Conflict Watch Globe' : '분쟁 관측 지구본';
+const ns = (v, a, b) => `${Math.abs(v).toFixed(2)}°${v >= 0 ? a : b}`;
+$('coord').textContent = `${ns(ev.lat, 'N', 'S')}  ${ns(ev.lon, 'E', 'W')}`;
+// 사상자는 종류별 첫 항목만, 최대 두 칸
+const seen = new Set(), cells = [];
+for (const it of ev.cas?.items || []) {
+  if (seen.has(it.k) || cells.length >= 2) continue;
+  seen.add(it.k);
+  cells.push(`<div><span>${CL[lang][it.k]}</span><b>${(en ? it.vEn || it.v : it.v).replace(/</g, '&lt;')}</b></div>`);
+}
+$('kia').innerHTML = cells.join('');
+
+// Web Mercator 타일을 사건 지점이 조준선(870, 300)에 오도록 깐다
+const z = ev.nationwide || ev.approx ? 5 : 6, W = 256 * 2 ** z, r = Math.PI / 180;
+const px = (ev.lon + 180) / 360 * W, py = (1 - Math.log(Math.tan(ev.lat * r) + 1 / Math.cos(ev.lat * r)) / Math.PI) / 2 * W;
+const ox = 870 - px, oy = 300 - py, n = 2 ** z, loads = [];
+for (let ty = Math.floor(-oy / 256); ty <= Math.floor((630 - oy) / 256); ty++) {
+  if (ty < 0 || ty >= n) continue;
+  for (let tx = Math.floor(-ox / 256); tx <= Math.floor((1200 - ox) / 256); tx++) {
+    const wx = ((tx % n) + n) % n;
+    for (const [svc, cls] of [['World_Imagery', ''], ['Reference/World_Boundaries_and_Places', 'ref']]) {
+      const img = new Image();
+      img.crossOrigin = 'anonymous';
+      img.className = cls;
+      img.style.left = `${ox + tx * 256}px`; img.style.top = `${oy + ty * 256}px`;
+      loads.push(new Promise((ok) => { img.onload = img.onerror = ok; }));
+      img.src = `https://server.arcgisonline.com/ArcGIS/rest/services/${svc}/MapServer/tile/${z}/${ty}/${wx}`;
+      $('map').append(img);
+    }
+  }
+}
+await Promise.all([Promise.all(loads), document.fonts.ready]);
+document.body.dataset.ready = '1';
+</script>
+</body>
+</html>

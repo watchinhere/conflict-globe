@@ -1,0 +1,9 @@
+{
+  "private": true,
+  "type": "module",
+  "description": "Build tools for the daily page refresh (tools/build.mjs, tools/og.mjs). The site itself needs no build step.",
+  "devDependencies": {
+    "linkedom": "0.18.5",
+    "playwright": "1.48.2"
+  }
+}

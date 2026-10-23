@@ -1,0 +1,44 @@
+name: Daily refresh
+
+# 매일 06:20 KST에 최근 소식·위키백과 집계로 기사 페이지를 다시 만들고, 바뀐 공유 카드를 그려 배포한다.
+on:
+  schedule:
+    - cron: '20 21 * * *'
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: ['tools/**', 'js/data.js', 'package.json', '.github/workflows/daily.yml']
+
+permissions:
+  contents: write
+
+concurrency:
+  group: daily-refresh
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - run: npm install --no-package-lock --no-audit --no-fund
+      - run: npx playwright install --with-deps chromium
+      - run: node tools/build.mjs
+      - name: Render share cards
+        run: |
+          python3 -m http.server 8080 >/dev/null 2>&1 &
+          sleep 2
+          node tools/og.mjs
+      - name: Commit and deploy
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898900+github-actions[bot]@users.noreply.github.com"
+          git add conflicts en about.html privacy.html terms.html contact.html sitemap.xml robots.txt data/recent.json og
+          if git diff --cached --quiet; then echo "no changes"; exit 0; fi
+          git commit -m "Daily refresh $(date -u +%F)"
+          git pull --no-rebase --no-edit origin main
+          git push origin HEAD:main HEAD:gh-pages

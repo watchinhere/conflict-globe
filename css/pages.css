@@ -51,6 +51,15 @@ li { margin: 4px 0; }
 .note { font-size: 14px; color: var(--faint); }
 .sources li { font-size: 15px; }
 .sources small { color: var(--faint); font-family: var(--f-mono); }
+.news { list-style: none; padding: 0; margin: 8px 0 10px; border-top: 1px solid var(--line); }
+.news li { display: grid; grid-template-columns: 52px 1fr; gap: 12px; margin: 0; padding: 10px 0; border-bottom: 1px solid var(--line); font-size: 15px; line-height: 1.65; }
+.news time { font-size: 12px; color: var(--amber); padding-top: 3px; }
+.news small { font: 500 12px var(--f-mono); color: var(--faint); }
+.news small a { color: var(--dim); }
+.tally { display: flex; flex-wrap: wrap; gap: 4px 18px; align-items: baseline; font-size: 14px; color: var(--dim); border: 1px solid var(--line); padding: 10px 14px; }
+.tally b { color: var(--ink); font-weight: 600; }
+.tally em { font-style: normal; color: var(--kill); font-size: 15px; }
+.tally a { margin-left: auto; font: 500 12px var(--f-mono); }
 .cta { display: inline-block; margin: 8px 0 0; padding: 10px 16px; border: 1px solid rgba(227,170,69,.6); color: var(--amber); text-decoration: none; font: 500 13px var(--f-mono); letter-spacing: .06em; }
 .cta:hover { background: rgba(227,170,69,.12); }
 
