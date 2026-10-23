@@ -243,6 +243,9 @@ function frame() {
 
 /* ---------- boot ---------- */
 for (const ev of EVENTS) upsert(ev);
+// 기사 페이지의 "지구본에서 보기" 링크(index.html#ukraine 등)로 들어오면 해당 분쟁으로 이동
+const deep = sites.find((s) => s.id === decodeURIComponent(location.hash.slice(1)));
+if (deep) manager.onLoad = () => { $('loader').classList.add('done'); setTimeout(() => app.select(deep, true), 600); };
 renderFilters(); renderList(); renderFeeds();
 app.refreshUI();
 requestAnimationFrame(frame);

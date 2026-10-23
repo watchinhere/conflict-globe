@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://watchinhere.github.io/conflict-globe/sitemap.xml

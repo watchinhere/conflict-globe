@@ -5,6 +5,7 @@ export const isEn = () => I18N.lang === 'en';
 
 const DICT = {
   ko: {
+    navList: '분쟁 목록', navAbout: '소개', navPrivacy: '개인정보처리방침', navTerms: '이용약관', navContact: '문의',
     title: '분쟁 관측 지구본', banner: '공개 출처 정보 · GDELT · Esri · Natural Earth 실시간 집계',
     feedNote: '모든 데이터는 브라우저가 각 기관 공개 API에서 직접 받아옵니다.', type: '유형',
     railOpen: '사건 목록 펼치기', railClose: '사건 목록 접기', search: '사건 · 국가 검색',
@@ -33,6 +34,7 @@ const DICT = {
     tierSummary: '{tier}으로 분류된 분쟁입니다.', feedWiki: '위키백과 · 진행 중인 무력 분쟁 목록', feedNews: '위키백과 · 오늘의 사건 (최근 7일)', feedGdelt: 'GDELT · 사건별 실시간 기사',
   },
   en: {
+    navList: 'Conflicts', navAbout: 'About', navPrivacy: 'Privacy', navTerms: 'Terms', navContact: 'Contact',
     title: 'Conflict Watch Globe', banner: 'Open-source intelligence · GDELT · Esri · Natural Earth live aggregation',
     feedNote: 'All data is fetched directly by your browser from each provider’s public API.', type: 'Type',
     railOpen: 'Show event list', railClose: 'Hide event list', search: 'Search events · countries',
@@ -78,6 +80,7 @@ export function applyStatic() {
   for (const el of document.querySelectorAll('[data-i18n-ph]')) el.placeholder = t(el.dataset.i18nPh);
   for (const el of document.querySelectorAll('[data-i18n-aria]')) el.setAttribute('aria-label', t(el.dataset.i18nAria));
   for (const b of document.querySelectorAll('[data-lang]')) b.setAttribute('aria-pressed', String(b.dataset.lang === I18N.lang));
+  for (const a of document.querySelectorAll('[data-path]')) a.href = (isEn() ? 'en/' : '') + a.dataset.path;
 }
 export function setLang(l) {
   if (l === I18N.lang) return;
