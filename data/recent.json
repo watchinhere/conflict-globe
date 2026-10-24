@@ -3,6 +3,120 @@
  "news": {
   "ukraine": [
    {
+    "date": "2026-10-24",
+    "text": "Ukraine’s military says Starlink satellite connection stable after recent restrictions",
+    "ko": "우크라이나 군, 최근 제한 이후 스타링크 위성 연결이 안정적이라고 밝혔습니다.",
+    "sources": [
+     {
+      "t": "The Guardian",
+      "u": "https://www.theguardian.com/world/2026/oct/24/ukraine-zelenskyy-military-starlink-satellite-connection-stable-after-restrictions"
+     }
+    ]
+   },
+   {
+    "date": "2026-10-24",
+    "text": "Hundreds of thousands march in France as protests take place across Europe – as it happened",
+    "ko": "유럽 ​​전역에서 시위가 벌어지자 프랑스에서는 수십만 명이 행진했습니다.",
+    "sources": [
+     {
+      "t": "The Guardian",
+      "u": "https://www.theguardian.com/world/live/2026/oct/24/france-demonstrations-police-macron-italy-albania-belgium-spain-ukraine-russia-europe-latest-news"
+     }
+    ]
+   },
+   {
+    "date": "2026-10-24",
+    "text": "Ukraine says Starlink restored as attacks continue in Russia and Ukraine",
+    "ko": "우크라이나는 러시아와 우크라이나에서 공격이 계속됨에 따라 Starlink가 복원되었다고 밝혔습니다.",
+    "sources": [
+     {
+      "t": "Al Jazeera",
+      "u": "https://www.aljazeera.com/news/2026/10/24/ukraine-says-starlink-restored-as-attacks-continue-in-russia-and-ukraine?traffic_source=rss"
+     }
+    ]
+   },
+   {
+    "date": "2026-10-24",
+    "text": "Ukraine says Starlink connection 'now stable' after network limits",
+    "ko": "우크라이나, 네트워크 제한 이후 스타링크 연결 '이제 안정적'",
+    "sources": [
+     {
+      "t": "BBC",
+      "u": "https://www.bbc.co.uk/news/articles/cwkg5md14j8go?at_medium=RSS&at_campaign=rss"
+     }
+    ]
+   },
+   {
+    "date": "2026-10-24",
+    "text": "Ukraine says Starlink and Starshield connection 'stable' again",
+    "ko": "우크라이나, Starlink와 Starshield 연결이 다시 '안정적'이라고 밝혔습니다.",
+    "sources": [
+     {
+      "t": "France 24",
+      "u": "https://www.france24.com/en/europe/20261024-ukraine-says-starlink-and-starshield-connection-stable-again"
+     }
+    ]
+   },
+   {
+    "date": "2026-10-24",
+    "text": "White House says Melania Trump brokered truce for Ukraine city 'on brink of disaster'",
+    "ko": "백악관은 멜라니아 트럼프가 '재앙 직전' 우크라이나 도시에 휴전을 중재했다고 밝혔습니다.",
+    "sources": [
+     {
+      "t": "BBC",
+      "u": "https://www.bbc.co.uk/news/articles/c6vgxkvl4w5eo?at_medium=RSS&at_campaign=rss"
+     }
+    ]
+   },
+   {
+    "date": "2026-10-23",
+    "text": "The Trump administration says that Russia and Ukraine reached a humanitarian ceasefire agreement in Oleshky brokered by U.S. First Lady Melania Trump. The ceasefire will take effect on Thursday.",
+    "sources": [
+     {
+      "t": "Reuters",
+      "u": "https://www.reuters.com/world/europe/melania-trump-secures-oleshky-ceasefire-between-russia-ukraine-white-house-says-2026-10-23/"
+     }
+    ],
+    "ko": "트럼프 행정부는 러시아와 우크라이나가 미국 영부인 멜라니아 트럼프의 중재로 올레쉬키에서 인도주의적 휴전 협정을 체결했다고 밝혔습니다. 휴전은 목요일부터 발효될 예정이다."
+   },
+   {
+    "date": "2026-10-23",
+    "text": "Russia and Ukraine confirm the ceasefire agreement for Oleshky, with President Volodymyr Zelenskyy stating that peace talks will begin next month.",
+    "sources": [
+     {
+      "t": "The Moscow Times",
+      "u": "https://www.themoscowtimes.com/2026/10/24/russia-ukraine-agree-on-ceasefire-in-embattled-oleshky-plan-new-peace-talks-next-month-a94069"
+     },
+     {
+      "t": "Kyiv Independent",
+      "u": "https://kyivindependent.com/ukraine-war-latest-ukraine-russia-agree-to-local-ceasefire-for-russian-occupied-oleshky-mediated-by-melania-trump/"
+     }
+    ],
+    "ko": "러시아와 우크라이나는 올레쉬키의 휴전 협정을 확인했고, 볼로디미르 젤렌스키 대통령은 다음 달 평화 회담이 시작될 것이라고 밝혔습니다."
+   },
+   {
+    "date": "2026-10-23",
+    "text": "Russia's attacks on Ukraine's capital, Kyiv, are intensifying. DW asked people on the ground what life is like",
+    "ko": "우크라이나 수도 키예프에 대한 러시아의 공격이 점점 거세지고 있다. DW는 현장에 있는 사람들에게 삶이 어떤지 물었습니다.",
+    "sources": [
+     {
+      "t": "DW",
+      "u": "https://www.dw.com/en/russia-s-attacks-on-ukraine-s-capital-kyiv-are-intensifying-dw-asked-people-on-the-ground-what-life-is-like/a-79741090?maca=en-rss-en-world-4025-rdf"
+     }
+    ]
+   },
+   {
+    "date": "2026-10-23",
+    "text": "Ukraine tries to shut Moscow's airports with drone strikes on Russia",
+    "ko": "우크라이나, 러시아에 대한 드론 공격으로 모스크바 공항 폐쇄 시도",
+    "sources": [
+     {
+      "t": "DW",
+      "u": "https://www.dw.com/en/ukraine-tries-to-shut-moscow-s-airports-with-drone-strikes-on-russia/a-79737469?maca=en-rss-en-world-4025-rdf"
+     }
+    ]
+   },
+   {
     "date": "2026-10-23",
     "text": "A merchant ship is hit by drones of unknown origins in the Romanian Black Sea, killing a crew member and leaving three more missing. Nine people are rescued.",
     "sources": [
@@ -23,39 +137,31 @@
      }
     ],
     "ko": "우크라이나 경찰은 러시아 연방 보안국이 우크라이나 군인들에게 메타돈 함유 캡슐을 보내는 것을 도운 혐의로 17세 소녀를 구금했습니다. 이로 인해 Zhytomyr Oblast에서 2명이 사망하고 4명을 표적으로 삼은 것으로 추정됩니다."
-   },
-   {
-    "date": "2026-10-21",
-    "text": "United States special envoy Steve Witkoff arrives in Saint Petersburg to talk with Russian president Vladimir Putin about potentially resolving the war with Ukraine. Putin states he would resume United States-mediated trilateral peace talks with Ukraine, on or after November 10.",
-    "sources": [
-     {
-      "t": "Reuters",
-      "u": "https://www.reuters.com/world/us-envoy-witkoff-arrives-st-petersburg-talks-with-putin-2026-10-21/"
-     },
-     {
-      "t": "Reuters",
-      "u": "https://www.reuters.com/world/europe/putin-hosts-trump-envoy-new-ukraine-peace-talks-frees-us-citizen-held-russia-2026-10-21/"
-     }
-    ],
-    "ko": "스티브 위트코프 미국 특사가 상트페테르부르크에 도착해 블라디미르 푸틴 러시아 대통령과 우크라이나와의 전쟁 해결 가능성에 관해 회담했습니다. 푸틴 대통령은 미국이 중재하는 우크라이나와의 3자 평화 회담을 11월 10일 이후에 재개할 것이라고 밝혔습니다."
-   },
-   {
-    "date": "2026-10-21",
-    "text": "American military veteran Stephen Hubbard, who was arrested by Russian authorities in 2022 during the Battle of Izium, is released from custody during the meeting between Putin and Witkoff.",
-    "sources": [
-     {
-      "t": "AP",
-      "u": "https://apnews.com/article/russia-american-released-stephen-hubbard-ukraine-witkoff-2c7e34d6606be242ed4a7473e57110c7"
-     },
-     {
-      "t": "BBC News",
-      "u": "https://www.bbc.com/news/articles/c6m24l9v3745o"
-     }
-    ],
-    "ko": "2022년 이지움 전투 당시 러시아 당국에 체포됐던 미군 퇴역 군인 스티븐 허바드가 푸틴 대통령과 위트코프의 회담 도중 구금에서 풀려났다."
    }
   ],
   "sudan": [
+   {
+    "date": "2026-10-23",
+    "text": "World News in Brief: Iran nuclear inspections, deadly church attack in Jordan, El Fasher – one year on",
+    "ko": "세계 뉴스 요약: 이란 핵 사찰, 요르단의 치명적인 교회 공격, 엘 파셔 – 1년 후",
+    "sources": [
+     {
+      "t": "UN News",
+      "u": "https://news.un.org/feed/view/en/story/2026/10/1168664"
+     }
+    ]
+   },
+   {
+    "date": "2026-10-23",
+    "text": "Sudan: Drone strikes killed at least 306 people in three weeks",
+    "ko": "수단: 드론 공격으로 3주 동안 최소 306명 사망",
+    "sources": [
+     {
+      "t": "UN News",
+      "u": "https://news.un.org/feed/view/en/story/2026/10/1168661"
+     }
+    ]
+   },
    {
     "date": "2026-10-22",
     "text": "The Sudanese Armed Forces recaptures two strategic areas in Sudan's Blue Nile state, including the Bukuri base in Ad-Damazin.",
@@ -125,6 +231,116 @@
   ],
   "iran": [
    {
+    "date": "2026-10-24",
+    "text": "Iran blames US for deal failure, urges new try amid fear of new attacks",
+    "ko": "이란, 협상 실패에 대해 미국을 비난하고 새로운 공격에 대한 두려움 속에 새로운 시도 촉구",
+    "sources": [
+     {
+      "t": "Al Jazeera",
+      "u": "https://www.aljazeera.com/news/2026/10/24/iran-blames-us-for-deal-failure-urges-new-try-amid-fear-of-new-attacks?traffic_source=rss"
+     }
+    ]
+   },
+   {
+    "date": "2026-10-24",
+    "text": "Yemen's Houthi rebels claim new attacks on oil facilities and airports across Saudi Arabia",
+    "ko": "예멘 후티 반군, 사우디아라비아 전역의 석유 시설과 공항에 대한 새로운 공격 주장",
+    "sources": [
+     {
+      "t": "France 24",
+      "u": "https://www.france24.com/en/middle-east/20261024-yemen-s-houthi-rebels-claim-new-attacks-on-oil-facilities-and-airports-across-saudi-arabia"
+     }
+    ]
+   },
+   {
+    "date": "2026-10-24",
+    "text": "Iran says won’t allow US warships to get close as Trump ponders new attacks",
+    "ko": "이란은 트럼프가 새로운 공격을 고려함에 따라 미국 군함이 접근하는 것을 허용하지 않을 것이라고 밝혔습니다.",
+    "sources": [
+     {
+      "t": "Al Jazeera",
+      "u": "https://www.aljazeera.com/news/2026/10/24/iran-says-wont-allow-us-warships-to-get-close-as-trump-ponders-new-attacks?traffic_source=rss"
+     }
+    ]
+   },
+   {
+    "date": "2026-10-24",
+    "text": "Is Iran planning attacks on Americans; why is the US on alert?",
+    "ko": "이란은 미국인에 대한 공격을 계획하고 있습니까? 미국은 왜 경계하는가?",
+    "sources": [
+     {
+      "t": "Al Jazeera",
+      "u": "https://www.aljazeera.com/news/2026/10/24/is-iran-planning-attacks-on-americans-why-is-the-us-on-alert?traffic_source=rss"
+     }
+    ]
+   },
+   {
+    "date": "2026-10-24",
+    "text": "Drinking water supplies dwindle in Yemeni city besieged by Houthi rebels",
+    "ko": "후티 반군에 포위된 예멘 도시의 식수 공급이 감소하고 있습니다.",
+    "sources": [
+     {
+      "t": "NPR",
+      "u": "https://www.npr.org/2026/10/24/g-s1-149729/drinking-water-supplies-dwindle-in-yemeni-city-besieged-by-houthi-rebels"
+     }
+    ]
+   },
+   {
+    "date": "2026-10-24",
+    "text": "Rubio tells Cubans ‘now is the time’ to act to see political change",
+    "ko": "루비오, 쿠바인들에게 '지금이 바로 정치적 변화를 보기 위해 행동할 때'라고 말함",
+    "sources": [
+     {
+      "t": "The Guardian",
+      "u": "https://www.theguardian.com/us-news/2026/oct/23/marco-rubio-cuba-trump"
+     }
+    ]
+   },
+   {
+    "date": "2026-10-23",
+    "text": "Trump says US may launch ‘another little Epic Fury’ attack on Iran",
+    "ko": "트럼프, 미국이 이란에 '또 다른 작은 Epic Fury' 공격을 가할 수도 있다고 말했다",
+    "sources": [
+     {
+      "t": "France 24",
+      "u": "https://www.france24.com/en/americas/20261023-trump-says-us-may-launch-another-little-epic-fury-attack-iran"
+     }
+    ]
+   },
+   {
+    "date": "2026-10-23",
+    "text": "World News in Brief: Iran nuclear inspections, deadly church attack in Jordan, El Fasher – one year on",
+    "ko": "세계 뉴스 요약: 이란 핵 사찰, 요르단의 치명적인 교회 공격, 엘 파셔 – 1년 후",
+    "sources": [
+     {
+      "t": "UN News",
+      "u": "https://news.un.org/feed/view/en/story/2026/10/1168664"
+     }
+    ]
+   },
+   {
+    "date": "2026-10-23",
+    "text": "Military reinforcements move to Mideast. And, millions of Americans vote early",
+    "ko": "군사 지원군이 중동으로 이동합니다. 그리고 수백만 명의 미국인이 조기 투표를 하고 있습니다.",
+    "sources": [
+     {
+      "t": "NPR",
+      "u": "https://www.npr.org/2026/10/23/g-s1-149514/up-first-newsletter-iran-war-midterm-voting-trump-bbc"
+     }
+    ]
+   },
+   {
+    "date": "2026-10-23",
+    "text": "Retired general discusses the U.S. and Israeli plan for possible attack on Iran",
+    "ko": "퇴역 장군, 이란 공격 가능성에 대한 미국과 이스라엘의 계획 논의",
+    "sources": [
+     {
+      "t": "NPR",
+      "u": "https://www.npr.org/2026/10/23/nx-s1-6012303/retired-general-discusses-the-u-s-and-israeli-plan-for-possible-attack-on-iran"
+     }
+    ]
+   },
+   {
     "date": "2026-10-22",
     "text": "Iran's Islamic Revolutionary Guard Corps reports that seven oil tankers have been hit in the Strait of Hormuz.",
     "sources": [
@@ -148,6 +364,50 @@
    }
   ],
   "yemen": [
+   {
+    "date": "2026-10-24",
+    "text": "Houthis launch attacks on Saudi Arabia and Yemen’s Aden",
+    "ko": "후티 반군, 사우디아라비아와 예멘 아덴 공격 개시",
+    "sources": [
+     {
+      "t": "Al Jazeera",
+      "u": "https://www.aljazeera.com/news/2026/10/24/houthis-launch-attacks-on-saudi-arabia-and-yemens-aden?traffic_source=rss"
+     }
+    ]
+   },
+   {
+    "date": "2026-10-24",
+    "text": "Yemen's Houthi rebels claim new attacks on oil facilities and airports across Saudi Arabia",
+    "ko": "예멘 후티 반군, 사우디아라비아 전역의 석유 시설과 공항에 대한 새로운 공격 주장",
+    "sources": [
+     {
+      "t": "France 24",
+      "u": "https://www.france24.com/en/middle-east/20261024-yemen-s-houthi-rebels-claim-new-attacks-on-oil-facilities-and-airports-across-saudi-arabia"
+     }
+    ]
+   },
+   {
+    "date": "2026-10-24",
+    "text": "Drinking water supplies dwindle in Yemeni city besieged by Houthi rebels",
+    "ko": "후티 반군에 포위된 예멘 도시의 식수 공급이 감소하고 있습니다.",
+    "sources": [
+     {
+      "t": "NPR",
+      "u": "https://www.npr.org/2026/10/24/g-s1-149729/drinking-water-supplies-dwindle-in-yemeni-city-besieged-by-houthi-rebels"
+     }
+    ]
+   },
+   {
+    "date": "2026-10-23",
+    "text": "Yemen: Deepening concerns for Taiz City as aid is blocked from entering",
+    "ko": "예멘: 구호품 유입이 차단되면서 타이즈 시에 대한 우려가 깊어지고 있습니다.",
+    "sources": [
+     {
+      "t": "UN News",
+      "u": "https://news.un.org/feed/view/en/story/2026/10/1168654"
+     }
+    ]
+   },
    {
     "date": "2026-10-22",
     "text": "Al-Qaeda gunmen ambush Yemeni Armed Forces soldiers at a mountainous area in the Shabwah Governorate, killing two soldiers and wounding several more.",
@@ -229,6 +489,17 @@
   "gaza": [
    {
     "date": "2026-10-24",
+    "text": "Thousands take to Tel Aviv's streets for protests against Netanyahu",
+    "ko": "수천 명이 네타냐후 반대 시위를 위해 텔아비브 거리로 나섰습니다.",
+    "sources": [
+     {
+      "t": "France 24",
+      "u": "https://www.france24.com/en/middle-east/20261024-thousands-take-to-tel-aviv-streets-for-protests-against-netanyahu"
+     }
+    ]
+   },
+   {
+    "date": "2026-10-24",
     "text": "The Israeli military raids 15 cities in the occupied West Bank, arresting several Palestinians and destroying a three-storey building in Hebron.",
     "sources": [
      {
@@ -303,6 +574,105 @@
   "westbank": [
    {
     "date": "2026-10-24",
+    "text": "Could Israel’s military crackdown influence Tuesday’s election?",
+    "ko": "이스라엘의 군사적 탄압이 화요일 선거에 영향을 미칠 수 있을까?",
+    "sources": [
+     {
+      "t": "Al Jazeera",
+      "u": "https://www.aljazeera.com/video/inside-story/2026/10/24/could-israels-military-crackdown-influence-tuesdays-election?traffic_source=rss"
+     }
+    ]
+   },
+   {
+    "date": "2026-10-24",
+    "text": "Palestinian families displaced as Israeli forces demolish Hebron homes",
+    "ko": "이스라엘군이 헤브론 가옥을 철거하자 팔레스타인 가족들이 난민이 되었습니다.",
+    "sources": [
+     {
+      "t": "BBC",
+      "u": "https://www.bbc.co.uk/news/articles/cqd09k1k7532o?at_medium=RSS&at_campaign=rss"
+     }
+    ]
+   },
+   {
+    "date": "2026-10-24",
+    "text": "Israel begins demolitions in West Bank",
+    "ko": "이스라엘, 서안지구 철거 시작",
+    "sources": [
+     {
+      "t": "France 24",
+      "u": "https://www.france24.com/en/israel-begins-demolitions-in-west-bank"
+     }
+    ]
+   },
+   {
+    "date": "2026-10-24",
+    "text": "Full lockdown of occupied West Bank begins",
+    "ko": "점령된 서안 지구 전면 봉쇄 시작",
+    "sources": [
+     {
+      "t": "Al Jazeera",
+      "u": "https://www.aljazeera.com/video/newsfeed/2026/10/24/full-lockdown-of-occupied-west-bank-begins-2?traffic_source=rss"
+     }
+    ]
+   },
+   {
+    "date": "2026-10-24",
+    "text": "Israeli forces displace 2,000 Palestinians in Hebron after deadly attack on soldiers",
+    "ko": "이스라엘군, 군인들에 대한 치명적인 공격으로 헤브론에서 팔레스타인인 2000명 대피",
+    "sources": [
+     {
+      "t": "France 24",
+      "u": "https://www.france24.com/en/middle-east/20261024-israeli-forces-displace-1-200-palestinians-in-hebron-after-deadly-attack-on-soldiers"
+     }
+    ]
+   },
+   {
+    "date": "2026-10-24",
+    "text": "Israeli soldiers raze neighbourhood in Hebron, driving families from homes",
+    "ko": "이스라엘 군인들이 헤브론 지역을 파괴하고 가족들을 집에서 몰아냈습니다.",
+    "sources": [
+     {
+      "t": "The Guardian",
+      "u": "https://www.theguardian.com/world/2026/oct/24/israel-soldiers-raze-west-bank-neighbourhood-hebron-families-from-homes"
+     }
+    ]
+   },
+   {
+    "date": "2026-10-24",
+    "text": "Armed Israeli settlers try to break into Palestinian grandfather’s home",
+    "ko": "이스라엘 무장 정착민, 팔레스타인 할아버지 집에 침입 시도",
+    "sources": [
+     {
+      "t": "Al Jazeera",
+      "u": "https://www.aljazeera.com/video/newsfeed/2026/10/24/armed-israeli-settlers-try-to-break-into-palestinian-grandfathers-home?traffic_source=rss"
+     }
+    ]
+   },
+   {
+    "date": "2026-10-24",
+    "text": "Netanyahu orders West Bank operation",
+    "ko": "네타냐후, 서안지구 작전 지시",
+    "sources": [
+     {
+      "t": "France 24",
+      "u": "https://www.france24.com/en/netanyahu-orders-west-bank-operation"
+     }
+    ]
+   },
+   {
+    "date": "2026-10-24",
+    "text": "Why is Israel launching a new military operation in the occupied West Bank?",
+    "ko": "이스라엘이 점령된 서안 지구에서 새로운 군사 작전을 시작하는 이유는 무엇입니까?",
+    "sources": [
+     {
+      "t": "Al Jazeera",
+      "u": "https://www.aljazeera.com/news/2026/10/24/why-is-israel-launching-a-new-military-operation-in-the-occupied-west-bank?traffic_source=rss"
+     }
+    ]
+   },
+   {
+    "date": "2026-10-24",
     "text": "The Israeli military raids 15 cities in the occupied West Bank, arresting several Palestinians and destroying a three-storey building in Hebron.",
     "sources": [
      {
@@ -314,25 +684,51 @@
    },
    {
     "date": "2026-10-23",
-    "text": "The Israeli government orders the military to prepare for a complete lockdown of the West Bank. This comes after two men who allegedly planned an attack are killed.",
+    "text": "Israeli PM pledges massive military operation after West Bank checkpoint attack",
+    "ko": "이스라엘 총리, 서안지구 검문소 공격 이후 대규모 군사작전 약속",
     "sources": [
      {
-      "t": "Tagesschau",
-      "u": "https://www.tagesschau.de/ausland/asien/westjordanland-abriegelung-100.html"
+      "t": "NPR",
+      "u": "https://www.npr.org/2026/10/23/nx-s1-6013613/israeli-pm-pledges-massive-military-operation-after-west-bank-checkpoint-attack"
      }
-    ],
-    "ko": "이스라엘 정부는 군대에 서안지구의 완전한 봉쇄를 준비하라고 명령했습니다. 이번 사건은 공격을 계획한 것으로 알려진 남성 2명이 사망한 이후에 나온 것입니다."
+    ]
    },
    {
-    "date": "2026-10-21",
-    "text": "Over 80 Americans, British citizens, and Israelis are detained by Israeli soldiers in the Israel-occupied West Bank, including U.S. House of Representatives candidate Brad Lander.",
+    "date": "2026-10-23",
+    "text": "Israel launches collective punishment campaign in Hebron after two soldiers killed",
+    "ko": "이스라엘, 군인 2명 사망 후 헤브론에서 집단처벌 캠페인 개시",
     "sources": [
      {
       "t": "The Guardian",
-      "u": "https://www.theguardian.com/world/2026/oct/21/israeli-military-detains-brad-lander-rabbis-west-bank-olive-harvest"
+      "u": "https://www.theguardian.com/world/2026/oct/23/netanyahu-orders-very-extensive-operation-west-bank-two-israeli-soldiers-killed"
      }
-    ],
-    "ko": "미국 하원 후보인 브래드 랜더(Brad Lander)를 포함해 80명 이상의 미국인, 영국 시민, 이스라엘인이 이스라엘이 점령한 서안 지구에서 이스라엘 군인들에 의해 구금되었습니다."
+    ]
+   }
+  ],
+  "belgium": [
+   {
+    "date": "2026-10-24",
+    "text": "Hundreds of thousands march in France as protests take place across Europe – as it happened",
+    "ko": "유럽 ​​전역에서 시위가 벌어지자 프랑스에서는 수십만 명이 행진했습니다.",
+    "sources": [
+     {
+      "t": "The Guardian",
+      "u": "https://www.theguardian.com/world/live/2026/oct/24/france-demonstrations-police-macron-italy-albania-belgium-spain-ukraine-russia-europe-latest-news"
+     }
+    ]
+   }
+  ],
+  "darfur": [
+   {
+    "date": "2026-10-23",
+    "text": "World News in Brief: Iran nuclear inspections, deadly church attack in Jordan, El Fasher – one year on",
+    "ko": "세계 뉴스 요약: 이란 핵 사찰, 요르단의 치명적인 교회 공격, 엘 파셔 – 1년 후",
+    "sources": [
+     {
+      "t": "UN News",
+      "u": "https://news.un.org/feed/view/en/story/2026/10/1168664"
+     }
+    ]
    }
   ]
  },
@@ -393,13 +789,13 @@
   },
   "gaza": {
    "cum": "254,000–263,000+",
-   "cur": "11,758",
+   "cur": "11,800",
    "year": "2026",
    "page": "Arab–Israeli conflict"
   },
   "lebanon": {
    "cum": "254,000–263,000+",
-   "cur": "11,758",
+   "cur": "11,800",
    "year": "2026",
    "page": "Arab–Israeli conflict"
   },
@@ -429,7 +825,7 @@
   },
   "westbank": {
    "cum": "254,000–263,000+",
-   "cur": "11,758",
+   "cur": "11,800",
    "year": "2026",
    "page": "Arab–Israeli conflict"
   },
