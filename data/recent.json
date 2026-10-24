@@ -1,7 +1,29 @@
 {
- "updated": "2026-10-23",
+ "updated": "2026-10-24",
  "news": {
   "ukraine": [
+   {
+    "date": "2026-10-23",
+    "text": "A merchant ship is hit by drones of unknown origins in the Romanian Black Sea, killing a crew member and leaving three more missing. Nine people are rescued.",
+    "sources": [
+     {
+      "t": "Turkiye Today",
+      "u": "https://www.turkiyetoday.com/world/romania-rescues-9-from-black-sea-ship-after-drone-attack-3230869?s=1"
+     }
+    ],
+    "ko": "루마니아 흑해에서 상선이 출처를 알 수 없는 드론에 공격을 받아 승무원 1명이 사망하고 3명이 실종되었습니다. 9명이 구조됐다."
+   },
+   {
+    "date": "2026-10-23",
+    "text": "Ukrainian police detain a 17-year-old girl suspected of helping Russia's Federal Security Service send methadone-laced capsules to Ukrainian soldiers, which killed two in Zhytomyr Oblast and allegedly targeting four others.",
+    "sources": [
+     {
+      "t": "AFP via RFI",
+      "u": "https://www.rfi.fr/en/international-news/20261023-ukraine-says-two-soldiers-died-after-arrested-girl-sent-russian-poison"
+     }
+    ],
+    "ko": "우크라이나 경찰은 러시아 연방 보안국이 우크라이나 군인들에게 메타돈 함유 캡슐을 보내는 것을 도운 혐의로 17세 소녀를 구금했습니다. 이로 인해 Zhytomyr Oblast에서 2명이 사망하고 4명을 표적으로 삼은 것으로 추정됩니다."
+   },
    {
     "date": "2026-10-21",
     "text": "United States special envoy Steve Witkoff arrives in Saint Petersburg to talk with Russian president Vladimir Putin about potentially resolving the war with Ukraine. Putin states he would resume United States-mediated trilateral peace talks with Ukraine, on or after November 10.",
@@ -128,6 +150,17 @@
   "yemen": [
    {
     "date": "2026-10-22",
+    "text": "Al-Qaeda gunmen ambush Yemeni Armed Forces soldiers at a mountainous area in the Shabwah Governorate, killing two soldiers and wounding several more.",
+    "sources": [
+     {
+      "t": "Xinhua",
+      "u": "https://english.news.cn/20261023/1db4ce38e905456db92465e90381a44a/c.html"
+     }
+    ],
+    "ko": "알카에다 무장세력이 샤브와 주의 산악지대에서 예멘군 병사들을 매복 공격해 군인 2명이 사망하고 여러 명이 부상을 입었습니다."
+   },
+   {
+    "date": "2026-10-22",
     "text": "Al-Qaeda gunmen ambushes troops of the Yemeni Armed Forces at a mountainous area in the Shabwah Governorate, killing two soldiers and wounding several more.",
     "sources": [
      {
@@ -195,6 +228,17 @@
   ],
   "gaza": [
    {
+    "date": "2026-10-23",
+    "text": "The Israeli government orders the military to prepare for a complete lockdown of the West Bank. This comes after two men who allegedly planned an attack were killed.",
+    "sources": [
+     {
+      "t": "Al Jazeera",
+      "u": "https://www.aljazeera.com/news/2026/10/23/israel-arrests-36-palestinians-in-the-west-bank-attacks-on-farmers-ramp-up"
+     }
+    ],
+    "ko": "이스라엘 정부는 군대에 서안지구의 완전한 봉쇄를 준비하라고 명령했습니다. 이번 사건은 공격을 계획한 것으로 알려진 남성 2명이 사망한 이후에 나온 것입니다."
+   },
+   {
     "date": "2026-10-21",
     "text": "The Israel Defense Forces (IDF) and Shin Bet say that they have killed Musa Abd Muhammad Hamouda, a Hamas Nukhba forces militant that took part in planning the killing of four IDF soldiers in September 2025.",
     "sources": [
@@ -247,6 +291,17 @@
   ],
   "westbank": [
    {
+    "date": "2026-10-24",
+    "text": "The Israeli military raids 15 cities in the occupied West Bank, arresting several Palestinians and destroying a three-storey building in Hebron.",
+    "sources": [
+     {
+      "t": "Al Jazeera",
+      "u": "https://www.aljazeera.com/news/2026/10/24/israel-raids-towns-detains-dozens-of-palestinians-in-occupied-west-bank"
+     }
+    ],
+    "ko": "이스라엘군은 점령된 서안 지구의 15개 도시를 급습해 팔레스타인인 여러 명을 체포하고 헤브론의 3층 건물을 파괴했습니다."
+   },
+   {
     "date": "2026-10-23",
     "text": "The Israeli government orders the military to prepare for a complete lockdown of the West Bank. This comes after two men who allegedly planned an attack are killed.",
     "sources": [
@@ -273,139 +328,139 @@
  "tallies": {
   "ukraine": {
    "cum": "369,028–827,000+",
-   "cur": "44,588",
+   "cur": "45,740",
    "year": "2026",
    "page": "Russo-Ukrainian war"
   },
   "sudan": {
    "cum": "1,521,000+",
-   "cur": "10,844",
+   "cur": "11,142",
    "year": "2026",
    "page": "Sudanese Civil War"
   },
   "iran": {
    "cum": "47,900+",
-   "cur": "7,055+",
+   "cur": "7,060+",
    "year": "2026",
    "page": "Terrorism in Iran"
   },
   "yemen": {
    "cum": "385,000+",
-   "cur": "8,690",
+   "cur": "7,795",
    "year": "2026",
    "page": "Yemeni civil war (2014–present)"
   },
   "myanmar": {
    "cum": "214,000+",
-   "cur": "8,875",
+   "cur": "9,089",
    "year": "2026",
    "page": "Myanmar conflict"
   },
   "drc": {
    "cum": "219,700+",
-   "cur": "3,660",
+   "cur": "3,752",
    "year": "2026",
    "page": "Congolese Civil War (disambiguation)"
   },
   "afpak": {
    "cum": "380,000–2,805,000+",
-   "cur": "5,522",
+   "cur": "5,724",
    "year": "2026",
    "page": "Afghan conflict"
   },
   "ethiopia": {
    "cum": "500,000–616,300+",
-   "cur": "5,700",
+   "cur": "5,834",
    "year": "2026",
    "page": "Ethiopian civil war (disambiguation)"
   },
   "sahel": {
    "cum": "488,500+",
-   "cur": "19,131",
+   "cur": "19,802",
    "year": "2026",
    "page": "Insurgency in the Maghreb (2002–present)"
   },
   "gaza": {
    "cum": "254,000–263,000+",
-   "cur": "11,610",
+   "cur": "11,758",
    "year": "2026",
    "page": "Arab–Israeli conflict"
   },
   "lebanon": {
    "cum": "254,000–263,000+",
-   "cur": "11,610",
+   "cur": "11,758",
    "year": "2026",
    "page": "Arab–Israeli conflict"
   },
   "haiti": {
    "cum": "25,000+",
-   "cur": "2,496",
+   "cur": "2,514",
    "year": "2026",
    "page": "Haitian crisis (2018–present)"
   },
   "somalia": {
    "cum": "376,200–1,000,000+",
-   "cur": "5,847",
+   "cur": "5,887",
    "year": "2026",
    "page": "Somali Civil War"
   },
   "nigeria": {
    "cum": "107,300+",
-   "cur": "3,500",
+   "cur": "3,530",
    "year": "2026",
    "page": "Communal conflicts in Nigeria"
   },
   "syria": {
    "cum": "664,800+",
-   "cur": "1,654",
+   "cur": "1,668",
    "year": "2026",
    "page": "Aftermath of the Syrian civil war"
   },
   "westbank": {
    "cum": "254,000–263,000+",
-   "cur": "11,610",
+   "cur": "11,758",
    "year": "2026",
    "page": "Arab–Israeli conflict"
   },
   "mexico": {
    "cum": "358,000–417,000",
-   "cur": "5,945",
+   "cur": "6,093",
    "year": "2026",
    "page": "Mexican drug war"
   },
   "colombia": {
    "cum": "460,300+",
-   "cur": "1,622",
+   "cur": "1,660",
    "year": "2026",
    "page": "Colombian conflict"
   },
   "mozambique": {
    "cum": "7,800+",
-   "cur": "471",
+   "cur": "476",
    "year": "2026",
    "page": "Insurgency in Cabo Delgado"
   },
   "southsudan": {
    "cum": "1,521,000+",
-   "cur": "10,844",
+   "cur": "11,142",
    "year": "2026",
    "page": "Sudanese Civil War"
   },
   "cameroon": {
    "cum": "11,000+",
-   "cur": "1,531",
+   "cur": "1,569",
    "year": "2026",
    "page": "Cameroonian Civil War (disambiguation)"
   },
   "balochistan": {
    "cum": "23,100+",
-   "cur": "1,243",
+   "cur": "1,300",
    "year": "2026",
    "page": "Terrorism in Pakistan"
   },
   "benin": {
    "cum": "488,500+",
-   "cur": "19,131",
+   "cur": "19,802",
    "year": "2026",
    "page": "Insurgency in the Maghreb (2002–present)"
   }
