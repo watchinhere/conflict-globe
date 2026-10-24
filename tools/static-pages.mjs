@@ -36,6 +36,8 @@ export const staticPages = ({ fmt, UPDATED, ISSUES }) => {
 <ul><li>Esri(위성사진·지명 타일), NASA GIBS(야간 영상), Amazon S3의 Mapzen Terrarium(고도), unpkg·jsDelivr(지도 라이브러리·텍스처), Google Fonts(글꼴)</li>
 <li>위키백과 API(분쟁 목록·오늘의 사건), GDELT 프로젝트(실시간 기사)</li>
 <li>Google 번역(영어로만 제공되는 사건명·요약을 한국어로 번역할 때 해당 문장)</li></ul>
+<h2>방문 통계</h2>
+<p>방문자 수를 파악하기 위해 <a href="https://www.goatcounter.com" rel="noopener">GoatCounter</a>를 사용합니다. GoatCounter는 쿠키를 쓰지 않고 개인을 식별하거나 다른 사이트에서의 활동을 추적하지 않으며, 방문한 페이지 주소, 유입 경로(리퍼러), 브라우저·운영체제 종류, 화면 크기, 국가 정도의 집계 정보만 남깁니다. IP 주소는 저장하지 않습니다. 자세한 내용은 <a href="https://www.goatcounter.com/help/privacy" rel="noopener">GoatCounter 개인정보 정책</a>을 참고하세요.</p>
 <h2>3. 광고와 쿠키</h2>
 <p>사이트는 Google AdSense 광고를 게재할 수 있습니다. Google을 포함한 제3자 공급업체는 쿠키를 사용하여 이용자의 이 사이트 또는 다른 웹사이트 방문 기록을 바탕으로 광고를 게재합니다. Google은 광고 쿠키를 사용하여 이용자의 사이트 방문 기록에 기반한 광고를 이용자에게 게재할 수 있습니다.</p>
 <p>이용자는 <a href="https://adssettings.google.com" rel="noopener">Google 광고 설정</a>에서 맞춤 광고를 끌 수 있으며, <a href="https://www.aboutads.info" rel="noopener">www.aboutads.info</a>에서 제3자 공급업체의 맞춤 광고용 쿠키 사용을 거부할 수 있습니다. Google의 데이터 사용 방식은 <a href="https://policies.google.com/technologies/partner-sites" rel="noopener">Google 파트너 사이트 정책</a>에서 확인할 수 있습니다. 유럽경제지역·영국·스위스 이용자에게는 광고 쿠키 사용 전에 동의 여부를 묻습니다.</p>
@@ -49,6 +51,8 @@ export const staticPages = ({ fmt, UPDATED, ISSUES }) => {
 <ul><li>Esri (imagery and label tiles), NASA GIBS (night imagery), Mapzen Terrarium on Amazon S3 (elevation), unpkg and jsDelivr (libraries and textures), Google Fonts</li>
 <li>Wikipedia API (conflict list, current events), the GDELT Project (live articles)</li>
 <li>Google Translate (only the text being translated, when English-only items are shown in Korean)</li></ul>
+<h2>Visitor statistics</h2>
+<p>We use <a href="https://www.goatcounter.com" rel="noopener">GoatCounter</a> to count visits. GoatCounter does not use cookies, does not identify individuals or track them across other sites, and records only aggregate information such as the page address, referrer, browser and operating system, screen size and country. IP addresses are not stored. See the <a href="https://www.goatcounter.com/help/privacy" rel="noopener">GoatCounter privacy policy</a> for details.</p>
 <h2>3. Advertising and cookies</h2>
 <p>The site may show Google AdSense ads. Third-party vendors, including Google, use cookies to serve ads based on your prior visits to this website or other websites. Google’s use of advertising cookies enables it and its partners to serve ads to you based on your visits to this and/or other sites on the Internet.</p>
 <p>You can opt out of personalised advertising in <a href="https://adssettings.google.com" rel="noopener">Google Ads Settings</a>, and opt out of third-party vendors’ use of cookies for personalised advertising at <a href="https://www.aboutads.info" rel="noopener">www.aboutads.info</a>. See <a href="https://policies.google.com/technologies/partner-sites" rel="noopener">how Google uses data from partner sites</a>. Visitors from the EEA, UK and Switzerland are asked for consent before advertising cookies are used.</p>

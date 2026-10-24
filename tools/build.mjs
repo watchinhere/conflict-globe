@@ -167,7 +167,8 @@ const T = {
 const FONTS = '<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans+KR:wght@400;500;600;700&family=JetBrains+Mono:wght@500;600&display=swap">';
 const ICON = (await readFile(join(ROOT, 'index.html'), 'utf8')).match(/<link rel="icon"[^>]*>/)[0];
 const CSSV = createHash('sha1').update(await readFile(join(ROOT, 'css/pages.css'))).digest('hex').slice(0, 8);
-const ogPath =(id, lang) => `og/${lang}/${id}.jpg`;
+const COUNTER = '<script data-goatcounter="https://conflictglobe.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>';
+const ogPath = (id, lang) => `og/${lang}/${id}.jpg`;
 const evName = (ev, en) => (en ? ev.en : ev.name);
 const newsText = (n, en) => (en ? n.text : n.ko || n.text);
 
@@ -203,6 +204,7 @@ ${body}
   ${nav.slice(1).map(([h, l]) => `<a href="${up}${h}">${l}</a>`).join('')}<a href="${up}${pre}terms.html">${t.terms}</a>
   <span class="cp">© 2026 ${t.site} · ${t.copy}</span>
 </div></footer>
+${COUNTER}
 </body>
 </html>
 `;
