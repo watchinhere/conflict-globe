@@ -7,6 +7,7 @@ import { t } from './i18n.js';
 export const feeds = {
   wiki: { key: 'feedWiki', every: 60, ok: null, at: 0, n: 0 },
   news: { key: 'feedNews', every: 30, ok: null, at: 0, n: 0 },
+  press: { key: 'feedPress', every: 5, ok: null, at: 0, n: 0 },
   gdelt: { key: 'feedGdelt', every: 0, ok: null, at: 0, n: 0 },
 };
 
@@ -335,6 +336,55 @@ async function loadNews() {
   return items.filter((i) => i.kind).length;
 }
 
+/* ---------- 3) 주요 언론 속보 (tools/news.mjs가 20분마다 data/breaking.json 갱신) ---------- */
+export const press = { items: [], updated: '' };
+const VIOLENT_RE = /gunmen|attack|bomb|blast|explosion|air ?strike|drone strike|shelling|militants?|rebels?|clash|massacre|shot dead|gunfire|insurgent|jihadist|ambush/i;
+async function loadPress() {
+  // 페이지 CDN 캐시(10분)를 피하려고 2분 단위로 주소를 바꾼다
+  const r = await fetch(`data/breaking.json?b=${Math.floor(Date.now() / 120e3)}`);
+  if (!r.ok) throw new Error(`HTTP ${r.status}`);
+  const j = await r.json();
+  await Promise.race([geoReady, sleep(15000)]);
+  press.items = j.items || []; press.updated = j.updated;
+  for (const s of sites) s.ev.press = [];
+  const byId = new Map(sites.map((s) => [s.id, s])), loose = [];
+  for (const it of press.items) {
+    const hits = it.ev.map((id) => byId.get(id)).filter(Boolean);
+    for (const s of hits) s.ev.press.push(it);
+    if (!hits.length) loose.push(it);
+  }
+  // 큐레이션 사건과 이어지지 않는 기사: 같은 나라의 자동 수집 분쟁에 붙이고, 그것도 없으면 새 지점으로 표시
+  const groups = new Map();
+  for (const it of loose) {
+    const cc = it.cc?.[0];
+    if (!cc || !COUNTRIES[cc]) continue;
+    const host = sites.find((s) => s.ev.auto === 'wiki' && (s.ev.regionEn || '').split(' · ').includes(cc));
+    if (host) { host.ev.press.push(it); continue; }
+    if (!groups.has(cc)) groups.set(cc, []);
+    groups.get(cc).push(it);
+  }
+  const ids = new Set();
+  for (const [cc, list] of groups) {
+    const killed = Math.max(0, ...list.map((i) => extractCas(i.t).killed));
+    const violent = list.some((i) => VIOLENT_RE.test(i.t)), unrest = list.filter((i) => RIOT_RE.test(i.t) || PROTEST_RE.test(i.t)).length;
+    if (!(violent && killed >= 3) && unrest < 2) continue;
+    const id = 'press:' + cc, top = list[0];
+    let [lat, lon] = countryPoint(cc);
+    [lat, lon] = nudge(lat, lon, id);
+    ids.add(id);
+    const cat = violent && killed >= 3 ? 'clash' : list.some((i) => RIOT_RE.test(i.t)) ? 'riot' : 'protest';
+    upsert({
+      id, auto: 'press', cat, name: top.t, nameEn: top.t, nameKo: top.ko || undefined, en: top.t,
+      region: countryKo(cc), regionEn: cc, lat, lon, approx: true, start: top.at.slice(0, 10), level: 'active', intensity: 1, size: 0.45, minor: true,
+      summary: top.t, summaryKo: top.ko || undefined, points: [], wiki: [], press: list,
+      articles: list.slice(0, 6).map((i) => ({ t: i.t, s: i.src, d: i.at.slice(0, 10), u: i.u })),
+      q: `${cc} ${cat === 'clash' ? 'attack' : 'protest'}`, q2: cc, qko: countryKo(cc),
+    });
+  }
+  removeWhere((s) => s.ev.auto === 'press' && !ids.has(s.id));
+  return press.items.length;
+}
+
 /* ---------- 6) GDELT (사건 선택 시) ---------- */
 let gdeltLast = 0, liveToken = 0, gdeltQueue = Promise.resolve();
 const gdeltCache = new Map();
@@ -388,7 +438,9 @@ async function job(key, fn) {
 }
 export async function startLive() {
   await job('wiki', loadWiki);
+  await job('press', loadPress);
   await job('news', loadNews);
+  setInterval(() => job('press', loadPress), 5 * 60e3);
   setInterval(() => job('news', loadNews), 30 * 60e3);
   setInterval(async () => { await job('wiki', loadWiki); }, 60 * 60e3);
 }

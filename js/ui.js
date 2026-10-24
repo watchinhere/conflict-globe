@@ -2,7 +2,7 @@ import { app } from './core.js';
 import { CATS, LEVEL_RANK, ASOF, iconFor, catName, groupName, levelName, casLabel } from './data.js';
 import { locate, relabelGeo } from './geo.js';
 import { sites } from './sites.js';
-import { feeds, loadGdelt, tierLabel, firstNum, norm } from './live.js';
+import { feeds, loadGdelt, tierLabel, firstNum, norm, press } from './live.js';
 import { t, tx, isEn, I18N, onLang, setLang, applyStatic, mt } from './i18n.js';
 
 const $ = (id) => document.getElementById(id);
@@ -225,7 +225,8 @@ function factsFor(ev) {
 export function renderPanel(site, keepScroll) {
   const ev = site.ev, panel = $('panel'), en = isEn(), top = panel.scrollTop;
   const news = (ev.news || []).slice().sort((a, b) => b.date.localeCompare(a.date)).slice(0, 8);
-  const srcLabel = ev.auto ? t(ev.auto === 'wiki' ? 'autoWiki' : 'autoNews') : t('curated', { d: ASOF.replace(/-/g, '.') });
+  const srcLabel = ev.auto ? t({ wiki: 'autoWiki', press: 'autoPress' }[ev.auto] || 'autoNews') : t('curated', { d: ASOF.replace(/-/g, '.') });
+  const pressList = (ev.press || []).slice(0, 6);
   let summary = tx(ev, 'summary');
   if (!summary && ev.tier) summary = t('tierSummary', { tier: tierLabel(ev.tier) });
   const needKo = !en && ((ev.auto && ev.summary && !ev.summaryKo && !ev.summaryTried) || news.some((n) => !n.textKo && !n.koTried));
@@ -247,6 +248,9 @@ export function renderPanel(site, keepScroll) {
       ${sumMT ? `<p class="mt-src"><a href="${trUrl(ev.summary)}" target="_blank" rel="noopener">${t('translate')}</a></p>` : ''}
       ${needKo ? `<p class="mt-wait">${t('translating')}</p>` : ''}
       ${points.length ? `<ul class="pts">${points.map((p) => `<li>${esc(p.replace(' [출처 미확인]', ''))}${p.includes('[출처 미확인]') ? `<em class="unv">${t('unverified')}</em>` : ''}</li>`).join('')}</ul>` : ''}</section>
+    ${pressList.length ? `<section class="p-sec"><h3>${t('pressH')}<span class="r">${t('pressR')}</span></h3>
+      <ul class="arts press">${pressList.map((p) => `<li><a href="${esc(p.u)}" target="_blank" rel="noopener"><b>${esc(!en && p.ko ? p.ko : p.t)}</b><span>${esc(p.src)} · ${relTime(Date.parse(p.at))}</span></a></li>`).join('')}</ul>
+      ${!en ? `<p class="d-note">${t('pressMT')}</p>` : ''}</section>` : ''}
     <section class="p-sec"><h3>${t('casH')}</h3>${casSection(ev)}</section>
     <section class="p-sec"><h3>${t('basics')}</h3><dl class="facts">${factsFor(ev).map(([k, v]) => `<div><dt>${k}</dt><dd>${v}</dd></div>`).join('')}</dl></section>
     ${news.length ? `<section class="p-sec"><h3>${t('timeline')}<span class="r">${t('timelineR')}</span></h3>
@@ -295,6 +299,24 @@ export function renderFeeds() {
 $('feedBtn').addEventListener('click', (e) => { const p = $('feedPop'); p.hidden = !p.hidden; e.currentTarget.setAttribute('aria-expanded', String(!p.hidden)); });
 document.addEventListener('click', (e) => { if (!e.target.closest('#feedBtn, #feedPop')) $('feedPop').hidden = true; });
 
+// 상단 배너: 최근 12시간 주요 언론 헤드라인을 8초마다 넘긴다. 누르면 해당 분쟁(없으면 기사)으로 이동
+let tickI = 0;
+function ticker() {
+  const em = document.querySelector('.banner em');
+  // 지도 위 분쟁과 이어진 헤드라인만 (아무 데도 연결되지 않은 기사는 잡음이 많다)
+  const onMap = (p) => p.ev.some((id) => sites.some((s) => s.id === id)) || sites.some((s) => s.id === 'press:' + p.cc?.[0]);
+  const recent = press.items.filter((p) => Date.now() - Date.parse(p.at) < 12 * 3600e3 && onMap(p)).slice(0, 12);
+  if (!recent.length) return;
+  const p = recent[tickI++ % recent.length], en = isEn();
+  em.innerHTML = `<button type="button" class="tick" data-u="${esc(p.u)}" data-ev="${esc(p.ev.find((id) => sites.some((s) => s.id === id)) || 'press:' + (p.cc?.[0] || ''))}"><b>${t('breaking')}</b> ${esc(p.src)} · ${esc(relTime(Date.parse(p.at)))} · ${esc(!en && p.ko ? p.ko : p.t)}</button>`;
+}
+setInterval(ticker, 8000);
+document.querySelector('.banner').addEventListener('click', (e) => {
+  const b = e.target.closest('.tick'); if (!b) return;
+  const s = sites.find((x) => x.id === b.dataset.ev);
+  if (s) select(s, true); else window.open(b.dataset.u, '_blank', 'noopener');
+});
+
 function tick() {
   const d = new Date(), p = (n) => String(n).padStart(2, '0');
   $('utc').textContent = `${p(d.getUTCMonth() + 1)}.${p(d.getUTCDate())} ${p(d.getUTCHours())}:${p(d.getUTCMinutes())}:${p(d.getUTCSeconds())}`;
@@ -342,6 +364,7 @@ app.refreshUI = (force) => {
   if (pending) return;
   pending = setTimeout(() => {
     pending = 0;
+    if (!tickI) ticker();
     renderFilters(); renderList(); renderFeeds();
     $('subline').textContent = t('subline', { n: num(sites.length) });
     if (app.selected && !$('panel').hidden && (forcePanel || document.activeElement?.closest?.('#panel') == null)) renderPanel(app.selected, true);

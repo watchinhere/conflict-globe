@@ -129,6 +129,9 @@ const state = await read('data/recent.json', { updated: '', news: {}, tallies: {
 let news = {}, tallies = state.tallies || {};
 try { news = await loadNews(); } catch (e) { console.warn('news', e.message); }
 try { tallies = { ...tallies, ...await loadTallies() }; } catch (e) { console.warn('tallies', e.message); }
+// 주요 언론 헤드라인(tools/news.mjs가 20분마다 갱신)도 사건별 최근 소식에 합친다
+const breaking = await read('data/breaking.json', { items: [] });
+for (const b of breaking.items || []) for (const id of b.ev || []) (news[id] ||= []).push({ date: b.at.slice(0, 10), text: b.t, ko: b.ko, sources: [{ t: b.src, u: b.u }] });
 const cutoff = new Date(Date.now() - KEEP_DAYS * 864e5).toISOString().slice(0, 10);
 let translated = 0;
 for (const ev of EVENTS) {
@@ -148,7 +151,7 @@ const LV = { ko: { escalating: '격화', active: '진행 중', stalemate: '교�
 const CL = { ko: { killed: '사망', injured: '부상', displaced: '피란', detained: '구금 · 연행', missing: '실종' }, en: { killed: 'Killed', injured: 'Injured', displaced: 'Displaced', detained: 'Detained', missing: 'Missing' } };
 const T = {
   ko: { site: '분쟁 관측 지구본', home: '지구본', list: '분쟁 목록', about: '소개', privacy: '개인정보처리방침', terms: '이용약관', contact: '문의', other: 'English',
-    region: '지역', start: '시작', status: '현재 상황', updated: '최종 업데이트', keys: '주요 동향', recent: '최근 소식', recentNote: '위키백과 ‘오늘의 사건’에서 매일 자동 수집 · 한국어는 기계 번역',
+    region: '지역', start: '시작', status: '현재 상황', updated: '최종 업데이트', keys: '주요 동향', recent: '최근 소식', recentNote: '위키백과 ‘오늘의 사건’과 주요 언론(BBC·알자지라·가디언 등) 헤드라인에서 자동 수집 · 한국어는 기계 번역',
     tally: '위키백과 사망자 집계', tallyCum: '누적', tallyCur: '{y}년', cas: '사상자 · 피해', sources: '출처', open: '3D 지구본에서 이 분쟁 보기',
     casNone: '신뢰할 만한 집계가 아직 없습니다. 3D 지구본의 상세 패널에서 위키백과 실시간 집계를 확인할 수 있습니다.',
     liveNote: '개요와 사상자 수치는 {a} 기준으로 정리했고, 최근 소식과 위키백과 집계는 매일 자동으로 갱신됩니다({d}).',
@@ -156,7 +159,7 @@ const T = {
     latest: '최근 7일 주요 소식',
     groups: { conflict: '전쟁 · 무력 분쟁', unrest: '폭동 · 시위', rights: '인권 · 탄압' }, copy: '공개 출처 정보(OSINT) 기반 비영리 시각화 프로젝트' },
   en: { site: 'Conflict Watch Globe', home: 'Globe', list: 'Conflicts', about: 'About', privacy: 'Privacy', terms: 'Terms', contact: 'Contact', other: '한국어',
-    region: 'Region', start: 'Began', status: 'Status', updated: 'Updated', keys: 'Key developments', recent: 'Latest news', recentNote: 'Collected daily from the Wikipedia Current events portal',
+    region: 'Region', start: 'Began', status: 'Status', updated: 'Updated', keys: 'Key developments', recent: 'Latest news', recentNote: 'Collected automatically from the Wikipedia Current events portal and headlines from major outlets (BBC, Al Jazeera, The Guardian and others)',
     tally: 'Wikipedia fatality tally', tallyCum: 'Total', tallyCur: '{y}', cas: 'Casualties · Impact', sources: 'Sources', open: 'View this conflict on the 3D globe',
     casNone: 'No reliable tally yet. The event panel on the 3D globe shows the live Wikipedia tally.',
     liveNote: 'The overview and casualty figures summarise reporting as of {a}; latest news and the Wikipedia tally refresh automatically every day ({d}).',

@@ -13,7 +13,8 @@ const DICT = {
     hint: '드래그 회전 · 스크롤 확대 · 클릭 상세 · ESC 전체 보기', canvas: '3D 지구본: 드래그로 회전, 스크롤로 확대, 표시 지점 클릭 시 상세 정보',
     loading: '위성 영상을 불러오는 중', loadingN: '위성 영상을 불러오는 중 ({done}/{total})', loadErr: '위성 텍스처를 불러오지 못했습니다. 인터넷 연결을 확인한 뒤 새로고침하십시오.',
     subline: '추적 중인 사건 {n}건 · 실시간 동기화', empty: '조건에 맞는 사건이 없습니다. 위의 유형 필터나 검색어를 확인하십시오.',
-    tracked: '{n}건', curated: '큐레이션 {d} + 실시간', autoWiki: '위키백과 분쟁 목록에서 자동 추가', autoNews: '위키백과 오늘의 사건에서 자동 추가',
+    tracked: '{n}건', curated: '큐레이션 {d} + 실시간', autoWiki: '위키백과 분쟁 목록에서 자동 추가', autoNews: '위키백과 오늘의 사건에서 자동 추가', autoPress: '주요 언론 속보에서 자동 추가',
+    pressH: '주요 언론 속보', pressR: 'BBC · 알자지라 등 · 20분 갱신', pressMT: '제목은 기계 번역입니다. 원문은 링크에서 확인하세요.', breaking: '속보',
     casH: '인명 피해', sitrep: '무슨 일이 일어나고 있나', basics: '기본 정보', dTotal: '전체 사망', dYear: '최근 1년', dTotalL: '전체 사망자', dYearL: '최근 1년 사망자', dNote: '사망자는 위 요약칸 참고. 여러 기관 집계를 바탕으로 한 어림값이라 정확하지 않을 수 있습니다.', dDetail: '출처별 자세한 수치', recentH: '최근 주요 사건', hInj: '부상자', hCiv: '민간인 사망', hDisp: '피란민 · 난민', mStatus: '현재 상황', mDur: '지속 기간', unverified: '출처 확인 안 됨', casFrom: '출처:', otherTally: '다른 기관의 자동 집계 보기 (기준이 달라 수치가 다를 수 있음)', autoTag: '자동 수집', timeline: '최근 동향', timelineR: '위키백과 · 30분 갱신', sources: '관련 기사', intercept: '실시간 뉴스', interceptR: 'GDELT · 7일',
     translate: '원문 번역 보기', translating: '한국어로 번역하는 중…', updating: '갱신 중', mtNote: '자동 번역',
     fRegion: '지역', fZone: '분쟁 지역', fPlace: '국가 · 도시', fPeriod: '진행 시기', fCoord: '좌표', now: '현재', approx: '정확한 위치 정보 없음 · 국가 중심에 표시',
@@ -31,7 +32,7 @@ const DICT = {
     started: '방금 시작', hours: '{n}시간째', days: '{n}일째', months: '{n}개월째', years: '{y}년째', ym: '{y}년 {m}개월째',
     fileMode: '이 앱은 로컬 서버에서 실행해야 합니다.<br>같은 폴더의 <b>실행.bat</b>을 더블클릭하십시오.',
     tierMajor: '대규모 전쟁 (연간 전투 사망 1만 명 이상)', tierMinor: '소규모 전쟁 (연간 1,000–9,999명)', tierConflict: '분쟁 (연간 100–999명)', tierSkirmish: '충돌·교전 (연간 100명 미만)',
-    tierSummary: '{tier}으로 분류된 분쟁입니다.', feedWiki: '위키백과 · 진행 중인 무력 분쟁 목록', feedNews: '위키백과 · 오늘의 사건 (최근 7일)', feedGdelt: 'GDELT · 사건별 실시간 기사',
+    tierSummary: '{tier}으로 분류된 분쟁입니다.', feedWiki: '위키백과 · 진행 중인 무력 분쟁 목록', feedNews: '위키백과 · 오늘의 사건 (최근 7일)', feedGdelt: 'GDELT · 사건별 실시간 기사', feedPress: '주요 언론 · BBC·알자지라·가디언·DW·France 24·UN·NPR',
   },
   en: {
     navList: 'Conflicts', navAbout: 'About', navPrivacy: 'Privacy', navTerms: 'Terms', navContact: 'Contact',
@@ -42,7 +43,8 @@ const DICT = {
     hint: 'DRAG rotate · SCROLL zoom · CLICK details · ESC reset', canvas: '3D globe: drag to rotate, scroll to zoom, click a marker for details',
     loading: 'Loading satellite imagery', loadingN: 'Loading satellite imagery ({done}/{total})', loadErr: 'Could not load satellite textures. Check your connection and reload.',
     subline: '{n} events tracked · live sync', empty: 'No events match. Check the type filters or your search.',
-    tracked: '{n} events', curated: 'Curated {d} + live', autoWiki: 'Auto-added from Wikipedia conflict list', autoNews: 'Auto-added from Wikipedia current events',
+    tracked: '{n} events', curated: 'Curated {d} + live', autoWiki: 'Auto-added from Wikipedia conflict list', autoNews: 'Auto-added from Wikipedia current events', autoPress: 'Auto-added from major outlet headlines',
+    pressH: 'Latest headlines', pressR: 'BBC · Al Jazeera & more · every 20 min', pressMT: '', breaking: 'LATEST',
     casH: 'Human toll', sitrep: 'What is happening', basics: 'Key facts', dTotal: 'Total deaths', dYear: 'Last 12 mo', dTotalL: 'Total deaths', dYearL: 'Deaths, last 12 months', dNote: 'Rough estimates drawn from several tallies; may be inaccurate.', dDetail: 'Detailed figures by source', recentH: 'Recent major incidents', hInj: 'Injured', hCiv: 'Civilian deaths', hDisp: 'Displaced · refugees', mStatus: 'Status', mDur: 'Duration', unverified: 'source not verified', casFrom: 'Source:', otherTally: 'Show other automatic tallies (different methods, figures may differ)', autoTag: 'auto', timeline: 'Latest developments', timelineR: 'Wikipedia · every 30 min', sources: 'Sources', intercept: 'Live news', interceptR: 'GDELT · 7 days',
     translate: 'Translate original', translating: 'Translating…', updating: 'updating', mtNote: 'Machine translation',
     fRegion: 'Region', fZone: 'Affected areas', fPlace: 'Country · City', fPeriod: 'Period', fCoord: 'Coordinates', now: 'present', approx: 'No precise location · shown at country centre',
@@ -60,7 +62,7 @@ const DICT = {
     started: 'just started', hours: '{n} h', days: '{n} days', months: '{n} mo', years: '{y} yr', ym: '{y} yr {m} mo',
     fileMode: 'This app must run from a local server.<br>Double-click <b>실행.bat</b> in the same folder.',
     tierMajor: 'Major war (10,000+ combat deaths per year)', tierMinor: 'Minor war (1,000–9,999 per year)', tierConflict: 'Conflict (100–999 per year)', tierSkirmish: 'Skirmishes (fewer than 100 per year)',
-    tierSummary: 'Classified as: {tier}.', feedWiki: 'Wikipedia · List of ongoing armed conflicts', feedNews: 'Wikipedia · Current events (last 7 days)', feedGdelt: 'GDELT · live articles per event',
+    tierSummary: 'Classified as: {tier}.', feedWiki: 'Wikipedia · List of ongoing armed conflicts', feedNews: 'Wikipedia · Current events (last 7 days)', feedGdelt: 'GDELT · live articles per event', feedPress: 'Major outlets · BBC, Al Jazeera, Guardian, DW, France 24, UN, NPR',
   },
 };
 export const t = (k, v = {}) => String(DICT[I18N.lang][k] ?? DICT.ko[k] ?? k).replace(/\{(\w+)\}/g, (_, x) => v[x] ?? '');

@@ -69,7 +69,10 @@ button:focus-visible, a:focus-visible, input:focus-visible, select:focus-visible
 .langSw button + button { border-left: 1px solid var(--line); }
 .langSw button:hover { color: var(--ink); }
 .langSw button[aria-pressed="true"] { color: #0b0a06; background: var(--amber); }
-.banner em { font-style: normal; }
+.banner em { font-style: normal; min-width: 0; overflow: hidden; text-overflow: ellipsis; }
+.tick { max-width: 100%; background: none; border: 0; padding: 0; color: inherit; font: inherit; letter-spacing: .04em; cursor: pointer; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+.tick b { color: var(--alert); font-weight: 600; letter-spacing: .14em; margin-right: 4px; }
+.tick:hover { color: #fff; }
 .mt-src { margin: 6px 0 0; font-size: 11.5px; }
 .mt-wait { margin: 8px 0 0; font-size: 10.5px; letter-spacing: .1em; color: var(--amber); }
 .feedBtn { display: flex; align-items: center; gap: 8px; font-size: 11px; letter-spacing: .1em; background: var(--panel); border: 1px solid var(--line); border-radius: 2px; padding: 6px 10px; cursor: pointer; }
