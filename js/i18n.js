@@ -7,8 +7,8 @@ const DICT = {
   ko: {
     navList: '분쟁 목록', navAbout: '소개', navPrivacy: '개인정보처리방침', navTerms: '이용약관', navContact: '문의',
     title: '분쟁 관측 지구본', banner: '공개 출처 정보 · GDELT · Esri · Natural Earth 실시간 집계',
-    feedNote: '모든 데이터는 브라우저가 각 기관 공개 API에서 직접 받아옵니다.', type: '유형',
-    railOpen: '사건 목록 펼치기', railClose: '사건 목록 접기', search: '사건 · 국가 검색',
+    feedNote: '모든 데이터는 브라우저가 각 기관 공개 API에서 직접 받아옵니다.', type: '유형', filterAll: '전체',
+    railOpen: '사건 목록 ▴', railClose: '목록 접기 ▾', search: '사건 · 국가 검색',
     sortSev: '심각한 순', sortKia: '사망자 많은 순', sortNew: '최근 시작 순', globe: '◎ 전체 보기',
     hint: '드래그 회전 · 스크롤 확대 · 클릭 상세 · ESC 전체 보기', canvas: '3D 지구본: 드래그로 회전, 스크롤로 확대, 표시 지점 클릭 시 상세 정보',
     loading: '위성 영상을 불러오는 중', loadingN: '위성 영상을 불러오는 중 ({done}/{total})', loadErr: '위성 텍스처를 불러오지 못했습니다. 인터넷 연결을 확인한 뒤 새로고침하십시오.',
@@ -36,8 +36,8 @@ const DICT = {
   en: {
     navList: 'Conflicts', navAbout: 'About', navPrivacy: 'Privacy', navTerms: 'Terms', navContact: 'Contact',
     title: 'Conflict Watch Globe', banner: 'Open-source intelligence · GDELT · Esri · Natural Earth live aggregation',
-    feedNote: 'All data is fetched directly by your browser from each provider’s public API.', type: 'Type',
-    railOpen: 'Show event list', railClose: 'Hide event list', search: 'Search events · countries',
+    feedNote: 'All data is fetched directly by your browser from each provider’s public API.', type: 'Type', filterAll: 'All',
+    railOpen: 'Events ▴', railClose: 'Hide list ▾', search: 'Search events · countries',
     sortSev: 'Most severe', sortKia: 'Most deaths', sortNew: 'Most recent', globe: '◎ Whole globe',
     hint: 'DRAG rotate · SCROLL zoom · CLICK details · ESC reset', canvas: '3D globe: drag to rotate, scroll to zoom, click a marker for details',
     loading: 'Loading satellite imagery', loadingN: 'Loading satellite imagery ({done}/{total})', loadErr: 'Could not load satellite textures. Check your connection and reload.',

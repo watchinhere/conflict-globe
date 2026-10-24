@@ -16,24 +16,24 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans+KR:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500;600&display=swap">
-<link rel="stylesheet" href="css/app.css?v=202610241719">
+<link rel="stylesheet" href="css/app.css?v=202610241754">
 <script type="importmap">
 { "imports": {
   "three": "https://unpkg.com/three@0.170.0/build/three.module.js",
   "three/addons/": "https://unpkg.com/three@0.170.0/examples/jsm/",
-  "./js/core.js": "./js/core.js?v=202610241719",
-  "./js/data.js": "./js/data.js?v=202610241719",
-  "./js/fx.js": "./js/fx.js?v=202610241719",
-  "./js/geo.js": "./js/geo.js?v=202610241719",
-  "./js/i18n.js": "./js/i18n.js?v=202610241719",
-  "./js/live.js": "./js/live.js?v=202610241719",
-  "./js/main.js": "./js/main.js?v=202610241719",
-  "./js/scenes.js": "./js/scenes.js?v=202610241719",
-  "./js/sites.js": "./js/sites.js?v=202610241719",
-  "./js/terrain.js": "./js/terrain.js?v=202610241719",
-  "./js/tiles.js": "./js/tiles.js?v=202610241719",
-  "./js/ui.js": "./js/ui.js?v=202610241719",
-  "./js/zones.js": "./js/zones.js?v=202610241719"
+  "./js/core.js": "./js/core.js?v=202610241754",
+  "./js/data.js": "./js/data.js?v=202610241754",
+  "./js/fx.js": "./js/fx.js?v=202610241754",
+  "./js/geo.js": "./js/geo.js?v=202610241754",
+  "./js/i18n.js": "./js/i18n.js?v=202610241754",
+  "./js/live.js": "./js/live.js?v=202610241754",
+  "./js/main.js": "./js/main.js?v=202610241754",
+  "./js/scenes.js": "./js/scenes.js?v=202610241754",
+  "./js/sites.js": "./js/sites.js?v=202610241754",
+  "./js/terrain.js": "./js/terrain.js?v=202610241754",
+  "./js/tiles.js": "./js/tiles.js?v=202610241754",
+  "./js/ui.js": "./js/ui.js?v=202610241754",
+  "./js/zones.js": "./js/zones.js?v=202610241754"
 } }
 </script>
 </head>
@@ -68,8 +68,8 @@
 
 <aside class="rail" id="rail">
   <button class="railToggle mono" id="railToggle" type="button">사건 목록 펼치기</button>
-  <div class="pnl filters">
-    <div class="pnl-h mono"><span>FILTER</span><span data-i18n="type">유형</span></div>
+  <div class="pnl filters" id="filterBox">
+    <button type="button" class="pnl-h mono fHead" id="filterToggle" aria-expanded="true" aria-controls="filters"><span>FILTER</span><span class="fSum"><span id="filterSum">유형</span><svg viewBox="0 0 24 24" class="chev" aria-hidden="true"><path d="M6 9l6 6 6-6"/></svg></span></button>
     <div id="filters" role="group" aria-label="사건 유형 필터"></div>
   </div>
   <div class="pnl listCard">

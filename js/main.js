@@ -33,32 +33,66 @@ function makeControls(target) {
 }
 makeControls(new THREE.Vector3());
 
-const ease = (k) => (k < 0.5 ? 4 * k * k * k : 1 - Math.pow(-2 * k + 2, 3) / 2);
-function slerpV(a, b, e) {
-  const ang = a.angleTo(b);
-  if (ang < 1e-5) return a.clone();
-  const s = Math.sin(ang);
-  return a.clone().multiplyScalar(Math.sin((1 - e) * ang) / s).add(b.clone().multiplyScalar(Math.sin(e * ang) / s));
+// 비행은 '지면 조준점 · 거리 · 기울기 · 방위'로 기술한다. 조준점은 대원 경로를, 거리는 로그 공간을 따라가고
+// 수평 이동은 높이에 비례해 진행시켜(van Wijk & Nuij 방식) 높이 떠서 건너가고 낮게 내려앉는다.
+const ease = (k) => 0.5 - 0.5 * Math.cos(Math.PI * k);
+const smooth = (a, b, x) => { const k = Math.min(1, Math.max(0, (x - a) / (b - a))); return k * k * (3 - 2 * k); };
+const FOCUS_TILT = Math.atan2(0.7, 0.72), FOCUS_DIST = Math.hypot(0.72, 0.7);
+function frameAt(g) {
+  const east = new THREE.Vector3().crossVectors(Y, g);
+  if (east.lengthSq() < 1e-6) east.set(1, 0, 0);
+  east.normalize();
+  return { east, north: new THREE.Vector3().crossVectors(g, east) };
 }
-function flyTo(p1, t1, u1, newMode, dur = 2.4) {
+// 지금 카메라가 보고 있는 조준점·거리·기울기·방위
+function currentPose() {
+  const T = flight?.T ? flight.T.clone() : mode === 'focus' ? controls.target.clone() : camera.position.clone().setLength(R);
+  const g = T.clone().normalize(), v = camera.position.clone().sub(T), dist = v.length();
+  const tau = Math.acos(Math.min(1, Math.max(-1, v.dot(g) / dist)));
+  const h = v.clone().addScaledVector(g, -v.dot(g)), { east, north } = frameAt(g);
+  const psi = h.lengthSq() < 1e-10 ? 0 : Math.atan2(-h.dot(east), -h.dot(north));
+  return { g, r: T.length(), dist, tau, psi };
+}
+function applyPose(g, r, dist, tau, psi) {
+  const { east, north } = frameAt(g);
+  const fwd = north.multiplyScalar(Math.cos(psi)).addScaledVector(east, Math.sin(psi));
+  const T = g.clone().multiplyScalar(r);
+  camera.position.copy(T).addScaledVector(g, Math.cos(tau) * dist).addScaledVector(fwd, -Math.sin(tau) * dist);
+  camera.up.copy(fwd);
+  camera.lookAt(T);
+  return T;
+}
+function flyTo(T1, dist1, tau1, newMode, dur) {
   controls.enabled = false;
-  const p0 = camera.position.clone();
-  flight = { p0, t0: controls.target.clone(), u0: camera.up.clone(), p1, t1, u1, mode: newMode, k: 0, dur, ang: p0.clone().normalize().angleTo(p1.clone().normalize()) };
+  const a = currentPose(), g1 = T1.clone().normalize(), ang = a.g.angleTo(g1);
+  const L0 = Math.log(a.dist), L1 = Math.log(dist1);
+  // 기본 시간은 건너는 거리와 확대 폭에 맞춘다
+  dur ??= Math.min(4.2, 1.6 + ang * 0.9 + Math.abs(L1 - L0) * 0.16);
+  // 두 지점이 한 화면에 들어올 만큼 떠오른다
+  const peak = Math.log(Math.min(2.6, Math.max(a.dist, dist1, R * ang * 1.1)));
+  const B = Math.max(0, peak - (L0 + L1) / 2);
+  const logD = (e) => L0 + (L1 - L0) * e + B * Math.sin(Math.PI * e);
+  const cum = [0];
+  for (let i = 1; i <= 64; i++) cum.push(cum[i - 1] + Math.exp(logD((i - 0.5) / 64)));
+  const psi0 = Math.atan2(Math.sin(a.psi), Math.cos(a.psi));
+  flight = { a, g1, r1: T1.length(), ang, tau1, logD, cum, psi0, mode: newMode, k: 0, dur, dt: 1 / 60 };
   return new Promise((done) => { flight.done = done; });
 }
 function stepFlight(dt) {
   const f = flight;
-  f.k = Math.min(1, f.k + dt / f.dur);
-  const e = ease(f.k), r0 = f.p0.length(), r1 = f.p1.length();
-  const dir = slerpV(f.p0.clone().normalize(), f.p1.clone().normalize(), e);
-  const hump = Math.sin(Math.PI * e) * Math.min(1.4, f.ang * 0.85);
-  camera.position.copy(dir.multiplyScalar(r0 + (r1 - r0) * e + hump));
-  const up = f.u0.clone().lerp(f.u1, e);
-  camera.up.copy(up.lengthSq() > 1e-4 ? up.normalize() : f.u1);
-  camera.lookAt(f.t0.clone().lerp(f.t1, e));
+  // 프레임 시간 흔들림이 움직임에 그대로 드러나지 않게 평활
+  f.dt += (dt - f.dt) * 0.25;
+  f.k = Math.min(1, f.k + f.dt / f.dur);
+  const e = ease(f.k), i = e * 64, lo = Math.floor(i), c = f.cum;
+  const u = (c[Math.min(64, lo)] + (c[Math.min(64, lo + 1)] - c[Math.min(64, lo)]) * (i - lo)) / c[64];
+  const g = f.ang < 1e-5 ? f.g1.clone() : f.a.g.clone().applyAxisAngle(new THREE.Vector3().crossVectors(f.a.g, f.g1).normalize(), f.ang * u);
+  const tau = f.a.tau * (1 - smooth(0, 0.35, e)) + f.tau1 * smooth(0.55, 1, e);
+  const T = f.T = applyPose(g, f.a.r + (f.r1 - f.a.r) * e, Math.exp(f.logD(e)), tau, f.psi0 * (1 - smooth(0, 0.45, e)));
   if (f.k >= 1) {
-    mode = f.mode; camera.up.copy(f.u1); camera.position.copy(f.p1);
-    makeControls(f.t1); flight = null;
+    flight = null;
+    mode = f.mode;
+    if (mode === 'global') { camera.up.copy(Y); makeControls(new THREE.Vector3()); }
+    else { camera.up.copy(g); makeControls(T); }
     $('globeBtn').hidden = mode === 'global';
     f.done();
   }
@@ -71,23 +105,16 @@ function setFocus(site) {
 }
 app.focusOn = (site, dur) => {
   setFocus(site);
-  const N = site.normal, P = site.root.position.clone();
-  const east = new THREE.Vector3().crossVectors(Y, N);
-  if (east.lengthSq() < 1e-6) east.set(1, 0, 0);
-  east.normalize();
-  const north = new THREE.Vector3().crossVectors(N, east);
   const d = 0.034 + 0.034 * site.size;
-  return flyTo(P.clone().addScaledVector(N, d * 0.72).addScaledVector(north, -d * 0.7), P, N.clone(), 'focus', dur);
+  return flyTo(site.root.position.clone(), d * FOCUS_DIST, FOCUS_TILT, 'focus', dur);
 };
-function goGlobal() {
+function goGlobal(dur) {
   setFocus(null);
-  if (mode === 'global' && !flight) return;
-  const dir = (flight ? flight.t1 : controls.target).clone();
-  if (dir.lengthSq() < 1e-6) dir.copy(camera.position);
-  flyTo(dir.normalize().multiplyScalar(R + 1.7), new THREE.Vector3(), Y.clone(), 'global', 2);
+  if (mode === 'global' && !flight) return Promise.resolve();
+  return flyTo(currentPose().g.multiplyScalar(R), 1.7, 0, 'global', dur);
 }
 app.goGlobal = goGlobal;
-$('globeBtn').addEventListener('click', goGlobal);
+$('globeBtn').addEventListener('click', () => goGlobal());
 addEventListener('keydown', (e) => { if (e.key === 'Escape' && !e.target.closest?.('input')) { closePanel(); goGlobal(); } });
 
 /* ---------- picking ---------- */
@@ -270,23 +297,31 @@ if (qs.has('rec')) {
       + (cas ? `<p class="kia mono"><span>${casLabel('killed')}</span>${en ? cas.vEn || cas.v : cas.v}</p>` : '');
     cap.classList.add('on');
   };
-  const above = (s, alt) => s.normal.clone().multiplyScalar(R + alt);
+  // 머무는 동안 천천히 돌되, 회전 속도를 서서히 올렸다 내린다
+  const spin = (sec) => new Promise((done) => {
+    const t0 = performance.now(), top = 0.45 / slow;
+    controls.autoRotate = true;
+    const tick = () => {
+      const k = (performance.now() - t0) / 1000 / sec;
+      if (k >= 1) { controls.autoRotate = false; controls.autoRotateSpeed = 0.35; return done(); }
+      controls.autoRotateSpeed = top * smooth(0, 0.25, k) * (1 - smooth(0.75, 1, k));
+      requestAnimationFrame(tick);
+    };
+    tick();
+  });
   async function run() {
     gate.hidden = true;
     const list = ids.map((id) => sites.find((s) => s.id === id)).filter(Boolean);
     for (const s of list) {
       cap.classList.remove('on');
-      await flyTo(above(s, 1.1), new THREE.Vector3(), Y.clone(), 'global', 5 * slow);
-      await app.focusOn(s, 6 * slow);
+      await app.focusOn(s, 9 * slow);
       caption(s);
-      controls.autoRotate = true; controls.autoRotateSpeed = 0.5 / slow;
-      await wait(7 * slow);
-      controls.autoRotate = false;
+      await spin(8 * slow);
     }
     cap.classList.remove('on');
     setFocus(null);
     const last = list[list.length - 1];
-    if (last) await flyTo(above(last, 1.9), new THREE.Vector3(), Y.clone(), 'global', 4 * slow);
+    if (last) await flyTo(last.root.position.clone().setLength(R), 1.9, 0, 'global', 5 * slow);
     cap.innerHTML = `<h2>${tr('title')}</h2><p class="mono">watchinhere.github.io/conflict-globe</p>`;
     cap.style.setProperty('--c', '#e3aa45');
     cap.classList.add('on', 'end');

@@ -104,7 +104,18 @@ export function renderFilters() {
   for (const s of sites) counts[s.cat] = (counts[s.cat] || 0) + 1;
   $('filters').innerHTML = Object.entries(CATS).map(([k, c]) =>
     `<button type="button" class="chip" data-cat="${k}" aria-pressed="${active.has(k)}" style="--c:${c.color}"><span class="box"></span><span class="nm">${esc(catName(k))}</span><span class="ct">${String(counts[k] || 0).padStart(2, '0')}</span></button>`).join('');
+  const total = Object.keys(CATS).length;
+  $('filterSum').textContent = `${t('type')} · ${active.size === total ? t('filterAll') : `${active.size}/${total}`}`;
 }
+// 필터는 접을 수 있다. 화면 폭(휴대폰/PC)별로 마지막 상태를 따로 기억하고, 휴대폰은 접힌 채로 시작
+const fKey = () => (innerWidth <= 760 ? 'filtersOpenM' : 'filtersOpen');
+function setFilterOpen(open, save) {
+  $('filterBox').classList.toggle('shut', !open);
+  $('filterToggle').setAttribute('aria-expanded', String(open));
+  if (save) store.set(fKey(), open);
+}
+setFilterOpen(store.get(fKey(), innerWidth > 760), false);
+$('filterToggle').addEventListener('click', () => setFilterOpen($('filterBox').classList.contains('shut'), true));
 $('filters').addEventListener('click', (e) => {
   const b = e.target.closest('.chip'); if (!b) return;
   const k = b.dataset.cat; active.has(k) ? active.delete(k) : active.add(k);
