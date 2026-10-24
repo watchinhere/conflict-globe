@@ -1,0 +1,40 @@
+name: Breaking news
+
+# 20분마다 주요 언론 RSS에서 분쟁 관련 헤드라인을 모아 data/breaking.json을 갱신한다.
+on:
+  schedule:
+    - cron: '*/20 * * * *'
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: ['tools/news.mjs', '.github/workflows/news.yml']
+
+permissions:
+  contents: write
+
+concurrency:
+  group: breaking-news
+  cancel-in-progress: false
+
+jobs:
+  news:
+    runs-on: ubuntu-latest
+    timeout-minutes: 8
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - run: node tools/news.mjs
+      - name: Commit and deploy
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898900+github-actions[bot]@users.noreply.github.com"
+          git add data/breaking.json
+          if git diff --cached --quiet; then echo "no changes"; exit 0; fi
+          git commit -q -m "Breaking news $(date -u +'%F %H:%M')"
+          for i in 1 2 3; do
+            git pull -q --no-rebase --no-edit origin main && git push -q origin HEAD:main HEAD:gh-pages && exit 0
+            sleep 10
+          done
+          exit 1
