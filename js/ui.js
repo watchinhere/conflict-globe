@@ -305,8 +305,21 @@ setInterval(tick, 1000); tick();
 setInterval(renderFeeds, 15000);
 
 const railLabel = () => { $('railToggle').textContent = t($('rail').classList.contains('collapsed') ? 'railOpen' : 'railClose'); };
-$('railToggle').addEventListener('click', () => { $('rail').classList.toggle('collapsed'); railLabel(); });
+$('railToggle').addEventListener('click', () => {
+  const open = $('rail').classList.toggle('collapsed') === false;
+  if (open && innerWidth <= 760) setFilterOpen(false, true);
+  railLabel();
+});
 if (innerWidth <= 760) $('rail').classList.add('collapsed');
+// 휴대폰: 목록과 필터는 하나만 펼치고, 지구본을 누르면 둘 다 접는다
+$('filterToggle').addEventListener('click', () => {
+  if (innerWidth <= 760 && !$('filterBox').classList.contains('shut')) { $('rail').classList.add('collapsed'); railLabel(); }
+});
+$('globe').addEventListener('pointerdown', () => {
+  if (innerWidth > 760) return;
+  if (!$('filterBox').classList.contains('shut')) setFilterOpen(false, true);
+  if (!$('rail').classList.contains('collapsed')) { $('rail').classList.add('collapsed'); railLabel(); }
+});
 
 /* ---------- language ---------- */
 document.getElementById('langSw').addEventListener('click', (e) => {
