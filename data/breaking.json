@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T17:16:19.110Z",
+ "updated": "2026-10-24T19:34:33.306Z",
  "sources": {
   "BBC": {
    "ok": true,
@@ -7,19 +7,19 @@
   },
   "Al Jazeera": {
    "ok": true,
-   "n": 9
+   "n": 10
   },
   "The Guardian": {
    "ok": true,
-   "n": 8
+   "n": 10
   },
   "DW": {
    "ok": true,
-   "n": 5
+   "n": 4
   },
   "France 24": {
    "ok": true,
-   "n": 17
+   "n": 18
   },
   "UN News": {
    "ok": true,
@@ -31,6 +31,142 @@
   }
  },
  "items": [
+  {
+   "id": "85a48481e4d4",
+   "t": "Hundreds of thousands march in France as protests take place across Europe – Europe live",
+   "ko": "유럽 ​​전역에서 시위가 벌어지면서 프랑스에서 수십만 명이 행진합니다 – 유럽 라이브",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/world/live/2026/oct/24/france-demonstrations-police-macron-italy-albania-belgium-spain-ukraine-russia-europe-latest-news",
+   "at": "2026-10-24T18:52:46.000Z",
+   "ev": [
+    "ukraine",
+    "belgium"
+   ],
+   "cc": [
+    "France",
+    "Italy",
+    "Spain"
+   ]
+  },
+  {
+   "id": "43fd91571768",
+   "t": "France: Watching the Post-Riot Protests",
+   "ko": "프랑스: 폭동 이후 시위를 지켜보다",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/tv-shows/spotlight/20261024-france-watching-the-post-riot-protests",
+   "at": "2026-10-24T18:42:27.000Z",
+   "ev": [],
+   "cc": [
+    "France"
+   ]
+  },
+  {
+   "id": "506b03091307",
+   "t": "Thousands gather at new Albanian antigovernment rally",
+   "ko": "새로운 알바니아 반정부 집회에 수천 명이 모였습니다",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/10/24/thousands-gather-at-new-albanian-antigovernment-rally?traffic_source=rss",
+   "at": "2026-10-24T18:30:56.000Z",
+   "ev": [],
+   "cc": []
+  },
+  {
+   "id": "b93548b6584f",
+   "t": "Thousands take to Tel Aviv's streets for protests against Netanyahu",
+   "ko": "수천 명이 네타냐후 반대 시위를 위해 텔아비브 거리로 나섰습니다.",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/middle-east/20261024-thousands-take-to-tel-aviv-streets-for-protests-against-netanyahu",
+   "at": "2026-10-24T18:21:55.000Z",
+   "ev": [
+    "gaza"
+   ],
+   "cc": [
+    "Israel",
+    "Palestine"
+   ]
+  },
+  {
+   "id": "25c2c85b0f31",
+   "t": "Tens of thousands of Lula supporters rally on eve of Brazilian election runoff",
+   "ko": "브라질 총선 결선 전날 수만 명의 룰라 지지자들이 집결",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/world/2026/oct/24/lula-da-silva-supporters-rally-eve-brazil-election-runoff-bolsonaro",
+   "at": "2026-10-24T18:11:44.000Z",
+   "ev": [],
+   "cc": [
+    "Brazil"
+   ]
+  },
+  {
+   "id": "5dbd5e1a6d69",
+   "t": "Hundreds of thousands march across France in protests over schools and policing",
+   "ko": "수십만 명이 프랑스 전역에서 학교와 경찰에 대한 항의 시위를 벌였습니다.",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/world/2026/oct/24/hundreds-of-thousands-march-across-france-in-protests-over-schools-and-policing",
+   "at": "2026-10-24T17:54:41.000Z",
+   "ev": [],
+   "cc": [
+    "France"
+   ]
+  },
+  {
+   "id": "f6e6e35452ad",
+   "t": "Yemen's Houthi rebels claim new attacks on oil facilities and airports across Saudi Arabia",
+   "ko": "예멘 후티 반군, 사우디아라비아 전역의 석유 시설과 공항에 대한 새로운 공격 주장",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/middle-east/20261024-yemen-s-houthi-rebels-claim-new-attacks-on-oil-facilities-and-airports-across-saudi-arabia",
+   "at": "2026-10-24T17:50:25.000Z",
+   "ev": [
+    "iran",
+    "yemen"
+   ],
+   "cc": [
+    "Yemen",
+    "Saudi Arabia"
+   ]
+  },
+  {
+   "id": "e163e675e5da",
+   "t": "France: Clashes erupt as protests sweep across cities",
+   "ko": "프랑스: 도시 전역에서 시위가 휩쓸면서 충돌이 발생했습니다.",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/video/20261024-france-clashes-erupt-as-protests-sweep-across-cities",
+   "at": "2026-10-24T17:50:19.000Z",
+   "ev": [],
+   "cc": [
+    "France"
+   ]
+  },
+  {
+   "id": "32151483ad18",
+   "t": "Palestinian families displaced as Israeli forces demolish Hebron homes, local officials say",
+   "ko": "이스라엘군이 헤브론 가옥을 철거하자 팔레스타인 가족들이 난민이 되었다고 현지 관리들이 밝혔습니다.",
+   "src": "BBC",
+   "u": "https://www.bbc.co.uk/news/articles/cqd09k1k7532o?at_medium=RSS&at_campaign=rss",
+   "at": "2026-10-24T17:21:42.000Z",
+   "ev": [
+    "westbank"
+   ],
+   "cc": [
+    "Palestine",
+    "Israel"
+   ]
+  },
+  {
+   "id": "64f7defd22cd",
+   "t": "Israel begins demolitions in West Bank",
+   "ko": "이스라엘, 서안지구 철거 시작",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/israel-begins-demolitions-in-west-bank",
+   "at": "2026-10-24T17:13:56.000Z",
+   "ev": [
+    "westbank"
+   ],
+   "cc": [
+    "Israel",
+    "Palestine"
+   ]
+  },
   {
    "id": "15466d6ba416",
    "t": "Italy hit by new cost of living protests",
@@ -68,23 +204,6 @@
    ]
   },
   {
-   "id": "85a48481e4d4",
-   "t": "Thousands march in Paris and other French cities as protests take place across Europe – Europe live",
-   "ko": "유럽 ​​전역에서 시위가 벌어지자 파리와 다른 프랑스 도시에서 수천 명이 행진합니다 – 유럽 라이브",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/world/live/2026/oct/24/france-demonstrations-police-macron-italy-albania-belgium-spain-ukraine-russia-europe-latest-news",
-   "at": "2026-10-24T17:04:34.000Z",
-   "ev": [
-    "ukraine",
-    "belgium"
-   ],
-   "cc": [
-    "France",
-    "Italy",
-    "Spain"
-   ]
-  },
-  {
    "id": "67efb573cd48",
    "t": "Ukraine’s military says Starlink satellite connection stable after recent restrictions",
    "ko": "우크라이나 군, 최근 제한 이후 스타링크 위성 연결이 안정적이라고 밝혔습니다.",
@@ -101,8 +220,8 @@
   },
   {
    "id": "cd4dcbb52d31",
-   "t": "Security forces deploy as Milan braces for another day of protests",
-   "ko": "밀라노가 또 다른 시위를 대비하면서 보안군 배치",
+   "t": "Hundreds of soldiers deploy as protesters rally in Italy’s Milan",
+   "ko": "이탈리아 밀라노에서 시위대가 집결하자 수백 명의 군인이 배치됐다.",
    "src": "Al Jazeera",
    "u": "https://www.aljazeera.com/news/2026/10/24/security-forces-deploy-as-milan-braces-for-another-day-of-protests?traffic_source=rss",
    "at": "2026-10-24T15:05:58.000Z",
@@ -327,8 +446,8 @@
   },
   {
    "id": "423568baefcb",
-   "t": "France protests live: 135 arrested as marches held under tight security",
-   "ko": "프랑스 시위 생중계: 삼엄한 보안 하에 진행된 행진으로 135명 체포",
+   "t": "France protests updates: 135 arrested as marches held under tight security",
+   "ko": "프랑스 시위 업데이트: 삼엄한 보안 속에서 진행된 행진으로 135명 체포",
    "src": "Al Jazeera",
    "u": "https://www.aljazeera.com/news/liveblog/2026/10/24/france-protests-live-135-arrested-as-marches-held-under-tight-security?traffic_source=rss",
    "at": "2026-10-24T12:55:37.000Z",
@@ -978,18 +1097,6 @@
    "cc": [
     "Israel",
     "Palestine"
-   ]
-  },
-  {
-   "id": "78633f9f9a90",
-   "t": "Albania's student protests are only getting bigger",
-   "ko": "알바니아 학생 시위 점점 커지고 있다",
-   "src": "DW",
-   "u": "https://www.dw.com/en/albania-s-student-protests-are-only-getting-bigger/a-79735213?maca=en-rss-en-world-4025-rdf",
-   "at": "2026-10-22T19:18:00.000Z",
-   "ev": [],
-   "cc": [
-    "Albania"
    ]
   }
  ]
