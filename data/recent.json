@@ -228,6 +228,17 @@
   ],
   "gaza": [
    {
+    "date": "2026-10-24",
+    "text": "The Israeli military raids 15 cities in the occupied West Bank, arresting several Palestinians and destroying a three-storey building in Hebron.",
+    "sources": [
+     {
+      "t": "Al Jazeera",
+      "u": "https://www.aljazeera.com/news/2026/10/24/israel-raids-towns-detains-dozens-of-palestinians-in-occupied-west-bank"
+     }
+    ],
+    "ko": "이스라엘군은 점령된 서안 지구의 15개 도시를 급습해 팔레스타인인 여러 명을 체포하고 헤브론의 3층 건물을 파괴했습니다."
+   },
+   {
     "date": "2026-10-23",
     "text": "The Israeli government orders the military to prepare for a complete lockdown of the West Bank. This comes after two men who allegedly planned an attack were killed.",
     "sources": [
