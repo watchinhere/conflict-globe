@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T13:49:14.636Z",
+ "updated": "2026-10-24T17:16:19.110Z",
  "sources": {
   "BBC": {
    "ok": true,
@@ -7,7 +7,7 @@
   },
   "Al Jazeera": {
    "ok": true,
-   "n": 12
+   "n": 9
   },
   "The Guardian": {
    "ok": true,
@@ -15,11 +15,11 @@
   },
   "DW": {
    "ok": true,
-   "n": 6
+   "n": 5
   },
   "France 24": {
    "ok": true,
-   "n": 18
+   "n": 17
   },
   "UN News": {
    "ok": true,
@@ -27,10 +27,175 @@
   },
   "NPR": {
    "ok": true,
-   "n": 6
+   "n": 7
   }
  },
  "items": [
+  {
+   "id": "15466d6ba416",
+   "t": "Italy hit by new cost of living protests",
+   "ko": "이탈리아, 새로운 생활비 시위로 타격",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/italy-hit-by-new-cost-of-living-protests",
+   "at": "2026-10-24T17:12:54.000Z",
+   "ev": [],
+   "cc": [
+    "Italy"
+   ]
+  },
+  {
+   "id": "2b2456a068b2",
+   "t": "Paris: 70.000 police officers deployed nationwide",
+   "ko": "파리: 전국적으로 70,000명의 경찰 배치",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/paris-70-000-police-officers-deployed-nationwide",
+   "at": "2026-10-24T17:11:44.000Z",
+   "ev": [],
+   "cc": [
+    "France"
+   ]
+  },
+  {
+   "id": "665f7b85102a",
+   "t": "France: Protests continue while police fire tear gas at demonstrators",
+   "ko": "프랑스: 경찰이 시위대를 향해 최루탄을 발사하는 동안 시위는 계속된다",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/france-protests-continue-while-police-fire-tear-gas-at-demonstrators",
+   "at": "2026-10-24T17:10:42.000Z",
+   "ev": [],
+   "cc": [
+    "France"
+   ]
+  },
+  {
+   "id": "85a48481e4d4",
+   "t": "Thousands march in Paris and other French cities as protests take place across Europe – Europe live",
+   "ko": "유럽 ​​전역에서 시위가 벌어지자 파리와 다른 프랑스 도시에서 수천 명이 행진합니다 – 유럽 라이브",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/world/live/2026/oct/24/france-demonstrations-police-macron-italy-albania-belgium-spain-ukraine-russia-europe-latest-news",
+   "at": "2026-10-24T17:04:34.000Z",
+   "ev": [
+    "ukraine",
+    "belgium"
+   ],
+   "cc": [
+    "France",
+    "Italy",
+    "Spain"
+   ]
+  },
+  {
+   "id": "67efb573cd48",
+   "t": "Ukraine’s military says Starlink satellite connection stable after recent restrictions",
+   "ko": "우크라이나 군, 최근 제한 이후 스타링크 위성 연결이 안정적이라고 밝혔습니다.",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/world/2026/oct/24/ukraine-zelenskyy-military-starlink-satellite-connection-stable-after-restrictions",
+   "at": "2026-10-24T15:47:20.000Z",
+   "ev": [
+    "ukraine"
+   ],
+   "cc": [
+    "Ukraine",
+    "United States"
+   ]
+  },
+  {
+   "id": "cd4dcbb52d31",
+   "t": "Security forces deploy as Milan braces for another day of protests",
+   "ko": "밀라노가 또 다른 시위를 대비하면서 보안군 배치",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/10/24/security-forces-deploy-as-milan-braces-for-another-day-of-protests?traffic_source=rss",
+   "at": "2026-10-24T15:05:58.000Z",
+   "ev": [],
+   "cc": [
+    "Italy"
+   ]
+  },
+  {
+   "id": "1b68b35e23f7",
+   "t": "🔴 French protests live: Police fire teargas at demonstrators in cities including Toulouse, Lyon",
+   "ko": "🔴 프랑스 시위 생중계: 툴루즈, 리옹 등 도시의 시위대를 향해 경찰이 최루탄을 발사합니다.",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/france/20261024-live-hundreds-of-protests-expected-in-france-amid-high-tensions-and-heavy-police-presence",
+   "at": "2026-10-24T14:41:05.000Z",
+   "ev": [],
+   "cc": [
+    "France"
+   ]
+  },
+  {
+   "id": "2861c27cad41",
+   "t": "Full lockdown of occupied West Bank begins",
+   "ko": "점령된 서안 지구 전면 봉쇄 시작",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/video/newsfeed/2026/10/24/full-lockdown-of-occupied-west-bank-begins-2?traffic_source=rss",
+   "at": "2026-10-24T14:24:19.000Z",
+   "ev": [
+    "westbank"
+   ],
+   "cc": [
+    "Palestine",
+    "Israel"
+   ]
+  },
+  {
+   "id": "4ebdb696244c",
+   "t": "Nine killed and 40 injured after gunmen open fire at church funeral in Jordan",
+   "ko": "요르단 교회 장례식에서 무장괴한이 총격을 가해 9명이 숨지고 40명이 부상당했다.",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/world/2026/oct/24/seven-killed-and-40-injured-after-gunmen-open-fire-at-church-funeral-in-jordan",
+   "at": "2026-10-24T14:24:15.000Z",
+   "ev": [],
+   "cc": [
+    "Jordan",
+    "Greece"
+   ]
+  },
+  {
+   "id": "9b5397f83bd4",
+   "t": "Ukraine says Starlink restored as attacks continue in Russia and Ukraine",
+   "ko": "우크라이나는 러시아와 우크라이나에서 공격이 계속됨에 따라 Starlink가 복원되었다고 밝혔습니다.",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/10/24/ukraine-says-starlink-restored-as-attacks-continue-in-russia-and-ukraine?traffic_source=rss",
+   "at": "2026-10-24T14:23:40.000Z",
+   "ev": [
+    "ukraine"
+   ],
+   "cc": [
+    "Ukraine",
+    "Russia",
+    "United States"
+   ]
+  },
+  {
+   "id": "bbd544681eb9",
+   "t": "Turkey's new deal on Mediterranean maritime boundaries with Libya is exacerbating issues with Greece and the EU",
+   "ko": "리비아와 지중해 해양 경계에 대한 터키의 새로운 계약은 그리스 및 EU와의 문제를 악화시키고 있습니다.",
+   "src": "DW",
+   "u": "https://www.dw.com/en/turkey-s-new-deal-on-mediterranean-maritime-boundaries-with-libya-is-exacerbating-issues-with-greece-and-the-eu/a-79745971?maca=en-rss-en-world-4025-rdf",
+   "at": "2026-10-24T14:09:00.000Z",
+   "ev": [],
+   "cc": [
+    "Turkey",
+    "Libya",
+    "Greece"
+   ]
+  },
+  {
+   "id": "a0356421da8e",
+   "t": "Israeli forces displace 1,200 Palestinians in Hebron after deadly attack on soldiers",
+   "ko": "이스라엘군, 군인들에 대한 치명적인 공격으로 헤브론에서 팔레스타인 1,200명 대피",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/middle-east/20261024-israeli-forces-displace-1-200-palestinians-in-hebron-after-deadly-attack-on-soldiers",
+   "at": "2026-10-24T13:50:12.000Z",
+   "ev": [
+    "westbank"
+   ],
+   "cc": [
+    "Israel",
+    "Palestine"
+   ]
+  },
   {
    "id": "22f134b46229",
    "t": "Who was behind the deadly church shooting in Jordan?",
@@ -41,23 +206,6 @@
    "ev": [],
    "cc": [
     "Jordan"
-   ]
-  },
-  {
-   "id": "85a48481e4d4",
-   "t": "Thousands march in Paris as protests take place across Europe – Europe live",
-   "ko": "유럽 ​​전역에서 시위가 벌어지면서 수천 명이 파리에서 행진 – 유럽 라이브",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/world/live/2026/oct/24/france-demonstrations-police-macron-italy-albania-belgium-spain-ukraine-russia-europe-latest-news",
-   "at": "2026-10-24T13:38:34.000Z",
-   "ev": [
-    "ukraine",
-    "belgium"
-   ],
-   "cc": [
-    "France",
-    "Italy",
-    "Spain"
    ]
   },
   {
@@ -366,19 +514,6 @@
    ]
   },
   {
-   "id": "4ebdb696244c",
-   "t": "Eight killed and 40 injured after gunmen open fire at church funeral in Jordan",
-   "ko": "요르단 교회 장례식에서 무장괴한이 총격을 가해 8명이 숨지고 40명이 부상당했다.",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/world/2026/oct/24/seven-killed-and-40-injured-after-gunmen-open-fire-at-church-funeral-in-jordan",
-   "at": "2026-10-24T10:23:13.000Z",
-   "ev": [],
-   "cc": [
-    "Jordan",
-    "Greece"
-   ]
-  },
-  {
    "id": "d6b75725b06c",
    "t": "France braces for another day of mass protests as security on high alert",
    "ko": "프랑스, 보안이 강화되면서 또 다른 대규모 시위가 벌어질 예정",
@@ -523,18 +658,6 @@
    ]
   },
   {
-   "id": "1b68b35e23f7",
-   "t": "Live: French police seize weapons and arrest 135 people on the sidelines of new protests",
-   "ko": "라이브: 프랑스 경찰이 새로운 시위 도중 무기를 압수하고 135명을 체포했습니다.",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/france/20261024-live-hundreds-of-protests-expected-in-france-amid-high-tensions-and-heavy-police-presence",
-   "at": "2026-10-24T04:59:58.000Z",
-   "ev": [],
-   "cc": [
-    "France"
-   ]
-  },
-  {
    "id": "99928135601c",
    "t": "Australian MP's condition improves after alleged car attack",
    "ko": "호주 국회의원, 차량 공격 혐의로 상태 호전",
@@ -603,6 +726,21 @@
    "at": "2026-10-23T22:47:07.000Z",
    "ev": [],
    "cc": []
+  },
+  {
+   "id": "8672db372927",
+   "t": "Israeli PM pledges massive military operation after West Bank checkpoint attack",
+   "ko": "이스라엘 총리, 서안지구 검문소 공격 이후 대규모 군사작전 약속",
+   "src": "NPR",
+   "u": "https://www.npr.org/2026/10/23/nx-s1-6013613/israeli-pm-pledges-massive-military-operation-after-west-bank-checkpoint-attack",
+   "at": "2026-10-23T21:38:54.000Z",
+   "ev": [
+    "westbank"
+   ],
+   "cc": [
+    "Israel",
+    "Palestine"
+   ]
   },
   {
    "id": "ddaecd5b03b5",
@@ -852,33 +990,6 @@
    "ev": [],
    "cc": [
     "Albania"
-   ]
-  },
-  {
-   "id": "5cc4621c20aa",
-   "t": "Are the French police the most violent in the EU?",
-   "ko": "프랑스 경찰은 EU에서 가장 폭력적인가?",
-   "src": "DW",
-   "u": "https://www.dw.com/en/are-the-french-police-the-most-violent-in-the-eu/a-79732855?maca=en-rss-en-world-4025-rdf",
-   "at": "2026-10-22T16:01:00.000Z",
-   "ev": [],
-   "cc": [
-    "France"
-   ]
-  },
-  {
-   "id": "aa1c3cee193a",
-   "t": "Is Iran ready for another major US attack after midterm elections?",
-   "ko": "이란은 중간선거 이후 미국의 또 다른 대규모 공격에 대비하고 있는가?",
-   "src": "DW",
-   "u": "https://www.dw.com/en/is-iran-ready-for-another-major-us-attack-after-midterm-elections/a-79734082?maca=en-rss-en-world-4025-rdf",
-   "at": "2026-10-22T14:16:00.000Z",
-   "ev": [
-    "iran"
-   ],
-   "cc": [
-    "Iran",
-    "United States"
    ]
   }
  ]
