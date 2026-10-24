@@ -1,9 +1,9 @@
 {
- "updated": "2026-10-24T19:34:33.306Z",
+ "updated": "2026-10-24T21:52:41.398Z",
  "sources": {
   "BBC": {
    "ok": true,
-   "n": 11
+   "n": 13
   },
   "Al Jazeera": {
    "ok": true,
@@ -19,7 +19,7 @@
   },
   "France 24": {
    "ok": true,
-   "n": 18
+   "n": 19
   },
   "UN News": {
    "ok": true,
@@ -32,12 +32,132 @@
  },
  "items": [
   {
+   "id": "42d3f00a8fa6",
+   "t": "Iran blames US for deal failure, urges new try amid fear of new attacks",
+   "ko": "이란, 협상 실패에 대해 미국을 비난하고 새로운 공격에 대한 두려움 속에 새로운 시도 촉구",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/10/24/iran-blames-us-for-deal-failure-urges-new-try-amid-fear-of-new-attacks?traffic_source=rss",
+   "at": "2026-10-24T21:30:11.000Z",
+   "ev": [
+    "iran"
+   ],
+   "cc": [
+    "Iran",
+    "United States"
+   ]
+  },
+  {
+   "id": "67efb573cd48",
+   "t": "Ukraine’s military says Starlink satellite connection stable after recent restrictions",
+   "ko": "우크라이나 군, 최근 제한 이후 스타링크 위성 연결이 안정적이라고 밝혔습니다.",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/world/2026/oct/24/ukraine-zelenskyy-military-starlink-satellite-connection-stable-after-restrictions",
+   "at": "2026-10-24T21:25:58.000Z",
+   "ev": [
+    "ukraine"
+   ],
+   "cc": [
+    "Ukraine",
+    "United States"
+   ]
+  },
+  {
+   "id": "5595aadb526c",
+   "t": "Protests roil France once again as police seek to quell violence",
+   "ko": "경찰이 폭력 진압에 나서자 시위가 다시 한번 프랑스를 뒤흔든다.",
+   "src": "NPR",
+   "u": "https://www.npr.org/2026/10/24/nx-s1-6014520/protests-roil-france-once-again-as-police-seek-to-quell-violence",
+   "at": "2026-10-24T21:21:00.000Z",
+   "ev": [],
+   "cc": [
+    "France"
+   ]
+  },
+  {
+   "id": "25c2c85b0f31",
+   "t": "More than one million Lula supporters rally on eve of Brazilian election runoff",
+   "ko": "브라질 총선 결선 전날 룰라 지지자 100만 명 이상 집회",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/world/2026/oct/24/lula-da-silva-supporters-rally-eve-brazil-election-runoff-bolsonaro",
+   "at": "2026-10-24T21:10:23.000Z",
+   "ev": [],
+   "cc": [
+    "Brazil"
+   ]
+  },
+  {
+   "id": "0a5bd0ce690d",
+   "t": "Almost 1,000 arrested as clashes follow another day of mass protests across France",
+   "ko": "프랑스 전역에서 또 다른 대규모 시위가 벌어진 뒤 충돌로 거의 1000명이 체포됐다.",
+   "src": "BBC",
+   "u": "https://www.bbc.co.uk/news/articles/c95ynd587ynzo?at_medium=RSS&at_campaign=rss",
+   "at": "2026-10-24T21:09:27.000Z",
+   "ev": [],
+   "cc": [
+    "France"
+   ]
+  },
+  {
+   "id": "250c5583ffcd",
+   "t": "Houthis launch attacks on Saudi Arabia and Yemen’s Aden",
+   "ko": "후티 반군, 사우디아라비아와 예멘 아덴 공격 개시",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/10/24/houthis-launch-attacks-on-saudi-arabia-and-yemens-aden?traffic_source=rss",
+   "at": "2026-10-24T21:08:51.000Z",
+   "ev": [
+    "yemen"
+   ],
+   "cc": [
+    "Saudi Arabia",
+    "Yemen"
+   ]
+  },
+  {
+   "id": "8dae61c39e35",
+   "t": "'The marches went well' – French government on demonstrations a week after looting and violence",
+   "ko": "'행진은 순조롭게 진행됐다' - 약탈과 폭력사태 일주일 만에 시위에 나선 프랑스 정부",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/france/20261024-the-marches-went-well-%E2%80%93-french-government-on-demonstrations-a-week-after-looting-and-violence",
+   "at": "2026-10-24T21:01:56.000Z",
+   "ev": [],
+   "cc": [
+    "France"
+   ]
+  },
+  {
+   "id": "fa76e78e76ed",
+   "t": "Violent clashes as Albanian government cracks down on protests",
+   "ko": "알바니아 정부가 시위를 진압하면서 폭력적인 충돌이 발생했습니다.",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/video/newsfeed/2026/10/24/aje-onl-nf_clashes-as-albanian-pm-cracks-down-on-protests-241026?traffic_source=rss",
+   "at": "2026-10-24T20:39:08.000Z",
+   "ev": [],
+   "cc": [
+    "Albania"
+   ]
+  },
+  {
+   "id": "67d46dfd6733",
+   "t": "Could Israel’s military crackdown influence Tuesday’s election?",
+   "ko": "이스라엘의 군사적 탄압이 화요일 선거에 영향을 미칠 수 있을까?",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/video/inside-story/2026/10/24/could-israels-military-crackdown-influence-tuesdays-election?traffic_source=rss",
+   "at": "2026-10-24T20:37:02.000Z",
+   "ev": [
+    "westbank"
+   ],
+   "cc": [
+    "Israel",
+    "Palestine"
+   ]
+  },
+  {
    "id": "85a48481e4d4",
-   "t": "Hundreds of thousands march in France as protests take place across Europe – Europe live",
-   "ko": "유럽 ​​전역에서 시위가 벌어지면서 프랑스에서 수십만 명이 행진합니다 – 유럽 라이브",
+   "t": "Hundreds of thousands march in France as protests take place across Europe – as it happened",
+   "ko": "유럽 ​​전역에서 시위가 벌어지자 프랑스에서는 수십만 명이 행진했습니다.",
    "src": "The Guardian",
    "u": "https://www.theguardian.com/world/live/2026/oct/24/france-demonstrations-police-macron-italy-albania-belgium-spain-ukraine-russia-europe-latest-news",
-   "at": "2026-10-24T18:52:46.000Z",
+   "at": "2026-10-24T20:22:18.000Z",
    "ev": [
     "ukraine",
     "belgium"
@@ -47,6 +167,48 @@
     "Italy",
     "Spain"
    ]
+  },
+  {
+   "id": "5c65300146f1",
+   "t": "Six Flags to reopen Goliath rollercoaster – but now with seatbelts after recent rider death",
+   "ko": "Six Flags, 골리앗 롤러코스터 재개장 – 최근 라이더 사망 이후 안전벨트 착용",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/us-news/2026/oct/24/six-flags-goliath-rollercoaster-seatbelts",
+   "at": "2026-10-24T19:44:36.000Z",
+   "ev": [],
+   "cc": [
+    "Georgia"
+   ]
+  },
+  {
+   "id": "26282d0195bf",
+   "t": "Fireworks and tear gas as protesters and riot police clash in Paris",
+   "ko": "파리에서 시위대와 진압 경찰이 충돌하면서 불꽃놀이와 최루탄",
+   "src": "BBC",
+   "u": "https://www.bbc.co.uk/news/videos/cm89zqw9lx1do?at_medium=RSS&at_campaign=rss",
+   "at": "2026-10-24T19:37:35.000Z",
+   "ev": [],
+   "cc": []
+  },
+  {
+   "id": "e13f657c6aa5",
+   "t": "Thousands of Israelis rally against Netanyahu gov’t days before election",
+   "ko": "수천명의 이스라엘인들이 선거를 며칠 앞두고 네타냐후 정부에 반대하는 집회를 열었습니다.",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/10/24/thousands-of-israelis-rally-against-netanyahu-govt-days-before-election?traffic_source=rss",
+   "at": "2026-10-24T19:11:48.000Z",
+   "ev": [],
+   "cc": []
+  },
+  {
+   "id": "8c2dce852bc6",
+   "t": "Thousands join Paris protests as authorities clamp down on disorder",
+   "ko": "당국의 무질서 진압에 수천 명이 파리 시위에 동참",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/video/newsfeed/2026/10/24/thousands-join-paris-protests-as-authorities-clamp-down-on-disorder?traffic_source=rss",
+   "at": "2026-10-24T19:01:52.000Z",
+   "ev": [],
+   "cc": []
   },
   {
    "id": "43fd91571768",
@@ -83,18 +245,6 @@
    "cc": [
     "Israel",
     "Palestine"
-   ]
-  },
-  {
-   "id": "25c2c85b0f31",
-   "t": "Tens of thousands of Lula supporters rally on eve of Brazilian election runoff",
-   "ko": "브라질 총선 결선 전날 수만 명의 룰라 지지자들이 집결",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/world/2026/oct/24/lula-da-silva-supporters-rally-eve-brazil-election-runoff-bolsonaro",
-   "at": "2026-10-24T18:11:44.000Z",
-   "ev": [],
-   "cc": [
-    "Brazil"
    ]
   },
   {
@@ -139,8 +289,8 @@
   },
   {
    "id": "32151483ad18",
-   "t": "Palestinian families displaced as Israeli forces demolish Hebron homes, local officials say",
-   "ko": "이스라엘군이 헤브론 가옥을 철거하자 팔레스타인 가족들이 난민이 되었다고 현지 관리들이 밝혔습니다.",
+   "t": "Palestinian families displaced as Israeli forces demolish Hebron homes",
+   "ko": "이스라엘군이 헤브론 가옥을 철거하자 팔레스타인 가족들이 난민이 되었습니다.",
    "src": "BBC",
    "u": "https://www.bbc.co.uk/news/articles/cqd09k1k7532o?at_medium=RSS&at_campaign=rss",
    "at": "2026-10-24T17:21:42.000Z",
@@ -204,24 +354,9 @@
    ]
   },
   {
-   "id": "67efb573cd48",
-   "t": "Ukraine’s military says Starlink satellite connection stable after recent restrictions",
-   "ko": "우크라이나 군, 최근 제한 이후 스타링크 위성 연결이 안정적이라고 밝혔습니다.",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/world/2026/oct/24/ukraine-zelenskyy-military-starlink-satellite-connection-stable-after-restrictions",
-   "at": "2026-10-24T15:47:20.000Z",
-   "ev": [
-    "ukraine"
-   ],
-   "cc": [
-    "Ukraine",
-    "United States"
-   ]
-  },
-  {
    "id": "cd4dcbb52d31",
-   "t": "Hundreds of soldiers deploy as protesters rally in Italy’s Milan",
-   "ko": "이탈리아 밀라노에서 시위대가 집결하자 수백 명의 군인이 배치됐다.",
+   "t": "Hundreds of Italian soldiers deployed as thousands protest in Milan",
+   "ko": "밀라노에서 수천 명의 시위에 수백 명의 이탈리아 군인 배치",
    "src": "Al Jazeera",
    "u": "https://www.aljazeera.com/news/2026/10/24/security-forces-deploy-as-milan-braces-for-another-day-of-protests?traffic_source=rss",
    "at": "2026-10-24T15:05:58.000Z",
@@ -302,8 +437,8 @@
   },
   {
    "id": "a0356421da8e",
-   "t": "Israeli forces displace 1,200 Palestinians in Hebron after deadly attack on soldiers",
-   "ko": "이스라엘군, 군인들에 대한 치명적인 공격으로 헤브론에서 팔레스타인 1,200명 대피",
+   "t": "Israeli forces displace 2,000 Palestinians in Hebron after deadly attack on soldiers",
+   "ko": "이스라엘군, 군인들에 대한 치명적인 공격으로 헤브론에서 팔레스타인인 2000명 대피",
    "src": "France 24",
    "u": "https://www.france24.com/en/middle-east/20261024-israeli-forces-displace-1-200-palestinians-in-hebron-after-deadly-attack-on-soldiers",
    "at": "2026-10-24T13:50:12.000Z",
