@@ -317,3 +317,19 @@ button:focus-visible, a:focus-visible, input:focus-visible, select:focus-visible
   .globeBtn { bottom: auto; top: calc(150px + env(safe-area-inset-top, 0px)); }
 }
 @media (prefers-reduced-motion: reduce) { .panel { animation: none; } .sq.ok { animation: none; } #loader .bar i { animation: none; } }
+
+/* 영상 녹화 모드 (?rec=…): 장식을 걷어내고 하단 자막만 남긴다 */
+body.rec .banner, body.rec .top, body.rec .rail, body.rec .panel, body.rec .globeBtn, body.rec .bottom, body.rec .hud { display: none !important; }
+body.rec:not(.rec-tags) #labels { display: none; }
+body.rec canvas { cursor: none; }
+.recGate { position: fixed; left: 50%; bottom: 40px; transform: translateX(-50%); z-index: 9; padding: 8px 14px; border: 1px solid rgba(227,170,69,.55); color: var(--amber); font-size: 12px; letter-spacing: .16em; background: rgba(7,9,11,.7); cursor: pointer; }
+.recGate:empty { display: none; }
+.recCap { position: fixed; left: clamp(20px, 5vw, 64px); bottom: clamp(28px, 8vh, 80px); z-index: 9; max-width: min(640px, calc(100vw - 40px)); padding: 14px 20px 16px; border-left: 3px solid var(--c, var(--amber)); background: linear-gradient(90deg, rgba(7,9,11,.82), rgba(7,9,11,.35)); opacity: 0; transform: translateY(10px); transition: opacity .9s, transform .9s; pointer-events: none; }
+.recCap.on { opacity: 1; transform: none; }
+.recCap p { margin: 0; color: #c9d0d6; font-size: clamp(14px, 1.6vw, 18px); line-height: 1.5; }
+.recCap p.mono { color: var(--c, var(--amber)); font-size: clamp(11px, 1.1vw, 13px); letter-spacing: .14em; text-transform: uppercase; }
+.recCap h2 { margin: 6px 0 4px; font-size: clamp(26px, 3.6vw, 44px); line-height: 1.15; font-weight: 700; color: #fff; text-wrap: balance; }
+.recCap .kia { margin-top: 8px; color: #fff; font-size: clamp(18px, 2vw, 24px); letter-spacing: 0; text-transform: none; }
+.recCap .kia span { color: var(--kill, #ff6f63); font-size: .6em; letter-spacing: .14em; margin-right: 10px; vertical-align: middle; }
+.recCap.end { left: 50%; transform: translateX(-50%); bottom: 45vh; text-align: center; border: 0; background: none; }
+.recCap.end h2 { font-size: clamp(30px, 4.4vw, 54px); }

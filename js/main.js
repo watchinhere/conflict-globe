@@ -1,7 +1,7 @@
 import * as THREE from 'three';
 import { OrbitControls } from 'three/addons/controls/OrbitControls.js';
 import { R, canvas, camera, composer, renderer, shared, sunDir, sunLight, ambient, fxLights, manager, earthMat, atmoMat, updateSun, app, view } from './core.js';
-import { EVENTS } from './data.js';
+import { EVENTS, CATS, catName, levelName, casLabel } from './data.js';
 import { sites, upsert } from './sites.js';
 import { updatePatch, patch, patchMesh } from './terrain.js';
 import { renderFilters, renderList, renderFeeds, active, closePanel } from './ui.js';
@@ -9,7 +9,7 @@ import { startLive } from './live.js';
 import { loadGeo, placeGeoLabels, locate, coordText } from './geo.js';
 import { updateTiles } from './tiles.js';
 import { loadZones, syncZones, updateZones } from './zones.js';
-import { t as tr } from './i18n.js';
+import { t as tr, isEn, setLang } from './i18n.js';
 
 const $ = (id) => document.getElementById(id);
 manager.onProgress = (_u, done, total) => { $('loadMsg').textContent = tr('loadingN', { done, total }); };
@@ -44,6 +44,7 @@ function flyTo(p1, t1, u1, newMode, dur = 2.4) {
   controls.enabled = false;
   const p0 = camera.position.clone();
   flight = { p0, t0: controls.target.clone(), u0: camera.up.clone(), p1, t1, u1, mode: newMode, k: 0, dur, ang: p0.clone().normalize().angleTo(p1.clone().normalize()) };
+  return new Promise((done) => { flight.done = done; });
 }
 function stepFlight(dt) {
   const f = flight;
@@ -59,6 +60,7 @@ function stepFlight(dt) {
     mode = f.mode; camera.up.copy(f.u1); camera.position.copy(f.p1);
     makeControls(f.t1); flight = null;
     $('globeBtn').hidden = mode === 'global';
+    f.done();
   }
 }
 function setFocus(site) {
@@ -67,7 +69,7 @@ function setFocus(site) {
   app.focused = site;
   if (site) { site.focused = true; site.ensureDetail(); site.setCasters(true); }
 }
-app.focusOn = (site) => {
+app.focusOn = (site, dur) => {
   setFocus(site);
   const N = site.normal, P = site.root.position.clone();
   const east = new THREE.Vector3().crossVectors(Y, N);
@@ -75,7 +77,7 @@ app.focusOn = (site) => {
   east.normalize();
   const north = new THREE.Vector3().crossVectors(N, east);
   const d = 0.034 + 0.034 * site.size;
-  flyTo(P.clone().addScaledVector(N, d * 0.72).addScaledVector(north, -d * 0.7), P, N.clone(), 'focus');
+  return flyTo(P.clone().addScaledVector(N, d * 0.72).addScaledVector(north, -d * 0.7), P, N.clone(), 'focus', dur);
 };
 function goGlobal() {
   setFocus(null);
@@ -246,6 +248,56 @@ for (const ev of EVENTS) upsert(ev);
 // 기사 페이지의 "지구본에서 보기" 링크(index.html#ukraine 등)로 들어오면 해당 분쟁으로 이동
 const deep = sites.find((s) => s.id === decodeURIComponent(location.hash.slice(1)));
 if (deep) manager.onLoad = () => { $('loader').classList.add('done'); setTimeout(() => app.select(deep, true), 600); };
+
+/* ---------- 영상 녹화 모드: ?rec=ukraine,sudan&speed=1&tags=0 ---------- */
+// 화면 장식을 숨기고 SPACE(또는 클릭)로 시작하면 지정한 분쟁을 차례로 천천히 날아가 확대한다
+const qs = new URLSearchParams(location.search);
+if (qs.has('rec')) {
+  document.body.classList.add('rec');
+  if (['ko', 'en'].includes(qs.get('lang'))) setLang(qs.get('lang'));
+  if (qs.get('tags') === '1') document.body.classList.add('rec-tags');
+  const slow = Math.max(0.3, Math.min(4, 1 / (+qs.get('speed') || 1)));
+  const ids = qs.get('rec').split(',').map((s) => s.trim()).filter(Boolean);
+  const cap = document.createElement('div'), gate = document.createElement('div');
+  cap.className = 'recCap'; gate.className = 'recGate mono';
+  document.body.append(cap, gate);
+  const wait = (s) => new Promise((r) => setTimeout(r, s * 1000));
+  const caption = (s) => {
+    const ev = s.ev, en = isEn(), cas = (ev.cas?.items || []).find((i) => i.k === 'killed');
+    cap.style.setProperty('--c', CATS[ev.cat]?.color || '#e3aa45');
+    cap.innerHTML = `<p class="mono">${catName(ev.cat)} · ${levelName(ev.level)} · ${en ? 'SINCE' : '시작'} ${String(ev.start).slice(0, 7).replace('-', '.')}</p>`
+      + `<h2>${en ? ev.en || ev.name : ev.nameKo || ev.name}</h2><p>${(en ? ev.regionEn || ev.region : ev.region) || ''}</p>`
+      + (cas ? `<p class="kia mono"><span>${casLabel('killed')}</span>${en ? cas.vEn || cas.v : cas.v}</p>` : '');
+    cap.classList.add('on');
+  };
+  const above = (s, alt) => s.normal.clone().multiplyScalar(R + alt);
+  async function run() {
+    gate.hidden = true;
+    const list = ids.map((id) => sites.find((s) => s.id === id)).filter(Boolean);
+    for (const s of list) {
+      cap.classList.remove('on');
+      await flyTo(above(s, 1.1), new THREE.Vector3(), Y.clone(), 'global', 5 * slow);
+      await app.focusOn(s, 6 * slow);
+      caption(s);
+      controls.autoRotate = true; controls.autoRotateSpeed = 0.5 / slow;
+      await wait(7 * slow);
+      controls.autoRotate = false;
+    }
+    cap.classList.remove('on');
+    setFocus(null);
+    const last = list[list.length - 1];
+    if (last) await flyTo(above(last, 1.9), new THREE.Vector3(), Y.clone(), 'global', 4 * slow);
+    cap.innerHTML = `<h2>${tr('title')}</h2><p class="mono">watchinhere.github.io/conflict-globe</p>`;
+    cap.style.setProperty('--c', '#e3aa45');
+    cap.classList.add('on', 'end');
+  }
+  manager.onLoad = () => {
+    $('loader').classList.add('done');
+    gate.textContent = 'REC READY · SPACE / CLICK';
+    const go = (e) => { if (e.type === 'keydown' && e.code !== 'Space') return; e.preventDefault(); removeEventListener('keydown', go); gate.removeEventListener('click', go); run(); };
+    addEventListener('keydown', go); gate.addEventListener('click', go);
+  };
+}
 renderFilters(); renderList(); renderFeeds();
 app.refreshUI();
 requestAnimationFrame(frame);
