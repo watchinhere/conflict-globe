@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T21:52:41.398Z",
+ "updated": "2026-10-25T00:06:16.918Z",
  "sources": {
   "BBC": {
    "ok": true,
@@ -7,11 +7,11 @@
   },
   "Al Jazeera": {
    "ok": true,
-   "n": 10
+   "n": 12
   },
   "The Guardian": {
    "ok": true,
-   "n": 10
+   "n": 12
   },
   "DW": {
    "ok": true,
@@ -23,7 +23,7 @@
   },
   "UN News": {
    "ok": true,
-   "n": 4
+   "n": 5
   },
   "NPR": {
    "ok": true,
@@ -31,6 +31,85 @@
   }
  },
  "items": [
+  {
+   "id": "f56489691918",
+   "t": "Barack Obama rallies Michigan crowd for El-Sayed, saying he’s ‘fighting for real change’",
+   "ko": "버락 오바마는 El-Sayed를 위해 미시간 군중을 모아 '진정한 변화를 위해 싸우고 있다'고 말했습니다.",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/us-news/2026/oct/24/barack-obama-abdul-el-sayed-michigan",
+   "at": "2026-10-24T23:50:30.000Z",
+   "ev": [],
+   "cc": [
+    "United States"
+   ]
+  },
+  {
+   "id": "391f8599ec0f",
+   "t": "Four people injured after drive-by shooting outside boxing event south of Brisbane",
+   "ko": "브리즈번 남부 복싱 행사장 밖에서 차를 타고 총격을 가해 4명이 부상당했습니다.",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/australia-news/2026/oct/25/drive-by-shooting-loganholme-four-injured-ntwnfb",
+   "at": "2026-10-24T23:13:32.000Z",
+   "ev": [],
+   "cc": []
+  },
+  {
+   "id": "21d813484d13",
+   "t": "Trump lauds Melania over Russia-Ukraine localised ceasefire deal",
+   "ko": "트럼프, 러시아-우크라이나 국지적 휴전 협정에 대해 멜라니아 칭찬",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/video/newsfeed/2026/10/24/trump-lauds-melania-over-russia-ukraine-localised-ceasefire-deal?traffic_source=rss",
+   "at": "2026-10-24T23:08:16.000Z",
+   "ev": [
+    "ukraine"
+   ],
+   "cc": []
+  },
+  {
+   "id": "32151483ad18",
+   "t": "Palestinian families displaced as Israeli forces demolish Hebron homes",
+   "ko": "이스라엘군이 헤브론 가옥을 철거하자 팔레스타인 가족들이 난민이 되었습니다.",
+   "src": "BBC",
+   "u": "https://www.bbc.co.uk/news/articles/cqd09k1k7532o?at_medium=RSS&at_campaign=rss",
+   "at": "2026-10-24T23:02:06.000Z",
+   "ev": [
+    "westbank"
+   ],
+   "cc": [
+    "Palestine",
+    "Israel"
+   ]
+  },
+  {
+   "id": "8586632337f3",
+   "t": "Gunmen kill at least 10 people in eastern Nigeria, police say",
+   "ko": "나이지리아 동부에서 무장괴한이 최소 10명을 살해했다고 경찰이 밝혔습니다.",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/10/24/gunmen-kill-at-least-10-people-in-eastern-nigeria-police-say?traffic_source=rss",
+   "at": "2026-10-24T22:35:45.000Z",
+   "ev": [
+    "nigeria"
+   ],
+   "cc": [
+    "Nigeria"
+   ]
+  },
+  {
+   "id": "b5e8121a445c",
+   "t": "How have Democrats’ policies shifted since the last major US election?",
+   "ko": "지난 주요 미국 선거 이후 민주당의 정책은 어떻게 바뀌었나요?",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/economy/2026/10/24/how-have-democrats-policies-shifted-since-the-last-major-us-election?traffic_source=rss",
+   "at": "2026-10-24T22:28:37.000Z",
+   "ev": [
+    "gaza"
+   ],
+   "cc": [
+    "United States",
+    "Israel",
+    "Palestine"
+   ]
+  },
   {
    "id": "42d3f00a8fa6",
    "t": "Iran blames US for deal failure, urges new try amid fear of new attacks",
@@ -285,21 +364,6 @@
    "ev": [],
    "cc": [
     "France"
-   ]
-  },
-  {
-   "id": "32151483ad18",
-   "t": "Palestinian families displaced as Israeli forces demolish Hebron homes",
-   "ko": "이스라엘군이 헤브론 가옥을 철거하자 팔레스타인 가족들이 난민이 되었습니다.",
-   "src": "BBC",
-   "u": "https://www.bbc.co.uk/news/articles/cqd09k1k7532o?at_medium=RSS&at_campaign=rss",
-   "at": "2026-10-24T17:21:42.000Z",
-   "ev": [
-    "westbank"
-   ],
-   "cc": [
-    "Palestine",
-    "Israel"
    ]
   },
   {
@@ -618,6 +682,20 @@
    ],
    "cc": [
     "Ukraine"
+   ]
+  },
+  {
+   "id": "3dc7471b1a1d",
+   "t": "Women ‘first to suffer’ under siege, first to step up as frontline responders in Sudan",
+   "ko": "포위 공격으로 '처음으로 고통받는' 여성, 수단 최전선 대응자로 나서다",
+   "src": "UN News",
+   "u": "https://news.un.org/feed/view/en/story/2026/10/1168663",
+   "at": "2026-10-24T12:00:00.000Z",
+   "ev": [
+    "sudan"
+   ],
+   "cc": [
+    "Sudan"
    ]
   },
   {
