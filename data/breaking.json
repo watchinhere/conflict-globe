@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-25T14:10:25.718Z",
+ "updated": "2026-10-25T17:41:42.005Z",
  "sources": {
   "BBC": {
    "ok": true,
@@ -7,19 +7,19 @@
   },
   "Al Jazeera": {
    "ok": true,
-   "n": 7
+   "n": 10
   },
   "The Guardian": {
    "ok": true,
-   "n": 18
+   "n": 16
   },
   "DW": {
    "ok": true,
-   "n": 5
+   "n": 4
   },
   "France 24": {
    "ok": true,
-   "n": 17
+   "n": 16
   },
   "UN News": {
    "ok": true,
@@ -27,10 +27,221 @@
   },
   "NPR": {
    "ok": true,
-   "n": 6
+   "n": 7
   }
  },
  "items": [
+  {
+   "id": "1ecafaded844",
+   "t": "Serbia votes as strongman Vučić faces grassroots challenge to 12-year rule – Europe live",
+   "ko": "강자 Vučić가 12년 통치에 대한 풀뿌리 도전에 직면함에 따라 세르비아 투표 - 유럽 라이브",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/world/live/2026/oct/25/europe-serbia-elections-aleksander-vucic-student-list-protests-bulgaria-latest-news-updates",
+   "at": "2026-10-25T17:16:41.000Z",
+   "ev": [],
+   "cc": [
+    "Serbia"
+   ]
+  },
+  {
+   "id": "8eaa3dae999e",
+   "t": "France: Le Pen seeks to leverage unrest in presidential campaign kick-off",
+   "ko": "프랑스: 르펜은 대선 캠페인 시작에 불안을 활용하려고 한다",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/france-le-pen-seeks-to-leverage-unrest-in-presidential-campaign-kick-off",
+   "at": "2026-10-25T17:12:50.000Z",
+   "ev": [],
+   "cc": [
+    "France"
+   ]
+  },
+  {
+   "id": "ce8c498a6dc7",
+   "t": "France: 1.314 arrested during protests across the country",
+   "ko": "프랑스: 전국 시위 중 1,314명 체포",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/france-1-314-arrested-during-protests-across-the-country",
+   "at": "2026-10-25T16:32:57.000Z",
+   "ev": [],
+   "cc": [
+    "France"
+   ]
+  },
+  {
+   "id": "35bced129387",
+   "t": "Midterms: Obama campaigns for Democrats, slams Trump",
+   "ko": "중간고사: 오바마는 민주당을 위해 선거운동을 벌이고 트럼프를 비난했다",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/video/20261025-midterms-obama-campaigns-for-democrats-slams-trump-1",
+   "at": "2026-10-25T16:25:12.000Z",
+   "ev": [],
+   "cc": [
+    "United States"
+   ]
+  },
+  {
+   "id": "141205b2c507",
+   "t": "Jordanians mourn victims of deadly church attack",
+   "ko": "요르단인들은 교회 공격 희생자들을 애도하고 있다.",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/video/newsfeed/2026/10/25/jordanians-mourn-victims-of-deadly-church-attack?traffic_source=rss",
+   "at": "2026-10-25T16:16:48.000Z",
+   "ev": [],
+   "cc": []
+  },
+  {
+   "id": "3d821338de23",
+   "t": "Israeli soldiers beat elderly Palestinian in Hebron",
+   "ko": "이스라엘군, 헤브론에서 팔레스타인 노인 구타",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/video/newsfeed/2026/10/25/israeli-soldiers-beat-elderly-palestinian-in-hebron?traffic_source=rss",
+   "at": "2026-10-25T16:11:37.000Z",
+   "ev": [
+    "westbank"
+   ],
+   "cc": [
+    "Israel",
+    "Palestine"
+   ]
+  },
+  {
+   "id": "874917b14fe9",
+   "t": "Israelis have changed. Will they change their leadership?",
+   "ko": "이스라엘 사람들은 변했습니다. 그들은 리더십을 바꿀 것인가?",
+   "src": "NPR",
+   "u": "https://www.npr.org/2026/10/25/g-s1-149563/israel-election-war-netanyahu",
+   "at": "2026-10-25T16:00:00.000Z",
+   "ev": [],
+   "cc": [
+    "Israel"
+   ]
+  },
+  {
+   "id": "c96546db1a20",
+   "t": "Seven killed in Gaza as Israel targets university campus and other sites",
+   "ko": "이스라엘이 대학 캠퍼스와 기타 장소를 공격해 가자지구에서 7명이 사망했습니다.",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/10/25/seven-killed-in-gaza-as-israel-targets-university-campus-and-other-sites?traffic_source=rss",
+   "at": "2026-10-25T15:40:25.000Z",
+   "ev": [
+    "gaza"
+   ],
+   "cc": [
+    "Palestine",
+    "Israel"
+   ]
+  },
+  {
+   "id": "15c880d7f9a1",
+   "t": "Portuguese police with dogs and batons dismantle housing protest camps",
+   "ko": "개와 곤봉을 든 포르투갈 경찰이 주택 시위 수용소를 해체했습니다.",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/world/2026/oct/25/police-portugal-dogs-batons-dismantle-housing-protest-camps",
+   "at": "2026-10-25T15:32:20.000Z",
+   "ev": [],
+   "cc": [
+    "Portugal",
+    "Spain"
+   ]
+  },
+  {
+   "id": "38fc0aa4b1b5",
+   "t": "Thousands mourn victims of deadly Jordan church attack",
+   "ko": "요르단 교회 테러 희생자 수천명 애도",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/10/25/thousands-mourn-victims-of-deadly-jordan-church-attack?traffic_source=rss",
+   "at": "2026-10-25T15:21:26.000Z",
+   "ev": [],
+   "cc": [
+    "Jordan"
+   ]
+  },
+  {
+   "id": "9a88eb68df35",
+   "t": "Twelve injured, including six juveniles, in shooting near Florida university",
+   "ko": "플로리다 대학 근처에서 총격 사건이 발생해 청소년 6명 포함 12명 부상",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/us-news/2026/oct/25/eleven-sustain-gunshot-wounds-in-shooting-near-florida-university",
+   "at": "2026-10-25T15:19:47.000Z",
+   "ev": [],
+   "cc": [
+    "United States"
+   ]
+  },
+  {
+   "id": "afdbdba9a741",
+   "t": "French far-right leader Le Pen seeks to leverage unrest in presidential campaign kick-off",
+   "ko": "프랑스 극우 지도자 르펜이 대선 캠페인 시작에 불안을 활용하려고 한다.",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/france/20261025-french-far-right-leader-le-pen-seeks-to-leverage-unrest-in-presidential-campaign-kick-off",
+   "at": "2026-10-25T15:01:51.000Z",
+   "ev": [],
+   "cc": [
+    "France"
+   ]
+  },
+  {
+   "id": "153fbfe50f98",
+   "t": "France: 110.000 protesters in Paris",
+   "ko": "프랑스: 파리 시위대 110,000명",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/france-110-000-protesters-in-paris",
+   "at": "2026-10-25T15:00:01.000Z",
+   "ev": [],
+   "cc": [
+    "France"
+   ]
+  },
+  {
+   "id": "27e014b2c821",
+   "t": "Murder in Malaysia’s Beverly Hills | True Crime Reports",
+   "ko": "말레이시아 비벌리힐스 살인 | 실제 범죄 보고서",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/video/true-crime-reports/2026/10/25/murder-in-malaysias-beverly-hills-true-crime-reports?traffic_source=rss",
+   "at": "2026-10-25T14:54:53.000Z",
+   "ev": [],
+   "cc": [
+    "Malaysia"
+   ]
+  },
+  {
+   "id": "3a41108eb6c7",
+   "t": "How is the US-Israeli war on Iran causing havoc in Europe?",
+   "ko": "이란에 대한 미국-이스라엘 전쟁이 어떻게 유럽에 큰 혼란을 일으키고 있습니까?",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/10/25/how-is-the-us-israeli-war-on-iran-causing-havoc-in-europe?traffic_source=rss",
+   "at": "2026-10-25T14:47:55.000Z",
+   "ev": [
+    "iran"
+   ],
+   "cc": [
+    "Iran"
+   ]
+  },
+  {
+   "id": "cdf9ed45b83e",
+   "t": "Suspect in shooting death of teen on Missouri highway charged in second road incident",
+   "ko": "미주리 고속도로에서 10대 총격 사망 용의자, 두 번째 교통사고로 기소",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/us-news/2026/oct/25/shooting-death-teen-missouri-highway",
+   "at": "2026-10-25T14:16:37.000Z",
+   "ev": [],
+   "cc": []
+  },
+  {
+   "id": "3f5fe1602f06",
+   "t": "The search for gold is a dangerous and laborious gamble for Sudan’s miners",
+   "ko": "금을 찾는 것은 수단 광부들에게 위험하고 힘든 도박입니다",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/features/2026/10/25/the-search-for-gold-is-a-dangerous-and-laborious-gamble-for-sudans-miners?traffic_source=rss",
+   "at": "2026-10-25T14:03:17.000Z",
+   "ev": [
+    "sudan"
+   ],
+   "cc": [
+    "Sudan"
+   ]
+  },
   {
    "id": "07bebd5f055c",
    "t": "Le Pen leads polls with up to 38% six months before election",
@@ -109,8 +320,8 @@
   },
   {
    "id": "e03c179ee9da",
-   "t": "Voting under way across Brazil in tight presidential run-off between Lula and Bolsonaro",
-   "ko": "브라질 전역에서 룰라와 보우소나루의 치열한 대선 결선투표가 진행 중입니다.",
+   "t": "Voting under way across Brazil in tight presidential run-off between Lula and Flavio Bolsonaro",
+   "ko": "브라질 전역에서 룰라와 플라비오 보우소나루의 치열한 대선 결선투표가 진행 중입니다.",
    "src": "France 24",
    "u": "https://www.france24.com/en/americas/20261025-live-voting-under-way-across-brazil-in-tight-presidential-run-off-between-lula-and-bolsonaro",
    "at": "2026-10-25T12:46:02.000Z",
@@ -471,18 +682,6 @@
    "cc": [
     "Israel",
     "Palestine"
-   ]
-  },
-  {
-   "id": "9a88eb68df35",
-   "t": "Eleven sustain gunshot wounds in shooting near Florida university",
-   "ko": "플로리다 대학교 근처에서 총격 사건이 발생해 11명이 총상을 입었습니다.",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/us-news/2026/oct/25/eleven-sustain-gunshot-wounds-in-shooting-near-florida-university",
-   "at": "2026-10-25T06:07:47.000Z",
-   "ev": [],
-   "cc": [
-    "United States"
    ]
   },
   {
@@ -967,6 +1166,20 @@
    "cc": [
     "Israel",
     "Palestine"
+   ]
+  },
+  {
+   "id": "19c0d49aeb1d",
+   "t": "Musk says SpaceX did restrict Starlink, as Ukraine says the tech has been restored",
+   "ko": "머스크는 우크라이나가 기술이 복원되었다고 말했듯이 SpaceX가 Starlink를 제한했다고 말했습니다.",
+   "src": "NPR",
+   "u": "https://www.npr.org/2026/10/24/nx-s1-6015482/ukraine-starlink-working-after-disruptions",
+   "at": "2026-10-24T17:54:25.000Z",
+   "ev": [
+    "ukraine"
+   ],
+   "cc": [
+    "Ukraine"
    ]
   },
   {
@@ -1768,62 +1981,6 @@
    "cc": [
     "Russia",
     "Ukraine"
-   ]
-  },
-  {
-   "id": "a77c5e49ae6b",
-   "t": "Israel launches collective punishment campaign in Hebron after two soldiers killed",
-   "ko": "이스라엘, 군인 2명 사망 후 헤브론에서 집단처벌 캠페인 개시",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/world/2026/oct/23/netanyahu-orders-very-extensive-operation-west-bank-two-israeli-soldiers-killed",
-   "at": "2026-10-23T17:22:11.000Z",
-   "ev": [
-    "westbank"
-   ],
-   "cc": [
-    "Israel"
-   ]
-  },
-  {
-   "id": "7718246191f0",
-   "t": "Israeli forces begin demolishing Palestinian buildings in Hebron after two Israeli soldiers shot dead",
-   "ko": "이스라엘군 2명이 총격으로 숨진 뒤 이스라엘군이 헤브론의 팔레스타인 건물 철거를 시작했다.",
-   "src": "BBC",
-   "u": "https://www.bbc.co.uk/news/articles/cq4g1p974wxko?at_medium=RSS&at_campaign=rss",
-   "at": "2026-10-23T15:37:07.000Z",
-   "ev": [
-    "westbank"
-   ],
-   "cc": [
-    "Israel",
-    "Palestine"
-   ]
-  },
-  {
-   "id": "1b53825f47c1",
-   "t": "Oil spill washes up on UAE beaches after tanker strike",
-   "ko": "유조선 공격 후 UAE 해변에서 기름 유출 발생",
-   "src": "BBC",
-   "u": "https://www.bbc.co.uk/news/articles/c6rey3n974g5o?at_medium=RSS&at_campaign=rss",
-   "at": "2026-10-23T15:30:47.000Z",
-   "ev": [],
-   "cc": [
-    "United Arab Emirates"
-   ]
-  },
-  {
-   "id": "7d09acefa4e8",
-   "t": "Ukraine tries to shut Moscow's airports with drone strikes on Russia",
-   "ko": "우크라이나, 러시아에 대한 드론 공격으로 모스크바 공항 폐쇄 시도",
-   "src": "DW",
-   "u": "https://www.dw.com/en/ukraine-tries-to-shut-moscow-s-airports-with-drone-strikes-on-russia/a-79737469?maca=en-rss-en-world-4025-rdf",
-   "at": "2026-10-23T14:23:00.000Z",
-   "ev": [
-    "ukraine"
-   ],
-   "cc": [
-    "Ukraine",
-    "Russia"
    ]
   }
  ]
