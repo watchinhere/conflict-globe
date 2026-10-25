@@ -1,21 +1,21 @@
 {
- "updated": "2026-10-25T04:56:03.650Z",
+ "updated": "2026-10-25T09:40:47.787Z",
  "sources": {
   "BBC": {
    "ok": true,
-   "n": 13
+   "n": 15
   },
   "Al Jazeera": {
    "ok": true,
-   "n": 15
+   "n": 9
   },
   "The Guardian": {
    "ok": true,
-   "n": 15
+   "n": 18
   },
   "DW": {
    "ok": true,
-   "n": 4
+   "n": 6
   },
   "France 24": {
    "ok": true,
@@ -32,15 +32,284 @@
  },
  "items": [
   {
+   "id": "ac14c9b5ec8e",
+   "t": "France: Some clashes erupted at end of protests",
+   "ko": "프랑스: 시위 끝에 일부 충돌 발생",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/france-some-clashes-erupted-at-end-of-protests",
+   "at": "2026-10-25T09:35:20.000Z",
+   "ev": [],
+   "cc": [
+    "France"
+   ]
+  },
+  {
    "id": "0a5bd0ce690d",
    "t": "Almost 1,000 arrested as clashes follow another day of mass protests across France",
    "ko": "프랑스 전역에서 또 다른 대규모 시위가 벌어진 뒤 충돌로 거의 1000명이 체포됐다.",
    "src": "BBC",
    "u": "https://www.bbc.co.uk/news/articles/c95ynd587ynzo?at_medium=RSS&at_campaign=rss",
-   "at": "2026-10-25T04:16:52.000Z",
+   "at": "2026-10-25T09:32:59.000Z",
    "ev": [],
    "cc": [
     "France"
+   ]
+  },
+  {
+   "id": "b8216b5cd701",
+   "t": "More than 400.000 protest across France",
+   "ko": "프랑스 전역에서 40만 명 이상의 시위",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/more-than-400-000-protest-across-france",
+   "at": "2026-10-25T09:32:21.000Z",
+   "ev": [],
+   "cc": [
+    "France"
+   ]
+  },
+  {
+   "id": "3a883dbcc7d2",
+   "t": "Hundreds of thousands march in France to protest against government",
+   "ko": "프랑스에서는 수십만 명이 정부에 항의하는 행진을 벌이고 있습니다.",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/hundreds-of-thousands-march-in-france-to-protest-against-government",
+   "at": "2026-10-25T09:29:39.000Z",
+   "ev": [],
+   "cc": [
+    "France"
+   ]
+  },
+  {
+   "id": "48011804eb0b",
+   "t": "Israeli forces turn Hebron homes into military posts amid lockdown",
+   "ko": "이스라엘군, 봉쇄 조치로 헤브론 주택을 군사 기지로 전환",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/10/25/israeli-forces-turn-hebron-homes-into-military-posts-amid-lockdown?traffic_source=rss",
+   "at": "2026-10-25T09:27:03.000Z",
+   "ev": [
+    "westbank"
+   ],
+   "cc": [
+    "Israel",
+    "Palestine"
+   ]
+  },
+  {
+   "id": "ee9b22518f14",
+   "t": "Prague honours Roma resistance fighters against Hitler",
+   "ko": "프라하는 히틀러에 대항한 로마 저항군을 기립니다.",
+   "src": "DW",
+   "u": "https://www.dw.com/en/prague-honours-roma-resistance-fighters-against-hitler/a-79725015?maca=en-rss-en-world-4025-rdf",
+   "at": "2026-10-25T09:17:00.000Z",
+   "ev": [],
+   "cc": [
+    "Germany"
+   ]
+  },
+  {
+   "id": "2f7ad053a046",
+   "t": "Musk says SpaceX restricted Ukraine's Starlink connection as service restored",
+   "ko": "머스크는 SpaceX가 서비스 복원으로 우크라이나의 Starlink 연결을 제한했다고 말했습니다.",
+   "src": "BBC",
+   "u": "https://www.bbc.co.uk/news/articles/cvx28ljp8n4xo?at_medium=RSS&at_campaign=rss",
+   "at": "2026-10-25T09:00:00.000Z",
+   "ev": [
+    "ukraine"
+   ],
+   "cc": [
+    "Ukraine"
+   ]
+  },
+  {
+   "id": "df21383bf864",
+   "t": "Obama’s Ohio, Michigan speeches: Key takeaways on Trump, Iran war, midterms",
+   "ko": "오바마의 오하이오, 미시간 연설: 트럼프, 이란 전쟁, 중간고사에 대한 주요 시사점",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/10/25/obamas-ohio-michigan-speeches-key-takeaways-on-trump-iran-war-midterms?traffic_source=rss",
+   "at": "2026-10-25T08:44:17.000Z",
+   "ev": [
+    "iran"
+   ],
+   "cc": [
+    "Iran",
+    "United States"
+   ]
+  },
+  {
+   "id": "05b4c17e4daf",
+   "t": "Why is Egypt so wary of getting involved in Yemen’s conflict?",
+   "ko": "이집트가 예멘 분쟁에 개입하는 것을 그토록 경계하는 이유는 무엇입니까?",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news-analysis/2026/10/25/why-is-egypt-so-wary-of-getting-involved-in-yemens-conflict?traffic_source=rss",
+   "at": "2026-10-25T07:59:38.000Z",
+   "ev": [
+    "yemen"
+   ],
+   "cc": [
+    "Egypt",
+    "Yemen",
+    "Saudi Arabia"
+   ]
+  },
+  {
+   "id": "e086d70e1577",
+   "t": "Photos: Clashes erupt in France during protests over rising living costs",
+   "ko": "사진: 프랑스에서 생활비 인상에 대한 시위 도중 충돌이 발생했습니다.",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/gallery/2026/10/25/photos-clashes-erupt-in-france-amid-protests-over-rising-living-costs?traffic_source=rss",
+   "at": "2026-10-25T07:28:47.000Z",
+   "ev": [],
+   "cc": [
+    "France"
+   ]
+  },
+  {
+   "id": "39d85814d543",
+   "t": "Israel to close occupied West Bank crossings as it locks down Hebron",
+   "ko": "이스라엘, 헤브론 봉쇄로 서안지구 교차점 폐쇄",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/10/25/israel-to-close-occupied-west-bank-crossings-as-hebron-lockdown-continues?traffic_source=rss",
+   "at": "2026-10-25T07:20:36.000Z",
+   "ev": [
+    "westbank"
+   ],
+   "cc": [
+    "Israel",
+    "Palestine"
+   ]
+  },
+  {
+   "id": "31c9b014f0ac",
+   "t": "Bulgaria holds presidential elections amid divisions over Ukraine war",
+   "ko": "불가리아, 우크라이나 전쟁으로 분열된 가운데 대선 실시",
+   "src": "DW",
+   "u": "https://www.dw.com/en/bulgaria-holds-presidential-elections-amid-divisions-over-ukraine-war/a-79753496?maca=en-rss-en-world-4025-rdf",
+   "at": "2026-10-25T07:19:00.000Z",
+   "ev": [
+    "ukraine"
+   ],
+   "cc": [
+    "Bulgaria",
+    "Ukraine"
+   ]
+  },
+  {
+   "id": "a7e791b581a9",
+   "t": "Soldiers guard center of Milan as thousands of protesters march in cities across Europe",
+   "ko": "수천 명의 시위대가 유럽 전역의 도시에서 행진하는 동안 군인들이 밀라노 중심을 지키고 있습니다.",
+   "src": "NPR",
+   "u": "https://www.npr.org/2026/10/25/nx-s1-6016126/thousands-of-protesters-across-europe",
+   "at": "2026-10-25T07:15:00.000Z",
+   "ev": [],
+   "cc": [
+    "France"
+   ]
+  },
+  {
+   "id": "71f214588e05",
+   "t": "Serbia holds parliamentary election as populist leader Vucic faces student movement",
+   "ko": "포퓰리즘 지도자 부치치가 학생 운동에 맞서 세르비아가 의회 선거를 치릅니다.",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/europe/20261025-serbia-holds-parliamentary-election-as-populist-leader-vucic-faces-student-movement",
+   "at": "2026-10-25T07:14:50.000Z",
+   "ev": [],
+   "cc": [
+    "Serbia"
+   ]
+  },
+  {
+   "id": "e229897ccb69",
+   "t": "Zadie Smith tells Dua Lipa inequality has made culture clashes feel ‘existential’",
+   "ko": "Zadie Smith는 Dua Lipa의 불평등으로 인해 문화 충돌이 '실존적'으로 느껴지게 만들었다고 말했습니다.",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/books/2026/oct/25/zadie-smith-tells-dua-lipa-inequality-has-made-culture-clashes-feel-existential",
+   "at": "2026-10-25T07:00:56.000Z",
+   "ev": [],
+   "cc": [
+    "United Kingdom"
+   ]
+  },
+  {
+   "id": "77413990dbda",
+   "t": "Israeli soldiers raze neighbourhood in Hebron, driving families from homes",
+   "ko": "이스라엘 군인들이 헤브론 지역을 파괴하고 가족들을 집에서 몰아냈습니다.",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/world/2026/oct/24/israel-soldiers-raze-west-bank-neighbourhood-hebron-families-from-homes",
+   "at": "2026-10-25T06:24:46.000Z",
+   "ev": [
+    "westbank"
+   ],
+   "cc": [
+    "Israel",
+    "Palestine"
+   ]
+  },
+  {
+   "id": "9a88eb68df35",
+   "t": "Eleven sustain gunshot wounds in shooting near Florida university",
+   "ko": "플로리다 대학교 근처에서 총격 사건이 발생해 11명이 총상을 입었습니다.",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/us-news/2026/oct/25/eleven-sustain-gunshot-wounds-in-shooting-near-florida-university",
+   "at": "2026-10-25T06:07:47.000Z",
+   "ev": [],
+   "cc": [
+    "United States"
+   ]
+  },
+  {
+   "id": "ff980ece399a",
+   "t": "‘That’s the way the city works’: how the UAE changed the face of Andy Burnham’s Manchester",
+   "ko": "'이것이 도시가 작동하는 방식입니다': UAE가 Andy Burnham의 맨체스터의 얼굴을 어떻게 바꾸었나요?",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/news/ng-interactive/2026/oct/25/thats-the-way-the-city-works-how-the-uae-changed-the-face-of-andy-burnhams-manchester",
+   "at": "2026-10-25T06:00:54.000Z",
+   "ev": [],
+   "cc": [
+    "United Arab Emirates",
+    "United Kingdom",
+    "Egypt"
+   ]
+  },
+  {
+   "id": "952299fc343f",
+   "t": "‘Gaza’s suffering has become campaign fodder’: Palestinians fear the worst from Israel election",
+   "ko": "'가자의 고통은 캠페인의 사료가 되었습니다': 팔레스타인은 이스라엘 선거에서 최악의 상황을 두려워합니다",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/world/2026/oct/25/gaza-suffering-campaign-fodder-palestinians-fear-worst-israel-election",
+   "at": "2026-10-25T06:00:54.000Z",
+   "ev": [
+    "gaza"
+   ],
+   "cc": [
+    "Palestine",
+    "Israel"
+   ]
+  },
+  {
+   "id": "564b78d924ca",
+   "t": "Bots, deepfakes and surveillance: Israel’s election goes to war online",
+   "ko": "봇, 딥페이크, 감시: 이스라엘의 선거가 온라인에서 전쟁을 벌입니다",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/10/25/bots-deepfakes-and-surveillance-israels-election-goes-to-war-online?traffic_source=rss",
+   "at": "2026-10-25T05:27:54.000Z",
+   "ev": [],
+   "cc": [
+    "Israel"
+   ]
+  },
+  {
+   "id": "267b41a8194c",
+   "t": "Israel to close West Bank crossings on election day as crackdown escalates",
+   "ko": "이스라엘, 단속 강화로 선거 당일 서안지구 교차로 폐쇄",
+   "src": "BBC",
+   "u": "https://www.bbc.co.uk/news/articles/c6y93ylpl5p2o?at_medium=RSS&at_campaign=rss",
+   "at": "2026-10-25T05:15:52.000Z",
+   "ev": [
+    "westbank"
+   ],
+   "cc": [
+    "Israel",
+    "Palestine"
    ]
   },
   {
@@ -68,9 +337,23 @@
    ]
   },
   {
+   "id": "d3e62867a420",
+   "t": "Gunmen kill at least 10 villagers and loot shops in north-east Nigeria",
+   "ko": "나이지리아 북동부에서 무장괴한들이 최소 10명의 주민을 살해하고 상점을 약탈했습니다.",
+   "src": "BBC",
+   "u": "https://www.bbc.co.uk/news/articles/cq1kdlm1ze7do?at_medium=RSS&at_campaign=rss",
+   "at": "2026-10-25T03:20:16.000Z",
+   "ev": [
+    "nigeria"
+   ],
+   "cc": [
+    "Nigeria"
+   ]
+  },
+  {
    "id": "8ff3510ef1d1",
-   "t": "Bulgarians vote for president in shadow of Russia’s war in Ukraine",
-   "ko": "불가리아인, 러시아의 우크라이나 전쟁을 피해 대통령 선거",
+   "t": "Bulgarians vote for president in shadow of Russia’s war on Ukraine",
+   "ko": "러시아의 우크라이나 전쟁을 피해 불가리아인들이 대선에 투표했습니다.",
    "src": "Al Jazeera",
    "u": "https://www.aljazeera.com/news/2026/10/25/bulgarians-vote-for-president-in-shadow-of-russias-war-in-ukraine?traffic_source=rss",
    "at": "2026-10-25T02:45:43.000Z",
@@ -81,6 +364,16 @@
     "Russia",
     "Ukraine"
    ]
+  },
+  {
+   "id": "cc88b6d823e9",
+   "t": "Obama attacks Trump as he campaigns for Democrats ahead of midterm elections",
+   "ko": "오바마, 중간선거 앞두고 민주당 선거운동 중 트럼프 공격",
+   "src": "BBC",
+   "u": "https://www.bbc.co.uk/news/articles/cmj6jwe1j1gjo?at_medium=RSS&at_campaign=rss",
+   "at": "2026-10-25T02:27:15.000Z",
+   "ev": [],
+   "cc": []
   },
   {
    "id": "ad19948ea299",
@@ -185,6 +478,18 @@
     "ukraine"
    ],
    "cc": []
+  },
+  {
+   "id": "7b01f4c96719",
+   "t": "The bitter row over military service that could shape Israel's future",
+   "ko": "이스라엘의 미래를 결정할 수 있는 군 복무를 둘러싼 격렬한 논쟁",
+   "src": "BBC",
+   "u": "https://www.bbc.co.uk/news/articles/cmvg7w0x742do?at_medium=RSS&at_campaign=rss",
+   "at": "2026-10-24T23:03:21.000Z",
+   "ev": [],
+   "cc": [
+    "Israel"
+   ]
   },
   {
    "id": "32151483ad18",
@@ -302,8 +607,8 @@
   },
   {
    "id": "8dae61c39e35",
-   "t": "'The marches went well' – French government on demonstrations a week after looting and violence",
-   "ko": "'행진은 순조롭게 진행됐다' - 약탈과 폭력사태 일주일 만에 시위에 나선 프랑스 정부",
+   "t": "Government says protests across France 'went well' despite nearly 1,000 arrests",
+   "ko": "정부는 거의 1000명에 가까운 체포에도 불구하고 프랑스 전역의 시위가 '잘 진행됐다'고 말했습니다.",
    "src": "France 24",
    "u": "https://www.france24.com/en/france/20261024-the-marches-went-well-%E2%80%93-french-government-on-demonstrations-a-week-after-looting-and-violence",
    "at": "2026-10-24T21:01:56.000Z",
@@ -609,6 +914,21 @@
    ]
   },
   {
+   "id": "a1b1d4f238b9",
+   "t": "Israel to close all West Bank land crossings on election day",
+   "ko": "이스라엘, 선거 당일 서안지구 육로 교차점 모두 폐쇄",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/middle-east/20261024-israel-to-close-all-land-crossings-with-west-bank-on-election-day",
+   "at": "2026-10-24T13:52:55.000Z",
+   "ev": [
+    "westbank"
+   ],
+   "cc": [
+    "Israel",
+    "Palestine"
+   ]
+  },
+  {
    "id": "a0356421da8e",
    "t": "Israeli forces displace 2,000 Palestinians in Hebron after deadly attack on soldiers",
    "ko": "이스라엘군, 군인들에 대한 치명적인 공격으로 헤브론에서 팔레스타인인 2000명 대피",
@@ -681,21 +1001,6 @@
    "ev": [],
    "cc": [
     "France"
-   ]
-  },
-  {
-   "id": "77413990dbda",
-   "t": "Israeli soldiers raze neighbourhood in Hebron, driving families from homes",
-   "ko": "이스라엘 군인들이 헤브론 지역을 파괴하고 가족들을 집에서 몰아냈습니다.",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/world/2026/oct/24/israel-soldiers-raze-west-bank-neighbourhood-hebron-families-from-homes",
-   "at": "2026-10-24T13:17:13.000Z",
-   "ev": [
-    "westbank"
-   ],
-   "cc": [
-    "Israel",
-    "Palestine"
    ]
   },
   {
