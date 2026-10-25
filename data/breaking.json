@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-25T17:41:42.005Z",
+ "updated": "2026-10-25T20:36:03.066Z",
  "sources": {
   "BBC": {
    "ok": true,
@@ -7,19 +7,19 @@
   },
   "Al Jazeera": {
    "ok": true,
-   "n": 10
+   "n": 12
   },
   "The Guardian": {
    "ok": true,
-   "n": 16
+   "n": 18
   },
   "DW": {
    "ok": true,
-   "n": 4
+   "n": 3
   },
   "France 24": {
    "ok": true,
-   "n": 16
+   "n": 13
   },
   "UN News": {
    "ok": true,
@@ -33,15 +33,176 @@
  "items": [
   {
    "id": "1ecafaded844",
-   "t": "Serbia votes as strongman Vučić faces grassroots challenge to 12-year rule – Europe live",
-   "ko": "강자 Vučić가 12년 통치에 대한 풀뿌리 도전에 직면함에 따라 세르비아 투표 - 유럽 라이브",
+   "t": "Polls close in Serbia as strongman Vučić faces challenge to 12-year rule – Europe live",
+   "ko": "독재자 부치치(Vučić)가 12년 집권에 도전하면서 세르비아에서 여론조사가 종료되었습니다 – 유럽 라이브",
    "src": "The Guardian",
    "u": "https://www.theguardian.com/world/live/2026/oct/25/europe-serbia-elections-aleksander-vucic-student-list-protests-bulgaria-latest-news-updates",
-   "at": "2026-10-25T17:16:41.000Z",
+   "at": "2026-10-25T20:28:23.000Z",
    "ev": [],
    "cc": [
-    "Serbia"
+    "Serbia",
+    "United Kingdom"
    ]
+  },
+  {
+   "id": "ccd700de5b8f",
+   "t": "Macron’s ‘vandals pay’ bill puts right to protest at risk",
+   "ko": "마크롱의 '파괴자 지불' 법안은 시위를 위험에 빠뜨린다",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/world/2026/oct/25/macrons-vandals-pay-bill-puts-right-to-protest-at-risk",
+   "at": "2026-10-25T19:57:40.000Z",
+   "ev": [],
+   "cc": [
+    "France"
+   ]
+  },
+  {
+   "id": "300463f82bee",
+   "t": "The narrative battle over France’s unrest",
+   "ko": "프랑스의 불안을 둘러싼 서사적 전투",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/video/the-listening-post/2026/10/25/the-narrative-battle-over-frances-unrest?traffic_source=rss",
+   "at": "2026-10-25T19:36:14.000Z",
+   "ev": [],
+   "cc": [
+    "France"
+   ]
+  },
+  {
+   "id": "d3ea6ae7933b",
+   "t": "Iraqis mark seven years since Tishreen protests with reform demands",
+   "ko": "이라크인들이 티슈린이 개혁을 요구하며 시위를 벌인 지 7년이 되었습니다.",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/video/newsfeed/2026/10/25/iraqis-mark-seven-years-since-tishreen-protests-with-reform-demands?traffic_source=rss",
+   "at": "2026-10-25T19:36:05.000Z",
+   "ev": [],
+   "cc": [
+    "Iraq"
+   ]
+  },
+  {
+   "id": "ccd810b86e33",
+   "t": "Has Healey’s military-style budget secrecy really played out so differently to past budgets?",
+   "ko": "Healey의 군사 스타일 예산 비밀 유지가 실제로 과거 예산과 그렇게 다르게 진행되었습니까?",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/uk-news/2026/oct/25/john-healey-chancellor-budget-secrecy",
+   "at": "2026-10-25T19:35:17.000Z",
+   "ev": [],
+   "cc": []
+  },
+  {
+   "id": "9709b6826529",
+   "t": "Four-year-old girl dies after falling from east London tower block",
+   "ko": "4세 소녀, 런던 동부 타워 블록에서 떨어져 사망",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/uk-news/2026/oct/25/four-year-old-girl-dies-after-falling-from-east-london-tower-block",
+   "at": "2026-10-25T19:25:47.000Z",
+   "ev": [],
+   "cc": []
+  },
+  {
+   "id": "d3e62867a420",
+   "t": "Death toll in Nigeria village raided by gunmen rises to 48, police say",
+   "ko": "나이지리아 경찰, 총격범 습격으로 사망자 48명으로 늘어",
+   "src": "BBC",
+   "u": "https://www.bbc.co.uk/news/articles/cq1kdlm1ze7do?at_medium=RSS&at_campaign=rss",
+   "at": "2026-10-25T19:14:27.000Z",
+   "ev": [
+    "nigeria"
+   ],
+   "cc": [
+    "Nigeria"
+   ]
+  },
+  {
+   "id": "cdf9ed45b83e",
+   "t": "Suspect in shooting death of Missouri teen on highway charged in second road incident",
+   "ko": "미주리주 10대 고속도로서 총격 사망 용의자, 두 번째 교통사고로 기소",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/us-news/2026/oct/25/shooting-death-teen-missouri-highway",
+   "at": "2026-10-25T19:12:05.000Z",
+   "ev": [],
+   "cc": []
+  },
+  {
+   "id": "77f63991282b",
+   "t": "Le Pen’s ‘Renaissance’: 4th time lucky?",
+   "ko": "르펜의 '르네상스': 4번째 행운?",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/tv-shows/spotlight/20261025-le-pen-s-renaissance-4th-time-lucky",
+   "at": "2026-10-25T19:05:19.000Z",
+   "ev": [],
+   "cc": [
+    "France"
+   ]
+  },
+  {
+   "id": "7585b0fd1918",
+   "t": "Emirati diplomat who helped deliver aid to Gaza enters UN secretary general race",
+   "ko": "가자 지구에 구호품 전달을 도운 아랍에미리트 외교관, 유엔 사무총장 선거 출마",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/world/2026/oct/25/lana-nusseibeh-emirati-diplomat-enters-un-secretary-general-race",
+   "at": "2026-10-25T19:00:10.000Z",
+   "ev": [
+    "sudan",
+    "gaza"
+   ],
+   "cc": [
+    "Palestine",
+    "United Arab Emirates",
+    "Sudan"
+   ]
+  },
+  {
+   "id": "41297b247faf",
+   "t": "Venezuela’s opposition leader Maria Corina Machado returns from exile",
+   "ko": "베네수엘라 야당 지도자 마리아 코리나 마차도가 망명 생활을 마치고 귀국했다.",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/10/25/venezuelas-opposition-leader-maria-corina-machado-returns-from-exile?traffic_source=rss",
+   "at": "2026-10-25T18:55:39.000Z",
+   "ev": [],
+   "cc": [
+    "Venezuela"
+   ]
+  },
+  {
+   "id": "e1f51c701452",
+   "t": "Israeli air strike on Gaza City university kills three people",
+   "ko": "이스라엘, 가자시티 대학 공습으로 3명 사망",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/video/newsfeed/2026/10/25/israeli-air-strike-on-gaza-city-university-kills-three-people?traffic_source=rss",
+   "at": "2026-10-25T18:12:13.000Z",
+   "ev": [
+    "gaza"
+   ],
+   "cc": [
+    "Israel",
+    "Palestine"
+   ]
+  },
+  {
+   "id": "2749cf3d2fa8",
+   "t": "US and Israel elections: New leaders, same policies?",
+   "ko": "미국과 이스라엘 선거: 새로운 지도자, 같은 정책?",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/video/newsfeed/2026/10/25/us-and-israel-elections-new-leaders-same-policies?traffic_source=rss",
+   "at": "2026-10-25T17:53:23.000Z",
+   "ev": [],
+   "cc": [
+    "United States",
+    "Israel",
+    "Palestine"
+   ]
+  },
+  {
+   "id": "ea8d716875dd",
+   "t": "Can protests in Europe bring about change?",
+   "ko": "유럽의 시위가 변화를 가져올 수 있을까?",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/video/inside-story/2026/10/25/can-protests-in-europe-bring-about-change?traffic_source=rss",
+   "at": "2026-10-25T17:39:42.000Z",
+   "ev": [],
+   "cc": []
   },
   {
    "id": "8eaa3dae999e",
@@ -118,8 +279,8 @@
   },
   {
    "id": "c96546db1a20",
-   "t": "Seven killed in Gaza as Israel targets university campus and other sites",
-   "ko": "이스라엘이 대학 캠퍼스와 기타 장소를 공격해 가자지구에서 7명이 사망했습니다.",
+   "t": "Eight killed in Gaza as Israel targets university campus and other sites",
+   "ko": "이스라엘이 대학 캠퍼스와 기타 장소를 공격해 가자지구에서 8명이 사망했습니다.",
    "src": "Al Jazeera",
    "u": "https://www.aljazeera.com/news/2026/10/25/seven-killed-in-gaza-as-israel-targets-university-campus-and-other-sites?traffic_source=rss",
    "at": "2026-10-25T15:40:25.000Z",
@@ -217,16 +378,6 @@
    "cc": [
     "Iran"
    ]
-  },
-  {
-   "id": "cdf9ed45b83e",
-   "t": "Suspect in shooting death of teen on Missouri highway charged in second road incident",
-   "ko": "미주리 고속도로에서 10대 총격 사망 용의자, 두 번째 교통사고로 기소",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/us-news/2026/oct/25/shooting-death-teen-missouri-highway",
-   "at": "2026-10-25T14:16:37.000Z",
-   "ev": [],
-   "cc": []
   },
   {
    "id": "3f5fe1602f06",
@@ -547,6 +698,18 @@
    ]
   },
   {
+   "id": "493bab280e45",
+   "t": "Prague honors Roma resistance fighters against Hitler",
+   "ko": "프라하는 히틀러에 대항한 로마 저항군을 기립니다.",
+   "src": "DW",
+   "u": "https://www.dw.com/en/prague-honors-roma-resistance-fighters-against-hitler/a-79725015?maca=en-rss-en-world-4025-rdf",
+   "at": "2026-10-25T09:17:00.000Z",
+   "ev": [],
+   "cc": [
+    "Germany"
+   ]
+  },
+  {
    "id": "2f7ad053a046",
    "t": "Musk says SpaceX restricted Ukraine's Starlink connection as service restored",
    "ko": "머스크는 SpaceX가 서비스 복원으로 우크라이나의 Starlink 연결을 제한했다고 말했습니다.",
@@ -631,6 +794,22 @@
    "cc": [
     "Bulgaria",
     "Ukraine"
+   ]
+  },
+  {
+   "id": "de065293fd68",
+   "t": "In Bulgaria, record low voter turnout triggers a November 1 presidential run-off in a poll colored by divisions over Ukraine war",
+   "ko": "불가리아에서는 기록적으로 낮은 투표율로 인해 11월 1일 우크라이나 전쟁을 두고 분열된 여론조사에서 대통령 결선투표가 실시되었습니다.",
+   "src": "DW",
+   "u": "https://www.dw.com/en/in-bulgaria-record-low-voter-turnout-triggers-a-november-1-presidential-run-off-in-a-poll-colored-by-divisions-over-ukraine-war/a-79753496?maca=en-rss-en-world-4025-rdf",
+   "at": "2026-10-25T07:19:00.000Z",
+   "ev": [
+    "ukraine"
+   ],
+   "cc": [
+    "Bulgaria",
+    "Ukraine",
+    "Russia"
    ]
   },
   {
@@ -762,20 +941,6 @@
    "ev": [],
    "cc": [
     "Turkey"
-   ]
-  },
-  {
-   "id": "d3e62867a420",
-   "t": "Gunmen kill at least 10 villagers and loot shops in north-east Nigeria",
-   "ko": "나이지리아 북동부에서 무장괴한들이 최소 10명의 주민을 살해하고 상점을 약탈했습니다.",
-   "src": "BBC",
-   "u": "https://www.bbc.co.uk/news/articles/cq1kdlm1ze7do?at_medium=RSS&at_campaign=rss",
-   "at": "2026-10-25T03:20:16.000Z",
-   "ev": [
-    "nigeria"
-   ],
-   "cc": [
-    "Nigeria"
    ]
   },
   {
@@ -1931,56 +2096,6 @@
    "cc": [
     "United States",
     "Iran"
-   ]
-  },
-  {
-   "id": "b09d3fe3755c",
-   "t": "Building collapse in Nairobi search for survivors under way",
-   "ko": "나이로비 건물 붕괴, 생존자 수색작업 진행",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/building-collapse-in-nairobi-search-for-survivors-under-way",
-   "at": "2026-10-23T20:31:50.000Z",
-   "ev": [],
-   "cc": [
-    "Kenya",
-    "Cape Verde"
-   ]
-  },
-  {
-   "id": "45f546718dbb",
-   "t": "Seven shot dead by gunmen at church funeral in Jordan, officials say",
-   "ko": "요르단 교회 장례식에서 총격범에 의해 7명이 사망했다고 관리들이 밝혔습니다.",
-   "src": "BBC",
-   "u": "https://www.bbc.co.uk/news/articles/ck87zlpzny15o?at_medium=RSS&at_campaign=rss",
-   "at": "2026-10-23T19:46:30.000Z",
-   "ev": [],
-   "cc": [
-    "Jordan"
-   ]
-  },
-  {
-   "id": "d7c780964626",
-   "t": "Deadly shooting near Paris is a 'racist terrorist attack', Macron says",
-   "ko": "마크롱 \"파리 총격은 인종차별적 테러\"",
-   "src": "BBC",
-   "u": "https://www.bbc.co.uk/news/articles/c6ev38dj1g8zo?at_medium=RSS&at_campaign=rss",
-   "at": "2026-10-23T19:42:08.000Z",
-   "ev": [],
-   "cc": []
-  },
-  {
-   "id": "bd46ccebae6f",
-   "t": "Russia's attacks on Ukraine's capital, Kyiv, are intensifying. DW asked people on the ground what life is like",
-   "ko": "우크라이나 수도 키예프에 대한 러시아의 공격이 점점 거세지고 있다. DW는 현장에 있는 사람들에게 삶이 어떤지 물었습니다.",
-   "src": "DW",
-   "u": "https://www.dw.com/en/russia-s-attacks-on-ukraine-s-capital-kyiv-are-intensifying-dw-asked-people-on-the-ground-what-life-is-like/a-79741090?maca=en-rss-en-world-4025-rdf",
-   "at": "2026-10-23T19:08:00.000Z",
-   "ev": [
-    "ukraine"
-   ],
-   "cc": [
-    "Russia",
-    "Ukraine"
    ]
   }
  ]
