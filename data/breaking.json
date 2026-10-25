@@ -1,13 +1,13 @@
 {
- "updated": "2026-10-25T09:40:47.787Z",
+ "updated": "2026-10-25T14:10:25.718Z",
  "sources": {
   "BBC": {
    "ok": true,
-   "n": 15
+   "n": 12
   },
   "Al Jazeera": {
    "ok": true,
-   "n": 9
+   "n": 7
   },
   "The Guardian": {
    "ok": true,
@@ -15,22 +15,263 @@
   },
   "DW": {
    "ok": true,
-   "n": 6
+   "n": 5
   },
   "France 24": {
    "ok": true,
-   "n": 19
+   "n": 17
   },
   "UN News": {
    "ok": true,
-   "n": 5
+   "n": 1
   },
   "NPR": {
    "ok": true,
-   "n": 7
+   "n": 6
   }
  },
  "items": [
+  {
+   "id": "07bebd5f055c",
+   "t": "Le Pen leads polls with up to 38% six months before election",
+   "ko": "르펜, 대선 6개월 전 최대 38%로 여론조사 선두",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/le-pen-leads-polls-with-up-to-38-six-months-before-election",
+   "at": "2026-10-25T13:51:14.000Z",
+   "ev": [],
+   "cc": [
+    "France"
+   ]
+  },
+  {
+   "id": "e835ac8cebcc",
+   "t": "Saudi air defences intercept Houthi barrage near Mecca",
+   "ko": "사우디 방공군, 메카 인근 후티군의 포격을 요격",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/10/25/saudi-air-defences-intercept-houthi-barrage-near-mecca?traffic_source=rss",
+   "at": "2026-10-25T13:49:33.000Z",
+   "ev": [
+    "yemen"
+   ],
+   "cc": [
+    "Saudi Arabia",
+    "Yemen"
+   ]
+  },
+  {
+   "id": "8f590579daf4",
+   "t": "Gaza’s visually and hearing-impaired children miss school due to Israel war",
+   "ko": "이스라엘 전쟁으로 인해 가자지구의 시각 및 청각 장애 어린이들이 학교에 결석",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/features/2026/10/25/gazas-visually-and-hearing-impaired-children-miss-school-due-to-israel-war?traffic_source=rss",
+   "at": "2026-10-25T13:46:51.000Z",
+   "ev": [
+    "gaza"
+   ],
+   "cc": [
+    "Palestine",
+    "Israel"
+   ]
+  },
+  {
+   "id": "ce35d48b73cf",
+   "t": "France: Le Pen launches presidential campaign in Orleans",
+   "ko": "프랑스: 르펜, 올리언스에서 대선 캠페인 개시",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/france-le-pen-launches-presidential-campaign-in-orleans",
+   "at": "2026-10-25T13:46:08.000Z",
+   "ev": [],
+   "cc": [
+    "France"
+   ]
+  },
+  {
+   "id": "6ffcdfaa21f3",
+   "t": "Portuguese police clear Lisbon housing protest camp, arrest 25",
+   "ko": "포르투갈 경찰, 리스본 주택 시위 수용소 진압, 25명 체포",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/economy/2026/10/25/portuguese-police-clear-lisbon-housing-protest-camp-arrest-25?traffic_source=rss",
+   "at": "2026-10-25T13:29:56.000Z",
+   "ev": [],
+   "cc": []
+  },
+  {
+   "id": "e359cae60f71",
+   "t": "FDR made it a blue bastion – now it’s Trump’s stronghold in California. Is it forever lost?",
+   "ko": "FDR은 이곳을 푸른 보루로 만들었습니다. 이제는 캘리포니아에 있는 트럼프의 거점이 되었습니다. 영원히 잃어버린 것인가?",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/us-news/ng-interactive/2026/oct/25/democrats-california-shasta-county-trump",
+   "at": "2026-10-25T13:00:03.000Z",
+   "ev": [],
+   "cc": [
+    "United States"
+   ]
+  },
+  {
+   "id": "e03c179ee9da",
+   "t": "Voting under way across Brazil in tight presidential run-off between Lula and Bolsonaro",
+   "ko": "브라질 전역에서 룰라와 보우소나루의 치열한 대선 결선투표가 진행 중입니다.",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/americas/20261025-live-voting-under-way-across-brazil-in-tight-presidential-run-off-between-lula-and-bolsonaro",
+   "at": "2026-10-25T12:46:02.000Z",
+   "ev": [],
+   "cc": [
+    "Brazil"
+   ]
+  },
+  {
+   "id": "5dbd5e1a6d69",
+   "t": "Hundreds of thousands march across France in protests over schools and policing",
+   "ko": "수십만 명이 프랑스 전역에서 학교와 경찰에 대한 항의 시위를 벌였습니다.",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/world/2026/oct/24/hundreds-of-thousands-march-across-france-in-protests-over-schools-and-policing",
+   "at": "2026-10-25T12:07:05.000Z",
+   "ev": [],
+   "cc": [
+    "France"
+   ]
+  },
+  {
+   "id": "6e5e55b7178a",
+   "t": "US military gives Elon Musk’s SpaceX access to sensitive tracking data",
+   "ko": "미군, Elon Musk에게 SpaceX에 민감한 추적 데이터에 대한 액세스 권한 부여",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/science/2026/oct/25/spacex-access-sensitive-tracking-data",
+   "at": "2026-10-25T12:00:05.000Z",
+   "ev": [],
+   "cc": [
+    "United States"
+   ]
+  },
+  {
+   "id": "83d9e574cdce",
+   "t": "CENTCOM reportedly has plans for Iran strikes: Will Trump approve them?",
+   "ko": "CENTCOM은 이란 공격을 계획하고 있는 것으로 알려졌습니다. 트럼프가 이를 승인할까요?",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/10/25/centcom-reportedly-has-plans-for-iran-strikes-will-trump-approve-them?traffic_source=rss",
+   "at": "2026-10-25T11:39:41.000Z",
+   "ev": [
+    "iran"
+   ],
+   "cc": [
+    "Iran"
+   ]
+  },
+  {
+   "id": "7105a62123a7",
+   "t": "Far-right leader Le Pen says visible policing keeps protests smooth",
+   "ko": "극우 지도자 르펜은 가시적인 치안이 시위를 원활하게 유지한다고 말했습니다.",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/far-right-leader-le-pen-says-visible-policing-keeps-protests-smooth",
+   "at": "2026-10-25T11:39:18.000Z",
+   "ev": [],
+   "cc": [
+    "France",
+    "Jordan"
+   ]
+  },
+  {
+   "id": "d030056bbfb7",
+   "t": "Israel: Demonstrators rally against government ahead of election",
+   "ko": "이스라엘: 선거를 앞두고 정부에 반대하는 시위대",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/israel-demonstrators-rally-against-government-ahead-of-election",
+   "at": "2026-10-25T11:38:01.000Z",
+   "ev": [],
+   "cc": [
+    "Israel"
+   ]
+  },
+  {
+   "id": "bfcdf7b3fcd4",
+   "t": "West Bank: Families forcibly displaced in Hebron",
+   "ko": "서안 지구: 헤브론에서 강제 이주된 가족들",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/west-bank-families-forcibly-displaced-in-hebron",
+   "at": "2026-10-25T11:35:30.000Z",
+   "ev": [
+    "westbank"
+   ],
+   "cc": [
+    "Palestine",
+    "Israel"
+   ]
+  },
+  {
+   "id": "c694c111914d",
+   "t": "At least 1,300 people arrested in mass weekend protests across France",
+   "ko": "프랑스 전역에서 주말 대규모 시위로 최소 1,300명 체포",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/france/20261025-at-least-1-300-people-arrested-in-mass-weekend-protests-across-france",
+   "at": "2026-10-25T11:02:41.000Z",
+   "ev": [],
+   "cc": [
+    "France"
+   ]
+  },
+  {
+   "id": "c2bce29ee383",
+   "t": "Demand for UK government action 10 months after British man’s death in Grenada",
+   "ko": "그레나다에서 영국인 사망 10개월 후 영국 정부 조치 요구",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/world/2026/oct/25/demand-uk-government-action-after-british-man-death-grenada",
+   "at": "2026-10-25T11:00:01.000Z",
+   "ev": [],
+   "cc": [
+    "United Kingdom"
+   ]
+  },
+  {
+   "id": "f5e114da160a",
+   "t": "El Salvador president says bodies found in Haiti are not those of hostages",
+   "ko": "엘살바도르 대통령 \"아이티에서 발견된 시신은 인질의 시신이 아니다\"",
+   "src": "BBC",
+   "u": "https://www.bbc.co.uk/news/articles/c8ly097zw1xwo?at_medium=RSS&at_campaign=rss",
+   "at": "2026-10-25T10:55:33.000Z",
+   "ev": [
+    "haiti"
+   ],
+   "cc": [
+    "El Salvador",
+    "Haiti"
+   ]
+  },
+  {
+   "id": "8def851d2ffe",
+   "t": "Saudi Arabia intercepts missiles and drones as fighting with Houthis rages",
+   "ko": "사우디 아라비아, 후티 반군과의 전투 중 미사일과 드론 요격",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/10/25/saudi-arabia-intercepts-missiles-and-drones-as-fighting-with-houthis-rages?traffic_source=rss",
+   "at": "2026-10-25T10:42:51.000Z",
+   "ev": [
+    "yemen"
+   ],
+   "cc": [
+    "Saudi Arabia"
+   ]
+  },
+  {
+   "id": "0a5bd0ce690d",
+   "t": "More than 1,300 arrested as clashes follow another day of mass protests across France",
+   "ko": "프랑스 전역에서 또다시 대규모 시위가 벌어진 뒤 충돌로 1,300명 이상이 체포됐다.",
+   "src": "BBC",
+   "u": "https://www.bbc.co.uk/news/articles/c95ynd587ynzo?at_medium=RSS&at_campaign=rss",
+   "at": "2026-10-25T10:38:15.000Z",
+   "ev": [],
+   "cc": [
+    "France"
+   ]
+  },
+  {
+   "id": "f979e2cd26e8",
+   "t": "Suspect in racist Paris shooting transferred to psychiatric unit, had drugs in his system",
+   "ko": "파리 인종차별 총격 용의자, 정신과로 이송",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/france/20261025-suspect-in-racist-gun-attack-near-paris-transferred-to-psychiatric-unit",
+   "at": "2026-10-25T10:36:42.000Z",
+   "ev": [],
+   "cc": []
+  },
   {
    "id": "ac14c9b5ec8e",
    "t": "France: Some clashes erupted at end of protests",
@@ -38,18 +279,6 @@
    "src": "France 24",
    "u": "https://www.france24.com/en/france-some-clashes-erupted-at-end-of-protests",
    "at": "2026-10-25T09:35:20.000Z",
-   "ev": [],
-   "cc": [
-    "France"
-   ]
-  },
-  {
-   "id": "0a5bd0ce690d",
-   "t": "Almost 1,000 arrested as clashes follow another day of mass protests across France",
-   "ko": "프랑스 전역에서 또 다른 대규모 시위가 벌어진 뒤 충돌로 거의 1000명이 체포됐다.",
-   "src": "BBC",
-   "u": "https://www.bbc.co.uk/news/articles/c95ynd587ynzo?at_medium=RSS&at_campaign=rss",
-   "at": "2026-10-25T09:32:59.000Z",
    "ev": [],
    "cc": [
     "France"
@@ -738,18 +967,6 @@
    "cc": [
     "Israel",
     "Palestine"
-   ]
-  },
-  {
-   "id": "5dbd5e1a6d69",
-   "t": "Hundreds of thousands march across France in protests over schools and policing",
-   "ko": "수십만 명이 프랑스 전역에서 학교와 경찰에 대한 항의 시위를 벌였습니다.",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/world/2026/oct/24/hundreds-of-thousands-march-across-france-in-protests-over-schools-and-policing",
-   "at": "2026-10-24T17:54:41.000Z",
-   "ev": [],
-   "cc": [
-    "France"
    ]
   },
   {
@@ -1607,123 +1824,6 @@
    "cc": [
     "Ukraine",
     "Russia"
-   ]
-  },
-  {
-   "id": "19a687744426",
-   "t": "World News in Brief: Iran nuclear inspections, deadly church attack in Jordan, El Fasher – one year on",
-   "ko": "세계 뉴스 요약: 이란 핵 사찰, 요르단의 치명적인 교회 공격, 엘 파셔 – 1년 후",
-   "src": "UN News",
-   "u": "https://news.un.org/feed/view/en/story/2026/10/1168664",
-   "at": "2026-10-23T12:00:00.000Z",
-   "ev": [
-    "sudan",
-    "darfur",
-    "iran"
-   ],
-   "cc": [
-    "Iran",
-    "Jordan"
-   ]
-  },
-  {
-   "id": "2d7e1bb5b5b6",
-   "t": "West Bank: Guterres alarmed as Israel imposes sweeping closures after deadly Hebron attack",
-   "ko": "서안지구: 이스라엘이 치명적인 헤브론 공격 이후 대대적인 폐쇄를 실시함에 따라 구테레스는 경각심을 나타냈습니다.",
-   "src": "UN News",
-   "u": "https://news.un.org/feed/view/en/story/2026/10/1168660",
-   "at": "2026-10-23T12:00:00.000Z",
-   "ev": [
-    "westbank"
-   ],
-   "cc": [
-    "Palestine",
-    "Israel"
-   ]
-  },
-  {
-   "id": "ec8ce9101a60",
-   "t": "Sudan: Drone strikes killed at least 306 people in three weeks",
-   "ko": "수단: 드론 공격으로 3주 동안 최소 306명 사망",
-   "src": "UN News",
-   "u": "https://news.un.org/feed/view/en/story/2026/10/1168661",
-   "at": "2026-10-23T12:00:00.000Z",
-   "ev": [
-    "sudan"
-   ],
-   "cc": [
-    "Sudan"
-   ]
-  },
-  {
-   "id": "d18d06f6bf62",
-   "t": "Yemen: Deepening concerns for Taiz City as aid is blocked from entering",
-   "ko": "예멘: 구호품 유입이 차단되면서 타이즈 시에 대한 우려가 깊어지고 있습니다.",
-   "src": "UN News",
-   "u": "https://news.un.org/feed/view/en/story/2026/10/1168654",
-   "at": "2026-10-23T12:00:00.000Z",
-   "ev": [
-    "yemen"
-   ],
-   "cc": [
-    "Yemen"
-   ]
-  },
-  {
-   "id": "7c7ea8b3c61d",
-   "t": "Serbia: Hope, tension and apprehension as voters prepare to elect new parliament",
-   "ko": "세르비아: 유권자들이 새 의회 선출을 준비하면서 희망, 긴장, 우려가 커지고 있습니다.",
-   "src": "DW",
-   "u": "https://www.dw.com/en/serbia-hope-tension-and-apprehension-as-voters-prepare-to-elect-new-parliament/a-79738102?maca=en-rss-en-world-4025-rdf",
-   "at": "2026-10-23T11:43:00.000Z",
-   "ev": [],
-   "cc": [
-    "Serbia"
-   ]
-  },
-  {
-   "id": "537af07b2733",
-   "t": "Military reinforcements move to Mideast. And, millions of Americans vote early",
-   "ko": "군사 지원군이 중동으로 이동합니다. 그리고 수백만 명의 미국인이 조기 투표를 하고 있습니다.",
-   "src": "NPR",
-   "u": "https://www.npr.org/2026/10/23/g-s1-149514/up-first-newsletter-iran-war-midterm-voting-trump-bbc",
-   "at": "2026-10-23T11:22:25.000Z",
-   "ev": [
-    "iran"
-   ],
-   "cc": [
-    "Iran"
-   ]
-  },
-  {
-   "id": "a059d5ec8f95",
-   "t": "Retired general discusses the U.S. and Israeli plan for possible attack on Iran",
-   "ko": "퇴역 장군, 이란 공격 가능성에 대한 미국과 이스라엘의 계획 논의",
-   "src": "NPR",
-   "u": "https://www.npr.org/2026/10/23/nx-s1-6012303/retired-general-discusses-the-u-s-and-israeli-plan-for-possible-attack-on-iran",
-   "at": "2026-10-23T10:36:15.000Z",
-   "ev": [
-    "iran"
-   ],
-   "cc": [
-    "United States",
-    "Israel",
-    "Iran"
-   ]
-  },
-  {
-   "id": "ba57adb7a991",
-   "t": "Israel orders closure of West Bank after soldiers kill 2 men behind an alleged attack",
-   "ko": "이스라엘, 군인 2명 살해 후 서안지구 폐쇄 명령",
-   "src": "NPR",
-   "u": "https://www.npr.org/2026/10/23/nx-s1-6013333/netanyahu-closure-west-bank",
-   "at": "2026-10-23T09:40:32.000Z",
-   "ev": [
-    "westbank"
-   ],
-   "cc": [
-    "Israel",
-    "Palestine"
    ]
   }
  ]
