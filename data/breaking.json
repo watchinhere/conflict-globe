@@ -1,17 +1,17 @@
 {
- "updated": "2026-10-25T20:36:03.066Z",
+ "updated": "2026-10-25T22:48:31.781Z",
  "sources": {
   "BBC": {
    "ok": true,
-   "n": 12
+   "n": 13
   },
   "Al Jazeera": {
    "ok": true,
-   "n": 12
+   "n": 10
   },
   "The Guardian": {
    "ok": true,
-   "n": 18
+   "n": 15
   },
   "DW": {
    "ok": true,
@@ -27,17 +27,17 @@
   },
   "NPR": {
    "ok": true,
-   "n": 7
+   "n": 5
   }
  },
  "items": [
   {
    "id": "1ecafaded844",
-   "t": "Polls close in Serbia as strongman Vučić faces challenge to 12-year rule – Europe live",
-   "ko": "독재자 부치치(Vučić)가 12년 집권에 도전하면서 세르비아에서 여론조사가 종료되었습니다 – 유럽 라이브",
+   "t": "Wild scenes of celebration in Belgrade as Vučić concedes Serbian election – Europe live",
+   "ko": "Vučić가 세르비아 선거를 인정함에 따라 베오그라드에서 열광적인 축하 장면 – 유럽 라이브",
    "src": "The Guardian",
    "u": "https://www.theguardian.com/world/live/2026/oct/25/europe-serbia-elections-aleksander-vucic-student-list-protests-bulgaria-latest-news-updates",
-   "at": "2026-10-25T20:28:23.000Z",
+   "at": "2026-10-25T22:43:07.000Z",
    "ev": [],
    "cc": [
     "Serbia",
@@ -45,9 +45,81 @@
    ]
   },
   {
+   "id": "3a94b70ec6e9",
+   "t": "Serbian leader Aleksandar Vučić concedes defeat in fiercely contested parliamentary election",
+   "ko": "세르비아 지도자 알렉산다르 부치치가 치열한 의회 선거에서 패배를 인정했습니다.",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/world/2026/oct/25/serbian-leader-aleksandar-vucic-concedes-defeat-in-fiercely-contested-parliamentary-election",
+   "at": "2026-10-25T22:30:22.000Z",
+   "ev": [],
+   "cc": [
+    "Serbia"
+   ]
+  },
+  {
+   "id": "d33d24266c27",
+   "t": "Deeply divided Israel braces for pivotal election",
+   "ko": "중추적 선거를 위해 깊게 분열된 이스라엘 교정기",
+   "src": "BBC",
+   "u": "https://www.bbc.co.uk/news/articles/ckpdgy6pl7xlo?at_medium=RSS&at_campaign=rss",
+   "at": "2026-10-25T22:11:13.000Z",
+   "ev": [],
+   "cc": [
+    "Israel"
+   ]
+  },
+  {
+   "id": "81bc7b0e59c4",
+   "t": "Serbia's veteran ruler Vučić concedes election to student-led protest movement",
+   "ko": "세르비아의 베테랑 통치자 부치치, 학생 주도 시위 운동에 당선 인정",
+   "src": "BBC",
+   "u": "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo?at_medium=RSS&at_campaign=rss",
+   "at": "2026-10-25T22:06:26.000Z",
+   "ev": [],
+   "cc": [
+    "Serbia"
+   ]
+  },
+  {
+   "id": "4e5945a0ba0e",
+   "t": "Marine Le Pen vows French ‘renaissance’ as far right eyes seat of power",
+   "ko": "마린 르펜, 극우 권력의 자리에 프랑스 '르네상스' 다짐",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/10/25/marine-le-pen-vows-a-french-renaissance-as-far-right-eyes-seat-of-power?traffic_source=rss",
+   "at": "2026-10-25T21:50:36.000Z",
+   "ev": [],
+   "cc": [
+    "France"
+   ]
+  },
+  {
+   "id": "c7507fd7426f",
+   "t": "Serbia's Vucic concedes defeat in historic snap election with record turnout",
+   "ko": "세르비아의 부치치, 역사적인 임시 선거에서 기록적인 투표율로 패배 인정",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/europe/20261025-serbia-s-vucic-concedes-defeat-in-historic-snap-election-with-record-turnout",
+   "at": "2026-10-25T21:24:42.000Z",
+   "ev": [],
+   "cc": [
+    "Serbia"
+   ]
+  },
+  {
+   "id": "e3d5025bd972",
+   "t": "Kenya bus crash kills at least 24 as government vows road safety crackdown",
+   "ko": "케냐 정부가 도로 안전 단속을 약속함에 따라 케냐 버스 충돌로 최소 24 명이 사망했습니다.",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/10/25/kenya-bus-crash-kills-at-least-24-as-government-vows-road-safety-crackdown?traffic_source=rss",
+   "at": "2026-10-25T21:00:02.000Z",
+   "ev": [],
+   "cc": [
+    "Kenya"
+   ]
+  },
+  {
    "id": "ccd700de5b8f",
-   "t": "Macron’s ‘vandals pay’ bill puts right to protest at risk",
-   "ko": "마크롱의 '파괴자 지불' 법안은 시위를 위험에 빠뜨린다",
+   "t": "Macron accused of putting France’s right to protest at risk with ‘vandal’s law’",
+   "ko": "마크롱은 '반달법'으로 프랑스의 시위 권리를 위험에 빠뜨렸다고 비난받았다.",
    "src": "The Guardian",
    "u": "https://www.theguardian.com/world/2026/oct/25/macrons-vandals-pay-bill-puts-right-to-protest-at-risk",
    "at": "2026-10-25T19:57:40.000Z",
@@ -99,6 +171,18 @@
    "at": "2026-10-25T19:25:47.000Z",
    "ev": [],
    "cc": []
+  },
+  {
+   "id": "3bf4623a77e7",
+   "t": "Serbia’s Vucic concedes election defeat to student-led movement",
+   "ko": "세르비아 부치치, 학생 주도 운동에 선거 패배 인정",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/10/25/serbia-voter-turnout-highest-in-decades-as-students-oppose-longtime-leader?traffic_source=rss",
+   "at": "2026-10-25T19:19:54.000Z",
+   "ev": [],
+   "cc": [
+    "Serbia"
+   ]
   },
   {
    "id": "d3e62867a420",
@@ -2007,96 +2091,6 @@
    "at": "2026-10-24T01:55:15.000Z",
    "ev": [],
    "cc": []
-  },
-  {
-   "id": "90a29d3e035a",
-   "t": "Helen Haines’s condition improves days after losing both legs from alleged attack",
-   "ko": "헬렌 헤인즈(Helen Haines)의 상태는 공격 혐의로 두 다리를 잃은 지 며칠 만에 호전되었습니다.",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/australia-news/2026/oct/24/helen-hainess-condition-improves-days-after-losing-both-legs-from-alleged-attack-ntwnfb",
-   "at": "2026-10-24T00:41:29.000Z",
-   "ev": [],
-   "cc": []
-  },
-  {
-   "id": "ed7adddd60cf",
-   "t": "Rubio tells Cubans ‘now is the time’ to act to see political change",
-   "ko": "루비오, 쿠바인들에게 '지금이 바로 정치적 변화를 보기 위해 행동할 때'라고 말함",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/us-news/2026/oct/23/marco-rubio-cuba-trump",
-   "at": "2026-10-24T00:30:02.000Z",
-   "ev": [
-    "iran"
-   ],
-   "cc": [
-    "United States",
-    "Iran",
-    "Cuba"
-   ]
-  },
-  {
-   "id": "0ff8532abe0e",
-   "t": "Ruins of Limoges city hall a symbol of France divided by national protests",
-   "ko": "국가적 시위로 분열된 프랑스의 상징인 리모주 시청 유적",
-   "src": "BBC",
-   "u": "https://www.bbc.co.uk/news/articles/cxyvrged14d0o?at_medium=RSS&at_campaign=rss",
-   "at": "2026-10-23T23:09:16.000Z",
-   "ev": [],
-   "cc": [
-    "France"
-   ]
-  },
-  {
-   "id": "c4c48ac64982",
-   "t": "Student movement takes Serbia's Vučić to the wire in neck-and-neck election",
-   "ko": "학생 운동으로 인해 세르비아의 부치치가 치열한 선거에 나섰습니다.",
-   "src": "BBC",
-   "u": "https://www.bbc.co.uk/news/articles/cm1dwz311476o?at_medium=RSS&at_campaign=rss",
-   "at": "2026-10-23T23:08:23.000Z",
-   "ev": [],
-   "cc": [
-    "Serbia"
-   ]
-  },
-  {
-   "id": "33a36b73982c",
-   "t": "Father who killed Oregon school gunman describes anguish over children he couldn't save",
-   "ko": "오리건주 학교 총격범 살해한 아버지, 구하지 못한 아이들에 대한 괴로움",
-   "src": "BBC",
-   "u": "https://www.bbc.co.uk/news/articles/crgj9ndwvj9jo?at_medium=RSS&at_campaign=rss",
-   "at": "2026-10-23T22:47:07.000Z",
-   "ev": [],
-   "cc": []
-  },
-  {
-   "id": "8672db372927",
-   "t": "Israeli PM pledges massive military operation after West Bank checkpoint attack",
-   "ko": "이스라엘 총리, 서안지구 검문소 공격 이후 대규모 군사작전 약속",
-   "src": "NPR",
-   "u": "https://www.npr.org/2026/10/23/nx-s1-6013613/israeli-pm-pledges-massive-military-operation-after-west-bank-checkpoint-attack",
-   "at": "2026-10-23T21:38:54.000Z",
-   "ev": [
-    "westbank"
-   ],
-   "cc": [
-    "Israel",
-    "Palestine"
-   ]
-  },
-  {
-   "id": "ddaecd5b03b5",
-   "t": "Trump says US may launch ‘another little Epic Fury’ attack on Iran",
-   "ko": "트럼프, 미국이 이란에 '또 다른 작은 Epic Fury' 공격을 가할 수도 있다고 말했다",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/americas/20261023-trump-says-us-may-launch-another-little-epic-fury-attack-iran",
-   "at": "2026-10-23T20:50:51.000Z",
-   "ev": [
-    "iran"
-   ],
-   "cc": [
-    "United States",
-    "Iran"
-   ]
   }
  ]
 }
