@@ -1,17 +1,17 @@
 {
- "updated": "2026-10-26T19:33:50.849Z",
+ "updated": "2026-10-26T23:20:48.611Z",
  "sources": {
   "BBC": {
    "ok": true,
-   "n": 8
+   "n": 7
   },
   "Al Jazeera": {
    "ok": true,
-   "n": 8
+   "n": 10
   },
   "The Guardian": {
    "ok": true,
-   "n": 18
+   "n": 15
   },
   "DW": {
    "ok": true,
@@ -23,7 +23,7 @@
   },
   "UN News": {
    "ok": true,
-   "n": 2
+   "n": 4
   },
   "NPR": {
    "ok": true,
@@ -32,8 +32,190 @@
  },
  "items": [
   {
+   "id": "09456571b6e0",
+   "t": "Australian politics live: Lambie awaiting Hanson apology over cartoon; security crackdown for nine MPs after alleged Haines attack",
+   "ko": "호주 정치 라이브: Lambie는 만화에 대한 Hanson의 사과를 기다리고 있습니다. 헤인스 공격 혐의로 의원 9명에 대한 보안 단속",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/australia-news/live/2026/oct/27/one-nation-pauline-hanson-independent-jacqui-lambie-labor-anthony-albanese-coalition-ntwnfb",
+   "at": "2026-10-26T23:10:17.000Z",
+   "ev": [],
+   "cc": []
+  },
+  {
+   "id": "d7a1fd79d5b5",
+   "t": "Brazil: defeated Flávio Bolsonaro ordered to surrender passports",
+   "ko": "브라질: 플라비오 보우소나루에게 패배, 여권 반납 명령",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/world/2026/oct/26/flavio-bolsonaro-brazil-lula-election",
+   "at": "2026-10-26T23:02:17.000Z",
+   "ev": [],
+   "cc": [
+    "Brazil"
+   ]
+  },
+  {
+   "id": "88dbc3c2dc95",
+   "t": "The chaos in France is a ‘warning signal’ for Australia’s public spending and rising costs",
+   "ko": "프랑스의 혼란은 호주의 공공 지출과 비용 상승에 대한 '경고 신호'입니다.",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/business/2026/oct/27/the-chaos-in-france-is-a-warning-signal-for-australias-public-spending-and-rising-costs",
+   "at": "2026-10-26T22:45:35.000Z",
+   "ev": [],
+   "cc": [
+    "France",
+    "Australia"
+   ]
+  },
+  {
+   "id": "3cf6f42ee646",
+   "t": "Court blocks bid by Trump DoJ to stop California from counting mail-in ballots",
+   "ko": "법원은 캘리포니아주가 우편 투표용지를 집계하지 못하도록 하는 Trump DoJ의 입찰을 차단했습니다.",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/us-news/2026/oct/26/court-california-ballots",
+   "at": "2026-10-26T22:44:19.000Z",
+   "ev": [],
+   "cc": [
+    "United States"
+   ]
+  },
+  {
+   "id": "a0b1885af390",
+   "t": "Jordan attacks militants in Syria in retaliation for last week’s church attack",
+   "ko": "요르단, 지난주 교회 공격에 대한 보복으로 시리아 무장세력 공격",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/world/2026/oct/26/jordan-attacks-militants-syria-retaliation-for-last-week-church-attack",
+   "at": "2026-10-26T22:08:38.000Z",
+   "ev": [
+    "syria"
+   ],
+   "cc": [
+    "Jordan",
+    "Syria",
+    "Greece"
+   ]
+  },
+  {
+   "id": "17d80dcd0084",
+   "t": "Serbia’s elections: 'Tracking fraud for sure had an impact on the results'",
+   "ko": "세르비아 선거: '사기 추적이 확실히 결과에 영향을 미쳤습니다'",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/europe/20261026-serbia-elections-tracking-fraud-had-an-impact-on-results-vote-fraud",
+   "at": "2026-10-26T21:49:17.000Z",
+   "ev": [],
+   "cc": [
+    "Serbia"
+   ]
+  },
+  {
+   "id": "56e164ae8df4",
+   "t": "Africa food security under threat due to Iran war, trade officials warn",
+   "ko": "이란 전쟁으로 인해 아프리카의 식량 안보가 위협받고 있다고 무역 관계자들이 경고했습니다.",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/10/26/africa-food-security-under-threat-due-to-iran-war-warn-trade-officials?traffic_source=rss",
+   "at": "2026-10-26T21:42:18.000Z",
+   "ev": [
+    "iran"
+   ],
+   "cc": [
+    "Iran"
+   ]
+  },
+  {
+   "id": "7a95f4668772",
+   "t": "The fall of El-Fasher, one year on",
+   "ko": "El-Fasher의 몰락, 1년 후",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/the-fall-of-el-fasher-one-year-on",
+   "at": "2026-10-26T21:26:52.000Z",
+   "ev": [
+    "sudan",
+    "darfur",
+    "niger"
+   ],
+   "cc": [
+    "United Kingdom",
+    "Algeria",
+    "Niger"
+   ]
+  },
+  {
+   "id": "c001d85ddaa3",
+   "t": "Palestinian children crawl under Israeli military gates to get to school",
+   "ko": "팔레스타인 어린이들이 학교에 가기 위해 이스라엘 군 성문 아래로 기어들어갑니다.",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/video/newsfeed/2026/10/26/palestinian-children-crawl-under-israeli-military-gates-to-get-to-school?traffic_source=rss",
+   "at": "2026-10-26T20:46:01.000Z",
+   "ev": [
+    "westbank"
+   ],
+   "cc": [
+    "Palestine",
+    "Israel"
+   ]
+  },
+  {
+   "id": "513f586de3fb",
+   "t": "Huge explosion at a weapons depot in Syria",
+   "ko": "시리아 무기고에서 대규모 폭발 발생",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/video/newsfeed/2026/10/26/huge-explosion-at-a-weapons-depot-in-syria?traffic_source=rss",
+   "at": "2026-10-26T20:41:33.000Z",
+   "ev": [
+    "syria"
+   ],
+   "cc": [
+    "Syria"
+   ]
+  },
+  {
+   "id": "018c83d76b4e",
+   "t": "Protest leaders urge French pupils to keep barricading their schools",
+   "ko": "시위 지도자들은 프랑스 학생들에게 학교에 계속 바리케이드를 쳐줄 것을 촉구했습니다.",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/world/2026/oct/26/protest-leaders-urge-french-students-to-keep-barricading-their-schools",
+   "at": "2026-10-26T20:17:16.000Z",
+   "ev": [],
+   "cc": [
+    "France"
+   ]
+  },
+  {
+   "id": "8d277a70d86c",
+   "t": "‘Deflections’: Abdul El-Sayed responds to Trump’s anti-Muslim attacks",
+   "ko": "'편향': Abdul El-Sayed는 트럼프의 반 무슬림 공격에 대응합니다.",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/10/26/deflections-abdul-el-sayed-responds-to-trumps-anti-muslim-attacks?traffic_source=rss",
+   "at": "2026-10-26T20:17:09.000Z",
+   "ev": [],
+   "cc": [
+    "United States"
+   ]
+  },
+  {
+   "id": "2312f109b425",
+   "t": "80 injured after bus plunges down embankment near Barcelona",
+   "ko": "바르셀로나 인근에서 버스가 제방 아래로 추락해 80명이 부상당했다.",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/video/newsfeed/2026/10/26/80-injured-after-bus-plunges-down-embankment-near-barcelona?traffic_source=rss",
+   "at": "2026-10-26T19:49:31.000Z",
+   "ev": [],
+   "cc": []
+  },
+  {
+   "id": "ee000f77c487",
+   "t": "Jordan arrests three suspects over deadly church attack",
+   "ko": "요르단, 교회 테러 용의자 3명 체포",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/video/newsfeed/2026/10/26/jordan-arrests-three-suspects-over-deadly-church-attack?traffic_source=rss",
+   "at": "2026-10-26T19:25:53.000Z",
+   "ev": [],
+   "cc": [
+    "Jordan"
+   ]
+  },
+  {
    "id": "d13df5515393",
-   "t": "Netanyahu reportedly pressured military to attack Iran in runup to election",
+   "t": "Netanyahu reportedly pressured military to attack Iran in run-up to election",
    "ko": "네타냐후는 선거를 앞두고 군부에 이란을 공격하라고 압력을 가한 것으로 알려졌다.",
    "src": "The Guardian",
    "u": "https://www.theguardian.com/world/2026/oct/26/netanyahu-reportedly-pressured-israel-military-attack-iran-runup-to-election",
@@ -298,14 +480,17 @@
   },
   {
    "id": "3efd5f8667ed",
-   "t": "Jordan arrests three following deadly terror attack on church",
-   "ko": "요르단, 교회 테러로 3명 체포",
+   "t": "Jordan's strikes on Syria over church terror attack kill several civilians",
+   "ko": "요르단, 교회 테러로 시리아 공습으로 민간인 다수 사망",
    "src": "France 24",
    "u": "https://www.france24.com/en/middle-east/20261026-jordan-arrests-three-following-deadly-terror-attack-on-church",
    "at": "2026-10-26T15:12:52.000Z",
-   "ev": [],
+   "ev": [
+    "syria"
+   ],
    "cc": [
-    "Jordan"
+    "Jordan",
+    "Syria"
    ]
   },
   {
@@ -423,19 +608,6 @@
    "at": "2026-10-26T14:01:08.000Z",
    "ev": [],
    "cc": []
-  },
-  {
-   "id": "88dbc3c2dc95",
-   "t": "The chaos in France is a ‘warning signal’ for Australia’s public spending and rising costs",
-   "ko": "프랑스의 혼란은 호주의 공공 지출과 비용 상승에 대한 '경고 신호'입니다.",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/business/2026/oct/27/the-chaos-in-france-is-a-warning-signal-for-australias-public-spending-and-rising-costs",
-   "at": "2026-10-26T14:00:43.000Z",
-   "ev": [],
-   "cc": [
-    "France",
-    "Australia"
-   ]
   },
   {
    "id": "96e8f81e39e5",
@@ -622,6 +794,31 @@
     "Iran",
     "United States"
    ]
+  },
+  {
+   "id": "3263721012d8",
+   "t": "West Bank: Hebron crackdown displaces thousands, Türk warns of ethnic cleansing",
+   "ko": "서안 지구: 헤브론 단속으로 수천 명 이주, 터키, 인종 청소 경고",
+   "src": "UN News",
+   "u": "https://news.un.org/feed/view/en/story/2026/10/1168672",
+   "at": "2026-10-26T12:00:00.000Z",
+   "ev": [
+    "westbank"
+   ],
+   "cc": [
+    "Palestine",
+    "Israel"
+   ]
+  },
+  {
+   "id": "bb27a167d323",
+   "t": "Women and girls’ share of civilian war deaths doubles since 2021",
+   "ko": "내전 사망자 중 여성과 소녀의 비율이 2021년 이후 두 배로 증가",
+   "src": "UN News",
+   "u": "https://news.un.org/feed/view/en/story/2026/10/1168673",
+   "at": "2026-10-26T12:00:00.000Z",
+   "ev": [],
+   "cc": []
   },
   {
    "id": "d5e202ece9d7",
@@ -1907,202 +2104,6 @@
     "Bulgaria",
     "Ukraine"
    ]
-  },
-  {
-   "id": "de065293fd68",
-   "t": "In Bulgaria, record low voter turnout triggers a November 1 presidential run-off in a poll colored by divisions over Ukraine war",
-   "ko": "불가리아에서는 기록적으로 낮은 투표율로 인해 11월 1일 우크라이나 전쟁을 두고 분열된 여론조사에서 대통령 결선투표가 실시되었습니다.",
-   "src": "DW",
-   "u": "https://www.dw.com/en/in-bulgaria-record-low-voter-turnout-triggers-a-november-1-presidential-run-off-in-a-poll-colored-by-divisions-over-ukraine-war/a-79753496?maca=en-rss-en-world-4025-rdf",
-   "at": "2026-10-25T07:19:00.000Z",
-   "ev": [
-    "ukraine"
-   ],
-   "cc": [
-    "Bulgaria",
-    "Ukraine",
-    "Russia"
-   ]
-  },
-  {
-   "id": "a7e791b581a9",
-   "t": "Soldiers guard center of Milan as thousands of protesters march in cities across Europe",
-   "ko": "수천 명의 시위대가 유럽 전역의 도시에서 행진하는 동안 군인들이 밀라노 중심을 지키고 있습니다.",
-   "src": "NPR",
-   "u": "https://www.npr.org/2026/10/25/nx-s1-6016126/thousands-of-protesters-across-europe",
-   "at": "2026-10-25T07:15:00.000Z",
-   "ev": [],
-   "cc": [
-    "France"
-   ]
-  },
-  {
-   "id": "71f214588e05",
-   "t": "Serbia holds parliamentary election as populist leader Vucic faces student movement",
-   "ko": "포퓰리즘 지도자 부치치가 학생 운동에 맞서 세르비아가 의회 선거를 치릅니다.",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/europe/20261025-serbia-holds-parliamentary-election-as-populist-leader-vucic-faces-student-movement",
-   "at": "2026-10-25T07:14:50.000Z",
-   "ev": [],
-   "cc": [
-    "Serbia"
-   ]
-  },
-  {
-   "id": "e229897ccb69",
-   "t": "Zadie Smith tells Dua Lipa inequality has made culture clashes feel ‘existential’",
-   "ko": "Zadie Smith는 Dua Lipa의 불평등으로 인해 문화 충돌이 '실존적'으로 느껴지게 만들었다고 말했습니다.",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/books/2026/oct/25/zadie-smith-tells-dua-lipa-inequality-has-made-culture-clashes-feel-existential",
-   "at": "2026-10-25T07:00:56.000Z",
-   "ev": [],
-   "cc": [
-    "United Kingdom"
-   ]
-  },
-  {
-   "id": "77413990dbda",
-   "t": "Israeli soldiers raze neighbourhood in Hebron, driving families from homes",
-   "ko": "이스라엘 군인들이 헤브론 지역을 파괴하고 가족들을 집에서 몰아냈습니다.",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/world/2026/oct/24/israel-soldiers-raze-west-bank-neighbourhood-hebron-families-from-homes",
-   "at": "2026-10-25T06:24:46.000Z",
-   "ev": [
-    "westbank"
-   ],
-   "cc": [
-    "Israel",
-    "Palestine"
-   ]
-  },
-  {
-   "id": "ff980ece399a",
-   "t": "‘That’s the way the city works’: how the UAE changed the face of Andy Burnham’s Manchester",
-   "ko": "'이것이 도시가 작동하는 방식입니다': UAE가 Andy Burnham의 맨체스터의 얼굴을 어떻게 바꾸었나요?",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/news/ng-interactive/2026/oct/25/thats-the-way-the-city-works-how-the-uae-changed-the-face-of-andy-burnhams-manchester",
-   "at": "2026-10-25T06:00:54.000Z",
-   "ev": [],
-   "cc": [
-    "United Arab Emirates",
-    "United Kingdom",
-    "Egypt"
-   ]
-  },
-  {
-   "id": "952299fc343f",
-   "t": "‘Gaza’s suffering has become campaign fodder’: Palestinians fear the worst from Israel election",
-   "ko": "'가자의 고통은 캠페인의 사료가 되었습니다': 팔레스타인은 이스라엘 선거에서 최악의 상황을 두려워합니다",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/world/2026/oct/25/gaza-suffering-campaign-fodder-palestinians-fear-worst-israel-election",
-   "at": "2026-10-25T06:00:54.000Z",
-   "ev": [
-    "gaza"
-   ],
-   "cc": [
-    "Palestine",
-    "Israel"
-   ]
-  },
-  {
-   "id": "564b78d924ca",
-   "t": "Bots, deepfakes and surveillance: Israel’s election goes to war online",
-   "ko": "봇, 딥페이크, 감시: 이스라엘의 선거가 온라인에서 전쟁을 벌입니다",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/news/2026/10/25/bots-deepfakes-and-surveillance-israels-election-goes-to-war-online?traffic_source=rss",
-   "at": "2026-10-25T05:27:54.000Z",
-   "ev": [],
-   "cc": [
-    "Israel"
-   ]
-  },
-  {
-   "id": "267b41a8194c",
-   "t": "Israel to close West Bank crossings on election day as crackdown escalates",
-   "ko": "이스라엘, 단속 강화로 선거 당일 서안지구 교차로 폐쇄",
-   "src": "BBC",
-   "u": "https://www.bbc.co.uk/news/articles/c6y93ylpl5p2o?at_medium=RSS&at_campaign=rss",
-   "at": "2026-10-25T05:15:52.000Z",
-   "ev": [
-    "westbank"
-   ],
-   "cc": [
-    "Israel",
-    "Palestine"
-   ]
-  },
-  {
-   "id": "771bd5e18c13",
-   "t": "AFP boss says politicians’ heated rhetoric is fuelling threats against MPs",
-   "ko": "AFP 사장은 정치인들의 열띤 수사가 국회의원에 대한 위협을 가중시키고 있다고 말했습니다.",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/australia-news/2026/oct/25/afp-commissioner-krissy-barrett-threats-mps-political-debate-ntwnfb",
-   "at": "2026-10-25T03:54:43.000Z",
-   "ev": [],
-   "cc": [
-    "Australia"
-   ]
-  },
-  {
-   "id": "c1428068d52f",
-   "t": "Thousands rally in Turkiye over journalist arrests, media shutdowns",
-   "ko": "투르키예에서 언론인 체포와 언론 폐쇄로 수천 명이 집회",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/video/newsfeed/2026/10/25/10-25-turkiye-media-crackdown-sv?traffic_source=rss",
-   "at": "2026-10-25T03:47:56.000Z",
-   "ev": [],
-   "cc": [
-    "Turkey"
-   ]
-  },
-  {
-   "id": "8ff3510ef1d1",
-   "t": "Bulgarians vote for president in shadow of Russia’s war on Ukraine",
-   "ko": "러시아의 우크라이나 전쟁을 피해 불가리아인들이 대선에 투표했습니다.",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/news/2026/10/25/bulgarians-vote-for-president-in-shadow-of-russias-war-in-ukraine?traffic_source=rss",
-   "at": "2026-10-25T02:45:43.000Z",
-   "ev": [
-    "ukraine"
-   ],
-   "cc": [
-    "Russia",
-    "Ukraine"
-   ]
-  },
-  {
-   "id": "cc88b6d823e9",
-   "t": "Obama attacks Trump as he campaigns for Democrats ahead of midterm elections",
-   "ko": "오바마, 중간선거 앞두고 민주당 선거운동 중 트럼프 공격",
-   "src": "BBC",
-   "u": "https://www.bbc.co.uk/news/articles/cmj6jwe1j1gjo?at_medium=RSS&at_campaign=rss",
-   "at": "2026-10-25T02:27:15.000Z",
-   "ev": [],
-   "cc": []
-  },
-  {
-   "id": "ad19948ea299",
-   "t": "Myanmar’s Aung San Suu Kyi ‘sounds strong’ but is isolated, son says",
-   "ko": "미얀마의 아웅산 수지 여사는 '강해 보이지만 고립되어 있다'고 아들이 말했다.",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/world/2026/oct/25/myanmar-aung-san-suu-kyi-speaks-son-pr-move",
-   "at": "2026-10-25T02:00:49.000Z",
-   "ev": [
-    "myanmar"
-   ],
-   "cc": [
-    "Myanmar"
-   ]
-  },
-  {
-   "id": "391f8599ec0f",
-   "t": "‘Horrific’: woman, 19, shot in head in drive-by shooting outside boxing event near Brisbane",
-   "ko": "'끔찍한': 19세 여성, 브리즈번 근처 복싱 행사 밖에서 차를 타고 총격을 가하다 머리에 총을 맞았습니다.",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/australia-news/2026/oct/25/drive-by-shooting-loganholme-four-injured-ntwnfb",
-   "at": "2026-10-25T01:41:37.000Z",
-   "ev": [],
-   "cc": []
   }
  ]
 }
