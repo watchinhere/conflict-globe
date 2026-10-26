@@ -1,13 +1,13 @@
 {
- "updated": "2026-10-25T22:48:31.781Z",
+ "updated": "2026-10-26T01:03:21.791Z",
  "sources": {
   "BBC": {
    "ok": true,
-   "n": 13
+   "n": 12
   },
   "Al Jazeera": {
    "ok": true,
-   "n": 10
+   "n": 11
   },
   "The Guardian": {
    "ok": true,
@@ -19,7 +19,7 @@
   },
   "France 24": {
    "ok": true,
-   "n": 13
+   "n": 12
   },
   "UN News": {
    "ok": true,
@@ -27,17 +27,89 @@
   },
   "NPR": {
    "ok": true,
-   "n": 5
+   "n": 4
   }
  },
  "items": [
   {
+   "id": "ed0da1b7fd14",
+   "t": "Xi Jinping’s corruption crackdown in the spotlight as China prepares for meeting of top leaders",
+   "ko": "중국이 최고 지도자 회담을 준비하면서 시진핑의 부패 척결이 주목을 받고 있다",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/world/2026/oct/26/xi-jinping-corruption-crackdown-china-fifth-plenum",
+   "at": "2026-10-26T00:58:25.000Z",
+   "ev": [],
+   "cc": [
+    "China"
+   ]
+  },
+  {
+   "id": "ae996541fc23",
+   "t": "‘Like a stone in our hearts’: PM leads Helen Haines tributes as parliament pauses to praise ‘fighter’",
+   "ko": "'우리 마음 속의 돌처럼': 총리는 의회가 '전사'를 칭찬하기 위해 잠시 멈추는 동안 헬렌 헤인즈 추모를 주도합니다.",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/australia-news/2026/oct/26/albanese-leads-helen-haines-tributes-as-parliament-pauses-ntwnfb",
+   "at": "2026-10-26T00:48:07.000Z",
+   "ev": [],
+   "cc": [
+    "Australia"
+   ]
+  },
+  {
+   "id": "7a8d4de6bcd2",
+   "t": "Bullet left on Victorian Labor minister’s car with ‘RAT’ etched on to it",
+   "ko": "'RAT'가 새겨진 빅토리아 노동부 장관의 차에 총알이 남았습니다.",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/australia-news/2026/oct/26/labor-mp-paul-edbrooke-bullet-on-car-rat-ntwnfb",
+   "at": "2026-10-26T00:11:11.000Z",
+   "ev": [],
+   "cc": []
+  },
+  {
+   "id": "64088e786994",
+   "t": "Trump escalates anti-Muslim rhetoric in fierce attack on El-Sayed",
+   "ko": "트럼프, 엘 사이드에 대한 맹렬한 공격으로 반무슬림 수사 확대",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/video/newsfeed/2026/10/26/trump-escalates-anti-muslim-rhetoric-in-fierce-attack-on-el-sayed?traffic_source=rss",
+   "at": "2026-10-26T00:02:55.000Z",
+   "ev": [],
+   "cc": []
+  },
+  {
+   "id": "d420437ab0c6",
+   "t": "Iran war live: Trump rules out strikes ‘today’; Israeli forces raid Hebron",
+   "ko": "이란 전쟁 생방송: 트럼프는 '오늘' 공격을 배제합니다. 이스라엘군, 헤브론 공습",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/liveblog/2026/10/26/iran-war-live-trump-rules-out-strikes-today-israeli-forces-raid-hebron?traffic_source=rss",
+   "at": "2026-10-26T00:00:00.000Z",
+   "ev": [
+    "iran",
+    "westbank"
+   ],
+   "cc": [
+    "Iran",
+    "Israel"
+   ]
+  },
+  {
+   "id": "3a94b70ec6e9",
+   "t": "Serbian leader Aleksandar Vučić ousted by student movement in seismic election",
+   "ko": "세르비아 지도자 알렉산다르 부치치, 지진 선거에서 학생운동에 의해 축출",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/world/2026/oct/25/serbian-leader-aleksandar-vucic-concedes-defeat-in-fiercely-contested-parliamentary-election",
+   "at": "2026-10-25T23:42:32.000Z",
+   "ev": [],
+   "cc": [
+    "Serbia"
+   ]
+  },
+  {
    "id": "1ecafaded844",
-   "t": "Wild scenes of celebration in Belgrade as Vučić concedes Serbian election – Europe live",
-   "ko": "Vučić가 세르비아 선거를 인정함에 따라 베오그라드에서 열광적인 축하 장면 – 유럽 라이브",
+   "t": "‘Door to EU is open’ new Serbian government told after Vučić concedes election – Europe live as it happened",
+   "ko": "Vučić가 선거를 인정한 후 'EU로 향하는 문이 열려 있습니다'라고 세르비아 새 정부가 밝혔습니다. 유럽은 일어난 일대로 살고 있습니다.",
    "src": "The Guardian",
    "u": "https://www.theguardian.com/world/live/2026/oct/25/europe-serbia-elections-aleksander-vucic-student-list-protests-bulgaria-latest-news-updates",
-   "at": "2026-10-25T22:43:07.000Z",
+   "at": "2026-10-25T23:40:57.000Z",
    "ev": [],
    "cc": [
     "Serbia",
@@ -45,12 +117,37 @@
    ]
   },
   {
-   "id": "3a94b70ec6e9",
-   "t": "Serbian leader Aleksandar Vučić concedes defeat in fiercely contested parliamentary election",
-   "ko": "세르비아 지도자 알렉산다르 부치치가 치열한 의회 선거에서 패배를 인정했습니다.",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/world/2026/oct/25/serbian-leader-aleksandar-vucic-concedes-defeat-in-fiercely-contested-parliamentary-election",
-   "at": "2026-10-25T22:30:22.000Z",
+   "id": "16675e491c28",
+   "t": "Thousands protest in Prague against public media funding reforms",
+   "ko": "프라하에서 수천 명이 공공 미디어 자금 지원 개혁에 반대하는 시위를 벌였습니다.",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/10/25/thousands-protest-in-prague-against-public-media-funding-reforms?traffic_source=rss",
+   "at": "2026-10-25T23:29:13.000Z",
+   "ev": [],
+   "cc": []
+  },
+  {
+   "id": "8389c88075a4",
+   "t": "Report: IDF chief pushes back on Netanyahu's order",
+   "ko": "보고서: IDF 사무총장, 네타냐후의 명령에 반발",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/video/20261025-report-idf-pushes-back-on-netanyahu-s-order",
+   "at": "2026-10-25T23:24:14.000Z",
+   "ev": [
+    "iran"
+   ],
+   "cc": [
+    "Israel",
+    "Iran"
+   ]
+  },
+  {
+   "id": "81bc7b0e59c4",
+   "t": "Serbia's veteran ruler Vučić concedes election to student-led protest movement",
+   "ko": "세르비아의 베테랑 통치자 부치치, 학생 주도 시위 운동에 당선 인정",
+   "src": "BBC",
+   "u": "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo?at_medium=RSS&at_campaign=rss",
+   "at": "2026-10-25T22:54:57.000Z",
    "ev": [],
    "cc": [
     "Serbia"
@@ -66,18 +163,6 @@
    "ev": [],
    "cc": [
     "Israel"
-   ]
-  },
-  {
-   "id": "81bc7b0e59c4",
-   "t": "Serbia's veteran ruler Vučić concedes election to student-led protest movement",
-   "ko": "세르비아의 베테랑 통치자 부치치, 학생 주도 시위 운동에 당선 인정",
-   "src": "BBC",
-   "u": "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo?at_medium=RSS&at_campaign=rss",
-   "at": "2026-10-25T22:06:26.000Z",
-   "ev": [],
-   "cc": [
-    "Serbia"
    ]
   },
   {
@@ -2002,95 +2087,6 @@
     "Israel",
     "Palestine"
    ]
-  },
-  {
-   "id": "b98382bb5afe",
-   "t": "Bolivian teachers strike over wages and education reform",
-   "ko": "볼리비아 교사, 임금 및 교육 개혁 반대 파업",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/video/newsfeed/2026/10/24/bolivian-teachers-strike-over-wages-and-education-reform?traffic_source=rss",
-   "at": "2026-10-24T08:56:54.000Z",
-   "ev": [],
-   "cc": [
-    "Bolivia"
-   ]
-  },
-  {
-   "id": "f8deac049ef3",
-   "t": "White House says Melania Trump brokered truce for Ukraine city 'on brink of disaster'",
-   "ko": "백악관은 멜라니아 트럼프가 '재앙 직전' 우크라이나 도시에 휴전을 중재했다고 밝혔습니다.",
-   "src": "BBC",
-   "u": "https://www.bbc.co.uk/news/articles/c6vgxkvl4w5eo?at_medium=RSS&at_campaign=rss",
-   "at": "2026-10-24T07:17:44.000Z",
-   "ev": [
-    "ukraine"
-   ],
-   "cc": [
-    "Ukraine",
-    "Russia"
-   ]
-  },
-  {
-   "id": "a24112f5c1e4",
-   "t": "Protests against cost of living expected in Italy under heavy security",
-   "ko": "엄격한 보안 하에서 이탈리아에서 예상되는 생활비에 대한 항의",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/europe/20261024-protests-against-cost-of-living-expected-in-italy-under-heavy-security",
-   "at": "2026-10-24T07:08:54.000Z",
-   "ev": [],
-   "cc": [
-    "Italy"
-   ]
-  },
-  {
-   "id": "40b769a71c9a",
-   "t": "Drinking water supplies dwindle in Yemeni city besieged by Houthi rebels",
-   "ko": "후티 반군에 포위된 예멘 도시의 식수 공급이 감소하고 있습니다.",
-   "src": "NPR",
-   "u": "https://www.npr.org/2026/10/24/g-s1-149729/drinking-water-supplies-dwindle-in-yemeni-city-besieged-by-houthi-rebels",
-   "at": "2026-10-24T07:04:13.000Z",
-   "ev": [
-    "iran",
-    "yemen"
-   ],
-   "cc": [
-    "Yemen",
-    "Iran"
-   ]
-  },
-  {
-   "id": "72385b05b12d",
-   "t": "‘It’s part of our history’: can the menú del día survive Spain’s changing eating habits?",
-   "ko": "'그것은 우리 역사의 일부입니다': 메뉴 델 디아는 변화하는 스페인의 식습관 속에서도 살아남을 수 있을까요?",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/world/2026/oct/24/spain-diners-food-restaurants-menu-del-dia",
-   "at": "2026-10-24T06:00:26.000Z",
-   "ev": [],
-   "cc": [
-    "Spain"
-   ]
-  },
-  {
-   "id": "10452ece27d5",
-   "t": "French police deploy in large numbers, major Paris museums close ahead of new protests",
-   "ko": "프랑스 경찰 대거 배치, 새로운 시위에 앞서 파리 주요 박물관 폐쇄",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/france/20261024-french-police-deploy-in-big-numbers-and-paris-shuts-major-museums-ahead-of-new-protests",
-   "at": "2026-10-24T05:27:48.000Z",
-   "ev": [],
-   "cc": [
-    "France"
-   ]
-  },
-  {
-   "id": "99928135601c",
-   "t": "Australian MP's condition improves after alleged car attack",
-   "ko": "호주 국회의원, 차량 공격 혐의로 상태 호전",
-   "src": "BBC",
-   "u": "https://www.bbc.co.uk/news/articles/c670pr1ryxyno?at_medium=RSS&at_campaign=rss",
-   "at": "2026-10-24T01:55:15.000Z",
-   "ev": [],
-   "cc": []
   }
  ]
 }
