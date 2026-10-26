@@ -1,17 +1,17 @@
 {
- "updated": "2026-10-26T13:33:38.417Z",
+ "updated": "2026-10-26T19:33:50.849Z",
  "sources": {
   "BBC": {
    "ok": true,
-   "n": 5
+   "n": 8
   },
   "Al Jazeera": {
    "ok": true,
-   "n": 9
+   "n": 8
   },
   "The Guardian": {
    "ok": true,
-   "n": 21
+   "n": 18
   },
   "DW": {
    "ok": true,
@@ -19,18 +19,452 @@
   },
   "France 24": {
    "ok": true,
-   "n": 11
+   "n": 9
   },
   "UN News": {
    "ok": true,
-   "n": 0
+   "n": 2
   },
   "NPR": {
    "ok": true,
-   "n": 3
+   "n": 2
   }
  },
  "items": [
+  {
+   "id": "d13df5515393",
+   "t": "Netanyahu reportedly pressured military to attack Iran in runup to election",
+   "ko": "네타냐후는 선거를 앞두고 군부에 이란을 공격하라고 압력을 가한 것으로 알려졌다.",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/world/2026/oct/26/netanyahu-reportedly-pressured-israel-military-attack-iran-runup-to-election",
+   "at": "2026-10-26T19:21:36.000Z",
+   "ev": [
+    "iran"
+   ],
+   "cc": [
+    "Iran",
+    "Israel"
+   ]
+  },
+  {
+   "id": "def02738f68d",
+   "t": "Walter Koenig, actor best known as Chekov on Star Trek, dies aged 90",
+   "ko": "스타트렉의 체코프 역으로 잘 알려진 배우 월터 코에닉(Walter Koenig)이 90세의 나이로 사망했습니다.",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/culture/2026/oct/26/walter-koenig-actor-star-trek-dies",
+   "at": "2026-10-26T18:42:11.000Z",
+   "ev": [],
+   "cc": []
+  },
+  {
+   "id": "9bc73d0efca0",
+   "t": "NHS consultants to go on two-day strike in England in November",
+   "ko": "NHS 컨설턴트, 11월 영국에서 이틀간 파업 돌입",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/society/2026/oct/26/nhs-consultants-two-day-doctors-strike-england-november-bma",
+   "at": "2026-10-26T18:05:16.000Z",
+   "ev": [],
+   "cc": [
+    "United Kingdom"
+   ]
+  },
+  {
+   "id": "39b59f3ec0c7",
+   "t": "Could the midterms change US military support for Israel?",
+   "ko": "중간고사로 인해 이스라엘에 대한 미국의 군사적 지원이 바뀔 수 있을까?",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/video/newsfeed/2026/10/26/could-the-midterms-change-americas-military-support-for-israel?traffic_source=rss",
+   "at": "2026-10-26T18:05:12.000Z",
+   "ev": [],
+   "cc": [
+    "United States",
+    "Israel"
+   ]
+  },
+  {
+   "id": "6c19c6fdc3fc",
+   "t": "Fifteen-year-old arrested in shooting near Florida university that injured 12",
+   "ko": "플로리다 대학 근처에서 총격을 가해 12명을 다치게 한 15세 소년 체포",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/us-news/2026/oct/26/florida-famu-shooting-arrest",
+   "at": "2026-10-26T18:01:23.000Z",
+   "ev": [],
+   "cc": [
+    "United States"
+   ]
+  },
+  {
+   "id": "34fc65e85cd0",
+   "t": "UN cites 'ethnic cleansing' concerns around Israel's Palestinian displacement operation in Hebron",
+   "ko": "유엔, 이스라엘 헤브론 팔레스타인 이주작전 '인종청소' 우려 언급",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/middle-east/20261026-un-cites-ethnic-cleansing-concerns-around-israel-palestinian-displacement-operation-hebron",
+   "at": "2026-10-26T17:59:03.000Z",
+   "ev": [
+    "westbank"
+   ],
+   "cc": [
+    "Israel",
+    "Palestine"
+   ]
+  },
+  {
+   "id": "9b5228a9b7e3",
+   "t": "How the streets and social media drove Lula to a historic comeback in Brazil",
+   "ko": "거리와 소셜 미디어가 Lula를 브라질에서 역사적인 복귀로 이끈 방법",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/world/2026/oct/26/lula-victory-brazil-bolsonaro-analysis",
+   "at": "2026-10-26T17:56:50.000Z",
+   "ev": [],
+   "cc": [
+    "Brazil"
+   ]
+  },
+  {
+   "id": "8b79e4718a07",
+   "t": "Algeria’s president orders troop deployment to neighbouring Niger",
+   "ko": "알제리 대통령, 이웃 국가 니제르에 병력 배치 명령",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/10/26/algerias-president-orders-troop-deployment-to-neighbouring-niger?traffic_source=rss",
+   "at": "2026-10-26T17:55:47.000Z",
+   "ev": [
+    "niger"
+   ],
+   "cc": [
+    "Algeria",
+    "Niger"
+   ]
+  },
+  {
+   "id": "9fd4b5936afd",
+   "t": "Father pays tribute to son, six, killed by truck on Kansas soccer field",
+   "ko": "캔자스 축구장에서 트럭에 치여 숨진 6살 아들에게 아버지 추모",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/us-news/2026/oct/26/cole-adrian-tribute-kansas-soccer",
+   "at": "2026-10-26T17:50:50.000Z",
+   "ev": [],
+   "cc": []
+  },
+  {
+   "id": "87149bc8fa42",
+   "t": "French student union leaders call for 'continued mobilisation' after meeting PM",
+   "ko": "프랑스 학생회 지도부, 총리 면담 후 '지속적인 동원' 촉구",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/video/20261026-french-student-union-leaders-call-for-continued-mobilisation-after-meeting-pm",
+   "at": "2026-10-26T17:37:05.000Z",
+   "ev": [],
+   "cc": [
+    "France"
+   ]
+  },
+  {
+   "id": "a9056f279417",
+   "t": "Russian attacks on Ukraine’s energy infrastructure a war crime: UN",
+   "ko": "우크라이나 에너지 기반 시설에 대한 러시아의 공격은 전쟁 범죄입니다: UN",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/10/26/russian-attacks-on-ukraines-energy-infrastructure-a-war-crime-un?traffic_source=rss",
+   "at": "2026-10-26T17:27:34.000Z",
+   "ev": [
+    "ukraine"
+   ],
+   "cc": [
+    "Russia",
+    "Ukraine"
+   ]
+  },
+  {
+   "id": "68843c69dcc2",
+   "t": "Opponents accuse Netanyahu of stoking tensions with Iran before Israel's election",
+   "ko": "반대자들은 네타냐후가 이스라엘 선거 전에 이란과 긴장을 고조시켰다고 비난합니다.",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/opponents-accuse-netanyahu-of-stoking-tensions-with-iran-before-israel-s-election",
+   "at": "2026-10-26T17:11:03.000Z",
+   "ev": [
+    "iran"
+   ],
+   "cc": [
+    "Iran",
+    "Israel"
+   ]
+  },
+  {
+   "id": "333d63b9b449",
+   "t": "Algeria to send troops to Niger in first foreign deployment since 1973",
+   "ko": "알제리, 1973년 이후 첫 해외파병으로 니제르에 군대 파병",
+   "src": "BBC",
+   "u": "https://www.bbc.co.uk/news/articles/cm4g14n1e5wko?at_medium=RSS&at_campaign=rss",
+   "at": "2026-10-26T17:00:09.000Z",
+   "ev": [
+    "niger"
+   ],
+   "cc": [
+    "Algeria",
+    "Niger",
+    "Libya"
+   ]
+  },
+  {
+   "id": "cea6dc9ca79a",
+   "t": "Guterres warns of ‘unimaginable’ consequences of Iran-Gulf escalation",
+   "ko": "구테레스, 이란-걸프만 확대로 인한 '상상할 수 없는' 결과 경고",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/video/newsfeed/2026/10/26/guterres-warns-iran-gulf-escalation-west-bank?traffic_source=rss",
+   "at": "2026-10-26T16:39:48.000Z",
+   "ev": [
+    "iran"
+   ],
+   "cc": []
+  },
+  {
+   "id": "d1857281bdb5",
+   "t": "More than 60 Christians killed in Ethiopia 'massacre', church official says",
+   "ko": "에티오피아 '대량 학살'로 기독교인 60명 이상 사망",
+   "src": "BBC",
+   "u": "https://www.bbc.co.uk/news/articles/cm4g175dgdx2o?at_medium=RSS&at_campaign=rss",
+   "at": "2026-10-26T16:31:09.000Z",
+   "ev": [
+    "ethiopia"
+   ],
+   "cc": [
+    "Ethiopia"
+   ]
+  },
+  {
+   "id": "6854ffe0ab02",
+   "t": "France protests: Macron rules out state of emergency – for now",
+   "ko": "프랑스 시위: 마크롱은 현재로서는 비상사태를 배제한다",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/video/20261026-france-protests-macron-rules-out-state-of-emergency-%E2%80%93-for-now",
+   "at": "2026-10-26T16:16:44.000Z",
+   "ev": [],
+   "cc": [
+    "France"
+   ]
+  },
+  {
+   "id": "462fda5da447",
+   "t": "Police arrest teenager after shooting that injured 12, including children, in Florida",
+   "ko": "플로리다에서 어린이를 포함해 12명이 다친 총격 사건 이후 경찰이 10대를 체포했습니다.",
+   "src": "BBC",
+   "u": "https://www.bbc.co.uk/news/articles/ckpdg8vnv171o?at_medium=RSS&at_campaign=rss",
+   "at": "2026-10-26T15:45:30.000Z",
+   "ev": [],
+   "cc": [
+    "United States"
+   ]
+  },
+  {
+   "id": "2d6382e08911",
+   "t": "Israel committing crimes against humanity in occupied West Bank: UN",
+   "ko": "이스라엘, 점령된 서안지구에서 반인도적 범죄 저지르고 있다: UN",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/10/26/israel-committing-crimes-against-humanity-in-occupied-west-bank-un?traffic_source=rss",
+   "at": "2026-10-26T15:44:59.000Z",
+   "ev": [
+    "westbank"
+   ],
+   "cc": [
+    "Israel",
+    "Palestine"
+   ]
+  },
+  {
+   "id": "53fb2e117f15",
+   "t": "Egyptian parliament authorises military aid for Saudi Arabia",
+   "ko": "이집트 의회, 사우디아라비아에 대한 군사 지원 승인",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/10/26/egyptian-parliament-authorises-military-aid-for-saudi-arabia?traffic_source=rss",
+   "at": "2026-10-26T15:41:29.000Z",
+   "ev": [
+    "yemen"
+   ],
+   "cc": [
+    "Egypt",
+    "Saudi Arabia",
+    "Yemen"
+   ]
+  },
+  {
+   "id": "706af2d11176",
+   "t": "How 'Lula's Army' WhatsApp channel helped turn Brazil election around",
+   "ko": "'룰라의 군대' WhatsApp 채널이 브라질 선거를 반전시키는 데 어떻게 도움을 주었나요?",
+   "src": "BBC",
+   "u": "https://www.bbc.co.uk/news/articles/cwz0vg4v3ndeo?at_medium=RSS&at_campaign=rss",
+   "at": "2026-10-26T15:37:33.000Z",
+   "ev": [],
+   "cc": [
+    "Brazil"
+   ]
+  },
+  {
+   "id": "3efd5f8667ed",
+   "t": "Jordan arrests three following deadly terror attack on church",
+   "ko": "요르단, 교회 테러로 3명 체포",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/middle-east/20261026-jordan-arrests-three-following-deadly-terror-attack-on-church",
+   "at": "2026-10-26T15:12:52.000Z",
+   "ev": [],
+   "cc": [
+    "Jordan"
+   ]
+  },
+  {
+   "id": "f85225e6ef5d",
+   "t": "UK sanctions Sudanese military leaders implicated in El Fasher ‘campaign of rape’",
+   "ko": "영국, 엘 파셰르 '강간 캠페인'에 연루된 수단 군부 지도자 제재",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/global-development/2026/oct/26/uk-sanctions-sudanese-military-leaders-implicated-in-el-fasher-campaign-of",
+   "at": "2026-10-26T15:07:23.000Z",
+   "ev": [
+    "sudan",
+    "darfur"
+   ],
+   "cc": [
+    "United Kingdom",
+    "Sudan"
+   ]
+  },
+  {
+   "id": "1b37813cef7c",
+   "t": "Why Ukraine may be involved in Mali's conflict",
+   "ko": "우크라이나가 말리 분쟁에 개입하는 이유",
+   "src": "DW",
+   "u": "https://www.dw.com/en/why-ukraine-may-be-involved-in-mali-s-conflict/a-79743423?maca=en-rss-en-world-4025-rdf",
+   "at": "2026-10-26T14:58:00.000Z",
+   "ev": [
+    "ukraine",
+    "sahel"
+   ],
+   "cc": [
+    "Ukraine",
+    "Mali",
+    "Russia"
+   ]
+  },
+  {
+   "id": "706943c19016",
+   "t": "Macron promises 'concrete measures' in response to French students' demands",
+   "ko": "마크롱, 프랑스 학생들 요구에 '구체적 조치' 약속",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/video/20261026-french-president-promises-concrete-measures-in-response-to-french-students-demands",
+   "at": "2026-10-26T14:39:15.000Z",
+   "ev": [],
+   "cc": [
+    "France"
+   ]
+  },
+  {
+   "id": "81bc7b0e59c4",
+   "t": "Celebrations in Serbia after veteran ruler Vučić loses election to student-led protest movement",
+   "ko": "베테랑 통치자 부치치(Vučić)가 학생 주도 시위 운동에 패배한 후 세르비아에서 축하 행사가 열렸습니다.",
+   "src": "BBC",
+   "u": "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo?at_medium=RSS&at_campaign=rss",
+   "at": "2026-10-26T14:34:52.000Z",
+   "ev": [],
+   "cc": [
+    "Serbia"
+   ]
+  },
+  {
+   "id": "be9a91a0caad",
+   "t": "Rohingya dismantle homes amid eviction threat in disputed Kashmir region",
+   "ko": "로힝야족, 분쟁 지역 카슈미르 지역에서 퇴거 위협 속에 주택 철거",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/video/newsfeed/2026/10/26/rohingya-deported-disputed-kashmir-region?traffic_source=rss",
+   "at": "2026-10-26T14:31:42.000Z",
+   "ev": [
+    "rohingya"
+   ],
+   "cc": [
+    "Kashmir"
+   ]
+  },
+  {
+   "id": "c9833fcbd131",
+   "t": "Chris Brown given suspended eight-month prison sentence over nightclub attack",
+   "ko": "나이트클럽 공격 크리스 브라운, 징역 8개월 집행유예 선고",
+   "src": "BBC",
+   "u": "https://www.bbc.co.uk/news/articles/cq3dje4g4d5jo?at_medium=RSS&at_campaign=rss",
+   "at": "2026-10-26T14:16:09.000Z",
+   "ev": [],
+   "cc": []
+  },
+  {
+   "id": "093bff8763ff",
+   "t": "US Marine indicted for murder and robbery of woman in Japan",
+   "ko": "일본에서 여성 살해 및 강도 혐의로 미 해병대 기소",
+   "src": "BBC",
+   "u": "https://www.bbc.co.uk/news/articles/c3vgxjex1z9wo?at_medium=RSS&at_campaign=rss",
+   "at": "2026-10-26T14:13:18.000Z",
+   "ev": [],
+   "cc": [
+    "United States",
+    "Japan"
+   ]
+  },
+  {
+   "id": "9de4a37c48ba",
+   "t": "Serbia's Vucic concedes defeat to the student-led movement: What's next?",
+   "ko": "세르비아의 부치치(Vucic)는 학생 주도 운동의 패배를 인정합니다. 다음은 무엇입니까?",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/serbia-s-vucic-concedes-defeat-to-the-student-led-movement-what-s-next",
+   "at": "2026-10-26T14:12:08.000Z",
+   "ev": [],
+   "cc": [
+    "Serbia"
+   ]
+  },
+  {
+   "id": "2605ca46eb82",
+   "t": "The Price of Protest",
+   "ko": "항의의 대가",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/video/game-theory/2026/10/26/the-price-of-protest?traffic_source=rss",
+   "at": "2026-10-26T14:01:08.000Z",
+   "ev": [],
+   "cc": []
+  },
+  {
+   "id": "88dbc3c2dc95",
+   "t": "The chaos in France is a ‘warning signal’ for Australia’s public spending and rising costs",
+   "ko": "프랑스의 혼란은 호주의 공공 지출과 비용 상승에 대한 '경고 신호'입니다.",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/business/2026/oct/27/the-chaos-in-france-is-a-warning-signal-for-australias-public-spending-and-rising-costs",
+   "at": "2026-10-26T14:00:43.000Z",
+   "ev": [],
+   "cc": [
+    "France",
+    "Australia"
+   ]
+  },
+  {
+   "id": "96e8f81e39e5",
+   "t": "Will Netanyahu's security promise win him this election?",
+   "ko": "네타냐후의 안보 공약이 이번 선거에서 승리할 것인가?",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/video/20261026-will-netanyahu-s-security-promise-win-him-this-election",
+   "at": "2026-10-26T13:52:32.000Z",
+   "ev": [
+    "gaza"
+   ],
+   "cc": [
+    "Israel",
+    "Palestine"
+   ]
+  },
+  {
+   "id": "f801024f7f71",
+   "t": "Japanese prosecutors charge US marine suspected of robbing and killing woman",
+   "ko": "일본 검찰, 여성을 강탈하고 살해한 혐의로 미 해병대 기소",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/world/2026/oct/26/japanese-prosecuters-charge-marine-killing",
+   "at": "2026-10-26T13:41:41.000Z",
+   "ev": [],
+   "cc": [
+    "Japan",
+    "United States"
+   ]
+  },
   {
    "id": "0b0981130510",
    "t": "Trump intensifies anti-Muslim rhetoric against Abdul El-Sayed at Michigan rally – US politics live",
@@ -74,34 +508,9 @@
    ]
   },
   {
-   "id": "f801024f7f71",
-   "t": "Japanese prosecutors charge US marine suspected of robbing and killing woman",
-   "ko": "일본 검찰, 여성을 강탈하고 살해한 혐의로 미 해병대 기소",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/world/2026/oct/26/japanese-prosecuters-charge-marine-killing",
-   "at": "2026-10-26T12:52:39.000Z",
-   "ev": [],
-   "cc": [
-    "Japan",
-    "United States"
-   ]
-  },
-  {
-   "id": "81bc7b0e59c4",
-   "t": "Celebrations in Serbia after veteran ruler Vučić loses election to student-led protest movement",
-   "ko": "베테랑 통치자 부치치(Vučić)가 학생 주도 시위 운동에 패배한 후 세르비아에서 축하 행사가 열렸습니다.",
-   "src": "BBC",
-   "u": "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo?at_medium=RSS&at_campaign=rss",
-   "at": "2026-10-26T12:52:16.000Z",
-   "ev": [],
-   "cc": [
-    "Serbia"
-   ]
-  },
-  {
    "id": "4281dfc3dc4f",
-   "t": "Live: France will maintain order without state of emergency, but it’s not off the table, Macron says",
-   "ko": "라이브: 프랑스는 비상사태 없이 질서를 유지할 것이지만, 테이블에서 벗어날 수는 없다고 마크롱은 말했습니다.",
+   "t": "Live: French student representatives hail ‘concrete measures’, call for protests to continue",
+   "ko": "생방송: 프랑스 학생 대표들은 '구체적인 조치'를 환영하며 시위를 계속할 것을 촉구합니다.",
    "src": "France 24",
    "u": "https://www.france24.com/en/france/20261026-live-france-will-maintain-order-without-state-of-emergency-but-it-s-not-off-the-table-macron-says",
    "at": "2026-10-26T12:47:12.000Z",
@@ -181,6 +590,37 @@
    "ev": [],
    "cc": [
     "Israel"
+   ]
+  },
+  {
+   "id": "ce87bcf1c893",
+   "t": "Ukraine: Investigators find Russia committed war crimes by targeting civilians",
+   "ko": "우크라이나: 수사관들은 러시아가 민간인을 표적으로 삼아 전쟁 범죄를 저질렀다고 결론 내렸습니다.",
+   "src": "UN News",
+   "u": "https://news.un.org/feed/view/en/story/2026/10/1168670",
+   "at": "2026-10-26T12:00:00.000Z",
+   "ev": [
+    "ukraine"
+   ],
+   "cc": [
+    "Ukraine",
+    "Russia"
+   ]
+  },
+  {
+   "id": "80ce4086e420",
+   "t": "In Egypt, Guterres warns against Iran-US escalation",
+   "ko": "이집트에서 구테레스는 이란-미국의 고조에 대해 경고했습니다.",
+   "src": "UN News",
+   "u": "https://news.un.org/feed/view/en/story/2026/10/1168669",
+   "at": "2026-10-26T12:00:00.000Z",
+   "ev": [
+    "iran"
+   ],
+   "cc": [
+    "Egypt",
+    "Iran",
+    "United States"
    ]
   },
   {
@@ -306,33 +746,6 @@
    ],
    "cc": [
     "Iran"
-   ]
-  },
-  {
-   "id": "9bc73d0efca0",
-   "t": "NHS consultants to go on two-day strike in England in November, says BMA",
-   "ko": "NHS 컨설턴트들이 11월 영국에서 이틀간 파업을 벌일 것이라고 BMA가 밝혔습니다.",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/society/2026/oct/26/nhs-consultants-two-day-doctors-strike-england-november-bma",
-   "at": "2026-10-26T10:24:51.000Z",
-   "ev": [],
-   "cc": [
-    "United Kingdom"
-   ]
-  },
-  {
-   "id": "0903a788bdc2",
-   "t": "Algeria to send troops to Niger in first foreign deployment in over 50 years",
-   "ko": "알제리, 50년 만에 처음으로 해외 파병으로 니제르에 병력 파병",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/africa/20261026-algeria-to-send-troops-to-niger-in-first-foreign-deployment-in-over-50-years",
-   "at": "2026-10-26T10:10:40.000Z",
-   "ev": [
-    "niger"
-   ],
-   "cc": [
-    "Algeria",
-    "Niger"
    ]
   },
   {
@@ -1690,416 +2103,6 @@
    "at": "2026-10-25T01:41:37.000Z",
    "ev": [],
    "cc": []
-  },
-  {
-   "id": "32ee042ed749",
-   "t": "Obama slams Trump’s ‘cruelty and corruption’ as he rallies Democrats",
-   "ko": "오바마, 민주당 결집하면서 트럼프의 '잔인함과 부패' 비난",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/news/2026/10/25/obama-slams-trumps-cruelty-and-corruption-at-ohio-rally-for-democrats?traffic_source=rss",
-   "at": "2026-10-25T00:34:43.000Z",
-   "ev": [
-    "iran"
-   ],
-   "cc": [
-    "United States",
-    "Iran"
-   ]
-  },
-  {
-   "id": "b5a818332fc4",
-   "t": "Violence breaks out across Europe after another day of protests",
-   "ko": "또 다른 시위 끝에 유럽 전역에서 폭력 사태가 발생했습니다.",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/video/newsfeed/2026/10/25/10-25-sv-europe-protests-wrap?traffic_source=rss",
-   "at": "2026-10-25T00:23:48.000Z",
-   "ev": [],
-   "cc": [
-    "France",
-    "Italy",
-    "Spain"
-   ]
-  },
-  {
-   "id": "7e387a717793",
-   "t": "California leader calls attack on alleged noncitizen voting ‘weaponizing the law’",
-   "ko": "캘리포니아 지도자, 비시민권자 투표에 대한 공격이 '법을 무기화'한다고 비난",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/us-news/2026/oct/24/california-noncitizen-voting-trump-administration",
-   "at": "2026-10-25T00:16:17.000Z",
-   "ev": [],
-   "cc": [
-    "United States"
-   ]
-  },
-  {
-   "id": "f56489691918",
-   "t": "Obama rallies rapturous Michigan crowd for El-Sayed: ‘He’ll finish the job we started’",
-   "ko": "오바마는 El-Sayed를 위해 열광적인 미시간 군중을 집결시켰습니다: '그는 우리가 시작한 일을 끝낼 것입니다'",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/us-news/2026/oct/24/barack-obama-abdul-el-sayed-michigan",
-   "at": "2026-10-25T00:14:30.000Z",
-   "ev": [],
-   "cc": [
-    "United States"
-   ]
-  },
-  {
-   "id": "dcab83100042",
-   "t": "Iran war live: Trump hints at possible Sunday Iran attack or deal reached",
-   "ko": "이란 전쟁 생중계 : 트럼프는 일요일이란 공격이나 협상 가능성을 암시",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/news/liveblog/2026/10/25/iran-war-live-trump-hints-at-possible-sunday-iran-attack-or-deal-reached?traffic_source=rss",
-   "at": "2026-10-25T00:00:00.000Z",
-   "ev": [
-    "iran"
-   ],
-   "cc": [
-    "Iran",
-    "United States"
-   ]
-  },
-  {
-   "id": "21d813484d13",
-   "t": "Trump lauds Melania over Russia-Ukraine localised ceasefire deal",
-   "ko": "트럼프, 러시아-우크라이나 국지적 휴전 협정에 대해 멜라니아 칭찬",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/video/newsfeed/2026/10/24/trump-lauds-melania-over-russia-ukraine-localised-ceasefire-deal?traffic_source=rss",
-   "at": "2026-10-24T23:08:16.000Z",
-   "ev": [
-    "ukraine"
-   ],
-   "cc": []
-  },
-  {
-   "id": "7b01f4c96719",
-   "t": "The bitter row over military service that could shape Israel's future",
-   "ko": "이스라엘의 미래를 결정할 수 있는 군 복무를 둘러싼 격렬한 논쟁",
-   "src": "BBC",
-   "u": "https://www.bbc.co.uk/news/articles/cmvg7w0x742do?at_medium=RSS&at_campaign=rss",
-   "at": "2026-10-24T23:03:21.000Z",
-   "ev": [],
-   "cc": [
-    "Israel"
-   ]
-  },
-  {
-   "id": "32151483ad18",
-   "t": "Palestinian families displaced as Israeli forces demolish Hebron homes",
-   "ko": "이스라엘군이 헤브론 가옥을 철거하자 팔레스타인 가족들이 난민이 되었습니다.",
-   "src": "BBC",
-   "u": "https://www.bbc.co.uk/news/articles/cqd09k1k7532o?at_medium=RSS&at_campaign=rss",
-   "at": "2026-10-24T23:02:06.000Z",
-   "ev": [
-    "westbank"
-   ],
-   "cc": [
-    "Palestine",
-    "Israel"
-   ]
-  },
-  {
-   "id": "8586632337f3",
-   "t": "Gunmen kill at least 10 people in eastern Nigeria, police say",
-   "ko": "나이지리아 동부에서 무장괴한이 최소 10명을 살해했다고 경찰이 밝혔습니다.",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/news/2026/10/24/gunmen-kill-at-least-10-people-in-eastern-nigeria-police-say?traffic_source=rss",
-   "at": "2026-10-24T22:35:45.000Z",
-   "ev": [
-    "nigeria"
-   ],
-   "cc": [
-    "Nigeria"
-   ]
-  },
-  {
-   "id": "b5e8121a445c",
-   "t": "How have Democrats’ policies shifted since the last major US election?",
-   "ko": "지난 주요 미국 선거 이후 민주당의 정책은 어떻게 바뀌었나요?",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/economy/2026/10/24/how-have-democrats-policies-shifted-since-the-last-major-us-election?traffic_source=rss",
-   "at": "2026-10-24T22:28:37.000Z",
-   "ev": [
-    "gaza"
-   ],
-   "cc": [
-    "United States",
-    "Israel",
-    "Palestine"
-   ]
-  },
-  {
-   "id": "42d3f00a8fa6",
-   "t": "Iran blames US for deal failure, urges new try amid fear of new attacks",
-   "ko": "이란, 협상 실패에 대해 미국을 비난하고 새로운 공격에 대한 두려움 속에 새로운 시도 촉구",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/news/2026/10/24/iran-blames-us-for-deal-failure-urges-new-try-amid-fear-of-new-attacks?traffic_source=rss",
-   "at": "2026-10-24T21:30:11.000Z",
-   "ev": [
-    "iran"
-   ],
-   "cc": [
-    "Iran",
-    "United States"
-   ]
-  },
-  {
-   "id": "67efb573cd48",
-   "t": "Ukraine’s military says Starlink satellite connection stable after recent restrictions",
-   "ko": "우크라이나 군, 최근 제한 이후 스타링크 위성 연결이 안정적이라고 밝혔습니다.",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/world/2026/oct/24/ukraine-zelenskyy-military-starlink-satellite-connection-stable-after-restrictions",
-   "at": "2026-10-24T21:25:58.000Z",
-   "ev": [
-    "ukraine"
-   ],
-   "cc": [
-    "Ukraine",
-    "United States"
-   ]
-  },
-  {
-   "id": "5595aadb526c",
-   "t": "Protests roil France once again as police seek to quell violence",
-   "ko": "경찰이 폭력 진압에 나서자 시위가 다시 한번 프랑스를 뒤흔든다.",
-   "src": "NPR",
-   "u": "https://www.npr.org/2026/10/24/nx-s1-6014520/protests-roil-france-once-again-as-police-seek-to-quell-violence",
-   "at": "2026-10-24T21:21:00.000Z",
-   "ev": [],
-   "cc": [
-    "France"
-   ]
-  },
-  {
-   "id": "25c2c85b0f31",
-   "t": "More than one million Lula supporters rally on eve of Brazilian election runoff",
-   "ko": "브라질 총선 결선 전날 룰라 지지자 100만 명 이상 집회",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/world/2026/oct/24/lula-da-silva-supporters-rally-eve-brazil-election-runoff-bolsonaro",
-   "at": "2026-10-24T21:10:23.000Z",
-   "ev": [],
-   "cc": [
-    "Brazil"
-   ]
-  },
-  {
-   "id": "250c5583ffcd",
-   "t": "Houthis launch attacks on Saudi Arabia and Yemen’s Aden",
-   "ko": "후티 반군, 사우디아라비아와 예멘 아덴 공격 개시",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/news/2026/10/24/houthis-launch-attacks-on-saudi-arabia-and-yemens-aden?traffic_source=rss",
-   "at": "2026-10-24T21:08:51.000Z",
-   "ev": [
-    "yemen"
-   ],
-   "cc": [
-    "Saudi Arabia",
-    "Yemen"
-   ]
-  },
-  {
-   "id": "8dae61c39e35",
-   "t": "Government says protests across France 'went well' despite nearly 1,000 arrests",
-   "ko": "정부는 거의 1000명에 가까운 체포에도 불구하고 프랑스 전역의 시위가 '잘 진행됐다'고 말했습니다.",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/france/20261024-the-marches-went-well-%E2%80%93-french-government-on-demonstrations-a-week-after-looting-and-violence",
-   "at": "2026-10-24T21:01:56.000Z",
-   "ev": [],
-   "cc": [
-    "France"
-   ]
-  },
-  {
-   "id": "fa76e78e76ed",
-   "t": "Violent clashes as Albanian government cracks down on protests",
-   "ko": "알바니아 정부가 시위를 진압하면서 폭력적인 충돌이 발생했습니다.",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/video/newsfeed/2026/10/24/aje-onl-nf_clashes-as-albanian-pm-cracks-down-on-protests-241026?traffic_source=rss",
-   "at": "2026-10-24T20:39:08.000Z",
-   "ev": [],
-   "cc": [
-    "Albania"
-   ]
-  },
-  {
-   "id": "67d46dfd6733",
-   "t": "Could Israel’s military crackdown influence Tuesday’s election?",
-   "ko": "이스라엘의 군사적 탄압이 화요일 선거에 영향을 미칠 수 있을까?",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/video/inside-story/2026/10/24/could-israels-military-crackdown-influence-tuesdays-election?traffic_source=rss",
-   "at": "2026-10-24T20:37:02.000Z",
-   "ev": [
-    "westbank"
-   ],
-   "cc": [
-    "Israel",
-    "Palestine"
-   ]
-  },
-  {
-   "id": "85a48481e4d4",
-   "t": "Hundreds of thousands march in France as protests take place across Europe – as it happened",
-   "ko": "유럽 ​​전역에서 시위가 벌어지자 프랑스에서는 수십만 명이 행진했습니다.",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/world/live/2026/oct/24/france-demonstrations-police-macron-italy-albania-belgium-spain-ukraine-russia-europe-latest-news",
-   "at": "2026-10-24T20:22:18.000Z",
-   "ev": [
-    "ukraine",
-    "belgium"
-   ],
-   "cc": [
-    "France",
-    "Italy",
-    "Spain"
-   ]
-  },
-  {
-   "id": "5c65300146f1",
-   "t": "Six Flags to reopen Goliath rollercoaster – but now with seatbelts after recent rider death",
-   "ko": "Six Flags, 골리앗 롤러코스터 재개장 – 최근 라이더 사망 이후 안전벨트 착용",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/us-news/2026/oct/24/six-flags-goliath-rollercoaster-seatbelts",
-   "at": "2026-10-24T19:44:36.000Z",
-   "ev": [],
-   "cc": [
-    "Georgia"
-   ]
-  },
-  {
-   "id": "26282d0195bf",
-   "t": "Fireworks and tear gas as protesters and riot police clash in Paris",
-   "ko": "파리에서 시위대와 진압 경찰이 충돌하면서 불꽃놀이와 최루탄",
-   "src": "BBC",
-   "u": "https://www.bbc.co.uk/news/videos/cm89zqw9lx1do?at_medium=RSS&at_campaign=rss",
-   "at": "2026-10-24T19:37:35.000Z",
-   "ev": [],
-   "cc": []
-  },
-  {
-   "id": "e13f657c6aa5",
-   "t": "Thousands of Israelis rally against Netanyahu gov’t days before election",
-   "ko": "수천명의 이스라엘인들이 선거를 며칠 앞두고 네타냐후 정부에 반대하는 집회를 열었습니다.",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/news/2026/10/24/thousands-of-israelis-rally-against-netanyahu-govt-days-before-election?traffic_source=rss",
-   "at": "2026-10-24T19:11:48.000Z",
-   "ev": [],
-   "cc": []
-  },
-  {
-   "id": "8c2dce852bc6",
-   "t": "Thousands join Paris protests as authorities clamp down on disorder",
-   "ko": "당국의 무질서 진압에 수천 명이 파리 시위에 동참",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/video/newsfeed/2026/10/24/thousands-join-paris-protests-as-authorities-clamp-down-on-disorder?traffic_source=rss",
-   "at": "2026-10-24T19:01:52.000Z",
-   "ev": [],
-   "cc": []
-  },
-  {
-   "id": "43fd91571768",
-   "t": "France: Watching the Post-Riot Protests",
-   "ko": "프랑스: 폭동 이후 시위를 지켜보다",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/tv-shows/spotlight/20261024-france-watching-the-post-riot-protests",
-   "at": "2026-10-24T18:42:27.000Z",
-   "ev": [],
-   "cc": [
-    "France"
-   ]
-  },
-  {
-   "id": "506b03091307",
-   "t": "Thousands gather at new Albanian antigovernment rally",
-   "ko": "새로운 알바니아 반정부 집회에 수천 명이 모였습니다",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/news/2026/10/24/thousands-gather-at-new-albanian-antigovernment-rally?traffic_source=rss",
-   "at": "2026-10-24T18:30:56.000Z",
-   "ev": [],
-   "cc": []
-  },
-  {
-   "id": "b93548b6584f",
-   "t": "Thousands take to Tel Aviv's streets for protests against Netanyahu",
-   "ko": "수천 명이 네타냐후 반대 시위를 위해 텔아비브 거리로 나섰습니다.",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/middle-east/20261024-thousands-take-to-tel-aviv-streets-for-protests-against-netanyahu",
-   "at": "2026-10-24T18:21:55.000Z",
-   "ev": [
-    "gaza"
-   ],
-   "cc": [
-    "Israel",
-    "Palestine"
-   ]
-  },
-  {
-   "id": "19c0d49aeb1d",
-   "t": "Musk says SpaceX did restrict Starlink, as Ukraine says the tech has been restored",
-   "ko": "머스크는 우크라이나가 기술이 복원되었다고 말했듯이 SpaceX가 Starlink를 제한했다고 말했습니다.",
-   "src": "NPR",
-   "u": "https://www.npr.org/2026/10/24/nx-s1-6015482/ukraine-starlink-working-after-disruptions",
-   "at": "2026-10-24T17:54:25.000Z",
-   "ev": [
-    "ukraine"
-   ],
-   "cc": [
-    "Ukraine"
-   ]
-  },
-  {
-   "id": "f6e6e35452ad",
-   "t": "Yemen's Houthi rebels claim new attacks on oil facilities and airports across Saudi Arabia",
-   "ko": "예멘 후티 반군, 사우디아라비아 전역의 석유 시설과 공항에 대한 새로운 공격 주장",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/middle-east/20261024-yemen-s-houthi-rebels-claim-new-attacks-on-oil-facilities-and-airports-across-saudi-arabia",
-   "at": "2026-10-24T17:50:25.000Z",
-   "ev": [
-    "iran",
-    "yemen"
-   ],
-   "cc": [
-    "Yemen",
-    "Saudi Arabia"
-   ]
-  },
-  {
-   "id": "e163e675e5da",
-   "t": "France: Clashes erupt as protests sweep across cities",
-   "ko": "프랑스: 도시 전역에서 시위가 휩쓸면서 충돌이 발생했습니다.",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/video/20261024-france-clashes-erupt-as-protests-sweep-across-cities",
-   "at": "2026-10-24T17:50:19.000Z",
-   "ev": [],
-   "cc": [
-    "France"
-   ]
-  },
-  {
-   "id": "64f7defd22cd",
-   "t": "Israel begins demolitions in West Bank",
-   "ko": "이스라엘, 서안지구 철거 시작",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/israel-begins-demolitions-in-west-bank",
-   "at": "2026-10-24T17:13:56.000Z",
-   "ev": [
-    "westbank"
-   ],
-   "cc": [
-    "Israel",
-    "Palestine"
-   ]
-  },
-  {
-   "id": "15466d6ba416",
-   "t": "Italy hit by new cost of living protests",
-   "ko": "이탈리아, 새로운 생활비 시위로 타격",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/italy-hit-by-new-cost-of-living-protests",
-   "at": "2026-10-24T17:12:54.000Z",
-   "ev": [],
-   "cc": [
-    "Italy"
-   ]
   }
  ]
 }
