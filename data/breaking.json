@@ -1,17 +1,17 @@
 {
- "updated": "2026-10-26T06:24:45.590Z",
+ "updated": "2026-10-26T13:33:38.417Z",
  "sources": {
   "BBC": {
    "ok": true,
-   "n": 11
+   "n": 5
   },
   "Al Jazeera": {
    "ok": true,
-   "n": 8
+   "n": 9
   },
   "The Guardian": {
    "ok": true,
-   "n": 15
+   "n": 21
   },
   "DW": {
    "ok": true,
@@ -19,18 +19,476 @@
   },
   "France 24": {
    "ok": true,
-   "n": 10
+   "n": 11
   },
   "UN News": {
    "ok": true,
-   "n": 1
+   "n": 0
   },
   "NPR": {
    "ok": true,
-   "n": 4
+   "n": 3
   }
  },
  "items": [
+  {
+   "id": "0b0981130510",
+   "t": "Trump intensifies anti-Muslim rhetoric against Abdul El-Sayed at Michigan rally – US politics live",
+   "ko": "트럼프, 미시간 집회에서 압둘 엘 사이드에 대한 반무슬림 수사 강화 – 미국 정치 생방송",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/us-news/live/2026/oct/26/donald-trump-abdul-el-sayed-midterms-michigan-rally-space-latest-us-politics-news-updates",
+   "at": "2026-10-26T13:28:48.000Z",
+   "ev": [
+    "iran"
+   ],
+   "cc": [
+    "United States",
+    "Iran"
+   ]
+  },
+  {
+   "id": "e8f1bf2957c3",
+   "t": "Israel expands expulsions in occupied West Bank to cement control",
+   "ko": "이스라엘, 통제 강화 위해 서안지구 추방 확대",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/10/26/israel-expands-occupied-west-bank-expulsions-to-cement-control?traffic_source=rss",
+   "at": "2026-10-26T13:11:08.000Z",
+   "ev": [
+    "westbank"
+   ],
+   "cc": [
+    "Israel",
+    "Palestine"
+   ]
+  },
+  {
+   "id": "16493eb57fed",
+   "t": "UK looking to give carmakers incentives to turn EVs into ‘power plants on wheels’",
+   "ko": "영국은 자동차 제조업체에 EV를 '바퀴 달린 발전소'로 전환하기 위한 인센티브를 제공하려고 합니다.",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/environment/2026/oct/26/uk-carmakers-evs-automatic-charge-sell-electricity-back-to-grid-technology",
+   "at": "2026-10-26T13:00:42.000Z",
+   "ev": [],
+   "cc": [
+    "United Kingdom"
+   ]
+  },
+  {
+   "id": "f801024f7f71",
+   "t": "Japanese prosecutors charge US marine suspected of robbing and killing woman",
+   "ko": "일본 검찰, 여성을 강탈하고 살해한 혐의로 미 해병대 기소",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/world/2026/oct/26/japanese-prosecuters-charge-marine-killing",
+   "at": "2026-10-26T12:52:39.000Z",
+   "ev": [],
+   "cc": [
+    "Japan",
+    "United States"
+   ]
+  },
+  {
+   "id": "81bc7b0e59c4",
+   "t": "Celebrations in Serbia after veteran ruler Vučić loses election to student-led protest movement",
+   "ko": "베테랑 통치자 부치치(Vučić)가 학생 주도 시위 운동에 패배한 후 세르비아에서 축하 행사가 열렸습니다.",
+   "src": "BBC",
+   "u": "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo?at_medium=RSS&at_campaign=rss",
+   "at": "2026-10-26T12:52:16.000Z",
+   "ev": [],
+   "cc": [
+    "Serbia"
+   ]
+  },
+  {
+   "id": "4281dfc3dc4f",
+   "t": "Live: France will maintain order without state of emergency, but it’s not off the table, Macron says",
+   "ko": "라이브: 프랑스는 비상사태 없이 질서를 유지할 것이지만, 테이블에서 벗어날 수는 없다고 마크롱은 말했습니다.",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/france/20261026-live-france-will-maintain-order-without-state-of-emergency-but-it-s-not-off-the-table-macron-says",
+   "at": "2026-10-26T12:47:12.000Z",
+   "ev": [],
+   "cc": [
+    "France"
+   ]
+  },
+  {
+   "id": "66dbcf0ed3c1",
+   "t": "Israel braces for national elections seen as a referendum on Netanyahu",
+   "ko": "이스라엘, 네타냐후 국민투표로 간주되는 총선 준비",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/israel-braces-for-national-elections-seen-as-a-referendum-on-netanyahu",
+   "at": "2026-10-26T12:35:55.000Z",
+   "ev": [],
+   "cc": [
+    "Israel"
+   ]
+  },
+  {
+   "id": "f9a74a7017a7",
+   "t": "Chris Brown given suspended sentence over bottle attack at London club",
+   "ko": "크리스 브라운, 런던 클럽에서 술병 공격한 혐의로 집행유예 선고",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/music/2026/oct/26/chris-brown-suspended-sentence-bottle-attack-london-club",
+   "at": "2026-10-26T12:28:24.000Z",
+   "ev": [],
+   "cc": []
+  },
+  {
+   "id": "4c11aa8ce040",
+   "t": "Macron vows ‘concrete’ measures to address student demands after unrest",
+   "ko": "마크롱은 불안 이후 학생들의 요구를 해결하기 위한 '구체적인' 조치를 다짐했습니다.",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/france/20261026-macron-vows-concrete-measures-to-address-student-demands-after-unrest",
+   "at": "2026-10-26T12:25:21.000Z",
+   "ev": [],
+   "cc": [
+    "France"
+   ]
+  },
+  {
+   "id": "746de2895ae5",
+   "t": "French PM meets student representatives after weeks of protests",
+   "ko": "프랑스 총리, 몇 주 간의 시위 끝에 학생 대표 만나",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/french-pm-meets-student-representatives-after-weeks-of-protests",
+   "at": "2026-10-26T12:20:14.000Z",
+   "ev": [],
+   "cc": [
+    "France"
+   ]
+  },
+  {
+   "id": "d59fc7e1559c",
+   "t": "Israeli forces kill at least five people in Gaza, including 7-year-old girl",
+   "ko": "이스라엘군, 가자지구서 7세 소녀 포함 최소 5명 사살",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/10/26/israeli-forces-kill-at-least-five-people-in-gaza-including-7-year-old-girl?traffic_source=rss",
+   "at": "2026-10-26T12:17:02.000Z",
+   "ev": [
+    "gaza"
+   ],
+   "cc": [
+    "Israel",
+    "Palestine"
+   ]
+  },
+  {
+   "id": "e96556a2e0d6",
+   "t": "Israel: Arab Israeli voters could prove decisive in the upcoming elections",
+   "ko": "이스라엘: 아랍계 이스라엘 유권자들이 다가오는 선거에서 결정적인 역할을 할 수 있을 것입니다.",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/israel-arab-israeli-voters-could-prove-decisive-in-the-upcoming-elections",
+   "at": "2026-10-26T12:13:13.000Z",
+   "ev": [],
+   "cc": [
+    "Israel"
+   ]
+  },
+  {
+   "id": "d5e202ece9d7",
+   "t": "A look at the main issues in Israeli elections seen as a referendum on Netanyahu",
+   "ko": "네타냐후 국민투표로 보는 이스라엘 선거 주요 쟁점 살펴보기",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/video/20261026-a-look-at-the-main-issues-in-israeli-elections-seen-as-a-referendum-on-netanyahu",
+   "at": "2026-10-26T11:59:34.000Z",
+   "ev": [
+    "gaza"
+   ],
+   "cc": [
+    "Israel"
+   ]
+  },
+  {
+   "id": "df1393a16b80",
+   "t": "Israeli election seen as a referendum: For or against Netanyahu?",
+   "ko": "이스라엘 선거는 국민투표로 간주된다: 네타냐후를 지지할 것인가, 반대할 것인가?",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/tv-shows/focus/20261026-israeli-election-seen-as-a-referendum-for-or-against-netanyahu",
+   "at": "2026-10-26T11:40:25.000Z",
+   "ev": [
+    "iran",
+    "gaza",
+    "lebanon"
+   ],
+   "cc": [
+    "Israel",
+    "Palestine",
+    "Iran"
+   ]
+  },
+  {
+   "id": "6333a388ac31",
+   "t": "Australians should prepare for online services to go down unexpectedly as threats rise, cyber agency warns",
+   "ko": "호주인들은 위협이 증가함에 따라 온라인 서비스가 예기치 않게 다운되는 것에 대비해야 한다고 사이버 기관이 경고했습니다.",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/technology/2026/oct/26/australians-should-prepare-for-online-services-to-go-down-unexpectedly-as-threats-rise-cyber-agency-warns",
+   "at": "2026-10-26T11:30:40.000Z",
+   "ev": [],
+   "cc": []
+  },
+  {
+   "id": "1c4f8c9da40a",
+   "t": "Jordan arrests three suspects over church attack in dawn raid: What to know",
+   "ko": "요르단, 새벽 급습으로 교회 공격 용의자 3명 체포",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/10/26/jordan-arrests-three-suspects-over-church-attack-in-dawn-raid-what-to-know?traffic_source=rss",
+   "at": "2026-10-26T11:08:48.000Z",
+   "ev": [],
+   "cc": [
+    "Jordan"
+   ]
+  },
+  {
+   "id": "cd2b4b335ed7",
+   "t": "'An everyday habit': 2.5 billion lines of cocaine snorted in England per year",
+   "ko": "'일상의 습관': 영국에서 연간 25억 줄의 코카인 흡입",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/tv-shows/press-review/20261026-an-everyday-habit-2-5-billion-lines-of-cocaine-snorted-in-england-per-year",
+   "at": "2026-10-26T11:05:47.000Z",
+   "ev": [
+    "iran"
+   ],
+   "cc": [
+    "United Kingdom",
+    "Brazil",
+    "Iran"
+   ]
+  },
+  {
+   "id": "bd58bf8f95ef",
+   "t": "Key European defence ministers meet in Paris to discuss Ukraine support",
+   "ko": "유럽 ​​주요 국방장관, 파리서 만나 우크라이나 지원 논의",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/10/26/key-european-defence-ministers-meet-in-paris-to-discuss-ukraine-support?traffic_source=rss",
+   "at": "2026-10-26T11:04:55.000Z",
+   "ev": [
+    "ukraine"
+   ],
+   "cc": [
+    "Ukraine",
+    "France",
+    "Germany"
+   ]
+  },
+  {
+   "id": "79e3e3e646b1",
+   "t": "Anthropic’s Claude AI model accessed Georgia voter data in US",
+   "ko": "Anthropic의 Claude AI 모델은 미국 조지아 유권자 데이터에 액세스했습니다.",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/technology/2026/oct/26/anthropics-claude-ai-model-accessed-georgia-voter-data-in-us",
+   "at": "2026-10-26T11:03:33.000Z",
+   "ev": [],
+   "cc": [
+    "Georgia",
+    "United States"
+   ]
+  },
+  {
+   "id": "2d8dc57323c2",
+   "t": "Saudi-led coalition says it struck Houthi missile facilities",
+   "ko": "사우디 주도 연합군, 후티 미사일 시설 공습",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/10/26/saudi-led-coalition-says-it-struck-houthi-missile-facilities?traffic_source=rss",
+   "at": "2026-10-26T10:41:23.000Z",
+   "ev": [
+    "yemen"
+   ],
+   "cc": []
+  },
+  {
+   "id": "1fc158ac434d",
+   "t": "European gas prices soar to four-year high over winter supply fears",
+   "ko": "유럽 ​​휘발유 가격, 겨울 공급 우려로 4년래 최고치로 급등",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/business/2026/oct/26/european-gas-prices-four-year-high-winter-supply-fears-middle-east",
+   "at": "2026-10-26T10:35:24.000Z",
+   "ev": [
+    "iran"
+   ],
+   "cc": [
+    "Iran"
+   ]
+  },
+  {
+   "id": "9bc73d0efca0",
+   "t": "NHS consultants to go on two-day strike in England in November, says BMA",
+   "ko": "NHS 컨설턴트들이 11월 영국에서 이틀간 파업을 벌일 것이라고 BMA가 밝혔습니다.",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/society/2026/oct/26/nhs-consultants-two-day-doctors-strike-england-november-bma",
+   "at": "2026-10-26T10:24:51.000Z",
+   "ev": [],
+   "cc": [
+    "United Kingdom"
+   ]
+  },
+  {
+   "id": "0903a788bdc2",
+   "t": "Algeria to send troops to Niger in first foreign deployment in over 50 years",
+   "ko": "알제리, 50년 만에 처음으로 해외 파병으로 니제르에 병력 파병",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/africa/20261026-algeria-to-send-troops-to-niger-in-first-foreign-deployment-in-over-50-years",
+   "at": "2026-10-26T10:10:40.000Z",
+   "ev": [
+    "niger"
+   ],
+   "cc": [
+    "Algeria",
+    "Niger"
+   ]
+  },
+  {
+   "id": "37448fd2d892",
+   "t": "Sudan paramilitary drone strikes cause mass power cuts in eastern states",
+   "ko": "수단 준군사 드론 공격으로 동부 주에서 대규모 정전 발생",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/world/2026/oct/26/sudan-paramilitary-drone-strikes-rapid-support-forces-power-cuts-eastern-states",
+   "at": "2026-10-26T09:59:27.000Z",
+   "ev": [
+    "sudan"
+   ],
+   "cc": [
+    "Sudan"
+   ]
+  },
+  {
+   "id": "6f83f983c37c",
+   "t": "Saudi Arabia confirms January start for Asian Cup 2027 despite attacks",
+   "ko": "사우디아라비아, 테러에도 불구하고 2027년 아시안컵 1월 개막 확정",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/sports/2026/10/26/saudi-arabia-confirms-january-start-for-asian-cup-2027-despite-attacks?traffic_source=rss",
+   "at": "2026-10-26T09:52:58.000Z",
+   "ev": [],
+   "cc": [
+    "Saudi Arabia",
+    "Palestine"
+   ]
+  },
+  {
+   "id": "009d913e6b14",
+   "t": "Algeria’s military deployment to Niger: What’s behind the move?",
+   "ko": "알제리의 니제르 파병: 그 배경은 무엇입니까?",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/10/26/algerias-military-deployment-to-niger-whats-behind-the-move?traffic_source=rss",
+   "at": "2026-10-26T09:52:11.000Z",
+   "ev": [
+    "niger"
+   ],
+   "cc": [
+    "Algeria",
+    "Niger"
+   ]
+  },
+  {
+   "id": "975d800f22c2",
+   "t": "Palestinians are opening their doors to the displaced of besieged Hebron",
+   "ko": "팔레스타인인들이 포위된 헤브론의 난민들에게 문을 열고 있다",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/10/26/palestinians-are-opening-their-doors-to-the-displaced-of-besieged-hebron?traffic_source=rss",
+   "at": "2026-10-26T09:45:25.000Z",
+   "ev": [
+    "westbank"
+   ],
+   "cc": [
+    "Israel",
+    "Palestine"
+   ]
+  },
+  {
+   "id": "45058f0246d0",
+   "t": "Serbia's student movement ousts longtime leader Vucic in parliament poll",
+   "ko": "세르비아 학생운동, 의회 여론조사에서 오랜 지도자 부치치를 축출",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/serbia-s-student-movement-ousts-longtime-leader-vucic-in-parliament-poll",
+   "at": "2026-10-26T09:41:14.000Z",
+   "ev": [],
+   "cc": [
+    "Serbia"
+   ]
+  },
+  {
+   "id": "bcda5d5d0e24",
+   "t": "Do Palestinians in Gaza expect anything to change after Israel’s election?",
+   "ko": "가자 지구의 팔레스타인인들은 이스라엘의 선거 이후 어떤 변화가 있을 것으로 예상합니까?",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/10/26/do-palestinians-in-gaza-expect-anything-to-change-after-israels-election?traffic_source=rss",
+   "at": "2026-10-26T08:43:39.000Z",
+   "ev": [
+    "gaza"
+   ],
+   "cc": [
+    "Palestine",
+    "Israel"
+   ]
+  },
+  {
+   "id": "56a7e27836c6",
+   "t": "Russia says it will open humanitarian corridor to Ukrainian town",
+   "ko": "러시아, 우크라이나 마을에 인도주의적 통로 열어줄 것",
+   "src": "NPR",
+   "u": "https://www.npr.org/2026/10/26/nx-s1-6014540/russia-says-it-will-open-humanitarian-corridor-to-ukrainian-town",
+   "at": "2026-10-26T08:42:00.000Z",
+   "ev": [
+    "ukraine"
+   ],
+   "cc": [
+    "Russia",
+    "Ukraine"
+   ]
+  },
+  {
+   "id": "597c50354d4d",
+   "t": "Paris welcomes first NFL game with a party a day after protests",
+   "ko": "파리, 시위 다음날 파티로 첫 NFL 경기 환영",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/sport/20261026-paris-welcomes-first-nfl-game-with-a-party-a-day-after-protests",
+   "at": "2026-10-26T07:41:40.000Z",
+   "ev": [],
+   "cc": [
+    "France"
+   ]
+  },
+  {
+   "id": "77bf582ae5d8",
+   "t": "‘It’s collective punishment’: nearly 2,000 Palestinians in Hebron displaced as Israeli forces take over homes",
+   "ko": "'집단 처벌': 이스라엘군이 집을 점령하자 헤브론에서 약 2,000명의 팔레스타인 난민이 발생",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/world/2026/oct/26/collective-punishment-palestinians-displaced-israeli-forces-take-over-hebron-homes",
+   "at": "2026-10-26T07:00:25.000Z",
+   "ev": [
+    "westbank"
+   ],
+   "cc": [
+    "Israel",
+    "Palestine"
+   ]
+  },
+  {
+   "id": "3624607e43ac",
+   "t": "Brazil keeps left: what Lula’s victory means for his country and beyond",
+   "ko": "브라질은 좌파를 유지한다: 룰라의 승리가 조국과 그 너머에 어떤 의미를 갖는가",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/world/2026/oct/26/brazil-presidential-elections-luiz-inacio-lula-da-silva-flavio-bolsonaro",
+   "at": "2026-10-26T06:44:33.000Z",
+   "ev": [
+    "westbank"
+   ],
+   "cc": [
+    "Brazil",
+    "Serbia",
+    "United Kingdom"
+   ]
+  },
+  {
+   "id": "f58f6e11de08",
+   "t": "Angus Taylor criticised for ‘tone deaf’ response to alleged attack on Helen Haines",
+   "ko": "앵거스 테일러(Angus Taylor)는 헬렌 헤인스(Helen Haines)에 대한 공격 혐의에 대해 '음치' 반응을 보였다고 비판받았다.",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/australia-news/2026/oct/26/angus-taylor-criticised-for-tone-deaf-response-to-alleged-attack-on-helen-haines-ntwnfb",
+   "at": "2026-10-26T06:41:36.000Z",
+   "ev": [],
+   "cc": [
+    "Australia"
+   ]
+  },
   {
    "id": "3084ac86d423",
    "t": "The French government is hiding behind a ‘riots’ narrative",
@@ -123,18 +581,6 @@
    "at": "2026-10-26T02:38:37.000Z",
    "ev": [],
    "cc": []
-  },
-  {
-   "id": "81bc7b0e59c4",
-   "t": "Celebrations in Serbia after veteran ruler Vučić loses election to student-led protest movement",
-   "ko": "베테랑 통치자 부치치(Vučić)가 학생 주도 시위 운동에 패배한 후 세르비아에서 축하 행사가 열렸습니다.",
-   "src": "BBC",
-   "u": "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo?at_medium=RSS&at_campaign=rss",
-   "at": "2026-10-26T01:07:05.000Z",
-   "ev": [],
-   "cc": [
-    "Serbia"
-   ]
   },
   {
    "id": "ed0da1b7fd14",
@@ -1653,433 +2099,6 @@
    "ev": [],
    "cc": [
     "Italy"
-   ]
-  },
-  {
-   "id": "2b2456a068b2",
-   "t": "Paris: 70.000 police officers deployed nationwide",
-   "ko": "파리: 전국적으로 70,000명의 경찰 배치",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/paris-70-000-police-officers-deployed-nationwide",
-   "at": "2026-10-24T17:11:44.000Z",
-   "ev": [],
-   "cc": [
-    "France"
-   ]
-  },
-  {
-   "id": "665f7b85102a",
-   "t": "France: Protests continue while police fire tear gas at demonstrators",
-   "ko": "프랑스: 경찰이 시위대를 향해 최루탄을 발사하는 동안 시위는 계속된다",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/france-protests-continue-while-police-fire-tear-gas-at-demonstrators",
-   "at": "2026-10-24T17:10:42.000Z",
-   "ev": [],
-   "cc": [
-    "France"
-   ]
-  },
-  {
-   "id": "cd4dcbb52d31",
-   "t": "Hundreds of Italian soldiers deployed as thousands protest in Milan",
-   "ko": "밀라노에서 수천 명의 시위에 수백 명의 이탈리아 군인 배치",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/news/2026/10/24/security-forces-deploy-as-milan-braces-for-another-day-of-protests?traffic_source=rss",
-   "at": "2026-10-24T15:05:58.000Z",
-   "ev": [],
-   "cc": [
-    "Italy"
-   ]
-  },
-  {
-   "id": "1b68b35e23f7",
-   "t": "🔴 French protests live: Police fire teargas at demonstrators in cities including Toulouse, Lyon",
-   "ko": "🔴 프랑스 시위 생중계: 툴루즈, 리옹 등 도시의 시위대를 향해 경찰이 최루탄을 발사합니다.",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/france/20261024-live-hundreds-of-protests-expected-in-france-amid-high-tensions-and-heavy-police-presence",
-   "at": "2026-10-24T14:41:05.000Z",
-   "ev": [],
-   "cc": [
-    "France"
-   ]
-  },
-  {
-   "id": "2861c27cad41",
-   "t": "Full lockdown of occupied West Bank begins",
-   "ko": "점령된 서안 지구 전면 봉쇄 시작",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/video/newsfeed/2026/10/24/full-lockdown-of-occupied-west-bank-begins-2?traffic_source=rss",
-   "at": "2026-10-24T14:24:19.000Z",
-   "ev": [
-    "westbank"
-   ],
-   "cc": [
-    "Palestine",
-    "Israel"
-   ]
-  },
-  {
-   "id": "4ebdb696244c",
-   "t": "Nine killed and 40 injured after gunmen open fire at church funeral in Jordan",
-   "ko": "요르단 교회 장례식에서 무장괴한이 총격을 가해 9명이 숨지고 40명이 부상당했다.",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/world/2026/oct/24/seven-killed-and-40-injured-after-gunmen-open-fire-at-church-funeral-in-jordan",
-   "at": "2026-10-24T14:24:15.000Z",
-   "ev": [],
-   "cc": [
-    "Jordan",
-    "Greece"
-   ]
-  },
-  {
-   "id": "9b5397f83bd4",
-   "t": "Ukraine says Starlink restored as attacks continue in Russia and Ukraine",
-   "ko": "우크라이나는 러시아와 우크라이나에서 공격이 계속됨에 따라 Starlink가 복원되었다고 밝혔습니다.",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/news/2026/10/24/ukraine-says-starlink-restored-as-attacks-continue-in-russia-and-ukraine?traffic_source=rss",
-   "at": "2026-10-24T14:23:40.000Z",
-   "ev": [
-    "ukraine"
-   ],
-   "cc": [
-    "Ukraine",
-    "Russia",
-    "United States"
-   ]
-  },
-  {
-   "id": "bbd544681eb9",
-   "t": "Turkey's new deal on Mediterranean maritime boundaries with Libya is exacerbating issues with Greece and the EU",
-   "ko": "리비아와 지중해 해양 경계에 대한 터키의 새로운 계약은 그리스 및 EU와의 문제를 악화시키고 있습니다.",
-   "src": "DW",
-   "u": "https://www.dw.com/en/turkey-s-new-deal-on-mediterranean-maritime-boundaries-with-libya-is-exacerbating-issues-with-greece-and-the-eu/a-79745971?maca=en-rss-en-world-4025-rdf",
-   "at": "2026-10-24T14:09:00.000Z",
-   "ev": [],
-   "cc": [
-    "Turkey",
-    "Libya",
-    "Greece"
-   ]
-  },
-  {
-   "id": "a1b1d4f238b9",
-   "t": "Israel to close all West Bank land crossings on election day",
-   "ko": "이스라엘, 선거 당일 서안지구 육로 교차점 모두 폐쇄",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/middle-east/20261024-israel-to-close-all-land-crossings-with-west-bank-on-election-day",
-   "at": "2026-10-24T13:52:55.000Z",
-   "ev": [
-    "westbank"
-   ],
-   "cc": [
-    "Israel",
-    "Palestine"
-   ]
-  },
-  {
-   "id": "a0356421da8e",
-   "t": "Israeli forces displace 2,000 Palestinians in Hebron after deadly attack on soldiers",
-   "ko": "이스라엘군, 군인들에 대한 치명적인 공격으로 헤브론에서 팔레스타인인 2000명 대피",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/middle-east/20261024-israeli-forces-displace-1-200-palestinians-in-hebron-after-deadly-attack-on-soldiers",
-   "at": "2026-10-24T13:50:12.000Z",
-   "ev": [
-    "westbank"
-   ],
-   "cc": [
-    "Israel",
-    "Palestine"
-   ]
-  },
-  {
-   "id": "22f134b46229",
-   "t": "Who was behind the deadly church shooting in Jordan?",
-   "ko": "요르단에서 발생한 교회 총격 사건의 배후는 누구였습니까?",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/news/2026/10/24/who-was-behind-the-deadly-church-shooting-in-jordan?traffic_source=rss",
-   "at": "2026-10-24T13:39:26.000Z",
-   "ev": [],
-   "cc": [
-    "Jordan"
-   ]
-  },
-  {
-   "id": "e244bfe3d58c",
-   "t": "Fresh protests across France",
-   "ko": "프랑스 전역에서 새로운 시위",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/fresh-protests-across-france",
-   "at": "2026-10-24T13:22:01.000Z",
-   "ev": [],
-   "cc": [
-    "France"
-   ]
-  },
-  {
-   "id": "6e92c728a2f7",
-   "t": "Macron condemns racist terrorist attack in Paris suburb",
-   "ko": "마크롱, 파리 교외 인종차별 테러 비난",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/macron-condemns-racist-terrorist-attack-in-paris-suburb",
-   "at": "2026-10-24T13:21:02.000Z",
-   "ev": [],
-   "cc": [
-    "France"
-   ]
-  },
-  {
-   "id": "6b2ecbe52519",
-   "t": "France: Anti-far-right protest in Orleans",
-   "ko": "프랑스: 오를레앙에서 반극우 시위",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/france-anti-far-right-protest-in-orleans",
-   "at": "2026-10-24T13:19:54.000Z",
-   "ev": [],
-   "cc": [
-    "France"
-   ]
-  },
-  {
-   "id": "4c6ff3701179",
-   "t": "Paris: Protest starts at Porte d'Italie, after last-minute change to the route",
-   "ko": "파리: 막바지 경로 변경 후 Porte d'Italie에서 시위가 시작됩니다.",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/paris-protest-starts-at-porte-d-italie-after-last-minute-change-to-the-route",
-   "at": "2026-10-24T13:18:52.000Z",
-   "ev": [],
-   "cc": [
-    "France"
-   ]
-  },
-  {
-   "id": "c19a3b2667ef",
-   "t": "Armed Israeli settlers try to break into Palestinian grandfather’s home",
-   "ko": "이스라엘 무장 정착민, 팔레스타인 할아버지 집에 침입 시도",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/video/newsfeed/2026/10/24/armed-israeli-settlers-try-to-break-into-palestinian-grandfathers-home?traffic_source=rss",
-   "at": "2026-10-24T13:16:23.000Z",
-   "ev": [
-    "westbank"
-   ],
-   "cc": [
-    "Israel",
-    "Palestine"
-   ]
-  },
-  {
-   "id": "6c74f5573fbb",
-   "t": "Andrew Smith warns that policing, political blame are no substitute for social reform & public trust",
-   "ko": "앤드류 스미스(Andrew Smith)는 치안 유지와 정치적 비난이 사회 개혁과 대중의 신뢰를 대체할 수 없다고 경고합니다.",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/andrew-smith-warns-that-policing-political-blame-are-no-substitute-for-social-reform-public-trust",
-   "at": "2026-10-24T13:09:03.000Z",
-   "ev": [],
-   "cc": [
-    "France"
-   ]
-  },
-  {
-   "id": "3451c6a9097d",
-   "t": "Iran says won’t allow US warships to get close as Trump ponders new attacks",
-   "ko": "이란은 트럼프가 새로운 공격을 고려함에 따라 미국 군함이 접근하는 것을 허용하지 않을 것이라고 밝혔습니다.",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/news/2026/10/24/iran-says-wont-allow-us-warships-to-get-close-as-trump-ponders-new-attacks?traffic_source=rss",
-   "at": "2026-10-24T13:06:03.000Z",
-   "ev": [
-    "iran"
-   ],
-   "cc": [
-    "Iran",
-    "United States"
-   ]
-  },
-  {
-   "id": "9660a4d97590",
-   "t": "Jordan’s King Abdullah orders firm response after deadly church attack",
-   "ko": "요르단 국왕 압둘라, 치명적인 교회 공격 이후 단호한 대응 명령",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/news/2026/10/24/jordans-king-abdullah-orders-firm-response-after-deadly-church-attack?traffic_source=rss",
-   "at": "2026-10-24T13:02:51.000Z",
-   "ev": [],
-   "cc": [
-    "Jordan"
-   ]
-  },
-  {
-   "id": "423568baefcb",
-   "t": "France protests updates: 135 arrested as marches held under tight security",
-   "ko": "프랑스 시위 업데이트: 삼엄한 보안 속에서 진행된 행진으로 135명 체포",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/news/liveblog/2026/10/24/france-protests-live-135-arrested-as-marches-held-under-tight-security?traffic_source=rss",
-   "at": "2026-10-24T12:55:37.000Z",
-   "ev": [],
-   "cc": [
-    "France"
-   ]
-  },
-  {
-   "id": "947c5af9b863",
-   "t": "Is Iran planning attacks on Americans; why is the US on alert?",
-   "ko": "이란은 미국인에 대한 공격을 계획하고 있습니까? 미국은 왜 경계하는가?",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/news/2026/10/24/is-iran-planning-attacks-on-americans-why-is-the-us-on-alert?traffic_source=rss",
-   "at": "2026-10-24T12:51:21.000Z",
-   "ev": [
-    "iran"
-   ],
-   "cc": [
-    "Iran",
-    "United States"
-   ]
-  },
-  {
-   "id": "8b4dc9f3945d",
-   "t": "Ukraine says Starlink connection 'now stable' after network limits",
-   "ko": "우크라이나, 네트워크 제한 이후 스타링크 연결 '이제 안정적'",
-   "src": "BBC",
-   "u": "https://www.bbc.co.uk/news/articles/cwkg5md14j8go?at_medium=RSS&at_campaign=rss",
-   "at": "2026-10-24T12:12:40.000Z",
-   "ev": [
-    "ukraine"
-   ],
-   "cc": [
-    "Ukraine"
-   ]
-  },
-  {
-   "id": "3dc7471b1a1d",
-   "t": "Women ‘first to suffer’ under siege, first to step up as frontline responders in Sudan",
-   "ko": "포위 공격으로 '처음으로 고통받는' 여성, 수단 최전선 대응자로 나서다",
-   "src": "UN News",
-   "u": "https://news.un.org/feed/view/en/story/2026/10/1168663",
-   "at": "2026-10-24T12:00:00.000Z",
-   "ev": [
-    "sudan"
-   ],
-   "cc": [
-    "Sudan"
-   ]
-  },
-  {
-   "id": "45b93fa6540e",
-   "t": "Gunmen open fire at a church during a funeral in Jordan, killing 7 and wounding 40",
-   "ko": "요르단 장례식 도중 무장괴한들이 교회에 총격을 가해 7명이 사망하고 40명이 부상당했다.",
-   "src": "NPR",
-   "u": "https://www.npr.org/2026/10/24/nx-s1-6015414/shooting-church-jordan",
-   "at": "2026-10-24T11:59:08.000Z",
-   "ev": [],
-   "cc": [
-    "Jordan",
-    "Greece"
-   ]
-  },
-  {
-   "id": "c48ae075790e",
-   "t": "Czech Republic advances media funding overhaul despite criticism",
-   "ko": "체코, 비판에도 불구하고 미디어 자금 개편 추진",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/news/2026/10/24/czech-republic-advances-media-funding-overhaul-despite-criticism?traffic_source=rss",
-   "at": "2026-10-24T11:50:32.000Z",
-   "ev": [],
-   "cc": [
-    "Czech Republic"
-   ]
-  },
-  {
-   "id": "cccc74162351",
-   "t": "France: Thousands march in Orléans against National Rally congress",
-   "ko": "프랑스: 국민집회대회에 반대하는 오를레앙에서 수천명의 행진",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/video/20261024-france-thousands-march-in-orl%C3%A9ans-against-national-rally-congress",
-   "at": "2026-10-24T11:45:20.000Z",
-   "ev": [],
-   "cc": [
-    "France"
-   ]
-  },
-  {
-   "id": "d4be46f47ff6",
-   "t": "European student protests take aim at Serbia's elections",
-   "ko": "유럽 ​​학생 시위, 세르비아 선거 겨냥",
-   "src": "NPR",
-   "u": "https://www.npr.org/2026/10/24/nx-s1-6012799/european-student-protests-take-aim-at-serbias-elections",
-   "at": "2026-10-24T11:42:11.000Z",
-   "ev": [],
-   "cc": [
-    "Serbia"
-   ]
-  },
-  {
-   "id": "c89bbb2c09f3",
-   "t": "France: Young demonstrators demand concrete action from Macron",
-   "ko": "프랑스: 젊은 시위자들, 마크롱에게 구체적인 행동 촉구",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/france-young-demonstrators-demand-concrete-action-from-macron",
-   "at": "2026-10-24T11:41:17.000Z",
-   "ev": [],
-   "cc": [
-    "France"
-   ]
-  },
-  {
-   "id": "bc48687ca89f",
-   "t": "France braces for new protests",
-   "ko": "프랑스, 새로운 시위에 대비하다",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/france-braces-for-new-protests",
-   "at": "2026-10-24T11:36:24.000Z",
-   "ev": [],
-   "cc": [
-    "France"
-   ]
-  },
-  {
-   "id": "5b15fa73b2d6",
-   "t": "Medical experts shocked by Tennessee team’s ‘malpractice’ in Christa Pike’s failed execution",
-   "ko": "크리스타 파이크의 처형 실패에 테네시 팀의 '과실'에 의료 전문가들이 충격을 받았습니다.",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/us-news/2026/oct/24/christa-pike-execution-medical-experts",
-   "at": "2026-10-24T11:00:30.000Z",
-   "ev": [],
-   "cc": []
-  },
-  {
-   "id": "e57f8516fd62",
-   "t": "Deadly ‘racist’ attack in France: Are hate crimes rising in Europe?",
-   "ko": "프랑스의 치명적인 '인종차별' 공격: 유럽에서 증오 범죄가 증가하고 있습니까?",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/news/2026/10/24/deadly-racist-attack-in-france-are-hate-crimes-rising-in-europe?traffic_source=rss",
-   "at": "2026-10-24T10:47:07.000Z",
-   "ev": [],
-   "cc": [
-    "France"
-   ]
-  },
-  {
-   "id": "5df5d5c830f2",
-   "t": "NFL would cancel Paris game if unsafe due to protests, Steelers QB Aaron Rodgers says",
-   "ko": "Steelers QB Aaron Rodgers는 NFL이 시위로 인해 안전하지 않으면 파리 경기를 취소할 것이라고 말했습니다.",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/sport/20261024-nfl-would-cancel-paris-game-if-unsafe-due-to-protests-steelers-qb-aaron-rodgers-says",
-   "at": "2026-10-24T10:36:28.000Z",
-   "ev": [],
-   "cc": [
-    "France"
-   ]
-  },
-  {
-   "id": "0378f76c3436",
-   "t": "Netanyahu orders West Bank operation",
-   "ko": "네타냐후, 서안지구 작전 지시",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/netanyahu-orders-west-bank-operation",
-   "at": "2026-10-24T10:33:52.000Z",
-   "ev": [
-    "westbank"
-   ],
-   "cc": [
-    "Palestine",
-    "Israel"
    ]
   }
  ]
