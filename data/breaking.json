@@ -1,13 +1,13 @@
 {
- "updated": "2026-10-26T01:03:21.791Z",
+ "updated": "2026-10-26T06:24:45.590Z",
  "sources": {
   "BBC": {
    "ok": true,
-   "n": 12
+   "n": 11
   },
   "Al Jazeera": {
    "ok": true,
-   "n": 11
+   "n": 8
   },
   "The Guardian": {
    "ok": true,
@@ -19,7 +19,7 @@
   },
   "France 24": {
    "ok": true,
-   "n": 12
+   "n": 10
   },
   "UN News": {
    "ok": true,
@@ -31,6 +31,111 @@
   }
  },
  "items": [
+  {
+   "id": "3084ac86d423",
+   "t": "The French government is hiding behind a ‘riots’ narrative",
+   "ko": "프랑스 정부는 '폭동' 서술 뒤에 숨어 있다",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/opinions/2026/10/26/the-french-government-is-hiding-behind-a-riots-narrative?traffic_source=rss",
+   "at": "2026-10-26T05:56:04.000Z",
+   "ev": [],
+   "cc": [
+    "France"
+   ]
+  },
+  {
+   "id": "c842d852c315",
+   "t": "Former RAAF pilot who allegedly murdered wife was ‘love rat’ and ‘master manipulator’, jury hears",
+   "ko": "아내를 살해한 전직 RAAF 조종사는 '사랑의 쥐'이자 '조작의 대가'였다고 배심원단이 듣다",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/australia-news/2026/oct/26/raaf-pilot-robert-john-crawford-murder-trial-wife-ntwnfb",
+   "at": "2026-10-26T05:28:02.000Z",
+   "ev": [],
+   "cc": []
+  },
+  {
+   "id": "31d7afd6c41d",
+   "t": "Aleksandar Vucic, the Serbian leader brought down by students",
+   "ko": "학생들에 의해 무너진 세르비아 지도자 알렉산다르 부치치",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/10/26/aleksandar-vucic-the-serbian-leader-brought-down-by-students?traffic_source=rss",
+   "at": "2026-10-26T05:24:59.000Z",
+   "ev": [],
+   "cc": [
+    "Serbia"
+   ]
+  },
+  {
+   "id": "be4621eee0f1",
+   "t": "Israel’s election: Five key things to know",
+   "ko": "이스라엘의 선거: 알아야 할 다섯 가지 주요 사항",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/10/26/israels-election-five-key-things-to-know?traffic_source=rss",
+   "at": "2026-10-26T05:16:38.000Z",
+   "ev": [],
+   "cc": [
+    "Israel"
+   ]
+  },
+  {
+   "id": "6144e963ccb2",
+   "t": "US military says it helped Gulf states export 1.5 billion barrels of oil",
+   "ko": "미군은 걸프 지역 국가들이 15억 배럴의 석유를 수출하는 데 도움을 줬다고 밝혔습니다.",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/economy/2026/10/26/us-military-says-it-helped-gulf-states-export-1-5-billion-barrels-of-oil?traffic_source=rss",
+   "at": "2026-10-26T04:05:44.000Z",
+   "ev": [],
+   "cc": [
+    "United States"
+   ]
+  },
+  {
+   "id": "27dcab46bf3a",
+   "t": "Covert recording of prison meeting between Beau Lamarre-Condon and friend played to double murder trial",
+   "ko": "Beau Lamarre-Condon과 친구 사이의 감옥 회의를 은밀하게 녹음하여 살인 재판을 두 배로 늘렸습니다.",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/australia-news/2026/oct/26/beau-lamarre-condon-trial-covert-prison-recording-with-friend-played-to-court-ntwnfb",
+   "at": "2026-10-26T03:26:57.000Z",
+   "ev": [],
+   "cc": [
+    "Australia"
+   ]
+  },
+  {
+   "id": "a567d6b0dc4a",
+   "t": "Seoul ‘fabricated’ landmine blast, North Korea tells UN in letter",
+   "ko": "서울이 조작한 지뢰 폭발, 북한이 유엔에 서한으로 통보",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/10/26/seoul-fabricated-landmine-blast-north-korea-tells-un-in-letter?traffic_source=rss",
+   "at": "2026-10-26T02:55:15.000Z",
+   "ev": [],
+   "cc": [
+    "North Korea",
+    "South Korea"
+   ]
+  },
+  {
+   "id": "7a8d4de6bcd2",
+   "t": "‘Someone has been following me’: safety fears after bullet inscribed with ‘RAT’ left on Victorian minister’s car",
+   "ko": "'누군가 나를 따라왔다': 빅토리아 장관의 차에 'RAT'라고 새겨진 총알이 남아 안전에 대한 두려움",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/australia-news/2026/oct/26/labor-mp-paul-edbrooke-bullet-on-car-rat-ntwnfb",
+   "at": "2026-10-26T02:38:37.000Z",
+   "ev": [],
+   "cc": []
+  },
+  {
+   "id": "81bc7b0e59c4",
+   "t": "Celebrations in Serbia after veteran ruler Vučić loses election to student-led protest movement",
+   "ko": "베테랑 통치자 부치치(Vučić)가 학생 주도 시위 운동에 패배한 후 세르비아에서 축하 행사가 열렸습니다.",
+   "src": "BBC",
+   "u": "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo?at_medium=RSS&at_campaign=rss",
+   "at": "2026-10-26T01:07:05.000Z",
+   "ev": [],
+   "cc": [
+    "Serbia"
+   ]
+  },
   {
    "id": "ed0da1b7fd14",
    "t": "Xi Jinping’s corruption crackdown in the spotlight as China prepares for meeting of top leaders",
@@ -56,16 +161,6 @@
    ]
   },
   {
-   "id": "7a8d4de6bcd2",
-   "t": "Bullet left on Victorian Labor minister’s car with ‘RAT’ etched on to it",
-   "ko": "'RAT'가 새겨진 빅토리아 노동부 장관의 차에 총알이 남았습니다.",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/australia-news/2026/oct/26/labor-mp-paul-edbrooke-bullet-on-car-rat-ntwnfb",
-   "at": "2026-10-26T00:11:11.000Z",
-   "ev": [],
-   "cc": []
-  },
-  {
    "id": "64088e786994",
    "t": "Trump escalates anti-Muslim rhetoric in fierce attack on El-Sayed",
    "ko": "트럼프, 엘 사이드에 대한 맹렬한 공격으로 반무슬림 수사 확대",
@@ -77,18 +172,19 @@
   },
   {
    "id": "d420437ab0c6",
-   "t": "Iran war live: Trump rules out strikes ‘today’; Israeli forces raid Hebron",
-   "ko": "이란 전쟁 생방송: 트럼프는 '오늘' 공격을 배제합니다. 이스라엘군, 헤브론 공습",
+   "t": "Iran war live: Saudi, Pakistani and Turkish defence officials due in Tehran",
+   "ko": "이란 전쟁 라이브: 테헤란에 예정된 사우디, 파키스탄, 터키 국방 관계자",
    "src": "Al Jazeera",
    "u": "https://www.aljazeera.com/news/liveblog/2026/10/26/iran-war-live-trump-rules-out-strikes-today-israeli-forces-raid-hebron?traffic_source=rss",
    "at": "2026-10-26T00:00:00.000Z",
    "ev": [
     "iran",
-    "westbank"
+    "yemen"
    ],
    "cc": [
     "Iran",
-    "Israel"
+    "Saudi Arabia",
+    "Pakistan"
    ]
   },
   {
@@ -139,18 +235,6 @@
    "cc": [
     "Israel",
     "Iran"
-   ]
-  },
-  {
-   "id": "81bc7b0e59c4",
-   "t": "Serbia's veteran ruler Vučić concedes election to student-led protest movement",
-   "ko": "세르비아의 베테랑 통치자 부치치, 학생 주도 시위 운동에 당선 인정",
-   "src": "BBC",
-   "u": "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo?at_medium=RSS&at_campaign=rss",
-   "at": "2026-10-25T22:54:57.000Z",
-   "ev": [],
-   "cc": [
-    "Serbia"
    ]
   },
   {
@@ -1996,96 +2080,6 @@
    "cc": [
     "Palestine",
     "Israel"
-   ]
-  },
-  {
-   "id": "a1248c005ba4",
-   "t": "France: March against National Rally in Orleans",
-   "ko": "프랑스: 오를레앙 국민 집회 반대 행진",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/france-march-against-national-rally-in-orleans",
-   "at": "2026-10-24T10:30:02.000Z",
-   "ev": [],
-   "cc": [
-    "France",
-    "Jordan"
-   ]
-  },
-  {
-   "id": "64451ad00bd1",
-   "t": "Paris: Last-minute change to the protest route",
-   "ko": "파리: 시위 경로의 마지막 순간 변경",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/paris-last-minute-change-to-the-protest-route",
-   "at": "2026-10-24T10:29:10.000Z",
-   "ev": [],
-   "cc": [
-    "France"
-   ]
-  },
-  {
-   "id": "d6b75725b06c",
-   "t": "France braces for another day of mass protests as security on high alert",
-   "ko": "프랑스, 보안이 강화되면서 또 다른 대규모 시위가 벌어질 예정",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/news/2026/10/24/france-braces-for-another-day-of-mass-protests-as-security-on-high-alert?traffic_source=rss",
-   "at": "2026-10-24T10:04:25.000Z",
-   "ev": [],
-   "cc": [
-    "France"
-   ]
-  },
-  {
-   "id": "3fa927cd3c88",
-   "t": "Ukraine says Starlink and Starshield connection 'stable' again",
-   "ko": "우크라이나, Starlink와 Starshield 연결이 다시 '안정적'이라고 밝혔습니다.",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/europe/20261024-ukraine-says-starlink-and-starshield-connection-stable-again",
-   "at": "2026-10-24T09:48:23.000Z",
-   "ev": [
-    "ukraine"
-   ],
-   "cc": [
-    "Ukraine"
-   ]
-  },
-  {
-   "id": "7f64e377f64a",
-   "t": "Three released without charge after fatal arson attack in Ireland",
-   "ko": "아일랜드에서 발생한 치명적인 방화 사건으로 3명이 기소 없이 석방됐다.",
-   "src": "BBC",
-   "u": "https://www.bbc.co.uk/news/articles/cv0ld9571511o?at_medium=RSS&at_campaign=rss",
-   "at": "2026-10-24T09:38:28.000Z",
-   "ev": [],
-   "cc": [
-    "Ireland"
-   ]
-  },
-  {
-   "id": "b78d1231de6c",
-   "t": "Ilhan Omar votes as Trump renews attacks amid federal probe",
-   "ko": "연방 조사 속에서 트럼프가 공격을 재개함에 따라 Ilhan Omar가 투표합니다.",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/video/newsfeed/2026/10/24/ilhan-omar-votes-us-midterms-federal-investigation?traffic_source=rss",
-   "at": "2026-10-24T09:16:19.000Z",
-   "ev": [],
-   "cc": [
-    "United States"
-   ]
-  },
-  {
-   "id": "956716ace419",
-   "t": "Why is Israel launching a new military operation in the occupied West Bank?",
-   "ko": "이스라엘이 점령된 서안 지구에서 새로운 군사 작전을 시작하는 이유는 무엇입니까?",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/news/2026/10/24/why-is-israel-launching-a-new-military-operation-in-the-occupied-west-bank?traffic_source=rss",
-   "at": "2026-10-24T09:14:40.000Z",
-   "ev": [
-    "westbank"
-   ],
-   "cc": [
-    "Israel",
-    "Palestine"
    ]
   }
  ]
