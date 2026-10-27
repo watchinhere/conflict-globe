@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-26T23:20:48.611Z",
+ "updated": "2026-10-27T02:24:59.102Z",
  "sources": {
   "BBC": {
    "ok": true,
@@ -11,7 +11,7 @@
   },
   "The Guardian": {
    "ok": true,
-   "n": 15
+   "n": 13
   },
   "DW": {
    "ok": true,
@@ -19,7 +19,7 @@
   },
   "France 24": {
    "ok": true,
-   "n": 9
+   "n": 10
   },
   "UN News": {
    "ok": true,
@@ -32,14 +32,103 @@
  },
  "items": [
   {
+   "id": "28b7c31febcc",
+   "t": "US-EU trade truce at risk over $3.4 billion Airbus loan, Trump official warns",
+   "ko": "트럼프 관리는 34억 달러의 에어버스 대출로 인해 미국-EU 무역 휴전이 위험에 처해 있다고 경고했습니다.",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/europe/20261027-us-eu-trade-truce-airbus-loan-trump",
+   "at": "2026-10-27T02:20:28.000Z",
+   "ev": [],
+   "cc": [
+    "United States"
+   ]
+  },
+  {
    "id": "09456571b6e0",
-   "t": "Australian politics live: Lambie awaiting Hanson apology over cartoon; security crackdown for nine MPs after alleged Haines attack",
-   "ko": "호주 정치 라이브: Lambie는 만화에 대한 Hanson의 사과를 기다리고 있습니다. 헤인스 공격 혐의로 의원 9명에 대한 보안 단속",
+   "t": "Australian politics live: Albanese mulls duress alarms for MPs; former ABC news director’s payout revealed",
+   "ko": "호주 정치 생방송: 알바인들은 의원들에 대한 협박 경보를 고민합니다. 전 ABC 뉴스 국장 연봉 공개",
    "src": "The Guardian",
    "u": "https://www.theguardian.com/australia-news/live/2026/oct/27/one-nation-pauline-hanson-independent-jacqui-lambie-labor-anthony-albanese-coalition-ntwnfb",
-   "at": "2026-10-26T23:10:17.000Z",
+   "at": "2026-10-27T02:14:25.000Z",
    "ev": [],
    "cc": []
+  },
+  {
+   "id": "0b0981130510",
+   "t": "Trump continues midterm campaign blitz in Mississippi amid outcry over racist, Islamophobic attacks – as it happened",
+   "ko": "트럼프는 인종 차별주의와 이슬람 혐오 공격에 대한 항의 속에서 미시시피에서 중간 선거 공세를 이어갔습니다.",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/us-news/live/2026/oct/26/donald-trump-abdul-el-sayed-midterms-michigan-rally-space-latest-us-politics-news-updates",
+   "at": "2026-10-27T01:55:40.000Z",
+   "ev": [
+    "ukraine"
+   ],
+   "cc": [
+    "United States",
+    "Ukraine"
+   ]
+  },
+  {
+   "id": "040fb06b22bb",
+   "t": "Iran war live: Iran says US ‘not serious’ about talks; ship ablaze off Iraq",
+   "ko": "이란 전쟁 생중계: 이란은 미국이 대화에 대해 '진지하지 않다'고 말합니다. 이라크에서 불타오르는 배",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/liveblog/2026/10/27/iran-war-live-iran-says-us-not-serious-on-talks-ship-on-fire-off-iraq?traffic_source=rss",
+   "at": "2026-10-27T00:00:00.000Z",
+   "ev": [
+    "iran"
+   ],
+   "cc": [
+    "Iran",
+    "United States",
+    "Iraq"
+   ]
+  },
+  {
+   "id": "25cfbc19dbf6",
+   "t": "Jordan strikes Syria after church attack, killing at least seven people",
+   "ko": "요르단, 교회 공격 후 시리아 공습, 최소 7명 사망",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/10/26/jordan-launches-air-strikes-in-syria-in-response-to-a-fatal-church-shooting?traffic_source=rss",
+   "at": "2026-10-26T23:50:11.000Z",
+   "ev": [
+    "syria"
+   ],
+   "cc": [
+    "Jordan",
+    "Syria"
+   ]
+  },
+  {
+   "id": "88016e2dab13",
+   "t": "Jordan attacks Syria in response to Karak church attack",
+   "ko": "요르단, 카라크 교회 공격에 대응해 시리아 공격",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/video/newsfeed/2026/10/26/jordan-attacks-syria-in-response-to-karak-church-attack?traffic_source=rss",
+   "at": "2026-10-26T23:48:51.000Z",
+   "ev": [
+    "syria"
+   ],
+   "cc": [
+    "Jordan",
+    "Syria"
+   ]
+  },
+  {
+   "id": "8f76b61143d9",
+   "t": "Mecca pact nations hold talks with Iran to prevent renewed Middle East war",
+   "ko": "메카 조약 국가들, 중동 전쟁 재발 방지를 위해 이란과 회담",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/middle-east/20261026-iran-talks-mecca-pact-nations-war",
+   "at": "2026-10-26T23:24:17.000Z",
+   "ev": [
+    "iran"
+   ],
+   "cc": [
+    "Iran",
+    "Saudi Arabia",
+    "Turkey"
+   ]
   },
   {
    "id": "d7a1fd79d5b5",
@@ -76,6 +165,20 @@
    "ev": [],
    "cc": [
     "United States"
+   ]
+  },
+  {
+   "id": "62d1259e06d4",
+   "t": "Protests in Europe: Fact-checking viral videos amid claims of 'chaos'",
+   "ko": "유럽의 시위: '혼돈' 주장 속에 사실 확인 바이러스 영상",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/tv-shows/truth-or-fake/20261026-protests-in-europe-fact-checking-viral-videos-amid-claims-of-chaos",
+   "at": "2026-10-26T22:18:34.000Z",
+   "ev": [],
+   "cc": [
+    "Poland",
+    "Portugal",
+    "Argentina"
    ]
   },
   {
@@ -635,21 +738,6 @@
    "cc": [
     "Japan",
     "United States"
-   ]
-  },
-  {
-   "id": "0b0981130510",
-   "t": "Trump intensifies anti-Muslim rhetoric against Abdul El-Sayed at Michigan rally – US politics live",
-   "ko": "트럼프, 미시간 집회에서 압둘 엘 사이드에 대한 반무슬림 수사 강화 – 미국 정치 생방송",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/us-news/live/2026/oct/26/donald-trump-abdul-el-sayed-midterms-michigan-rally-space-latest-us-politics-news-updates",
-   "at": "2026-10-26T13:28:48.000Z",
-   "ev": [
-    "iran"
-   ],
-   "cc": [
-    "United States",
-    "Iran"
    ]
   },
   {
@@ -2016,93 +2104,6 @@
    "ev": [],
    "cc": [
     "Germany"
-   ]
-  },
-  {
-   "id": "2f7ad053a046",
-   "t": "Musk says SpaceX restricted Ukraine's Starlink connection as service restored",
-   "ko": "머스크는 SpaceX가 서비스 복원으로 우크라이나의 Starlink 연결을 제한했다고 말했습니다.",
-   "src": "BBC",
-   "u": "https://www.bbc.co.uk/news/articles/cvx28ljp8n4xo?at_medium=RSS&at_campaign=rss",
-   "at": "2026-10-25T09:00:00.000Z",
-   "ev": [
-    "ukraine"
-   ],
-   "cc": [
-    "Ukraine"
-   ]
-  },
-  {
-   "id": "df21383bf864",
-   "t": "Obama’s Ohio, Michigan speeches: Key takeaways on Trump, Iran war, midterms",
-   "ko": "오바마의 오하이오, 미시간 연설: 트럼프, 이란 전쟁, 중간고사에 대한 주요 시사점",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/news/2026/10/25/obamas-ohio-michigan-speeches-key-takeaways-on-trump-iran-war-midterms?traffic_source=rss",
-   "at": "2026-10-25T08:44:17.000Z",
-   "ev": [
-    "iran"
-   ],
-   "cc": [
-    "Iran",
-    "United States"
-   ]
-  },
-  {
-   "id": "05b4c17e4daf",
-   "t": "Why is Egypt so wary of getting involved in Yemen’s conflict?",
-   "ko": "이집트가 예멘 분쟁에 개입하는 것을 그토록 경계하는 이유는 무엇입니까?",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/news-analysis/2026/10/25/why-is-egypt-so-wary-of-getting-involved-in-yemens-conflict?traffic_source=rss",
-   "at": "2026-10-25T07:59:38.000Z",
-   "ev": [
-    "yemen"
-   ],
-   "cc": [
-    "Egypt",
-    "Yemen",
-    "Saudi Arabia"
-   ]
-  },
-  {
-   "id": "e086d70e1577",
-   "t": "Photos: Clashes erupt in France during protests over rising living costs",
-   "ko": "사진: 프랑스에서 생활비 인상에 대한 시위 도중 충돌이 발생했습니다.",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/gallery/2026/10/25/photos-clashes-erupt-in-france-amid-protests-over-rising-living-costs?traffic_source=rss",
-   "at": "2026-10-25T07:28:47.000Z",
-   "ev": [],
-   "cc": [
-    "France"
-   ]
-  },
-  {
-   "id": "39d85814d543",
-   "t": "Israel to close occupied West Bank crossings as it locks down Hebron",
-   "ko": "이스라엘, 헤브론 봉쇄로 서안지구 교차점 폐쇄",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/news/2026/10/25/israel-to-close-occupied-west-bank-crossings-as-hebron-lockdown-continues?traffic_source=rss",
-   "at": "2026-10-25T07:20:36.000Z",
-   "ev": [
-    "westbank"
-   ],
-   "cc": [
-    "Israel",
-    "Palestine"
-   ]
-  },
-  {
-   "id": "31c9b014f0ac",
-   "t": "Bulgaria holds presidential elections amid divisions over Ukraine war",
-   "ko": "불가리아, 우크라이나 전쟁으로 분열된 가운데 대선 실시",
-   "src": "DW",
-   "u": "https://www.dw.com/en/bulgaria-holds-presidential-elections-amid-divisions-over-ukraine-war/a-79753496?maca=en-rss-en-world-4025-rdf",
-   "at": "2026-10-25T07:19:00.000Z",
-   "ev": [
-    "ukraine"
-   ],
-   "cc": [
-    "Bulgaria",
-    "Ukraine"
    ]
   }
  ]
