@@ -1,25 +1,25 @@
 {
- "updated": "2026-10-27T15:00:23.632Z",
+ "updated": "2026-10-27T19:56:16.104Z",
  "sources": {
   "BBC": {
    "ok": true,
-   "n": 5
+   "n": 7
   },
   "Al Jazeera": {
    "ok": true,
-   "n": 9
+   "n": 5
   },
   "The Guardian": {
    "ok": true,
-   "n": 16
+   "n": 19
   },
   "DW": {
    "ok": true,
-   "n": 1
+   "n": 2
   },
   "France 24": {
-   "ok": true,
-   "n": 17
+   "ok": false,
+   "err": "HTTP 403"
   },
   "UN News": {
    "ok": true,
@@ -32,35 +32,242 @@
  },
  "items": [
   {
-   "id": "8df6f7c02667",
-   "t": "Norway’s PM defends rare call with Putin on Ukraine despite doubts among European leaders – Europe live",
-   "ko": null,
+   "id": "df38c93bbc72",
+   "t": "RAF Fairford plot ‘coordinated by handler working on behalf of Iran’",
+   "ko": "RAF Fairford 음모 '이란을 대신하여 일하는 핸들러가 조정'",
    "src": "The Guardian",
-   "u": "https://www.theguardian.com/world/live/2026/oct/27/russia-ukraine-oleshky-serbia-france-europe-latest-news-updates",
-   "at": "2026-10-27T14:02:54.000Z",
+   "u": "https://www.theguardian.com/uk-news/2026/oct/27/two-men-charged-raf-fairford",
+   "at": "2026-10-27T19:24:29.000Z",
+   "ev": [
+    "iran"
+   ],
+   "cc": [
+    "Iran"
+   ]
+  },
+  {
+   "id": "5e94e6ecb95b",
+   "t": "Parents inflicted fatal physical and sexual abuse on their baby, Warwick court hears",
+   "ko": "부모가 아기에게 치명적인 신체적, 성적 학대를 가했다고 워릭 법원이 판결",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/uk-news/2026/oct/27/parents-inflicted-fatal-physical-and-sexual-abuse-their-baby-warwick-court-hears",
+   "at": "2026-10-27T19:05:57.000Z",
+   "ev": [],
+   "cc": []
+  },
+  {
+   "id": "59a029f2aeed",
+   "t": "Deaths in detention cells in Nigeria were entirely preventable, inquiry finds",
+   "ko": "나이지리아 구금실에서의 사망은 완전히 예방할 수 있었던 것으로 조사 결과 밝혀졌습니다",
+   "src": "BBC",
+   "u": "https://www.bbc.co.uk/news/articles/cmgel8pqj5rwo?at_medium=RSS&at_campaign=rss",
+   "at": "2026-10-27T19:01:16.000Z",
+   "ev": [
+    "nigeria"
+   ],
+   "cc": [
+    "Nigeria"
+   ]
+  },
+  {
+   "id": "5897deb81381",
+   "t": "The WhatsApp ‘general’ behind Lula’s election comeback in Brazil",
+   "ko": "브라질 룰라의 재선을 뒷받침하는 WhatsApp '일반'",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/10/27/the-whatsapp-general-behind-lulas-election-comeback-in-brazil?traffic_source=rss",
+   "at": "2026-10-27T18:35:05.000Z",
+   "ev": [],
+   "cc": [
+    "Brazil"
+   ]
+  },
+  {
+   "id": "99f359bbc9a8",
+   "t": "Controversial Islamic cleric shot dead in northern Nigeria",
+   "ko": "논란의 여지가 있는 이슬람 성직자, 나이지리아 북부서 총격 사망",
+   "src": "BBC",
+   "u": "https://www.bbc.co.uk/news/articles/cxdd8nq55d74o?at_medium=RSS&at_campaign=rss",
+   "at": "2026-10-27T18:35:02.000Z",
+   "ev": [
+    "nigeria"
+   ],
+   "cc": [
+    "Nigeria"
+   ]
+  },
+  {
+   "id": "bbcf7b2c06c7",
+   "t": "Oleshky truce appears to hold as two European leaders have ‘frank’ call with Putin",
+   "ko": "두 유럽 지도자가 푸틴 대통령과 '솔직한' 통화를 함에 따라 올레쉬키 휴전이 유지될 것으로 보입니다.",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/world/2026/oct/27/oleshky-truce-ukraine-russia-putin",
+   "at": "2026-10-27T17:43:02.000Z",
    "ev": [
     "ukraine"
    ],
    "cc": [
-    "Norway",
     "Ukraine",
-    "Finland"
+    "Russia"
+   ]
+  },
+  {
+   "id": "ba30ad1147a2",
+   "t": "US military says strike on alleged drug vessel in eastern Pacific kills five people",
+   "ko": "미군, 동태평양에서 마약선 공격으로 5명 사망",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/us-news/2026/oct/27/us-military-strike-vessel-eastern-pacific",
+   "at": "2026-10-27T17:35:50.000Z",
+   "ev": [],
+   "cc": [
+    "United States"
+   ]
+  },
+  {
+   "id": "35fe67d2afb7",
+   "t": "Schrödinger’s racism, Nige’s latest wheeze to dodge his associates’ bigotry | John Crace",
+   "ko": "슈뢰딩거의 인종차별, 동료들의 편견을 피하기 위한 니게의 최근 천명 | 존 크레이스",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/politics/2026/oct/27/nigel-farage-raheem-kassam-kemi-badenoch-nigerian-scammer",
+   "at": "2026-10-27T17:29:26.000Z",
+   "ev": [
+    "nigeria"
+   ],
+   "cc": [
+    "Nigeria"
+   ]
+  },
+  {
+   "id": "1f0d32af44eb",
+   "t": "Funeral held for family killed in Jordanian airstrikes in Syria",
+   "ko": "요르단 시리아 공습으로 숨진 가족 장례식 거행",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/video/newsfeed/2026/10/27/funeral-held-for-family-killed-in-jordanian-airstrikes-in-syria?traffic_source=rss",
+   "at": "2026-10-27T17:03:45.000Z",
+   "ev": [
+    "syria"
+   ],
+   "cc": [
+    "Syria"
+   ]
+  },
+  {
+   "id": "8df6f7c02667",
+   "t": "Kyiv hopes for ‘new momentum’ in peace talks after Finnish and Norwegian leaders’ call with Putin – as it happened",
+   "ko": "키예프는 핀란드와 노르웨이 지도자들이 푸틴 대통령과 통화한 후 평화 회담에서 '새로운 모멘텀'을 기대하고 있습니다.",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/world/live/2026/oct/27/russia-ukraine-oleshky-serbia-france-europe-latest-news-updates",
+   "at": "2026-10-27T16:23:32.000Z",
+   "ev": [
+    "ukraine"
+   ],
+   "cc": [
+    "Russia",
+    "United Kingdom",
+    "Ukraine"
+   ]
+  },
+  {
+   "id": "af406117dbea",
+   "t": "Death toll from attack by gunmen in northeastern Nigeria rises to 62",
+   "ko": "나이지리아 북동부에서 무장괴한의 공격으로 인한 사망자 수는 62명으로 증가",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/10/27/death-toll-from-attack-by-gunmen-in-northeastern-nigeria-rises-to-62?traffic_source=rss",
+   "at": "2026-10-27T15:53:35.000Z",
+   "ev": [
+    "nigeria"
+   ],
+   "cc": [
+    "Nigeria"
+   ]
+  },
+  {
+   "id": "65fa0a1c0988",
+   "t": "West warns of famine risk in Sudan as civil war grinds on",
+   "ko": "웨스트, 내전이 심화됨에 따라 수단의 기근 위험 경고",
+   "src": "BBC",
+   "u": "https://www.bbc.co.uk/news/articles/cj5ynkk6v3pzo?at_medium=RSS&at_campaign=rss",
+   "at": "2026-10-27T15:41:46.000Z",
+   "ev": [
+    "sudan"
+   ],
+   "cc": [
+    "Sudan"
+   ]
+  },
+  {
+   "id": "a559e0d531b1",
+   "t": "Myanmar: Is the US undermining the EU's diplomatic blockade?",
+   "ko": "미얀마: 미국이 EU의 외교적 봉쇄를 약화시키고 있습니까?",
+   "src": "DW",
+   "u": "https://www.dw.com/en/myanmar-is-the-us-undermining-the-eu-s-diplomatic-blockade/a-79778863?maca=en-rss-en-world-4025-rdf",
+   "at": "2026-10-27T15:16:00.000Z",
+   "ev": [
+    "myanmar"
+   ],
+   "cc": [
+    "Myanmar",
+    "United States"
+   ]
+  },
+  {
+   "id": "19ebc5f0e94e",
+   "t": "Truce begins in Ukraine city where residents ate weeds to survive",
+   "ko": "주민들이 생존을 위해 잡초를 먹었던 우크라이나 도시에서 휴전이 시작되었습니다.",
+   "src": "BBC",
+   "u": "https://www.bbc.co.uk/news/articles/ck20wjnv3w0jo?at_medium=RSS&at_campaign=rss",
+   "at": "2026-10-27T15:13:24.000Z",
+   "ev": [
+    "ukraine"
+   ],
+   "cc": [
+    "Ukraine",
+    "United States"
+   ]
+  },
+  {
+   "id": "c983b9bd4537",
+   "t": "Israeli military detains Egyptian national who crossed border",
+   "ko": "이스라엘군, 국경을 넘은 이집트인 억류",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/10/27/israeli-military-detains-egyptian-national-who-crossed-border?traffic_source=rss",
+   "at": "2026-10-27T15:10:27.000Z",
+   "ev": [],
+   "cc": [
+    "Israel",
+    "Egypt"
+   ]
+  },
+  {
+   "id": "2bd2c915281d",
+   "t": "Hegseth heads to Manila to shore up US ties with Asia-Pacific partners",
+   "ko": "Hegseth는 아시아 태평양 파트너와의 미국 관계를 강화하기 위해 마닐라로 향합니다.",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/10/27/hegseth-heads-to-manila-to-shore-up-us-ties-with-asia-pacific-partners?traffic_source=rss",
+   "at": "2026-10-27T15:08:59.000Z",
+   "ev": [
+    "iran"
+   ],
+   "cc": [
+    "United States",
+    "Iran"
    ]
   },
   {
    "id": "e52839e179c8",
    "t": "MP calls for rethink of pre-poll voting amid heightened security concerns in wake of Haines incident",
-   "ko": null,
+   "ko": "하원 의원은 헤인즈 사건으로 인해 보안 우려가 높아지는 가운데 사전 투표 투표를 재고할 것을 촉구했습니다.",
    "src": "The Guardian",
    "u": "https://www.theguardian.com/australia-news/2026/oct/27/mp-calls-rethink-pre-poll-voting-helen-haines-heightened-security-concerns-ntwnfb",
    "at": "2026-10-27T14:00:36.000Z",
    "ev": [],
-   "cc": []
+   "cc": [
+    "Australia"
+   ]
   },
   {
    "id": "ea771f00a158",
    "t": "Russia targets Kyiv as Finnish, Norwegian leaders hold rare call with Putin",
-   "ko": null,
+   "ko": "러시아는 키예프를 핀란드로 겨냥하고 노르웨이 지도자들은 푸틴과 드문 통화를 한다",
    "src": "Al Jazeera",
    "u": "https://www.aljazeera.com/news/2026/10/27/russia-targets-kyiv-as-finnish-norwegian-leaders-hold-rare-call-with-putin?traffic_source=rss",
    "at": "2026-10-27T13:59:37.000Z",
@@ -75,7 +282,7 @@
   {
    "id": "ea34a025b9c3",
    "t": "Lebanon’s lost olive season: harvesting olives under drones and warplanes",
-   "ko": null,
+   "ko": "레바논의 잃어버린 올리브 시즌: 드론과 전투기로 올리브 수확하기",
    "src": "Al Jazeera",
    "u": "https://www.aljazeera.com/features/2026/10/27/lebanons-lost-olive-season-harvesting-olives-under-drones-and-warplanes?traffic_source=rss",
    "at": "2026-10-27T13:54:43.000Z",
@@ -89,7 +296,7 @@
   {
    "id": "658a12c42c44",
    "t": "Melania or the pope: Who brokered Russia-Ukraine ceasefire in Oleshky?",
-   "ko": null,
+   "ko": "멜라니아인가 교황인가: 누가 올레쉬키에서 러시아-우크라이나 휴전을 중개했는가?",
    "src": "Al Jazeera",
    "u": "https://www.aljazeera.com/news/2026/10/27/melania-or-the-pope-who-brokered-russia-ukraine-ceasefire-in-oleshky?traffic_source=rss",
    "at": "2026-10-27T13:45:01.000Z",
@@ -101,7 +308,7 @@
   {
    "id": "0506d41bf24c",
    "t": "Russia strikes Kyiv ahead of localised ceasefire in Oleshky",
-   "ko": null,
+   "ko": "러시아, 올레쉬키 지역 휴전 앞두고 키예프 공습",
    "src": "Al Jazeera",
    "u": "https://www.aljazeera.com/video/newsfeed/2026/10/27/russia-strikes-kyiv-ahead-of-localised-ceasefire-in-oleshky?traffic_source=rss",
    "at": "2026-10-27T13:34:07.000Z",
@@ -115,7 +322,7 @@
   {
    "id": "1aec548def84",
    "t": "Iranians brace for renewed attacks after Israeli, US elections",
-   "ko": null,
+   "ko": "이란, 이스라엘과 미국 선거 이후 추가 공격에 대비",
    "src": "Al Jazeera",
    "u": "https://www.aljazeera.com/news/2026/10/27/iranians-will-their-eyes-on-the-sky-for-bomb-when-israeli-us-elections-end?traffic_source=rss",
    "at": "2026-10-27T13:23:32.000Z",
@@ -131,7 +338,7 @@
   {
    "id": "ececb58684b9",
    "t": "India-China border face-offs test Modi six years after deadly clash",
-   "ko": null,
+   "ko": "인도-중국 국경 대결, 치명적 충돌 6년 만에 Modi 테스트",
    "src": "Al Jazeera",
    "u": "https://www.aljazeera.com/news/2026/10/27/india-china-border-face-offs-test-modi-six-years-after-deadly-clash?traffic_source=rss",
    "at": "2026-10-27T13:15:32.000Z",
@@ -141,7 +348,7 @@
   {
    "id": "423e7f344c35",
    "t": "Al Jazeera meets iconic pro-Palestine Japanese activist",
-   "ko": null,
+   "ko": "알 자지라, 상징적인 친팔레스타인 일본 운동가를 만나다",
    "src": "Al Jazeera",
    "u": "https://www.aljazeera.com/video/newsfeed/2026/10/27/al-jazeera-meets-iconic-pro-palestine-japanese-activist?traffic_source=rss",
    "at": "2026-10-27T13:06:28.000Z",
@@ -157,7 +364,7 @@
   {
    "id": "e829f8e833eb",
    "t": "Localised Russia-Ukraine ceasefire starts Ukrainian town facing starvation",
-   "ko": null,
+   "ko": "국지화된 러시아-우크라이나 휴전으로 인해 우크라이나 마을이 기아에 직면하게 되었습니다.",
    "src": "France 24",
    "u": "https://www.france24.com/en/video/20261027-localised-russia-ukraine-ceasefire-starts-ukrainian-town-facing-starvation",
    "at": "2026-10-27T12:34:42.000Z",
@@ -173,7 +380,7 @@
   {
    "id": "41a2aeb234b0",
    "t": "Co-ordinated cattle raids kill at least 72 people in South Sudan",
-   "ko": null,
+   "ko": "남수단에서 소떼 습격으로 최소 72명 사망",
    "src": "BBC",
    "u": "https://www.bbc.co.uk/news/articles/cr3wvl9qz3v2o?at_medium=RSS&at_campaign=rss",
    "at": "2026-10-27T12:25:14.000Z",
@@ -187,7 +394,7 @@
   {
    "id": "b476d2e871f8",
    "t": "‘Are you waiting for me to be attacked?’ Fatima Payman slams PM over staffing",
-   "ko": null,
+   "ko": "'내가 공격받기를 기다리고 있나요?' 파티마 페이먼, 직원 배치에 대해 PM을 비난하다",
    "src": "The Guardian",
    "u": "https://www.theguardian.com/australia-news/2026/oct/27/albanese-promises-swift-response-on-mp-safety-as-he-mulls-panic-buttons-for-politicians-ntwnfb",
    "at": "2026-10-27T12:18:15.000Z",
@@ -197,7 +404,7 @@
   {
    "id": "e2049d63348a",
    "t": "American rapper Macklemore begins 'Free Palestine' tour",
-   "ko": null,
+   "ko": "미국 래퍼 맥클모어(Macklemore)가 '프리 팔레스타인(Free Palestine)' 투어를 시작한다.",
    "src": "France 24",
    "u": "https://www.france24.com/en/video/20261027-american-rapper-macklemore-begins-free-palestine-tour",
    "at": "2026-10-27T11:57:27.000Z",
@@ -212,7 +419,7 @@
   {
    "id": "e0b188289c67",
    "t": "US midterms: Trump escalates anti-Muslim attacks against Democratic Senate candidate Abdul El-Sayed",
-   "ko": null,
+   "ko": "미국 중간고사: 트럼프, 압둘 엘 사이드 민주당 상원 후보에 대한 반무슬림 공격 확대",
    "src": "France 24",
    "u": "https://www.france24.com/en/video/20261027-us-midterms-trump-escalates-anti-muslim-attacks-against-democratic-senate-candidate-abdul-el-sayed",
    "at": "2026-10-27T11:56:12.000Z",
@@ -222,24 +429,9 @@
    ]
   },
   {
-   "id": "19ebc5f0e94e",
-   "t": "Truce begins in Ukraine city where residents ate weeds to survive",
-   "ko": "주민들이 생존을 위해 잡초를 먹었던 우크라이나 도시에서 휴전이 시작되었습니다.",
-   "src": "BBC",
-   "u": "https://www.bbc.co.uk/news/articles/ck20wjnv3w0jo?at_medium=RSS&at_campaign=rss",
-   "at": "2026-10-27T11:53:57.000Z",
-   "ev": [
-    "ukraine"
-   ],
-   "cc": [
-    "Ukraine",
-    "United States"
-   ]
-  },
-  {
    "id": "310a1199c77c",
    "t": "Sudan: One year after the fall of El-Fasher",
-   "ko": null,
+   "ko": "수단: El-Fasher가 함락된 지 1년 후",
    "src": "France 24",
    "u": "https://www.france24.com/en/video/20261027-sudan-one-year-after-the-fall-of-el-fasher",
    "at": "2026-10-27T11:46:35.000Z",
@@ -254,7 +446,7 @@
   {
    "id": "3b6694be27bf",
    "t": "South Africa suspends asylum applications after recent unrest",
-   "ko": null,
+   "ko": "남아프리카공화국, 최근 소요 사태로 망명 신청 중단",
    "src": "France 24",
    "u": "https://www.france24.com/en/video/20261027-south-africa-suspends-asylum-applications-after-recent-unrest",
    "at": "2026-10-27T11:37:35.000Z",
@@ -266,7 +458,7 @@
   {
    "id": "f3ee5e534ffd",
    "t": "French government concessions to students 'tactically shrewd' but risk creating new set of problems",
-   "ko": null,
+   "ko": "학생들에 대한 프랑스 정부의 양보는 '전술적으로 영리'하지만 새로운 문제를 야기할 위험이 있음",
    "src": "France 24",
    "u": "https://www.france24.com/en/french-government-concessions-to-students-tactically-shrewd-but-risk-creating-new-set-of-problems",
    "at": "2026-10-27T11:35:23.000Z",
@@ -278,7 +470,7 @@
   {
    "id": "82ed7d43ba2d",
    "t": "Algeria to deploy army units to Niger to protect economic interests",
-   "ko": null,
+   "ko": "알제리, 경제적 이익 보호 위해 니제르에 군대 배치",
    "src": "France 24",
    "u": "https://www.france24.com/en/video/20261027-algeria-deploys-army-units-to-niger-to-protect-economic-interests",
    "at": "2026-10-27T11:28:05.000Z",
@@ -293,7 +485,7 @@
   {
    "id": "53b1de753d57",
    "t": "French protests: Student union leaders vow to keep mobilising",
-   "ko": null,
+   "ko": "프랑스 시위: 학생회 지도자들, 계속 동원하겠다고 다짐",
    "src": "France 24",
    "u": "https://www.france24.com/en/video/20261027-french-protests-student-union-leaders-vow-to-keep-mobilising",
    "at": "2026-10-27T11:18:22.000Z",
@@ -305,7 +497,7 @@
   {
    "id": "1c338cd9b351",
    "t": "Israeli election: Fragile co-existence between residents in Jewish-Arab town of Lod",
-   "ko": null,
+   "ko": "이스라엘 선거: 유대인-아랍 마을 로드 주민들 사이의 취약한 공존",
    "src": "France 24",
    "u": "https://www.france24.com/en/tv-shows/focus/20261027-israeli-election-fragile-co-existence-between-residents-in-jewish-arab-town-of-lod",
    "at": "2026-10-27T11:14:33.000Z",
@@ -318,7 +510,7 @@
   {
    "id": "75de2eef677f",
    "t": "Chad hosts hundreds of thousands of Sudanese refugees as regional humanitarian crisis extends",
-   "ko": null,
+   "ko": "지역적 인도주의적 위기가 확대됨에 따라 차드는 수십만 명의 수단 난민을 수용하고 있습니다.",
    "src": "France 24",
    "u": "https://www.france24.com/en/video/20261027-chad-hosts-hundreds-of-thousands-of-sudanese-refugees-as-regional-humanitarian-crisis-extends",
    "at": "2026-10-27T11:13:55.000Z",
@@ -334,7 +526,7 @@
   {
    "id": "12864f7f071f",
    "t": "Turnout so far highest on record as Israelis vote in pivotal election",
-   "ko": null,
+   "ko": "이스라엘의 중추적 선거 투표 사상 역대 최고 투표율",
    "src": "BBC",
    "u": "https://www.bbc.co.uk/news/articles/c3j47l4kdez4o?at_medium=RSS&at_campaign=rss",
    "at": "2026-10-27T11:11:33.000Z",
@@ -348,7 +540,7 @@
   {
    "id": "c0c64078a63c",
    "t": "Syria slams deadly Jordan strikes as ‘unacceptable’ breach of airspace",
-   "ko": null,
+   "ko": "시리아, 요르단의 치명적인 공습은 '용납할 수 없는' 영공 침해라고 비난",
    "src": "France 24",
    "u": "https://www.france24.com/en/middle-east/20261027-syria-slams-deadly-jordan-strikes-as-unacceptable-breach-of-airspace",
    "at": "2026-10-27T11:02:18.000Z",
@@ -363,7 +555,7 @@
   {
    "id": "d4438769fc95",
    "t": "Jordan launches airstrikes in Syria after church attack",
-   "ko": null,
+   "ko": "요르단, 교회 공격 후 시리아 공습 개시",
    "src": "France 24",
    "u": "https://www.france24.com/en/jordan-launches-airstrikes-in-syria-after-church-attack",
    "at": "2026-10-27T10:59:14.000Z",
@@ -379,7 +571,7 @@
   {
    "id": "55f3ea8f84e2",
    "t": "Families of victims killed in Jordanian strike deny links to church attack",
-   "ko": null,
+   "ko": "요르단 공습으로 사망한 희생자 가족, 교회 공격과의 연관성 부인",
    "src": "Al Jazeera",
    "u": "https://www.aljazeera.com/video/newsfeed/2026/10/27/families-of-victims-killed-in-jordanian-strike-deny-links-to-church-attack?traffic_source=rss",
    "at": "2026-10-27T10:52:48.000Z",
@@ -394,7 +586,7 @@
   {
    "id": "ca90ab01f948",
    "t": "Palestinians in West Bank fear further escalation of violence if Netanyahu remains PM",
-   "ko": null,
+   "ko": "서안 지구의 팔레스타인인들은 네타냐후가 총리로 남을 경우 폭력사태가 더욱 확대될 것을 우려하고 있습니다.",
    "src": "France 24",
    "u": "https://www.france24.com/en/palestinians-in-west-bank-fear-further-escalation-of-violence-if-netanyahu-remains-pm",
    "at": "2026-10-27T10:50:46.000Z",
@@ -410,7 +602,7 @@
   {
    "id": "d2b50cfbd8f7",
    "t": "Israelis vote in first national election since October 7 attack",
-   "ko": null,
+   "ko": "이스라엘, 10월 7일 테러 이후 첫 총선 투표",
    "src": "France 24",
    "u": "https://www.france24.com/en/israelis-vote-in-first-national-election-since-october-7-attack",
    "at": "2026-10-27T10:41:42.000Z",
@@ -422,7 +614,7 @@
   {
    "id": "74b41528b8fd",
    "t": "North Korean howitzer guns spotted close to border with South Korea",
-   "ko": null,
+   "ko": "북한 곡사포가 남한 국경 근처에서 발견됐다.",
    "src": "Al Jazeera",
    "u": "https://www.aljazeera.com/video/newsfeed/2026/10/27/north-korean-howitzer-guns-spotted-close-to-border-with-south-korea?traffic_source=rss",
    "at": "2026-10-27T10:22:20.000Z",
@@ -434,7 +626,7 @@
   {
    "id": "cffeb917f44a",
    "t": "Anthropic files for mammoth IPO as revenues and losses mount",
-   "ko": null,
+   "ko": "수익과 손실이 증가함에 따라 대규모 IPO를 위한 인류 파일",
    "src": "France 24",
    "u": "https://www.france24.com/en/tv-shows/business/20261027-anthropic-files-for-mammoth-ipo-as-revenues-and-losses-mount",
    "at": "2026-10-27T10:20:34.000Z",
@@ -447,7 +639,7 @@
   {
    "id": "f044bb0adcb6",
    "t": "Azerbaijan: Rare protests over hijab ban in schools",
-   "ko": null,
+   "ko": "아제르바이잔: 학교 내 히잡 금지에 대한 항의가 드물다",
    "src": "France 24",
    "u": "https://www.france24.com/en/tv-shows/the-observers/20261027-azerbaijan-rare-protests-over-hijab-ban-in-schools",
    "at": "2026-10-27T10:16:47.000Z",
@@ -459,7 +651,7 @@
   {
    "id": "9adf8dbb106e",
    "t": "Netanyahu's political survival on the line as Israel heads to the polls",
-   "ko": null,
+   "ko": "이스라엘이 여론조사를 앞두고 있는 가운데 네타냐후의 정치적 생존이 위태로워진다",
    "src": "France 24",
    "u": "https://www.france24.com/en/netanyahu-s-political-survival-on-the-line-as-israel-heads-to-the-polls",
    "at": "2026-10-27T10:14:33.000Z",
@@ -476,7 +668,7 @@
   {
    "id": "c3071901a667",
    "t": "Fears grow for Iranian athletes on death row as mountaineer latest to be hanged",
-   "ko": null,
+   "ko": "최근 교수형에 처해진 산악인으로 사형수로 복역 중인 이란 선수들에 대한 두려움이 커지고 있습니다.",
    "src": "The Guardian",
    "u": "https://www.theguardian.com/global-development/2026/oct/27/fears-grow-for-iranian-athletes-on-death-row-as-mountaineer-latest-to-be-hanged",
    "at": "2026-10-27T09:30:30.000Z",
@@ -594,6 +786,16 @@
    ]
   },
   {
+   "id": "7df47367b469",
+   "t": "'I would do it again' - Kaepernick reflects on price of protest, 10 years on",
+   "ko": "'나는 다시 할 것이다' - 캐퍼닉은 10년 동안 시위의 대가를 반성했다",
+   "src": "BBC",
+   "u": "https://www.bbc.co.uk/sport/american-football/articles/cm3el5dnpxp2o?at_medium=RSS&at_campaign=rss",
+   "at": "2026-10-27T06:15:24.000Z",
+   "ev": [],
+   "cc": []
+  },
+  {
    "id": "c71703196fd3",
    "t": "Palestinian citizens of Israel fear they’re next target if far-right wins",
    "ko": "이스라엘의 팔레스타인 시민들은 극우가 승리하면 자신들이 다음 표적이 될 것을 두려워합니다",
@@ -661,7 +863,7 @@
   {
    "id": "cc7893a3b009",
    "t": "A quick guide to Israel's high-stakes election",
-   "ko": null,
+   "ko": "이스라엘의 중요한 선거에 대한 빠른 가이드",
    "src": "NPR",
    "u": "https://www.npr.org/2026/10/27/g-s1-149944/israel-election-guide",
    "at": "2026-10-27T04:54:30.000Z",
@@ -889,7 +1091,7 @@
   {
    "id": "a0b1885af390",
    "t": "Jordan attacks militants in Syria in retaliation for church attack",
-   "ko": null,
+   "ko": "요르단, 교회 공격에 대한 보복으로 시리아 무장세력 공격",
    "src": "The Guardian",
    "u": "https://www.theguardian.com/world/2026/oct/26/jordan-attacks-militants-syria-retaliation-for-last-week-church-attack",
    "at": "2026-10-26T22:08:38.000Z",
@@ -1617,7 +1819,7 @@
   {
    "id": "fadc19e7297c",
    "t": "World News in Brief: Ethiopians flee to Kenya amidst renewed conflict, new head of UN’s food programme, UN mission in Somalia concludes",
-   "ko": null,
+   "ko": "세계 뉴스 요약: 에티오피아인들이 새로운 분쟁 속에서 케냐로 피신했다고 유엔 식량 프로그램의 새로운 수장이 소말리아 주재 유엔 대표단에서 결론을 내렸습니다.",
    "src": "UN News",
    "u": "https://news.un.org/feed/view/en/story/2026/10/1168674",
    "at": "2026-10-26T12:00:00.000Z",
@@ -1991,189 +2193,6 @@
    "cc": [
     "North Korea",
     "South Korea"
-   ]
-  },
-  {
-   "id": "7a8d4de6bcd2",
-   "t": "‘Someone has been following me’: safety fears after bullet inscribed with ‘RAT’ left on Victorian minister’s car",
-   "ko": "'누군가 나를 따라왔다': 빅토리아 장관의 차에 'RAT'라고 새겨진 총알이 남아 안전에 대한 두려움",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/australia-news/2026/oct/26/labor-mp-paul-edbrooke-bullet-on-car-rat-ntwnfb",
-   "at": "2026-10-26T02:38:37.000Z",
-   "ev": [],
-   "cc": []
-  },
-  {
-   "id": "ed0da1b7fd14",
-   "t": "Xi Jinping’s corruption crackdown in the spotlight as China prepares for meeting of top leaders",
-   "ko": "중국이 최고 지도자 회담을 준비하면서 시진핑의 부패 척결이 주목을 받고 있다",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/world/2026/oct/26/xi-jinping-corruption-crackdown-china-fifth-plenum",
-   "at": "2026-10-26T00:58:25.000Z",
-   "ev": [],
-   "cc": [
-    "China"
-   ]
-  },
-  {
-   "id": "ae996541fc23",
-   "t": "‘Like a stone in our hearts’: PM leads Helen Haines tributes as parliament pauses to praise ‘fighter’",
-   "ko": "'우리 마음 속의 돌처럼': 총리는 의회가 '전사'를 칭찬하기 위해 잠시 멈추는 동안 헬렌 헤인즈 추모를 주도합니다.",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/australia-news/2026/oct/26/albanese-leads-helen-haines-tributes-as-parliament-pauses-ntwnfb",
-   "at": "2026-10-26T00:48:07.000Z",
-   "ev": [],
-   "cc": [
-    "Australia"
-   ]
-  },
-  {
-   "id": "64088e786994",
-   "t": "Trump escalates anti-Muslim rhetoric in fierce attack on El-Sayed",
-   "ko": "트럼프, 엘 사이드에 대한 맹렬한 공격으로 반무슬림 수사 확대",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/video/newsfeed/2026/10/26/trump-escalates-anti-muslim-rhetoric-in-fierce-attack-on-el-sayed?traffic_source=rss",
-   "at": "2026-10-26T00:02:55.000Z",
-   "ev": [],
-   "cc": []
-  },
-  {
-   "id": "d420437ab0c6",
-   "t": "Iran war live: Saudi, Pakistani and Turkish defence officials due in Tehran",
-   "ko": "이란 전쟁 라이브: 테헤란에 예정된 사우디, 파키스탄, 터키 국방 관계자",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/news/liveblog/2026/10/26/iran-war-live-trump-rules-out-strikes-today-israeli-forces-raid-hebron?traffic_source=rss",
-   "at": "2026-10-26T00:00:00.000Z",
-   "ev": [
-    "iran",
-    "yemen"
-   ],
-   "cc": [
-    "Iran",
-    "Saudi Arabia",
-    "Pakistan"
-   ]
-  },
-  {
-   "id": "3a94b70ec6e9",
-   "t": "Serbian leader Aleksandar Vučić ousted by student movement in seismic election",
-   "ko": "세르비아 지도자 알렉산다르 부치치, 지진 선거에서 학생운동에 의해 축출",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/world/2026/oct/25/serbian-leader-aleksandar-vucic-concedes-defeat-in-fiercely-contested-parliamentary-election",
-   "at": "2026-10-25T23:42:32.000Z",
-   "ev": [],
-   "cc": [
-    "Serbia"
-   ]
-  },
-  {
-   "id": "1ecafaded844",
-   "t": "‘Door to EU is open’ new Serbian government told after Vučić concedes election – Europe live as it happened",
-   "ko": "Vučić가 선거를 인정한 후 'EU로 향하는 문이 열려 있습니다'라고 세르비아 새 정부가 밝혔습니다. 유럽은 일어난 일대로 살고 있습니다.",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/world/live/2026/oct/25/europe-serbia-elections-aleksander-vucic-student-list-protests-bulgaria-latest-news-updates",
-   "at": "2026-10-25T23:40:57.000Z",
-   "ev": [],
-   "cc": [
-    "Serbia",
-    "United Kingdom"
-   ]
-  },
-  {
-   "id": "16675e491c28",
-   "t": "Thousands protest in Prague against public media funding reforms",
-   "ko": "프라하에서 수천 명이 공공 미디어 자금 지원 개혁에 반대하는 시위를 벌였습니다.",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/news/2026/10/25/thousands-protest-in-prague-against-public-media-funding-reforms?traffic_source=rss",
-   "at": "2026-10-25T23:29:13.000Z",
-   "ev": [],
-   "cc": []
-  },
-  {
-   "id": "8389c88075a4",
-   "t": "Report: IDF chief pushes back on Netanyahu's order",
-   "ko": "보고서: IDF 사무총장, 네타냐후의 명령에 반발",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/video/20261025-report-idf-pushes-back-on-netanyahu-s-order",
-   "at": "2026-10-25T23:24:14.000Z",
-   "ev": [
-    "iran"
-   ],
-   "cc": [
-    "Israel",
-    "Iran"
-   ]
-  },
-  {
-   "id": "d33d24266c27",
-   "t": "Deeply divided Israel braces for pivotal election",
-   "ko": "중추적 선거를 위해 깊게 분열된 이스라엘 교정기",
-   "src": "BBC",
-   "u": "https://www.bbc.co.uk/news/articles/ckpdgy6pl7xlo?at_medium=RSS&at_campaign=rss",
-   "at": "2026-10-25T22:11:13.000Z",
-   "ev": [],
-   "cc": [
-    "Israel"
-   ]
-  },
-  {
-   "id": "4e5945a0ba0e",
-   "t": "Marine Le Pen vows French ‘renaissance’ as far right eyes seat of power",
-   "ko": "마린 르펜, 극우 권력의 자리에 프랑스 '르네상스' 다짐",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/news/2026/10/25/marine-le-pen-vows-a-french-renaissance-as-far-right-eyes-seat-of-power?traffic_source=rss",
-   "at": "2026-10-25T21:50:36.000Z",
-   "ev": [],
-   "cc": [
-    "France"
-   ]
-  },
-  {
-   "id": "c7507fd7426f",
-   "t": "Serbia's Vucic concedes defeat in historic snap election with record turnout",
-   "ko": "세르비아의 부치치, 역사적인 임시 선거에서 기록적인 투표율로 패배 인정",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/europe/20261025-serbia-s-vucic-concedes-defeat-in-historic-snap-election-with-record-turnout",
-   "at": "2026-10-25T21:24:42.000Z",
-   "ev": [],
-   "cc": [
-    "Serbia"
-   ]
-  },
-  {
-   "id": "e3d5025bd972",
-   "t": "Kenya bus crash kills at least 24 as government vows road safety crackdown",
-   "ko": "케냐 정부가 도로 안전 단속을 약속함에 따라 케냐 버스 충돌로 최소 24 명이 사망했습니다.",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/news/2026/10/25/kenya-bus-crash-kills-at-least-24-as-government-vows-road-safety-crackdown?traffic_source=rss",
-   "at": "2026-10-25T21:00:02.000Z",
-   "ev": [],
-   "cc": [
-    "Kenya"
-   ]
-  },
-  {
-   "id": "ccd700de5b8f",
-   "t": "Macron accused of putting France’s right to protest at risk with ‘vandal’s law’",
-   "ko": "마크롱은 '반달법'으로 프랑스의 시위 권리를 위험에 빠뜨렸다고 비난받았다.",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/world/2026/oct/25/macrons-vandals-pay-bill-puts-right-to-protest-at-risk",
-   "at": "2026-10-25T19:57:40.000Z",
-   "ev": [],
-   "cc": [
-    "France"
-   ]
-  },
-  {
-   "id": "300463f82bee",
-   "t": "The narrative battle over France’s unrest",
-   "ko": "프랑스의 불안을 둘러싼 서사적 전투",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/video/the-listening-post/2026/10/25/the-narrative-battle-over-frances-unrest?traffic_source=rss",
-   "at": "2026-10-25T19:36:14.000Z",
-   "ev": [],
-   "cc": [
-    "France"
    ]
   }
  ]
