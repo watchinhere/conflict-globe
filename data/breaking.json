@@ -1,25 +1,25 @@
 {
- "updated": "2026-10-27T02:24:59.102Z",
+ "updated": "2026-10-27T08:22:45.717Z",
  "sources": {
   "BBC": {
    "ok": true,
-   "n": 7
+   "n": 9
   },
   "Al Jazeera": {
    "ok": true,
-   "n": 10
+   "n": 7
   },
   "The Guardian": {
    "ok": true,
-   "n": 13
+   "n": 16
   },
   "DW": {
    "ok": true,
-   "n": 3
+   "n": 2
   },
   "France 24": {
    "ok": true,
-   "n": 10
+   "n": 11
   },
   "UN News": {
    "ok": true,
@@ -27,10 +27,284 @@
   },
   "NPR": {
    "ok": true,
-   "n": 2
+   "n": 3
   }
  },
  "items": [
+  {
+   "id": "ec86a28a710e",
+   "t": "Live: Polls open in first Israeli election since October 7 attack",
+   "ko": "라이브: 10월 7일 공격 이후 첫 번째 이스라엘 선거에서 여론조사가 시작됩니다",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/middle-east/20261027-live-polls-open-in-first-israeli-election-since-october-7-attack",
+   "at": "2026-10-27T08:15:50.000Z",
+   "ev": [
+    "gaza"
+   ],
+   "cc": [
+    "Israel"
+   ]
+  },
+  {
+   "id": "19ebc5f0e94e",
+   "t": "Truce begins in Ukraine city where residents ate weeds to survive",
+   "ko": "주민들이 생존을 위해 잡초를 먹었던 우크라이나 도시에서 휴전이 시작되었습니다.",
+   "src": "BBC",
+   "u": "https://www.bbc.co.uk/news/articles/ck20wjnv3w0jo?at_medium=RSS&at_campaign=rss",
+   "at": "2026-10-27T08:01:22.000Z",
+   "ev": [
+    "ukraine"
+   ],
+   "cc": [
+    "Ukraine",
+    "United States"
+   ]
+  },
+  {
+   "id": "3790e91b806a",
+   "t": "French education reform proposals 'vague': Govt created 'most of the problems' it now seek to solve",
+   "ko": "프랑스 교육 개혁 제안 '모호함': 정부는 현재 해결하려는 '대부분의 문제'를 만들어냈습니다.",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/tv-shows/spotlight/20261027-french-education-reform-proposals-vague-govt-created-most-of-the-problems-it-now-seek-to-solve",
+   "at": "2026-10-27T07:31:55.000Z",
+   "ev": [],
+   "cc": [
+    "France"
+   ]
+  },
+  {
+   "id": "e04be64cfe18",
+   "t": "Melting glaciers in Dolomites reveal cache of first world war munitions",
+   "ko": "돌로미테 빙하가 녹아 제1차 세계대전 당시 탄약이 보관된 곳이 드러났습니다.",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/world/2026/oct/27/melting-glaciers-dolomites-first-world-war-munitions-italy",
+   "at": "2026-10-27T07:00:04.000Z",
+   "ev": [],
+   "cc": [
+    "Italy",
+    "France"
+   ]
+  },
+  {
+   "id": "a32590f8ee16",
+   "t": "US, EU and 30 countries warn of famine risk in Sudan, call for aid",
+   "ko": "미국, EU 및 30개 국가에서 수단의 기근 위험 경고, 지원 요청",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/10/27/us-eu-and-30-countries-warn-of-famine-risk-in-sudan-call-for-aid?traffic_source=rss",
+   "at": "2026-10-27T06:56:30.000Z",
+   "ev": [
+    "sudan"
+   ],
+   "cc": [
+    "United States",
+    "Sudan"
+   ]
+  },
+  {
+   "id": "aa29d63e6a75",
+   "t": "Sixty Christians killed in Ethiopia’s Oromia region",
+   "ko": "에티오피아 오로미아 지역에서 기독교인 60명 사망",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/10/27/sixty-christians-killed-in-ethiopias-oromia-region?traffic_source=rss",
+   "at": "2026-10-27T06:49:45.000Z",
+   "ev": [
+    "ethiopia"
+   ],
+   "cc": [
+    "Ethiopia"
+   ]
+  },
+  {
+   "id": "d5a5346ba1b4",
+   "t": "Asthma deaths reach decade-high levels and number of Australians dying of dementia grows",
+   "ko": "천식 사망자가 10년 만에 최고 수준에 도달하고 치매로 사망하는 호주인의 수가 증가합니다.",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/australia-news/2026/oct/27/asthma-deaths-reach-decade-high-australia-dementia-deaths-growing-abs-data",
+   "at": "2026-10-27T06:40:29.000Z",
+   "ev": [],
+   "cc": [
+    "Australia"
+   ]
+  },
+  {
+   "id": "09456571b6e0",
+   "t": "Bridget McKenzie fears MPs will ‘retreat from the public square’ following alleged attack on Helen Haines – as it happened",
+   "ko": "브리짓 맥켄지는 헬렌 헤인즈에 대한 공격 혐의로 국회의원들이 '광장에서 물러날' 것을 우려하고 있습니다.",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/australia-news/live/2026/oct/27/one-nation-pauline-hanson-independent-jacqui-lambie-labor-anthony-albanese-coalition-ntwnfb",
+   "at": "2026-10-27T06:28:14.000Z",
+   "ev": [],
+   "cc": []
+  },
+  {
+   "id": "98ebb6ca13ef",
+   "t": "Palestine weekly: West Bank under siege as Israelis go to the polls",
+   "ko": "팔레스타인 주간: 이스라엘인들이 투표소에 가는 동안 서안 지구가 포위당했습니다.",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/10/27/palestine-weekly-west-bank-under-siege-as-israelis-go-to-the-polls?traffic_source=rss",
+   "at": "2026-10-27T06:28:13.000Z",
+   "ev": [
+    "gaza",
+    "westbank"
+   ],
+   "cc": [
+    "Palestine",
+    "Israel"
+   ]
+  },
+  {
+   "id": "c71703196fd3",
+   "t": "Palestinian citizens of Israel fear they’re next target if far-right wins",
+   "ko": "이스라엘의 팔레스타인 시민들은 극우가 승리하면 자신들이 다음 표적이 될 것을 두려워합니다",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/features/2026/10/27/palestinian-citizens-of-israel-fear-theyre-next-target-if-far-right-wins?traffic_source=rss",
+   "at": "2026-10-27T06:12:04.000Z",
+   "ev": [
+    "westbank"
+   ],
+   "cc": [
+    "Palestine",
+    "Israel"
+   ]
+  },
+  {
+   "id": "7b5aa5740939",
+   "t": "‘It’s the smell of freedom’: Belgrade cleans up after Student List triumph",
+   "ko": "'자유의 냄새': 학생 목록 승리 후 베오그라드 청소",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/world/2026/oct/27/belgrade-cleans-up-after-student-list-triumph-serbia",
+   "at": "2026-10-27T06:00:04.000Z",
+   "ev": [],
+   "cc": [
+    "Serbia"
+   ]
+  },
+  {
+   "id": "e736d8f21903",
+   "t": "Local ceasefire brokered by Melania Trump starts in southern Ukraine",
+   "ko": "멜라니아 트럼프가 중재한 지역 휴전이 우크라이나 남부에서 시작됐다.",
+   "src": "NPR",
+   "u": "https://www.npr.org/2026/10/27/g-s1-150037/russia-ukraine-war",
+   "at": "2026-10-27T05:26:58.000Z",
+   "ev": [
+    "ukraine"
+   ],
+   "cc": [
+    "Ukraine",
+    "Russia",
+    "United States"
+   ]
+  },
+  {
+   "id": "47386fe30db2",
+   "t": "Why has France struggled to address students’ demands?",
+   "ko": "프랑스가 학생들의 요구를 해결하기 위해 애쓰는 이유는 무엇입니까?",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/10/27/why-has-france-struggled-to-address-students-demands?traffic_source=rss",
+   "at": "2026-10-27T05:22:22.000Z",
+   "ev": [],
+   "cc": [
+    "France"
+   ]
+  },
+  {
+   "id": "b043ca1b8e43",
+   "t": "Labor condemns One Nation cartoons depicting Penny Wong being murdered as Hanson says videos ‘not going anywhere’",
+   "ko": "노동당은 Hanson이 동영상이 '아무데도 가지 않을 것'이라고 말하면서 Penny Wong이 살해되는 것을 묘사하는 One Nation 만화를 비난합니다.",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/australia-news/2026/oct/27/one-nation-cartoon-penny-wong-beheading-condemned-ntwnfb",
+   "at": "2026-10-27T05:13:57.000Z",
+   "ev": [],
+   "cc": []
+  },
+  {
+   "id": "cc7893a3b009",
+   "t": "A quick guide to Israel's high-stakes elections",
+   "ko": "이스라엘의 중요한 선거에 대한 빠른 가이드",
+   "src": "NPR",
+   "u": "https://www.npr.org/2026/10/27/g-s1-149944/israel-election-guide",
+   "at": "2026-10-27T04:54:30.000Z",
+   "ev": [
+    "gaza"
+   ],
+   "cc": [
+    "Israel"
+   ]
+  },
+  {
+   "id": "b0a7ee6d19b0",
+   "t": "Saudi-led coalition says it downed Houthi missiles, drones aimed at kingdom",
+   "ko": "사우디 주도 연합군, 왕국 겨냥한 후티 미사일과 드론 격추",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/10/27/saudi-led-coalition-destroys-four-houthi-drones?traffic_source=rss",
+   "at": "2026-10-27T04:54:26.000Z",
+   "ev": [
+    "iran",
+    "yemen"
+   ],
+   "cc": [
+    "Saudi Arabia",
+    "Turkey",
+    "Pakistan"
+   ]
+  },
+  {
+   "id": "85242488b3aa",
+   "t": "Israelis vote in tense election seen as a referendum on Netanyahu",
+   "ko": "네타냐후에 대한 국민투표로 보이는 긴장된 선거에서 이스라엘의 투표",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/middle-east/20261027-israel-election-2026-netanyahu-october-7",
+   "at": "2026-10-27T04:12:41.000Z",
+   "ev": [
+    "gaza"
+   ],
+   "cc": []
+  },
+  {
+   "id": "85b97442e79b",
+   "t": "US bans vehicles from China’s BYD at Japan military base, calling them ‘unacceptable’ risk",
+   "ko": "미국, 日군기지 내 중국 BYD 차량 금지…\"용납할 수 없는 위험\"",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/world/2026/oct/27/us-bans-byd-electric-vehicles-kadena-military-base",
+   "at": "2026-10-27T02:50:31.000Z",
+   "ev": [],
+   "cc": [
+    "United States",
+    "China",
+    "Japan"
+   ]
+  },
+  {
+   "id": "12bda8609c19",
+   "t": "Jordan carries out deadly strike in Syria in retaliation for church attack",
+   "ko": "요르단, 교회 공격에 대한 보복으로 시리아에 치명적인 공습 실시",
+   "src": "BBC",
+   "u": "https://www.bbc.co.uk/news/articles/cq8ezg6dy6xlo?at_medium=RSS&at_campaign=rss",
+   "at": "2026-10-27T02:40:17.000Z",
+   "ev": [
+    "syria"
+   ],
+   "cc": [
+    "Jordan",
+    "Syria"
+   ]
+  },
+  {
+   "id": "bf6ef63acf66",
+   "t": "Russia halts strikes on Ukraine’s Kherson as Oleshky ceasefire takes effect",
+   "ko": "러시아, 올레쉬키 휴전 발효로 우크라이나 헤르손 공습 중단",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/10/27/russia-halts-strikes-on-ukraines-kherson-as-oleshky-ceasefire-takes-effect?traffic_source=rss",
+   "at": "2026-10-27T02:29:00.000Z",
+   "ev": [
+    "ukraine"
+   ],
+   "cc": [
+    "Russia",
+    "Ukraine",
+    "United States"
+   ]
+  },
   {
    "id": "28b7c31febcc",
    "t": "US-EU trade truce at risk over $3.4 billion Airbus loan, Trump official warns",
@@ -42,16 +316,6 @@
    "cc": [
     "United States"
    ]
-  },
-  {
-   "id": "09456571b6e0",
-   "t": "Australian politics live: Albanese mulls duress alarms for MPs; former ABC news director’s payout revealed",
-   "ko": "호주 정치 생방송: 알바인들은 의원들에 대한 협박 경보를 고민합니다. 전 ABC 뉴스 국장 연봉 공개",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/australia-news/live/2026/oct/27/one-nation-pauline-hanson-independent-jacqui-lambie-labor-anthony-albanese-coalition-ntwnfb",
-   "at": "2026-10-27T02:14:25.000Z",
-   "ev": [],
-   "cc": []
   },
   {
    "id": "0b0981130510",
@@ -324,7 +588,8 @@
    "u": "https://www.theguardian.com/world/2026/oct/26/netanyahu-reportedly-pressured-israel-military-attack-iran-runup-to-election",
    "at": "2026-10-26T19:21:36.000Z",
    "ev": [
-    "iran"
+    "iran",
+    "gaza"
    ],
    "cc": [
     "Iran",
@@ -1864,246 +2129,6 @@
    "ev": [],
    "cc": [
     "United States"
-   ]
-  },
-  {
-   "id": "e03c179ee9da",
-   "t": "Voting under way across Brazil in tight presidential run-off between Lula and Flavio Bolsonaro",
-   "ko": "브라질 전역에서 룰라와 플라비오 보우소나루의 치열한 대선 결선투표가 진행 중입니다.",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/americas/20261025-live-voting-under-way-across-brazil-in-tight-presidential-run-off-between-lula-and-bolsonaro",
-   "at": "2026-10-25T12:46:02.000Z",
-   "ev": [],
-   "cc": [
-    "Brazil"
-   ]
-  },
-  {
-   "id": "5dbd5e1a6d69",
-   "t": "Hundreds of thousands march across France in protests over schools and policing",
-   "ko": "수십만 명이 프랑스 전역에서 학교와 경찰에 대한 항의 시위를 벌였습니다.",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/world/2026/oct/24/hundreds-of-thousands-march-across-france-in-protests-over-schools-and-policing",
-   "at": "2026-10-25T12:07:05.000Z",
-   "ev": [],
-   "cc": [
-    "France"
-   ]
-  },
-  {
-   "id": "6e5e55b7178a",
-   "t": "US military gives Elon Musk’s SpaceX access to sensitive tracking data",
-   "ko": "미군, Elon Musk에게 SpaceX에 민감한 추적 데이터에 대한 액세스 권한 부여",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/science/2026/oct/25/spacex-access-sensitive-tracking-data",
-   "at": "2026-10-25T12:00:05.000Z",
-   "ev": [],
-   "cc": [
-    "United States"
-   ]
-  },
-  {
-   "id": "83d9e574cdce",
-   "t": "CENTCOM reportedly has plans for Iran strikes: Will Trump approve them?",
-   "ko": "CENTCOM은 이란 공격을 계획하고 있는 것으로 알려졌습니다. 트럼프가 이를 승인할까요?",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/news/2026/10/25/centcom-reportedly-has-plans-for-iran-strikes-will-trump-approve-them?traffic_source=rss",
-   "at": "2026-10-25T11:39:41.000Z",
-   "ev": [
-    "iran"
-   ],
-   "cc": [
-    "Iran"
-   ]
-  },
-  {
-   "id": "7105a62123a7",
-   "t": "Far-right leader Le Pen says visible policing keeps protests smooth",
-   "ko": "극우 지도자 르펜은 가시적인 치안이 시위를 원활하게 유지한다고 말했습니다.",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/far-right-leader-le-pen-says-visible-policing-keeps-protests-smooth",
-   "at": "2026-10-25T11:39:18.000Z",
-   "ev": [],
-   "cc": [
-    "France",
-    "Jordan"
-   ]
-  },
-  {
-   "id": "d030056bbfb7",
-   "t": "Israel: Demonstrators rally against government ahead of election",
-   "ko": "이스라엘: 선거를 앞두고 정부에 반대하는 시위대",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/israel-demonstrators-rally-against-government-ahead-of-election",
-   "at": "2026-10-25T11:38:01.000Z",
-   "ev": [],
-   "cc": [
-    "Israel"
-   ]
-  },
-  {
-   "id": "bfcdf7b3fcd4",
-   "t": "West Bank: Families forcibly displaced in Hebron",
-   "ko": "서안 지구: 헤브론에서 강제 이주된 가족들",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/west-bank-families-forcibly-displaced-in-hebron",
-   "at": "2026-10-25T11:35:30.000Z",
-   "ev": [
-    "westbank"
-   ],
-   "cc": [
-    "Palestine",
-    "Israel"
-   ]
-  },
-  {
-   "id": "c694c111914d",
-   "t": "At least 1,300 people arrested in mass weekend protests across France",
-   "ko": "프랑스 전역에서 주말 대규모 시위로 최소 1,300명 체포",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/france/20261025-at-least-1-300-people-arrested-in-mass-weekend-protests-across-france",
-   "at": "2026-10-25T11:02:41.000Z",
-   "ev": [],
-   "cc": [
-    "France"
-   ]
-  },
-  {
-   "id": "c2bce29ee383",
-   "t": "Demand for UK government action 10 months after British man’s death in Grenada",
-   "ko": "그레나다에서 영국인 사망 10개월 후 영국 정부 조치 요구",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/world/2026/oct/25/demand-uk-government-action-after-british-man-death-grenada",
-   "at": "2026-10-25T11:00:01.000Z",
-   "ev": [],
-   "cc": [
-    "United Kingdom"
-   ]
-  },
-  {
-   "id": "f5e114da160a",
-   "t": "El Salvador president says bodies found in Haiti are not those of hostages",
-   "ko": "엘살바도르 대통령 \"아이티에서 발견된 시신은 인질의 시신이 아니다\"",
-   "src": "BBC",
-   "u": "https://www.bbc.co.uk/news/articles/c8ly097zw1xwo?at_medium=RSS&at_campaign=rss",
-   "at": "2026-10-25T10:55:33.000Z",
-   "ev": [
-    "haiti"
-   ],
-   "cc": [
-    "El Salvador",
-    "Haiti"
-   ]
-  },
-  {
-   "id": "8def851d2ffe",
-   "t": "Saudi Arabia intercepts missiles and drones as fighting with Houthis rages",
-   "ko": "사우디 아라비아, 후티 반군과의 전투 중 미사일과 드론 요격",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/news/2026/10/25/saudi-arabia-intercepts-missiles-and-drones-as-fighting-with-houthis-rages?traffic_source=rss",
-   "at": "2026-10-25T10:42:51.000Z",
-   "ev": [
-    "yemen"
-   ],
-   "cc": [
-    "Saudi Arabia"
-   ]
-  },
-  {
-   "id": "0a5bd0ce690d",
-   "t": "More than 1,300 arrested as clashes follow another day of mass protests across France",
-   "ko": "프랑스 전역에서 또다시 대규모 시위가 벌어진 뒤 충돌로 1,300명 이상이 체포됐다.",
-   "src": "BBC",
-   "u": "https://www.bbc.co.uk/news/articles/c95ynd587ynzo?at_medium=RSS&at_campaign=rss",
-   "at": "2026-10-25T10:38:15.000Z",
-   "ev": [],
-   "cc": [
-    "France"
-   ]
-  },
-  {
-   "id": "f979e2cd26e8",
-   "t": "Suspect in racist Paris shooting transferred to psychiatric unit, had drugs in his system",
-   "ko": "파리 인종차별 총격 용의자, 정신과로 이송",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/france/20261025-suspect-in-racist-gun-attack-near-paris-transferred-to-psychiatric-unit",
-   "at": "2026-10-25T10:36:42.000Z",
-   "ev": [],
-   "cc": []
-  },
-  {
-   "id": "ac14c9b5ec8e",
-   "t": "France: Some clashes erupted at end of protests",
-   "ko": "프랑스: 시위 끝에 일부 충돌 발생",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/france-some-clashes-erupted-at-end-of-protests",
-   "at": "2026-10-25T09:35:20.000Z",
-   "ev": [],
-   "cc": [
-    "France"
-   ]
-  },
-  {
-   "id": "b8216b5cd701",
-   "t": "More than 400.000 protest across France",
-   "ko": "프랑스 전역에서 40만 명 이상의 시위",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/more-than-400-000-protest-across-france",
-   "at": "2026-10-25T09:32:21.000Z",
-   "ev": [],
-   "cc": [
-    "France"
-   ]
-  },
-  {
-   "id": "3a883dbcc7d2",
-   "t": "Hundreds of thousands march in France to protest against government",
-   "ko": "프랑스에서는 수십만 명이 정부에 항의하는 행진을 벌이고 있습니다.",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/hundreds-of-thousands-march-in-france-to-protest-against-government",
-   "at": "2026-10-25T09:29:39.000Z",
-   "ev": [],
-   "cc": [
-    "France"
-   ]
-  },
-  {
-   "id": "48011804eb0b",
-   "t": "Israeli forces turn Hebron homes into military posts amid lockdown",
-   "ko": "이스라엘군, 봉쇄 조치로 헤브론 주택을 군사 기지로 전환",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/news/2026/10/25/israeli-forces-turn-hebron-homes-into-military-posts-amid-lockdown?traffic_source=rss",
-   "at": "2026-10-25T09:27:03.000Z",
-   "ev": [
-    "westbank"
-   ],
-   "cc": [
-    "Israel",
-    "Palestine"
-   ]
-  },
-  {
-   "id": "ee9b22518f14",
-   "t": "Prague honours Roma resistance fighters against Hitler",
-   "ko": "프라하는 히틀러에 대항한 로마 저항군을 기립니다.",
-   "src": "DW",
-   "u": "https://www.dw.com/en/prague-honours-roma-resistance-fighters-against-hitler/a-79725015?maca=en-rss-en-world-4025-rdf",
-   "at": "2026-10-25T09:17:00.000Z",
-   "ev": [],
-   "cc": [
-    "Germany"
-   ]
-  },
-  {
-   "id": "493bab280e45",
-   "t": "Prague honors Roma resistance fighters against Hitler",
-   "ko": "프라하는 히틀러에 대항한 로마 저항군을 기립니다.",
-   "src": "DW",
-   "u": "https://www.dw.com/en/prague-honors-roma-resistance-fighters-against-hitler/a-79725015?maca=en-rss-en-world-4025-rdf",
-   "at": "2026-10-25T09:17:00.000Z",
-   "ev": [],
-   "cc": [
-    "Germany"
    ]
   }
  ]
