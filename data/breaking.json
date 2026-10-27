@@ -1,13 +1,13 @@
 {
- "updated": "2026-10-27T08:22:45.717Z",
+ "updated": "2026-10-27T15:00:23.632Z",
  "sources": {
   "BBC": {
    "ok": true,
-   "n": 9
+   "n": 5
   },
   "Al Jazeera": {
    "ok": true,
-   "n": 7
+   "n": 9
   },
   "The Guardian": {
    "ok": true,
@@ -15,15 +15,15 @@
   },
   "DW": {
    "ok": true,
-   "n": 2
+   "n": 1
   },
   "France 24": {
    "ok": true,
-   "n": 11
+   "n": 17
   },
   "UN News": {
    "ok": true,
-   "n": 4
+   "n": 5
   },
   "NPR": {
    "ok": true,
@@ -31,6 +31,462 @@
   }
  },
  "items": [
+  {
+   "id": "8df6f7c02667",
+   "t": "Norway’s PM defends rare call with Putin on Ukraine despite doubts among European leaders – Europe live",
+   "ko": null,
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/world/live/2026/oct/27/russia-ukraine-oleshky-serbia-france-europe-latest-news-updates",
+   "at": "2026-10-27T14:02:54.000Z",
+   "ev": [
+    "ukraine"
+   ],
+   "cc": [
+    "Norway",
+    "Ukraine",
+    "Finland"
+   ]
+  },
+  {
+   "id": "e52839e179c8",
+   "t": "MP calls for rethink of pre-poll voting amid heightened security concerns in wake of Haines incident",
+   "ko": null,
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/australia-news/2026/oct/27/mp-calls-rethink-pre-poll-voting-helen-haines-heightened-security-concerns-ntwnfb",
+   "at": "2026-10-27T14:00:36.000Z",
+   "ev": [],
+   "cc": []
+  },
+  {
+   "id": "ea771f00a158",
+   "t": "Russia targets Kyiv as Finnish, Norwegian leaders hold rare call with Putin",
+   "ko": null,
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/10/27/russia-targets-kyiv-as-finnish-norwegian-leaders-hold-rare-call-with-putin?traffic_source=rss",
+   "at": "2026-10-27T13:59:37.000Z",
+   "ev": [
+    "ukraine"
+   ],
+   "cc": [
+    "Russia",
+    "Ukraine"
+   ]
+  },
+  {
+   "id": "ea34a025b9c3",
+   "t": "Lebanon’s lost olive season: harvesting olives under drones and warplanes",
+   "ko": null,
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/features/2026/10/27/lebanons-lost-olive-season-harvesting-olives-under-drones-and-warplanes?traffic_source=rss",
+   "at": "2026-10-27T13:54:43.000Z",
+   "ev": [
+    "lebanon"
+   ],
+   "cc": [
+    "Lebanon"
+   ]
+  },
+  {
+   "id": "658a12c42c44",
+   "t": "Melania or the pope: Who brokered Russia-Ukraine ceasefire in Oleshky?",
+   "ko": null,
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/10/27/melania-or-the-pope-who-brokered-russia-ukraine-ceasefire-in-oleshky?traffic_source=rss",
+   "at": "2026-10-27T13:45:01.000Z",
+   "ev": [
+    "ukraine"
+   ],
+   "cc": []
+  },
+  {
+   "id": "0506d41bf24c",
+   "t": "Russia strikes Kyiv ahead of localised ceasefire in Oleshky",
+   "ko": null,
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/video/newsfeed/2026/10/27/russia-strikes-kyiv-ahead-of-localised-ceasefire-in-oleshky?traffic_source=rss",
+   "at": "2026-10-27T13:34:07.000Z",
+   "ev": [
+    "ukraine"
+   ],
+   "cc": [
+    "Russia"
+   ]
+  },
+  {
+   "id": "1aec548def84",
+   "t": "Iranians brace for renewed attacks after Israeli, US elections",
+   "ko": null,
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/10/27/iranians-will-their-eyes-on-the-sky-for-bomb-when-israeli-us-elections-end?traffic_source=rss",
+   "at": "2026-10-27T13:23:32.000Z",
+   "ev": [
+    "iran"
+   ],
+   "cc": [
+    "Israel",
+    "United States",
+    "Iran"
+   ]
+  },
+  {
+   "id": "ececb58684b9",
+   "t": "India-China border face-offs test Modi six years after deadly clash",
+   "ko": null,
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/10/27/india-china-border-face-offs-test-modi-six-years-after-deadly-clash?traffic_source=rss",
+   "at": "2026-10-27T13:15:32.000Z",
+   "ev": [],
+   "cc": []
+  },
+  {
+   "id": "423e7f344c35",
+   "t": "Al Jazeera meets iconic pro-Palestine Japanese activist",
+   "ko": null,
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/video/newsfeed/2026/10/27/al-jazeera-meets-iconic-pro-palestine-japanese-activist?traffic_source=rss",
+   "at": "2026-10-27T13:06:28.000Z",
+   "ev": [
+    "gaza"
+   ],
+   "cc": [
+    "Japan",
+    "Israel",
+    "Palestine"
+   ]
+  },
+  {
+   "id": "e829f8e833eb",
+   "t": "Localised Russia-Ukraine ceasefire starts Ukrainian town facing starvation",
+   "ko": null,
+   "src": "France 24",
+   "u": "https://www.france24.com/en/video/20261027-localised-russia-ukraine-ceasefire-starts-ukrainian-town-facing-starvation",
+   "at": "2026-10-27T12:34:42.000Z",
+   "ev": [
+    "ukraine"
+   ],
+   "cc": [
+    "Ukraine",
+    "Russia",
+    "United States"
+   ]
+  },
+  {
+   "id": "41a2aeb234b0",
+   "t": "Co-ordinated cattle raids kill at least 72 people in South Sudan",
+   "ko": null,
+   "src": "BBC",
+   "u": "https://www.bbc.co.uk/news/articles/cr3wvl9qz3v2o?at_medium=RSS&at_campaign=rss",
+   "at": "2026-10-27T12:25:14.000Z",
+   "ev": [
+    "southsudan"
+   ],
+   "cc": [
+    "South Sudan"
+   ]
+  },
+  {
+   "id": "b476d2e871f8",
+   "t": "‘Are you waiting for me to be attacked?’ Fatima Payman slams PM over staffing",
+   "ko": null,
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/australia-news/2026/oct/27/albanese-promises-swift-response-on-mp-safety-as-he-mulls-panic-buttons-for-politicians-ntwnfb",
+   "at": "2026-10-27T12:18:15.000Z",
+   "ev": [],
+   "cc": []
+  },
+  {
+   "id": "e2049d63348a",
+   "t": "American rapper Macklemore begins 'Free Palestine' tour",
+   "ko": null,
+   "src": "France 24",
+   "u": "https://www.france24.com/en/video/20261027-american-rapper-macklemore-begins-free-palestine-tour",
+   "at": "2026-10-27T11:57:27.000Z",
+   "ev": [
+    "gaza"
+   ],
+   "cc": [
+    "Palestine",
+    "Ireland"
+   ]
+  },
+  {
+   "id": "e0b188289c67",
+   "t": "US midterms: Trump escalates anti-Muslim attacks against Democratic Senate candidate Abdul El-Sayed",
+   "ko": null,
+   "src": "France 24",
+   "u": "https://www.france24.com/en/video/20261027-us-midterms-trump-escalates-anti-muslim-attacks-against-democratic-senate-candidate-abdul-el-sayed",
+   "at": "2026-10-27T11:56:12.000Z",
+   "ev": [],
+   "cc": [
+    "United States"
+   ]
+  },
+  {
+   "id": "19ebc5f0e94e",
+   "t": "Truce begins in Ukraine city where residents ate weeds to survive",
+   "ko": "주민들이 생존을 위해 잡초를 먹었던 우크라이나 도시에서 휴전이 시작되었습니다.",
+   "src": "BBC",
+   "u": "https://www.bbc.co.uk/news/articles/ck20wjnv3w0jo?at_medium=RSS&at_campaign=rss",
+   "at": "2026-10-27T11:53:57.000Z",
+   "ev": [
+    "ukraine"
+   ],
+   "cc": [
+    "Ukraine",
+    "United States"
+   ]
+  },
+  {
+   "id": "310a1199c77c",
+   "t": "Sudan: One year after the fall of El-Fasher",
+   "ko": null,
+   "src": "France 24",
+   "u": "https://www.france24.com/en/video/20261027-sudan-one-year-after-the-fall-of-el-fasher",
+   "at": "2026-10-27T11:46:35.000Z",
+   "ev": [
+    "sudan",
+    "darfur"
+   ],
+   "cc": [
+    "Sudan"
+   ]
+  },
+  {
+   "id": "3b6694be27bf",
+   "t": "South Africa suspends asylum applications after recent unrest",
+   "ko": null,
+   "src": "France 24",
+   "u": "https://www.france24.com/en/video/20261027-south-africa-suspends-asylum-applications-after-recent-unrest",
+   "at": "2026-10-27T11:37:35.000Z",
+   "ev": [],
+   "cc": [
+    "South Africa"
+   ]
+  },
+  {
+   "id": "f3ee5e534ffd",
+   "t": "French government concessions to students 'tactically shrewd' but risk creating new set of problems",
+   "ko": null,
+   "src": "France 24",
+   "u": "https://www.france24.com/en/french-government-concessions-to-students-tactically-shrewd-but-risk-creating-new-set-of-problems",
+   "at": "2026-10-27T11:35:23.000Z",
+   "ev": [],
+   "cc": [
+    "France"
+   ]
+  },
+  {
+   "id": "82ed7d43ba2d",
+   "t": "Algeria to deploy army units to Niger to protect economic interests",
+   "ko": null,
+   "src": "France 24",
+   "u": "https://www.france24.com/en/video/20261027-algeria-deploys-army-units-to-niger-to-protect-economic-interests",
+   "at": "2026-10-27T11:28:05.000Z",
+   "ev": [
+    "niger"
+   ],
+   "cc": [
+    "Algeria",
+    "Niger"
+   ]
+  },
+  {
+   "id": "53b1de753d57",
+   "t": "French protests: Student union leaders vow to keep mobilising",
+   "ko": null,
+   "src": "France 24",
+   "u": "https://www.france24.com/en/video/20261027-french-protests-student-union-leaders-vow-to-keep-mobilising",
+   "at": "2026-10-27T11:18:22.000Z",
+   "ev": [],
+   "cc": [
+    "France"
+   ]
+  },
+  {
+   "id": "1c338cd9b351",
+   "t": "Israeli election: Fragile co-existence between residents in Jewish-Arab town of Lod",
+   "ko": null,
+   "src": "France 24",
+   "u": "https://www.france24.com/en/tv-shows/focus/20261027-israeli-election-fragile-co-existence-between-residents-in-jewish-arab-town-of-lod",
+   "at": "2026-10-27T11:14:33.000Z",
+   "ev": [],
+   "cc": [
+    "Israel",
+    "Palestine"
+   ]
+  },
+  {
+   "id": "75de2eef677f",
+   "t": "Chad hosts hundreds of thousands of Sudanese refugees as regional humanitarian crisis extends",
+   "ko": null,
+   "src": "France 24",
+   "u": "https://www.france24.com/en/video/20261027-chad-hosts-hundreds-of-thousands-of-sudanese-refugees-as-regional-humanitarian-crisis-extends",
+   "at": "2026-10-27T11:13:55.000Z",
+   "ev": [
+    "sudan",
+    "darfur"
+   ],
+   "cc": [
+    "Chad",
+    "Sudan"
+   ]
+  },
+  {
+   "id": "12864f7f071f",
+   "t": "Turnout so far highest on record as Israelis vote in pivotal election",
+   "ko": null,
+   "src": "BBC",
+   "u": "https://www.bbc.co.uk/news/articles/c3j47l4kdez4o?at_medium=RSS&at_campaign=rss",
+   "at": "2026-10-27T11:11:33.000Z",
+   "ev": [
+    "gaza"
+   ],
+   "cc": [
+    "Israel"
+   ]
+  },
+  {
+   "id": "c0c64078a63c",
+   "t": "Syria slams deadly Jordan strikes as ‘unacceptable’ breach of airspace",
+   "ko": null,
+   "src": "France 24",
+   "u": "https://www.france24.com/en/middle-east/20261027-syria-slams-deadly-jordan-strikes-as-unacceptable-breach-of-airspace",
+   "at": "2026-10-27T11:02:18.000Z",
+   "ev": [
+    "syria"
+   ],
+   "cc": [
+    "Syria",
+    "Jordan"
+   ]
+  },
+  {
+   "id": "d4438769fc95",
+   "t": "Jordan launches airstrikes in Syria after church attack",
+   "ko": null,
+   "src": "France 24",
+   "u": "https://www.france24.com/en/jordan-launches-airstrikes-in-syria-after-church-attack",
+   "at": "2026-10-27T10:59:14.000Z",
+   "ev": [
+    "syria"
+   ],
+   "cc": [
+    "Jordan",
+    "Syria",
+    "Greece"
+   ]
+  },
+  {
+   "id": "55f3ea8f84e2",
+   "t": "Families of victims killed in Jordanian strike deny links to church attack",
+   "ko": null,
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/video/newsfeed/2026/10/27/families-of-victims-killed-in-jordanian-strike-deny-links-to-church-attack?traffic_source=rss",
+   "at": "2026-10-27T10:52:48.000Z",
+   "ev": [
+    "syria"
+   ],
+   "cc": [
+    "Jordan",
+    "Syria"
+   ]
+  },
+  {
+   "id": "ca90ab01f948",
+   "t": "Palestinians in West Bank fear further escalation of violence if Netanyahu remains PM",
+   "ko": null,
+   "src": "France 24",
+   "u": "https://www.france24.com/en/palestinians-in-west-bank-fear-further-escalation-of-violence-if-netanyahu-remains-pm",
+   "at": "2026-10-27T10:50:46.000Z",
+   "ev": [
+    "gaza",
+    "westbank"
+   ],
+   "cc": [
+    "Palestine",
+    "Israel"
+   ]
+  },
+  {
+   "id": "d2b50cfbd8f7",
+   "t": "Israelis vote in first national election since October 7 attack",
+   "ko": null,
+   "src": "France 24",
+   "u": "https://www.france24.com/en/israelis-vote-in-first-national-election-since-october-7-attack",
+   "at": "2026-10-27T10:41:42.000Z",
+   "ev": [
+    "gaza"
+   ],
+   "cc": []
+  },
+  {
+   "id": "74b41528b8fd",
+   "t": "North Korean howitzer guns spotted close to border with South Korea",
+   "ko": null,
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/video/newsfeed/2026/10/27/north-korean-howitzer-guns-spotted-close-to-border-with-south-korea?traffic_source=rss",
+   "at": "2026-10-27T10:22:20.000Z",
+   "ev": [],
+   "cc": [
+    "South Korea"
+   ]
+  },
+  {
+   "id": "cffeb917f44a",
+   "t": "Anthropic files for mammoth IPO as revenues and losses mount",
+   "ko": null,
+   "src": "France 24",
+   "u": "https://www.france24.com/en/tv-shows/business/20261027-anthropic-files-for-mammoth-ipo-as-revenues-and-losses-mount",
+   "at": "2026-10-27T10:20:34.000Z",
+   "ev": [],
+   "cc": [
+    "United States",
+    "France"
+   ]
+  },
+  {
+   "id": "f044bb0adcb6",
+   "t": "Azerbaijan: Rare protests over hijab ban in schools",
+   "ko": null,
+   "src": "France 24",
+   "u": "https://www.france24.com/en/tv-shows/the-observers/20261027-azerbaijan-rare-protests-over-hijab-ban-in-schools",
+   "at": "2026-10-27T10:16:47.000Z",
+   "ev": [],
+   "cc": [
+    "Azerbaijan"
+   ]
+  },
+  {
+   "id": "9adf8dbb106e",
+   "t": "Netanyahu's political survival on the line as Israel heads to the polls",
+   "ko": null,
+   "src": "France 24",
+   "u": "https://www.france24.com/en/netanyahu-s-political-survival-on-the-line-as-israel-heads-to-the-polls",
+   "at": "2026-10-27T10:14:33.000Z",
+   "ev": [
+    "iran",
+    "gaza"
+   ],
+   "cc": [
+    "Israel",
+    "Palestine",
+    "Iran"
+   ]
+  },
+  {
+   "id": "c3071901a667",
+   "t": "Fears grow for Iranian athletes on death row as mountaineer latest to be hanged",
+   "ko": null,
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/global-development/2026/oct/27/fears-grow-for-iranian-athletes-on-death-row-as-mountaineer-latest-to-be-hanged",
+   "at": "2026-10-27T09:30:30.000Z",
+   "ev": [
+    "iran"
+   ],
+   "cc": [
+    "Iran"
+   ]
+  },
   {
    "id": "ec86a28a710e",
    "t": "Live: Polls open in first Israeli election since October 7 attack",
@@ -43,21 +499,6 @@
    ],
    "cc": [
     "Israel"
-   ]
-  },
-  {
-   "id": "19ebc5f0e94e",
-   "t": "Truce begins in Ukraine city where residents ate weeds to survive",
-   "ko": "주민들이 생존을 위해 잡초를 먹었던 우크라이나 도시에서 휴전이 시작되었습니다.",
-   "src": "BBC",
-   "u": "https://www.bbc.co.uk/news/articles/ck20wjnv3w0jo?at_medium=RSS&at_campaign=rss",
-   "at": "2026-10-27T08:01:22.000Z",
-   "ev": [
-    "ukraine"
-   ],
-   "cc": [
-    "Ukraine",
-    "United States"
    ]
   },
   {
@@ -219,8 +660,8 @@
   },
   {
    "id": "cc7893a3b009",
-   "t": "A quick guide to Israel's high-stakes elections",
-   "ko": "이스라엘의 중요한 선거에 대한 빠른 가이드",
+   "t": "A quick guide to Israel's high-stakes election",
+   "ko": null,
    "src": "NPR",
    "u": "https://www.npr.org/2026/10/27/g-s1-149944/israel-election-guide",
    "at": "2026-10-27T04:54:30.000Z",
@@ -447,8 +888,8 @@
   },
   {
    "id": "a0b1885af390",
-   "t": "Jordan attacks militants in Syria in retaliation for last week’s church attack",
-   "ko": "요르단, 지난주 교회 공격에 대한 보복으로 시리아 무장세력 공격",
+   "t": "Jordan attacks militants in Syria in retaliation for church attack",
+   "ko": null,
    "src": "The Guardian",
    "u": "https://www.theguardian.com/world/2026/oct/26/jordan-attacks-militants-syria-retaliation-for-last-week-church-attack",
    "at": "2026-10-26T22:08:38.000Z",
@@ -1174,6 +1615,23 @@
    "cc": []
   },
   {
+   "id": "fadc19e7297c",
+   "t": "World News in Brief: Ethiopians flee to Kenya amidst renewed conflict, new head of UN’s food programme, UN mission in Somalia concludes",
+   "ko": null,
+   "src": "UN News",
+   "u": "https://news.un.org/feed/view/en/story/2026/10/1168674",
+   "at": "2026-10-26T12:00:00.000Z",
+   "ev": [
+    "ethiopia",
+    "somalia"
+   ],
+   "cc": [
+    "Kenya",
+    "Somalia",
+    "Ethiopia"
+   ]
+  },
+  {
    "id": "d5e202ece9d7",
    "t": "A look at the main issues in Israeli elections seen as a referendum on Netanyahu",
    "ko": "네타냐후 국민투표로 보는 이스라엘 선거 주요 쟁점 살펴보기",
@@ -1716,419 +2174,6 @@
    "ev": [],
    "cc": [
     "France"
-   ]
-  },
-  {
-   "id": "d3ea6ae7933b",
-   "t": "Iraqis mark seven years since Tishreen protests with reform demands",
-   "ko": "이라크인들이 티슈린이 개혁을 요구하며 시위를 벌인 지 7년이 되었습니다.",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/video/newsfeed/2026/10/25/iraqis-mark-seven-years-since-tishreen-protests-with-reform-demands?traffic_source=rss",
-   "at": "2026-10-25T19:36:05.000Z",
-   "ev": [],
-   "cc": [
-    "Iraq"
-   ]
-  },
-  {
-   "id": "ccd810b86e33",
-   "t": "Has Healey’s military-style budget secrecy really played out so differently to past budgets?",
-   "ko": "Healey의 군사 스타일 예산 비밀 유지가 실제로 과거 예산과 그렇게 다르게 진행되었습니까?",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/uk-news/2026/oct/25/john-healey-chancellor-budget-secrecy",
-   "at": "2026-10-25T19:35:17.000Z",
-   "ev": [],
-   "cc": []
-  },
-  {
-   "id": "9709b6826529",
-   "t": "Four-year-old girl dies after falling from east London tower block",
-   "ko": "4세 소녀, 런던 동부 타워 블록에서 떨어져 사망",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/uk-news/2026/oct/25/four-year-old-girl-dies-after-falling-from-east-london-tower-block",
-   "at": "2026-10-25T19:25:47.000Z",
-   "ev": [],
-   "cc": []
-  },
-  {
-   "id": "3bf4623a77e7",
-   "t": "Serbia’s Vucic concedes election defeat to student-led movement",
-   "ko": "세르비아 부치치, 학생 주도 운동에 선거 패배 인정",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/news/2026/10/25/serbia-voter-turnout-highest-in-decades-as-students-oppose-longtime-leader?traffic_source=rss",
-   "at": "2026-10-25T19:19:54.000Z",
-   "ev": [],
-   "cc": [
-    "Serbia"
-   ]
-  },
-  {
-   "id": "d3e62867a420",
-   "t": "Death toll in Nigeria village raided by gunmen rises to 48, police say",
-   "ko": "나이지리아 경찰, 총격범 습격으로 사망자 48명으로 늘어",
-   "src": "BBC",
-   "u": "https://www.bbc.co.uk/news/articles/cq1kdlm1ze7do?at_medium=RSS&at_campaign=rss",
-   "at": "2026-10-25T19:14:27.000Z",
-   "ev": [
-    "nigeria"
-   ],
-   "cc": [
-    "Nigeria"
-   ]
-  },
-  {
-   "id": "cdf9ed45b83e",
-   "t": "Suspect in shooting death of Missouri teen on highway charged in second road incident",
-   "ko": "미주리주 10대 고속도로서 총격 사망 용의자, 두 번째 교통사고로 기소",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/us-news/2026/oct/25/shooting-death-teen-missouri-highway",
-   "at": "2026-10-25T19:12:05.000Z",
-   "ev": [],
-   "cc": []
-  },
-  {
-   "id": "77f63991282b",
-   "t": "Le Pen’s ‘Renaissance’: 4th time lucky?",
-   "ko": "르펜의 '르네상스': 4번째 행운?",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/tv-shows/spotlight/20261025-le-pen-s-renaissance-4th-time-lucky",
-   "at": "2026-10-25T19:05:19.000Z",
-   "ev": [],
-   "cc": [
-    "France"
-   ]
-  },
-  {
-   "id": "7585b0fd1918",
-   "t": "Emirati diplomat who helped deliver aid to Gaza enters UN secretary general race",
-   "ko": "가자 지구에 구호품 전달을 도운 아랍에미리트 외교관, 유엔 사무총장 선거 출마",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/world/2026/oct/25/lana-nusseibeh-emirati-diplomat-enters-un-secretary-general-race",
-   "at": "2026-10-25T19:00:10.000Z",
-   "ev": [
-    "sudan",
-    "gaza"
-   ],
-   "cc": [
-    "Palestine",
-    "United Arab Emirates",
-    "Sudan"
-   ]
-  },
-  {
-   "id": "41297b247faf",
-   "t": "Venezuela’s opposition leader Maria Corina Machado returns from exile",
-   "ko": "베네수엘라 야당 지도자 마리아 코리나 마차도가 망명 생활을 마치고 귀국했다.",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/news/2026/10/25/venezuelas-opposition-leader-maria-corina-machado-returns-from-exile?traffic_source=rss",
-   "at": "2026-10-25T18:55:39.000Z",
-   "ev": [],
-   "cc": [
-    "Venezuela"
-   ]
-  },
-  {
-   "id": "e1f51c701452",
-   "t": "Israeli air strike on Gaza City university kills three people",
-   "ko": "이스라엘, 가자시티 대학 공습으로 3명 사망",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/video/newsfeed/2026/10/25/israeli-air-strike-on-gaza-city-university-kills-three-people?traffic_source=rss",
-   "at": "2026-10-25T18:12:13.000Z",
-   "ev": [
-    "gaza"
-   ],
-   "cc": [
-    "Israel",
-    "Palestine"
-   ]
-  },
-  {
-   "id": "2749cf3d2fa8",
-   "t": "US and Israel elections: New leaders, same policies?",
-   "ko": "미국과 이스라엘 선거: 새로운 지도자, 같은 정책?",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/video/newsfeed/2026/10/25/us-and-israel-elections-new-leaders-same-policies?traffic_source=rss",
-   "at": "2026-10-25T17:53:23.000Z",
-   "ev": [],
-   "cc": [
-    "United States",
-    "Israel",
-    "Palestine"
-   ]
-  },
-  {
-   "id": "ea8d716875dd",
-   "t": "Can protests in Europe bring about change?",
-   "ko": "유럽의 시위가 변화를 가져올 수 있을까?",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/video/inside-story/2026/10/25/can-protests-in-europe-bring-about-change?traffic_source=rss",
-   "at": "2026-10-25T17:39:42.000Z",
-   "ev": [],
-   "cc": []
-  },
-  {
-   "id": "8eaa3dae999e",
-   "t": "France: Le Pen seeks to leverage unrest in presidential campaign kick-off",
-   "ko": "프랑스: 르펜은 대선 캠페인 시작에 불안을 활용하려고 한다",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/france-le-pen-seeks-to-leverage-unrest-in-presidential-campaign-kick-off",
-   "at": "2026-10-25T17:12:50.000Z",
-   "ev": [],
-   "cc": [
-    "France"
-   ]
-  },
-  {
-   "id": "ce8c498a6dc7",
-   "t": "France: 1.314 arrested during protests across the country",
-   "ko": "프랑스: 전국 시위 중 1,314명 체포",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/france-1-314-arrested-during-protests-across-the-country",
-   "at": "2026-10-25T16:32:57.000Z",
-   "ev": [],
-   "cc": [
-    "France"
-   ]
-  },
-  {
-   "id": "35bced129387",
-   "t": "Midterms: Obama campaigns for Democrats, slams Trump",
-   "ko": "중간고사: 오바마는 민주당을 위해 선거운동을 벌이고 트럼프를 비난했다",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/video/20261025-midterms-obama-campaigns-for-democrats-slams-trump-1",
-   "at": "2026-10-25T16:25:12.000Z",
-   "ev": [],
-   "cc": [
-    "United States"
-   ]
-  },
-  {
-   "id": "141205b2c507",
-   "t": "Jordanians mourn victims of deadly church attack",
-   "ko": "요르단인들은 교회 공격 희생자들을 애도하고 있다.",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/video/newsfeed/2026/10/25/jordanians-mourn-victims-of-deadly-church-attack?traffic_source=rss",
-   "at": "2026-10-25T16:16:48.000Z",
-   "ev": [],
-   "cc": []
-  },
-  {
-   "id": "3d821338de23",
-   "t": "Israeli soldiers beat elderly Palestinian in Hebron",
-   "ko": "이스라엘군, 헤브론에서 팔레스타인 노인 구타",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/video/newsfeed/2026/10/25/israeli-soldiers-beat-elderly-palestinian-in-hebron?traffic_source=rss",
-   "at": "2026-10-25T16:11:37.000Z",
-   "ev": [
-    "westbank"
-   ],
-   "cc": [
-    "Israel",
-    "Palestine"
-   ]
-  },
-  {
-   "id": "874917b14fe9",
-   "t": "Israelis have changed. Will they change their leadership?",
-   "ko": "이스라엘 사람들은 변했습니다. 그들은 리더십을 바꿀 것인가?",
-   "src": "NPR",
-   "u": "https://www.npr.org/2026/10/25/g-s1-149563/israel-election-war-netanyahu",
-   "at": "2026-10-25T16:00:00.000Z",
-   "ev": [],
-   "cc": [
-    "Israel"
-   ]
-  },
-  {
-   "id": "c96546db1a20",
-   "t": "Eight killed in Gaza as Israel targets university campus and other sites",
-   "ko": "이스라엘이 대학 캠퍼스와 기타 장소를 공격해 가자지구에서 8명이 사망했습니다.",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/news/2026/10/25/seven-killed-in-gaza-as-israel-targets-university-campus-and-other-sites?traffic_source=rss",
-   "at": "2026-10-25T15:40:25.000Z",
-   "ev": [
-    "gaza"
-   ],
-   "cc": [
-    "Palestine",
-    "Israel"
-   ]
-  },
-  {
-   "id": "15c880d7f9a1",
-   "t": "Portuguese police with dogs and batons dismantle housing protest camps",
-   "ko": "개와 곤봉을 든 포르투갈 경찰이 주택 시위 수용소를 해체했습니다.",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/world/2026/oct/25/police-portugal-dogs-batons-dismantle-housing-protest-camps",
-   "at": "2026-10-25T15:32:20.000Z",
-   "ev": [],
-   "cc": [
-    "Portugal",
-    "Spain"
-   ]
-  },
-  {
-   "id": "38fc0aa4b1b5",
-   "t": "Thousands mourn victims of deadly Jordan church attack",
-   "ko": "요르단 교회 테러 희생자 수천명 애도",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/news/2026/10/25/thousands-mourn-victims-of-deadly-jordan-church-attack?traffic_source=rss",
-   "at": "2026-10-25T15:21:26.000Z",
-   "ev": [],
-   "cc": [
-    "Jordan"
-   ]
-  },
-  {
-   "id": "9a88eb68df35",
-   "t": "Twelve injured, including six juveniles, in shooting near Florida university",
-   "ko": "플로리다 대학 근처에서 총격 사건이 발생해 청소년 6명 포함 12명 부상",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/us-news/2026/oct/25/eleven-sustain-gunshot-wounds-in-shooting-near-florida-university",
-   "at": "2026-10-25T15:19:47.000Z",
-   "ev": [],
-   "cc": [
-    "United States"
-   ]
-  },
-  {
-   "id": "afdbdba9a741",
-   "t": "French far-right leader Le Pen seeks to leverage unrest in presidential campaign kick-off",
-   "ko": "프랑스 극우 지도자 르펜이 대선 캠페인 시작에 불안을 활용하려고 한다.",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/france/20261025-french-far-right-leader-le-pen-seeks-to-leverage-unrest-in-presidential-campaign-kick-off",
-   "at": "2026-10-25T15:01:51.000Z",
-   "ev": [],
-   "cc": [
-    "France"
-   ]
-  },
-  {
-   "id": "153fbfe50f98",
-   "t": "France: 110.000 protesters in Paris",
-   "ko": "프랑스: 파리 시위대 110,000명",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/france-110-000-protesters-in-paris",
-   "at": "2026-10-25T15:00:01.000Z",
-   "ev": [],
-   "cc": [
-    "France"
-   ]
-  },
-  {
-   "id": "27e014b2c821",
-   "t": "Murder in Malaysia’s Beverly Hills | True Crime Reports",
-   "ko": "말레이시아 비벌리힐스 살인 | 실제 범죄 보고서",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/video/true-crime-reports/2026/10/25/murder-in-malaysias-beverly-hills-true-crime-reports?traffic_source=rss",
-   "at": "2026-10-25T14:54:53.000Z",
-   "ev": [],
-   "cc": [
-    "Malaysia"
-   ]
-  },
-  {
-   "id": "3a41108eb6c7",
-   "t": "How is the US-Israeli war on Iran causing havoc in Europe?",
-   "ko": "이란에 대한 미국-이스라엘 전쟁이 어떻게 유럽에 큰 혼란을 일으키고 있습니까?",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/news/2026/10/25/how-is-the-us-israeli-war-on-iran-causing-havoc-in-europe?traffic_source=rss",
-   "at": "2026-10-25T14:47:55.000Z",
-   "ev": [
-    "iran"
-   ],
-   "cc": [
-    "Iran"
-   ]
-  },
-  {
-   "id": "3f5fe1602f06",
-   "t": "The search for gold is a dangerous and laborious gamble for Sudan’s miners",
-   "ko": "금을 찾는 것은 수단 광부들에게 위험하고 힘든 도박입니다",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/features/2026/10/25/the-search-for-gold-is-a-dangerous-and-laborious-gamble-for-sudans-miners?traffic_source=rss",
-   "at": "2026-10-25T14:03:17.000Z",
-   "ev": [
-    "sudan"
-   ],
-   "cc": [
-    "Sudan"
-   ]
-  },
-  {
-   "id": "07bebd5f055c",
-   "t": "Le Pen leads polls with up to 38% six months before election",
-   "ko": "르펜, 대선 6개월 전 최대 38%로 여론조사 선두",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/le-pen-leads-polls-with-up-to-38-six-months-before-election",
-   "at": "2026-10-25T13:51:14.000Z",
-   "ev": [],
-   "cc": [
-    "France"
-   ]
-  },
-  {
-   "id": "e835ac8cebcc",
-   "t": "Saudi air defences intercept Houthi barrage near Mecca",
-   "ko": "사우디 방공군, 메카 인근 후티군의 포격을 요격",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/news/2026/10/25/saudi-air-defences-intercept-houthi-barrage-near-mecca?traffic_source=rss",
-   "at": "2026-10-25T13:49:33.000Z",
-   "ev": [
-    "yemen"
-   ],
-   "cc": [
-    "Saudi Arabia",
-    "Yemen"
-   ]
-  },
-  {
-   "id": "8f590579daf4",
-   "t": "Gaza’s visually and hearing-impaired children miss school due to Israel war",
-   "ko": "이스라엘 전쟁으로 인해 가자지구의 시각 및 청각 장애 어린이들이 학교에 결석",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/features/2026/10/25/gazas-visually-and-hearing-impaired-children-miss-school-due-to-israel-war?traffic_source=rss",
-   "at": "2026-10-25T13:46:51.000Z",
-   "ev": [
-    "gaza"
-   ],
-   "cc": [
-    "Palestine",
-    "Israel"
-   ]
-  },
-  {
-   "id": "ce35d48b73cf",
-   "t": "France: Le Pen launches presidential campaign in Orleans",
-   "ko": "프랑스: 르펜, 올리언스에서 대선 캠페인 개시",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/france-le-pen-launches-presidential-campaign-in-orleans",
-   "at": "2026-10-25T13:46:08.000Z",
-   "ev": [],
-   "cc": [
-    "France"
-   ]
-  },
-  {
-   "id": "6ffcdfaa21f3",
-   "t": "Portuguese police clear Lisbon housing protest camp, arrest 25",
-   "ko": "포르투갈 경찰, 리스본 주택 시위 수용소 진압, 25명 체포",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/economy/2026/10/25/portuguese-police-clear-lisbon-housing-protest-camp-arrest-25?traffic_source=rss",
-   "at": "2026-10-25T13:29:56.000Z",
-   "ev": [],
-   "cc": []
-  },
-  {
-   "id": "e359cae60f71",
-   "t": "FDR made it a blue bastion – now it’s Trump’s stronghold in California. Is it forever lost?",
-   "ko": "FDR은 이곳을 푸른 보루로 만들었습니다. 이제는 캘리포니아에 있는 트럼프의 거점이 되었습니다. 영원히 잃어버린 것인가?",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/us-news/ng-interactive/2026/oct/25/democrats-california-shasta-county-trump",
-   "at": "2026-10-25T13:00:03.000Z",
-   "ev": [],
-   "cc": [
-    "United States"
    ]
   }
  ]
