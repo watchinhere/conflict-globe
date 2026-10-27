@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-27T19:56:16.104Z",
+ "updated": "2026-10-27T23:40:00.030Z",
  "sources": {
   "BBC": {
    "ok": true,
@@ -7,23 +7,23 @@
   },
   "Al Jazeera": {
    "ok": true,
-   "n": 5
+   "n": 6
   },
   "The Guardian": {
    "ok": true,
-   "n": 19
+   "n": 21
   },
   "DW": {
    "ok": true,
    "n": 2
   },
   "France 24": {
-   "ok": false,
-   "err": "HTTP 403"
+   "ok": true,
+   "n": 10
   },
   "UN News": {
    "ok": true,
-   "n": 5
+   "n": 7
   },
   "NPR": {
    "ok": true,
@@ -31,6 +31,249 @@
   }
  },
  "items": [
+  {
+   "id": "7fbcc354b100",
+   "t": "Politics live: Australia Post chief paid ‘mind-blowing’ bonus; man charged over alleged false Bondi shooting claim",
+   "ko": "실시간 정치: Australia Post 국장이 '놀라운' 보너스를 지급했습니다. 본다이 총격 사건 허위 주장 혐의로 기소된 남자",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/australia-news/live/2026/oct/28/inflation-abs-labor-anthony-albanese-parliament-greens-david-shoebridge-one-nation-ntwnfb",
+   "at": "2026-10-27T23:29:34.000Z",
+   "ev": [],
+   "cc": [
+    "Australia"
+   ]
+  },
+  {
+   "id": "960a68439485",
+   "t": "‘Shameful’: Alex Pretti parents accuse Trump officials of shielding son’s killers",
+   "ko": "'부끄러운': Alex Pretti 부모는 트럼프 관리가 아들 살인범을 보호했다고 비난합니다.",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/us-news/2026/oct/27/alex-pretti-parents-son-killing",
+   "at": "2026-10-27T23:25:50.000Z",
+   "ev": [],
+   "cc": [
+    "United States"
+   ]
+  },
+  {
+   "id": "da9aa80012cd",
+   "t": "Trump shows off tanker with ‘1m barrels of oil’ and floats Venezuela as 51st state",
+   "ko": "트럼프, '100만 배럴의 석유' 실은 유조선 선보이고 베네수엘라를 51번째 주로 띄워",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/us-news/2026/oct/27/trump-oil-tanker-venezuela",
+   "at": "2026-10-27T23:07:06.000Z",
+   "ev": [],
+   "cc": [
+    "Venezuela",
+    "United States"
+   ]
+  },
+  {
+   "id": "142764f66840",
+   "t": "Grand jury declines to indict ex-White House staffer who testified about January 6",
+   "ko": "대배심, 1월 6일 증언한 전 백악관 직원 기소 기각",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/us-news/2026/oct/27/cassidy-hutchinson-doj-indictment-trump",
+   "at": "2026-10-27T22:40:27.000Z",
+   "ev": [],
+   "cc": [
+    "United States"
+   ]
+  },
+  {
+   "id": "cf9b0941943d",
+   "t": "Trump, campaigning in Texas for Republicans, touts Iran war and ‘51st state’ Venezuela: ‘I knew that oil would go up’ – live",
+   "ko": "텍사스에서 공화당 선거운동 중인 트럼프, 이란 전쟁과 '51번째 국가' 베네수엘라 선전: '나는 유가가 오를 줄 알았습니다' - 라이브",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/us-news/live/2026/oct/27/comey-trump-rubio-texas-vance-israel-midterms-politics-latest-news-updates",
+   "at": "2026-10-27T22:39:07.000Z",
+   "ev": [
+    "iran"
+   ],
+   "cc": [
+    "United States",
+    "Iran",
+    "Venezuela"
+   ]
+  },
+  {
+   "id": "db2d0b0d604a",
+   "t": "Iran war live: Pezeshkian says Middle East can solve own issues without US",
+   "ko": "이란 전쟁 라이브: Pezeshkian은 중동이 미국 없이도 자체 문제를 해결할 수 있다고 말했습니다.",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/liveblog/2026/10/27/iran-war-live-pezeshkian-says-middle-east-can-solve-own-issues-without-us?traffic_source=rss",
+   "at": "2026-10-27T22:29:31.000Z",
+   "ev": [
+    "iran"
+   ],
+   "cc": [
+    "Iran",
+    "United States",
+    "Russia"
+   ]
+  },
+  {
+   "id": "4ce40386cade",
+   "t": "Ceasefire extended across Ukraine's Kherson region, officials say",
+   "ko": "우크라이나 헤르손 지역 전역에 휴전이 연장됐다고 관리들이 밝혔습니다.",
+   "src": "BBC",
+   "u": "https://www.bbc.co.uk/news/articles/c6lye1w9p2l8o?at_medium=RSS&at_campaign=rss",
+   "at": "2026-10-27T22:11:08.000Z",
+   "ev": [
+    "ukraine"
+   ],
+   "cc": [
+    "Ukraine",
+    "Russia"
+   ]
+  },
+  {
+   "id": "ad8acde1e81b",
+   "t": "Serial killer Ted Bundy linked through DNA to 1974 murder of Utah girl",
+   "ko": "연쇄 살인범 테드 번디는 DNA를 통해 1974년 유타 소녀 살해와 연관되어 있습니다.",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/us-news/2026/oct/27/ted-bundy-utah-murder",
+   "at": "2026-10-27T21:59:35.000Z",
+   "ev": [],
+   "cc": []
+  },
+  {
+   "id": "046ee3bc800a",
+   "t": "Trump showcases Venezuelan oil as he seeks to rally voters in Texas",
+   "ko": "트럼프, 텍사스 유권자 집회 위해 베네수엘라 석유 선보여",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/10/27/trump-showcases-venezuelan-oil-as-he-seeks-to-rally-voters-in-texas?traffic_source=rss",
+   "at": "2026-10-27T21:28:33.000Z",
+   "ev": [
+    "iran"
+   ],
+   "cc": [
+    "Venezuela",
+    "United States",
+    "Iran"
+   ]
+  },
+  {
+   "id": "a67abe5a3b38",
+   "t": "Bibi's moment of truth: Israel votes in first general election since October 7",
+   "ko": "비비의 진실의 순간: 이스라엘이 10월 7일 이후 첫 총선에서 투표를 했습니다.",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/tv-shows/the-debate/20261027-bibi-s-moment-of-truth-israel-votes-in-first-general-election-since-october-7",
+   "at": "2026-10-27T21:26:10.000Z",
+   "ev": [],
+   "cc": [
+    "Israel"
+   ]
+  },
+  {
+   "id": "b7a23f70c96e",
+   "t": "Forever Wars: Why can’t America stop?",
+   "ko": "영원히 전쟁: 미국은 왜 멈출 수 없는가?",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/video/lets-focus/2026/10/27/forever-wars-why-cant-america-stop?traffic_source=rss",
+   "at": "2026-10-27T21:21:08.000Z",
+   "ev": [
+    "iran"
+   ],
+   "cc": [
+    "Iran",
+    "Iraq",
+    "Afghanistan"
+   ]
+  },
+  {
+   "id": "ec33971c6eb5",
+   "t": "Dream postponed: Hebron groom caught in Israeli military lockdown",
+   "ko": "연기된 꿈: 이스라엘 군 봉쇄에 잡힌 헤브론 신랑",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/10/27/dream-postponed-hebron-groom-caught-in-israeli-military-lockdown?traffic_source=rss",
+   "at": "2026-10-27T21:12:27.000Z",
+   "ev": [
+    "westbank"
+   ],
+   "cc": [
+    "Israel",
+    "Palestine"
+   ]
+  },
+  {
+   "id": "2834adbdb5c9",
+   "t": "US says it killed five people in strike on alleged drug boat",
+   "ko": "미국, 마약선 공격으로 5명 사망",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/10/27/us-says-it-killed-five-people-in-strike-on-alleged-drug-boat?traffic_source=rss",
+   "at": "2026-10-27T20:54:38.000Z",
+   "ev": [],
+   "cc": [
+    "United States"
+   ]
+  },
+  {
+   "id": "eaf6f6cabf1e",
+   "t": "What we know about Ukraine-Russia truce in Oleshky, brokered by Melania Trump",
+   "ko": "Melania Trump가 중개한 Oleshky의 우크라이나-러시아 휴전에 대해 우리가 알고 있는 것",
+   "src": "BBC",
+   "u": "https://www.bbc.co.uk/news/videos/c687z5ne1w4ro?at_medium=RSS&at_campaign=rss",
+   "at": "2026-10-27T20:42:38.000Z",
+   "ev": [
+    "ukraine"
+   ],
+   "cc": []
+  },
+  {
+   "id": "f33d1fcdb365",
+   "t": "Olivia Chow elected as Toronto mayor for second term in victory for progressives",
+   "ko": "올리비아 차우(Olivia Chow), 진보주의자들의 승리로 토론토 시장으로 2선 당선",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/world/2026/oct/27/olivia-chow-toronto-mayor-election-results",
+   "at": "2026-10-27T20:23:46.000Z",
+   "ev": [],
+   "cc": [
+    "Canada"
+   ]
+  },
+  {
+   "id": "3140916c3637",
+   "t": "Tanzania’s jailed opposition leader Tundu Lissu ends brief hunger strike",
+   "ko": "투옥된 탄자니아 야당 지도자 툰두 리수(Tundu Lissu)가 단식투쟁을 종료했습니다.",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/10/27/tanzanias-jailed-opposition-leader-tundu-lissu-ends-brief-hunger-strike?traffic_source=rss",
+   "at": "2026-10-27T20:00:46.000Z",
+   "ev": [],
+   "cc": [
+    "Tanzania"
+   ]
+  },
+  {
+   "id": "f86b49b18c39",
+   "t": "Legacy of 7 October looms large as a divided Israel goes to the polls in record numbers",
+   "ko": "분열된 이스라엘이 기록적인 숫자로 투표에 참여함에 따라 10월 7일의 유산이 커질 것입니다.",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/world/2026/oct/27/legacy-of-7-october-looms-large-as-a-divided-israel-goes-to-the-polls-in-record-numbers",
+   "at": "2026-10-27T19:47:03.000Z",
+   "ev": [
+    "gaza"
+   ],
+   "cc": [
+    "Israel",
+    "Palestine"
+   ]
+  },
+  {
+   "id": "bcd616ef68d3",
+   "t": "Netanyahu govt has 'attacked' Israeli judicial system, Supreme Court and democratic institutions",
+   "ko": "네타냐후 정부는 이스라엘 사법 시스템, 대법원, 민주 기관을 '공격'했습니다.",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/netanyahu-govt-has-attacked-israeli-judicial-system-supreme-court-and-democratic-institutions",
+   "at": "2026-10-27T19:44:07.000Z",
+   "ev": [
+    "iran"
+   ],
+   "cc": [
+    "Israel",
+    "Iran"
+   ]
+  },
   {
    "id": "df38c93bbc72",
    "t": "RAF Fairford plot ‘coordinated by handler working on behalf of Iran’",
@@ -70,6 +313,18 @@
    ]
   },
   {
+   "id": "add822e5ffe3",
+   "t": "How student assemblies brought down the Serbian government",
+   "ko": "학생회가 어떻게 세르비아 정부를 무너뜨렸는가",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/europe/20261027-how-student-assemblies-brought-down-the-serbian-government",
+   "at": "2026-10-27T18:58:25.000Z",
+   "ev": [],
+   "cc": [
+    "Serbia"
+   ]
+  },
+  {
    "id": "5897deb81381",
    "t": "The WhatsApp ‘general’ behind Lula’s election comeback in Brazil",
    "ko": "브라질 룰라의 재선을 뒷받침하는 WhatsApp '일반'",
@@ -93,6 +348,18 @@
    ],
    "cc": [
     "Nigeria"
+   ]
+  },
+  {
+   "id": "2ecde9bf1b9c",
+   "t": "Rights groups say proposed French law to make rioters pay for damage is anti-democratic",
+   "ko": "인권 단체들은 폭도들에게 손해 배상을 요구하는 프랑스 법안이 반민주적이라고 주장합니다.",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/france/20261027-rights-groups-say-proposed-french-law-to-make-rioters-pay-for-damage-anti-democratic",
+   "at": "2026-10-27T18:27:15.000Z",
+   "ev": [],
+   "cc": [
+    "France"
    ]
   },
   {
@@ -137,6 +404,18 @@
    ]
   },
   {
+   "id": "495ae963209e",
+   "t": "France: Lawmakers hold a minute of silence for Pengo Bossio Wangi, victim of racist attack",
+   "ko": "프랑스: 국회의원들이 인종차별 공격의 피해자인 펭고 보시오 왕이를 위해 묵념을 펼쳤습니다.",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/video/20261027-france-lawmakers-hold-a-minute-of-silence-for-pengo-bossio-wangi-victim-of-racist-attack-1",
+   "at": "2026-10-27T17:08:44.000Z",
+   "ev": [],
+   "cc": [
+    "France"
+   ]
+  },
+  {
    "id": "1f0d32af44eb",
    "t": "Funeral held for family killed in Jordanian airstrikes in Syria",
    "ko": "요르단 시리아 공습으로 숨진 가족 장례식 거행",
@@ -148,6 +427,32 @@
    ],
    "cc": [
     "Syria"
+   ]
+  },
+  {
+   "id": "97ec09684c42",
+   "t": "Israelis vote in a tense election: What's at stake?",
+   "ko": "이스라엘의 치열한 선거 투표: 무엇이 위태로울까?",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/israelis-vote-in-a-tense-election-what-s-at-stake",
+   "at": "2026-10-27T16:59:06.000Z",
+   "ev": [
+    "gaza"
+   ],
+   "cc": [
+    "Israel"
+   ]
+  },
+  {
+   "id": "1a3e389cdcbe",
+   "t": "Israel elections: voter turnout reaches 55% by 4pm local time",
+   "ko": "이스라엘 선거: 현지 시간 오후 4시까지 투표율 55% 도달",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/israel-elections-voter-turnout-reaches-55-by-4pm-local-time",
+   "at": "2026-10-27T16:52:33.000Z",
+   "ev": [],
+   "cc": [
+    "Israel"
    ]
   },
   {
@@ -253,9 +558,49 @@
    ]
   },
   {
+   "id": "03444a092d87",
+   "t": "Israel votes in decisive election: What happens after polls close?",
+   "ko": "이스라엘이 결정적인 선거에서 투표합니다. 투표가 종료되면 어떻게 되나요?",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/video/20261027-israel-s-unique-political-system-what-happens-after-polls-close",
+   "at": "2026-10-27T14:55:49.000Z",
+   "ev": [
+    "gaza"
+   ],
+   "cc": [
+    "Israel"
+   ]
+  },
+  {
+   "id": "7d1585723c9f",
+   "t": "Turnout high as Israeli voters deliver verdict on Netanyahu",
+   "ko": "이스라엘 유권자들이 네타냐후에 대한 평결을 내리면서 투표율이 높아졌습니다.",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/turnout-high-as-israeli-voters-deliver-verdict-on-netanyahu",
+   "at": "2026-10-27T14:45:08.000Z",
+   "ev": [],
+   "cc": [
+    "Israel"
+   ]
+  },
+  {
+   "id": "4e4be19401d3",
+   "t": "Israel: Netanyahu supporters gather as PM votes",
+   "ko": "이스라엘: 네타냐후 지지자들이 총리 투표로 모였습니다.",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/israel-netanyahu-supporters-gather-as-pm-votes",
+   "at": "2026-10-27T14:37:39.000Z",
+   "ev": [
+    "gaza"
+   ],
+   "cc": [
+    "Israel"
+   ]
+  },
+  {
    "id": "e52839e179c8",
-   "t": "MP calls for rethink of pre-poll voting amid heightened security concerns in wake of Haines incident",
-   "ko": "하원 의원은 헤인즈 사건으로 인해 보안 우려가 높아지는 가운데 사전 투표 투표를 재고할 것을 촉구했습니다.",
+   "t": "Coalition MP calls for rethink of pre-poll voting amid heightened security concerns in wake of Haines incident",
+   "ko": "연합 의원은 헤인즈 사건으로 인해 보안 우려가 높아지는 가운데 사전 투표 투표를 재고할 것을 촉구했습니다.",
    "src": "The Guardian",
    "u": "https://www.theguardian.com/australia-news/2026/oct/27/mp-calls-rethink-pre-poll-voting-helen-haines-heightened-security-concerns-ntwnfb",
    "at": "2026-10-27T14:00:36.000Z",
@@ -400,6 +745,40 @@
    "at": "2026-10-27T12:18:15.000Z",
    "ev": [],
    "cc": []
+  },
+  {
+   "id": "f7e10a034c4c",
+   "t": "Security Council LIVE: Women and girls face greater dangers in war",
+   "ko": "안보리 라이브: 여성과 소녀들은 전쟁에서 더 큰 위험에 직면합니다",
+   "src": "UN News",
+   "u": "https://news.un.org/feed/view/en/story/2026/10/1168684",
+   "at": "2026-10-27T12:00:00.000Z",
+   "ev": [
+    "yemen",
+    "gaza"
+   ],
+   "cc": [
+    "Palestine",
+    "Yemen"
+   ]
+  },
+  {
+   "id": "f70d104c63ab",
+   "t": "World News in Brief: ‘No safe place in Ukraine’, IAEA calls for Iran nuclear inspections, Kenya hosts thousands of Ethiopians fleeing clashes",
+   "ko": "세계 뉴스 요약: '우크라이나에는 안전한 곳이 없습니다', IAEA는 이란 핵 사찰을 요구하고 케냐는 충돌을 피해 도망치는 수천 명의 에티오피아인을 수용합니다",
+   "src": "UN News",
+   "u": "https://news.un.org/feed/view/en/story/2026/10/1168682",
+   "at": "2026-10-27T12:00:00.000Z",
+   "ev": [
+    "ukraine",
+    "iran",
+    "ethiopia"
+   ],
+   "cc": [
+    "Ukraine",
+    "Iran",
+    "Kenya"
+   ]
   },
   {
    "id": "e2049d63348a",
@@ -1815,385 +2194,6 @@
    "at": "2026-10-26T12:00:00.000Z",
    "ev": [],
    "cc": []
-  },
-  {
-   "id": "fadc19e7297c",
-   "t": "World News in Brief: Ethiopians flee to Kenya amidst renewed conflict, new head of UN’s food programme, UN mission in Somalia concludes",
-   "ko": "세계 뉴스 요약: 에티오피아인들이 새로운 분쟁 속에서 케냐로 피신했다고 유엔 식량 프로그램의 새로운 수장이 소말리아 주재 유엔 대표단에서 결론을 내렸습니다.",
-   "src": "UN News",
-   "u": "https://news.un.org/feed/view/en/story/2026/10/1168674",
-   "at": "2026-10-26T12:00:00.000Z",
-   "ev": [
-    "ethiopia",
-    "somalia"
-   ],
-   "cc": [
-    "Kenya",
-    "Somalia",
-    "Ethiopia"
-   ]
-  },
-  {
-   "id": "d5e202ece9d7",
-   "t": "A look at the main issues in Israeli elections seen as a referendum on Netanyahu",
-   "ko": "네타냐후 국민투표로 보는 이스라엘 선거 주요 쟁점 살펴보기",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/video/20261026-a-look-at-the-main-issues-in-israeli-elections-seen-as-a-referendum-on-netanyahu",
-   "at": "2026-10-26T11:59:34.000Z",
-   "ev": [
-    "gaza"
-   ],
-   "cc": [
-    "Israel"
-   ]
-  },
-  {
-   "id": "df1393a16b80",
-   "t": "Israeli election seen as a referendum: For or against Netanyahu?",
-   "ko": "이스라엘 선거는 국민투표로 간주된다: 네타냐후를 지지할 것인가, 반대할 것인가?",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/tv-shows/focus/20261026-israeli-election-seen-as-a-referendum-for-or-against-netanyahu",
-   "at": "2026-10-26T11:40:25.000Z",
-   "ev": [
-    "iran",
-    "gaza",
-    "lebanon"
-   ],
-   "cc": [
-    "Israel",
-    "Palestine",
-    "Iran"
-   ]
-  },
-  {
-   "id": "6333a388ac31",
-   "t": "Australians should prepare for online services to go down unexpectedly as threats rise, cyber agency warns",
-   "ko": "호주인들은 위협이 증가함에 따라 온라인 서비스가 예기치 않게 다운되는 것에 대비해야 한다고 사이버 기관이 경고했습니다.",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/technology/2026/oct/26/australians-should-prepare-for-online-services-to-go-down-unexpectedly-as-threats-rise-cyber-agency-warns",
-   "at": "2026-10-26T11:30:40.000Z",
-   "ev": [],
-   "cc": []
-  },
-  {
-   "id": "1c4f8c9da40a",
-   "t": "Jordan arrests three suspects over church attack in dawn raid: What to know",
-   "ko": "요르단, 새벽 급습으로 교회 공격 용의자 3명 체포",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/news/2026/10/26/jordan-arrests-three-suspects-over-church-attack-in-dawn-raid-what-to-know?traffic_source=rss",
-   "at": "2026-10-26T11:08:48.000Z",
-   "ev": [],
-   "cc": [
-    "Jordan"
-   ]
-  },
-  {
-   "id": "cd2b4b335ed7",
-   "t": "'An everyday habit': 2.5 billion lines of cocaine snorted in England per year",
-   "ko": "'일상의 습관': 영국에서 연간 25억 줄의 코카인 흡입",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/tv-shows/press-review/20261026-an-everyday-habit-2-5-billion-lines-of-cocaine-snorted-in-england-per-year",
-   "at": "2026-10-26T11:05:47.000Z",
-   "ev": [
-    "iran"
-   ],
-   "cc": [
-    "United Kingdom",
-    "Brazil",
-    "Iran"
-   ]
-  },
-  {
-   "id": "bd58bf8f95ef",
-   "t": "Key European defence ministers meet in Paris to discuss Ukraine support",
-   "ko": "유럽 ​​주요 국방장관, 파리서 만나 우크라이나 지원 논의",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/news/2026/10/26/key-european-defence-ministers-meet-in-paris-to-discuss-ukraine-support?traffic_source=rss",
-   "at": "2026-10-26T11:04:55.000Z",
-   "ev": [
-    "ukraine"
-   ],
-   "cc": [
-    "Ukraine",
-    "France",
-    "Germany"
-   ]
-  },
-  {
-   "id": "79e3e3e646b1",
-   "t": "Anthropic’s Claude AI model accessed Georgia voter data in US",
-   "ko": "Anthropic의 Claude AI 모델은 미국 조지아 유권자 데이터에 액세스했습니다.",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/technology/2026/oct/26/anthropics-claude-ai-model-accessed-georgia-voter-data-in-us",
-   "at": "2026-10-26T11:03:33.000Z",
-   "ev": [],
-   "cc": [
-    "Georgia",
-    "United States"
-   ]
-  },
-  {
-   "id": "2d8dc57323c2",
-   "t": "Saudi-led coalition says it struck Houthi missile facilities",
-   "ko": "사우디 주도 연합군, 후티 미사일 시설 공습",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/news/2026/10/26/saudi-led-coalition-says-it-struck-houthi-missile-facilities?traffic_source=rss",
-   "at": "2026-10-26T10:41:23.000Z",
-   "ev": [
-    "yemen"
-   ],
-   "cc": []
-  },
-  {
-   "id": "1fc158ac434d",
-   "t": "European gas prices soar to four-year high over winter supply fears",
-   "ko": "유럽 ​​휘발유 가격, 겨울 공급 우려로 4년래 최고치로 급등",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/business/2026/oct/26/european-gas-prices-four-year-high-winter-supply-fears-middle-east",
-   "at": "2026-10-26T10:35:24.000Z",
-   "ev": [
-    "iran"
-   ],
-   "cc": [
-    "Iran"
-   ]
-  },
-  {
-   "id": "37448fd2d892",
-   "t": "Sudan paramilitary drone strikes cause mass power cuts in eastern states",
-   "ko": "수단 준군사 드론 공격으로 동부 주에서 대규모 정전 발생",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/world/2026/oct/26/sudan-paramilitary-drone-strikes-rapid-support-forces-power-cuts-eastern-states",
-   "at": "2026-10-26T09:59:27.000Z",
-   "ev": [
-    "sudan"
-   ],
-   "cc": [
-    "Sudan"
-   ]
-  },
-  {
-   "id": "6f83f983c37c",
-   "t": "Saudi Arabia confirms January start for Asian Cup 2027 despite attacks",
-   "ko": "사우디아라비아, 테러에도 불구하고 2027년 아시안컵 1월 개막 확정",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/sports/2026/10/26/saudi-arabia-confirms-january-start-for-asian-cup-2027-despite-attacks?traffic_source=rss",
-   "at": "2026-10-26T09:52:58.000Z",
-   "ev": [],
-   "cc": [
-    "Saudi Arabia",
-    "Palestine"
-   ]
-  },
-  {
-   "id": "009d913e6b14",
-   "t": "Algeria’s military deployment to Niger: What’s behind the move?",
-   "ko": "알제리의 니제르 파병: 그 배경은 무엇입니까?",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/news/2026/10/26/algerias-military-deployment-to-niger-whats-behind-the-move?traffic_source=rss",
-   "at": "2026-10-26T09:52:11.000Z",
-   "ev": [
-    "niger"
-   ],
-   "cc": [
-    "Algeria",
-    "Niger"
-   ]
-  },
-  {
-   "id": "975d800f22c2",
-   "t": "Palestinians are opening their doors to the displaced of besieged Hebron",
-   "ko": "팔레스타인인들이 포위된 헤브론의 난민들에게 문을 열고 있다",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/news/2026/10/26/palestinians-are-opening-their-doors-to-the-displaced-of-besieged-hebron?traffic_source=rss",
-   "at": "2026-10-26T09:45:25.000Z",
-   "ev": [
-    "westbank"
-   ],
-   "cc": [
-    "Israel",
-    "Palestine"
-   ]
-  },
-  {
-   "id": "45058f0246d0",
-   "t": "Serbia's student movement ousts longtime leader Vucic in parliament poll",
-   "ko": "세르비아 학생운동, 의회 여론조사에서 오랜 지도자 부치치를 축출",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/serbia-s-student-movement-ousts-longtime-leader-vucic-in-parliament-poll",
-   "at": "2026-10-26T09:41:14.000Z",
-   "ev": [],
-   "cc": [
-    "Serbia"
-   ]
-  },
-  {
-   "id": "bcda5d5d0e24",
-   "t": "Do Palestinians in Gaza expect anything to change after Israel’s election?",
-   "ko": "가자 지구의 팔레스타인인들은 이스라엘의 선거 이후 어떤 변화가 있을 것으로 예상합니까?",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/news/2026/10/26/do-palestinians-in-gaza-expect-anything-to-change-after-israels-election?traffic_source=rss",
-   "at": "2026-10-26T08:43:39.000Z",
-   "ev": [
-    "gaza"
-   ],
-   "cc": [
-    "Palestine",
-    "Israel"
-   ]
-  },
-  {
-   "id": "56a7e27836c6",
-   "t": "Russia says it will open humanitarian corridor to Ukrainian town",
-   "ko": "러시아, 우크라이나 마을에 인도주의적 통로 열어줄 것",
-   "src": "NPR",
-   "u": "https://www.npr.org/2026/10/26/nx-s1-6014540/russia-says-it-will-open-humanitarian-corridor-to-ukrainian-town",
-   "at": "2026-10-26T08:42:00.000Z",
-   "ev": [
-    "ukraine"
-   ],
-   "cc": [
-    "Russia",
-    "Ukraine"
-   ]
-  },
-  {
-   "id": "597c50354d4d",
-   "t": "Paris welcomes first NFL game with a party a day after protests",
-   "ko": "파리, 시위 다음날 파티로 첫 NFL 경기 환영",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/sport/20261026-paris-welcomes-first-nfl-game-with-a-party-a-day-after-protests",
-   "at": "2026-10-26T07:41:40.000Z",
-   "ev": [],
-   "cc": [
-    "France"
-   ]
-  },
-  {
-   "id": "77bf582ae5d8",
-   "t": "‘It’s collective punishment’: nearly 2,000 Palestinians in Hebron displaced as Israeli forces take over homes",
-   "ko": "'집단 처벌': 이스라엘군이 집을 점령하자 헤브론에서 약 2,000명의 팔레스타인 난민이 발생",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/world/2026/oct/26/collective-punishment-palestinians-displaced-israeli-forces-take-over-hebron-homes",
-   "at": "2026-10-26T07:00:25.000Z",
-   "ev": [
-    "westbank"
-   ],
-   "cc": [
-    "Israel",
-    "Palestine"
-   ]
-  },
-  {
-   "id": "3624607e43ac",
-   "t": "Brazil keeps left: what Lula’s victory means for his country and beyond",
-   "ko": "브라질은 좌파를 유지한다: 룰라의 승리가 조국과 그 너머에 어떤 의미를 갖는가",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/world/2026/oct/26/brazil-presidential-elections-luiz-inacio-lula-da-silva-flavio-bolsonaro",
-   "at": "2026-10-26T06:44:33.000Z",
-   "ev": [
-    "westbank"
-   ],
-   "cc": [
-    "Brazil",
-    "Serbia",
-    "United Kingdom"
-   ]
-  },
-  {
-   "id": "f58f6e11de08",
-   "t": "Angus Taylor criticised for ‘tone deaf’ response to alleged attack on Helen Haines",
-   "ko": "앵거스 테일러(Angus Taylor)는 헬렌 헤인스(Helen Haines)에 대한 공격 혐의에 대해 '음치' 반응을 보였다고 비판받았다.",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/australia-news/2026/oct/26/angus-taylor-criticised-for-tone-deaf-response-to-alleged-attack-on-helen-haines-ntwnfb",
-   "at": "2026-10-26T06:41:36.000Z",
-   "ev": [],
-   "cc": [
-    "Australia"
-   ]
-  },
-  {
-   "id": "3084ac86d423",
-   "t": "The French government is hiding behind a ‘riots’ narrative",
-   "ko": "프랑스 정부는 '폭동' 서술 뒤에 숨어 있다",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/opinions/2026/10/26/the-french-government-is-hiding-behind-a-riots-narrative?traffic_source=rss",
-   "at": "2026-10-26T05:56:04.000Z",
-   "ev": [],
-   "cc": [
-    "France"
-   ]
-  },
-  {
-   "id": "c842d852c315",
-   "t": "Former RAAF pilot who allegedly murdered wife was ‘love rat’ and ‘master manipulator’, jury hears",
-   "ko": "아내를 살해한 전직 RAAF 조종사는 '사랑의 쥐'이자 '조작의 대가'였다고 배심원단이 듣다",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/australia-news/2026/oct/26/raaf-pilot-robert-john-crawford-murder-trial-wife-ntwnfb",
-   "at": "2026-10-26T05:28:02.000Z",
-   "ev": [],
-   "cc": []
-  },
-  {
-   "id": "31d7afd6c41d",
-   "t": "Aleksandar Vucic, the Serbian leader brought down by students",
-   "ko": "학생들에 의해 무너진 세르비아 지도자 알렉산다르 부치치",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/news/2026/10/26/aleksandar-vucic-the-serbian-leader-brought-down-by-students?traffic_source=rss",
-   "at": "2026-10-26T05:24:59.000Z",
-   "ev": [],
-   "cc": [
-    "Serbia"
-   ]
-  },
-  {
-   "id": "be4621eee0f1",
-   "t": "Israel’s election: Five key things to know",
-   "ko": "이스라엘의 선거: 알아야 할 다섯 가지 주요 사항",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/news/2026/10/26/israels-election-five-key-things-to-know?traffic_source=rss",
-   "at": "2026-10-26T05:16:38.000Z",
-   "ev": [],
-   "cc": [
-    "Israel"
-   ]
-  },
-  {
-   "id": "6144e963ccb2",
-   "t": "US military says it helped Gulf states export 1.5 billion barrels of oil",
-   "ko": "미군은 걸프 지역 국가들이 15억 배럴의 석유를 수출하는 데 도움을 줬다고 밝혔습니다.",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/economy/2026/10/26/us-military-says-it-helped-gulf-states-export-1-5-billion-barrels-of-oil?traffic_source=rss",
-   "at": "2026-10-26T04:05:44.000Z",
-   "ev": [],
-   "cc": [
-    "United States"
-   ]
-  },
-  {
-   "id": "27dcab46bf3a",
-   "t": "Covert recording of prison meeting between Beau Lamarre-Condon and friend played to double murder trial",
-   "ko": "Beau Lamarre-Condon과 친구 사이의 감옥 회의를 은밀하게 녹음하여 살인 재판을 두 배로 늘렸습니다.",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/australia-news/2026/oct/26/beau-lamarre-condon-trial-covert-prison-recording-with-friend-played-to-court-ntwnfb",
-   "at": "2026-10-26T03:26:57.000Z",
-   "ev": [],
-   "cc": [
-    "Australia"
-   ]
-  },
-  {
-   "id": "a567d6b0dc4a",
-   "t": "Seoul ‘fabricated’ landmine blast, North Korea tells UN in letter",
-   "ko": "서울이 조작한 지뢰 폭발, 북한이 유엔에 서한으로 통보",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/news/2026/10/26/seoul-fabricated-landmine-blast-north-korea-tells-un-in-letter?traffic_source=rss",
-   "at": "2026-10-26T02:55:15.000Z",
-   "ev": [],
-   "cc": [
-    "North Korea",
-    "South Korea"
-   ]
   }
  ]
 }
