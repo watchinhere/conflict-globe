@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-28T15:59:16.485Z",
+ "updated": "2026-10-28T20:53:01.851Z",
  "sources": {
   "BBC": {
    "ok": true,
@@ -7,23 +7,23 @@
   },
   "Al Jazeera": {
    "ok": true,
-   "n": 3
+   "n": 9
   },
   "The Guardian": {
    "ok": true,
-   "n": 16
+   "n": 13
   },
   "DW": {
    "ok": true,
-   "n": 4
+   "n": 7
   },
   "France 24": {
    "ok": true,
-   "n": 7
+   "n": 8
   },
   "UN News": {
    "ok": true,
-   "n": 3
+   "n": 4
   },
   "NPR": {
    "ok": true,
@@ -32,9 +32,310 @@
  },
  "items": [
   {
+   "id": "f5738378edfd",
+   "t": "Death toll rises to 68 with dozens injured after high-speed train collision in Spain – latest updates",
+   "ko": "스페인에서 고속열차 충돌로 사망자 68명으로 늘어 수십명 부상",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/world/live/2026/oct/28/spain-train-crash-toledo-europe-latest-news-updates",
+   "at": "2026-10-28T20:30:59.000Z",
+   "ev": [],
+   "cc": [
+    "Spain",
+    "China",
+    "United Kingdom"
+   ]
+  },
+  {
+   "id": "b2c185a306a9",
+   "t": "Top US federal judge who handled 9/11, Trump, Maduro cases dies aged 92",
+   "ko": "9·11·트럼프·마두로 사건 처리한 미국 최고 연방판사 92세로 사망",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/americas/20261028-top-us-federal-judge-who-handled-9-11-trump-maduro-cases-dies-aged-92",
+   "at": "2026-10-28T20:22:05.000Z",
+   "ev": [],
+   "cc": [
+    "United States",
+    "Venezuela"
+   ]
+  },
+  {
+   "id": "92f7ee8a89ef",
+   "t": "Budget 2026: Healey hikes taxes on banks and landlords to fund £100 handouts to 20m households",
+   "ko": "2026년 예산: Healey는 은행과 집주인에 대한 세금을 인상하여 2천만 가구에 100파운드의 유인물을 지원합니다.",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/uk-news/2026/oct/28/budget-2026-healey-hikes-taxes-on-banks-and-landlords-to-fund-100-handouts-to-20m-households",
+   "at": "2026-10-28T20:09:34.000Z",
+   "ev": [
+    "iran"
+   ],
+   "cc": [
+    "Iran"
+   ]
+  },
+  {
+   "id": "942be38cca5e",
+   "t": "Amid uncertainty over EU aid, Vitalii Kim insists Ukraine has no choice but to fight for motherland",
+   "ko": "EU 원조에 대한 불확실성 속에서 비탈리 김은 우크라이나는 조국을 위해 싸울 수밖에 없다고 주장",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/tv-shows/spotlight/20261028-amid-uncertainty-over-eu-aid-vitalii-kim-insists-ukraine-has-no-choice-but-to-fight-for-motherland",
+   "at": "2026-10-28T19:57:46.000Z",
+   "ev": [
+    "ukraine"
+   ],
+   "cc": [
+    "Ukraine",
+    "Russia"
+   ]
+  },
+  {
+   "id": "d31296ebeaac",
+   "t": "Knifeman on LNER train ‘caused terror and fear on unimaginable scale’, court hears",
+   "ko": "LNER 열차의 칼맨이 '상상할 수 없는 규모의 공포와 공포를 일으켰다'고 법원 판결",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/uk-news/2026/oct/28/knifeman-on-lner-train-caused-terror-and-fear-on-unimaginable-scale-court-hears",
+   "at": "2026-10-28T19:54:19.000Z",
+   "ev": [],
+   "cc": []
+  },
+  {
+   "id": "0538f3088cc6",
+   "t": "Spain demands answers after deadliest train disaster in over a decade",
+   "ko": "스페인, 10년 만에 최악의 열차 참사에 대한 답변 요구",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/video/newsfeed/2026/10/28/spain-demands-answers-after-deadliest-train-disaster-in-over-a-decade?traffic_source=rss",
+   "at": "2026-10-28T19:32:57.000Z",
+   "ev": [],
+   "cc": [
+    "Spain"
+   ]
+  },
+  {
+   "id": "2dd72aafdd59",
+   "t": "What are the implications of Israel’s elections?",
+   "ko": "이스라엘 선거가 어떤 의미를 갖고 있나요?",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/video/inside-story/2026/10/28/what-are-the-implications-of-israels-elections?traffic_source=rss",
+   "at": "2026-10-28T19:03:03.000Z",
+   "ev": [
+    "gaza"
+   ],
+   "cc": [
+    "Israel",
+    "Palestine"
+   ]
+  },
+  {
+   "id": "12b7f0e0a4ad",
+   "t": "US jury convicts Rwandan American of lying about role in genocide",
+   "ko": "미국 배심원단, 르완다계 미국인이 집단 학살에 관여했다고 거짓말을 했다고 유죄 판결",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/10/28/us-jury-convicts-rwandan-american-of-lying-about-role-in-genocide?traffic_source=rss",
+   "at": "2026-10-28T19:02:38.000Z",
+   "ev": [],
+   "cc": [
+    "United States"
+   ]
+  },
+  {
+   "id": "b429b1169831",
+   "t": "Students on hunger strike in India demand restoration of student union",
+   "ko": "인도 단식농성 학생들, 학생회 복원 요구",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/video/newsfeed/2026/10/28/students-on-hunger-strike-in-india-demand-restoration-of-student-union?traffic_source=rss",
+   "at": "2026-10-28T18:52:58.000Z",
+   "ev": [
+    "delhi"
+   ],
+   "cc": [
+    "India"
+   ]
+  },
+  {
+   "id": "2db1755613b4",
+   "t": "Putin hails Elon Musk’s ‘genius’ amid plans for Russian version of Starlink",
+   "ko": "푸틴, 스타링크 러시아판 계획 중 엘론 머스크의 '천재' 칭찬",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/world/2026/oct/28/vladimir-putin-elon-musk-genius-russia-starlink",
+   "at": "2026-10-28T18:32:38.000Z",
+   "ev": [
+    "ukraine"
+   ],
+   "cc": [
+    "Russia",
+    "United States",
+    "Ukraine"
+   ]
+  },
+  {
+   "id": "f09c622a1f04",
+   "t": "Jerusalem Daily: What’s next after Israel’s elections?",
+   "ko": "예루살렘 데일리: 이스라엘 선거 이후의 다음 단계는 무엇입니까?",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/video/newsfeed/2026/10/28/jerusalem-daily-whats-next-after-israels-elections?traffic_source=rss",
+   "at": "2026-10-28T18:31:33.000Z",
+   "ev": [],
+   "cc": [
+    "Israel"
+   ]
+  },
+  {
+   "id": "759409f0897f",
+   "t": "Sudan war and inflation leave families struggling to survive in Khartoum",
+   "ko": "수단 전쟁과 인플레이션으로 인해 가족들은 하르툼에서 생존하기 위해 고군분투하고 있습니다.",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/features/2026/10/28/sudan-war-and-inflation-leave-families-struggling-to-survive-in-khartoum?traffic_source=rss",
+   "at": "2026-10-28T17:09:05.000Z",
+   "ev": [
+    "sudan"
+   ],
+   "cc": [
+    "Sudan"
+   ]
+  },
+  {
+   "id": "0ba0353f4c0c",
+   "t": "Evacuation from Oleshky: How are preparations going?",
+   "ko": "Oleshky 대피: 준비는 어떻게 진행되고 있나요?",
+   "src": "DW",
+   "u": "https://www.dw.com/en/evacuation-from-oleshky-how-are-preparations-going/a-79790001?maca=en-rss-en-world-4025-rdf",
+   "at": "2026-10-28T17:04:00.000Z",
+   "ev": [
+    "ukraine"
+   ],
+   "cc": [
+    "Ukraine"
+   ]
+  },
+  {
+   "id": "dd6bd0bc42a4",
+   "t": "Second fatal train collision this year casts doubt over Spain’s high-speed rail network",
+   "ko": "올해 두 번째 치명적인 열차 충돌로 스페인의 고속철도 네트워크에 대한 의문이 제기되었습니다.",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/world/2026/oct/28/analysis-fatal-collision-doubt-over-spain-high-speed-rail",
+   "at": "2026-10-28T16:56:46.000Z",
+   "ev": [],
+   "cc": [
+    "Spain",
+    "China"
+   ]
+  },
+  {
+   "id": "610e0521d6ab",
+   "t": "Israel election: What impact on Iran as the war in the Middle East continues?",
+   "ko": "이스라엘 선거: 중동 전쟁이 계속되면서 이란에 어떤 영향을 미칠까요?",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/video/20261028-israel-election-what-impact-on-iran-as-the-war-in-the-middle-east-continues",
+   "at": "2026-10-28T16:54:33.000Z",
+   "ev": [
+    "iran"
+   ],
+   "cc": [
+    "Israel",
+    "Iran",
+    "France"
+   ]
+  },
+  {
+   "id": "f2f64f3dab80",
+   "t": "France: Racist attack in Trappes deeply scars local community",
+   "ko": "프랑스: 트라페스에서의 인종차별 공격으로 지역사회에 깊은 상처를 입다",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/video/20261028-france-racist-attack-in-trappes-deeply-scars-local-community",
+   "at": "2026-10-28T16:53:01.000Z",
+   "ev": [],
+   "cc": [
+    "France"
+   ]
+  },
+  {
+   "id": "7ba98b8bc8bd",
+   "t": "One year on, families seek justice after election violence",
+   "ko": "1년 후, 가족들은 선거 폭력 이후 정의를 추구합니다",
+   "src": "DW",
+   "u": "https://www.dw.com/en/one-year-on-families-seek-justice-after-election-violence/a-79779105?maca=en-rss-en-world-4025-rdf",
+   "at": "2026-10-28T16:30:00.000Z",
+   "ev": [],
+   "cc": [
+    "Tanzania"
+   ]
+  },
+  {
+   "id": "ecdb3f0509ac",
+   "t": "Ethiopia clashes push 50,000 to flee to Kenya",
+   "ko": "에티오피아 충돌로 5만명이 케냐로 피신",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/africa/20261028-ethiopia-clashes-push-50-000-flee-to-kenya",
+   "at": "2026-10-28T16:29:54.000Z",
+   "ev": [
+    "ethiopia"
+   ],
+   "cc": [
+    "Ethiopia",
+    "Kenya"
+   ]
+  },
+  {
+   "id": "08ba6c714c38",
+   "t": "Spain: PM Sanchez gives speech on train collision",
+   "ko": "스페인: 산체스 총리, 열차 충돌에 대해 연설",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/spain-pm-sanchez-gives-speech-on-train-collision",
+   "at": "2026-10-28T16:29:46.000Z",
+   "ev": [],
+   "cc": [
+    "Spain"
+   ]
+  },
+  {
+   "id": "7af4b270020d",
+   "t": "Kremlin says European countries not included in next Ukraine talks",
+   "ko": "크렘린 \"차기 우크라이나 회담에 유럽 국가는 포함되지 않는다\"",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/10/28/kremlin-says-european-countries-not-included-in-next-ukraine-talks?traffic_source=rss",
+   "at": "2026-10-28T16:12:02.000Z",
+   "ev": [
+    "ukraine"
+   ],
+   "cc": [
+    "Ukraine",
+    "United Kingdom",
+    "Netherlands"
+   ]
+  },
+  {
+   "id": "7caac019fb20",
+   "t": "Israeli soldier visiting UK faces war crimes complaint",
+   "ko": "영국 방문 이스라엘 군인, 전쟁 범죄로 고소당하다",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/10/28/israeli-soldier-visiting-uk-faces-war-crimes-complaint?traffic_source=rss",
+   "at": "2026-10-28T16:06:17.000Z",
+   "ev": [],
+   "cc": [
+    "Israel",
+    "United Kingdom"
+   ]
+  },
+  {
+   "id": "896382a40615",
+   "t": "What would a new Israeli government mean for Arab neighbors? More of the same is expected, with some small positives predicted.",
+   "ko": "새로운 이스라엘 정부는 아랍 이웃들에게 무엇을 의미할까요? 약간의 긍정적인 결과가 예측되면서 더 많은 것이 예상됩니다.",
+   "src": "DW",
+   "u": "https://www.dw.com/en/what-would-a-new-israeli-government-mean-for-arab-neighbors-more-of-the-same-is-expected-with-some-small-positives-predicted/a-79788174?maca=en-rss-en-world-4025-rdf",
+   "at": "2026-10-28T16:03:00.000Z",
+   "ev": [
+    "lebanon",
+    "syria"
+   ],
+   "cc": [
+    "Israel",
+    "Palestine",
+    "Lebanon"
+   ]
+  },
+  {
    "id": "be1d3ead455a",
    "t": "In Serbia, a new type of democracy is taking hold, and Europe is watching closely",
-   "ko": null,
+   "ko": "세르비아에서는 새로운 유형의 민주주의가 자리잡고 있으며, 유럽은 이를 면밀히 지켜보고 있습니다.",
    "src": "The Guardian",
    "u": "https://www.theguardian.com/world/2026/oct/28/in-serbia-a-new-type-of-democracy-is-taking-hold-and-europe-is-watching-closely",
    "at": "2026-10-28T15:45:06.000Z",
@@ -45,23 +346,9 @@
    ]
   },
   {
-   "id": "f5738378edfd",
-   "t": "Death toll rises to 68 with dozens injured after high-speed train collision in Spain – latest updates",
-   "ko": null,
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/world/live/2026/oct/28/spain-train-crash-toledo-europe-latest-news-updates",
-   "at": "2026-10-28T15:41:20.000Z",
-   "ev": [],
-   "cc": [
-    "Spain",
-    "China",
-    "United Kingdom"
-   ]
-  },
-  {
    "id": "5c6b193a8561",
    "t": "‘A pretty grim picture’: outlook for UK living standards slashed despite Healey’s budget",
-   "ko": null,
+   "ko": "'매우 암울한 그림': Healey의 예산에도 불구하고 영국 생활 수준 전망이 삭감되었습니다.",
    "src": "The Guardian",
    "u": "https://www.theguardian.com/business/2026/oct/28/obr-slashes-uk-growth-forecast-for-2027-despite-healey-budget-measures",
    "at": "2026-10-28T15:40:42.000Z",
@@ -71,9 +358,25 @@
    ]
   },
   {
+   "id": "91559bca2245",
+   "t": "Israeli election: Lebanon expects little change in Israeli policy",
+   "ko": "이스라엘 선거: 레바논은 이스라엘 정책에 거의 변화가 없을 것으로 예상합니다.",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/video/20261028-israeli-election-lebanon-expects-little-change-in-israeli-policy",
+   "at": "2026-10-28T15:36:07.000Z",
+   "ev": [
+    "lebanon"
+   ],
+   "cc": [
+    "Israel",
+    "Lebanon",
+    "France"
+   ]
+  },
+  {
    "id": "ef7c5b2d276d",
    "t": "Father grieving 6 children wants Pastor Mackenzie ‘locked away for life’",
-   "ko": null,
+   "ko": "6명의 자녀를 잃은 아버지, 매켄지 목사에게 '평생 감금' 원해",
    "src": "Al Jazeera",
    "u": "https://www.aljazeera.com/video/newsfeed/2026/10/28/father-grieving-6-children-wants-pastor-mackenzie-locked-away?traffic_source=rss",
    "at": "2026-10-28T15:17:48.000Z",
@@ -83,7 +386,7 @@
   {
    "id": "2039ae8d6ec5",
    "t": "Israel election: what we know so far",
-   "ko": null,
+   "ko": "이스라엘 선거: 지금까지 우리가 알고 있는 것",
    "src": "The Guardian",
    "u": "https://www.theguardian.com/world/2026/oct/28/israel-election-results-what-we-know-so-far-ntwnfb",
    "at": "2026-10-28T15:08:58.000Z",
@@ -99,7 +402,7 @@
   {
    "id": "031ea03b95bd",
    "t": "Spain: Dozens killed after one high-speed train slams into another",
-   "ko": null,
+   "ko": "스페인: 고속열차가 다른 고속열차와 충돌해 수십 명이 사망",
    "src": "France 24",
    "u": "https://www.france24.com/en/video/20261028-spain-dozens-killed-after-one-high-speed-train-slams-into-another",
    "at": "2026-10-28T14:34:15.000Z",
@@ -110,22 +413,9 @@
    ]
   },
   {
-   "id": "dd6bd0bc42a4",
-   "t": "Second fatal train collision this year casts doubt over Spain’s high-speed rail network",
-   "ko": null,
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/world/2026/oct/28/analysis-fatal-collision-doubt-over-spain-high-speed-rail",
-   "at": "2026-10-28T14:29:34.000Z",
-   "ev": [],
-   "cc": [
-    "Spain",
-    "China"
-   ]
-  },
-  {
    "id": "a9b13c159c50",
    "t": "Is Iran headed to war or peace after Mecca alliance meeting?",
-   "ko": null,
+   "ko": "이란은 메카 동맹 회담 이후 전쟁으로 향할 것인가, 아니면 평화로 향할 것인가?",
    "src": "DW",
    "u": "https://www.dw.com/en/is-iran-headed-to-war-or-peace-after-mecca-alliance-meeting/a-79788256?maca=en-rss-en-world-4025-rdf",
    "at": "2026-10-28T14:20:00.000Z",
@@ -141,7 +431,7 @@
   {
    "id": "73a6520b75a6",
    "t": "Egypt fines prominent editor Lina Attalah and shuts independent news outlet Mada Masr",
-   "ko": null,
+   "ko": "이집트, 저명한 편집자 Lina Attalah에게 벌금을 부과하고 독립 뉴스 매체 Mada Masr를 폐쇄",
    "src": "The Guardian",
    "u": "https://www.theguardian.com/world/2026/oct/28/egypt-lina-attalah-mada-masr-press-freedom-clampdown",
    "at": "2026-10-28T14:16:24.000Z",
@@ -153,7 +443,7 @@
   {
    "id": "b1e5459eada7",
    "t": "Menindee Lakes water levels drop to lowest in five years as experts warn of mass fish deaths",
-   "ko": null,
+   "ko": "전문가들이 대량의 물고기 죽음을 경고함에 따라 메닌디 호수 수위가 5년 만에 최저 수준으로 떨어졌습니다.",
    "src": "The Guardian",
    "u": "https://www.theguardian.com/australia-news/2026/oct/28/menindee-lakes-water-levels-drop-mass-fish-death-fears",
    "at": "2026-10-28T14:00:07.000Z",
@@ -163,7 +453,7 @@
   {
    "id": "94850f08e8ce",
    "t": "West Bank: settlers using drones to monitor Palestinians",
-   "ko": null,
+   "ko": "서안지구: 정착민들이 팔레스타인인들을 감시하기 위해 드론을 사용함",
    "src": "France 24",
    "u": "https://www.france24.com/en/tv-shows/the-observers/20261028-west-bank-settlers-using-drones-to-monitor-palestinians",
    "at": "2026-10-28T13:39:26.000Z",
@@ -178,7 +468,7 @@
   {
    "id": "2b5190d25efa",
    "t": "US teen whose father arranged her marriage to Islamic State fighter convicted for weapons training",
-   "ko": null,
+   "ko": "무기 훈련 혐의로 유죄 판결을 받은 IS 전사와 결혼 주선한 아버지를 둔 미국 10대",
    "src": "The Guardian",
    "u": "https://www.theguardian.com/us-news/2026/oct/28/teen-marriage-convicted-islamic-state",
    "at": "2026-10-28T13:36:39.000Z",
@@ -193,7 +483,7 @@
   {
    "id": "e11821d7658d",
    "t": "🔴 Death toll from train collision in central Spain rises to 64, regional government says",
-   "ko": null,
+   "ko": "🔴 스페인 중부에서 열차 충돌로 인한 사망자 수가 64명으로 늘어났다고 지방 정부가 밝혔습니다.",
    "src": "France 24",
    "u": "https://www.france24.com/en/europe/20261028-two-high-speed-trains-collide-in-southern-spain-rail-operator-says",
    "at": "2026-10-28T13:11:18.000Z",
@@ -205,7 +495,7 @@
   {
    "id": "8dd7befdd9cb",
    "t": "Tens of thousands flee Ethiopia fighting into neighbouring Kenya",
-   "ko": null,
+   "ko": "수만 명이 에티오피아를 떠나 이웃 케냐로 싸우다",
    "src": "Al Jazeera",
    "u": "https://www.aljazeera.com/video/newsfeed/2026/10/28/tens-of-thousands-flee-ethiopia-fighting-into-neighbouring-kenya?traffic_source=rss",
    "at": "2026-10-28T12:51:39.000Z",
@@ -220,7 +510,7 @@
   {
    "id": "cbb56b02282c",
    "t": "Australia must recruit hundreds more to crew Aukus submarines, retired admiral warns",
-   "ko": null,
+   "ko": "호주는 Aukus 잠수함 승무원을 위해 수백 명을 더 모집해야한다고 은퇴 한 제독이 경고했습니다.",
    "src": "The Guardian",
    "u": "https://www.theguardian.com/world/2026/oct/28/australia-must-recruit-hundreds-more-to-crew-aukus-submarines-retired-admiral-warns",
    "at": "2026-10-28T12:46:36.000Z",
@@ -232,7 +522,7 @@
   {
    "id": "ab6e6c94d622",
    "t": "Ukraine: Melania Trump-brokered local ceasefire holds for second day",
-   "ko": null,
+   "ko": "우크라이나: 멜라니아 트럼프가 중재한 지역 휴전 이틀째 유지",
    "src": "France 24",
    "u": "https://www.france24.com/en/video/20261028-ukraine-melania-trump-brokered-local-ceasefire-holds-for-second-day",
    "at": "2026-10-28T12:42:31.000Z",
@@ -246,7 +536,7 @@
   {
    "id": "708eeca7eccd",
    "t": "Victims of Jordan’s air strikes in Syria",
-   "ko": null,
+   "ko": "요르단의 시리아 공습 피해자들",
    "src": "Al Jazeera",
    "u": "https://www.aljazeera.com/video/newsfeed/2026/10/28/victims-of-jordans-air-strikes-in-syria?traffic_source=rss",
    "at": "2026-10-28T12:35:19.000Z",
@@ -261,7 +551,7 @@
   {
    "id": "38ae77d125bf",
    "t": "Record heat-related deaths in 2023, WHO-partnered report finds",
-   "ko": null,
+   "ko": "WHO 협력 보고서에 따르면 2023년 폭염으로 인한 사망자 기록",
    "src": "UN News",
    "u": "https://news.un.org/feed/view/en/story/2026/10/1168688",
    "at": "2026-10-28T12:00:00.000Z",
@@ -269,9 +559,19 @@
    "cc": []
   },
   {
+   "id": "2c1403bc3c1c",
+   "t": "Protecting the storytellers: Women journalists on the frontline of conflict",
+   "ko": "스토리텔러 보호: 분쟁의 최전선에 있는 여성 언론인",
+   "src": "UN News",
+   "u": "https://news.un.org/feed/view/en/story/2026/10/1168691",
+   "at": "2026-10-28T12:00:00.000Z",
+   "ev": [],
+   "cc": []
+  },
+  {
    "id": "aaa86d817521",
    "t": "Ukraine: Ceasefire holds for its first 30 hours in occupied Oleshky",
-   "ko": null,
+   "ko": "우크라이나: 점령된 올레쉬키에서 처음 30시간 동안 휴전 유지",
    "src": "France 24",
    "u": "https://www.france24.com/en/video/20261028-ukraine-ceasefire-holds-for-its-first-30-hours-in-occupied-oleshky",
    "at": "2026-10-28T10:46:51.000Z",
@@ -285,7 +585,7 @@
   {
    "id": "36cb54dc2702",
    "t": "Serbian shot dead after attacking officer outside Israeli embassy, minister says",
-   "ko": null,
+   "ko": "세르비아인, 이스라엘 대사관 앞에서 경찰관 공격 후 총격 사망",
    "src": "BBC",
    "u": "https://www.bbc.co.uk/news/articles/ck5ynj4eeyj2o?at_medium=RSS&at_campaign=rss",
    "at": "2026-10-28T10:17:54.000Z",
@@ -298,7 +598,7 @@
   {
    "id": "855efafbfd4a",
    "t": "Spain: Local authorities confirm at least 10 dead in train accident",
-   "ko": null,
+   "ko": "스페인: 지방 당국은 열차 사고로 최소 10명이 사망했다고 확인했습니다.",
    "src": "France 24",
    "u": "https://www.france24.com/en/spain-local-authorities-confirm-at-least-10-dead-in-train-accident",
    "at": "2026-10-28T10:17:48.000Z",
@@ -311,7 +611,7 @@
   {
    "id": "5632fda0ab0f",
    "t": "Spain: At least 10 dead in crash between 2 high-speed trains",
-   "ko": null,
+   "ko": "스페인: 고속열차 2대 충돌로 최소 10명 사망",
    "src": "France 24",
    "u": "https://www.france24.com/en/video/20261028-spain-at-least-10-dead-in-crash-between-2-high-speed-trains",
    "at": "2026-10-28T10:11:43.000Z",
@@ -323,8 +623,8 @@
   },
   {
    "id": "458c68f5cd78",
-   "t": "A US woman feared dead was reported alive in Mexico. But cops now say that isn’t true",
-   "ko": null,
+   "t": "A US woman feared dead was reported alive in Mexico. But police now say that isn’t true",
+   "ko": "사망 우려가 있던 미국 여성이 멕시코에서 살아 있는 것으로 보고됐다. 하지만 경찰은 \"사실이 아니다\"고 밝혔다.",
    "src": "The Guardian",
    "u": "https://www.theguardian.com/us-news/2026/oct/28/shayna-feinman-missing-arizona-woman-mexico",
    "at": "2026-10-28T10:00:05.000Z",
@@ -339,7 +639,7 @@
   {
    "id": "8280185d2be4",
    "t": "Russia in Africa: What is Putin hoping to achieve?",
-   "ko": null,
+   "ko": "아프리카 속의 러시아: 푸틴 대통령이 원하는 것은 무엇인가?",
    "src": "DW",
    "u": "https://www.dw.com/en/russia-in-africa-what-is-putin-hoping-to-achieve/a-79781858?maca=en-rss-en-world-4025-rdf",
    "at": "2026-10-28T09:48:00.000Z",
@@ -1892,307 +2192,6 @@
    "ev": [],
    "cc": [
     "United States"
-   ]
-  },
-  {
-   "id": "0b0981130510",
-   "t": "Trump continues midterm campaign blitz in Mississippi amid outcry over racist, Islamophobic attacks – as it happened",
-   "ko": "트럼프는 인종 차별주의와 이슬람 혐오 공격에 대한 항의 속에서 미시시피에서 중간 선거 공세를 이어갔습니다.",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/us-news/live/2026/oct/26/donald-trump-abdul-el-sayed-midterms-michigan-rally-space-latest-us-politics-news-updates",
-   "at": "2026-10-27T01:55:40.000Z",
-   "ev": [
-    "ukraine"
-   ],
-   "cc": [
-    "United States",
-    "Ukraine"
-   ]
-  },
-  {
-   "id": "040fb06b22bb",
-   "t": "Iran war live: Iran says US ‘not serious’ about talks; ship ablaze off Iraq",
-   "ko": "이란 전쟁 생중계: 이란은 미국이 대화에 대해 '진지하지 않다'고 말합니다. 이라크에서 불타오르는 배",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/news/liveblog/2026/10/27/iran-war-live-iran-says-us-not-serious-on-talks-ship-on-fire-off-iraq?traffic_source=rss",
-   "at": "2026-10-27T00:00:00.000Z",
-   "ev": [
-    "iran"
-   ],
-   "cc": [
-    "Iran",
-    "United States",
-    "Iraq"
-   ]
-  },
-  {
-   "id": "25cfbc19dbf6",
-   "t": "Jordan strikes Syria after church attack, killing at least seven people",
-   "ko": "요르단, 교회 공격 후 시리아 공습, 최소 7명 사망",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/news/2026/10/26/jordan-launches-air-strikes-in-syria-in-response-to-a-fatal-church-shooting?traffic_source=rss",
-   "at": "2026-10-26T23:50:11.000Z",
-   "ev": [
-    "syria"
-   ],
-   "cc": [
-    "Jordan",
-    "Syria"
-   ]
-  },
-  {
-   "id": "88016e2dab13",
-   "t": "Jordan attacks Syria in response to Karak church attack",
-   "ko": "요르단, 카라크 교회 공격에 대응해 시리아 공격",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/video/newsfeed/2026/10/26/jordan-attacks-syria-in-response-to-karak-church-attack?traffic_source=rss",
-   "at": "2026-10-26T23:48:51.000Z",
-   "ev": [
-    "syria"
-   ],
-   "cc": [
-    "Jordan",
-    "Syria"
-   ]
-  },
-  {
-   "id": "8f76b61143d9",
-   "t": "Mecca pact nations hold talks with Iran to prevent renewed Middle East war",
-   "ko": "메카 조약 국가들, 중동 전쟁 재발 방지를 위해 이란과 회담",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/middle-east/20261026-iran-talks-mecca-pact-nations-war",
-   "at": "2026-10-26T23:24:17.000Z",
-   "ev": [
-    "iran"
-   ],
-   "cc": [
-    "Iran",
-    "Saudi Arabia",
-    "Turkey"
-   ]
-  },
-  {
-   "id": "d7a1fd79d5b5",
-   "t": "Brazil: defeated Flávio Bolsonaro ordered to surrender passports",
-   "ko": "브라질: 플라비오 보우소나루에게 패배, 여권 반납 명령",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/world/2026/oct/26/flavio-bolsonaro-brazil-lula-election",
-   "at": "2026-10-26T23:02:17.000Z",
-   "ev": [],
-   "cc": [
-    "Brazil"
-   ]
-  },
-  {
-   "id": "88dbc3c2dc95",
-   "t": "The chaos in France is a ‘warning signal’ for Australia’s public spending and rising costs",
-   "ko": "프랑스의 혼란은 호주의 공공 지출과 비용 상승에 대한 '경고 신호'입니다.",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/business/2026/oct/27/the-chaos-in-france-is-a-warning-signal-for-australias-public-spending-and-rising-costs",
-   "at": "2026-10-26T22:45:35.000Z",
-   "ev": [],
-   "cc": [
-    "France",
-    "Australia"
-   ]
-  },
-  {
-   "id": "3cf6f42ee646",
-   "t": "Court blocks bid by Trump DoJ to stop California from counting mail-in ballots",
-   "ko": "법원은 캘리포니아주가 우편 투표용지를 집계하지 못하도록 하는 Trump DoJ의 입찰을 차단했습니다.",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/us-news/2026/oct/26/court-california-ballots",
-   "at": "2026-10-26T22:44:19.000Z",
-   "ev": [],
-   "cc": [
-    "United States"
-   ]
-  },
-  {
-   "id": "62d1259e06d4",
-   "t": "Protests in Europe: Fact-checking viral videos amid claims of 'chaos'",
-   "ko": "유럽의 시위: '혼돈' 주장 속에 사실 확인 바이러스 영상",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/tv-shows/truth-or-fake/20261026-protests-in-europe-fact-checking-viral-videos-amid-claims-of-chaos",
-   "at": "2026-10-26T22:18:34.000Z",
-   "ev": [],
-   "cc": [
-    "Poland",
-    "Portugal",
-    "Argentina"
-   ]
-  },
-  {
-   "id": "a0b1885af390",
-   "t": "Jordan attacks militants in Syria in retaliation for church attack",
-   "ko": "요르단, 교회 공격에 대한 보복으로 시리아 무장세력 공격",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/world/2026/oct/26/jordan-attacks-militants-syria-retaliation-for-last-week-church-attack",
-   "at": "2026-10-26T22:08:38.000Z",
-   "ev": [
-    "syria"
-   ],
-   "cc": [
-    "Jordan",
-    "Syria",
-    "Greece"
-   ]
-  },
-  {
-   "id": "17d80dcd0084",
-   "t": "Serbia’s elections: 'Tracking fraud for sure had an impact on the results'",
-   "ko": "세르비아 선거: '사기 추적이 확실히 결과에 영향을 미쳤습니다'",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/europe/20261026-serbia-elections-tracking-fraud-had-an-impact-on-results-vote-fraud",
-   "at": "2026-10-26T21:49:17.000Z",
-   "ev": [],
-   "cc": [
-    "Serbia"
-   ]
-  },
-  {
-   "id": "56e164ae8df4",
-   "t": "Africa food security under threat due to Iran war, trade officials warn",
-   "ko": "이란 전쟁으로 인해 아프리카의 식량 안보가 위협받고 있다고 무역 관계자들이 경고했습니다.",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/news/2026/10/26/africa-food-security-under-threat-due-to-iran-war-warn-trade-officials?traffic_source=rss",
-   "at": "2026-10-26T21:42:18.000Z",
-   "ev": [
-    "iran"
-   ],
-   "cc": [
-    "Iran"
-   ]
-  },
-  {
-   "id": "7a95f4668772",
-   "t": "The fall of El-Fasher, one year on",
-   "ko": "El-Fasher의 몰락, 1년 후",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/the-fall-of-el-fasher-one-year-on",
-   "at": "2026-10-26T21:26:52.000Z",
-   "ev": [
-    "sudan",
-    "darfur",
-    "niger"
-   ],
-   "cc": [
-    "United Kingdom",
-    "Algeria",
-    "Niger"
-   ]
-  },
-  {
-   "id": "c001d85ddaa3",
-   "t": "Palestinian children crawl under Israeli military gates to get to school",
-   "ko": "팔레스타인 어린이들이 학교에 가기 위해 이스라엘 군 성문 아래로 기어들어갑니다.",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/video/newsfeed/2026/10/26/palestinian-children-crawl-under-israeli-military-gates-to-get-to-school?traffic_source=rss",
-   "at": "2026-10-26T20:46:01.000Z",
-   "ev": [
-    "westbank"
-   ],
-   "cc": [
-    "Palestine",
-    "Israel"
-   ]
-  },
-  {
-   "id": "513f586de3fb",
-   "t": "Huge explosion at a weapons depot in Syria",
-   "ko": "시리아 무기고에서 대규모 폭발 발생",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/video/newsfeed/2026/10/26/huge-explosion-at-a-weapons-depot-in-syria?traffic_source=rss",
-   "at": "2026-10-26T20:41:33.000Z",
-   "ev": [
-    "syria"
-   ],
-   "cc": [
-    "Syria"
-   ]
-  },
-  {
-   "id": "018c83d76b4e",
-   "t": "Protest leaders urge French pupils to keep barricading their schools",
-   "ko": "시위 지도자들은 프랑스 학생들에게 학교에 계속 바리케이드를 쳐줄 것을 촉구했습니다.",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/world/2026/oct/26/protest-leaders-urge-french-students-to-keep-barricading-their-schools",
-   "at": "2026-10-26T20:17:16.000Z",
-   "ev": [],
-   "cc": [
-    "France"
-   ]
-  },
-  {
-   "id": "8d277a70d86c",
-   "t": "‘Deflections’: Abdul El-Sayed responds to Trump’s anti-Muslim attacks",
-   "ko": "'편향': Abdul El-Sayed는 트럼프의 반 무슬림 공격에 대응합니다.",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/news/2026/10/26/deflections-abdul-el-sayed-responds-to-trumps-anti-muslim-attacks?traffic_source=rss",
-   "at": "2026-10-26T20:17:09.000Z",
-   "ev": [],
-   "cc": [
-    "United States"
-   ]
-  },
-  {
-   "id": "2312f109b425",
-   "t": "80 injured after bus plunges down embankment near Barcelona",
-   "ko": "바르셀로나 인근에서 버스가 제방 아래로 추락해 80명이 부상당했다.",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/video/newsfeed/2026/10/26/80-injured-after-bus-plunges-down-embankment-near-barcelona?traffic_source=rss",
-   "at": "2026-10-26T19:49:31.000Z",
-   "ev": [],
-   "cc": []
-  },
-  {
-   "id": "ee000f77c487",
-   "t": "Jordan arrests three suspects over deadly church attack",
-   "ko": "요르단, 교회 테러 용의자 3명 체포",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/video/newsfeed/2026/10/26/jordan-arrests-three-suspects-over-deadly-church-attack?traffic_source=rss",
-   "at": "2026-10-26T19:25:53.000Z",
-   "ev": [],
-   "cc": [
-    "Jordan"
-   ]
-  },
-  {
-   "id": "d13df5515393",
-   "t": "Netanyahu reportedly pressured military to attack Iran in run-up to election",
-   "ko": "네타냐후는 선거를 앞두고 군부에 이란을 공격하라고 압력을 가한 것으로 알려졌다.",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/world/2026/oct/26/netanyahu-reportedly-pressured-israel-military-attack-iran-runup-to-election",
-   "at": "2026-10-26T19:21:36.000Z",
-   "ev": [
-    "iran",
-    "gaza"
-   ],
-   "cc": [
-    "Iran",
-    "Israel"
-   ]
-  },
-  {
-   "id": "def02738f68d",
-   "t": "Walter Koenig, actor best known as Chekov on Star Trek, dies aged 90",
-   "ko": "스타트렉의 체코프 역으로 잘 알려진 배우 월터 코에닉(Walter Koenig)이 90세의 나이로 사망했습니다.",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/culture/2026/oct/26/walter-koenig-actor-star-trek-dies",
-   "at": "2026-10-26T18:42:11.000Z",
-   "ev": [],
-   "cc": []
-  },
-  {
-   "id": "9bc73d0efca0",
-   "t": "NHS consultants to go on two-day strike in England in November",
-   "ko": "NHS 컨설턴트, 11월 영국에서 이틀간 파업 돌입",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/society/2026/oct/26/nhs-consultants-two-day-doctors-strike-england-november-bma",
-   "at": "2026-10-26T18:05:16.000Z",
-   "ev": [],
-   "cc": [
-    "United Kingdom"
    ]
   }
  ]
