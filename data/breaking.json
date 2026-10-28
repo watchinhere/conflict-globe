@@ -1,13 +1,13 @@
 {
- "updated": "2026-10-28T08:58:49.151Z",
+ "updated": "2026-10-28T15:59:16.485Z",
  "sources": {
   "BBC": {
    "ok": true,
-   "n": 2
+   "n": 3
   },
   "Al Jazeera": {
    "ok": true,
-   "n": 5
+   "n": 3
   },
   "The Guardian": {
    "ok": true,
@@ -15,15 +15,15 @@
   },
   "DW": {
    "ok": true,
-   "n": 3
+   "n": 4
   },
   "France 24": {
    "ok": true,
-   "n": 10
+   "n": 7
   },
   "UN News": {
    "ok": true,
-   "n": 7
+   "n": 3
   },
   "NPR": {
    "ok": true,
@@ -31,6 +31,326 @@
   }
  },
  "items": [
+  {
+   "id": "be1d3ead455a",
+   "t": "In Serbia, a new type of democracy is taking hold, and Europe is watching closely",
+   "ko": null,
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/world/2026/oct/28/in-serbia-a-new-type-of-democracy-is-taking-hold-and-europe-is-watching-closely",
+   "at": "2026-10-28T15:45:06.000Z",
+   "ev": [],
+   "cc": [
+    "Serbia",
+    "France"
+   ]
+  },
+  {
+   "id": "f5738378edfd",
+   "t": "Death toll rises to 68 with dozens injured after high-speed train collision in Spain – latest updates",
+   "ko": null,
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/world/live/2026/oct/28/spain-train-crash-toledo-europe-latest-news-updates",
+   "at": "2026-10-28T15:41:20.000Z",
+   "ev": [],
+   "cc": [
+    "Spain",
+    "China",
+    "United Kingdom"
+   ]
+  },
+  {
+   "id": "5c6b193a8561",
+   "t": "‘A pretty grim picture’: outlook for UK living standards slashed despite Healey’s budget",
+   "ko": null,
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/business/2026/oct/28/obr-slashes-uk-growth-forecast-for-2027-despite-healey-budget-measures",
+   "at": "2026-10-28T15:40:42.000Z",
+   "ev": [],
+   "cc": [
+    "United Kingdom"
+   ]
+  },
+  {
+   "id": "ef7c5b2d276d",
+   "t": "Father grieving 6 children wants Pastor Mackenzie ‘locked away for life’",
+   "ko": null,
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/video/newsfeed/2026/10/28/father-grieving-6-children-wants-pastor-mackenzie-locked-away?traffic_source=rss",
+   "at": "2026-10-28T15:17:48.000Z",
+   "ev": [],
+   "cc": []
+  },
+  {
+   "id": "2039ae8d6ec5",
+   "t": "Israel election: what we know so far",
+   "ko": null,
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/world/2026/oct/28/israel-election-results-what-we-know-so-far-ntwnfb",
+   "at": "2026-10-28T15:08:58.000Z",
+   "ev": [
+    "iran"
+   ],
+   "cc": [
+    "Israel",
+    "Palestine",
+    "Iran"
+   ]
+  },
+  {
+   "id": "031ea03b95bd",
+   "t": "Spain: Dozens killed after one high-speed train slams into another",
+   "ko": null,
+   "src": "France 24",
+   "u": "https://www.france24.com/en/video/20261028-spain-dozens-killed-after-one-high-speed-train-slams-into-another",
+   "at": "2026-10-28T14:34:15.000Z",
+   "ev": [],
+   "cc": [
+    "Spain",
+    "France"
+   ]
+  },
+  {
+   "id": "dd6bd0bc42a4",
+   "t": "Second fatal train collision this year casts doubt over Spain’s high-speed rail network",
+   "ko": null,
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/world/2026/oct/28/analysis-fatal-collision-doubt-over-spain-high-speed-rail",
+   "at": "2026-10-28T14:29:34.000Z",
+   "ev": [],
+   "cc": [
+    "Spain",
+    "China"
+   ]
+  },
+  {
+   "id": "a9b13c159c50",
+   "t": "Is Iran headed to war or peace after Mecca alliance meeting?",
+   "ko": null,
+   "src": "DW",
+   "u": "https://www.dw.com/en/is-iran-headed-to-war-or-peace-after-mecca-alliance-meeting/a-79788256?maca=en-rss-en-world-4025-rdf",
+   "at": "2026-10-28T14:20:00.000Z",
+   "ev": [
+    "iran"
+   ],
+   "cc": [
+    "Iran",
+    "Saudi Arabia",
+    "Pakistan"
+   ]
+  },
+  {
+   "id": "73a6520b75a6",
+   "t": "Egypt fines prominent editor Lina Attalah and shuts independent news outlet Mada Masr",
+   "ko": null,
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/world/2026/oct/28/egypt-lina-attalah-mada-masr-press-freedom-clampdown",
+   "at": "2026-10-28T14:16:24.000Z",
+   "ev": [],
+   "cc": [
+    "Egypt"
+   ]
+  },
+  {
+   "id": "b1e5459eada7",
+   "t": "Menindee Lakes water levels drop to lowest in five years as experts warn of mass fish deaths",
+   "ko": null,
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/australia-news/2026/oct/28/menindee-lakes-water-levels-drop-mass-fish-death-fears",
+   "at": "2026-10-28T14:00:07.000Z",
+   "ev": [],
+   "cc": []
+  },
+  {
+   "id": "94850f08e8ce",
+   "t": "West Bank: settlers using drones to monitor Palestinians",
+   "ko": null,
+   "src": "France 24",
+   "u": "https://www.france24.com/en/tv-shows/the-observers/20261028-west-bank-settlers-using-drones-to-monitor-palestinians",
+   "at": "2026-10-28T13:39:26.000Z",
+   "ev": [
+    "westbank"
+   ],
+   "cc": [
+    "Palestine",
+    "Israel"
+   ]
+  },
+  {
+   "id": "2b5190d25efa",
+   "t": "US teen whose father arranged her marriage to Islamic State fighter convicted for weapons training",
+   "ko": null,
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/us-news/2026/oct/28/teen-marriage-convicted-islamic-state",
+   "at": "2026-10-28T13:36:39.000Z",
+   "ev": [
+    "syria"
+   ],
+   "cc": [
+    "United States",
+    "Syria"
+   ]
+  },
+  {
+   "id": "e11821d7658d",
+   "t": "🔴 Death toll from train collision in central Spain rises to 64, regional government says",
+   "ko": null,
+   "src": "France 24",
+   "u": "https://www.france24.com/en/europe/20261028-two-high-speed-trains-collide-in-southern-spain-rail-operator-says",
+   "at": "2026-10-28T13:11:18.000Z",
+   "ev": [],
+   "cc": [
+    "Spain"
+   ]
+  },
+  {
+   "id": "8dd7befdd9cb",
+   "t": "Tens of thousands flee Ethiopia fighting into neighbouring Kenya",
+   "ko": null,
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/video/newsfeed/2026/10/28/tens-of-thousands-flee-ethiopia-fighting-into-neighbouring-kenya?traffic_source=rss",
+   "at": "2026-10-28T12:51:39.000Z",
+   "ev": [
+    "ethiopia"
+   ],
+   "cc": [
+    "Ethiopia",
+    "Kenya"
+   ]
+  },
+  {
+   "id": "cbb56b02282c",
+   "t": "Australia must recruit hundreds more to crew Aukus submarines, retired admiral warns",
+   "ko": null,
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/world/2026/oct/28/australia-must-recruit-hundreds-more-to-crew-aukus-submarines-retired-admiral-warns",
+   "at": "2026-10-28T12:46:36.000Z",
+   "ev": [],
+   "cc": [
+    "Australia"
+   ]
+  },
+  {
+   "id": "ab6e6c94d622",
+   "t": "Ukraine: Melania Trump-brokered local ceasefire holds for second day",
+   "ko": null,
+   "src": "France 24",
+   "u": "https://www.france24.com/en/video/20261028-ukraine-melania-trump-brokered-local-ceasefire-holds-for-second-day",
+   "at": "2026-10-28T12:42:31.000Z",
+   "ev": [
+    "ukraine"
+   ],
+   "cc": [
+    "Ukraine"
+   ]
+  },
+  {
+   "id": "708eeca7eccd",
+   "t": "Victims of Jordan’s air strikes in Syria",
+   "ko": null,
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/video/newsfeed/2026/10/28/victims-of-jordans-air-strikes-in-syria?traffic_source=rss",
+   "at": "2026-10-28T12:35:19.000Z",
+   "ev": [
+    "syria"
+   ],
+   "cc": [
+    "Jordan",
+    "Syria"
+   ]
+  },
+  {
+   "id": "38ae77d125bf",
+   "t": "Record heat-related deaths in 2023, WHO-partnered report finds",
+   "ko": null,
+   "src": "UN News",
+   "u": "https://news.un.org/feed/view/en/story/2026/10/1168688",
+   "at": "2026-10-28T12:00:00.000Z",
+   "ev": [],
+   "cc": []
+  },
+  {
+   "id": "aaa86d817521",
+   "t": "Ukraine: Ceasefire holds for its first 30 hours in occupied Oleshky",
+   "ko": null,
+   "src": "France 24",
+   "u": "https://www.france24.com/en/video/20261028-ukraine-ceasefire-holds-for-its-first-30-hours-in-occupied-oleshky",
+   "at": "2026-10-28T10:46:51.000Z",
+   "ev": [
+    "ukraine"
+   ],
+   "cc": [
+    "Ukraine"
+   ]
+  },
+  {
+   "id": "36cb54dc2702",
+   "t": "Serbian shot dead after attacking officer outside Israeli embassy, minister says",
+   "ko": null,
+   "src": "BBC",
+   "u": "https://www.bbc.co.uk/news/articles/ck5ynj4eeyj2o?at_medium=RSS&at_campaign=rss",
+   "at": "2026-10-28T10:17:54.000Z",
+   "ev": [],
+   "cc": [
+    "Serbia",
+    "Israel"
+   ]
+  },
+  {
+   "id": "855efafbfd4a",
+   "t": "Spain: Local authorities confirm at least 10 dead in train accident",
+   "ko": null,
+   "src": "France 24",
+   "u": "https://www.france24.com/en/spain-local-authorities-confirm-at-least-10-dead-in-train-accident",
+   "at": "2026-10-28T10:17:48.000Z",
+   "ev": [],
+   "cc": [
+    "Spain",
+    "France"
+   ]
+  },
+  {
+   "id": "5632fda0ab0f",
+   "t": "Spain: At least 10 dead in crash between 2 high-speed trains",
+   "ko": null,
+   "src": "France 24",
+   "u": "https://www.france24.com/en/video/20261028-spain-at-least-10-dead-in-crash-between-2-high-speed-trains",
+   "at": "2026-10-28T10:11:43.000Z",
+   "ev": [],
+   "cc": [
+    "Spain",
+    "France"
+   ]
+  },
+  {
+   "id": "458c68f5cd78",
+   "t": "A US woman feared dead was reported alive in Mexico. But cops now say that isn’t true",
+   "ko": null,
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/us-news/2026/oct/28/shayna-feinman-missing-arizona-woman-mexico",
+   "at": "2026-10-28T10:00:05.000Z",
+   "ev": [
+    "mexico"
+   ],
+   "cc": [
+    "United States",
+    "Mexico"
+   ]
+  },
+  {
+   "id": "8280185d2be4",
+   "t": "Russia in Africa: What is Putin hoping to achieve?",
+   "ko": null,
+   "src": "DW",
+   "u": "https://www.dw.com/en/russia-in-africa-what-is-putin-hoping-to-achieve/a-79781858?maca=en-rss-en-world-4025-rdf",
+   "at": "2026-10-28T09:48:00.000Z",
+   "ev": [
+    "ukraine"
+   ],
+   "cc": [
+    "Russia",
+    "Ukraine"
+   ]
+  },
   {
    "id": "d3fe747a8e95",
    "t": "Serbian police shoot dead assailant at Israeli Embassy",
@@ -1874,330 +2194,6 @@
    "cc": [
     "United Kingdom"
    ]
-  },
-  {
-   "id": "39b59f3ec0c7",
-   "t": "Could the midterms change US military support for Israel?",
-   "ko": "중간고사로 인해 이스라엘에 대한 미국의 군사적 지원이 바뀔 수 있을까?",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/video/newsfeed/2026/10/26/could-the-midterms-change-americas-military-support-for-israel?traffic_source=rss",
-   "at": "2026-10-26T18:05:12.000Z",
-   "ev": [],
-   "cc": [
-    "United States",
-    "Israel"
-   ]
-  },
-  {
-   "id": "6c19c6fdc3fc",
-   "t": "Fifteen-year-old arrested in shooting near Florida university that injured 12",
-   "ko": "플로리다 대학 근처에서 총격을 가해 12명을 다치게 한 15세 소년 체포",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/us-news/2026/oct/26/florida-famu-shooting-arrest",
-   "at": "2026-10-26T18:01:23.000Z",
-   "ev": [],
-   "cc": [
-    "United States"
-   ]
-  },
-  {
-   "id": "34fc65e85cd0",
-   "t": "UN cites 'ethnic cleansing' concerns around Israel's Palestinian displacement operation in Hebron",
-   "ko": "유엔, 이스라엘 헤브론 팔레스타인 이주작전 '인종청소' 우려 언급",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/middle-east/20261026-un-cites-ethnic-cleansing-concerns-around-israel-palestinian-displacement-operation-hebron",
-   "at": "2026-10-26T17:59:03.000Z",
-   "ev": [
-    "westbank"
-   ],
-   "cc": [
-    "Israel",
-    "Palestine"
-   ]
-  },
-  {
-   "id": "9b5228a9b7e3",
-   "t": "How the streets and social media drove Lula to a historic comeback in Brazil",
-   "ko": "거리와 소셜 미디어가 Lula를 브라질에서 역사적인 복귀로 이끈 방법",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/world/2026/oct/26/lula-victory-brazil-bolsonaro-analysis",
-   "at": "2026-10-26T17:56:50.000Z",
-   "ev": [],
-   "cc": [
-    "Brazil"
-   ]
-  },
-  {
-   "id": "8b79e4718a07",
-   "t": "Algeria’s president orders troop deployment to neighbouring Niger",
-   "ko": "알제리 대통령, 이웃 국가 니제르에 병력 배치 명령",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/news/2026/10/26/algerias-president-orders-troop-deployment-to-neighbouring-niger?traffic_source=rss",
-   "at": "2026-10-26T17:55:47.000Z",
-   "ev": [
-    "niger"
-   ],
-   "cc": [
-    "Algeria",
-    "Niger"
-   ]
-  },
-  {
-   "id": "9fd4b5936afd",
-   "t": "Father pays tribute to son, six, killed by truck on Kansas soccer field",
-   "ko": "캔자스 축구장에서 트럭에 치여 숨진 6살 아들에게 아버지 추모",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/us-news/2026/oct/26/cole-adrian-tribute-kansas-soccer",
-   "at": "2026-10-26T17:50:50.000Z",
-   "ev": [],
-   "cc": []
-  },
-  {
-   "id": "87149bc8fa42",
-   "t": "French student union leaders call for 'continued mobilisation' after meeting PM",
-   "ko": "프랑스 학생회 지도부, 총리 면담 후 '지속적인 동원' 촉구",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/video/20261026-french-student-union-leaders-call-for-continued-mobilisation-after-meeting-pm",
-   "at": "2026-10-26T17:37:05.000Z",
-   "ev": [],
-   "cc": [
-    "France"
-   ]
-  },
-  {
-   "id": "a9056f279417",
-   "t": "Russian attacks on Ukraine’s energy infrastructure a war crime: UN",
-   "ko": "우크라이나 에너지 기반 시설에 대한 러시아의 공격은 전쟁 범죄입니다: UN",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/news/2026/10/26/russian-attacks-on-ukraines-energy-infrastructure-a-war-crime-un?traffic_source=rss",
-   "at": "2026-10-26T17:27:34.000Z",
-   "ev": [
-    "ukraine"
-   ],
-   "cc": [
-    "Russia",
-    "Ukraine"
-   ]
-  },
-  {
-   "id": "68843c69dcc2",
-   "t": "Opponents accuse Netanyahu of stoking tensions with Iran before Israel's election",
-   "ko": "반대자들은 네타냐후가 이스라엘 선거 전에 이란과 긴장을 고조시켰다고 비난합니다.",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/opponents-accuse-netanyahu-of-stoking-tensions-with-iran-before-israel-s-election",
-   "at": "2026-10-26T17:11:03.000Z",
-   "ev": [
-    "iran"
-   ],
-   "cc": [
-    "Iran",
-    "Israel"
-   ]
-  },
-  {
-   "id": "333d63b9b449",
-   "t": "Algeria to send troops to Niger in first foreign deployment since 1973",
-   "ko": "알제리, 1973년 이후 첫 해외파병으로 니제르에 군대 파병",
-   "src": "BBC",
-   "u": "https://www.bbc.co.uk/news/articles/cm4g14n1e5wko?at_medium=RSS&at_campaign=rss",
-   "at": "2026-10-26T17:00:09.000Z",
-   "ev": [
-    "niger"
-   ],
-   "cc": [
-    "Algeria",
-    "Niger",
-    "Libya"
-   ]
-  },
-  {
-   "id": "cea6dc9ca79a",
-   "t": "Guterres warns of ‘unimaginable’ consequences of Iran-Gulf escalation",
-   "ko": "구테레스, 이란-걸프만 확대로 인한 '상상할 수 없는' 결과 경고",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/video/newsfeed/2026/10/26/guterres-warns-iran-gulf-escalation-west-bank?traffic_source=rss",
-   "at": "2026-10-26T16:39:48.000Z",
-   "ev": [
-    "iran"
-   ],
-   "cc": []
-  },
-  {
-   "id": "d1857281bdb5",
-   "t": "More than 60 Christians killed in Ethiopia 'massacre', church official says",
-   "ko": "에티오피아 '대량 학살'로 기독교인 60명 이상 사망",
-   "src": "BBC",
-   "u": "https://www.bbc.co.uk/news/articles/cm4g175dgdx2o?at_medium=RSS&at_campaign=rss",
-   "at": "2026-10-26T16:31:09.000Z",
-   "ev": [
-    "ethiopia"
-   ],
-   "cc": [
-    "Ethiopia"
-   ]
-  },
-  {
-   "id": "6854ffe0ab02",
-   "t": "France protests: Macron rules out state of emergency – for now",
-   "ko": "프랑스 시위: 마크롱은 현재로서는 비상사태를 배제한다",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/video/20261026-france-protests-macron-rules-out-state-of-emergency-%E2%80%93-for-now",
-   "at": "2026-10-26T16:16:44.000Z",
-   "ev": [],
-   "cc": [
-    "France"
-   ]
-  },
-  {
-   "id": "462fda5da447",
-   "t": "Police arrest teenager after shooting that injured 12, including children, in Florida",
-   "ko": "플로리다에서 어린이를 포함해 12명이 다친 총격 사건 이후 경찰이 10대를 체포했습니다.",
-   "src": "BBC",
-   "u": "https://www.bbc.co.uk/news/articles/ckpdg8vnv171o?at_medium=RSS&at_campaign=rss",
-   "at": "2026-10-26T15:45:30.000Z",
-   "ev": [],
-   "cc": [
-    "United States"
-   ]
-  },
-  {
-   "id": "2d6382e08911",
-   "t": "Israel committing crimes against humanity in occupied West Bank: UN",
-   "ko": "이스라엘, 점령된 서안지구에서 반인도적 범죄 저지르고 있다: UN",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/news/2026/10/26/israel-committing-crimes-against-humanity-in-occupied-west-bank-un?traffic_source=rss",
-   "at": "2026-10-26T15:44:59.000Z",
-   "ev": [
-    "westbank"
-   ],
-   "cc": [
-    "Israel",
-    "Palestine"
-   ]
-  },
-  {
-   "id": "53fb2e117f15",
-   "t": "Egyptian parliament authorises military aid for Saudi Arabia",
-   "ko": "이집트 의회, 사우디아라비아에 대한 군사 지원 승인",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/news/2026/10/26/egyptian-parliament-authorises-military-aid-for-saudi-arabia?traffic_source=rss",
-   "at": "2026-10-26T15:41:29.000Z",
-   "ev": [
-    "yemen"
-   ],
-   "cc": [
-    "Egypt",
-    "Saudi Arabia",
-    "Yemen"
-   ]
-  },
-  {
-   "id": "706af2d11176",
-   "t": "How 'Lula's Army' WhatsApp channel helped turn Brazil election around",
-   "ko": "'룰라의 군대' WhatsApp 채널이 브라질 선거를 반전시키는 데 어떻게 도움을 주었나요?",
-   "src": "BBC",
-   "u": "https://www.bbc.co.uk/news/articles/cwz0vg4v3ndeo?at_medium=RSS&at_campaign=rss",
-   "at": "2026-10-26T15:37:33.000Z",
-   "ev": [],
-   "cc": [
-    "Brazil"
-   ]
-  },
-  {
-   "id": "3efd5f8667ed",
-   "t": "Jordan's strikes on Syria over church terror attack kill several civilians",
-   "ko": "요르단, 교회 테러로 시리아 공습으로 민간인 다수 사망",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/middle-east/20261026-jordan-arrests-three-following-deadly-terror-attack-on-church",
-   "at": "2026-10-26T15:12:52.000Z",
-   "ev": [
-    "syria"
-   ],
-   "cc": [
-    "Jordan",
-    "Syria"
-   ]
-  },
-  {
-   "id": "f85225e6ef5d",
-   "t": "UK sanctions Sudanese military leaders implicated in El Fasher ‘campaign of rape’",
-   "ko": "영국, 엘 파셰르 '강간 캠페인'에 연루된 수단 군부 지도자 제재",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/global-development/2026/oct/26/uk-sanctions-sudanese-military-leaders-implicated-in-el-fasher-campaign-of",
-   "at": "2026-10-26T15:07:23.000Z",
-   "ev": [
-    "sudan",
-    "darfur"
-   ],
-   "cc": [
-    "United Kingdom",
-    "Sudan"
-   ]
-  },
-  {
-   "id": "1b37813cef7c",
-   "t": "Why Ukraine may be involved in Mali's conflict",
-   "ko": "우크라이나가 말리 분쟁에 개입하는 이유",
-   "src": "DW",
-   "u": "https://www.dw.com/en/why-ukraine-may-be-involved-in-mali-s-conflict/a-79743423?maca=en-rss-en-world-4025-rdf",
-   "at": "2026-10-26T14:58:00.000Z",
-   "ev": [
-    "ukraine",
-    "sahel"
-   ],
-   "cc": [
-    "Ukraine",
-    "Mali",
-    "Russia"
-   ]
-  },
-  {
-   "id": "706943c19016",
-   "t": "Macron promises 'concrete measures' in response to French students' demands",
-   "ko": "마크롱, 프랑스 학생들 요구에 '구체적 조치' 약속",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/video/20261026-french-president-promises-concrete-measures-in-response-to-french-students-demands",
-   "at": "2026-10-26T14:39:15.000Z",
-   "ev": [],
-   "cc": [
-    "France"
-   ]
-  },
-  {
-   "id": "81bc7b0e59c4",
-   "t": "Celebrations in Serbia after veteran ruler Vučić loses election to student-led protest movement",
-   "ko": "베테랑 통치자 부치치(Vučić)가 학생 주도 시위 운동에 패배한 후 세르비아에서 축하 행사가 열렸습니다.",
-   "src": "BBC",
-   "u": "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo?at_medium=RSS&at_campaign=rss",
-   "at": "2026-10-26T14:34:52.000Z",
-   "ev": [],
-   "cc": [
-    "Serbia"
-   ]
-  },
-  {
-   "id": "be9a91a0caad",
-   "t": "Rohingya dismantle homes amid eviction threat in disputed Kashmir region",
-   "ko": "로힝야족, 분쟁 지역 카슈미르 지역에서 퇴거 위협 속에 주택 철거",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/video/newsfeed/2026/10/26/rohingya-deported-disputed-kashmir-region?traffic_source=rss",
-   "at": "2026-10-26T14:31:42.000Z",
-   "ev": [
-    "rohingya"
-   ],
-   "cc": [
-    "Kashmir"
-   ]
-  },
-  {
-   "id": "c9833fcbd131",
-   "t": "Chris Brown given suspended eight-month prison sentence over nightclub attack",
-   "ko": "나이트클럽 공격 크리스 브라운, 징역 8개월 집행유예 선고",
-   "src": "BBC",
-   "u": "https://www.bbc.co.uk/news/articles/cq3dje4g4d5jo?at_medium=RSS&at_campaign=rss",
-   "at": "2026-10-26T14:16:09.000Z",
-   "ev": [],
-   "cc": []
   }
  ]
 }
