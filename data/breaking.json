@@ -1,21 +1,21 @@
 {
- "updated": "2026-10-28T02:35:39.914Z",
+ "updated": "2026-10-28T08:58:49.151Z",
  "sources": {
   "BBC": {
    "ok": true,
-   "n": 7
+   "n": 2
   },
   "Al Jazeera": {
    "ok": true,
-   "n": 9
+   "n": 5
   },
   "The Guardian": {
    "ok": true,
-   "n": 17
+   "n": 16
   },
   "DW": {
    "ok": true,
-   "n": 2
+   "n": 3
   },
   "France 24": {
    "ok": true,
@@ -27,20 +27,182 @@
   },
   "NPR": {
    "ok": true,
-   "n": 2
+   "n": 0
   }
  },
  "items": [
   {
+   "id": "d3fe747a8e95",
+   "t": "Serbian police shoot dead assailant at Israeli Embassy",
+   "ko": "세르비아 경찰, 이스라엘 대사관에서 총격 사망",
+   "src": "DW",
+   "u": "https://www.dw.com/en/serbian-police-shoot-dead-assailant-at-israeli-embassy/a-79782905?maca=en-rss-en-world-4025-rdf",
+   "at": "2026-10-28T08:48:00.000Z",
+   "ev": [],
+   "cc": [
+    "Serbia",
+    "Israel"
+   ]
+  },
+  {
+   "id": "3fcbc0903cfe",
+   "t": "French Senate debates new 'rioters pay' bill",
+   "ko": "프랑스 상원, 새로운 '폭도들이 지불하는' 법안 논의",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/tv-shows/business/20261028-french-senate-debates-new-rioters-pay-bill",
+   "at": "2026-10-28T08:43:09.000Z",
+   "ev": [],
+   "cc": [
+    "France"
+   ]
+  },
+  {
+   "id": "4fffe820bdc0",
+   "t": "Why is the system failing France’s younger generation?",
+   "ko": "왜 이 시스템이 프랑스의 젊은 세대에게 실패하고 있습니까?",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/video/money-works/2026/10/28/why-is-the-system-failing-frances-younger-generation?traffic_source=rss",
+   "at": "2026-10-28T08:26:58.000Z",
+   "ev": [],
+   "cc": [
+    "France"
+   ]
+  },
+  {
+   "id": "8ee735cceda5",
+   "t": "Why the US midterms matter even if you don’t live in America",
+   "ko": "미국에 거주하지 않더라도 미국 중간고사가 중요한 이유",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/video/newsfeed/2026/10/28/why-the-us-midterms-matter-even-if-you-dont-live-in-america?traffic_source=rss",
+   "at": "2026-10-28T08:15:19.000Z",
+   "ev": [],
+   "cc": [
+    "United States"
+   ]
+  },
+  {
+   "id": "b002d5dbb857",
+   "t": "Elderly women and children survive Russian attack on Kharkiv",
+   "ko": "하르키프에 대한 러시아의 공격에서 살아남은 노인 여성과 어린이들",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/video/newsfeed/2026/10/28/elderly-women-and-children-survive-russian-attack-on-kharkiv?traffic_source=rss",
+   "at": "2026-10-28T07:35:20.000Z",
+   "ev": [
+    "ukraine"
+   ],
+   "cc": [
+    "Russia",
+    "Ukraine"
+   ]
+  },
+  {
+   "id": "09e4b5c3ddc0",
+   "t": "Wednesday briefing: We asked you - what do you want from the Burnham government’s first budget?",
+   "ko": "수요일 브리핑: 번햄 정부의 첫 번째 예산에서 무엇을 원하는지 물었습니다.",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/world/2026/oct/28/wednesday-briefing-we-asked-you-what-do-you-want-from-the-burnham-governments-first-budget",
+   "at": "2026-10-28T06:43:48.000Z",
+   "ev": [
+    "iran",
+    "yemen"
+   ],
+   "cc": [
+    "Iran",
+    "Israel",
+    "United Kingdom"
+   ]
+  },
+  {
+   "id": "13b9afdca2b9",
+   "t": "The next phase of military rule in Egypt is here",
+   "ko": "이집트 군사 통치의 다음 단계가 시작되었습니다",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/opinions/2026/10/28/the-next-phase-of-military-rule-in-egypt-is-here?traffic_source=rss",
+   "at": "2026-10-28T06:36:59.000Z",
+   "ev": [],
+   "cc": [
+    "Egypt"
+   ]
+  },
+  {
    "id": "7fbcc354b100",
-   "t": "Politics live: ABC calls for One Nation to ‘immediately remove’ Bluey cartoon; RBA says no recession on way",
-   "ko": "실시간 정치: ABC는 One Nation에 Bluey 만화를 '즉시 삭제'할 것을 요구합니다. RBA는 경기침체는 없을 것이라고 밝혔습니다.",
+   "t": "Coalition MP ejected from question time after swearing at PM – as it happened",
+   "ko": "연합 의원은 PM에게 욕설을 한 후 질문 시간에서 퇴장당했습니다.",
    "src": "The Guardian",
    "u": "https://www.theguardian.com/australia-news/live/2026/oct/28/inflation-abs-labor-anthony-albanese-parliament-greens-david-shoebridge-one-nation-ntwnfb",
-   "at": "2026-10-28T02:26:59.000Z",
+   "at": "2026-10-28T06:35:49.000Z",
    "ev": [],
    "cc": [
     "Australia"
+   ]
+  },
+  {
+   "id": "36b143d30f42",
+   "t": "Australia must ‘re-win the argument for democratic politics’ in wake of Haines incident, Alastair Campbell says",
+   "ko": "Alastair Campbell은 Haines 사건 이후 호주가 '민주주의 정치에 대한 논쟁에서 다시 승리해야' 한다고 말했습니다.",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/australia-news/2026/oct/28/australia-democratic-politics-argument-helen-haines-incident-alastair-campbell-ntwnfb",
+   "at": "2026-10-28T06:24:22.000Z",
+   "ev": [],
+   "cc": [
+    "Australia",
+    "United Kingdom"
+   ]
+  },
+  {
+   "id": "d67999adc8e0",
+   "t": "Volunteer, 78, says Reform official likened her to Nazi collaborator for teaching asylum seekers English",
+   "ko": "78세의 자원봉사자는 개혁 관계자가 그녀를 망명 신청자들에게 영어를 가르치는 나치 협력자에 비유했다고 말했습니다.",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/politics/2026/oct/28/reform-official-volunteer-nazi-collaborator-teaching-asylum-seekers-english",
+   "at": "2026-10-28T06:00:01.000Z",
+   "ev": [],
+   "cc": [
+    "United Kingdom"
+   ]
+  },
+  {
+   "id": "63656e1dd91b",
+   "t": "Jim Chalmers is blaming Australia’s accelerating inflation on Trump – but voters aren’t buying it",
+   "ko": "Jim Chalmers는 호주의 인플레이션 가속화를 트럼프 탓으로 돌리고 있지만 유권자들은 이를 믿지 않습니다.",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/australia-news/2026/oct/28/jim-chalmers-is-blaming-australias-accelerating-inflation-on-trump-but-voters-arent-buying-it",
+   "at": "2026-10-28T05:58:24.000Z",
+   "ev": [],
+   "cc": [
+    "Australia"
+   ]
+  },
+  {
+   "id": "93600541ed20",
+   "t": "Gulf states working on multipart peace deal to avert renewal of US-Iran war",
+   "ko": "걸프만 국가들은 미국-이란 전쟁의 재개를 막기 위해 다자간 평화 협정을 진행하고 있습니다.",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/world/2026/oct/28/gulf-states-multipart-peace-deal-avert-renewal-us-iran-war",
+   "at": "2026-10-28T05:00:55.000Z",
+   "ev": [
+    "iran",
+    "yemen"
+   ],
+   "cc": [
+    "Iran",
+    "Yemen",
+    "United States"
+   ]
+  },
+  {
+   "id": "82b11735bd78",
+   "t": "Syria-Jordan border reopens amid probe into deadly air strikes",
+   "ko": "치명적인 공습에 대한 조사가 진행되는 가운데 시리아-요르단 국경이 다시 열렸습니다.",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/10/28/syria-jordan-border-reopens-amid-probe-into-deadly-airstrikes?traffic_source=rss",
+   "at": "2026-10-28T03:10:17.000Z",
+   "ev": [
+    "syria"
+   ],
+   "cc": [
+    "Jordan",
+    "Syria"
    ]
   },
   {
@@ -76,6 +238,18 @@
    "cc": [
     "United States",
     "Cuba"
+   ]
+  },
+  {
+   "id": "ad248e00f3da",
+   "t": "French Senate backs 'make rioters pay' bill despite rights concerns",
+   "ko": "프랑스 상원, 권리 우려에도 불구하고 '폭도들에게 돈을 지불하게 하는' 법안 지지",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/france/20261028-french-senate-backs-bill-to-make-protesters-pay-for-unrest-damage-despite-rights-concern",
+   "at": "2026-10-28T00:10:35.000Z",
+   "ev": [],
+   "cc": [
+    "France"
    ]
   },
   {
@@ -125,6 +299,18 @@
    "cc": [
     "Venezuela",
     "United States"
+   ]
+  },
+  {
+   "id": "67d3edf64e33",
+   "t": "Israel election: Netanyahu and Eisenkot battle to form government after deadlock",
+   "ko": "이스라엘 선거: 네타냐후와 아이젠코트가 교착상태 이후 정부 구성을 위해 전투를 벌이고 있습니다.",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/middle-east/20261027-israel-election-record-turnout-netanyahu-eisenkot-deadlock",
+   "at": "2026-10-27T22:58:53.000Z",
+   "ev": [],
+   "cc": [
+    "Israel"
    ]
   },
   {
@@ -2012,181 +2198,6 @@
    "at": "2026-10-26T14:16:09.000Z",
    "ev": [],
    "cc": []
-  },
-  {
-   "id": "093bff8763ff",
-   "t": "US Marine indicted for murder and robbery of woman in Japan",
-   "ko": "일본에서 여성 살해 및 강도 혐의로 미 해병대 기소",
-   "src": "BBC",
-   "u": "https://www.bbc.co.uk/news/articles/c3vgxjex1z9wo?at_medium=RSS&at_campaign=rss",
-   "at": "2026-10-26T14:13:18.000Z",
-   "ev": [],
-   "cc": [
-    "United States",
-    "Japan"
-   ]
-  },
-  {
-   "id": "9de4a37c48ba",
-   "t": "Serbia's Vucic concedes defeat to the student-led movement: What's next?",
-   "ko": "세르비아의 부치치(Vucic)는 학생 주도 운동의 패배를 인정합니다. 다음은 무엇입니까?",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/serbia-s-vucic-concedes-defeat-to-the-student-led-movement-what-s-next",
-   "at": "2026-10-26T14:12:08.000Z",
-   "ev": [],
-   "cc": [
-    "Serbia"
-   ]
-  },
-  {
-   "id": "2605ca46eb82",
-   "t": "The Price of Protest",
-   "ko": "항의의 대가",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/video/game-theory/2026/10/26/the-price-of-protest?traffic_source=rss",
-   "at": "2026-10-26T14:01:08.000Z",
-   "ev": [],
-   "cc": []
-  },
-  {
-   "id": "96e8f81e39e5",
-   "t": "Will Netanyahu's security promise win him this election?",
-   "ko": "네타냐후의 안보 공약이 이번 선거에서 승리할 것인가?",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/video/20261026-will-netanyahu-s-security-promise-win-him-this-election",
-   "at": "2026-10-26T13:52:32.000Z",
-   "ev": [
-    "gaza"
-   ],
-   "cc": [
-    "Israel",
-    "Palestine"
-   ]
-  },
-  {
-   "id": "f801024f7f71",
-   "t": "Japanese prosecutors charge US marine suspected of robbing and killing woman",
-   "ko": "일본 검찰, 여성을 강탈하고 살해한 혐의로 미 해병대 기소",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/world/2026/oct/26/japanese-prosecuters-charge-marine-killing",
-   "at": "2026-10-26T13:41:41.000Z",
-   "ev": [],
-   "cc": [
-    "Japan",
-    "United States"
-   ]
-  },
-  {
-   "id": "e8f1bf2957c3",
-   "t": "Israel expands expulsions in occupied West Bank to cement control",
-   "ko": "이스라엘, 통제 강화 위해 서안지구 추방 확대",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/news/2026/10/26/israel-expands-occupied-west-bank-expulsions-to-cement-control?traffic_source=rss",
-   "at": "2026-10-26T13:11:08.000Z",
-   "ev": [
-    "westbank"
-   ],
-   "cc": [
-    "Israel",
-    "Palestine"
-   ]
-  },
-  {
-   "id": "16493eb57fed",
-   "t": "UK looking to give carmakers incentives to turn EVs into ‘power plants on wheels’",
-   "ko": "영국은 자동차 제조업체에 EV를 '바퀴 달린 발전소'로 전환하기 위한 인센티브를 제공하려고 합니다.",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/environment/2026/oct/26/uk-carmakers-evs-automatic-charge-sell-electricity-back-to-grid-technology",
-   "at": "2026-10-26T13:00:42.000Z",
-   "ev": [],
-   "cc": [
-    "United Kingdom"
-   ]
-  },
-  {
-   "id": "4281dfc3dc4f",
-   "t": "Live: French student representatives hail ‘concrete measures’, call for protests to continue",
-   "ko": "생방송: 프랑스 학생 대표들은 '구체적인 조치'를 환영하며 시위를 계속할 것을 촉구합니다.",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/france/20261026-live-france-will-maintain-order-without-state-of-emergency-but-it-s-not-off-the-table-macron-says",
-   "at": "2026-10-26T12:47:12.000Z",
-   "ev": [],
-   "cc": [
-    "France"
-   ]
-  },
-  {
-   "id": "66dbcf0ed3c1",
-   "t": "Israel braces for national elections seen as a referendum on Netanyahu",
-   "ko": "이스라엘, 네타냐후 국민투표로 간주되는 총선 준비",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/israel-braces-for-national-elections-seen-as-a-referendum-on-netanyahu",
-   "at": "2026-10-26T12:35:55.000Z",
-   "ev": [],
-   "cc": [
-    "Israel"
-   ]
-  },
-  {
-   "id": "f9a74a7017a7",
-   "t": "Chris Brown given suspended sentence over bottle attack at London club",
-   "ko": "크리스 브라운, 런던 클럽에서 술병 공격한 혐의로 집행유예 선고",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/music/2026/oct/26/chris-brown-suspended-sentence-bottle-attack-london-club",
-   "at": "2026-10-26T12:28:24.000Z",
-   "ev": [],
-   "cc": []
-  },
-  {
-   "id": "4c11aa8ce040",
-   "t": "Macron vows ‘concrete’ measures to address student demands after unrest",
-   "ko": "마크롱은 불안 이후 학생들의 요구를 해결하기 위한 '구체적인' 조치를 다짐했습니다.",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/france/20261026-macron-vows-concrete-measures-to-address-student-demands-after-unrest",
-   "at": "2026-10-26T12:25:21.000Z",
-   "ev": [],
-   "cc": [
-    "France"
-   ]
-  },
-  {
-   "id": "746de2895ae5",
-   "t": "French PM meets student representatives after weeks of protests",
-   "ko": "프랑스 총리, 몇 주 간의 시위 끝에 학생 대표 만나",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/french-pm-meets-student-representatives-after-weeks-of-protests",
-   "at": "2026-10-26T12:20:14.000Z",
-   "ev": [],
-   "cc": [
-    "France"
-   ]
-  },
-  {
-   "id": "d59fc7e1559c",
-   "t": "Israeli forces kill at least five people in Gaza, including 7-year-old girl",
-   "ko": "이스라엘군, 가자지구서 7세 소녀 포함 최소 5명 사살",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/news/2026/10/26/israeli-forces-kill-at-least-five-people-in-gaza-including-7-year-old-girl?traffic_source=rss",
-   "at": "2026-10-26T12:17:02.000Z",
-   "ev": [
-    "gaza"
-   ],
-   "cc": [
-    "Israel",
-    "Palestine"
-   ]
-  },
-  {
-   "id": "e96556a2e0d6",
-   "t": "Israel: Arab Israeli voters could prove decisive in the upcoming elections",
-   "ko": "이스라엘: 아랍계 이스라엘 유권자들이 다가오는 선거에서 결정적인 역할을 할 수 있을 것입니다.",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/israel-arab-israeli-voters-could-prove-decisive-in-the-upcoming-elections",
-   "at": "2026-10-26T12:13:13.000Z",
-   "ev": [],
-   "cc": [
-    "Israel"
-   ]
   }
  ]
 }
