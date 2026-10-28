@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-27T23:40:00.030Z",
+ "updated": "2026-10-28T02:35:39.914Z",
  "sources": {
   "BBC": {
    "ok": true,
@@ -7,11 +7,11 @@
   },
   "Al Jazeera": {
    "ok": true,
-   "n": 6
+   "n": 9
   },
   "The Guardian": {
    "ok": true,
-   "n": 21
+   "n": 17
   },
   "DW": {
    "ok": true,
@@ -27,20 +27,79 @@
   },
   "NPR": {
    "ok": true,
-   "n": 3
+   "n": 2
   }
  },
  "items": [
   {
    "id": "7fbcc354b100",
-   "t": "Politics live: Australia Post chief paid ‘mind-blowing’ bonus; man charged over alleged false Bondi shooting claim",
-   "ko": "실시간 정치: Australia Post 국장이 '놀라운' 보너스를 지급했습니다. 본다이 총격 사건 허위 주장 혐의로 기소된 남자",
+   "t": "Politics live: ABC calls for One Nation to ‘immediately remove’ Bluey cartoon; RBA says no recession on way",
+   "ko": "실시간 정치: ABC는 One Nation에 Bluey 만화를 '즉시 삭제'할 것을 요구합니다. RBA는 경기침체는 없을 것이라고 밝혔습니다.",
    "src": "The Guardian",
    "u": "https://www.theguardian.com/australia-news/live/2026/oct/28/inflation-abs-labor-anthony-albanese-parliament-greens-david-shoebridge-one-nation-ntwnfb",
-   "at": "2026-10-27T23:29:34.000Z",
+   "at": "2026-10-28T02:26:59.000Z",
    "ev": [],
    "cc": [
     "Australia"
+   ]
+  },
+  {
+   "id": "b0fa7951f6c8",
+   "t": "Criminal case against alleged Bondi terrorist delayed amid ‘unprecedented’ investigation",
+   "ko": "본다이 테러 혐의에 대한 형사 소송은 '전례 없는' 수사 속에 지연됐다",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/australia-news/2026/oct/28/criminal-case-against-alleged-bondi-guman-delayed-amid-unprecedented-investigation-ntwnfb",
+   "at": "2026-10-28T01:18:39.000Z",
+   "ev": [],
+   "cc": []
+  },
+  {
+   "id": "dd96394efbe7",
+   "t": "Netanyahu, Eisenkot camps clash over Israel election projections",
+   "ko": "네타냐후-아이젠코트 캠프, 이스라엘 선거 예측 놓고 충돌",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/10/28/exit-polls-trigger-heated-debate-across-israeli-political-divide?traffic_source=rss",
+   "at": "2026-10-28T00:43:02.000Z",
+   "ev": [],
+   "cc": [
+    "Israel"
+   ]
+  },
+  {
+   "id": "37dfe89c648c",
+   "t": "‘This is America’: US envoy scolds Cuban diplomat at UN",
+   "ko": "'이것이 미국이다': 미국 특사가 UN에서 쿠바 외교관을 꾸짖다",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/video/newsfeed/2026/10/28/this-is-america-us-envoy-scolds-cuban-diplomat-at-un?traffic_source=rss",
+   "at": "2026-10-28T00:25:08.000Z",
+   "ev": [],
+   "cc": [
+    "United States",
+    "Cuba"
+   ]
+  },
+  {
+   "id": "ad8acde1e81b",
+   "t": "DNA links serial killer Ted Bundy to 1974 murder of Utah girl",
+   "ko": "DNA는 연쇄 살인범 테드 번디를 1974년 유타 소녀 살해와 연관시킨다",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/us-news/2026/oct/27/ted-bundy-utah-murder",
+   "at": "2026-10-27T23:52:55.000Z",
+   "ev": [],
+   "cc": []
+  },
+  {
+   "id": "355e5ee87207",
+   "t": "Gaza’s women filmmakers turn pain into cinema as new academy launches",
+   "ko": "가자지구의 여성 영화제작자들, 새로운 아카데미 출범으로 고통을 영화로 바꾸다",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/10/27/gazas-women-filmmakers-turn-pain-into-cinema-as-new-academy-launches?traffic_source=rss",
+   "at": "2026-10-27T23:35:51.000Z",
+   "ev": [
+    "gaza"
+   ],
+   "cc": [
+    "Palestine"
    ]
   },
   {
@@ -128,19 +187,9 @@
    ]
   },
   {
-   "id": "ad8acde1e81b",
-   "t": "Serial killer Ted Bundy linked through DNA to 1974 murder of Utah girl",
-   "ko": "연쇄 살인범 테드 번디는 DNA를 통해 1974년 유타 소녀 살해와 연관되어 있습니다.",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/us-news/2026/oct/27/ted-bundy-utah-murder",
-   "at": "2026-10-27T21:59:35.000Z",
-   "ev": [],
-   "cc": []
-  },
-  {
    "id": "046ee3bc800a",
-   "t": "Trump showcases Venezuelan oil as he seeks to rally voters in Texas",
-   "ko": "트럼프, 텍사스 유권자 집회 위해 베네수엘라 석유 선보여",
+   "t": "Trump touts Venezuelan oil at Texas rally ahead of US midterms",
+   "ko": "트럼프, 미국 중간선사 앞두고 텍사스 집회에서 베네수엘라 석유 선전",
    "src": "Al Jazeera",
    "u": "https://www.aljazeera.com/news/2026/10/27/trump-showcases-venezuelan-oil-as-he-seeks-to-rally-voters-in-texas?traffic_source=rss",
    "at": "2026-10-27T21:28:33.000Z",
@@ -2138,62 +2187,6 @@
    "cc": [
     "Israel"
    ]
-  },
-  {
-   "id": "ce87bcf1c893",
-   "t": "Ukraine: Investigators find Russia committed war crimes by targeting civilians",
-   "ko": "우크라이나: 수사관들은 러시아가 민간인을 표적으로 삼아 전쟁 범죄를 저질렀다고 결론 내렸습니다.",
-   "src": "UN News",
-   "u": "https://news.un.org/feed/view/en/story/2026/10/1168670",
-   "at": "2026-10-26T12:00:00.000Z",
-   "ev": [
-    "ukraine"
-   ],
-   "cc": [
-    "Ukraine",
-    "Russia"
-   ]
-  },
-  {
-   "id": "80ce4086e420",
-   "t": "In Egypt, Guterres warns against Iran-US escalation",
-   "ko": "이집트에서 구테레스는 이란-미국의 고조에 대해 경고했습니다.",
-   "src": "UN News",
-   "u": "https://news.un.org/feed/view/en/story/2026/10/1168669",
-   "at": "2026-10-26T12:00:00.000Z",
-   "ev": [
-    "iran"
-   ],
-   "cc": [
-    "Egypt",
-    "Iran",
-    "United States"
-   ]
-  },
-  {
-   "id": "3263721012d8",
-   "t": "West Bank: Hebron crackdown displaces thousands, Türk warns of ethnic cleansing",
-   "ko": "서안 지구: 헤브론 단속으로 수천 명 이주, 터키, 인종 청소 경고",
-   "src": "UN News",
-   "u": "https://news.un.org/feed/view/en/story/2026/10/1168672",
-   "at": "2026-10-26T12:00:00.000Z",
-   "ev": [
-    "westbank"
-   ],
-   "cc": [
-    "Palestine",
-    "Israel"
-   ]
-  },
-  {
-   "id": "bb27a167d323",
-   "t": "Women and girls’ share of civilian war deaths doubles since 2021",
-   "ko": "내전 사망자 중 여성과 소녀의 비율이 2021년 이후 두 배로 증가",
-   "src": "UN News",
-   "u": "https://news.un.org/feed/view/en/story/2026/10/1168673",
-   "at": "2026-10-26T12:00:00.000Z",
-   "ev": [],
-   "cc": []
   }
  ]
 }
