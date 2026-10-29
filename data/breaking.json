@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-29T00:40:32.836Z",
+ "updated": "2026-10-29T06:50:41.306Z",
  "sources": {
   "BBC": {
    "ok": true,
@@ -7,7 +7,7 @@
   },
   "Al Jazeera": {
    "ok": true,
-   "n": 8
+   "n": 9
   },
   "The Guardian": {
    "ok": true,
@@ -32,6 +32,207 @@
  },
  "items": [
   {
+   "id": "dab47c291733",
+   "t": "Europe’s wealth gap: Older households eight times richer than young ones",
+   "ko": "유럽의 부의 격차: 노인 가구가 젊은 가구보다 8배 더 부유함",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/10/29/europes-wealth-gap-older-households-eight-times-richer-than-young-ones?traffic_source=rss",
+   "at": "2026-10-29T06:25:02.000Z",
+   "ev": [],
+   "cc": []
+  },
+  {
+   "id": "12cf04f2bdb7",
+   "t": "Australia politics live: Lambie scolded by ADF chief over hidden camera revelations; AI Safety Institute not told of Open AI attack for eight days",
+   "ko": "호주 정치 생방송: 몰카 폭로로 인해 ADF 국장이 Lambie를 꾸짖음; AI안전연구소는 8일 동안 오픈AI 공격에 대해 통보받지 못했다",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/australia-news/live/2026/oct/29/labor-treasurer-jim-chalmers-social-media-anthony-albanese-coalition-one-nation-ntwnfb",
+   "at": "2026-10-29T06:21:51.000Z",
+   "ev": [],
+   "cc": [
+    "Australia"
+   ]
+  },
+  {
+   "id": "6ec59ddddaae",
+   "t": "League Cup: Liverpool edges Chelsea in penalty shoot-out",
+   "ko": "리그컵: 리버풀이 승부차기에서 첼시를 이겼습니다.",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/tv-shows/sports/20261029-league-cup-liverpool-edges-chelsea-in-penalty-shoot-out",
+   "at": "2026-10-29T06:08:31.000Z",
+   "ev": [],
+   "cc": [
+    "France"
+   ]
+  },
+  {
+   "id": "49c48d65f58b",
+   "t": "Russia’s alleged sabotage campaign in Europe raises fears of escalation",
+   "ko": "러시아의 유럽 내 파괴 행위 혐의로 확산 우려 커져",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/10/29/russias-alleged-sabotage-campaign-in-europe-raises-fears-of-escalation?traffic_source=rss",
+   "at": "2026-10-29T06:01:29.000Z",
+   "ev": [],
+   "cc": [
+    "Russia"
+   ]
+  },
+  {
+   "id": "bc5531a04065",
+   "t": "Cambodian police and soldiers helped guard abusive scam compounds, Amnesty alleges",
+   "ko": "캄보디아 경찰과 군인들이 악의적인 사기 조직을 감시하는 데 도움을 주었다고 국제앰네스티는 주장했다.",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/world/2026/oct/29/cambodian-police-scam-compounds-amnesty-international",
+   "at": "2026-10-29T06:00:26.000Z",
+   "ev": [],
+   "cc": [
+    "Cambodia"
+   ]
+  },
+  {
+   "id": "1c5a6c47a880",
+   "t": "Russia says more than 600 drones launched towards Moscow overnight",
+   "ko": "러시아는 밤새 600대 이상의 드론이 모스크바를 향해 발사됐다고 밝혔습니다.",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/10/29/russia-says-more-than-600-drones-launched-towards-moscow-overnight?traffic_source=rss",
+   "at": "2026-10-29T05:22:21.000Z",
+   "ev": [
+    "ukraine"
+   ],
+   "cc": [
+    "Russia"
+   ]
+  },
+  {
+   "id": "dbdc60b5eb7e",
+   "t": "Outcry after Call of Duty maker uses real footage of deadly Seoul crowd crush in new video game",
+   "ko": "콜 오브 듀티(Call of Duty) 제작사가 새로운 비디오 게임에서 서울의 치명적인 군중 압살 장면을 실제 장면으로 사용한 후 항의",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/world/2026/oct/29/call-of-duty-seoul-crowd-crush-video-footage",
+   "at": "2026-10-29T04:41:41.000Z",
+   "ev": [],
+   "cc": [
+    "South Korea"
+   ]
+  },
+  {
+   "id": "387e3e76d1f1",
+   "t": "Activists accuse Israeli settlers of assault in occupied West Bank",
+   "ko": "활동가들은 점령된 서안 지구에서 이스라엘 정착민이 폭행을 했다고 비난합니다.",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/10/29/activists-accuse-israeli-settlers-of-assault-in-occupied-west-bank?traffic_source=rss",
+   "at": "2026-10-29T03:12:47.000Z",
+   "ev": [
+    "westbank"
+   ],
+   "cc": [
+    "Israel",
+    "Palestine",
+    "United States"
+   ]
+  },
+  {
+   "id": "ebff0ccfb5f5",
+   "t": "How students toppled Serbia’s strongman – podcast",
+   "ko": "학생들이 세르비아의 강자를 무너뜨린 방법 – 팟캐스트",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/news/audio/2026/oct/29/how-students-toppled-serbias-strongman-podcast",
+   "at": "2026-10-29T03:00:20.000Z",
+   "ev": [],
+   "cc": [
+    "Serbia"
+   ]
+  },
+  {
+   "id": "f1064ceda16e",
+   "t": "Strikes on Darfur market in Sudan killed more than 100, rights group says",
+   "ko": "수단 다르푸르 시장 공습으로 100명 이상 사망 인권단체",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/10/29/strikes-on-darfur-market-in-sudan-kill-more-than-100-rights-group-says?traffic_source=rss",
+   "at": "2026-10-29T02:48:38.000Z",
+   "ev": [
+    "sudan",
+    "darfur"
+   ],
+   "cc": [
+    "Sudan"
+   ]
+  },
+  {
+   "id": "a90f8cc87d0b",
+   "t": "Israeli settlers savagely attack journalists in occupied West Bank",
+   "ko": "이스라엘 정착민, 서안지구 점령지에서 기자들을 잔인하게 공격",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/video/newsfeed/2026/10/29/israeli-settlers-savagely-attack-journalists-in-occupied-west-bank?traffic_source=rss",
+   "at": "2026-10-29T02:43:29.000Z",
+   "ev": [
+    "westbank"
+   ],
+   "cc": [
+    "Israel",
+    "Palestine"
+   ]
+  },
+  {
+   "id": "49dbfa599aed",
+   "t": "Al Jazeera speaks to El-Sayed as religion becomes flashpoint in Senate race",
+   "ko": "Al Jazeera는 종교가 상원 경선에서 인화점이 될 때 El-Sayed와 대화합니다.",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/video/newsfeed/2026/10/29/al-jazeera-speaks-to-el-sayed-as-religion-becomes-flashpoint-in-senate-race?traffic_source=rss",
+   "at": "2026-10-29T02:42:22.000Z",
+   "ev": [],
+   "cc": []
+  },
+  {
+   "id": "eeccf133687e",
+   "t": "‘They mobilized a whole government response to that joke’: Obama laughs off Trump attacks in rally for Ossoff",
+   "ko": "'그들은 그 농담에 대해 정부 전체의 대응을 동원했다': 오바마는 오소프 집회에서 트럼프 공격을 비웃었다",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/us-news/2026/oct/28/obama-atlanta-democrats-jon-ossoff",
+   "at": "2026-10-29T02:12:23.000Z",
+   "ev": [],
+   "cc": [
+    "United States",
+    "Georgia"
+   ]
+  },
+  {
+   "id": "4ec0322738de",
+   "t": "Utah files criminal charges against prediction market Kalshi and company co-founders",
+   "ko": "유타주, 예측 시장 칼시(Kalshi)와 회사 공동 창업자를 형사 고발",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/us-news/2026/oct/28/utah-criminal-charges-kalshi",
+   "at": "2026-10-29T01:56:18.000Z",
+   "ev": [],
+   "cc": [
+    "United States"
+   ]
+  },
+  {
+   "id": "a813b60a7f3c",
+   "t": "Flávio Bolsonaro denies fleeing Brazil after landing in Miami",
+   "ko": "플라비오 보우소나루, 마이애미 착륙 후 브라질 탈출 거부",
+   "src": "BBC",
+   "u": "https://www.bbc.co.uk/news/articles/c6kglwe4lxwzo?at_medium=RSS&at_campaign=rss",
+   "at": "2026-10-29T01:14:01.000Z",
+   "ev": [],
+   "cc": [
+    "Brazil"
+   ]
+  },
+  {
+   "id": "3c1344ef90bc",
+   "t": "Albania imposes $6,000 fine for demonstrators present at a protest that turns violent",
+   "ko": "알바니아, 폭력적으로 변한 시위에 참석한 시위대에 6000달러 벌금 부과",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/world/2026/oct/29/albania-protest-attendance-fine-law",
+   "at": "2026-10-29T00:53:26.000Z",
+   "ev": [],
+   "cc": [
+    "Albania"
+   ]
+  },
+  {
    "id": "630c78e685a7",
    "t": "Australian SAS officers knew about unlawful ‘throwdowns’ on dead Afghans, report says",
    "ko": "호주 SAS 장교들은 죽은 아프가니스탄인에 대한 불법적인 '투척'에 대해 알고 있었다고 보고서는 밝혔습니다.",
@@ -45,8 +246,8 @@
   },
   {
    "id": "ce0b2b4291c7",
-   "t": "Iran war live: Tehran presses 7-day Hormuz plan; Trump denies peace talks",
-   "ko": "이란 전쟁 생중계: 테헤란, 7일 호르무즈 계획 압박; 트럼프, 평화회담 거부",
+   "t": "Iran war live: Trump says he approved Vance outreach over medical supplies",
+   "ko": "이란 전쟁 라이브 : 트럼프는 의료 용품에 대한 밴스 봉사 활동을 승인했다고 말했습니다.",
    "src": "Al Jazeera",
    "u": "https://www.aljazeera.com/news/liveblog/2026/10/29/iran-war-live-tehran-presses-7-day-hormuz-plan-trump-denies-peace-talks?traffic_source=rss",
    "at": "2026-10-29T00:00:00.000Z",
@@ -55,18 +256,6 @@
    ],
    "cc": [
     "Iran"
-   ]
-  },
-  {
-   "id": "a813b60a7f3c",
-   "t": "Flávio Bolsonaro denies fleeing Brazil after landing in Miami",
-   "ko": "플라비오 보우소나루, 마이애미 착륙 후 브라질 탈출 거부",
-   "src": "BBC",
-   "u": "https://www.bbc.co.uk/news/articles/c6kglwe4lxwzo?at_medium=RSS&at_campaign=rss",
-   "at": "2026-10-28T23:21:48.000Z",
-   "ev": [],
-   "cc": [
-    "Brazil"
    ]
   },
   {
@@ -101,6 +290,18 @@
    "ev": [],
    "cc": [
     "France"
+   ]
+  },
+  {
+   "id": "9dc163c2c6b3",
+   "t": "Spain rail crash came after train ordered to go in error: minister",
+   "ko": "스페인 철도 충돌은 기차가 실수로 운행 명령을 받은 후 발생했습니다: 장관",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/spain-rail-crash-came-after-train-ordered-to-go-in-error-minister",
+   "at": "2026-10-28T22:30:17.000Z",
+   "ev": [],
+   "cc": [
+    "Spain"
    ]
   },
   {
@@ -1969,221 +2170,6 @@
    "ev": [],
    "cc": [
     "South Korea"
-   ]
-  },
-  {
-   "id": "cffeb917f44a",
-   "t": "Anthropic files for mammoth IPO as revenues and losses mount",
-   "ko": "수익과 손실이 증가함에 따라 대규모 IPO를 위한 인류 파일",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/tv-shows/business/20261027-anthropic-files-for-mammoth-ipo-as-revenues-and-losses-mount",
-   "at": "2026-10-27T10:20:34.000Z",
-   "ev": [],
-   "cc": [
-    "United States",
-    "France"
-   ]
-  },
-  {
-   "id": "f044bb0adcb6",
-   "t": "Azerbaijan: Rare protests over hijab ban in schools",
-   "ko": "아제르바이잔: 학교 내 히잡 금지에 대한 항의가 드물다",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/tv-shows/the-observers/20261027-azerbaijan-rare-protests-over-hijab-ban-in-schools",
-   "at": "2026-10-27T10:16:47.000Z",
-   "ev": [],
-   "cc": [
-    "Azerbaijan"
-   ]
-  },
-  {
-   "id": "9adf8dbb106e",
-   "t": "Netanyahu's political survival on the line as Israel heads to the polls",
-   "ko": "이스라엘이 여론조사를 앞두고 있는 가운데 네타냐후의 정치적 생존이 위태로워진다",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/netanyahu-s-political-survival-on-the-line-as-israel-heads-to-the-polls",
-   "at": "2026-10-27T10:14:33.000Z",
-   "ev": [
-    "iran",
-    "gaza"
-   ],
-   "cc": [
-    "Israel",
-    "Palestine",
-    "Iran"
-   ]
-  },
-  {
-   "id": "c3071901a667",
-   "t": "Fears grow for Iranian athletes on death row as mountaineer latest to be hanged",
-   "ko": "최근 교수형에 처해진 산악인으로 사형수로 복역 중인 이란 선수들에 대한 두려움이 커지고 있습니다.",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/global-development/2026/oct/27/fears-grow-for-iranian-athletes-on-death-row-as-mountaineer-latest-to-be-hanged",
-   "at": "2026-10-27T09:30:30.000Z",
-   "ev": [
-    "iran"
-   ],
-   "cc": [
-    "Iran"
-   ]
-  },
-  {
-   "id": "ec86a28a710e",
-   "t": "Live: Polls open in first Israeli election since October 7 attack",
-   "ko": "라이브: 10월 7일 공격 이후 첫 번째 이스라엘 선거에서 여론조사가 시작됩니다",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/middle-east/20261027-live-polls-open-in-first-israeli-election-since-october-7-attack",
-   "at": "2026-10-27T08:15:50.000Z",
-   "ev": [
-    "gaza"
-   ],
-   "cc": [
-    "Israel"
-   ]
-  },
-  {
-   "id": "3790e91b806a",
-   "t": "French education reform proposals 'vague': Govt created 'most of the problems' it now seek to solve",
-   "ko": "프랑스 교육 개혁 제안 '모호함': 정부는 현재 해결하려는 '대부분의 문제'를 만들어냈습니다.",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/tv-shows/spotlight/20261027-french-education-reform-proposals-vague-govt-created-most-of-the-problems-it-now-seek-to-solve",
-   "at": "2026-10-27T07:31:55.000Z",
-   "ev": [],
-   "cc": [
-    "France"
-   ]
-  },
-  {
-   "id": "e04be64cfe18",
-   "t": "Melting glaciers in Dolomites reveal cache of first world war munitions",
-   "ko": "돌로미테 빙하가 녹아 제1차 세계대전 당시 탄약이 보관된 곳이 드러났습니다.",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/world/2026/oct/27/melting-glaciers-dolomites-first-world-war-munitions-italy",
-   "at": "2026-10-27T07:00:04.000Z",
-   "ev": [],
-   "cc": [
-    "Italy",
-    "France"
-   ]
-  },
-  {
-   "id": "a32590f8ee16",
-   "t": "US, EU and 30 countries warn of famine risk in Sudan, call for aid",
-   "ko": "미국, EU 및 30개 국가에서 수단의 기근 위험 경고, 지원 요청",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/news/2026/10/27/us-eu-and-30-countries-warn-of-famine-risk-in-sudan-call-for-aid?traffic_source=rss",
-   "at": "2026-10-27T06:56:30.000Z",
-   "ev": [
-    "sudan"
-   ],
-   "cc": [
-    "United States",
-    "Sudan"
-   ]
-  },
-  {
-   "id": "aa29d63e6a75",
-   "t": "Sixty Christians killed in Ethiopia’s Oromia region",
-   "ko": "에티오피아 오로미아 지역에서 기독교인 60명 사망",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/news/2026/10/27/sixty-christians-killed-in-ethiopias-oromia-region?traffic_source=rss",
-   "at": "2026-10-27T06:49:45.000Z",
-   "ev": [
-    "ethiopia"
-   ],
-   "cc": [
-    "Ethiopia"
-   ]
-  },
-  {
-   "id": "d5a5346ba1b4",
-   "t": "Asthma deaths reach decade-high levels and number of Australians dying of dementia grows",
-   "ko": "천식 사망자가 10년 만에 최고 수준에 도달하고 치매로 사망하는 호주인의 수가 증가합니다.",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/australia-news/2026/oct/27/asthma-deaths-reach-decade-high-australia-dementia-deaths-growing-abs-data",
-   "at": "2026-10-27T06:40:29.000Z",
-   "ev": [],
-   "cc": [
-    "Australia"
-   ]
-  },
-  {
-   "id": "09456571b6e0",
-   "t": "Bridget McKenzie fears MPs will ‘retreat from the public square’ following alleged attack on Helen Haines – as it happened",
-   "ko": "브리짓 맥켄지는 헬렌 헤인즈에 대한 공격 혐의로 국회의원들이 '광장에서 물러날' 것을 우려하고 있습니다.",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/australia-news/live/2026/oct/27/one-nation-pauline-hanson-independent-jacqui-lambie-labor-anthony-albanese-coalition-ntwnfb",
-   "at": "2026-10-27T06:28:14.000Z",
-   "ev": [],
-   "cc": []
-  },
-  {
-   "id": "98ebb6ca13ef",
-   "t": "Palestine weekly: West Bank under siege as Israelis go to the polls",
-   "ko": "팔레스타인 주간: 이스라엘인들이 투표소에 가는 동안 서안 지구가 포위당했습니다.",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/news/2026/10/27/palestine-weekly-west-bank-under-siege-as-israelis-go-to-the-polls?traffic_source=rss",
-   "at": "2026-10-27T06:28:13.000Z",
-   "ev": [
-    "gaza",
-    "westbank"
-   ],
-   "cc": [
-    "Palestine",
-    "Israel"
-   ]
-  },
-  {
-   "id": "7df47367b469",
-   "t": "'I would do it again' - Kaepernick reflects on price of protest, 10 years on",
-   "ko": "'나는 다시 할 것이다' - 캐퍼닉은 10년 동안 시위의 대가를 반성했다",
-   "src": "BBC",
-   "u": "https://www.bbc.co.uk/sport/american-football/articles/cm3el5dnpxp2o?at_medium=RSS&at_campaign=rss",
-   "at": "2026-10-27T06:15:24.000Z",
-   "ev": [],
-   "cc": []
-  },
-  {
-   "id": "c71703196fd3",
-   "t": "Palestinian citizens of Israel fear they’re next target if far-right wins",
-   "ko": "이스라엘의 팔레스타인 시민들은 극우가 승리하면 자신들이 다음 표적이 될 것을 두려워합니다",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/features/2026/10/27/palestinian-citizens-of-israel-fear-theyre-next-target-if-far-right-wins?traffic_source=rss",
-   "at": "2026-10-27T06:12:04.000Z",
-   "ev": [
-    "westbank"
-   ],
-   "cc": [
-    "Palestine",
-    "Israel"
-   ]
-  },
-  {
-   "id": "7b5aa5740939",
-   "t": "‘It’s the smell of freedom’: Belgrade cleans up after Student List triumph",
-   "ko": "'자유의 냄새': 학생 목록 승리 후 베오그라드 청소",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/world/2026/oct/27/belgrade-cleans-up-after-student-list-triumph-serbia",
-   "at": "2026-10-27T06:00:04.000Z",
-   "ev": [],
-   "cc": [
-    "Serbia"
-   ]
-  },
-  {
-   "id": "e736d8f21903",
-   "t": "Local ceasefire brokered by Melania Trump starts in southern Ukraine",
-   "ko": "멜라니아 트럼프가 중재한 지역 휴전이 우크라이나 남부에서 시작됐다.",
-   "src": "NPR",
-   "u": "https://www.npr.org/2026/10/27/g-s1-150037/russia-ukraine-war",
-   "at": "2026-10-27T05:26:58.000Z",
-   "ev": [
-    "ukraine"
-   ],
-   "cc": [
-    "Ukraine",
-    "Russia",
-    "United States"
    ]
   }
  ]
