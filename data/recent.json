@@ -1,7 +1,95 @@
 {
- "updated": "2026-10-28",
+ "updated": "2026-10-29",
  "news": {
   "ukraine": [
+   {
+    "date": "2026-10-28",
+    "text": "Amid uncertainty over EU aid, Vitalii Kim insists Ukraine has no choice but to fight for motherland",
+    "ko": "EU 원조에 대한 불확실성 속에서 비탈리 김은 우크라이나는 조국을 위해 싸울 수밖에 없다고 주장",
+    "sources": [
+     {
+      "t": "France 24",
+      "u": "https://www.france24.com/en/tv-shows/spotlight/20261028-amid-uncertainty-over-eu-aid-vitalii-kim-insists-ukraine-has-no-choice-but-to-fight-for-motherland"
+     }
+    ]
+   },
+   {
+    "date": "2026-10-28",
+    "text": "Putin hails Elon Musk’s ‘genius’ amid plans for Russian version of Starlink",
+    "ko": "푸틴, 스타링크 러시아판 계획 중 엘론 머스크의 '천재' 칭찬",
+    "sources": [
+     {
+      "t": "The Guardian",
+      "u": "https://www.theguardian.com/world/2026/oct/28/vladimir-putin-elon-musk-genius-russia-starlink"
+     }
+    ]
+   },
+   {
+    "date": "2026-10-28",
+    "text": "Evacuation from Oleshky: How are preparations going?",
+    "ko": "Oleshky 대피: 준비는 어떻게 진행되고 있나요?",
+    "sources": [
+     {
+      "t": "DW",
+      "u": "https://www.dw.com/en/evacuation-from-oleshky-how-are-preparations-going/a-79790001?maca=en-rss-en-world-4025-rdf"
+     }
+    ]
+   },
+   {
+    "date": "2026-10-28",
+    "text": "Kremlin says European countries not included in next Ukraine talks",
+    "ko": "크렘린 \"차기 우크라이나 회담에 유럽 국가는 포함되지 않는다\"",
+    "sources": [
+     {
+      "t": "Al Jazeera",
+      "u": "https://www.aljazeera.com/news/2026/10/28/kremlin-says-european-countries-not-included-in-next-ukraine-talks?traffic_source=rss"
+     }
+    ]
+   },
+   {
+    "date": "2026-10-28",
+    "text": "Ukraine: Melania Trump-brokered local ceasefire holds for second day",
+    "ko": "우크라이나: 멜라니아 트럼프가 중재한 지역 휴전 이틀째 유지",
+    "sources": [
+     {
+      "t": "France 24",
+      "u": "https://www.france24.com/en/video/20261028-ukraine-melania-trump-brokered-local-ceasefire-holds-for-second-day"
+     }
+    ]
+   },
+   {
+    "date": "2026-10-28",
+    "text": "Ukraine: Ceasefire holds for its first 30 hours in occupied Oleshky",
+    "ko": "우크라이나: 점령된 올레쉬키에서 처음 30시간 동안 휴전 유지",
+    "sources": [
+     {
+      "t": "France 24",
+      "u": "https://www.france24.com/en/video/20261028-ukraine-ceasefire-holds-for-its-first-30-hours-in-occupied-oleshky"
+     }
+    ]
+   },
+   {
+    "date": "2026-10-28",
+    "text": "Russia in Africa: What is Putin hoping to achieve?",
+    "ko": "아프리카 속의 러시아: 푸틴 대통령이 원하는 것은 무엇인가?",
+    "sources": [
+     {
+      "t": "DW",
+      "u": "https://www.dw.com/en/russia-in-africa-what-is-putin-hoping-to-achieve/a-79781858?maca=en-rss-en-world-4025-rdf"
+     }
+    ]
+   },
+   {
+    "date": "2026-10-28",
+    "text": "Elderly women and children survive Russian attack on Kharkiv",
+    "ko": "하르키프에 대한 러시아의 공격에서 살아남은 노인 여성과 어린이들",
+    "sources": [
+     {
+      "t": "Al Jazeera",
+      "u": "https://www.aljazeera.com/video/newsfeed/2026/10/28/elderly-women-and-children-survive-russian-attack-on-kharkiv?traffic_source=rss"
+     }
+    ]
+   },
    {
     "date": "2026-10-27",
     "text": "Ceasefire extended across Ukraine's Kherson region, officials say",
@@ -45,97 +133,42 @@
       "u": "https://www.theguardian.com/world/live/2026/oct/27/russia-ukraine-oleshky-serbia-france-europe-latest-news-updates"
      }
     ]
-   },
-   {
-    "date": "2026-10-27",
-    "text": "Truce begins in Ukraine city where residents ate weeds to survive",
-    "ko": "주민들이 생존을 위해 잡초를 먹었던 우크라이나 도시에서 휴전이 시작되었습니다.",
-    "sources": [
-     {
-      "t": "BBC",
-      "u": "https://www.bbc.co.uk/news/articles/ck20wjnv3w0jo?at_medium=RSS&at_campaign=rss"
-     }
-    ]
-   },
-   {
-    "date": "2026-10-27",
-    "text": "Russia targets Kyiv as Finnish, Norwegian leaders hold rare call with Putin",
-    "ko": "러시아는 키예프를 핀란드로 겨냥하고 노르웨이 지도자들은 푸틴과 드문 통화를 한다",
-    "sources": [
-     {
-      "t": "Al Jazeera",
-      "u": "https://www.aljazeera.com/news/2026/10/27/russia-targets-kyiv-as-finnish-norwegian-leaders-hold-rare-call-with-putin?traffic_source=rss"
-     }
-    ]
-   },
-   {
-    "date": "2026-10-27",
-    "text": "Melania or the pope: Who brokered Russia-Ukraine ceasefire in Oleshky?",
-    "ko": "멜라니아인가 교황인가: 누가 올레쉬키에서 러시아-우크라이나 휴전을 중개했는가?",
-    "sources": [
-     {
-      "t": "Al Jazeera",
-      "u": "https://www.aljazeera.com/news/2026/10/27/melania-or-the-pope-who-brokered-russia-ukraine-ceasefire-in-oleshky?traffic_source=rss"
-     }
-    ]
-   },
-   {
-    "date": "2026-10-27",
-    "text": "Russia strikes Kyiv ahead of localised ceasefire in Oleshky",
-    "ko": "러시아, 올레쉬키 지역 휴전 앞두고 키예프 공습",
-    "sources": [
-     {
-      "t": "Al Jazeera",
-      "u": "https://www.aljazeera.com/video/newsfeed/2026/10/27/russia-strikes-kyiv-ahead-of-localised-ceasefire-in-oleshky?traffic_source=rss"
-     }
-    ]
-   },
-   {
-    "date": "2026-10-27",
-    "text": "Localised Russia-Ukraine ceasefire starts Ukrainian town facing starvation",
-    "ko": "국지화된 러시아-우크라이나 휴전으로 인해 우크라이나 마을이 기아에 직면하게 되었습니다.",
-    "sources": [
-     {
-      "t": "France 24",
-      "u": "https://www.france24.com/en/video/20261027-localised-russia-ukraine-ceasefire-starts-ukrainian-town-facing-starvation"
-     }
-    ]
-   },
-   {
-    "date": "2026-10-27",
-    "text": "World News in Brief: ‘No safe place in Ukraine’, IAEA calls for Iran nuclear inspections, Kenya hosts thousands of Ethiopians fleeing clashes",
-    "ko": "세계 뉴스 요약: '우크라이나에는 안전한 곳이 없습니다', IAEA는 이란 핵 사찰을 요구하고 케냐는 충돌을 피해 도망치는 수천 명의 에티오피아인을 수용합니다",
-    "sources": [
-     {
-      "t": "UN News",
-      "u": "https://news.un.org/feed/view/en/story/2026/10/1168682"
-     }
-    ]
-   },
-   {
-    "date": "2026-10-27",
-    "text": "Local ceasefire brokered by Melania Trump starts in southern Ukraine",
-    "ko": "멜라니아 트럼프가 중재한 지역 휴전이 우크라이나 남부에서 시작됐다.",
-    "sources": [
-     {
-      "t": "NPR",
-      "u": "https://www.npr.org/2026/10/27/g-s1-150037/russia-ukraine-war"
-     }
-    ]
-   },
-   {
-    "date": "2026-10-27",
-    "text": "Russia halts strikes on Ukraine’s Kherson as Oleshky ceasefire takes effect",
-    "ko": "러시아, 올레쉬키 휴전 발효로 우크라이나 헤르손 공습 중단",
-    "sources": [
-     {
-      "t": "Al Jazeera",
-      "u": "https://www.aljazeera.com/news/2026/10/27/russia-halts-strikes-on-ukraines-kherson-as-oleshky-ceasefire-takes-effect?traffic_source=rss"
-     }
-    ]
    }
   ],
   "sudan": [
+   {
+    "date": "2026-10-28",
+    "text": "Sudan war and inflation leave families struggling to survive in Khartoum",
+    "ko": "수단 전쟁과 인플레이션으로 인해 가족들은 하르툼에서 생존하기 위해 고군분투하고 있습니다.",
+    "sources": [
+     {
+      "t": "Al Jazeera",
+      "u": "https://www.aljazeera.com/features/2026/10/28/sudan-war-and-inflation-leave-families-struggling-to-survive-in-khartoum?traffic_source=rss"
+     }
+    ]
+   },
+   {
+    "date": "2026-10-28",
+    "text": "Civilians in Sudan’s El Obeid trapped between drones and incarceration",
+    "ko": "드론과 투옥 사이에 갇힌 수단 엘오베이드의 민간인",
+    "sources": [
+     {
+      "t": "UN News",
+      "u": "https://news.un.org/feed/view/en/story/2026/10/1168696"
+     }
+    ]
+   },
+   {
+    "date": "2026-10-27",
+    "text": "The casualty toll from yesterday's drone strike at a market Nyala, South Darfur, Sudan, increases to over 100 people killed and 112 more injured.",
+    "sources": [
+     {
+      "t": "Reuters",
+      "u": "https://apnews.com/article/sudan-power-outage-capital-drone-0798818d82bc79ed10300687a514c693"
+     }
+    ],
+    "ko": "어제 수단 남부 다르푸르의 니알라 시장에서 드론 공격으로 인한 사상자 수는 100명 이상이 사망하고 112명이 부상했습니다."
+   },
    {
     "date": "2026-10-27",
     "text": "West warns of famine risk in Sudan as civil war grinds on",
@@ -234,42 +267,108 @@
       "u": "https://www.theguardian.com/world/2026/oct/26/sudan-paramilitary-drone-strikes-rapid-support-forces-power-cuts-eastern-states"
      }
     ]
-   },
-   {
-    "date": "2026-10-25",
-    "text": "Emirati diplomat who helped deliver aid to Gaza enters UN secretary general race",
-    "ko": "가자 지구에 구호품 전달을 도운 아랍에미리트 외교관, 유엔 사무총장 선거 출마",
-    "sources": [
-     {
-      "t": "The Guardian",
-      "u": "https://www.theguardian.com/world/2026/oct/25/lana-nusseibeh-emirati-diplomat-enters-un-secretary-general-race"
-     }
-    ]
-   },
-   {
-    "date": "2026-10-25",
-    "text": "The search for gold is a dangerous and laborious gamble for Sudan’s miners",
-    "ko": "금을 찾는 것은 수단 광부들에게 위험하고 힘든 도박입니다",
-    "sources": [
-     {
-      "t": "Al Jazeera",
-      "u": "https://www.aljazeera.com/features/2026/10/25/the-search-for-gold-is-a-dangerous-and-laborious-gamble-for-sudans-miners?traffic_source=rss"
-     }
-    ]
-   },
-   {
-    "date": "2026-10-24",
-    "text": "Women ‘first to suffer’ under siege, first to step up as frontline responders in Sudan",
-    "ko": "포위 공격으로 '처음으로 고통받는' 여성, 수단 최전선 대응자로 나서다",
-    "sources": [
-     {
-      "t": "UN News",
-      "u": "https://news.un.org/feed/view/en/story/2026/10/1168663"
-     }
-    ]
    }
   ],
   "iran": [
+   {
+    "date": "2026-10-29",
+    "text": "Iran war live: Tehran presses 7-day Hormuz plan; Trump denies peace talks",
+    "ko": "이란 전쟁 생중계: 테헤란, 7일 호르무즈 계획 압박; 트럼프, 평화회담 거부",
+    "sources": [
+     {
+      "t": "Al Jazeera",
+      "u": "https://www.aljazeera.com/news/liveblog/2026/10/29/iran-war-live-tehran-presses-7-day-hormuz-plan-trump-denies-peace-talks?traffic_source=rss"
+     }
+    ]
+   },
+   {
+    "date": "2026-10-28",
+    "text": "The Bank of Canada raises its policy interest rate by 25 basis points to 2.5%, its first increase since July 2023, citing persistent inflation driven partly by higher oil and gasoline prices linked to the Iran war.",
+    "sources": [
+     {
+      "t": "AFP",
+      "u": "https://www.afp.com/en/canada-hikes-rates-contain-oil-price-surge-caused-iran-war"
+     }
+    ],
+    "ko": "캐나다 중앙은행(Bank of Canada)은 이란 전쟁과 관련된 석유 및 휘발유 가격 상승으로 인한 지속적인 인플레이션을 이유로 정책 금리를 2023년 7월 이후 처음으로 2.5%로 25bp 인상했습니다."
+   },
+   {
+    "date": "2026-10-28",
+    "text": "Budget 2026: Healey hikes taxes on banks and landlords to fund £100 handouts to 20m households",
+    "ko": "2026년 예산: Healey는 은행과 집주인에 대한 세금을 인상하여 2천만 가구에 100파운드의 유인물을 지원합니다.",
+    "sources": [
+     {
+      "t": "The Guardian",
+      "u": "https://www.theguardian.com/uk-news/2026/oct/28/budget-2026-healey-hikes-taxes-on-banks-and-landlords-to-fund-100-handouts-to-20m-households"
+     }
+    ]
+   },
+   {
+    "date": "2026-10-28",
+    "text": "Israel election: What impact on Iran as the war in the Middle East continues?",
+    "ko": "이스라엘 선거: 중동 전쟁이 계속되면서 이란에 어떤 영향을 미칠까요?",
+    "sources": [
+     {
+      "t": "France 24",
+      "u": "https://www.france24.com/en/video/20261028-israel-election-what-impact-on-iran-as-the-war-in-the-middle-east-continues"
+     }
+    ]
+   },
+   {
+    "date": "2026-10-28",
+    "text": "Israel election: what we know so far",
+    "ko": "이스라엘 선거: 지금까지 우리가 알고 있는 것",
+    "sources": [
+     {
+      "t": "The Guardian",
+      "u": "https://www.theguardian.com/world/2026/oct/28/israel-election-results-what-we-know-so-far-ntwnfb"
+     }
+    ]
+   },
+   {
+    "date": "2026-10-28",
+    "text": "Is Iran headed to war or peace after Mecca alliance meeting?",
+    "ko": "이란은 메카 동맹 회담 이후 전쟁으로 향할 것인가, 아니면 평화로 향할 것인가?",
+    "sources": [
+     {
+      "t": "DW",
+      "u": "https://www.dw.com/en/is-iran-headed-to-war-or-peace-after-mecca-alliance-meeting/a-79788256?maca=en-rss-en-world-4025-rdf"
+     }
+    ]
+   },
+   {
+    "date": "2026-10-28",
+    "text": "Wednesday briefing: We asked you - what do you want from the Burnham government’s first budget?",
+    "ko": "수요일 브리핑: 번햄 정부의 첫 번째 예산에서 무엇을 원하는지 물었습니다.",
+    "sources": [
+     {
+      "t": "The Guardian",
+      "u": "https://www.theguardian.com/world/2026/oct/28/wednesday-briefing-we-asked-you-what-do-you-want-from-the-burnham-governments-first-budget"
+     }
+    ]
+   },
+   {
+    "date": "2026-10-28",
+    "text": "Gulf states working on multipart peace deal to avert renewal of US-Iran war",
+    "ko": "걸프만 국가들은 미국-이란 전쟁의 재개를 막기 위해 다자간 평화 협정을 진행하고 있습니다.",
+    "sources": [
+     {
+      "t": "The Guardian",
+      "u": "https://www.theguardian.com/world/2026/oct/28/gulf-states-multipart-peace-deal-avert-renewal-us-iran-war"
+     }
+    ]
+   },
+   {
+    "date": "2026-10-27",
+    "text": "Trump touts Venezuelan oil at Texas rally ahead of US midterms",
+    "ko": "트럼프, 미국 중간선사 앞두고 텍사스 집회에서 베네수엘라 석유 선전",
+    "sources": [
+     {
+      "t": "Al Jazeera",
+      "u": "https://www.aljazeera.com/news/2026/10/27/trump-showcases-venezuelan-oil-as-he-seeks-to-rally-voters-in-texas?traffic_source=rss"
+     }
+    ]
+   },
    {
     "date": "2026-10-27",
     "text": "Trump, campaigning in Texas for Republicans, touts Iran war and ‘51st state’ Venezuela: ‘I knew that oil would go up’ – live",
@@ -302,108 +401,42 @@
       "u": "https://www.aljazeera.com/news/2026/10/27/trump-showcases-venezuelan-oil-as-he-seeks-to-rally-voters-in-texas?traffic_source=rss"
      }
     ]
-   },
-   {
-    "date": "2026-10-27",
-    "text": "Forever Wars: Why can’t America stop?",
-    "ko": "영원히 전쟁: 미국은 왜 멈출 수 없는가?",
-    "sources": [
-     {
-      "t": "Al Jazeera",
-      "u": "https://www.aljazeera.com/video/lets-focus/2026/10/27/forever-wars-why-cant-america-stop?traffic_source=rss"
-     }
-    ]
-   },
-   {
-    "date": "2026-10-27",
-    "text": "Netanyahu govt has 'attacked' Israeli judicial system, Supreme Court and democratic institutions",
-    "ko": "네타냐후 정부는 이스라엘 사법 시스템, 대법원, 민주 기관을 '공격'했습니다.",
-    "sources": [
-     {
-      "t": "France 24",
-      "u": "https://www.france24.com/en/netanyahu-govt-has-attacked-israeli-judicial-system-supreme-court-and-democratic-institutions"
-     }
-    ]
-   },
-   {
-    "date": "2026-10-27",
-    "text": "RAF Fairford plot ‘coordinated by handler working on behalf of Iran’",
-    "ko": "RAF Fairford 음모 '이란을 대신하여 일하는 핸들러가 조정'",
-    "sources": [
-     {
-      "t": "The Guardian",
-      "u": "https://www.theguardian.com/uk-news/2026/oct/27/two-men-charged-raf-fairford"
-     }
-    ]
-   },
-   {
-    "date": "2026-10-27",
-    "text": "Hegseth heads to Manila to shore up US ties with Asia-Pacific partners",
-    "ko": "Hegseth는 아시아 태평양 파트너와의 미국 관계를 강화하기 위해 마닐라로 향합니다.",
-    "sources": [
-     {
-      "t": "Al Jazeera",
-      "u": "https://www.aljazeera.com/news/2026/10/27/hegseth-heads-to-manila-to-shore-up-us-ties-with-asia-pacific-partners?traffic_source=rss"
-     }
-    ]
-   },
-   {
-    "date": "2026-10-27",
-    "text": "Iranians brace for renewed attacks after Israeli, US elections",
-    "ko": "이란, 이스라엘과 미국 선거 이후 추가 공격에 대비",
-    "sources": [
-     {
-      "t": "Al Jazeera",
-      "u": "https://www.aljazeera.com/news/2026/10/27/iranians-will-their-eyes-on-the-sky-for-bomb-when-israeli-us-elections-end?traffic_source=rss"
-     }
-    ]
-   },
-   {
-    "date": "2026-10-27",
-    "text": "World News in Brief: ‘No safe place in Ukraine’, IAEA calls for Iran nuclear inspections, Kenya hosts thousands of Ethiopians fleeing clashes",
-    "ko": "세계 뉴스 요약: '우크라이나에는 안전한 곳이 없습니다', IAEA는 이란 핵 사찰을 요구하고 케냐는 충돌을 피해 도망치는 수천 명의 에티오피아인을 수용합니다",
-    "sources": [
-     {
-      "t": "UN News",
-      "u": "https://news.un.org/feed/view/en/story/2026/10/1168682"
-     }
-    ]
-   },
-   {
-    "date": "2026-10-27",
-    "text": "Netanyahu's political survival on the line as Israel heads to the polls",
-    "ko": "이스라엘이 여론조사를 앞두고 있는 가운데 네타냐후의 정치적 생존이 위태로워진다",
-    "sources": [
-     {
-      "t": "France 24",
-      "u": "https://www.france24.com/en/netanyahu-s-political-survival-on-the-line-as-israel-heads-to-the-polls"
-     }
-    ]
-   },
-   {
-    "date": "2026-10-27",
-    "text": "Fears grow for Iranian athletes on death row as mountaineer latest to be hanged",
-    "ko": "최근 교수형에 처해진 산악인으로 사형수로 복역 중인 이란 선수들에 대한 두려움이 커지고 있습니다.",
-    "sources": [
-     {
-      "t": "The Guardian",
-      "u": "https://www.theguardian.com/global-development/2026/oct/27/fears-grow-for-iranian-athletes-on-death-row-as-mountaineer-latest-to-be-hanged"
-     }
-    ]
-   },
-   {
-    "date": "2026-10-27",
-    "text": "Saudi-led coalition says it downed Houthi missiles, drones aimed at kingdom",
-    "ko": "사우디 주도 연합군, 왕국 겨냥한 후티 미사일과 드론 격추",
-    "sources": [
-     {
-      "t": "Al Jazeera",
-      "u": "https://www.aljazeera.com/news/2026/10/27/saudi-led-coalition-destroys-four-houthi-drones?traffic_source=rss"
-     }
-    ]
    }
   ],
   "yemen": [
+   {
+    "date": "2026-10-28",
+    "text": "Saudi Arabia launches an airstrike at a market in Al Hazm, Al-Jawf Governorate, Yemen, killing 14 civilians and wounding ten more.",
+    "sources": [
+     {
+      "t": "Xinhua",
+      "u": "https://english.news.cn/20261028/0bff5197bf7d4bd8aef67cc902090535/c.html"
+     }
+    ],
+    "ko": "사우디아라비아가 예멘 알 자와프 주의 알 하즘 시장에 공습을 가해 민간인 14명이 사망하고 10명이 부상을 입었다."
+   },
+   {
+    "date": "2026-10-28",
+    "text": "Wednesday briefing: We asked you - what do you want from the Burnham government’s first budget?",
+    "ko": "수요일 브리핑: 번햄 정부의 첫 번째 예산에서 무엇을 원하는지 물었습니다.",
+    "sources": [
+     {
+      "t": "The Guardian",
+      "u": "https://www.theguardian.com/world/2026/oct/28/wednesday-briefing-we-asked-you-what-do-you-want-from-the-burnham-governments-first-budget"
+     }
+    ]
+   },
+   {
+    "date": "2026-10-28",
+    "text": "Gulf states working on multipart peace deal to avert renewal of US-Iran war",
+    "ko": "걸프만 국가들은 미국-이란 전쟁의 재개를 막기 위해 다자간 평화 협정을 진행하고 있습니다.",
+    "sources": [
+     {
+      "t": "The Guardian",
+      "u": "https://www.theguardian.com/world/2026/oct/28/gulf-states-multipart-peace-deal-avert-renewal-us-iran-war"
+     }
+    ]
+   },
    {
     "date": "2026-10-27",
     "text": "Security Council LIVE: Women and girls face greater dangers in war",
@@ -502,42 +535,53 @@
       "u": "https://www.aljazeera.com/news/2026/10/25/saudi-arabia-intercepts-missiles-and-drones-as-fighting-with-houthis-rages?traffic_source=rss"
      }
     ]
-   },
-   {
-    "date": "2026-10-25",
-    "text": "Why is Egypt so wary of getting involved in Yemen’s conflict?",
-    "ko": "이집트가 예멘 분쟁에 개입하는 것을 그토록 경계하는 이유는 무엇입니까?",
-    "sources": [
-     {
-      "t": "Al Jazeera",
-      "u": "https://www.aljazeera.com/news-analysis/2026/10/25/why-is-egypt-so-wary-of-getting-involved-in-yemens-conflict?traffic_source=rss"
-     }
-    ]
-   },
-   {
-    "date": "2026-10-24",
-    "text": "Saudi Arabia launches airstrikes against a residential building and a cement factory in Hamdan district, Yemen, killing ten people and wounding many more.",
-    "sources": [
-     {
-      "t": "Tempo",
-      "u": "https://en.tempo.co/read/2122301/more-than-10-killed-in-saudi-led-coalition-airstrikes-in-yemen"
-     }
-    ],
-    "ko": "사우디아라비아가 예멘 함단 지역의 주거용 건물과 시멘트 공장에 공습을 가해 10명이 사망하고 다수가 부상당했다."
-   },
-   {
-    "date": "2026-10-24",
-    "text": "Houthis launch attacks on Saudi Arabia and Yemen’s Aden",
-    "ko": "후티 반군, 사우디아라비아와 예멘 아덴 공격 개시",
-    "sources": [
-     {
-      "t": "Al Jazeera",
-      "u": "https://www.aljazeera.com/news/2026/10/24/houthis-launch-attacks-on-saudi-arabia-and-yemens-aden?traffic_source=rss"
-     }
-    ]
    }
   ],
   "gaza": [
+   {
+    "date": "2026-10-28",
+    "text": "What are the implications of Israel’s elections?",
+    "ko": "이스라엘 선거가 어떤 의미를 갖고 있나요?",
+    "sources": [
+     {
+      "t": "Al Jazeera",
+      "u": "https://www.aljazeera.com/video/inside-story/2026/10/28/what-are-the-implications-of-israels-elections?traffic_source=rss"
+     }
+    ]
+   },
+   {
+    "date": "2026-10-27",
+    "text": "Three people, including a child, are killed in an Israeli airstrike against a tent in Khan Yunis, Gaza Strip.",
+    "sources": [
+     {
+      "t": "Asharq Al-Awsat",
+      "u": "https://english.aawsat.com/arab-world/5333747-israeli-strike-gaza-kills-three-including-child"
+     }
+    ],
+    "ko": "가자지구 칸 유니스의 텐트에 대한 이스라엘의 공습으로 어린이를 포함해 3명이 사망했습니다."
+   },
+   {
+    "date": "2026-10-27",
+    "text": "Gaza’s women filmmakers turn pain into cinema as new academy launches",
+    "ko": "가자지구의 여성 영화제작자들, 새로운 아카데미 출범으로 고통을 영화로 바꾸다",
+    "sources": [
+     {
+      "t": "Al Jazeera",
+      "u": "https://www.aljazeera.com/news/2026/10/27/gazas-women-filmmakers-turn-pain-into-cinema-as-new-academy-launches?traffic_source=rss"
+     }
+    ]
+   },
+   {
+    "date": "2026-10-27",
+    "text": "Palestine weekly: West Bank under siege as Israelis go to the polls",
+    "ko": "팔레스타인 주간: 이스라엘인들이 투표소에 가는 동안 서안 지구가 포위당했습니다.",
+    "sources": [
+     {
+      "t": "Al Jazeera",
+      "u": "https://www.aljazeera.com/news/2026/10/27/palestine-weekly-west-bank-under-siege-as-israelis-go-to-the-polls?traffic_source=rss"
+     }
+    ]
+   },
    {
     "date": "2026-10-27",
     "text": "Legacy of 7 October looms large as a divided Israel goes to the polls in record numbers",
@@ -625,53 +669,20 @@
       "u": "https://www.bbc.co.uk/news/articles/c3j47l4kdez4o?at_medium=RSS&at_campaign=rss"
      }
     ]
-   },
-   {
-    "date": "2026-10-27",
-    "text": "Palestinians in West Bank fear further escalation of violence if Netanyahu remains PM",
-    "ko": "서안 지구의 팔레스타인인들은 네타냐후가 총리로 남을 경우 폭력사태가 더욱 확대될 것을 우려하고 있습니다.",
-    "sources": [
-     {
-      "t": "France 24",
-      "u": "https://www.france24.com/en/palestinians-in-west-bank-fear-further-escalation-of-violence-if-netanyahu-remains-pm"
-     }
-    ]
-   },
-   {
-    "date": "2026-10-27",
-    "text": "Israelis vote in first national election since October 7 attack",
-    "ko": "이스라엘, 10월 7일 테러 이후 첫 총선 투표",
-    "sources": [
-     {
-      "t": "France 24",
-      "u": "https://www.france24.com/en/israelis-vote-in-first-national-election-since-october-7-attack"
-     }
-    ]
-   },
-   {
-    "date": "2026-10-27",
-    "text": "Netanyahu's political survival on the line as Israel heads to the polls",
-    "ko": "이스라엘이 여론조사를 앞두고 있는 가운데 네타냐후의 정치적 생존이 위태로워진다",
-    "sources": [
-     {
-      "t": "France 24",
-      "u": "https://www.france24.com/en/netanyahu-s-political-survival-on-the-line-as-israel-heads-to-the-polls"
-     }
-    ]
-   },
-   {
-    "date": "2026-10-27",
-    "text": "Live: Polls open in first Israeli election since October 7 attack",
-    "ko": "라이브: 10월 7일 공격 이후 첫 번째 이스라엘 선거에서 여론조사가 시작됩니다",
-    "sources": [
-     {
-      "t": "France 24",
-      "u": "https://www.france24.com/en/middle-east/20261027-live-polls-open-in-first-israeli-election-since-october-7-attack"
-     }
-    ]
    }
   ],
   "delhi": [
+   {
+    "date": "2026-10-28",
+    "text": "Students on hunger strike in India demand restoration of student union",
+    "ko": "인도 단식농성 학생들, 학생회 복원 요구",
+    "sources": [
+     {
+      "t": "Al Jazeera",
+      "u": "https://www.aljazeera.com/video/newsfeed/2026/10/28/students-on-hunger-strike-in-india-demand-restoration-of-student-union?traffic_source=rss"
+     }
+    ]
+   },
    {
     "date": "2026-10-17",
     "text": "A court in New Delhi, India, orders the release of Cockroach Janta Party founder and activist Abhijeet Dipke on a peace bond, one day after police detained him while he was heading to a protest against the Election Commission of India.",
@@ -685,6 +696,17 @@
    }
   ],
   "westbank": [
+   {
+    "date": "2026-10-28",
+    "text": "West Bank: settlers using drones to monitor Palestinians",
+    "ko": "서안지구: 정착민들이 팔레스타인인들을 감시하기 위해 드론을 사용함",
+    "sources": [
+     {
+      "t": "France 24",
+      "u": "https://www.france24.com/en/tv-shows/the-observers/20261028-west-bank-settlers-using-drones-to-monitor-palestinians"
+     }
+    ]
+   },
    {
     "date": "2026-10-27",
     "text": "Dream postponed: Hebron groom caught in Israeli military lockdown",
@@ -803,17 +825,6 @@
      {
       "t": "The Guardian",
       "u": "https://www.theguardian.com/world/2026/oct/26/collective-punishment-palestinians-displaced-israeli-forces-take-over-hebron-homes"
-     }
-    ]
-   },
-   {
-    "date": "2026-10-26",
-    "text": "Brazil keeps left: what Lula’s victory means for his country and beyond",
-    "ko": "브라질은 좌파를 유지한다: 룰라의 승리가 조국과 그 너머에 어떤 의미를 갖는가",
-    "sources": [
-     {
-      "t": "The Guardian",
-      "u": "https://www.theguardian.com/world/2026/oct/26/brazil-presidential-elections-luiz-inacio-lula-da-silva-flavio-bolsonaro"
      }
     ]
    }
@@ -995,6 +1006,28 @@
   ],
   "ethiopia": [
    {
+    "date": "2026-10-28",
+    "text": "Ethiopia clashes push 50,000 to flee to Kenya",
+    "ko": "에티오피아 충돌로 5만명이 케냐로 피신",
+    "sources": [
+     {
+      "t": "France 24",
+      "u": "https://www.france24.com/en/africa/20261028-ethiopia-clashes-push-50-000-flee-to-kenya"
+     }
+    ]
+   },
+   {
+    "date": "2026-10-28",
+    "text": "Tens of thousands flee Ethiopia fighting into neighbouring Kenya",
+    "ko": "수만 명이 에티오피아를 떠나 이웃 케냐로 싸우다",
+    "sources": [
+     {
+      "t": "Al Jazeera",
+      "u": "https://www.aljazeera.com/video/newsfeed/2026/10/28/tens-of-thousands-flee-ethiopia-fighting-into-neighbouring-kenya?traffic_source=rss"
+     }
+    ]
+   },
+   {
     "date": "2026-10-27",
     "text": "The Ethiopian Orthodox Tewahedo Church reports that at least 60 Christians have been killed in attacks in Oromia, Ethiopia, over the last week.",
     "sources": [
@@ -1053,6 +1086,28 @@
    }
   ],
   "lebanon": [
+   {
+    "date": "2026-10-28",
+    "text": "What would a new Israeli government mean for Arab neighbors? More of the same is expected, with some small positives predicted.",
+    "ko": "새로운 이스라엘 정부는 아랍 이웃들에게 무엇을 의미할까요? 약간의 긍정적인 결과가 예측되면서 더 많은 것이 예상됩니다.",
+    "sources": [
+     {
+      "t": "DW",
+      "u": "https://www.dw.com/en/what-would-a-new-israeli-government-mean-for-arab-neighbors-more-of-the-same-is-expected-with-some-small-positives-predicted/a-79788174?maca=en-rss-en-world-4025-rdf"
+     }
+    ]
+   },
+   {
+    "date": "2026-10-28",
+    "text": "Israeli election: Lebanon expects little change in Israeli policy",
+    "ko": "이스라엘 선거: 레바논은 이스라엘 정책에 거의 변화가 없을 것으로 예상합니다.",
+    "sources": [
+     {
+      "t": "France 24",
+      "u": "https://www.france24.com/en/video/20261028-israeli-election-lebanon-expects-little-change-in-israeli-policy"
+     }
+    ]
+   },
    {
     "date": "2026-10-27",
     "text": "Lebanon’s lost olive season: harvesting olives under drones and warplanes",
@@ -1114,6 +1169,50 @@
    }
   ],
   "syria": [
+   {
+    "date": "2026-10-28",
+    "text": "What would a new Israeli government mean for Arab neighbors? More of the same is expected, with some small positives predicted.",
+    "ko": "새로운 이스라엘 정부는 아랍 이웃들에게 무엇을 의미할까요? 약간의 긍정적인 결과가 예측되면서 더 많은 것이 예상됩니다.",
+    "sources": [
+     {
+      "t": "DW",
+      "u": "https://www.dw.com/en/what-would-a-new-israeli-government-mean-for-arab-neighbors-more-of-the-same-is-expected-with-some-small-positives-predicted/a-79788174?maca=en-rss-en-world-4025-rdf"
+     }
+    ]
+   },
+   {
+    "date": "2026-10-28",
+    "text": "US teen whose father arranged her marriage to Islamic State fighter convicted for weapons training",
+    "ko": "무기 훈련 혐의로 유죄 판결을 받은 IS 전사와 결혼 주선한 아버지를 둔 미국 10대",
+    "sources": [
+     {
+      "t": "The Guardian",
+      "u": "https://www.theguardian.com/us-news/2026/oct/28/teen-marriage-convicted-islamic-state"
+     }
+    ]
+   },
+   {
+    "date": "2026-10-28",
+    "text": "Victims of Jordan’s air strikes in Syria",
+    "ko": "요르단의 시리아 공습 피해자들",
+    "sources": [
+     {
+      "t": "Al Jazeera",
+      "u": "https://www.aljazeera.com/video/newsfeed/2026/10/28/victims-of-jordans-air-strikes-in-syria?traffic_source=rss"
+     }
+    ]
+   },
+   {
+    "date": "2026-10-28",
+    "text": "Syria-Jordan border reopens amid probe into deadly air strikes",
+    "ko": "치명적인 공습에 대한 조사가 진행되는 가운데 시리아-요르단 국경이 다시 열렸습니다.",
+    "sources": [
+     {
+      "t": "Al Jazeera",
+      "u": "https://www.aljazeera.com/news/2026/10/28/syria-jordan-border-reopens-amid-probe-into-deadly-airstrikes?traffic_source=rss"
+     }
+    ]
+   },
    {
     "date": "2026-10-27",
     "text": "Funeral held for family killed in Jordanian airstrikes in Syria",
@@ -1199,39 +1298,6 @@
      {
       "t": "The Guardian",
       "u": "https://www.theguardian.com/world/2026/oct/26/jordan-attacks-militants-syria-retaliation-for-last-week-church-attack"
-     }
-    ]
-   },
-   {
-    "date": "2026-10-26",
-    "text": "Jordan attacks militants in Syria in retaliation for last week’s church attack",
-    "ko": "요르단, 지난주 교회 공격에 대한 보복으로 시리아 무장세력 공격",
-    "sources": [
-     {
-      "t": "The Guardian",
-      "u": "https://www.theguardian.com/world/2026/oct/26/jordan-attacks-militants-syria-retaliation-for-last-week-church-attack"
-     }
-    ]
-   },
-   {
-    "date": "2026-10-26",
-    "text": "Huge explosion at a weapons depot in Syria",
-    "ko": "시리아 무기고에서 대규모 폭발 발생",
-    "sources": [
-     {
-      "t": "Al Jazeera",
-      "u": "https://www.aljazeera.com/video/newsfeed/2026/10/26/huge-explosion-at-a-weapons-depot-in-syria?traffic_source=rss"
-     }
-    ]
-   },
-   {
-    "date": "2026-10-26",
-    "text": "Jordan's strikes on Syria over church terror attack kill several civilians",
-    "ko": "요르단, 교회 테러로 시리아 공습으로 민간인 다수 사망",
-    "sources": [
-     {
-      "t": "France 24",
-      "u": "https://www.france24.com/en/middle-east/20261026-jordan-arrests-three-following-deadly-terror-attack-on-church"
      }
     ]
    }
@@ -1329,18 +1395,44 @@
      }
     ]
    }
+  ],
+  "drc": [
+   {
+    "date": "2026-10-28",
+    "text": "The United States imposes sanctions on the Rwandan ministry of defence over its role in the conflict in eastern Democratic Republic of the Congo, alleging that Rwanda is backing the M23 rebels to fight against Congolese forces.",
+    "sources": [
+     {
+      "t": "Internazionale",
+      "u": "https://www.internazionale.it/ultime-notizie-reuters/2026/10/28/us-imposes-sanctions-on-rwanda-s-ministry-of-defense"
+     }
+    ],
+    "ko": "미국은 르완다가 콩고군에 맞서 싸우기 위해 M23 반군을 지원하고 있다고 주장하면서 콩고민주공화국 동부 분쟁에서 르완다 국방부의 역할에 대해 제재를 가했습니다."
+   }
+  ],
+  "mexico": [
+   {
+    "date": "2026-10-28",
+    "text": "A US woman feared dead was reported alive in Mexico. But police now say that isn’t true",
+    "ko": "사망 우려가 있던 미국 여성이 멕시코에서 살아 있는 것으로 보고됐다. 하지만 경찰은 \"사실이 아니다\"고 밝혔다.",
+    "sources": [
+     {
+      "t": "The Guardian",
+      "u": "https://www.theguardian.com/us-news/2026/oct/28/shayna-feinman-missing-arizona-woman-mexico"
+     }
+    ]
+   }
   ]
  },
  "tallies": {
   "ukraine": {
    "cum": "369,028–827,000+",
-   "cur": "45,740",
+   "cur": "46,881",
    "year": "2026",
    "page": "Russo-Ukrainian war"
   },
   "sudan": {
    "cum": "1,521,000+",
-   "cur": "11,142",
+   "cur": "11,815",
    "year": "2026",
    "page": "Sudanese Civil War"
   },
@@ -1352,121 +1444,121 @@
   },
   "yemen": {
    "cum": "385,000+",
-   "cur": "7,795",
+   "cur": "8,804",
    "year": "2026",
    "page": "Yemeni civil war (2014–present)"
   },
   "myanmar": {
    "cum": "214,000+",
-   "cur": "9,089",
+   "cur": "9,278",
    "year": "2026",
    "page": "Myanmar conflict"
   },
   "drc": {
    "cum": "219,700+",
-   "cur": "3,752",
+   "cur": "3,817",
    "year": "2026",
    "page": "Congolese Civil War (disambiguation)"
   },
   "afpak": {
    "cum": "380,000–2,805,000+",
-   "cur": "5,724",
+   "cur": "5,838",
    "year": "2026",
    "page": "Afghan conflict"
   },
   "ethiopia": {
    "cum": "500,000–616,300+",
-   "cur": "5,834",
+   "cur": "6,031",
    "year": "2026",
    "page": "Ethiopian civil war (disambiguation)"
   },
   "sahel": {
    "cum": "488,500+",
-   "cur": "19,802",
+   "cur": "20,248",
    "year": "2026",
    "page": "Insurgency in the Maghreb (2002–present)"
   },
   "gaza": {
    "cum": "254,000–263,000+",
-   "cur": "11,800",
+   "cur": "11,824",
    "year": "2026",
    "page": "Arab–Israeli conflict"
   },
   "lebanon": {
    "cum": "254,000–263,000+",
-   "cur": "11,800",
+   "cur": "11,824",
    "year": "2026",
    "page": "Arab–Israeli conflict"
   },
   "haiti": {
    "cum": "25,000+",
-   "cur": "2,514",
+   "cur": "2,564",
    "year": "2026",
    "page": "Haitian crisis (2018–present)"
   },
   "somalia": {
    "cum": "376,200–1,000,000+",
-   "cur": "5,887",
+   "cur": "5,953",
    "year": "2026",
    "page": "Somali Civil War"
   },
   "nigeria": {
    "cum": "107,300+",
-   "cur": "3,530",
+   "cur": "3,580",
    "year": "2026",
    "page": "Communal conflicts in Nigeria"
   },
   "syria": {
    "cum": "664,800+",
-   "cur": "1,668",
+   "cur": "1,703",
    "year": "2026",
    "page": "Aftermath of the Syrian civil war"
   },
   "westbank": {
    "cum": "254,000–263,000+",
-   "cur": "11,800",
+   "cur": "11,824",
    "year": "2026",
    "page": "Arab–Israeli conflict"
   },
   "mexico": {
    "cum": "358,000–417,000",
-   "cur": "6,093",
+   "cur": "6,215",
    "year": "2026",
    "page": "Mexican drug war"
   },
   "colombia": {
    "cum": "460,300+",
-   "cur": "1,660",
+   "cur": "1,698",
    "year": "2026",
    "page": "Colombian conflict"
   },
   "mozambique": {
    "cum": "7,800+",
-   "cur": "476",
+   "cur": "497",
    "year": "2026",
    "page": "Insurgency in Cabo Delgado"
   },
   "southsudan": {
    "cum": "1,521,000+",
-   "cur": "11,142",
+   "cur": "11,815",
    "year": "2026",
    "page": "Sudanese Civil War"
   },
   "cameroon": {
    "cum": "11,000+",
-   "cur": "1,569",
+   "cur": "1,591",
    "year": "2026",
    "page": "Cameroonian Civil War (disambiguation)"
   },
   "balochistan": {
    "cum": "23,100+",
-   "cur": "1,300",
+   "cur": "1,375",
    "year": "2026",
    "page": "Terrorism in Pakistan"
   },
   "benin": {
    "cum": "488,500+",
-   "cur": "19,802",
+   "cur": "20,248",
    "year": "2026",
    "page": "Insurgency in the Maghreb (2002–present)"
   }
