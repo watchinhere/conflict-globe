@@ -1,17 +1,17 @@
 {
- "updated": "2026-10-28T20:53:01.851Z",
+ "updated": "2026-10-29T00:40:32.836Z",
  "sources": {
   "BBC": {
    "ok": true,
-   "n": 3
+   "n": 6
   },
   "Al Jazeera": {
    "ok": true,
-   "n": 9
+   "n": 8
   },
   "The Guardian": {
    "ok": true,
-   "n": 13
+   "n": 12
   },
   "DW": {
    "ok": true,
@@ -19,11 +19,11 @@
   },
   "France 24": {
    "ok": true,
-   "n": 8
+   "n": 7
   },
   "UN News": {
    "ok": true,
-   "n": 4
+   "n": 6
   },
   "NPR": {
    "ok": true,
@@ -32,12 +32,108 @@
  },
  "items": [
   {
+   "id": "630c78e685a7",
+   "t": "Australian SAS officers knew about unlawful ‘throwdowns’ on dead Afghans, report says",
+   "ko": "호주 SAS 장교들은 죽은 아프가니스탄인에 대한 불법적인 '투척'에 대해 알고 있었다고 보고서는 밝혔습니다.",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/australia-news/2026/oct/29/australian-sas-officers-knew-about-unlawful-throwdowns-on-dead-afghans-report-says-ntwnfb",
+   "at": "2026-10-29T00:30:25.000Z",
+   "ev": [],
+   "cc": [
+    "Afghanistan"
+   ]
+  },
+  {
+   "id": "ce0b2b4291c7",
+   "t": "Iran war live: Tehran presses 7-day Hormuz plan; Trump denies peace talks",
+   "ko": "이란 전쟁 생중계: 테헤란, 7일 호르무즈 계획 압박; 트럼프, 평화회담 거부",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/liveblog/2026/10/29/iran-war-live-tehran-presses-7-day-hormuz-plan-trump-denies-peace-talks?traffic_source=rss",
+   "at": "2026-10-29T00:00:00.000Z",
+   "ev": [
+    "iran"
+   ],
+   "cc": [
+    "Iran"
+   ]
+  },
+  {
+   "id": "a813b60a7f3c",
+   "t": "Flávio Bolsonaro denies fleeing Brazil after landing in Miami",
+   "ko": "플라비오 보우소나루, 마이애미 착륙 후 브라질 탈출 거부",
+   "src": "BBC",
+   "u": "https://www.bbc.co.uk/news/articles/c6kglwe4lxwzo?at_medium=RSS&at_campaign=rss",
+   "at": "2026-10-28T23:21:48.000Z",
+   "ev": [],
+   "cc": [
+    "Brazil"
+   ]
+  },
+  {
+   "id": "b1e5459eada7",
+   "t": "Menindee Lakes water levels drop to lowest in five years as experts warn of mass fish deaths",
+   "ko": "전문가들이 대량의 물고기 죽음을 경고함에 따라 메닌디 호수 수위가 5년 만에 최저 수준으로 떨어졌습니다.",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/australia-news/2026/oct/28/menindee-lakes-water-levels-drop-mass-fish-death-fears",
+   "at": "2026-10-28T23:15:36.000Z",
+   "ev": [],
+   "cc": []
+  },
+  {
+   "id": "4aea4ad50f58",
+   "t": "Tributes pour in for labor leader Dolores Huerta: ‘Fought for farm workers to the very end’",
+   "ko": "노동당 지도자 돌로레스 우에르타(Dolores Huerta)에 대한 추모: '마지막까지 농장 노동자들을 위해 싸웠다'",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/us-news/2026/oct/28/dolores-huerta-tributes",
+   "at": "2026-10-28T22:48:56.000Z",
+   "ev": [],
+   "cc": [
+    "United States"
+   ]
+  },
+  {
+   "id": "5839a08c278f",
+   "t": "UN experts sound alarm at excessive use of force in French student protests",
+   "ko": "유엔 전문가, 프랑스 학생 시위에서 과도한 무력 사용 경고",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/10/28/un-experts-sound-alarm-at-excessive-use-of-force-in-french-student-protests?traffic_source=rss",
+   "at": "2026-10-28T22:34:51.000Z",
+   "ev": [],
+   "cc": [
+    "France"
+   ]
+  },
+  {
+   "id": "55fdc1c59946",
+   "t": "Girl seriously injured in wolf attack at German wildlife park",
+   "ko": "독일 야생동물 공원에서 늑대의 공격을 받아 소녀가 중상을 입었습니다.",
+   "src": "BBC",
+   "u": "https://www.bbc.co.uk/news/articles/c678prm55gzzo?at_medium=RSS&at_campaign=rss",
+   "at": "2026-10-28T22:08:52.000Z",
+   "ev": [],
+   "cc": [
+    "Germany"
+   ]
+  },
+  {
+   "id": "3198c42b11bc",
+   "t": "Death of US actress Hayden Panettiere ruled accidental, ending local police probe",
+   "ko": "미국 여배우 헤이든 파네티어(Hayden Panettiere)의 사망이 우연으로 판결되어 현지 경찰 조사가 종료되었습니다.",
+   "src": "BBC",
+   "u": "https://www.bbc.co.uk/news/articles/c6lylxjkkp0vo?at_medium=RSS&at_campaign=rss",
+   "at": "2026-10-28T21:16:30.000Z",
+   "ev": [],
+   "cc": [
+    "United States"
+   ]
+  },
+  {
    "id": "f5738378edfd",
-   "t": "Death toll rises to 68 with dozens injured after high-speed train collision in Spain – latest updates",
-   "ko": "스페인에서 고속열차 충돌로 사망자 68명으로 늘어 수십명 부상",
+   "t": "Death toll rises to 68 with dozens injured after high-speed train collision in Spain – as it happened",
+   "ko": "스페인에서 고속열차 충돌사고로 사망자 68명으로 늘어 수십명 부상",
    "src": "The Guardian",
    "u": "https://www.theguardian.com/world/live/2026/oct/28/spain-train-crash-toledo-europe-latest-news-updates",
-   "at": "2026-10-28T20:30:59.000Z",
+   "at": "2026-10-28T20:53:55.000Z",
    "ev": [],
    "cc": [
     "Spain",
@@ -441,16 +537,6 @@
    ]
   },
   {
-   "id": "b1e5459eada7",
-   "t": "Menindee Lakes water levels drop to lowest in five years as experts warn of mass fish deaths",
-   "ko": "전문가들이 대량의 물고기 죽음을 경고함에 따라 메닌디 호수 수위가 5년 만에 최저 수준으로 떨어졌습니다.",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/australia-news/2026/oct/28/menindee-lakes-water-levels-drop-mass-fish-death-fears",
-   "at": "2026-10-28T14:00:07.000Z",
-   "ev": [],
-   "cc": []
-  },
-  {
    "id": "94850f08e8ce",
    "t": "West Bank: settlers using drones to monitor Palestinians",
    "ko": "서안지구: 정착민들이 팔레스타인인들을 감시하기 위해 드론을 사용함",
@@ -509,8 +595,8 @@
   },
   {
    "id": "cbb56b02282c",
-   "t": "Australia must recruit hundreds more to crew Aukus submarines, retired admiral warns",
-   "ko": "호주는 Aukus 잠수함 승무원을 위해 수백 명을 더 모집해야한다고 은퇴 한 제독이 경고했습니다.",
+   "t": "‘Don’t be stinky’: recruitment a ‘huge issue’ facing Aukus submarine program",
+   "ko": "'악취를 내지 마세요': Aukus 잠수함 프로그램이 직면한 '큰 문제' 모집",
    "src": "The Guardian",
    "u": "https://www.theguardian.com/world/2026/oct/28/australia-must-recruit-hundreds-more-to-crew-aukus-submarines-retired-admiral-warns",
    "at": "2026-10-28T12:46:36.000Z",
@@ -567,6 +653,34 @@
    "at": "2026-10-28T12:00:00.000Z",
    "ev": [],
    "cc": []
+  },
+  {
+   "id": "0355bf30c5fe",
+   "t": "Civilians in Sudan’s El Obeid trapped between drones and incarceration",
+   "ko": "드론과 투옥 사이에 갇힌 수단 엘오베이드의 민간인",
+   "src": "UN News",
+   "u": "https://news.un.org/feed/view/en/story/2026/10/1168696",
+   "at": "2026-10-28T12:00:00.000Z",
+   "ev": [
+    "sudan"
+   ],
+   "cc": [
+    "Sudan"
+   ]
+  },
+  {
+   "id": "a652108e078b",
+   "t": "UN human rights chief urges better protection of civilians in conflicts",
+   "ko": "유엔 인권 사무총장, 분쟁 중인 민간인 보호 강화 촉구",
+   "src": "UN News",
+   "u": "https://news.un.org/feed/view/en/story/2026/10/1168695",
+   "at": "2026-10-28T12:00:00.000Z",
+   "ev": [],
+   "cc": [
+    "Serbia",
+    "Bangladesh",
+    "Nepal"
+   ]
   },
   {
    "id": "aaa86d817521",
@@ -2069,128 +2183,6 @@
    "cc": [
     "Ukraine",
     "Russia",
-    "United States"
-   ]
-  },
-  {
-   "id": "47386fe30db2",
-   "t": "Why has France struggled to address students’ demands?",
-   "ko": "프랑스가 학생들의 요구를 해결하기 위해 애쓰는 이유는 무엇입니까?",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/news/2026/10/27/why-has-france-struggled-to-address-students-demands?traffic_source=rss",
-   "at": "2026-10-27T05:22:22.000Z",
-   "ev": [],
-   "cc": [
-    "France"
-   ]
-  },
-  {
-   "id": "b043ca1b8e43",
-   "t": "Labor condemns One Nation cartoons depicting Penny Wong being murdered as Hanson says videos ‘not going anywhere’",
-   "ko": "노동당은 Hanson이 동영상이 '아무데도 가지 않을 것'이라고 말하면서 Penny Wong이 살해되는 것을 묘사하는 One Nation 만화를 비난합니다.",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/australia-news/2026/oct/27/one-nation-cartoon-penny-wong-beheading-condemned-ntwnfb",
-   "at": "2026-10-27T05:13:57.000Z",
-   "ev": [],
-   "cc": []
-  },
-  {
-   "id": "cc7893a3b009",
-   "t": "A quick guide to Israel's high-stakes election",
-   "ko": "이스라엘의 중요한 선거에 대한 빠른 가이드",
-   "src": "NPR",
-   "u": "https://www.npr.org/2026/10/27/g-s1-149944/israel-election-guide",
-   "at": "2026-10-27T04:54:30.000Z",
-   "ev": [
-    "gaza"
-   ],
-   "cc": [
-    "Israel"
-   ]
-  },
-  {
-   "id": "b0a7ee6d19b0",
-   "t": "Saudi-led coalition says it downed Houthi missiles, drones aimed at kingdom",
-   "ko": "사우디 주도 연합군, 왕국 겨냥한 후티 미사일과 드론 격추",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/news/2026/10/27/saudi-led-coalition-destroys-four-houthi-drones?traffic_source=rss",
-   "at": "2026-10-27T04:54:26.000Z",
-   "ev": [
-    "iran",
-    "yemen"
-   ],
-   "cc": [
-    "Saudi Arabia",
-    "Turkey",
-    "Pakistan"
-   ]
-  },
-  {
-   "id": "85242488b3aa",
-   "t": "Israelis vote in tense election seen as a referendum on Netanyahu",
-   "ko": "네타냐후에 대한 국민투표로 보이는 긴장된 선거에서 이스라엘의 투표",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/middle-east/20261027-israel-election-2026-netanyahu-october-7",
-   "at": "2026-10-27T04:12:41.000Z",
-   "ev": [
-    "gaza"
-   ],
-   "cc": []
-  },
-  {
-   "id": "85b97442e79b",
-   "t": "US bans vehicles from China’s BYD at Japan military base, calling them ‘unacceptable’ risk",
-   "ko": "미국, 日군기지 내 중국 BYD 차량 금지…\"용납할 수 없는 위험\"",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/world/2026/oct/27/us-bans-byd-electric-vehicles-kadena-military-base",
-   "at": "2026-10-27T02:50:31.000Z",
-   "ev": [],
-   "cc": [
-    "United States",
-    "China",
-    "Japan"
-   ]
-  },
-  {
-   "id": "12bda8609c19",
-   "t": "Jordan carries out deadly strike in Syria in retaliation for church attack",
-   "ko": "요르단, 교회 공격에 대한 보복으로 시리아에 치명적인 공습 실시",
-   "src": "BBC",
-   "u": "https://www.bbc.co.uk/news/articles/cq8ezg6dy6xlo?at_medium=RSS&at_campaign=rss",
-   "at": "2026-10-27T02:40:17.000Z",
-   "ev": [
-    "syria"
-   ],
-   "cc": [
-    "Jordan",
-    "Syria"
-   ]
-  },
-  {
-   "id": "bf6ef63acf66",
-   "t": "Russia halts strikes on Ukraine’s Kherson as Oleshky ceasefire takes effect",
-   "ko": "러시아, 올레쉬키 휴전 발효로 우크라이나 헤르손 공습 중단",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/news/2026/10/27/russia-halts-strikes-on-ukraines-kherson-as-oleshky-ceasefire-takes-effect?traffic_source=rss",
-   "at": "2026-10-27T02:29:00.000Z",
-   "ev": [
-    "ukraine"
-   ],
-   "cc": [
-    "Russia",
-    "Ukraine",
-    "United States"
-   ]
-  },
-  {
-   "id": "28b7c31febcc",
-   "t": "US-EU trade truce at risk over $3.4 billion Airbus loan, Trump official warns",
-   "ko": "트럼프 관리는 34억 달러의 에어버스 대출로 인해 미국-EU 무역 휴전이 위험에 처해 있다고 경고했습니다.",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/europe/20261027-us-eu-trade-truce-airbus-loan-trump",
-   "at": "2026-10-27T02:20:28.000Z",
-   "ev": [],
-   "cc": [
     "United States"
    ]
   }
