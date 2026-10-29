@@ -1,21 +1,21 @@
 {
- "updated": "2026-10-29T13:59:51.032Z",
+ "updated": "2026-10-29T19:32:40.132Z",
  "sources": {
   "BBC": {
    "ok": true,
-   "n": 8
+   "n": 7
   },
   "Al Jazeera": {
    "ok": true,
-   "n": 7
+   "n": 9
   },
   "The Guardian": {
    "ok": true,
-   "n": 10
+   "n": 9
   },
   "DW": {
    "ok": true,
-   "n": 6
+   "n": 3
   },
   "France 24": {
    "ok": true,
@@ -23,14 +23,303 @@
   },
   "UN News": {
    "ok": true,
-   "n": 4
+   "n": 5
   },
   "NPR": {
    "ok": true,
-   "n": 1
+   "n": 3
   }
  },
  "items": [
+  {
+   "id": "d5fa3e1950df",
+   "t": "Netanyahu attacks Palestinian-Israeli parties as he falls short of majority",
+   "ko": "네타냐후는 과반수에 미치지 못하자 팔레스타인-이스라엘 정당을 공격한다.",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/video/newsfeed/2026/10/29/netanyahu-attacks-palestinian-israeli-parties-as-he-falls-short-of-majority?traffic_source=rss",
+   "at": "2026-10-29T19:06:00.000Z",
+   "ev": [],
+   "cc": []
+  },
+  {
+   "id": "8f824d311db5",
+   "t": "Seven oil tankers carrying 288,000 tonnes of Russian diesel sail towards US",
+   "ko": "288,000톤의 러시아 디젤을 싣고 미국을 향해 항해하는 7척의 유조선",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/us-news/2026/oct/29/seven-oil-tankers-288000-tonnes-russian-diesel-sail-us-putin-trump",
+   "at": "2026-10-29T19:04:17.000Z",
+   "ev": [
+    "ukraine"
+   ],
+   "cc": [
+    "Russia",
+    "United States"
+   ]
+  },
+  {
+   "id": "4ae26feb3cc0",
+   "t": "Pentagon fires general it says leaked classified information to media",
+   "ko": "미 국방부, 언론에 기밀 정보 유출했다고 장군 해임",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/10/29/pentagon-fires-general-it-says-leaked-classified-information-to-media?traffic_source=rss",
+   "at": "2026-10-29T19:02:19.000Z",
+   "ev": [
+    "ukraine",
+    "iran"
+   ],
+   "cc": [
+    "Iran",
+    "Ukraine"
+   ]
+  },
+  {
+   "id": "29848ab83373",
+   "t": "US Muslims concerned but resilient as ‘hate’ attacks target Abdul El-Sayed",
+   "ko": "미국 이슬람교도들은 압둘 엘-사예드(Abdul El-Sayed)를 겨냥한 '증오' 공격에 대해 우려하고 있지만 탄력적이다",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/10/29/us-muslims-concerned-but-resilient-as-hate-attacks-target-abdul-el-sayed?traffic_source=rss",
+   "at": "2026-10-29T18:30:04.000Z",
+   "ev": [],
+   "cc": [
+    "United States"
+   ]
+  },
+  {
+   "id": "128cf7caf8e5",
+   "t": "'Deeply regressive': How the French government plans to make protesters pay for riots and looting",
+   "ko": "'매우 퇴행적': 프랑스 정부가 시위대에게 폭동과 약탈 비용을 지불하도록 계획하는 방법",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/france/20261029-deeply-regressive-how-the-french-government-plans-to-make-protesters-pay-for-riots-and-looting",
+   "at": "2026-10-29T18:15:38.000Z",
+   "ev": [],
+   "cc": [
+    "France"
+   ]
+  },
+  {
+   "id": "18979a846cd4",
+   "t": "Hong Kong’s leader apologises for residential fire that killed 168 people",
+   "ko": "홍콩 지도자, 168명 사망한 주택 화재 사과",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/world/2026/oct/29/hong-kong-john-lee-apologises-wang-fuk-court-fire-killed-168-people",
+   "at": "2026-10-29T18:14:21.000Z",
+   "ev": [],
+   "cc": [
+    "Hong Kong"
+   ]
+  },
+  {
+   "id": "eb3b2d391929",
+   "t": "Lt. Gen. Ben Hodges accuses Hegseth of 'getting rid of people who may have the courage to push back'",
+   "ko": "벤 호지스 중장은 헤그세스가 '반격할 용기가 있는 사람들을 제거하고 있다'고 비난했습니다.",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/lt-gen-ben-hodges-accuses-hegseth-of-getting-rid-of-people-who-may-have-the-courage-to-push-back",
+   "at": "2026-10-29T18:09:28.000Z",
+   "ev": [],
+   "cc": [
+    "United States"
+   ]
+  },
+  {
+   "id": "693b6c6a2f54",
+   "t": "At least 14 people killed in attack on Ukraine train station",
+   "ko": "우크라이나 기차역 테러로 최소 14명 사망",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/video/newsfeed/2026/10/29/aje-onl-nf_russian-drone-strike-at-dnipro-train-platform-291026?traffic_source=rss",
+   "at": "2026-10-29T18:03:21.000Z",
+   "ev": [
+    "ukraine"
+   ],
+   "cc": [
+    "Ukraine",
+    "Russia"
+   ]
+  },
+  {
+   "id": "5da7d48e1fb7",
+   "t": "Pakistan rights activist Imaan Mazari and husband jailed for 10 years",
+   "ko": "파키스탄 인권 운동가 이만 마자리와 남편이 징역 10년을 선고받았다.",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/10/29/pakistan-rights-activist-imaan-mazari-and-husband-jailed-for-10-years?traffic_source=rss",
+   "at": "2026-10-29T17:28:18.000Z",
+   "ev": [],
+   "cc": [
+    "Pakistan"
+   ]
+  },
+  {
+   "id": "8bd06094ddf9",
+   "t": "UAE sentences eight people to life over arms supplies to Sudan’s army",
+   "ko": "UAE, 수단군에 무기 공급한 혐의로 8명 종신형 선고",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/10/29/uae-sentences-eight-people-to-life-over-arms-supplies-to-sudans-army?traffic_source=rss",
+   "at": "2026-10-29T17:25:17.000Z",
+   "ev": [
+    "sudan"
+   ],
+   "cc": [
+    "United Arab Emirates",
+    "Sudan"
+   ]
+  },
+  {
+   "id": "6ca2a93812d3",
+   "t": "Meta discussed ‘whisper strategy’ against social media critic Jonathan Haidt, files show",
+   "ko": "메타는 소셜 미디어 평론가 조나단 하이트(Jonathan Haidt)에 대한 '속삭임 전략'에 대해 논의했다고 파일에 나와 있습니다.",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/technology/2026/oct/29/meta-staff-us-social-media-critic-jonathan-haidt-court-documents",
+   "at": "2026-10-29T17:20:57.000Z",
+   "ev": [],
+   "cc": [
+    "United States",
+    "Australia"
+   ]
+  },
+  {
+   "id": "a3167c4b039c",
+   "t": "Aid mission set to enter Ukraine's Oleshky as localised ceasefire holds for third day",
+   "ko": "현지 휴전이 3일째 유지됨에 따라 구호 임무가 우크라이나의 올레쉬키(Oleshky)에 진입할 예정",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/europe/20261029-aid-mission-set-to-enter-ukraine-s-oleshky-as-localised-ceasefire-holds-for-third-day",
+   "at": "2026-10-29T16:19:14.000Z",
+   "ev": [
+    "ukraine"
+   ],
+   "cc": [
+    "Ukraine",
+    "United States",
+    "Russia"
+   ]
+  },
+  {
+   "id": "57f2657ee766",
+   "t": "US and Japan agree to establish a Japanese facility for joint missile production",
+   "ko": "미국과 일본이 일본의 미사일 공동 생산 시설을 설립하기로 합의했습니다.",
+   "src": "NPR",
+   "u": "https://www.npr.org/2026/10/29/g-s1-150666/us-and-japan-agree-to-establish-a-japanese-facility-for-joint-missile-production",
+   "at": "2026-10-29T15:58:27.000Z",
+   "ev": [],
+   "cc": [
+    "United States",
+    "Japan",
+    "China"
+   ]
+  },
+  {
+   "id": "205ad8aa3a96",
+   "t": "China elevates a military general to the Politburo and seeks to strengthen party discipline",
+   "ko": "중국, 군 장성을 정치국에 승격시키고 당 규율 강화 노력",
+   "src": "NPR",
+   "u": "https://www.npr.org/2026/10/29/g-s1-150645/china-elevates-a-military-general-to-the-politburo-and-seeks-to-strengthen-party-discipline",
+   "at": "2026-10-29T15:53:46.000Z",
+   "ev": [],
+   "cc": [
+    "China"
+   ]
+  },
+  {
+   "id": "a1fc91976214",
+   "t": "Pentagon shake-up continues: US fires top army general in latest ouster",
+   "ko": "국방부 개편은 계속된다: 미국은 최근 축출에서 육군 최고 장군을 해고했다",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/video/20261029-pentagon-shake-up-continues-us-fires-top-army-general-in-latest-ouster",
+   "at": "2026-10-29T15:30:44.000Z",
+   "ev": [
+    "iran"
+   ],
+   "cc": [
+    "United States",
+    "Iran"
+   ]
+  },
+  {
+   "id": "1e8f7bb8ab78",
+   "t": "Spanish long jumper Julieta Gallego among victims of deadly train collision",
+   "ko": "스페인의 멀리뛰기 선수 줄리에타 갈레고(Julieta Gallego)가 열차 충돌로 사망했습니다.",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/sports/2026/10/29/spanish-long-jumper-julieta-gallego-among-victims-of-deadly-train-collision?traffic_source=rss",
+   "at": "2026-10-29T15:18:38.000Z",
+   "ev": [],
+   "cc": [
+    "Spain"
+   ]
+  },
+  {
+   "id": "f923a3e0cfa3",
+   "t": "Two Colorado college students found dead after going missing during hike",
+   "ko": "콜로라도 대학생 2명, 하이킹 중 실종돼 숨진 채 발견",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/us-news/2026/oct/29/colorado-college-students-found-dead-hike",
+   "at": "2026-10-29T15:17:16.000Z",
+   "ev": [],
+   "cc": []
+  },
+  {
+   "id": "4e2b19219e54",
+   "t": "Israeli strikes hit Gaza as Health Ministry urges Rafah opening",
+   "ko": "보건부가 라파 개방을 촉구하자 이스라엘, 가자지구 공습",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/10/29/israeli-strikes-hit-gaza-as-health-ministry-urges-rafah-opening?traffic_source=rss",
+   "at": "2026-10-29T15:12:36.000Z",
+   "ev": [
+    "gaza"
+   ],
+   "cc": [
+    "Israel",
+    "Palestine"
+   ]
+  },
+  {
+   "id": "30b0b2008444",
+   "t": "Minimum wage increase could come early as France braces for protests",
+   "ko": "프랑스, 시위에 대비해 최저임금 인상이 조기에 이뤄질 수도 있다",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/video/20261029-minimum-wage-increase-could-come-early-as-france-braces-for-protests",
+   "at": "2026-10-29T14:47:48.000Z",
+   "ev": [],
+   "cc": [
+    "France"
+   ]
+  },
+  {
+   "id": "92c2ee3b7e50",
+   "t": "'Real questions to be asked' after deadly train collision in Spain, journalist says",
+   "ko": "스페인에서 치명적인 열차 충돌 후 '진짜 질문'을 던져야 한다고 언론인이 말했습니다.",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/tv-shows/perspective/20261029-real-questions-to-be-asked-after-deadly-train-collision-in-spain-journalist-says",
+   "at": "2026-10-29T14:44:07.000Z",
+   "ev": [],
+   "cc": [
+    "Spain"
+   ]
+  },
+  {
+   "id": "b6cec7dfaadc",
+   "t": "Senate race in once reliably Republican South Carolina tied in final stretch – poll",
+   "ko": "한때 안정적으로 공화당이었던 사우스캐롤라이나주 상원 경선이 마지막 단계에서 동점을 기록했습니다 – 여론조사",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/us-news/2026/oct/29/south-carolina-senate-tied-race",
+   "at": "2026-10-29T14:42:38.000Z",
+   "ev": [],
+   "cc": [
+    "United States"
+   ]
+  },
+  {
+   "id": "d4f72b2bef19",
+   "t": "Russian drone attack on Ukrainian train station kills at least 14, officials say",
+   "ko": "우크라이나 기차역에 대한 러시아 드론 공격으로 최소 14명이 사망했다고 관리들이 밝혔습니다.",
+   "src": "BBC",
+   "u": "https://www.bbc.co.uk/news/articles/c9p8gdlz1p2ko?at_medium=RSS&at_campaign=rss",
+   "at": "2026-10-29T14:17:35.000Z",
+   "ev": [
+    "ukraine"
+   ],
+   "cc": [
+    "Russia",
+    "Ukraine"
+   ]
+  },
   {
    "id": "e7753dad1225",
    "t": "Alaska governor orders investigation into Democrat’s Senate campaign – live",
@@ -44,6 +333,20 @@
    "cc": [
     "United States",
     "Iran"
+   ]
+  },
+  {
+   "id": "6ba5679a1883",
+   "t": "Damascus, Amman contradict each other on attack that killed civilians",
+   "ko": "다마스쿠스와 암만, 민간인 살해 공격으로 서로 모순",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/features/2026/10/29/damascus-amman-contradict-each-other-on-attack-that-killed-civilians?traffic_source=rss",
+   "at": "2026-10-29T13:44:42.000Z",
+   "ev": [
+    "syria"
+   ],
+   "cc": [
+    "Syria"
    ]
   },
   {
@@ -91,16 +394,6 @@
    "cc": []
   },
   {
-   "id": "f923a3e0cfa3",
-   "t": "Two Colorado college students found dead after going missing during hike",
-   "ko": "콜로라도 대학생 2명, 하이킹 중 실종돼 숨진 채 발견",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/us-news/2026/oct/29/colorado-college-students-found-dead-hike",
-   "at": "2026-10-29T12:57:05.000Z",
-   "ev": [],
-   "cc": []
-  },
-  {
    "id": "90413d21ea9e",
    "t": "HMRC puts 200 billionaires on UK tax crackdown hitlist",
    "ko": "HMRC, 영국 세금 단속 대상 목록에 억만장자 200명 추가",
@@ -127,21 +420,6 @@
    ]
   },
   {
-   "id": "d4f72b2bef19",
-   "t": "Russian drone attack on Ukrainian train station kills at least 13, officials say",
-   "ko": "우크라이나 기차역에 대한 러시아 드론 공격으로 최소 13명이 사망했다고 관리들이 밝혔습니다.",
-   "src": "BBC",
-   "u": "https://www.bbc.co.uk/news/articles/c9p8gdlz1p2ko?at_medium=RSS&at_campaign=rss",
-   "at": "2026-10-29T12:38:40.000Z",
-   "ev": [
-    "ukraine"
-   ],
-   "cc": [
-    "Russia",
-    "Ukraine"
-   ]
-  },
-  {
    "id": "5f60a35bcc66",
    "t": "South Korean prosecutors press for death sentence in Yoon martial law case",
    "ko": "검찰, 윤 계엄령 사건에 사형 선고 촉구",
@@ -163,6 +441,21 @@
    ],
    "cc": [
     "Israel"
+   ]
+  },
+  {
+   "id": "c81fac5ea566",
+   "t": "Russia drone strike on Ukrainian railway station kills 13",
+   "ko": "러시아, 우크라이나 기차역에 드론 공격 13명 사망",
+   "src": "UN News",
+   "u": "https://news.un.org/feed/view/en/story/2026/10/1168702",
+   "at": "2026-10-29T12:00:00.000Z",
+   "ev": [
+    "ukraine"
+   ],
+   "cc": [
+    "Russia",
+    "Ukraine"
    ]
   },
   {
@@ -1781,356 +2074,6 @@
    "cc": [
     "Israel",
     "Iran"
-   ]
-  },
-  {
-   "id": "df38c93bbc72",
-   "t": "RAF Fairford plot ‘coordinated by handler working on behalf of Iran’",
-   "ko": "RAF Fairford 음모 '이란을 대신하여 일하는 핸들러가 조정'",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/uk-news/2026/oct/27/two-men-charged-raf-fairford",
-   "at": "2026-10-27T19:24:29.000Z",
-   "ev": [
-    "iran"
-   ],
-   "cc": [
-    "Iran"
-   ]
-  },
-  {
-   "id": "5e94e6ecb95b",
-   "t": "Parents inflicted fatal physical and sexual abuse on their baby, Warwick court hears",
-   "ko": "부모가 아기에게 치명적인 신체적, 성적 학대를 가했다고 워릭 법원이 판결",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/uk-news/2026/oct/27/parents-inflicted-fatal-physical-and-sexual-abuse-their-baby-warwick-court-hears",
-   "at": "2026-10-27T19:05:57.000Z",
-   "ev": [],
-   "cc": []
-  },
-  {
-   "id": "59a029f2aeed",
-   "t": "Deaths in detention cells in Nigeria were entirely preventable, inquiry finds",
-   "ko": "나이지리아 구금실에서의 사망은 완전히 예방할 수 있었던 것으로 조사 결과 밝혀졌습니다",
-   "src": "BBC",
-   "u": "https://www.bbc.co.uk/news/articles/cmgel8pqj5rwo?at_medium=RSS&at_campaign=rss",
-   "at": "2026-10-27T19:01:16.000Z",
-   "ev": [
-    "nigeria"
-   ],
-   "cc": [
-    "Nigeria"
-   ]
-  },
-  {
-   "id": "add822e5ffe3",
-   "t": "How student assemblies brought down the Serbian government",
-   "ko": "학생회가 어떻게 세르비아 정부를 무너뜨렸는가",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/europe/20261027-how-student-assemblies-brought-down-the-serbian-government",
-   "at": "2026-10-27T18:58:25.000Z",
-   "ev": [],
-   "cc": [
-    "Serbia"
-   ]
-  },
-  {
-   "id": "5897deb81381",
-   "t": "The WhatsApp ‘general’ behind Lula’s election comeback in Brazil",
-   "ko": "브라질 룰라의 재선을 뒷받침하는 WhatsApp '일반'",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/news/2026/10/27/the-whatsapp-general-behind-lulas-election-comeback-in-brazil?traffic_source=rss",
-   "at": "2026-10-27T18:35:05.000Z",
-   "ev": [],
-   "cc": [
-    "Brazil"
-   ]
-  },
-  {
-   "id": "99f359bbc9a8",
-   "t": "Controversial Islamic cleric shot dead in northern Nigeria",
-   "ko": "논란의 여지가 있는 이슬람 성직자, 나이지리아 북부서 총격 사망",
-   "src": "BBC",
-   "u": "https://www.bbc.co.uk/news/articles/cxdd8nq55d74o?at_medium=RSS&at_campaign=rss",
-   "at": "2026-10-27T18:35:02.000Z",
-   "ev": [
-    "nigeria"
-   ],
-   "cc": [
-    "Nigeria"
-   ]
-  },
-  {
-   "id": "2ecde9bf1b9c",
-   "t": "Rights groups say proposed French law to make rioters pay for damage is anti-democratic",
-   "ko": "인권 단체들은 폭도들에게 손해 배상을 요구하는 프랑스 법안이 반민주적이라고 주장합니다.",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/france/20261027-rights-groups-say-proposed-french-law-to-make-rioters-pay-for-damage-anti-democratic",
-   "at": "2026-10-27T18:27:15.000Z",
-   "ev": [],
-   "cc": [
-    "France"
-   ]
-  },
-  {
-   "id": "bbcf7b2c06c7",
-   "t": "Oleshky truce appears to hold as two European leaders have ‘frank’ call with Putin",
-   "ko": "두 유럽 지도자가 푸틴 대통령과 '솔직한' 통화를 함에 따라 올레쉬키 휴전이 유지될 것으로 보입니다.",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/world/2026/oct/27/oleshky-truce-ukraine-russia-putin",
-   "at": "2026-10-27T17:43:02.000Z",
-   "ev": [
-    "ukraine"
-   ],
-   "cc": [
-    "Ukraine",
-    "Russia"
-   ]
-  },
-  {
-   "id": "ba30ad1147a2",
-   "t": "US military says strike on alleged drug vessel in eastern Pacific kills five people",
-   "ko": "미군, 동태평양에서 마약선 공격으로 5명 사망",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/us-news/2026/oct/27/us-military-strike-vessel-eastern-pacific",
-   "at": "2026-10-27T17:35:50.000Z",
-   "ev": [],
-   "cc": [
-    "United States"
-   ]
-  },
-  {
-   "id": "35fe67d2afb7",
-   "t": "Schrödinger’s racism, Nige’s latest wheeze to dodge his associates’ bigotry | John Crace",
-   "ko": "슈뢰딩거의 인종차별, 동료들의 편견을 피하기 위한 니게의 최근 천명 | 존 크레이스",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/politics/2026/oct/27/nigel-farage-raheem-kassam-kemi-badenoch-nigerian-scammer",
-   "at": "2026-10-27T17:29:26.000Z",
-   "ev": [
-    "nigeria"
-   ],
-   "cc": [
-    "Nigeria"
-   ]
-  },
-  {
-   "id": "495ae963209e",
-   "t": "France: Lawmakers hold a minute of silence for Pengo Bossio Wangi, victim of racist attack",
-   "ko": "프랑스: 국회의원들이 인종차별 공격의 피해자인 펭고 보시오 왕이를 위해 묵념을 펼쳤습니다.",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/video/20261027-france-lawmakers-hold-a-minute-of-silence-for-pengo-bossio-wangi-victim-of-racist-attack-1",
-   "at": "2026-10-27T17:08:44.000Z",
-   "ev": [],
-   "cc": [
-    "France"
-   ]
-  },
-  {
-   "id": "1f0d32af44eb",
-   "t": "Funeral held for family killed in Jordanian airstrikes in Syria",
-   "ko": "요르단 시리아 공습으로 숨진 가족 장례식 거행",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/video/newsfeed/2026/10/27/funeral-held-for-family-killed-in-jordanian-airstrikes-in-syria?traffic_source=rss",
-   "at": "2026-10-27T17:03:45.000Z",
-   "ev": [
-    "syria"
-   ],
-   "cc": [
-    "Syria"
-   ]
-  },
-  {
-   "id": "97ec09684c42",
-   "t": "Israelis vote in a tense election: What's at stake?",
-   "ko": "이스라엘의 치열한 선거 투표: 무엇이 위태로울까?",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/israelis-vote-in-a-tense-election-what-s-at-stake",
-   "at": "2026-10-27T16:59:06.000Z",
-   "ev": [
-    "gaza"
-   ],
-   "cc": [
-    "Israel"
-   ]
-  },
-  {
-   "id": "1a3e389cdcbe",
-   "t": "Israel elections: voter turnout reaches 55% by 4pm local time",
-   "ko": "이스라엘 선거: 현지 시간 오후 4시까지 투표율 55% 도달",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/israel-elections-voter-turnout-reaches-55-by-4pm-local-time",
-   "at": "2026-10-27T16:52:33.000Z",
-   "ev": [],
-   "cc": [
-    "Israel"
-   ]
-  },
-  {
-   "id": "8df6f7c02667",
-   "t": "Kyiv hopes for ‘new momentum’ in peace talks after Finnish and Norwegian leaders’ call with Putin – as it happened",
-   "ko": "키예프는 핀란드와 노르웨이 지도자들이 푸틴 대통령과 통화한 후 평화 회담에서 '새로운 모멘텀'을 기대하고 있습니다.",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/world/live/2026/oct/27/russia-ukraine-oleshky-serbia-france-europe-latest-news-updates",
-   "at": "2026-10-27T16:23:32.000Z",
-   "ev": [
-    "ukraine"
-   ],
-   "cc": [
-    "Russia",
-    "United Kingdom",
-    "Ukraine"
-   ]
-  },
-  {
-   "id": "af406117dbea",
-   "t": "Death toll from attack by gunmen in northeastern Nigeria rises to 62",
-   "ko": "나이지리아 북동부에서 무장괴한의 공격으로 인한 사망자 수는 62명으로 증가",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/news/2026/10/27/death-toll-from-attack-by-gunmen-in-northeastern-nigeria-rises-to-62?traffic_source=rss",
-   "at": "2026-10-27T15:53:35.000Z",
-   "ev": [
-    "nigeria"
-   ],
-   "cc": [
-    "Nigeria"
-   ]
-  },
-  {
-   "id": "65fa0a1c0988",
-   "t": "West warns of famine risk in Sudan as civil war grinds on",
-   "ko": "웨스트, 내전이 심화됨에 따라 수단의 기근 위험 경고",
-   "src": "BBC",
-   "u": "https://www.bbc.co.uk/news/articles/cj5ynkk6v3pzo?at_medium=RSS&at_campaign=rss",
-   "at": "2026-10-27T15:41:46.000Z",
-   "ev": [
-    "sudan"
-   ],
-   "cc": [
-    "Sudan"
-   ]
-  },
-  {
-   "id": "a559e0d531b1",
-   "t": "Myanmar: Is the US undermining the EU's diplomatic blockade?",
-   "ko": "미얀마: 미국이 EU의 외교적 봉쇄를 약화시키고 있습니까?",
-   "src": "DW",
-   "u": "https://www.dw.com/en/myanmar-is-the-us-undermining-the-eu-s-diplomatic-blockade/a-79778863?maca=en-rss-en-world-4025-rdf",
-   "at": "2026-10-27T15:16:00.000Z",
-   "ev": [
-    "myanmar"
-   ],
-   "cc": [
-    "Myanmar",
-    "United States"
-   ]
-  },
-  {
-   "id": "19ebc5f0e94e",
-   "t": "Truce begins in Ukraine city where residents ate weeds to survive",
-   "ko": "주민들이 생존을 위해 잡초를 먹었던 우크라이나 도시에서 휴전이 시작되었습니다.",
-   "src": "BBC",
-   "u": "https://www.bbc.co.uk/news/articles/ck20wjnv3w0jo?at_medium=RSS&at_campaign=rss",
-   "at": "2026-10-27T15:13:24.000Z",
-   "ev": [
-    "ukraine"
-   ],
-   "cc": [
-    "Ukraine",
-    "United States"
-   ]
-  },
-  {
-   "id": "c983b9bd4537",
-   "t": "Israeli military detains Egyptian national who crossed border",
-   "ko": "이스라엘군, 국경을 넘은 이집트인 억류",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/news/2026/10/27/israeli-military-detains-egyptian-national-who-crossed-border?traffic_source=rss",
-   "at": "2026-10-27T15:10:27.000Z",
-   "ev": [],
-   "cc": [
-    "Israel",
-    "Egypt"
-   ]
-  },
-  {
-   "id": "2bd2c915281d",
-   "t": "Hegseth heads to Manila to shore up US ties with Asia-Pacific partners",
-   "ko": "Hegseth는 아시아 태평양 파트너와의 미국 관계를 강화하기 위해 마닐라로 향합니다.",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/news/2026/10/27/hegseth-heads-to-manila-to-shore-up-us-ties-with-asia-pacific-partners?traffic_source=rss",
-   "at": "2026-10-27T15:08:59.000Z",
-   "ev": [
-    "iran"
-   ],
-   "cc": [
-    "United States",
-    "Iran"
-   ]
-  },
-  {
-   "id": "03444a092d87",
-   "t": "Israel votes in decisive election: What happens after polls close?",
-   "ko": "이스라엘이 결정적인 선거에서 투표합니다. 투표가 종료되면 어떻게 되나요?",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/video/20261027-israel-s-unique-political-system-what-happens-after-polls-close",
-   "at": "2026-10-27T14:55:49.000Z",
-   "ev": [
-    "gaza"
-   ],
-   "cc": [
-    "Israel"
-   ]
-  },
-  {
-   "id": "7d1585723c9f",
-   "t": "Turnout high as Israeli voters deliver verdict on Netanyahu",
-   "ko": "이스라엘 유권자들이 네타냐후에 대한 평결을 내리면서 투표율이 높아졌습니다.",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/turnout-high-as-israeli-voters-deliver-verdict-on-netanyahu",
-   "at": "2026-10-27T14:45:08.000Z",
-   "ev": [],
-   "cc": [
-    "Israel"
-   ]
-  },
-  {
-   "id": "4e4be19401d3",
-   "t": "Israel: Netanyahu supporters gather as PM votes",
-   "ko": "이스라엘: 네타냐후 지지자들이 총리 투표로 모였습니다.",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/israel-netanyahu-supporters-gather-as-pm-votes",
-   "at": "2026-10-27T14:37:39.000Z",
-   "ev": [
-    "gaza"
-   ],
-   "cc": [
-    "Israel"
-   ]
-  },
-  {
-   "id": "e52839e179c8",
-   "t": "Coalition MP calls for rethink of pre-poll voting amid heightened security concerns in wake of Haines incident",
-   "ko": "연합 의원은 헤인즈 사건으로 인해 보안 우려가 높아지는 가운데 사전 투표 투표를 재고할 것을 촉구했습니다.",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/australia-news/2026/oct/27/mp-calls-rethink-pre-poll-voting-helen-haines-heightened-security-concerns-ntwnfb",
-   "at": "2026-10-27T14:00:36.000Z",
-   "ev": [],
-   "cc": [
-    "Australia"
-   ]
-  },
-  {
-   "id": "ea771f00a158",
-   "t": "Russia targets Kyiv as Finnish, Norwegian leaders hold rare call with Putin",
-   "ko": "러시아는 키예프를 핀란드로 겨냥하고 노르웨이 지도자들은 푸틴과 드문 통화를 한다",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/news/2026/10/27/russia-targets-kyiv-as-finnish-norwegian-leaders-hold-rare-call-with-putin?traffic_source=rss",
-   "at": "2026-10-27T13:59:37.000Z",
-   "ev": [
-    "ukraine"
-   ],
-   "cc": [
-    "Russia",
-    "Ukraine"
    ]
   }
  ]
