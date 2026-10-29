@@ -1,17 +1,17 @@
 {
- "updated": "2026-10-29T19:32:40.132Z",
+ "updated": "2026-10-29T23:35:04.259Z",
  "sources": {
   "BBC": {
    "ok": true,
-   "n": 7
+   "n": 8
   },
   "Al Jazeera": {
    "ok": true,
-   "n": 9
+   "n": 8
   },
   "The Guardian": {
    "ok": true,
-   "n": 9
+   "n": 8
   },
   "DW": {
    "ok": true,
@@ -19,18 +19,105 @@
   },
   "France 24": {
    "ok": true,
-   "n": 7
+   "n": 8
   },
   "UN News": {
    "ok": true,
-   "n": 5
+   "n": 7
   },
   "NPR": {
    "ok": true,
-   "n": 3
+   "n": 4
   }
  },
  "items": [
+  {
+   "id": "677893a90872",
+   "t": "Hegseth reportedly fires high-ranking army strategist over alleged leaks",
+   "ko": "Hegseth, 정보 유출 혐의로 육군 고위 전략가 해고",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/us-news/2026/oct/29/hegseth-fires-general-leak-inquiry-pentagon",
+   "at": "2026-10-29T22:01:56.000Z",
+   "ev": [],
+   "cc": [
+    "United States"
+   ]
+  },
+  {
+   "id": "114b09fa2de8",
+   "t": "Israel bans travel for Brad Lander after detention in occupied West Bank",
+   "ko": "이스라엘, 서안지구 구금 후 브래드 랜더 여행 금지",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/video/newsfeed/2026/10/29/israel-bans-travel-for-brad-lander-after-detention-in-occupied-west-bank?traffic_source=rss",
+   "at": "2026-10-29T21:10:13.000Z",
+   "ev": [
+    "westbank"
+   ],
+   "cc": [
+    "Israel",
+    "Palestine",
+    "United States"
+   ]
+  },
+  {
+   "id": "504788c106f8",
+   "t": "Patrick Stewart, Star Trek actor and acclaimed thespian, dies aged 86",
+   "ko": "스타트렉 배우이자 영화배우 패트릭 스튜어트가 86세의 나이로 사망했습니다.",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/culture/2026/oct/29/patrick-stewart-dead",
+   "at": "2026-10-29T21:02:36.000Z",
+   "ev": [],
+   "cc": []
+  },
+  {
+   "id": "415bb2ea4752",
+   "t": "Palestinians injured, arrested in Israeli raids across West Bank",
+   "ko": "이스라엘의 서안지구 공습으로 팔레스타인인 부상, 체포",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/10/29/palestinians-injured-arrested-in-israeli-raids-across-west-bank?traffic_source=rss",
+   "at": "2026-10-29T20:40:03.000Z",
+   "ev": [
+    "westbank"
+   ],
+   "cc": [
+    "Israel",
+    "Palestine"
+   ]
+  },
+  {
+   "id": "32fc73a1f7bc",
+   "t": "'The city is alive': A brief peace in Kherson, but residents fear what comes next",
+   "ko": "'도시는 살아있다': 케르손에 잠시 평화가 찾아왔지만 주민들은 다음에 무슨 일이 일어날지 두려워합니다.",
+   "src": "BBC",
+   "u": "https://www.bbc.co.uk/news/articles/ck1l393pyrylo?at_medium=RSS&at_campaign=rss",
+   "at": "2026-10-29T20:05:57.000Z",
+   "ev": [
+    "ukraine"
+   ],
+   "cc": []
+  },
+  {
+   "id": "d1ff6d7e943c",
+   "t": "What killed 500-plus penguins? How scientists solved the mystery",
+   "ko": "500마리가 넘는 펭귄이 죽은 이유는 무엇입니까? 과학자들이 미스터리를 해결한 방법",
+   "src": "NPR",
+   "u": "https://www.npr.org/2026/10/29/nx-s1-6020451/avian-flu-penguins-pathogen-antarctica-cholera",
+   "at": "2026-10-29T20:03:26.000Z",
+   "ev": [],
+   "cc": []
+  },
+  {
+   "id": "da98c9e6b1e7",
+   "t": "'Extremist right-wing ideologies' an increasing threat in France & 'across much of democratic world'",
+   "ko": "'극단주의 우익 이데올로기', 프랑스와 '민주주의 세계 전반에 걸쳐' 위협 증가",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/video/20261029-extremist-right-wing-ideologies-an-increasing-threat-in-france-across-much-of-democratic-world",
+   "at": "2026-10-29T20:02:03.000Z",
+   "ev": [],
+   "cc": [
+    "France"
+   ]
+  },
   {
    "id": "d5fa3e1950df",
    "t": "Netanyahu attacks Palestinian-Israeli parties as he falls short of majority",
@@ -70,6 +157,18 @@
    "cc": [
     "Iran",
     "Ukraine"
+   ]
+  },
+  {
+   "id": "176ae4c48f20",
+   "t": "French shooting suspect deliberately targeted Muslims, Africans",
+   "ko": "무슬림과 아프리카인을 고의로 겨냥한 프랑스 총격 용의자",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/video/20261029-french-shooting-suspect-deliberately-targeted-muslims-africans",
+   "at": "2026-10-29T18:45:57.000Z",
+   "ev": [],
+   "cc": [
+    "France"
    ]
   },
   {
@@ -456,6 +555,39 @@
    "cc": [
     "Russia",
     "Ukraine"
+   ]
+  },
+  {
+   "id": "8d958a4733bc",
+   "t": "Myanmar’s illicit economy fuels escalating violence, with civilians bearing the brunt",
+   "ko": "미얀마의 불법 경제는 폭력 사태를 부채질하고 있으며, 그 피해는 민간인에게 있습니다.",
+   "src": "UN News",
+   "u": "https://news.un.org/feed/view/en/story/2026/10/1168705",
+   "at": "2026-10-29T12:00:00.000Z",
+   "ev": [
+    "myanmar"
+   ],
+   "cc": [
+    "Myanmar"
+   ]
+  },
+  {
+   "id": "b06e115d93ff",
+   "t": "World News in Brief: 5 children killed in Sudan, Haiti hunger emergency, Yemen war update",
+   "ko": "세계 뉴스 요약: 수단에서 어린이 5명 사망, 아이티 기아 긴급 상황, 예멘 전쟁 업데이트",
+   "src": "UN News",
+   "u": "https://news.un.org/feed/view/en/story/2026/10/1168703",
+   "at": "2026-10-29T12:00:00.000Z",
+   "ev": [
+    "sudan",
+    "darfur",
+    "yemen",
+    "haiti"
+   ],
+   "cc": [
+    "Sudan",
+    "Haiti",
+    "Yemen"
    ]
   },
   {
@@ -1841,239 +1973,6 @@
    ],
    "cc": [
     "Palestine"
-   ]
-  },
-  {
-   "id": "960a68439485",
-   "t": "‘Shameful’: Alex Pretti parents accuse Trump officials of shielding son’s killers",
-   "ko": "'부끄러운': Alex Pretti 부모는 트럼프 관리가 아들 살인범을 보호했다고 비난합니다.",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/us-news/2026/oct/27/alex-pretti-parents-son-killing",
-   "at": "2026-10-27T23:25:50.000Z",
-   "ev": [],
-   "cc": [
-    "United States"
-   ]
-  },
-  {
-   "id": "da9aa80012cd",
-   "t": "Trump shows off tanker with ‘1m barrels of oil’ and floats Venezuela as 51st state",
-   "ko": "트럼프, '100만 배럴의 석유' 실은 유조선 선보이고 베네수엘라를 51번째 주로 띄워",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/us-news/2026/oct/27/trump-oil-tanker-venezuela",
-   "at": "2026-10-27T23:07:06.000Z",
-   "ev": [],
-   "cc": [
-    "Venezuela",
-    "United States"
-   ]
-  },
-  {
-   "id": "67d3edf64e33",
-   "t": "Israel election: Netanyahu and Eisenkot battle to form government after deadlock",
-   "ko": "이스라엘 선거: 네타냐후와 아이젠코트가 교착상태 이후 정부 구성을 위해 전투를 벌이고 있습니다.",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/middle-east/20261027-israel-election-record-turnout-netanyahu-eisenkot-deadlock",
-   "at": "2026-10-27T22:58:53.000Z",
-   "ev": [],
-   "cc": [
-    "Israel"
-   ]
-  },
-  {
-   "id": "142764f66840",
-   "t": "Grand jury declines to indict ex-White House staffer who testified about January 6",
-   "ko": "대배심, 1월 6일 증언한 전 백악관 직원 기소 기각",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/us-news/2026/oct/27/cassidy-hutchinson-doj-indictment-trump",
-   "at": "2026-10-27T22:40:27.000Z",
-   "ev": [],
-   "cc": [
-    "United States"
-   ]
-  },
-  {
-   "id": "cf9b0941943d",
-   "t": "Trump, campaigning in Texas for Republicans, touts Iran war and ‘51st state’ Venezuela: ‘I knew that oil would go up’ – live",
-   "ko": "텍사스에서 공화당 선거운동 중인 트럼프, 이란 전쟁과 '51번째 국가' 베네수엘라 선전: '나는 유가가 오를 줄 알았습니다' - 라이브",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/us-news/live/2026/oct/27/comey-trump-rubio-texas-vance-israel-midterms-politics-latest-news-updates",
-   "at": "2026-10-27T22:39:07.000Z",
-   "ev": [
-    "iran"
-   ],
-   "cc": [
-    "United States",
-    "Iran",
-    "Venezuela"
-   ]
-  },
-  {
-   "id": "db2d0b0d604a",
-   "t": "Iran war live: Pezeshkian says Middle East can solve own issues without US",
-   "ko": "이란 전쟁 라이브: Pezeshkian은 중동이 미국 없이도 자체 문제를 해결할 수 있다고 말했습니다.",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/news/liveblog/2026/10/27/iran-war-live-pezeshkian-says-middle-east-can-solve-own-issues-without-us?traffic_source=rss",
-   "at": "2026-10-27T22:29:31.000Z",
-   "ev": [
-    "iran"
-   ],
-   "cc": [
-    "Iran",
-    "United States",
-    "Russia"
-   ]
-  },
-  {
-   "id": "4ce40386cade",
-   "t": "Ceasefire extended across Ukraine's Kherson region, officials say",
-   "ko": "우크라이나 헤르손 지역 전역에 휴전이 연장됐다고 관리들이 밝혔습니다.",
-   "src": "BBC",
-   "u": "https://www.bbc.co.uk/news/articles/c6lye1w9p2l8o?at_medium=RSS&at_campaign=rss",
-   "at": "2026-10-27T22:11:08.000Z",
-   "ev": [
-    "ukraine"
-   ],
-   "cc": [
-    "Ukraine",
-    "Russia"
-   ]
-  },
-  {
-   "id": "046ee3bc800a",
-   "t": "Trump touts Venezuelan oil at Texas rally ahead of US midterms",
-   "ko": "트럼프, 미국 중간선사 앞두고 텍사스 집회에서 베네수엘라 석유 선전",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/news/2026/10/27/trump-showcases-venezuelan-oil-as-he-seeks-to-rally-voters-in-texas?traffic_source=rss",
-   "at": "2026-10-27T21:28:33.000Z",
-   "ev": [
-    "iran"
-   ],
-   "cc": [
-    "Venezuela",
-    "United States",
-    "Iran"
-   ]
-  },
-  {
-   "id": "a67abe5a3b38",
-   "t": "Bibi's moment of truth: Israel votes in first general election since October 7",
-   "ko": "비비의 진실의 순간: 이스라엘이 10월 7일 이후 첫 총선에서 투표를 했습니다.",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/tv-shows/the-debate/20261027-bibi-s-moment-of-truth-israel-votes-in-first-general-election-since-october-7",
-   "at": "2026-10-27T21:26:10.000Z",
-   "ev": [],
-   "cc": [
-    "Israel"
-   ]
-  },
-  {
-   "id": "b7a23f70c96e",
-   "t": "Forever Wars: Why can’t America stop?",
-   "ko": "영원히 전쟁: 미국은 왜 멈출 수 없는가?",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/video/lets-focus/2026/10/27/forever-wars-why-cant-america-stop?traffic_source=rss",
-   "at": "2026-10-27T21:21:08.000Z",
-   "ev": [
-    "iran"
-   ],
-   "cc": [
-    "Iran",
-    "Iraq",
-    "Afghanistan"
-   ]
-  },
-  {
-   "id": "ec33971c6eb5",
-   "t": "Dream postponed: Hebron groom caught in Israeli military lockdown",
-   "ko": "연기된 꿈: 이스라엘 군 봉쇄에 잡힌 헤브론 신랑",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/news/2026/10/27/dream-postponed-hebron-groom-caught-in-israeli-military-lockdown?traffic_source=rss",
-   "at": "2026-10-27T21:12:27.000Z",
-   "ev": [
-    "westbank"
-   ],
-   "cc": [
-    "Israel",
-    "Palestine"
-   ]
-  },
-  {
-   "id": "2834adbdb5c9",
-   "t": "US says it killed five people in strike on alleged drug boat",
-   "ko": "미국, 마약선 공격으로 5명 사망",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/news/2026/10/27/us-says-it-killed-five-people-in-strike-on-alleged-drug-boat?traffic_source=rss",
-   "at": "2026-10-27T20:54:38.000Z",
-   "ev": [],
-   "cc": [
-    "United States"
-   ]
-  },
-  {
-   "id": "eaf6f6cabf1e",
-   "t": "What we know about Ukraine-Russia truce in Oleshky, brokered by Melania Trump",
-   "ko": "Melania Trump가 중개한 Oleshky의 우크라이나-러시아 휴전에 대해 우리가 알고 있는 것",
-   "src": "BBC",
-   "u": "https://www.bbc.co.uk/news/videos/c687z5ne1w4ro?at_medium=RSS&at_campaign=rss",
-   "at": "2026-10-27T20:42:38.000Z",
-   "ev": [
-    "ukraine"
-   ],
-   "cc": []
-  },
-  {
-   "id": "f33d1fcdb365",
-   "t": "Olivia Chow elected as Toronto mayor for second term in victory for progressives",
-   "ko": "올리비아 차우(Olivia Chow), 진보주의자들의 승리로 토론토 시장으로 2선 당선",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/world/2026/oct/27/olivia-chow-toronto-mayor-election-results",
-   "at": "2026-10-27T20:23:46.000Z",
-   "ev": [],
-   "cc": [
-    "Canada"
-   ]
-  },
-  {
-   "id": "3140916c3637",
-   "t": "Tanzania’s jailed opposition leader Tundu Lissu ends brief hunger strike",
-   "ko": "투옥된 탄자니아 야당 지도자 툰두 리수(Tundu Lissu)가 단식투쟁을 종료했습니다.",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/news/2026/10/27/tanzanias-jailed-opposition-leader-tundu-lissu-ends-brief-hunger-strike?traffic_source=rss",
-   "at": "2026-10-27T20:00:46.000Z",
-   "ev": [],
-   "cc": [
-    "Tanzania"
-   ]
-  },
-  {
-   "id": "f86b49b18c39",
-   "t": "Legacy of 7 October looms large as a divided Israel goes to the polls in record numbers",
-   "ko": "분열된 이스라엘이 기록적인 숫자로 투표에 참여함에 따라 10월 7일의 유산이 커질 것입니다.",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/world/2026/oct/27/legacy-of-7-october-looms-large-as-a-divided-israel-goes-to-the-polls-in-record-numbers",
-   "at": "2026-10-27T19:47:03.000Z",
-   "ev": [
-    "gaza"
-   ],
-   "cc": [
-    "Israel",
-    "Palestine"
-   ]
-  },
-  {
-   "id": "bcd616ef68d3",
-   "t": "Netanyahu govt has 'attacked' Israeli judicial system, Supreme Court and democratic institutions",
-   "ko": "네타냐후 정부는 이스라엘 사법 시스템, 대법원, 민주 기관을 '공격'했습니다.",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/netanyahu-govt-has-attacked-israeli-judicial-system-supreme-court-and-democratic-institutions",
-   "at": "2026-10-27T19:44:07.000Z",
-   "ev": [
-    "iran"
-   ],
-   "cc": [
-    "Israel",
-    "Iran"
    ]
   }
  ]
