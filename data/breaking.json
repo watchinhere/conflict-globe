@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-30T09:51:52.652Z",
+ "updated": "2026-10-30T16:42:00.120Z",
  "sources": {
   "BBC": {
    "ok": true,
@@ -7,30 +7,510 @@
   },
   "Al Jazeera": {
    "ok": true,
-   "n": 6
+   "n": 10
   },
   "The Guardian": {
    "ok": true,
-   "n": 16
+   "n": 15
   },
   "DW": {
    "ok": true,
-   "n": 3
+   "n": 1
   },
   "France 24": {
    "ok": true,
-   "n": 9
+   "n": 13
   },
   "UN News": {
    "ok": true,
-   "n": 7
+   "n": 5
   },
   "NPR": {
    "ok": true,
-   "n": 4
+   "n": 5
   }
  },
  "items": [
+  {
+   "id": "0bfee1df2159",
+   "t": "Star Wars: Has Russia's war with Ukraine gone intergalactic?",
+   "ko": null,
+   "src": "France 24",
+   "u": "https://www.france24.com/en/europe/20261030-star-wars-has-russias-war-with-ukraine-gone-intergalactic",
+   "at": "2026-10-30T16:29:01.000Z",
+   "ev": [
+    "ukraine"
+   ],
+   "cc": [
+    "Russia",
+    "Ukraine",
+    "United States"
+   ]
+  },
+  {
+   "id": "2ec54ff601cb",
+   "t": "Ceasefire allows evacuation from devastated Russian-occupied Oleshky",
+   "ko": null,
+   "src": "BBC",
+   "u": "https://www.bbc.co.uk/news/articles/c60me298k1yeo?at_medium=RSS&at_campaign=rss",
+   "at": "2026-10-30T16:26:11.000Z",
+   "ev": [],
+   "cc": []
+  },
+  {
+   "id": "a39732bd0f6d",
+   "t": "French port strikes: Unions 'will get better working conditions', but can they curb militarisation?",
+   "ko": null,
+   "src": "France 24",
+   "u": "https://www.france24.com/en/video/20261030-french-port-strikes-unions-will-get-better-working-conditions-but-can-they-curb-militarization-1",
+   "at": "2026-10-30T16:20:38.000Z",
+   "ev": [],
+   "cc": [
+    "France"
+   ]
+  },
+  {
+   "id": "b75c11e31a8e",
+   "t": "How do we make new economic ideas a reality? – Aditya Chakrabortty answered your questions",
+   "ko": null,
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/community/live/2026/oct/29/reader-qa-aditya-chakrabortty-answers-your-questions",
+   "at": "2026-10-30T16:18:12.000Z",
+   "ev": [],
+   "cc": []
+  },
+  {
+   "id": "76669f692058",
+   "t": "War in Ukraine: Evacuations under way in Russian-occupied Oleshky",
+   "ko": null,
+   "src": "France 24",
+   "u": "https://www.france24.com/en/video/20261030-war-in-ukraine-evacuations-under-way-in-russian-occupied-oleshky",
+   "at": "2026-10-30T16:01:43.000Z",
+   "ev": [
+    "ukraine"
+   ],
+   "cc": [
+    "Ukraine"
+   ]
+  },
+  {
+   "id": "57e0cc4186dd",
+   "t": "Pope Leo votes in US midterms in first known political ballot for any pontiff",
+   "ko": null,
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/world/2026/oct/30/pope-leo-votes-us-midterms-first-political-ballot-pontiff",
+   "at": "2026-10-30T16:01:21.000Z",
+   "ev": [],
+   "cc": [
+    "United States"
+   ]
+  },
+  {
+   "id": "21860022f580",
+   "t": "Business secretary says UK needs to understand direction of EU before signing up to closer relationship – UK politics live",
+   "ko": null,
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/politics/live/2026/oct/30/andy-burnham-labour-conservatives-devolution-scotland-wales-latest-news-updates",
+   "at": "2026-10-30T15:59:07.000Z",
+   "ev": [],
+   "cc": [
+    "United Kingdom"
+   ]
+  },
+  {
+   "id": "38b4a8e927c8",
+   "t": "Russian society being ‘systematically crushed’ says Novaya Gazeta as newspaper announces closure",
+   "ko": null,
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/world/2026/oct/30/novaya-gazeta-russia-independent-newspaper-to-close",
+   "at": "2026-10-30T15:52:51.000Z",
+   "ev": [],
+   "cc": [
+    "Russia"
+   ]
+  },
+  {
+   "id": "695ed9dd7549",
+   "t": "French crowd gathers for anti-islamophobia rally in Paris suburb after attack",
+   "ko": null,
+   "src": "France 24",
+   "u": "https://www.france24.com/en/video/20261030-french-crowd-gathers-for-anti-islamophobia-rally-in-paris-suburb-after-attack",
+   "at": "2026-10-30T15:51:50.000Z",
+   "ev": [],
+   "cc": [
+    "France"
+   ]
+  },
+  {
+   "id": "52e15024a7ee",
+   "t": "Jerusalem Daily: Israel’s siege on Hebron displaces thousands",
+   "ko": null,
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/video/newsfeed/2026/10/30/jerusalem-daily-israels-siege-on-hebron-displaces-thousands?traffic_source=rss",
+   "at": "2026-10-30T15:50:23.000Z",
+   "ev": [
+    "gaza",
+    "westbank"
+   ],
+   "cc": [
+    "Israel",
+    "Palestine"
+   ]
+  },
+  {
+   "id": "cf1d8a6a449a",
+   "t": "Son in custody after Oberlin professor dad and stepmother shot dead in Ohio",
+   "ko": null,
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/us-news/2026/oct/30/oberlin-college-professor-shooting",
+   "at": "2026-10-30T15:42:30.000Z",
+   "ev": [],
+   "cc": []
+  },
+  {
+   "id": "e3d6064bf8b2",
+   "t": "Biggest hack in history: Cryptocurrency giant Binance loses $6.3 billion",
+   "ko": null,
+   "src": "France 24",
+   "u": "https://www.france24.com/en/video/20261030-biggest-hack-in-history-cryptocurrency-giant-binance-loses-6-3-billion",
+   "at": "2026-10-30T15:34:46.000Z",
+   "ev": [],
+   "cc": [
+    "North Korea",
+    "United States"
+   ]
+  },
+  {
+   "id": "4f710221c62a",
+   "t": "Midterms 2026: The former neo-Nazi pastor speaking out against Trump",
+   "ko": null,
+   "src": "France 24",
+   "u": "https://www.france24.com/en/video/20261030-midterms-2026-the-former-neo-nazi-pastor-speaking-out-against-trump",
+   "at": "2026-10-30T15:34:09.000Z",
+   "ev": [],
+   "cc": [
+    "United States"
+   ]
+  },
+  {
+   "id": "25108ea3d047",
+   "t": "Israeli election: 'Netanyahu did not win, he lost dramatically,' former PM Barak says",
+   "ko": null,
+   "src": "France 24",
+   "u": "https://www.france24.com/en/tv-shows/t%C3%AAte-%C3%A0-t%C3%AAte/20261030-israeli-election-netanyahu-did-not-win-he-lost-dramatically-former-pm-barak-says",
+   "at": "2026-10-30T15:34:03.000Z",
+   "ev": [
+    "iran"
+   ],
+   "cc": [
+    "Israel",
+    "Iran"
+   ]
+  },
+  {
+   "id": "2ea641cb1cf1",
+   "t": "'Deeply hurt': Convicted murderer Christa Pike speaks out after botched execution",
+   "ko": null,
+   "src": "France 24",
+   "u": "https://www.france24.com/en/americas/20261030-deeply-hurt-convicted-murderer-christa-pike-speaks-out-after-botched-execution",
+   "at": "2026-10-30T15:29:10.000Z",
+   "ev": [],
+   "cc": []
+  },
+  {
+   "id": "47b1a47c3172",
+   "t": "‘Need a Plan B’: Yemenis in Aden prepare for another war as missiles fall",
+   "ko": null,
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/10/30/need-a-plan-b-yemenis-in-aden-prepare-for-another-war-as-missiles-fall?traffic_source=rss",
+   "at": "2026-10-30T15:26:00.000Z",
+   "ev": [
+    "yemen"
+   ],
+   "cc": []
+  },
+  {
+   "id": "6e4fb3b4a22f",
+   "t": "Democratic senator blames Egypt press crackdown on US military aid decision",
+   "ko": null,
+   "src": "BBC",
+   "u": "https://www.bbc.co.uk/news/articles/c63r529wn2vzo?at_medium=RSS&at_campaign=rss",
+   "at": "2026-10-30T15:17:11.000Z",
+   "ev": [],
+   "cc": [
+    "Egypt",
+    "United States"
+   ]
+  },
+  {
+   "id": "cf81f7dd7d2c",
+   "t": "Six dead after helicopter crashes in northern Indian state",
+   "ko": null,
+   "src": "BBC",
+   "u": "https://www.bbc.co.uk/news/articles/cr93zxyn9eqeo?at_medium=RSS&at_campaign=rss",
+   "at": "2026-10-30T15:06:05.000Z",
+   "ev": [],
+   "cc": []
+  },
+  {
+   "id": "acc46978d3e5",
+   "t": "Israeli forces blow up homes of Palestinians accused of killing soldiers",
+   "ko": null,
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/video/newsfeed/2026/10/30/israeli-forces-blow-up-homes-of-palestinians-accused-of-killing-soldiers?traffic_source=rss",
+   "at": "2026-10-30T15:06:00.000Z",
+   "ev": [
+    "westbank"
+   ],
+   "cc": [
+    "Israel"
+   ]
+  },
+  {
+   "id": "2a7e38a59202",
+   "t": "Spain transport minister says he won't resign over high-speed rail disaster",
+   "ko": null,
+   "src": "BBC",
+   "u": "https://www.bbc.co.uk/news/articles/c6zxj2e5qlxxo?at_medium=RSS&at_campaign=rss",
+   "at": "2026-10-30T15:03:39.000Z",
+   "ev": [],
+   "cc": [
+    "Spain"
+   ]
+  },
+  {
+   "id": "46feefc25634",
+   "t": "Cost of living protests to spread to Germany and reignite in France on Halloween",
+   "ko": null,
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/world/2026/oct/30/cost-of-living-protests-to-spread-to-germany-and-reignite-in-france-on-halloween",
+   "at": "2026-10-30T14:42:46.000Z",
+   "ev": [],
+   "cc": [
+    "Germany",
+    "France",
+    "Italy"
+   ]
+  },
+  {
+   "id": "c201eb216af5",
+   "t": "Senators briefed on Trump’s ‘insane’ plan to restart war on Iran",
+   "ko": null,
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/video/newsfeed/2026/10/30/senators-briefed-on-trumps-insane-plan-to-restart-war-on-iran-2?traffic_source=rss",
+   "at": "2026-10-30T14:40:19.000Z",
+   "ev": [
+    "iran"
+   ],
+   "cc": [
+    "Iran"
+   ]
+  },
+  {
+   "id": "23802c72f556",
+   "t": "France braces for new wave of protests, govt warns of 'very high' violence risk",
+   "ko": null,
+   "src": "France 24",
+   "u": "https://www.france24.com/en/video/20261030-france-braces-for-new-wave-of-protests-govt-warns-of-very-high-violence-risk",
+   "at": "2026-10-30T14:35:37.000Z",
+   "ev": [],
+   "cc": [
+    "France"
+   ]
+  },
+  {
+   "id": "5119574f5b13",
+   "t": "Russian, Ukrainian humanitarian officials enter Oleshky",
+   "ko": null,
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/video/newsfeed/2026/10/30/russian-ukrainian-humanitarian-officials-enter-oleshky?traffic_source=rss",
+   "at": "2026-10-30T14:19:49.000Z",
+   "ev": [
+    "ukraine"
+   ],
+   "cc": [
+    "Russia",
+    "Ukraine"
+   ]
+  },
+  {
+   "id": "1ce78d6012f8",
+   "t": "Ethnic cleansing fears rise as Israel squeezes space in Gaza: UN",
+   "ko": null,
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/10/30/ethnic-cleansing-fears-rise-as-israel-squeezes-space-in-gaza-un?traffic_source=rss",
+   "at": "2026-10-30T14:18:07.000Z",
+   "ev": [
+    "gaza"
+   ],
+   "cc": [
+    "Israel",
+    "Palestine"
+   ]
+  },
+  {
+   "id": "b4178af5d717",
+   "t": "Spain’s trust in high-speed rail ‘broken’ after second deadly crash this year, says PM",
+   "ko": null,
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/world/2026/oct/30/spain-trust-high-speed-rail-broken-after-second-deadly-crash-this-year-says-pedro-sanchez",
+   "at": "2026-10-30T14:13:52.000Z",
+   "ev": [],
+   "cc": [
+    "Spain"
+   ]
+  },
+  {
+   "id": "58599916894d",
+   "t": "Third weekend of protests looms as tensions persist across France",
+   "ko": null,
+   "src": "France 24",
+   "u": "https://www.france24.com/en/video/20261030-third-weekend-of-protests-looms-as-tensions-persist-across-france",
+   "at": "2026-10-30T14:10:52.000Z",
+   "ev": [],
+   "cc": [
+    "France"
+   ]
+  },
+  {
+   "id": "f551b74e1bfc",
+   "t": "Who is Kevin T., the main suspect behind the racist Trappes attack?",
+   "ko": null,
+   "src": "France 24",
+   "u": "https://www.france24.com/en/who-is-kevin-t-the-main-suspect-behind-the-racist-trappes-attack",
+   "at": "2026-10-30T14:06:25.000Z",
+   "ev": [],
+   "cc": [
+    "France"
+   ]
+  },
+  {
+   "id": "8e0a91968989",
+   "t": "Georgia's European dream left in limbo",
+   "ko": null,
+   "src": "France 24",
+   "u": "https://www.france24.com/en/tv-shows/revisited/20261030-georgia-s-european-dream-left-in-limbo",
+   "at": "2026-10-30T13:34:51.000Z",
+   "ev": [],
+   "cc": [
+    "Georgia"
+   ]
+  },
+  {
+   "id": "2a213ec588a0",
+   "t": "Palestinian child survives Israeli gunshot to the head",
+   "ko": null,
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/video/newsfeed/2026/10/30/palestinian-child-survives-israeli-gunshot-to-the-head?traffic_source=rss",
+   "at": "2026-10-30T13:32:24.000Z",
+   "ev": [],
+   "cc": [
+    "Palestine",
+    "Israel"
+   ]
+  },
+  {
+   "id": "8ffb2f79549e",
+   "t": "Italy tightens security as students, unions launch nationwide protests",
+   "ko": null,
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/10/30/italy-tightens-security-as-students-unions-launch-nationwide-protests?traffic_source=rss",
+   "at": "2026-10-30T13:14:11.000Z",
+   "ev": [],
+   "cc": [
+    "Italy"
+   ]
+  },
+  {
+   "id": "f3464fbd91b7",
+   "t": "🔴 Ukraine war live: Russian strikes leave 200,000 without power in Ukraine's Dnipropetrovsk region",
+   "ko": null,
+   "src": "France 24",
+   "u": "https://www.france24.com/en/europe/20261030-live-russia-strikes-energy-facilities-kyiv-aid-convoy-heads-besieged-town-oleshky-ukraine",
+   "at": "2026-10-30T12:59:30.000Z",
+   "ev": [
+    "ukraine"
+   ],
+   "cc": [
+    "Ukraine",
+    "Russia"
+   ]
+  },
+  {
+   "id": "729e1d4cac74",
+   "t": "Gulf states must rethink trillion-dollar defence in light of US-Iran war, says report",
+   "ko": null,
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/world/2026/oct/30/gulf-states-rethink-trillion-dollar-defence-us-iran-war-iiss-report",
+   "at": "2026-10-30T12:49:56.000Z",
+   "ev": [
+    "iran"
+   ],
+   "cc": [
+    "United States",
+    "Iran",
+    "United Arab Emirates"
+   ]
+  },
+  {
+   "id": "5fcd613b303b",
+   "t": "Qatari officials in Iran in bid to revive ceasefire deal with US",
+   "ko": null,
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/10/30/qatari-officials-in-iran-in-bid-to-revive-ceasefire-deal-with-us?traffic_source=rss",
+   "at": "2026-10-30T12:26:56.000Z",
+   "ev": [
+    "iran"
+   ],
+   "cc": [
+    "Iran",
+    "United States"
+   ]
+  },
+  {
+   "id": "bbe903297a1e",
+   "t": "UN rights office warns of deepening displacement ‘nightmare’ in Gaza",
+   "ko": null,
+   "src": "UN News",
+   "u": "https://news.un.org/feed/view/en/story/2026/10/1168707",
+   "at": "2026-10-30T12:00:00.000Z",
+   "ev": [
+    "gaza"
+   ],
+   "cc": [
+    "Palestine",
+    "Israel"
+   ]
+  },
+  {
+   "id": "7eb60cb784d1",
+   "t": "Yemen war makes reaching assistance too dangerous for many",
+   "ko": null,
+   "src": "UN News",
+   "u": "https://news.un.org/feed/view/en/story/2026/10/1168706",
+   "at": "2026-10-30T12:00:00.000Z",
+   "ev": [
+    "yemen"
+   ],
+   "cc": [
+    "Yemen"
+   ]
+  },
+  {
+   "id": "3be2509dcc2d",
+   "t": "Alaska's Senate race faces claims of spoiler candidate. And, Hegseth ousts Army general",
+   "ko": null,
+   "src": "NPR",
+   "u": "https://www.npr.org/2026/10/30/g-s1-150889/up-first-newsletter-midterm-elections-iran-war-veteran-affairs-loans",
+   "at": "2026-10-30T11:20:26.000Z",
+   "ev": [
+    "iran"
+   ],
+   "cc": [
+    "United States",
+    "Iran"
+   ]
+  },
   {
    "id": "b5e59cd98268",
    "t": "Russian oil refinery struck as Ukraine renews drone attacks",
@@ -44,18 +524,6 @@
    "cc": [
     "Russia",
     "Ukraine"
-   ]
-  },
-  {
-   "id": "38b4a8e927c8",
-   "t": "Russian newspaper Novaya Gazeta to close, citing pressure from ‘special services’",
-   "ko": "러시아 일간지 노바야 가제타(Novaya Gazeta), '특별 서비스' 압박 이유로 폐간",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/world/2026/oct/30/novaya-gazeta-russia-independent-newspaper-to-close",
-   "at": "2026-10-30T09:05:21.000Z",
-   "ev": [],
-   "cc": [
-    "Russia"
    ]
   },
   {
@@ -151,21 +619,6 @@
    ],
    "cc": [
     "Iran"
-   ]
-  },
-  {
-   "id": "f3464fbd91b7",
-   "t": "Ukraine war live: Russia strikes Kyiv as aid convoy heads for stricken town of Oleshky",
-   "ko": "우크라이나 전쟁 라이브: 러시아가 피해를 입은 올레스키(Oleshky) 마을로 향하는 구호 호송대와 함께 키예프를 공격합니다.",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/europe/20261030-live-russia-strikes-energy-facilities-kyiv-aid-convoy-heads-besieged-town-oleshky-ukraine",
-   "at": "2026-10-30T07:28:16.000Z",
-   "ev": [
-    "ukraine"
-   ],
-   "cc": [
-    "Ukraine",
-    "Russia"
    ]
   },
   {
@@ -1659,468 +2112,6 @@
    ],
    "cc": [
     "Sudan"
-   ]
-  },
-  {
-   "id": "0ba0353f4c0c",
-   "t": "Evacuation from Oleshky: How are preparations going?",
-   "ko": "Oleshky 대피: 준비는 어떻게 진행되고 있나요?",
-   "src": "DW",
-   "u": "https://www.dw.com/en/evacuation-from-oleshky-how-are-preparations-going/a-79790001?maca=en-rss-en-world-4025-rdf",
-   "at": "2026-10-28T17:04:00.000Z",
-   "ev": [
-    "ukraine"
-   ],
-   "cc": [
-    "Ukraine"
-   ]
-  },
-  {
-   "id": "dd6bd0bc42a4",
-   "t": "Second fatal train collision this year casts doubt over Spain’s high-speed rail network",
-   "ko": "올해 두 번째 치명적인 열차 충돌로 스페인의 고속철도 네트워크에 대한 의문이 제기되었습니다.",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/world/2026/oct/28/analysis-fatal-collision-doubt-over-spain-high-speed-rail",
-   "at": "2026-10-28T16:56:46.000Z",
-   "ev": [],
-   "cc": [
-    "Spain",
-    "China"
-   ]
-  },
-  {
-   "id": "610e0521d6ab",
-   "t": "Israel election: What impact on Iran as the war in the Middle East continues?",
-   "ko": "이스라엘 선거: 중동 전쟁이 계속되면서 이란에 어떤 영향을 미칠까요?",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/video/20261028-israel-election-what-impact-on-iran-as-the-war-in-the-middle-east-continues",
-   "at": "2026-10-28T16:54:33.000Z",
-   "ev": [
-    "iran"
-   ],
-   "cc": [
-    "Israel",
-    "Iran",
-    "France"
-   ]
-  },
-  {
-   "id": "f2f64f3dab80",
-   "t": "France: Racist attack in Trappes deeply scars local community",
-   "ko": "프랑스: 트라페스에서의 인종차별 공격으로 지역사회에 깊은 상처를 입다",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/video/20261028-france-racist-attack-in-trappes-deeply-scars-local-community",
-   "at": "2026-10-28T16:53:01.000Z",
-   "ev": [],
-   "cc": [
-    "France"
-   ]
-  },
-  {
-   "id": "7ba98b8bc8bd",
-   "t": "One year on, families seek justice after election violence",
-   "ko": "1년 후, 가족들은 선거 폭력 이후 정의를 추구합니다",
-   "src": "DW",
-   "u": "https://www.dw.com/en/one-year-on-families-seek-justice-after-election-violence/a-79779105?maca=en-rss-en-world-4025-rdf",
-   "at": "2026-10-28T16:30:00.000Z",
-   "ev": [],
-   "cc": [
-    "Tanzania"
-   ]
-  },
-  {
-   "id": "ecdb3f0509ac",
-   "t": "Ethiopia clashes push 50,000 to flee to Kenya",
-   "ko": "에티오피아 충돌로 5만명이 케냐로 피신",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/africa/20261028-ethiopia-clashes-push-50-000-flee-to-kenya",
-   "at": "2026-10-28T16:29:54.000Z",
-   "ev": [
-    "ethiopia"
-   ],
-   "cc": [
-    "Ethiopia",
-    "Kenya"
-   ]
-  },
-  {
-   "id": "08ba6c714c38",
-   "t": "Spain: PM Sanchez gives speech on train collision",
-   "ko": "스페인: 산체스 총리, 열차 충돌에 대해 연설",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/spain-pm-sanchez-gives-speech-on-train-collision",
-   "at": "2026-10-28T16:29:46.000Z",
-   "ev": [],
-   "cc": [
-    "Spain"
-   ]
-  },
-  {
-   "id": "7af4b270020d",
-   "t": "Kremlin says European countries not included in next Ukraine talks",
-   "ko": "크렘린 \"차기 우크라이나 회담에 유럽 국가는 포함되지 않는다\"",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/news/2026/10/28/kremlin-says-european-countries-not-included-in-next-ukraine-talks?traffic_source=rss",
-   "at": "2026-10-28T16:12:02.000Z",
-   "ev": [
-    "ukraine"
-   ],
-   "cc": [
-    "Ukraine",
-    "United Kingdom",
-    "Netherlands"
-   ]
-  },
-  {
-   "id": "7caac019fb20",
-   "t": "Israeli soldier visiting UK faces war crimes complaint",
-   "ko": "영국 방문 이스라엘 군인, 전쟁 범죄로 고소당하다",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/news/2026/10/28/israeli-soldier-visiting-uk-faces-war-crimes-complaint?traffic_source=rss",
-   "at": "2026-10-28T16:06:17.000Z",
-   "ev": [],
-   "cc": [
-    "Israel",
-    "United Kingdom"
-   ]
-  },
-  {
-   "id": "896382a40615",
-   "t": "What would a new Israeli government mean for Arab neighbors? More of the same is expected, with some small positives predicted.",
-   "ko": "새로운 이스라엘 정부는 아랍 이웃들에게 무엇을 의미할까요? 약간의 긍정적인 결과가 예측되면서 더 많은 것이 예상됩니다.",
-   "src": "DW",
-   "u": "https://www.dw.com/en/what-would-a-new-israeli-government-mean-for-arab-neighbors-more-of-the-same-is-expected-with-some-small-positives-predicted/a-79788174?maca=en-rss-en-world-4025-rdf",
-   "at": "2026-10-28T16:03:00.000Z",
-   "ev": [
-    "lebanon",
-    "syria"
-   ],
-   "cc": [
-    "Israel",
-    "Palestine",
-    "Lebanon"
-   ]
-  },
-  {
-   "id": "be1d3ead455a",
-   "t": "In Serbia, a new type of democracy is taking hold, and Europe is watching closely",
-   "ko": "세르비아에서는 새로운 유형의 민주주의가 자리잡고 있으며, 유럽은 이를 면밀히 지켜보고 있습니다.",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/world/2026/oct/28/in-serbia-a-new-type-of-democracy-is-taking-hold-and-europe-is-watching-closely",
-   "at": "2026-10-28T15:45:06.000Z",
-   "ev": [],
-   "cc": [
-    "Serbia",
-    "France"
-   ]
-  },
-  {
-   "id": "5c6b193a8561",
-   "t": "‘A pretty grim picture’: outlook for UK living standards slashed despite Healey’s budget",
-   "ko": "'매우 암울한 그림': Healey의 예산에도 불구하고 영국 생활 수준 전망이 삭감되었습니다.",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/business/2026/oct/28/obr-slashes-uk-growth-forecast-for-2027-despite-healey-budget-measures",
-   "at": "2026-10-28T15:40:42.000Z",
-   "ev": [],
-   "cc": [
-    "United Kingdom"
-   ]
-  },
-  {
-   "id": "91559bca2245",
-   "t": "Israeli election: Lebanon expects little change in Israeli policy",
-   "ko": "이스라엘 선거: 레바논은 이스라엘 정책에 거의 변화가 없을 것으로 예상합니다.",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/video/20261028-israeli-election-lebanon-expects-little-change-in-israeli-policy",
-   "at": "2026-10-28T15:36:07.000Z",
-   "ev": [
-    "lebanon"
-   ],
-   "cc": [
-    "Israel",
-    "Lebanon",
-    "France"
-   ]
-  },
-  {
-   "id": "ef7c5b2d276d",
-   "t": "Father grieving 6 children wants Pastor Mackenzie ‘locked away for life’",
-   "ko": "6명의 자녀를 잃은 아버지, 매켄지 목사에게 '평생 감금' 원해",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/video/newsfeed/2026/10/28/father-grieving-6-children-wants-pastor-mackenzie-locked-away?traffic_source=rss",
-   "at": "2026-10-28T15:17:48.000Z",
-   "ev": [],
-   "cc": []
-  },
-  {
-   "id": "2039ae8d6ec5",
-   "t": "Israel election: what we know so far",
-   "ko": "이스라엘 선거: 지금까지 우리가 알고 있는 것",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/world/2026/oct/28/israel-election-results-what-we-know-so-far-ntwnfb",
-   "at": "2026-10-28T15:08:58.000Z",
-   "ev": [
-    "iran"
-   ],
-   "cc": [
-    "Israel",
-    "Palestine",
-    "Iran"
-   ]
-  },
-  {
-   "id": "031ea03b95bd",
-   "t": "Spain: Dozens killed after one high-speed train slams into another",
-   "ko": "스페인: 고속열차가 다른 고속열차와 충돌해 수십 명이 사망",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/video/20261028-spain-dozens-killed-after-one-high-speed-train-slams-into-another",
-   "at": "2026-10-28T14:34:15.000Z",
-   "ev": [],
-   "cc": [
-    "Spain",
-    "France"
-   ]
-  },
-  {
-   "id": "a9b13c159c50",
-   "t": "Is Iran headed to war or peace after Mecca alliance meeting?",
-   "ko": "이란은 메카 동맹 회담 이후 전쟁으로 향할 것인가, 아니면 평화로 향할 것인가?",
-   "src": "DW",
-   "u": "https://www.dw.com/en/is-iran-headed-to-war-or-peace-after-mecca-alliance-meeting/a-79788256?maca=en-rss-en-world-4025-rdf",
-   "at": "2026-10-28T14:20:00.000Z",
-   "ev": [
-    "iran"
-   ],
-   "cc": [
-    "Iran",
-    "Saudi Arabia",
-    "Pakistan"
-   ]
-  },
-  {
-   "id": "73a6520b75a6",
-   "t": "Egypt fines prominent editor Lina Attalah and shuts independent news outlet Mada Masr",
-   "ko": "이집트, 저명한 편집자 Lina Attalah에게 벌금을 부과하고 독립 뉴스 매체 Mada Masr를 폐쇄",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/world/2026/oct/28/egypt-lina-attalah-mada-masr-press-freedom-clampdown",
-   "at": "2026-10-28T14:16:24.000Z",
-   "ev": [],
-   "cc": [
-    "Egypt"
-   ]
-  },
-  {
-   "id": "94850f08e8ce",
-   "t": "West Bank: settlers using drones to monitor Palestinians",
-   "ko": "서안지구: 정착민들이 팔레스타인인들을 감시하기 위해 드론을 사용함",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/tv-shows/the-observers/20261028-west-bank-settlers-using-drones-to-monitor-palestinians",
-   "at": "2026-10-28T13:39:26.000Z",
-   "ev": [
-    "westbank"
-   ],
-   "cc": [
-    "Palestine",
-    "Israel"
-   ]
-  },
-  {
-   "id": "2b5190d25efa",
-   "t": "US teen whose father arranged her marriage to Islamic State fighter convicted for weapons training",
-   "ko": "무기 훈련 혐의로 유죄 판결을 받은 IS 전사와 결혼 주선한 아버지를 둔 미국 10대",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/us-news/2026/oct/28/teen-marriage-convicted-islamic-state",
-   "at": "2026-10-28T13:36:39.000Z",
-   "ev": [
-    "syria"
-   ],
-   "cc": [
-    "United States",
-    "Syria"
-   ]
-  },
-  {
-   "id": "e11821d7658d",
-   "t": "🔴 Death toll from train collision in central Spain rises to 64, regional government says",
-   "ko": "🔴 스페인 중부에서 열차 충돌로 인한 사망자 수가 64명으로 늘어났다고 지방 정부가 밝혔습니다.",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/europe/20261028-two-high-speed-trains-collide-in-southern-spain-rail-operator-says",
-   "at": "2026-10-28T13:11:18.000Z",
-   "ev": [],
-   "cc": [
-    "Spain"
-   ]
-  },
-  {
-   "id": "8dd7befdd9cb",
-   "t": "Tens of thousands flee Ethiopia fighting into neighbouring Kenya",
-   "ko": "수만 명이 에티오피아를 떠나 이웃 케냐로 싸우다",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/video/newsfeed/2026/10/28/tens-of-thousands-flee-ethiopia-fighting-into-neighbouring-kenya?traffic_source=rss",
-   "at": "2026-10-28T12:51:39.000Z",
-   "ev": [
-    "ethiopia"
-   ],
-   "cc": [
-    "Ethiopia",
-    "Kenya"
-   ]
-  },
-  {
-   "id": "cbb56b02282c",
-   "t": "‘Don’t be stinky’: recruitment a ‘huge issue’ facing Aukus submarine program",
-   "ko": "'악취를 내지 마세요': Aukus 잠수함 프로그램이 직면한 '큰 문제' 모집",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/world/2026/oct/28/australia-must-recruit-hundreds-more-to-crew-aukus-submarines-retired-admiral-warns",
-   "at": "2026-10-28T12:46:36.000Z",
-   "ev": [],
-   "cc": [
-    "Australia"
-   ]
-  },
-  {
-   "id": "ab6e6c94d622",
-   "t": "Ukraine: Melania Trump-brokered local ceasefire holds for second day",
-   "ko": "우크라이나: 멜라니아 트럼프가 중재한 지역 휴전 이틀째 유지",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/video/20261028-ukraine-melania-trump-brokered-local-ceasefire-holds-for-second-day",
-   "at": "2026-10-28T12:42:31.000Z",
-   "ev": [
-    "ukraine"
-   ],
-   "cc": [
-    "Ukraine"
-   ]
-  },
-  {
-   "id": "708eeca7eccd",
-   "t": "Victims of Jordan’s air strikes in Syria",
-   "ko": "요르단의 시리아 공습 피해자들",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/video/newsfeed/2026/10/28/victims-of-jordans-air-strikes-in-syria?traffic_source=rss",
-   "at": "2026-10-28T12:35:19.000Z",
-   "ev": [
-    "syria"
-   ],
-   "cc": [
-    "Jordan",
-    "Syria"
-   ]
-  },
-  {
-   "id": "38ae77d125bf",
-   "t": "Record heat-related deaths in 2023, WHO-partnered report finds",
-   "ko": "WHO 협력 보고서에 따르면 2023년 폭염으로 인한 사망자 기록",
-   "src": "UN News",
-   "u": "https://news.un.org/feed/view/en/story/2026/10/1168688",
-   "at": "2026-10-28T12:00:00.000Z",
-   "ev": [],
-   "cc": []
-  },
-  {
-   "id": "2c1403bc3c1c",
-   "t": "Protecting the storytellers: Women journalists on the frontline of conflict",
-   "ko": "스토리텔러 보호: 분쟁의 최전선에 있는 여성 언론인",
-   "src": "UN News",
-   "u": "https://news.un.org/feed/view/en/story/2026/10/1168691",
-   "at": "2026-10-28T12:00:00.000Z",
-   "ev": [],
-   "cc": []
-  },
-  {
-   "id": "0355bf30c5fe",
-   "t": "Civilians in Sudan’s El Obeid trapped between drones and incarceration",
-   "ko": "드론과 투옥 사이에 갇힌 수단 엘오베이드의 민간인",
-   "src": "UN News",
-   "u": "https://news.un.org/feed/view/en/story/2026/10/1168696",
-   "at": "2026-10-28T12:00:00.000Z",
-   "ev": [
-    "sudan"
-   ],
-   "cc": [
-    "Sudan"
-   ]
-  },
-  {
-   "id": "a652108e078b",
-   "t": "UN human rights chief urges better protection of civilians in conflicts",
-   "ko": "유엔 인권 사무총장, 분쟁 중인 민간인 보호 강화 촉구",
-   "src": "UN News",
-   "u": "https://news.un.org/feed/view/en/story/2026/10/1168695",
-   "at": "2026-10-28T12:00:00.000Z",
-   "ev": [],
-   "cc": [
-    "Serbia",
-    "Bangladesh",
-    "Nepal"
-   ]
-  },
-  {
-   "id": "aaa86d817521",
-   "t": "Ukraine: Ceasefire holds for its first 30 hours in occupied Oleshky",
-   "ko": "우크라이나: 점령된 올레쉬키에서 처음 30시간 동안 휴전 유지",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/video/20261028-ukraine-ceasefire-holds-for-its-first-30-hours-in-occupied-oleshky",
-   "at": "2026-10-28T10:46:51.000Z",
-   "ev": [
-    "ukraine"
-   ],
-   "cc": [
-    "Ukraine"
-   ]
-  },
-  {
-   "id": "36cb54dc2702",
-   "t": "Serbian shot dead after attacking officer outside Israeli embassy, minister says",
-   "ko": "세르비아인, 이스라엘 대사관 앞에서 경찰관 공격 후 총격 사망",
-   "src": "BBC",
-   "u": "https://www.bbc.co.uk/news/articles/ck5ynj4eeyj2o?at_medium=RSS&at_campaign=rss",
-   "at": "2026-10-28T10:17:54.000Z",
-   "ev": [],
-   "cc": [
-    "Serbia",
-    "Israel"
-   ]
-  },
-  {
-   "id": "855efafbfd4a",
-   "t": "Spain: Local authorities confirm at least 10 dead in train accident",
-   "ko": "스페인: 지방 당국은 열차 사고로 최소 10명이 사망했다고 확인했습니다.",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/spain-local-authorities-confirm-at-least-10-dead-in-train-accident",
-   "at": "2026-10-28T10:17:48.000Z",
-   "ev": [],
-   "cc": [
-    "Spain",
-    "France"
-   ]
-  },
-  {
-   "id": "5632fda0ab0f",
-   "t": "Spain: At least 10 dead in crash between 2 high-speed trains",
-   "ko": "스페인: 고속열차 2대 충돌로 최소 10명 사망",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/video/20261028-spain-at-least-10-dead-in-crash-between-2-high-speed-trains",
-   "at": "2026-10-28T10:11:43.000Z",
-   "ev": [],
-   "cc": [
-    "Spain",
-    "France"
-   ]
-  },
-  {
-   "id": "458c68f5cd78",
-   "t": "A US woman feared dead was reported alive in Mexico. But police now say that isn’t true",
-   "ko": "사망 우려가 있던 미국 여성이 멕시코에서 살아 있는 것으로 보고됐다. 하지만 경찰은 \"사실이 아니다\"고 밝혔다.",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/us-news/2026/oct/28/shayna-feinman-missing-arizona-woman-mexico",
-   "at": "2026-10-28T10:00:05.000Z",
-   "ev": [
-    "mexico"
-   ],
-   "cc": [
-    "United States",
-    "Mexico"
    ]
   }
  ]
