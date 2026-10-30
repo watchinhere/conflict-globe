@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-29T23:35:04.259Z",
+ "updated": "2026-10-30T02:56:56.944Z",
  "sources": {
   "BBC": {
    "ok": true,
@@ -7,11 +7,11 @@
   },
   "Al Jazeera": {
    "ok": true,
-   "n": 8
+   "n": 9
   },
   "The Guardian": {
    "ok": true,
-   "n": 8
+   "n": 9
   },
   "DW": {
    "ok": true,
@@ -32,6 +32,136 @@
  },
  "items": [
   {
+   "id": "9845fb218ec1",
+   "t": "Vivek Ramaswamy discontinues attack ad that prompted wave of revulsion",
+   "ko": "Vivek Ramaswamy는 혐오감을 불러일으킨 공격 광고를 중단했습니다.",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/us-news/2026/oct/29/vivek-ramaswamy-attack-ad-ohio-governor-race-republican",
+   "at": "2026-10-30T01:10:33.000Z",
+   "ev": [],
+   "cc": []
+  },
+  {
+   "id": "bf2f4eca4741",
+   "t": "Ethiopia border clashes leave families hungry and homeless in Kenya",
+   "ko": "에티오피아 국경 충돌로 케냐 가족들이 굶주리고 노숙자가 되었습니다.",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/video/newsfeed/2026/10/30/ethiopia-border-clashes-leave-families-hungry-and-homeless-in-kenya?traffic_source=rss",
+   "at": "2026-10-30T01:05:26.000Z",
+   "ev": [
+    "ethiopia"
+   ],
+   "cc": [
+    "Ethiopia",
+    "Kenya"
+   ]
+  },
+  {
+   "id": "9d2802e95fa6",
+   "t": "EU force helicopter crash kills four in Bosnia",
+   "ko": "보스니아에서 EU군 헬리콥터 추락 사고로 4명 사망",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/10/30/eu-force-helicopter-crash-kills-four-in-bosnia?traffic_source=rss",
+   "at": "2026-10-30T00:56:49.000Z",
+   "ev": [],
+   "cc": [
+    "Italy"
+   ]
+  },
+  {
+   "id": "11af3731112f",
+   "t": "Erin Patterson to die in prison after losing appeal against mushroom murder convictions",
+   "ko": "에린 패터슨, 버섯 살인 유죄 판결에 대한 항소 패소 후 감옥에서 사망",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/australia-news/2026/oct/29/erin-patterson-mushroom-murders-appeal-ruling-ntwnfb",
+   "at": "2026-10-30T00:48:00.000Z",
+   "ev": [],
+   "cc": []
+  },
+  {
+   "id": "382c88a84bc3",
+   "t": "Antisemitism envoy proposes ‘external ombudsman’ to monitor ABC and SBS coverage of Israel and Middle East",
+   "ko": "반유대주의 특사는 이스라엘과 중동에 대한 ABC와 SBS 보도를 감시하기 위해 '외부 옴부즈맨'을 제안했습니다.",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/media/2026/oct/30/jillian-segal-antisemitism-envoy-plan-report-priorities-ntwnfb",
+   "at": "2026-10-30T00:37:36.000Z",
+   "ev": [
+    "gaza"
+   ],
+   "cc": [
+    "Israel",
+    "Palestine",
+    "Australia"
+   ]
+  },
+  {
+   "id": "30a91c9b1a75",
+   "t": "North Korea tests attack drones as Kim calls for 'absolute superiority'",
+   "ko": "북한, 김정은이 '절대 우월' 주장하자 공격용 드론 시험",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/asia-pacific/20261030-north-korea-tests-attack-drones-as-kim-calls-for-absolute-superiority",
+   "at": "2026-10-30T00:22:55.000Z",
+   "ev": [],
+   "cc": [
+    "North Korea",
+    "South Korea"
+   ]
+  },
+  {
+   "id": "e13a203d3372",
+   "t": "Houthi forces claim six attacks on Saudi airports, oil facilities",
+   "ko": "후티군, 사우디 공항과 석유시설 6건 공격 주장",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/10/30/houthi-forces-claim-six-attacks-on-saudi-airports-oil-facilities?traffic_source=rss",
+   "at": "2026-10-30T00:11:20.000Z",
+   "ev": [
+    "iran",
+    "yemen"
+   ],
+   "cc": [
+    "Saudi Arabia",
+    "Iran"
+   ]
+  },
+  {
+   "id": "5834ee5b8bf9",
+   "t": "What does bourbon have to do with the US midterms?",
+   "ko": "버번은 미국 중간고사와 어떤 관련이 있나요?",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/video/newsfeed/2026/10/30/what-does-bourbon-have-to-do-with-the-us-midterms?traffic_source=rss",
+   "at": "2026-10-30T00:08:50.000Z",
+   "ev": [],
+   "cc": [
+    "United States"
+   ]
+  },
+  {
+   "id": "8e53baee8325",
+   "t": "Iran war live: IRGC says four tankers struck mines in Strait of Hormuz",
+   "ko": "이란 전쟁 생중계: IRGC는 유조선 4척이 호르무즈 해협의 지뢰를 공격했다고 밝혔습니다.",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/liveblog/2026/10/30/iran-war-live-irgc-says-four-tankers-struck-mines-in-strait-of-hormuz?traffic_source=rss",
+   "at": "2026-10-30T00:00:00.000Z",
+   "ev": [
+    "iran"
+   ],
+   "cc": [
+    "Iran"
+   ]
+  },
+  {
+   "id": "5017844e0aa9",
+   "t": "France braces for ‘very high risk’ of disorder at Halloween protests",
+   "ko": "프랑스, 할로윈 시위 '무질서 위험 매우 높음' 대비",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/10/29/france-braces-for-very-high-risk-of-disorder-at-halloween-protests?traffic_source=rss",
+   "at": "2026-10-29T23:52:30.000Z",
+   "ev": [],
+   "cc": [
+    "France"
+   ]
+  },
+  {
    "id": "677893a90872",
    "t": "Hegseth reportedly fires high-ranking army strategist over alleged leaks",
    "ko": "Hegseth, 정보 유출 혐의로 육군 고위 전략가 해고",
@@ -41,6 +171,22 @@
    "ev": [],
    "cc": [
     "United States"
+   ]
+  },
+  {
+   "id": "c749ee88b1f3",
+   "t": "Tunisians drawn into Russia's war in Ukraine",
+   "ko": "튀니지인, 우크라이나 내전 러시아 전쟁에 참여",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/tunisians-drawn-into-russia-s-war-in-ukraine",
+   "at": "2026-10-29T21:48:35.000Z",
+   "ev": [
+    "ukraine"
+   ],
+   "cc": [
+    "Russia",
+    "Ukraine",
+    "Tunisia"
    ]
   },
   {
@@ -1902,77 +2048,6 @@
    "cc": [
     "Jordan",
     "Syria"
-   ]
-  },
-  {
-   "id": "b0fa7951f6c8",
-   "t": "Criminal case against alleged Bondi terrorist delayed amid ‘unprecedented’ investigation",
-   "ko": "본다이 테러 혐의에 대한 형사 소송은 '전례 없는' 수사 속에 지연됐다",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/australia-news/2026/oct/28/criminal-case-against-alleged-bondi-guman-delayed-amid-unprecedented-investigation-ntwnfb",
-   "at": "2026-10-28T01:18:39.000Z",
-   "ev": [],
-   "cc": []
-  },
-  {
-   "id": "dd96394efbe7",
-   "t": "Netanyahu, Eisenkot camps clash over Israel election projections",
-   "ko": "네타냐후-아이젠코트 캠프, 이스라엘 선거 예측 놓고 충돌",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/news/2026/10/28/exit-polls-trigger-heated-debate-across-israeli-political-divide?traffic_source=rss",
-   "at": "2026-10-28T00:43:02.000Z",
-   "ev": [],
-   "cc": [
-    "Israel"
-   ]
-  },
-  {
-   "id": "37dfe89c648c",
-   "t": "‘This is America’: US envoy scolds Cuban diplomat at UN",
-   "ko": "'이것이 미국이다': 미국 특사가 UN에서 쿠바 외교관을 꾸짖다",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/video/newsfeed/2026/10/28/this-is-america-us-envoy-scolds-cuban-diplomat-at-un?traffic_source=rss",
-   "at": "2026-10-28T00:25:08.000Z",
-   "ev": [],
-   "cc": [
-    "United States",
-    "Cuba"
-   ]
-  },
-  {
-   "id": "ad248e00f3da",
-   "t": "French Senate backs 'make rioters pay' bill despite rights concerns",
-   "ko": "프랑스 상원, 권리 우려에도 불구하고 '폭도들에게 돈을 지불하게 하는' 법안 지지",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/france/20261028-french-senate-backs-bill-to-make-protesters-pay-for-unrest-damage-despite-rights-concern",
-   "at": "2026-10-28T00:10:35.000Z",
-   "ev": [],
-   "cc": [
-    "France"
-   ]
-  },
-  {
-   "id": "ad8acde1e81b",
-   "t": "DNA links serial killer Ted Bundy to 1974 murder of Utah girl",
-   "ko": "DNA는 연쇄 살인범 테드 번디를 1974년 유타 소녀 살해와 연관시킨다",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/us-news/2026/oct/27/ted-bundy-utah-murder",
-   "at": "2026-10-27T23:52:55.000Z",
-   "ev": [],
-   "cc": []
-  },
-  {
-   "id": "355e5ee87207",
-   "t": "Gaza’s women filmmakers turn pain into cinema as new academy launches",
-   "ko": "가자지구의 여성 영화제작자들, 새로운 아카데미 출범으로 고통을 영화로 바꾸다",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/news/2026/10/27/gazas-women-filmmakers-turn-pain-into-cinema-as-new-academy-launches?traffic_source=rss",
-   "at": "2026-10-27T23:35:51.000Z",
-   "ev": [
-    "gaza"
-   ],
-   "cc": [
-    "Palestine"
    ]
   }
  ]
