@@ -1,7 +1,117 @@
 {
- "updated": "2026-10-29",
+ "updated": "2026-10-30",
  "news": {
   "ukraine": [
+   {
+    "date": "2026-10-29",
+    "text": "'The city is alive': A brief peace in Kherson, but residents fear what comes next",
+    "ko": "'도시는 살아있다': 케르손에 잠시 평화가 찾아왔지만 주민들은 다음에 무슨 일이 일어날지 두려워합니다.",
+    "sources": [
+     {
+      "t": "BBC",
+      "u": "https://www.bbc.co.uk/news/articles/ck1l393pyrylo?at_medium=RSS&at_campaign=rss"
+     }
+    ]
+   },
+   {
+    "date": "2026-10-29",
+    "text": "Seven oil tankers carrying 288,000 tonnes of Russian diesel sail towards US",
+    "ko": "288,000톤의 러시아 디젤을 싣고 미국을 향해 항해하는 7척의 유조선",
+    "sources": [
+     {
+      "t": "The Guardian",
+      "u": "https://www.theguardian.com/us-news/2026/oct/29/seven-oil-tankers-288000-tonnes-russian-diesel-sail-us-putin-trump"
+     }
+    ]
+   },
+   {
+    "date": "2026-10-29",
+    "text": "Pentagon fires general it says leaked classified information to media",
+    "ko": "미 국방부, 언론에 기밀 정보 유출했다고 장군 해임",
+    "sources": [
+     {
+      "t": "Al Jazeera",
+      "u": "https://www.aljazeera.com/news/2026/10/29/pentagon-fires-general-it-says-leaked-classified-information-to-media?traffic_source=rss"
+     }
+    ]
+   },
+   {
+    "date": "2026-10-29",
+    "text": "At least 14 people killed in attack on Ukraine train station",
+    "ko": "우크라이나 기차역 테러로 최소 14명 사망",
+    "sources": [
+     {
+      "t": "Al Jazeera",
+      "u": "https://www.aljazeera.com/video/newsfeed/2026/10/29/aje-onl-nf_russian-drone-strike-at-dnipro-train-platform-291026?traffic_source=rss"
+     }
+    ]
+   },
+   {
+    "date": "2026-10-29",
+    "text": "Aid mission set to enter Ukraine's Oleshky as localised ceasefire holds for third day",
+    "ko": "현지 휴전이 3일째 유지됨에 따라 구호 임무가 우크라이나의 올레쉬키(Oleshky)에 진입할 예정",
+    "sources": [
+     {
+      "t": "France 24",
+      "u": "https://www.france24.com/en/europe/20261029-aid-mission-set-to-enter-ukraine-s-oleshky-as-localised-ceasefire-holds-for-third-day"
+     }
+    ]
+   },
+   {
+    "date": "2026-10-29",
+    "text": "Russian drone attack on Ukrainian train station kills at least 14, officials say",
+    "ko": "우크라이나 기차역에 대한 러시아 드론 공격으로 최소 14명이 사망했다고 관리들이 밝혔습니다.",
+    "sources": [
+     {
+      "t": "BBC",
+      "u": "https://www.bbc.co.uk/news/articles/c9p8gdlz1p2ko?at_medium=RSS&at_campaign=rss"
+     }
+    ]
+   },
+   {
+    "date": "2026-10-29",
+    "text": "Russia drone strike on Ukrainian railway station kills 13",
+    "ko": "러시아, 우크라이나 기차역에 드론 공격 13명 사망",
+    "sources": [
+     {
+      "t": "UN News",
+      "u": "https://news.un.org/feed/view/en/story/2026/10/1168702"
+     }
+    ]
+   },
+   {
+    "date": "2026-10-29",
+    "text": "At least 13 killed in 'horrific' Russian drone strike at Ukraine train station",
+    "ko": "우크라이나 기차역에서 러시아 드론 공격으로 최소 13명 사망",
+    "sources": [
+     {
+      "t": "France 24",
+      "u": "https://www.france24.com/en/europe/20261029-at-least-13-killed-in-horrific-russian-drone-strike-at-ukraine-train-station"
+     }
+    ]
+   },
+   {
+    "date": "2026-10-29",
+    "text": "How AI drones are influencing the course of the Ukraine war",
+    "ko": "AI 드론이 우크라이나 전쟁 과정에 미치는 영향",
+    "sources": [
+     {
+      "t": "NPR",
+      "u": "https://www.npr.org/2026/10/29/g-s1-147496/ukraine-ai-drones-war-russia"
+     }
+    ]
+   },
+   {
+    "date": "2026-10-29",
+    "text": "Russia says more than 600 drones launched towards Moscow overnight",
+    "ko": "러시아는 밤새 600대 이상의 드론이 모스크바를 향해 발사됐다고 밝혔습니다.",
+    "sources": [
+     {
+      "t": "Al Jazeera",
+      "u": "https://www.aljazeera.com/news/2026/10/29/russia-says-more-than-600-drones-launched-towards-moscow-overnight?traffic_source=rss"
+     }
+    ]
+   },
    {
     "date": "2026-10-28",
     "text": "Amid uncertainty over EU aid, Vitalii Kim insists Ukraine has no choice but to fight for motherland",
@@ -23,119 +133,53 @@
       "u": "https://www.theguardian.com/world/2026/oct/28/vladimir-putin-elon-musk-genius-russia-starlink"
      }
     ]
-   },
-   {
-    "date": "2026-10-28",
-    "text": "Evacuation from Oleshky: How are preparations going?",
-    "ko": "Oleshky 대피: 준비는 어떻게 진행되고 있나요?",
-    "sources": [
-     {
-      "t": "DW",
-      "u": "https://www.dw.com/en/evacuation-from-oleshky-how-are-preparations-going/a-79790001?maca=en-rss-en-world-4025-rdf"
-     }
-    ]
-   },
-   {
-    "date": "2026-10-28",
-    "text": "Kremlin says European countries not included in next Ukraine talks",
-    "ko": "크렘린 \"차기 우크라이나 회담에 유럽 국가는 포함되지 않는다\"",
-    "sources": [
-     {
-      "t": "Al Jazeera",
-      "u": "https://www.aljazeera.com/news/2026/10/28/kremlin-says-european-countries-not-included-in-next-ukraine-talks?traffic_source=rss"
-     }
-    ]
-   },
-   {
-    "date": "2026-10-28",
-    "text": "Ukraine: Melania Trump-brokered local ceasefire holds for second day",
-    "ko": "우크라이나: 멜라니아 트럼프가 중재한 지역 휴전 이틀째 유지",
-    "sources": [
-     {
-      "t": "France 24",
-      "u": "https://www.france24.com/en/video/20261028-ukraine-melania-trump-brokered-local-ceasefire-holds-for-second-day"
-     }
-    ]
-   },
-   {
-    "date": "2026-10-28",
-    "text": "Ukraine: Ceasefire holds for its first 30 hours in occupied Oleshky",
-    "ko": "우크라이나: 점령된 올레쉬키에서 처음 30시간 동안 휴전 유지",
-    "sources": [
-     {
-      "t": "France 24",
-      "u": "https://www.france24.com/en/video/20261028-ukraine-ceasefire-holds-for-its-first-30-hours-in-occupied-oleshky"
-     }
-    ]
-   },
-   {
-    "date": "2026-10-28",
-    "text": "Russia in Africa: What is Putin hoping to achieve?",
-    "ko": "아프리카 속의 러시아: 푸틴 대통령이 원하는 것은 무엇인가?",
-    "sources": [
-     {
-      "t": "DW",
-      "u": "https://www.dw.com/en/russia-in-africa-what-is-putin-hoping-to-achieve/a-79781858?maca=en-rss-en-world-4025-rdf"
-     }
-    ]
-   },
-   {
-    "date": "2026-10-28",
-    "text": "Elderly women and children survive Russian attack on Kharkiv",
-    "ko": "하르키프에 대한 러시아의 공격에서 살아남은 노인 여성과 어린이들",
-    "sources": [
-     {
-      "t": "Al Jazeera",
-      "u": "https://www.aljazeera.com/video/newsfeed/2026/10/28/elderly-women-and-children-survive-russian-attack-on-kharkiv?traffic_source=rss"
-     }
-    ]
-   },
-   {
-    "date": "2026-10-27",
-    "text": "Ceasefire extended across Ukraine's Kherson region, officials say",
-    "ko": "우크라이나 헤르손 지역 전역에 휴전이 연장됐다고 관리들이 밝혔습니다.",
-    "sources": [
-     {
-      "t": "BBC",
-      "u": "https://www.bbc.co.uk/news/articles/c6lye1w9p2l8o?at_medium=RSS&at_campaign=rss"
-     }
-    ]
-   },
-   {
-    "date": "2026-10-27",
-    "text": "What we know about Ukraine-Russia truce in Oleshky, brokered by Melania Trump",
-    "ko": "Melania Trump가 중개한 Oleshky의 우크라이나-러시아 휴전에 대해 우리가 알고 있는 것",
-    "sources": [
-     {
-      "t": "BBC",
-      "u": "https://www.bbc.co.uk/news/videos/c687z5ne1w4ro?at_medium=RSS&at_campaign=rss"
-     }
-    ]
-   },
-   {
-    "date": "2026-10-27",
-    "text": "Oleshky truce appears to hold as two European leaders have ‘frank’ call with Putin",
-    "ko": "두 유럽 지도자가 푸틴 대통령과 '솔직한' 통화를 함에 따라 올레쉬키 휴전이 유지될 것으로 보입니다.",
-    "sources": [
-     {
-      "t": "The Guardian",
-      "u": "https://www.theguardian.com/world/2026/oct/27/oleshky-truce-ukraine-russia-putin"
-     }
-    ]
-   },
-   {
-    "date": "2026-10-27",
-    "text": "Kyiv hopes for ‘new momentum’ in peace talks after Finnish and Norwegian leaders’ call with Putin – as it happened",
-    "ko": "키예프는 핀란드와 노르웨이 지도자들이 푸틴 대통령과 통화한 후 평화 회담에서 '새로운 모멘텀'을 기대하고 있습니다.",
-    "sources": [
-     {
-      "t": "The Guardian",
-      "u": "https://www.theguardian.com/world/live/2026/oct/27/russia-ukraine-oleshky-serbia-france-europe-latest-news-updates"
-     }
-    ]
    }
   ],
   "sudan": [
+   {
+    "date": "2026-10-29",
+    "text": "UAE sentences eight people to life over arms supplies to Sudan’s army",
+    "ko": "UAE, 수단군에 무기 공급한 혐의로 8명 종신형 선고",
+    "sources": [
+     {
+      "t": "Al Jazeera",
+      "u": "https://www.aljazeera.com/news/2026/10/29/uae-sentences-eight-people-to-life-over-arms-supplies-to-sudans-army?traffic_source=rss"
+     }
+    ]
+   },
+   {
+    "date": "2026-10-29",
+    "text": "World News in Brief: 5 children killed in Sudan, Haiti hunger emergency, Yemen war update",
+    "ko": "세계 뉴스 요약: 수단에서 어린이 5명 사망, 아이티 기아 긴급 상황, 예멘 전쟁 업데이트",
+    "sources": [
+     {
+      "t": "UN News",
+      "u": "https://news.un.org/feed/view/en/story/2026/10/1168703"
+     }
+    ]
+   },
+   {
+    "date": "2026-10-29",
+    "text": "Strikes on Darfur market in Sudan killed more than 100, rights group says",
+    "ko": "수단 다르푸르 시장 공습으로 100명 이상 사망 인권단체",
+    "sources": [
+     {
+      "t": "Al Jazeera",
+      "u": "https://www.aljazeera.com/news/2026/10/29/strikes-on-darfur-market-in-sudan-kill-more-than-100-rights-group-says?traffic_source=rss"
+     }
+    ]
+   },
+   {
+    "date": "2026-10-28",
+    "text": "Eight women and children are reported to be injured in a airstrike in Kadugli, South Kordofan, Sudan.",
+    "sources": [
+     {
+      "t": "Sudan Tribune",
+      "u": "https://sudantribune.com/article/320591"
+     }
+    ],
+    "ko": "수단 남코르도판 카두글리에서 공습으로 여성과 어린이 8명이 부상한 것으로 알려졌다."
+   },
    {
     "date": "2026-10-28",
     "text": "Sudan war and inflation leave families struggling to survive in Khartoum",
@@ -157,6 +201,17 @@
       "u": "https://news.un.org/feed/view/en/story/2026/10/1168696"
      }
     ]
+   },
+   {
+    "date": "2026-10-27",
+    "text": "The casualty toll from yesterday's drone strike at a market in Nyala, South Darfur, Sudan, increases to over 100 people killed and 112 more injured.",
+    "sources": [
+     {
+      "t": "Reuters",
+      "u": "https://apnews.com/article/sudan-power-outage-capital-drone-0798818d82bc79ed10300687a514c693"
+     }
+    ],
+    "ko": "수단 남다르푸르 니알라 시장에서 어제 드론 공격으로 인한 사상자 수는 100명 이상이 사망하고 112명이 부상했다."
    },
    {
     "date": "2026-10-27",
@@ -212,64 +267,86 @@
       "u": "https://www.aljazeera.com/news/2026/10/27/us-eu-and-30-countries-warn-of-famine-risk-in-sudan-call-for-aid?traffic_source=rss"
      }
     ]
-   },
-   {
-    "date": "2026-10-26",
-    "text": "Twenty-one people are killed and 40 more injured in a drone strike in Nyala, Sudan.",
-    "sources": [
-     {
-      "t": "Al Jazeera",
-      "u": "https://www.aljazeera.com/news/2026/10/27/drone-strike-kills-at-least-21-and-injures-40-in-sudans-nyala"
-     }
-    ],
-    "ko": "수단 니알라에서 드론 공격으로 21명이 숨지고 40명이 부상당했다."
-   },
-   {
-    "date": "2026-10-26",
-    "text": "More drone strikes by the Rapid Support Forces are reported across power stations in southeast Sudan, cutting power across the region.",
-    "sources": [
-     {
-      "t": "Reuters",
-      "u": "https://www.reuters.com/business/energy/drone-strikes-cut-power-across-southeast-sudan-operator-says-2026-10-26/"
-     }
-    ],
-    "ko": "신속지원군(Rapid Support Forces)의 더 많은 드론 공격이 수단 남동부의 발전소에서 보고되어 지역 전체의 전력이 차단되었습니다."
-   },
-   {
-    "date": "2026-10-26",
-    "text": "The fall of El-Fasher, one year on",
-    "ko": "El-Fasher의 몰락, 1년 후",
-    "sources": [
-     {
-      "t": "France 24",
-      "u": "https://www.france24.com/en/the-fall-of-el-fasher-one-year-on"
-     }
-    ]
-   },
-   {
-    "date": "2026-10-26",
-    "text": "UK sanctions Sudanese military leaders implicated in El Fasher ‘campaign of rape’",
-    "ko": "영국, 엘 파셰르 '강간 캠페인'에 연루된 수단 군부 지도자 제재",
-    "sources": [
-     {
-      "t": "The Guardian",
-      "u": "https://www.theguardian.com/global-development/2026/oct/26/uk-sanctions-sudanese-military-leaders-implicated-in-el-fasher-campaign-of"
-     }
-    ]
-   },
-   {
-    "date": "2026-10-26",
-    "text": "Sudan paramilitary drone strikes cause mass power cuts in eastern states",
-    "ko": "수단 준군사 드론 공격으로 동부 주에서 대규모 정전 발생",
-    "sources": [
-     {
-      "t": "The Guardian",
-      "u": "https://www.theguardian.com/world/2026/oct/26/sudan-paramilitary-drone-strikes-rapid-support-forces-power-cuts-eastern-states"
-     }
-    ]
    }
   ],
   "iran": [
+   {
+    "date": "2026-10-29",
+    "text": "Pentagon fires general it says leaked classified information to media",
+    "ko": "미 국방부, 언론에 기밀 정보 유출했다고 장군 해임",
+    "sources": [
+     {
+      "t": "Al Jazeera",
+      "u": "https://www.aljazeera.com/news/2026/10/29/pentagon-fires-general-it-says-leaked-classified-information-to-media?traffic_source=rss"
+     }
+    ]
+   },
+   {
+    "date": "2026-10-29",
+    "text": "Pentagon shake-up continues: US fires top army general in latest ouster",
+    "ko": "국방부 개편은 계속된다: 미국은 최근 축출에서 육군 최고 장군을 해고했다",
+    "sources": [
+     {
+      "t": "France 24",
+      "u": "https://www.france24.com/en/video/20261029-pentagon-shake-up-continues-us-fires-top-army-general-in-latest-ouster"
+     }
+    ]
+   },
+   {
+    "date": "2026-10-29",
+    "text": "Alaska governor orders investigation into Democrat’s Senate campaign – live",
+    "ko": "알래스카 주지사, 민주당 상원 캠페인 조사 명령 – 실시간",
+    "sources": [
+     {
+      "t": "The Guardian",
+      "u": "https://www.theguardian.com/us-news/live/2026/oct/29/midterm-elections-politics-trump-obama-california-alaska-latest-news-updates"
+     }
+    ]
+   },
+   {
+    "date": "2026-10-29",
+    "text": "Pentagon says Iran war has cost US taxpayers $47bn: What that means",
+    "ko": "미 국방부는 이란 전쟁으로 인해 미국 납세자들이 470억 달러의 손실을 입었다고 밝혔습니다. 이것이 의미하는 바는 무엇입니까?",
+    "sources": [
+     {
+      "t": "Al Jazeera",
+      "u": "https://www.aljazeera.com/news/2026/10/29/pentagon-says-iran-war-has-cost-us-taxpayers-47bn-what-that-means?traffic_source=rss"
+     }
+    ]
+   },
+   {
+    "date": "2026-10-29",
+    "text": "Ship reported on fire off Oman as Iran escalation fears mount",
+    "ko": "이란의 고조 우려로 오만에서 선박 화재 보고",
+    "sources": [
+     {
+      "t": "DW",
+      "u": "https://www.dw.com/en/ship-reported-on-fire-off-oman-as-iran-escalation-fears-mount/a-79792733?maca=en-rss-en-world-4025-rdf"
+     }
+    ]
+   },
+   {
+    "date": "2026-10-29",
+    "text": "Shell profits double to $10.8bn as Iran war pushes up margin on oil",
+    "ko": "이란 전쟁으로 원유 마진이 높아짐에 따라 Shell 이익은 108억 달러로 두 배 증가",
+    "sources": [
+     {
+      "t": "The Guardian",
+      "u": "https://www.theguardian.com/business/2026/oct/29/shell-profits-double-iran-war-pushes-up-profit-margin-on-oil"
+     }
+    ]
+   },
+   {
+    "date": "2026-10-29",
+    "text": "Iran war live: Trump says he approved Vance outreach over medical supplies",
+    "ko": "이란 전쟁 라이브 : 트럼프는 의료 용품에 대한 밴스 봉사 활동을 승인했다고 말했습니다.",
+    "sources": [
+     {
+      "t": "Al Jazeera",
+      "u": "https://www.aljazeera.com/news/liveblog/2026/10/29/iran-war-live-tehran-presses-7-day-hormuz-plan-trump-denies-peace-talks?traffic_source=rss"
+     }
+    ]
+   },
    {
     "date": "2026-10-29",
     "text": "Iran war live: Tehran presses 7-day Hormuz plan; Trump denies peace talks",
@@ -324,86 +401,42 @@
       "u": "https://www.theguardian.com/world/2026/oct/28/israel-election-results-what-we-know-so-far-ntwnfb"
      }
     ]
-   },
-   {
-    "date": "2026-10-28",
-    "text": "Is Iran headed to war or peace after Mecca alliance meeting?",
-    "ko": "이란은 메카 동맹 회담 이후 전쟁으로 향할 것인가, 아니면 평화로 향할 것인가?",
-    "sources": [
-     {
-      "t": "DW",
-      "u": "https://www.dw.com/en/is-iran-headed-to-war-or-peace-after-mecca-alliance-meeting/a-79788256?maca=en-rss-en-world-4025-rdf"
-     }
-    ]
-   },
-   {
-    "date": "2026-10-28",
-    "text": "Wednesday briefing: We asked you - what do you want from the Burnham government’s first budget?",
-    "ko": "수요일 브리핑: 번햄 정부의 첫 번째 예산에서 무엇을 원하는지 물었습니다.",
-    "sources": [
-     {
-      "t": "The Guardian",
-      "u": "https://www.theguardian.com/world/2026/oct/28/wednesday-briefing-we-asked-you-what-do-you-want-from-the-burnham-governments-first-budget"
-     }
-    ]
-   },
-   {
-    "date": "2026-10-28",
-    "text": "Gulf states working on multipart peace deal to avert renewal of US-Iran war",
-    "ko": "걸프만 국가들은 미국-이란 전쟁의 재개를 막기 위해 다자간 평화 협정을 진행하고 있습니다.",
-    "sources": [
-     {
-      "t": "The Guardian",
-      "u": "https://www.theguardian.com/world/2026/oct/28/gulf-states-multipart-peace-deal-avert-renewal-us-iran-war"
-     }
-    ]
-   },
-   {
-    "date": "2026-10-27",
-    "text": "Trump touts Venezuelan oil at Texas rally ahead of US midterms",
-    "ko": "트럼프, 미국 중간선사 앞두고 텍사스 집회에서 베네수엘라 석유 선전",
-    "sources": [
-     {
-      "t": "Al Jazeera",
-      "u": "https://www.aljazeera.com/news/2026/10/27/trump-showcases-venezuelan-oil-as-he-seeks-to-rally-voters-in-texas?traffic_source=rss"
-     }
-    ]
-   },
-   {
-    "date": "2026-10-27",
-    "text": "Trump, campaigning in Texas for Republicans, touts Iran war and ‘51st state’ Venezuela: ‘I knew that oil would go up’ – live",
-    "ko": "텍사스에서 공화당 선거운동 중인 트럼프, 이란 전쟁과 '51번째 국가' 베네수엘라 선전: '나는 유가가 오를 줄 알았습니다' - 라이브",
-    "sources": [
-     {
-      "t": "The Guardian",
-      "u": "https://www.theguardian.com/us-news/live/2026/oct/27/comey-trump-rubio-texas-vance-israel-midterms-politics-latest-news-updates"
-     }
-    ]
-   },
-   {
-    "date": "2026-10-27",
-    "text": "Iran war live: Pezeshkian says Middle East can solve own issues without US",
-    "ko": "이란 전쟁 라이브: Pezeshkian은 중동이 미국 없이도 자체 문제를 해결할 수 있다고 말했습니다.",
-    "sources": [
-     {
-      "t": "Al Jazeera",
-      "u": "https://www.aljazeera.com/news/liveblog/2026/10/27/iran-war-live-pezeshkian-says-middle-east-can-solve-own-issues-without-us?traffic_source=rss"
-     }
-    ]
-   },
-   {
-    "date": "2026-10-27",
-    "text": "Trump showcases Venezuelan oil as he seeks to rally voters in Texas",
-    "ko": "트럼프, 텍사스 유권자 집회 위해 베네수엘라 석유 선보여",
-    "sources": [
-     {
-      "t": "Al Jazeera",
-      "u": "https://www.aljazeera.com/news/2026/10/27/trump-showcases-venezuelan-oil-as-he-seeks-to-rally-voters-in-texas?traffic_source=rss"
-     }
-    ]
    }
   ],
   "yemen": [
+   {
+    "date": "2026-10-29",
+    "text": "Saudi Arabia launches airstrikes against two residential buildings in Taiz, Yemen, killing 12 civilians and wounding three more.",
+    "sources": [
+     {
+      "t": "Xinhua",
+      "u": "https://english.news.cn/20261029/44a9ff9e8822451ea1c2e37ac00c3657/c.html"
+     }
+    ],
+    "ko": "사우디아라비아가 예멘 타이즈의 주택 2채에 ​​공습을 가해 민간인 12명이 숨지고 3명이 부상했다."
+   },
+   {
+    "date": "2026-10-29",
+    "text": "Fighting rages near Yemen’s Taiz as UN urges humanitarian access",
+    "ko": "UN이 인도주의적 접근을 촉구함에 따라 예멘 타이즈 인근에서 격렬한 전투가 벌어지고 있습니다.",
+    "sources": [
+     {
+      "t": "Al Jazeera",
+      "u": "https://www.aljazeera.com/news/2026/10/29/fighting-rages-near-yemens-taiz-as-un-urges-humanitarian-access?traffic_source=rss"
+     }
+    ]
+   },
+   {
+    "date": "2026-10-29",
+    "text": "World News in Brief: 5 children killed in Sudan, Haiti hunger emergency, Yemen war update",
+    "ko": "세계 뉴스 요약: 수단에서 어린이 5명 사망, 아이티 기아 긴급 상황, 예멘 전쟁 업데이트",
+    "sources": [
+     {
+      "t": "UN News",
+      "u": "https://news.un.org/feed/view/en/story/2026/10/1168703"
+     }
+    ]
+   },
    {
     "date": "2026-10-28",
     "text": "Saudi Arabia launches an airstrike at a market in Al Hazm, Al-Jawf Governorate, Yemen, killing 14 civilians and wounding ten more.",
@@ -502,42 +535,20 @@
       "u": "https://www.aljazeera.com/news/liveblog/2026/10/26/iran-war-live-trump-rules-out-strikes-today-israeli-forces-raid-hebron?traffic_source=rss"
      }
     ]
-   },
-   {
-    "date": "2026-10-25",
-    "text": "Saudi-led coalition air defences intercept a Houthi ballistic missile and two drones targeting Riyadh Province as King Khalid International Airport resumes limited operations after a two-week closure caused by earlier Houthi attacks.",
-    "sources": [
-     {
-      "t": "AFP via ABS-CBN News",
-      "u": "https://www.abs-cbn.com/news/world/2026/10/25/explosions-heard-in-saudi-capital-as-airport-due-to-reopen-1753"
-     }
-    ],
-    "ko": "킹 칼리드 국제공항이 이전 후티 공격으로 인해 2주 동안 폐쇄된 후 제한된 운영을 재개함에 따라 사우디 주도 연합군 방공군은 리야드 주를 겨냥한 후티 탄도 미사일과 드론 두 대를 요격했습니다."
-   },
-   {
-    "date": "2026-10-25",
-    "text": "Saudi air defences intercept Houthi barrage near Mecca",
-    "ko": "사우디 방공군, 메카 인근 후티군의 포격을 요격",
-    "sources": [
-     {
-      "t": "Al Jazeera",
-      "u": "https://www.aljazeera.com/news/2026/10/25/saudi-air-defences-intercept-houthi-barrage-near-mecca?traffic_source=rss"
-     }
-    ]
-   },
-   {
-    "date": "2026-10-25",
-    "text": "Saudi Arabia intercepts missiles and drones as fighting with Houthis rages",
-    "ko": "사우디 아라비아, 후티 반군과의 전투 중 미사일과 드론 요격",
-    "sources": [
-     {
-      "t": "Al Jazeera",
-      "u": "https://www.aljazeera.com/news/2026/10/25/saudi-arabia-intercepts-missiles-and-drones-as-fighting-with-houthis-rages?traffic_source=rss"
-     }
-    ]
    }
   ],
   "gaza": [
+   {
+    "date": "2026-10-29",
+    "text": "Israeli strikes hit Gaza as Health Ministry urges Rafah opening",
+    "ko": "보건부가 라파 개방을 촉구하자 이스라엘, 가자지구 공습",
+    "sources": [
+     {
+      "t": "Al Jazeera",
+      "u": "https://www.aljazeera.com/news/2026/10/29/israeli-strikes-hit-gaza-as-health-ministry-urges-rafah-opening?traffic_source=rss"
+     }
+    ]
+   },
    {
     "date": "2026-10-28",
     "text": "What are the implications of Israel’s elections?",
@@ -658,17 +669,6 @@
       "u": "https://www.france24.com/en/video/20261027-american-rapper-macklemore-begins-free-palestine-tour"
      }
     ]
-   },
-   {
-    "date": "2026-10-27",
-    "text": "Turnout so far highest on record as Israelis vote in pivotal election",
-    "ko": "이스라엘의 중추적 선거 투표 사상 역대 최고 투표율",
-    "sources": [
-     {
-      "t": "BBC",
-      "u": "https://www.bbc.co.uk/news/articles/c3j47l4kdez4o?at_medium=RSS&at_campaign=rss"
-     }
-    ]
    }
   ],
   "delhi": [
@@ -696,6 +696,61 @@
    }
   ],
   "westbank": [
+   {
+    "date": "2026-10-29",
+    "text": "Israel bans travel for Brad Lander after detention in occupied West Bank",
+    "ko": "이스라엘, 서안지구 구금 후 브래드 랜더 여행 금지",
+    "sources": [
+     {
+      "t": "Al Jazeera",
+      "u": "https://www.aljazeera.com/video/newsfeed/2026/10/29/israel-bans-travel-for-brad-lander-after-detention-in-occupied-west-bank?traffic_source=rss"
+     }
+    ]
+   },
+   {
+    "date": "2026-10-29",
+    "text": "Palestinians injured, arrested in Israeli raids across West Bank",
+    "ko": "이스라엘의 서안지구 공습으로 팔레스타인인 부상, 체포",
+    "sources": [
+     {
+      "t": "Al Jazeera",
+      "u": "https://www.aljazeera.com/news/2026/10/29/palestinians-injured-arrested-in-israeli-raids-across-west-bank?traffic_source=rss"
+     }
+    ]
+   },
+   {
+    "date": "2026-10-29",
+    "text": "A week of Israel’s lockdown in Hebron: What’s happened, when will it end?",
+    "ko": "이스라엘의 헤브론 봉쇄 일주일: 무슨 일이 일어났고, 언제 끝날까요?",
+    "sources": [
+     {
+      "t": "Al Jazeera",
+      "u": "https://www.aljazeera.com/news/2026/10/29/a-week-of-israels-lockdown-in-hebron-whats-happened-when-will-it-end?traffic_source=rss"
+     }
+    ]
+   },
+   {
+    "date": "2026-10-29",
+    "text": "Activists accuse Israeli settlers of assault in occupied West Bank",
+    "ko": "활동가들은 점령된 서안 지구에서 이스라엘 정착민이 폭행을 했다고 비난합니다.",
+    "sources": [
+     {
+      "t": "Al Jazeera",
+      "u": "https://www.aljazeera.com/news/2026/10/29/activists-accuse-israeli-settlers-of-assault-in-occupied-west-bank?traffic_source=rss"
+     }
+    ]
+   },
+   {
+    "date": "2026-10-29",
+    "text": "Israeli settlers savagely attack journalists in occupied West Bank",
+    "ko": "이스라엘 정착민, 서안지구 점령지에서 기자들을 잔인하게 공격",
+    "sources": [
+     {
+      "t": "Al Jazeera",
+      "u": "https://www.aljazeera.com/video/newsfeed/2026/10/29/israeli-settlers-savagely-attack-journalists-in-occupied-west-bank?traffic_source=rss"
+     }
+    ]
+   },
    {
     "date": "2026-10-28",
     "text": "West Bank: settlers using drones to monitor Palestinians",
@@ -772,61 +827,6 @@
       "u": "https://www.france24.com/en/middle-east/20261026-un-cites-ethnic-cleansing-concerns-around-israel-palestinian-displacement-operation-hebron"
      }
     ]
-   },
-   {
-    "date": "2026-10-26",
-    "text": "Israel committing crimes against humanity in occupied West Bank: UN",
-    "ko": "이스라엘, 점령된 서안지구에서 반인도적 범죄 저지르고 있다: UN",
-    "sources": [
-     {
-      "t": "Al Jazeera",
-      "u": "https://www.aljazeera.com/news/2026/10/26/israel-committing-crimes-against-humanity-in-occupied-west-bank-un?traffic_source=rss"
-     }
-    ]
-   },
-   {
-    "date": "2026-10-26",
-    "text": "Israel expands expulsions in occupied West Bank to cement control",
-    "ko": "이스라엘, 통제 강화 위해 서안지구 추방 확대",
-    "sources": [
-     {
-      "t": "Al Jazeera",
-      "u": "https://www.aljazeera.com/news/2026/10/26/israel-expands-occupied-west-bank-expulsions-to-cement-control?traffic_source=rss"
-     }
-    ]
-   },
-   {
-    "date": "2026-10-26",
-    "text": "West Bank: Hebron crackdown displaces thousands, Türk warns of ethnic cleansing",
-    "ko": "서안 지구: 헤브론 단속으로 수천 명 이주, 터키, 인종 청소 경고",
-    "sources": [
-     {
-      "t": "UN News",
-      "u": "https://news.un.org/feed/view/en/story/2026/10/1168672"
-     }
-    ]
-   },
-   {
-    "date": "2026-10-26",
-    "text": "Palestinians are opening their doors to the displaced of besieged Hebron",
-    "ko": "팔레스타인인들이 포위된 헤브론의 난민들에게 문을 열고 있다",
-    "sources": [
-     {
-      "t": "Al Jazeera",
-      "u": "https://www.aljazeera.com/news/2026/10/26/palestinians-are-opening-their-doors-to-the-displaced-of-besieged-hebron?traffic_source=rss"
-     }
-    ]
-   },
-   {
-    "date": "2026-10-26",
-    "text": "‘It’s collective punishment’: nearly 2,000 Palestinians in Hebron displaced as Israeli forces take over homes",
-    "ko": "'집단 처벌': 이스라엘군이 집을 점령하자 헤브론에서 약 2,000명의 팔레스타인 난민이 발생",
-    "sources": [
-     {
-      "t": "The Guardian",
-      "u": "https://www.theguardian.com/world/2026/oct/26/collective-punishment-palestinians-displaced-israeli-forces-take-over-hebron-homes"
-     }
-    ]
    }
   ],
   "belgium": [
@@ -843,6 +843,28 @@
    }
   ],
   "darfur": [
+   {
+    "date": "2026-10-29",
+    "text": "World News in Brief: 5 children killed in Sudan, Haiti hunger emergency, Yemen war update",
+    "ko": "세계 뉴스 요약: 수단에서 어린이 5명 사망, 아이티 기아 긴급 상황, 예멘 전쟁 업데이트",
+    "sources": [
+     {
+      "t": "UN News",
+      "u": "https://news.un.org/feed/view/en/story/2026/10/1168703"
+     }
+    ]
+   },
+   {
+    "date": "2026-10-29",
+    "text": "Strikes on Darfur market in Sudan killed more than 100, rights group says",
+    "ko": "수단 다르푸르 시장 공습으로 100명 이상 사망 인권단체",
+    "sources": [
+     {
+      "t": "Al Jazeera",
+      "u": "https://www.aljazeera.com/news/2026/10/29/strikes-on-darfur-market-in-sudan-kill-more-than-100-rights-group-says?traffic_source=rss"
+     }
+    ]
+   },
    {
     "date": "2026-10-27",
     "text": "Sudan: One year after the fall of El-Fasher",
@@ -901,6 +923,17 @@
   ],
   "myanmar": [
    {
+    "date": "2026-10-29",
+    "text": "Myanmar’s illicit economy fuels escalating violence, with civilians bearing the brunt",
+    "ko": "미얀마의 불법 경제는 폭력 사태를 부채질하고 있으며, 그 피해는 민간인에게 있습니다.",
+    "sources": [
+     {
+      "t": "UN News",
+      "u": "https://news.un.org/feed/view/en/story/2026/10/1168705"
+     }
+    ]
+   },
+   {
     "date": "2026-10-27",
     "text": "Myanmar: Is the US undermining the EU's diplomatic blockade?",
     "ko": "미얀마: 미국이 EU의 외교적 봉쇄를 약화시키고 있습니까?",
@@ -924,6 +957,28 @@
    }
   ],
   "haiti": [
+   {
+    "date": "2026-10-29",
+    "text": "World News in Brief: 5 children killed in Sudan, Haiti hunger emergency, Yemen war update",
+    "ko": "세계 뉴스 요약: 수단에서 어린이 5명 사망, 아이티 기아 긴급 상황, 예멘 전쟁 업데이트",
+    "sources": [
+     {
+      "t": "UN News",
+      "u": "https://news.un.org/feed/view/en/story/2026/10/1168703"
+     }
+    ]
+   },
+   {
+    "date": "2026-10-29",
+    "text": "El Salvador sends 2,000 troops to Haiti to rescue four missing soldiers",
+    "ko": "엘살바도르, 실종된 군인 4명 구출 위해 아이티에 병력 2000명 파견",
+    "sources": [
+     {
+      "t": "BBC",
+      "u": "https://www.bbc.co.uk/news/articles/ck0e075n79j5o?at_medium=RSS&at_campaign=rss"
+     }
+    ]
+   },
    {
     "date": "2026-10-25",
     "text": "El Salvador president says bodies found in Haiti are not those of hostages",
@@ -1005,6 +1060,17 @@
    }
   ],
   "ethiopia": [
+   {
+    "date": "2026-10-29",
+    "text": "Ethiopia acquires Russian fighter jets and air defence systems amid war in Tigray",
+    "ko": "에티오피아, 티그레이 전쟁 중 러시아 전투기와 방공 시스템 획득",
+    "sources": [
+     {
+      "t": "BBC",
+      "u": "https://www.bbc.co.uk/news/articles/cw78prj801pvo?at_medium=RSS&at_campaign=rss"
+     }
+    ]
+   },
    {
     "date": "2026-10-28",
     "text": "Ethiopia clashes push 50,000 to flee to Kenya",
@@ -1170,6 +1236,17 @@
   ],
   "syria": [
    {
+    "date": "2026-10-29",
+    "text": "Damascus, Amman contradict each other on attack that killed civilians",
+    "ko": "다마스쿠스와 암만, 민간인 살해 공격으로 서로 모순",
+    "sources": [
+     {
+      "t": "Al Jazeera",
+      "u": "https://www.aljazeera.com/features/2026/10/29/damascus-amman-contradict-each-other-on-attack-that-killed-civilians?traffic_source=rss"
+     }
+    ]
+   },
+   {
     "date": "2026-10-28",
     "text": "What would a new Israeli government mean for Arab neighbors? More of the same is expected, with some small positives predicted.",
     "ko": "새로운 이스라엘 정부는 아랍 이웃들에게 무엇을 의미할까요? 약간의 긍정적인 결과가 예측되면서 더 많은 것이 예상됩니다.",
@@ -1289,17 +1366,6 @@
       "u": "https://www.aljazeera.com/video/newsfeed/2026/10/26/jordan-attacks-syria-in-response-to-karak-church-attack?traffic_source=rss"
      }
     ]
-   },
-   {
-    "date": "2026-10-26",
-    "text": "Jordan attacks militants in Syria in retaliation for church attack",
-    "ko": "요르단, 교회 공격에 대한 보복으로 시리아 무장세력 공격",
-    "sources": [
-     {
-      "t": "The Guardian",
-      "u": "https://www.theguardian.com/world/2026/oct/26/jordan-attacks-militants-syria-retaliation-for-last-week-church-attack"
-     }
-    ]
    }
   ],
   "colombia": [
@@ -1397,6 +1463,17 @@
    }
   ],
   "drc": [
+   {
+    "date": "2026-10-29",
+    "text": "US sanctions Rwanda's defence ministry over DR Congo conflict",
+    "ko": "미국, 콩고민주공화국 내전 관련 르완다 국방부 제재",
+    "sources": [
+     {
+      "t": "BBC",
+      "u": "https://www.bbc.co.uk/news/articles/cm87zw51qw0jo?at_medium=RSS&at_campaign=rss"
+     }
+    ]
+   },
    {
     "date": "2026-10-28",
     "text": "The United States imposes sanctions on the Rwandan ministry of defence over its role in the conflict in eastern Democratic Republic of the Congo, alleging that Rwanda is backing the M23 rebels to fight against Congolese forces.",
