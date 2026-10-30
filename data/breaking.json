@@ -1,17 +1,17 @@
 {
- "updated": "2026-10-30T02:56:56.944Z",
+ "updated": "2026-10-30T09:51:52.652Z",
  "sources": {
   "BBC": {
    "ok": true,
-   "n": 8
+   "n": 7
   },
   "Al Jazeera": {
    "ok": true,
-   "n": 9
+   "n": 6
   },
   "The Guardian": {
    "ok": true,
-   "n": 9
+   "n": 16
   },
   "DW": {
    "ok": true,
@@ -19,7 +19,7 @@
   },
   "France 24": {
    "ok": true,
-   "n": 8
+   "n": 9
   },
   "UN News": {
    "ok": true,
@@ -31,6 +31,278 @@
   }
  },
  "items": [
+  {
+   "id": "b5e59cd98268",
+   "t": "Russian oil refinery struck as Ukraine renews drone attacks",
+   "ko": "우크라이나가 드론 공격을 재개함에 따라 러시아 정유소가 공격을 받았습니다.",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/video/newsfeed/2026/10/30/russian-oil-refinery-struck-as-ukraine-renews-drone-attacks?traffic_source=rss",
+   "at": "2026-10-30T09:14:16.000Z",
+   "ev": [
+    "ukraine"
+   ],
+   "cc": [
+    "Russia",
+    "Ukraine"
+   ]
+  },
+  {
+   "id": "38b4a8e927c8",
+   "t": "Russian newspaper Novaya Gazeta to close, citing pressure from ‘special services’",
+   "ko": "러시아 일간지 노바야 가제타(Novaya Gazeta), '특별 서비스' 압박 이유로 폐간",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/world/2026/oct/30/novaya-gazeta-russia-independent-newspaper-to-close",
+   "at": "2026-10-30T09:05:21.000Z",
+   "ev": [],
+   "cc": [
+    "Russia"
+   ]
+  },
+  {
+   "id": "23850c9487bf",
+   "t": "Houthis sending Taiz ‘back to the stone age’, governor of besieged Yemen city says",
+   "ko": "후티 반군, 타이즈를 '석기시대로 되돌려 보내다' 포위된 예멘 시 주지사",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/world/2026/oct/30/houthis-taiz-stone-age-yemen-city-siege",
+   "at": "2026-10-30T09:00:50.000Z",
+   "ev": [
+    "yemen"
+   ],
+   "cc": [
+    "Yemen"
+   ]
+  },
+  {
+   "id": "09005c7fe3d9",
+   "t": "Andy Burnham admits he would have liked more radical first budget",
+   "ko": "Andy Burnham은 좀 더 급진적인 첫 번째 예산을 선호했다고 인정합니다.",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/uk-news/2026/oct/30/andy-burnham-first-budget-labour-welfare",
+   "at": "2026-10-30T08:53:00.000Z",
+   "ev": [
+    "iran"
+   ],
+   "cc": [
+    "Iran"
+   ]
+  },
+  {
+   "id": "d6bdff54c628",
+   "t": "Oil flows are up as Iran war turmoil eases. Why do prices keep rising?",
+   "ko": "이란 전쟁 혼란이 완화되면서 석유 흐름이 증가했습니다. 가격은 왜 계속 오르는 걸까요?",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/economy/2026/10/30/oil-flows-are-up-as-iran-war-turmoil-eases-why-do-prices-keep-rising?traffic_source=rss",
+   "at": "2026-10-30T08:36:11.000Z",
+   "ev": [
+    "iran"
+   ],
+   "cc": [
+    "Iran"
+   ]
+  },
+  {
+   "id": "691a8b4ea357",
+   "t": "BP profits jump as Middle East conflict drives up oil refining margins",
+   "ko": "중동 분쟁으로 인해 정유 마진이 상승함에 따라 BP 이익 급증",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/business/2026/oct/30/bp-profits-jump-as-middle-east-conflict-drives-up-oil-refining-margins",
+   "at": "2026-10-30T08:06:46.000Z",
+   "ev": [],
+   "cc": []
+  },
+  {
+   "id": "35457c9bb75b",
+   "t": "French economy 'headed for a wall' as GDP shrinks, finance minister warns",
+   "ko": "프랑스 경제는 GDP가 줄어들면서 '벽에 직면했다'고 재무장관이 경고했다.",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/business/20261030-french-economy-headed-for-a-wall-as-gdp-shrinks-finance-minister-warns",
+   "at": "2026-10-30T08:01:46.000Z",
+   "ev": [],
+   "cc": [
+    "France"
+   ]
+  },
+  {
+   "id": "1b4e23184b84",
+   "t": "Are Trump’s global actions, from Ukraine to Iran, going to hurt him in elections?",
+   "ko": "우크라이나에서 이란에 이르기까지 트럼프의 글로벌 행동이 선거에서 그에게 해를 끼칠 것인가?",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/us-news/ng-interactive/2026/oct/30/ukraine-iran-trump-elections",
+   "at": "2026-10-30T08:00:49.000Z",
+   "ev": [
+    "ukraine",
+    "iran"
+   ],
+   "cc": [
+    "Ukraine",
+    "Iran",
+    "United States"
+   ]
+  },
+  {
+   "id": "eaa63838dee7",
+   "t": "‘My life is buried here’: Iranian man whose 12 family members were killed",
+   "ko": "'내 목숨이 여기에 묻혀 있다': 가족 12명 살해한 이란 남성",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/10/30/my-life-is-buried-here-iranian-man-whose-12-family-members-were-killed?traffic_source=rss",
+   "at": "2026-10-30T07:51:08.000Z",
+   "ev": [
+    "iran"
+   ],
+   "cc": [
+    "Iran"
+   ]
+  },
+  {
+   "id": "f3464fbd91b7",
+   "t": "Ukraine war live: Russia strikes Kyiv as aid convoy heads for stricken town of Oleshky",
+   "ko": "우크라이나 전쟁 라이브: 러시아가 피해를 입은 올레스키(Oleshky) 마을로 향하는 구호 호송대와 함께 키예프를 공격합니다.",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/europe/20261030-live-russia-strikes-energy-facilities-kyiv-aid-convoy-heads-besieged-town-oleshky-ukraine",
+   "at": "2026-10-30T07:28:16.000Z",
+   "ev": [
+    "ukraine"
+   ],
+   "cc": [
+    "Ukraine",
+    "Russia"
+   ]
+  },
+  {
+   "id": "29101399e919",
+   "t": "How Israel choked off Hebron at 10 entrances, as 5,000 forced to flee",
+   "ko": "이스라엘이 헤브론의 10개 입구에서 5,000명을 강제로 도망치게 한 방법",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/economy/2026/10/30/how-israel-choked-off-hebron-at-10-entrances-as-5000-forced-to-flee?traffic_source=rss",
+   "at": "2026-10-30T07:07:36.000Z",
+   "ev": [
+    "westbank"
+   ],
+   "cc": [
+    "Israel"
+   ]
+  },
+  {
+   "id": "eaf060580436",
+   "t": "French minister warns of 'very high' violence risk as country braces for Halloween protests",
+   "ko": "프랑스 장관, 할로윈 시위 준비로 폭력 위험 '매우 높음' 경고",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/france/20261030-french-minister-warns-of-very-high-violence-risk-as-country-braces-for-halloween-protests",
+   "at": "2026-10-30T06:57:15.000Z",
+   "ev": [],
+   "cc": [
+    "France"
+   ]
+  },
+  {
+   "id": "a1b6e2b85e25",
+   "t": "Friday briefing: Israel has a dilemma - can its opposition govern with Palestinian parties?",
+   "ko": "금요일 브리핑: 이스라엘은 딜레마에 빠졌습니다. 야당이 팔레스타인 정당과 함께 통치할 수 있을까요?",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/world/2026/oct/30/friday-briefing-israel-has-a-dilemma-can-its-opposition-govern-with-palestinian-parties",
+   "at": "2026-10-30T06:44:29.000Z",
+   "ev": [],
+   "cc": [
+    "Israel",
+    "Palestine",
+    "United Kingdom"
+   ]
+  },
+  {
+   "id": "98c40d1f5ce3",
+   "t": "Battle lines redrawn in Spain’s snap election after latest train disaster",
+   "ko": "최근 열차 참사 이후 스페인의 즉석 선거에서 전투선이 다시 그려졌습니다.",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/world/2026/oct/30/battle-lines-redrawn-spain-snap-election-train-disaster-pedro-sanchez-psoe-pp-vox",
+   "at": "2026-10-30T06:00:47.000Z",
+   "ev": [],
+   "cc": [
+    "Spain"
+   ]
+  },
+  {
+   "id": "11af3731112f",
+   "t": "Erin Patterson to die in prison after losing appeal against mushroom murder convictions",
+   "ko": "에린 패터슨, 버섯 살인 유죄 판결에 대한 항소 패소 후 감옥에서 사망",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/australia-news/2026/oct/29/erin-patterson-mushroom-murders-appeal-ruling-ntwnfb",
+   "at": "2026-10-30T05:31:26.000Z",
+   "ev": [],
+   "cc": []
+  },
+  {
+   "id": "d5399bfb76f3",
+   "t": "Sinkholes, scarred land and scapegoats: the scourge of illegal gold mining in Johannesburg",
+   "ko": "싱크홀, 상처받은 땅, 희생양: 요하네스버그 불법 금 채굴의 재앙",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/business/2026/oct/30/sinkholes-scarred-land-scapegoats-illegal-gold-mining-johannesburg",
+   "at": "2026-10-30T05:00:45.000Z",
+   "ev": [],
+   "cc": [
+    "South Africa"
+   ]
+  },
+  {
+   "id": "31bb82931ece",
+   "t": "Sudanese diaspora and human rights groups denounce UAE nominee for UN top job",
+   "ko": "수단 디아스포라 및 인권 단체, 유엔 최고 직책에 UAE 후보자 비난",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/world/2026/oct/30/sudanese-diaspora-human-rights-groups-denounce-uae-nominee-un-top-job",
+   "at": "2026-10-30T05:00:45.000Z",
+   "ev": [
+    "sudan"
+   ],
+   "cc": [
+    "Sudan",
+    "United Arab Emirates"
+   ]
+  },
+  {
+   "id": "6fb4f1a3aa72",
+   "t": "Three dead after two helicopters collide midair near Oregon airport",
+   "ko": "오리건주 공항 근처에서 헬기 2대가 공중에서 충돌해 3명이 숨졌다.",
+   "src": "BBC",
+   "u": "https://www.bbc.co.uk/news/articles/cked3p81303yo?at_medium=RSS&at_campaign=rss",
+   "at": "2026-10-30T03:05:17.000Z",
+   "ev": [],
+   "cc": []
+  },
+  {
+   "id": "dec6d740afe4",
+   "t": "China expels a record number from Communist party amid Xi’s intensified purges of top officials",
+   "ko": "중국, 시의 고위 관료 숙청 강화 속에 공산당에서 기록적인 숫자의 추방",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/world/2026/oct/30/china-expels-record-number-communist-party-xi-jinping-purges-officials-fifth-plenum",
+   "at": "2026-10-30T02:56:46.000Z",
+   "ev": [],
+   "cc": [
+    "China"
+   ]
+  },
+  {
+   "id": "1c9585119c7a",
+   "t": "Husband of one of Modi’s closest advisors questions election integrity",
+   "ko": "Modi의 가장 가까운 고문 중 한 사람의 남편은 선거 무결성에 의문을 제기합니다",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/video/newsfeed/2026/10/30/husband-of-one-of-modis-closest-advisors-questions-election-integrity?traffic_source=rss",
+   "at": "2026-10-30T02:41:18.000Z",
+   "ev": [],
+   "cc": [
+    "India"
+   ]
+  },
+  {
+   "id": "1da8a030205e",
+   "t": "Netanyahu attacks Israel’s Arab parties as he falls short of majority",
+   "ko": "네타냐후, 과반수에 못 미치자 이스라엘 아랍정당 공격",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/video/newsfeed/2026/10/30/netanyahu-attacks-israels-arab-parties-as-he-falls-short-of-majority?traffic_source=rss",
+   "at": "2026-10-30T02:40:26.000Z",
+   "ev": [],
+   "cc": [
+    "Israel"
+   ]
+  },
   {
    "id": "9845fb218ec1",
    "t": "Vivek Ramaswamy discontinues attack ad that prompted wave of revulsion",
@@ -67,16 +339,6 @@
    "cc": [
     "Italy"
    ]
-  },
-  {
-   "id": "11af3731112f",
-   "t": "Erin Patterson to die in prison after losing appeal against mushroom murder convictions",
-   "ko": "에린 패터슨, 버섯 살인 유죄 판결에 대한 항소 패소 후 감옥에서 사망",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/australia-news/2026/oct/29/erin-patterson-mushroom-murders-appeal-ruling-ntwnfb",
-   "at": "2026-10-30T00:48:00.000Z",
-   "ev": [],
-   "cc": []
   },
   {
    "id": "382c88a84bc3",
@@ -1859,195 +2121,6 @@
    "cc": [
     "United States",
     "Mexico"
-   ]
-  },
-  {
-   "id": "8280185d2be4",
-   "t": "Russia in Africa: What is Putin hoping to achieve?",
-   "ko": "아프리카 속의 러시아: 푸틴 대통령이 원하는 것은 무엇인가?",
-   "src": "DW",
-   "u": "https://www.dw.com/en/russia-in-africa-what-is-putin-hoping-to-achieve/a-79781858?maca=en-rss-en-world-4025-rdf",
-   "at": "2026-10-28T09:48:00.000Z",
-   "ev": [
-    "ukraine"
-   ],
-   "cc": [
-    "Russia",
-    "Ukraine"
-   ]
-  },
-  {
-   "id": "d3fe747a8e95",
-   "t": "Serbian police shoot dead assailant at Israeli Embassy",
-   "ko": "세르비아 경찰, 이스라엘 대사관에서 총격 사망",
-   "src": "DW",
-   "u": "https://www.dw.com/en/serbian-police-shoot-dead-assailant-at-israeli-embassy/a-79782905?maca=en-rss-en-world-4025-rdf",
-   "at": "2026-10-28T08:48:00.000Z",
-   "ev": [],
-   "cc": [
-    "Serbia",
-    "Israel"
-   ]
-  },
-  {
-   "id": "3fcbc0903cfe",
-   "t": "French Senate debates new 'rioters pay' bill",
-   "ko": "프랑스 상원, 새로운 '폭도들이 지불하는' 법안 논의",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/tv-shows/business/20261028-french-senate-debates-new-rioters-pay-bill",
-   "at": "2026-10-28T08:43:09.000Z",
-   "ev": [],
-   "cc": [
-    "France"
-   ]
-  },
-  {
-   "id": "4fffe820bdc0",
-   "t": "Why is the system failing France’s younger generation?",
-   "ko": "왜 이 시스템이 프랑스의 젊은 세대에게 실패하고 있습니까?",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/video/money-works/2026/10/28/why-is-the-system-failing-frances-younger-generation?traffic_source=rss",
-   "at": "2026-10-28T08:26:58.000Z",
-   "ev": [],
-   "cc": [
-    "France"
-   ]
-  },
-  {
-   "id": "8ee735cceda5",
-   "t": "Why the US midterms matter even if you don’t live in America",
-   "ko": "미국에 거주하지 않더라도 미국 중간고사가 중요한 이유",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/video/newsfeed/2026/10/28/why-the-us-midterms-matter-even-if-you-dont-live-in-america?traffic_source=rss",
-   "at": "2026-10-28T08:15:19.000Z",
-   "ev": [],
-   "cc": [
-    "United States"
-   ]
-  },
-  {
-   "id": "b002d5dbb857",
-   "t": "Elderly women and children survive Russian attack on Kharkiv",
-   "ko": "하르키프에 대한 러시아의 공격에서 살아남은 노인 여성과 어린이들",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/video/newsfeed/2026/10/28/elderly-women-and-children-survive-russian-attack-on-kharkiv?traffic_source=rss",
-   "at": "2026-10-28T07:35:20.000Z",
-   "ev": [
-    "ukraine"
-   ],
-   "cc": [
-    "Russia",
-    "Ukraine"
-   ]
-  },
-  {
-   "id": "09e4b5c3ddc0",
-   "t": "Wednesday briefing: We asked you - what do you want from the Burnham government’s first budget?",
-   "ko": "수요일 브리핑: 번햄 정부의 첫 번째 예산에서 무엇을 원하는지 물었습니다.",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/world/2026/oct/28/wednesday-briefing-we-asked-you-what-do-you-want-from-the-burnham-governments-first-budget",
-   "at": "2026-10-28T06:43:48.000Z",
-   "ev": [
-    "iran",
-    "yemen"
-   ],
-   "cc": [
-    "Iran",
-    "Israel",
-    "United Kingdom"
-   ]
-  },
-  {
-   "id": "13b9afdca2b9",
-   "t": "The next phase of military rule in Egypt is here",
-   "ko": "이집트 군사 통치의 다음 단계가 시작되었습니다",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/opinions/2026/10/28/the-next-phase-of-military-rule-in-egypt-is-here?traffic_source=rss",
-   "at": "2026-10-28T06:36:59.000Z",
-   "ev": [],
-   "cc": [
-    "Egypt"
-   ]
-  },
-  {
-   "id": "7fbcc354b100",
-   "t": "Coalition MP ejected from question time after swearing at PM – as it happened",
-   "ko": "연합 의원은 PM에게 욕설을 한 후 질문 시간에서 퇴장당했습니다.",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/australia-news/live/2026/oct/28/inflation-abs-labor-anthony-albanese-parliament-greens-david-shoebridge-one-nation-ntwnfb",
-   "at": "2026-10-28T06:35:49.000Z",
-   "ev": [],
-   "cc": [
-    "Australia"
-   ]
-  },
-  {
-   "id": "36b143d30f42",
-   "t": "Australia must ‘re-win the argument for democratic politics’ in wake of Haines incident, Alastair Campbell says",
-   "ko": "Alastair Campbell은 Haines 사건 이후 호주가 '민주주의 정치에 대한 논쟁에서 다시 승리해야' 한다고 말했습니다.",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/australia-news/2026/oct/28/australia-democratic-politics-argument-helen-haines-incident-alastair-campbell-ntwnfb",
-   "at": "2026-10-28T06:24:22.000Z",
-   "ev": [],
-   "cc": [
-    "Australia",
-    "United Kingdom"
-   ]
-  },
-  {
-   "id": "d67999adc8e0",
-   "t": "Volunteer, 78, says Reform official likened her to Nazi collaborator for teaching asylum seekers English",
-   "ko": "78세의 자원봉사자는 개혁 관계자가 그녀를 망명 신청자들에게 영어를 가르치는 나치 협력자에 비유했다고 말했습니다.",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/politics/2026/oct/28/reform-official-volunteer-nazi-collaborator-teaching-asylum-seekers-english",
-   "at": "2026-10-28T06:00:01.000Z",
-   "ev": [],
-   "cc": [
-    "United Kingdom"
-   ]
-  },
-  {
-   "id": "63656e1dd91b",
-   "t": "Jim Chalmers is blaming Australia’s accelerating inflation on Trump – but voters aren’t buying it",
-   "ko": "Jim Chalmers는 호주의 인플레이션 가속화를 트럼프 탓으로 돌리고 있지만 유권자들은 이를 믿지 않습니다.",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/australia-news/2026/oct/28/jim-chalmers-is-blaming-australias-accelerating-inflation-on-trump-but-voters-arent-buying-it",
-   "at": "2026-10-28T05:58:24.000Z",
-   "ev": [],
-   "cc": [
-    "Australia"
-   ]
-  },
-  {
-   "id": "93600541ed20",
-   "t": "Gulf states working on multipart peace deal to avert renewal of US-Iran war",
-   "ko": "걸프만 국가들은 미국-이란 전쟁의 재개를 막기 위해 다자간 평화 협정을 진행하고 있습니다.",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/world/2026/oct/28/gulf-states-multipart-peace-deal-avert-renewal-us-iran-war",
-   "at": "2026-10-28T05:00:55.000Z",
-   "ev": [
-    "iran",
-    "yemen"
-   ],
-   "cc": [
-    "Iran",
-    "Yemen",
-    "United States"
-   ]
-  },
-  {
-   "id": "82b11735bd78",
-   "t": "Syria-Jordan border reopens amid probe into deadly air strikes",
-   "ko": "치명적인 공습에 대한 조사가 진행되는 가운데 시리아-요르단 국경이 다시 열렸습니다.",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/news/2026/10/28/syria-jordan-border-reopens-amid-probe-into-deadly-airstrikes?traffic_source=rss",
-   "at": "2026-10-28T03:10:17.000Z",
-   "ev": [
-    "syria"
-   ],
-   "cc": [
-    "Jordan",
-    "Syria"
    ]
   }
  ]
