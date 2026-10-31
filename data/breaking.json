@@ -1,17 +1,17 @@
 {
- "updated": "2026-10-31T06:48:47.462Z",
+ "updated": "2026-10-31T13:27:50.542Z",
  "sources": {
   "BBC": {
    "ok": true,
-   "n": 10
+   "n": 9
   },
   "Al Jazeera": {
    "ok": true,
-   "n": 10
+   "n": 12
   },
   "The Guardian": {
    "ok": true,
-   "n": 14
+   "n": 15
   },
   "DW": {
    "ok": true,
@@ -19,11 +19,11 @@
   },
   "France 24": {
    "ok": true,
-   "n": 17
+   "n": 16
   },
   "UN News": {
    "ok": true,
-   "n": 7
+   "n": 4
   },
   "NPR": {
    "ok": true,
@@ -31,6 +31,375 @@
   }
  },
  "items": [
+  {
+   "id": "763a99da6625",
+   "t": "Evacuees from Russia-occupied city where residents ate weeds arrive in Ukraine",
+   "ko": "주민들이 잡초를 먹었던 러시아 점령 도시에서 피난민들이 우크라이나에 도착",
+   "src": "BBC",
+   "u": "https://www.bbc.co.uk/news/articles/cqx2818elrnzo?at_medium=RSS&at_campaign=rss",
+   "at": "2026-10-31T13:12:46.000Z",
+   "ev": [
+    "ukraine"
+   ],
+   "cc": [
+    "Ukraine",
+    "United States"
+   ]
+  },
+  {
+   "id": "be4683e2306f",
+   "t": "France and Germany braced for unrest with hundreds of demonstrations planned – Europe live",
+   "ko": "프랑스와 독일, 수백 건의 시위 계획으로 불안에 대비 - 유럽 라이브",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/world/live/2026/oct/31/france-germany-protests-paris-europe-latest-news-updates",
+   "at": "2026-10-31T13:09:34.000Z",
+   "ev": [],
+   "cc": [
+    "France",
+    "Germany"
+   ]
+  },
+  {
+   "id": "54b8d1ada225",
+   "t": "On the Norway-Russia border, the Sámi people face a growing divide",
+   "ko": "노르웨이-러시아 국경에서 사미족은 점점 더 커지는 분열에 직면해 있습니다.",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/features/longform/2026/10/31/on-the-norway-russia-border-the-sami-people-face-a-growing-divide?traffic_source=rss",
+   "at": "2026-10-31T12:58:28.000Z",
+   "ev": [
+    "ukraine"
+   ],
+   "cc": [
+    "Russia",
+    "Ukraine"
+   ]
+  },
+  {
+   "id": "e1a4659560bc",
+   "t": "Studios destroyed, traditions saved: Artists fight to save Sudan’s culture",
+   "ko": "파괴된 스튜디오, 보존된 전통: 수단의 문화를 구하기 위해 싸우는 예술가들",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/features/2026/10/31/studios-destroyed-traditions-saved-artists-fight-to-save-sudans-culture?traffic_source=rss",
+   "at": "2026-10-31T12:49:04.000Z",
+   "ev": [
+    "sudan"
+   ],
+   "cc": [
+    "Sudan"
+   ]
+  },
+  {
+   "id": "49acb1b2e242",
+   "t": "New Yemen fighting displaces 290,000, says UN, with pregnant women at risk",
+   "ko": "UN은 새로운 예멘 전쟁으로 인해 29만명의 이재민이 발생하고 임산부가 위험에 처해 있다고 밝혔습니다.",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/10/31/new-yemen-fighting-displaces-290000-says-un-with-pregnant-women-at-risk?traffic_source=rss",
+   "at": "2026-10-31T12:45:49.000Z",
+   "ev": [
+    "yemen"
+   ],
+   "cc": [
+    "Yemen"
+   ]
+  },
+  {
+   "id": "2c76e9c35563",
+   "t": "Former rebel leader elected chief minister of Philippine Muslim region",
+   "ko": "전 반군 지도자, 필리핀 이슬람 지역의 총리로 선출",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/video/newsfeed/2026/10/31/former-rebel-leader-elected-chief-minister-of-philippine-muslim-region?traffic_source=rss",
+   "at": "2026-10-31T12:23:06.000Z",
+   "ev": [],
+   "cc": [
+    "Philippines"
+   ]
+  },
+  {
+   "id": "69a67642e85c",
+   "t": "Iran lawmakers call for withdrawal from NPT: Will we have war or peace?",
+   "ko": "이란 국회의원들, NPT 탈퇴 촉구: 전쟁이 일어날 것인가, 평화가 일어날 것인가?",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/10/31/iran-lawmakers-call-for-withdrawal-from-npt-will-we-have-war-or-peace?traffic_source=rss",
+   "at": "2026-10-31T12:22:45.000Z",
+   "ev": [
+    "iran"
+   ],
+   "cc": [
+    "Iran"
+   ]
+  },
+  {
+   "id": "fe39229a0f59",
+   "t": "Iran warns of unfettered retaliation if attacked as mediators try for peace",
+   "ko": "이란은 중재자가 평화를 위해 노력하는 동안 공격을 받으면 무제한 보복을 경고합니다.",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/10/31/iran-warns-of-unfettered-retaliation-if-attacked-as-mediators-try-for-peace?traffic_source=rss",
+   "at": "2026-10-31T12:13:42.000Z",
+   "ev": [
+    "iran"
+   ],
+   "cc": [
+    "Iran"
+   ]
+  },
+  {
+   "id": "676f23ce4fee",
+   "t": "Drone photo award winners: Far-out landscapes. Ship recycling. Rugs, rugs rugs!",
+   "ko": "드론 사진상 수상자: 먼 풍경. 선박 재활용. 러그, 러그 러그!",
+   "src": "NPR",
+   "u": "https://www.npr.org/2026/10/31/g-s1-150698/drone-photo-award-winners",
+   "at": "2026-10-31T11:56:10.000Z",
+   "ev": [],
+   "cc": []
+  },
+  {
+   "id": "6010e5774076",
+   "t": "Do tough laws deter drug crimes? Lessons from Singapore and Malaysia",
+   "ko": "엄격한 법이 마약 범죄를 예방할 수 있나요? 싱가포르와 말레이시아의 교훈",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/video/101-east/2026/10/31/do-tough-laws-deter-drug-crimes-lessons-from-singapore-and-malaysia?traffic_source=rss",
+   "at": "2026-10-31T11:30:00.000Z",
+   "ev": [],
+   "cc": [
+    "Singapore",
+    "Malaysia"
+   ]
+  },
+  {
+   "id": "bb02b36e4643",
+   "t": "Protests outside Poland’s constitutional court: What’s the crisis about?",
+   "ko": "폴란드 헌법재판소 밖의 시위: 위기는 무엇인가?",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/10/31/protests-outside-polands-constitutional-court-whats-the-crisis-about?traffic_source=rss",
+   "at": "2026-10-31T11:27:07.000Z",
+   "ev": [],
+   "cc": [
+    "Poland"
+   ]
+  },
+  {
+   "id": "aaf353726cd4",
+   "t": "Binance hit by 6.3 billion dollar crypto theft",
+   "ko": "바이낸스는 63억 달러 규모의 암호화폐 도난 피해를 입었습니다.",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/binance-hit-by-6-3-billion-dollar-crypto-theft",
+   "at": "2026-10-31T11:16:54.000Z",
+   "ev": [],
+   "cc": [
+    "North Korea"
+   ]
+  },
+  {
+   "id": "50bbc8f064ef",
+   "t": "France's Nunez warns of high risk during protests",
+   "ko": "프랑스 누네즈, 시위 중 위험성 경고",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/france-s-nunez-warns-of-high-risk-during-protests",
+   "at": "2026-10-31T11:15:19.000Z",
+   "ev": [],
+   "cc": [
+    "France"
+   ]
+  },
+  {
+   "id": "1e7e3da24e86",
+   "t": "Third weekend of protests in France",
+   "ko": "프랑스 세 번째 주말 시위",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/third-weekend-of-protests-in-france",
+   "at": "2026-10-31T11:13:44.000Z",
+   "ev": [],
+   "cc": [
+    "France"
+   ]
+  },
+  {
+   "id": "a0353772e061",
+   "t": "Thousands protest across Italy over living costs and military spending",
+   "ko": "이탈리아 전역에서 수천 명이 생활비와 군비 지출을 놓고 시위를 벌이고 있습니다.",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/video/newsfeed/2026/10/31/thousands-protest-across-italy-over-living-costs-and-military-spending?traffic_source=rss",
+   "at": "2026-10-31T11:07:39.000Z",
+   "ev": [],
+   "cc": [
+    "Italy"
+   ]
+  },
+  {
+   "id": "3bca1ead4569",
+   "t": "Streeting says he began stockpiling food weeks ago amid rising threat to UK",
+   "ko": "스트리팅은 영국에 대한 위협이 커지면서 몇 주 전부터 식량을 비축하기 시작했다고 말했습니다.",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/politics/2026/oct/31/streeting-stockpiling-food-water-weeks-ago-amid-rising-threat-to-uk",
+   "at": "2026-10-31T10:57:36.000Z",
+   "ev": [],
+   "cc": [
+    "United Kingdom"
+   ]
+  },
+  {
+   "id": "68174de001a6",
+   "t": "Hundreds from Russian-occupied Oleshky land in Belarus en route to Ukraine",
+   "ko": "러시아가 점령한 벨로루시의 올레쉬키 땅에서 수백 명이 우크라이나로 이동 중",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/10/31/hundreds-from-russian-occupied-oleshky-land-in-belarus-en-route-to-ukraine?traffic_source=rss",
+   "at": "2026-10-31T10:53:55.000Z",
+   "ev": [
+    "ukraine"
+   ],
+   "cc": [
+    "Belarus",
+    "Ukraine"
+   ]
+  },
+  {
+   "id": "da67cc7ac325",
+   "t": "Can Democrats win the US Senate? 10 key midterm races to watch",
+   "ko": "민주당이 미국 상원에서 승리할 수 있을까? 주목해야 할 10가지 주요 중간고사 경기",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/10/31/can-democrats-win-the-us-senate-10-key-midterm-races-to-watch?traffic_source=rss",
+   "at": "2026-10-31T10:38:43.000Z",
+   "ev": [
+    "iran"
+   ],
+   "cc": [
+    "United States",
+    "Iran"
+   ]
+  },
+  {
+   "id": "926214564101",
+   "t": "Trump vs MAGA: Why his movement is splitting",
+   "ko": "트럼프 대 MAGA: 그의 움직임이 분열되는 이유",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/video/20261031-trump-vs-maga-why-his-movement-is-splitting",
+   "at": "2026-10-31T10:11:47.000Z",
+   "ev": [
+    "iran"
+   ],
+   "cc": [
+    "Iran"
+   ]
+  },
+  {
+   "id": "3474a6c961b0",
+   "t": "Trump beware: US voters are concerned about government corruption",
+   "ko": "트럼프 조심하세요: 미국 유권자들은 정부 부패를 우려하고 있습니다",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/us-news/2026/oct/31/trump-government-corruption-midterms-voters",
+   "at": "2026-10-31T10:00:41.000Z",
+   "ev": [
+    "iran"
+   ],
+   "cc": [
+    "United States",
+    "United Arab Emirates",
+    "Puerto Rico"
+   ]
+  },
+  {
+   "id": "31d2f9349bd3",
+   "t": "Education under fire: Gaza’s children face death on their way to school",
+   "ko": "불타오르는 교육: 가자 지구의 아이들은 학교에 가는 길에 죽음을 맞이합니다",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/features/2026/10/31/education-under-fire-gazas-children-face-death-on-their-way-to-school?traffic_source=rss",
+   "at": "2026-10-31T10:00:17.000Z",
+   "ev": [
+    "gaza"
+   ],
+   "cc": [
+    "Palestine",
+    "Israel"
+   ]
+  },
+  {
+   "id": "db90d29e6ca8",
+   "t": "Protesters gather at Poland's Top court",
+   "ko": "폴란드 최고 법원에 모인 시위대",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/protesters-gather-at-poland-s-top-court",
+   "at": "2026-10-31T09:31:23.000Z",
+   "ev": [],
+   "cc": [
+    "Poland"
+   ]
+  },
+  {
+   "id": "5f2912bd1f3d",
+   "t": "Russia's presence divides G20 ministers",
+   "ko": "러시아의 존재로 G20 장관 분열",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/russia-s-presence-divides-g20-ministers",
+   "at": "2026-10-31T09:30:04.000Z",
+   "ev": [
+    "ukraine"
+   ],
+   "cc": [
+    "Russia",
+    "United States",
+    "Japan"
+   ]
+  },
+  {
+   "id": "6b40c374af41",
+   "t": "French Interior Minister fears disorder after dark on Halloween",
+   "ko": "프랑스 내무장관, 할로윈 어두워진 후 무질서 우려",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/french-interior-minister-fears-disorder-after-dark-on-halloween",
+   "at": "2026-10-31T09:28:52.000Z",
+   "ev": [],
+   "cc": [
+    "France"
+   ]
+  },
+  {
+   "id": "73074b58bf56",
+   "t": "France: Two rallies against racism near Paris",
+   "ko": "프랑스: 파리 인근에서 인종차별 반대 집회 두 건",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/france-two-rallies-against-racism-near-paris",
+   "at": "2026-10-31T09:27:17.000Z",
+   "ev": [],
+   "cc": [
+    "France"
+   ]
+  },
+  {
+   "id": "46feefc25634",
+   "t": "Cost of living protests to spread to Germany and reignite in France on Halloween",
+   "ko": "생활비 시위가 독일로 확산됐다가 할로윈을 맞아 프랑스에서 다시 불붙을 예정",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/world/2026/oct/30/cost-of-living-protests-to-spread-to-germany-and-reignite-in-france-on-halloween",
+   "at": "2026-10-31T09:13:22.000Z",
+   "ev": [],
+   "cc": [
+    "Germany",
+    "France",
+    "Italy"
+   ]
+  },
+  {
+   "id": "28fea16950d5",
+   "t": "‘The last fortress’: historic Athens cafe closes as countercultural area gentrifies",
+   "ko": "'마지막 요새': 반문화 지역이 고급화되면서 역사적인 아테네 카페가 문을 닫습니다",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/world/2026/oct/31/mouria-historic-athens-cafe-closes-exarchia-gentrifies",
+   "at": "2026-10-31T08:00:37.000Z",
+   "ev": [],
+   "cc": []
+  },
+  {
+   "id": "32c7947c2354",
+   "t": "France braces for Halloween protests, shops board up storefronts",
+   "ko": "프랑스, 할로윈 시위 준비, 상점이 매장 전면에 늘어서다",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/france-braces-for-halloween-protests-shops-board-up-storefronts",
+   "at": "2026-10-31T07:40:42.000Z",
+   "ev": [],
+   "cc": [
+    "France"
+   ]
+  },
   {
    "id": "61fa7006f1ad",
    "t": "The selective solidarity at the heart of India’s voter protests",
@@ -69,8 +438,8 @@
   },
   {
    "id": "f997b8a51ad9",
-   "t": "Live: France braces for Halloween protests, government vows tough response",
-   "ko": "라이브: 프랑스, ​​할로윈 시위 준비, 정부는 강경 대응 다짐",
+   "t": "Live: France’s top court bans Halloween protest in the heart of Paris, permits route on outskirts",
+   "ko": "라이브: 프랑스 최고 법원, 파리 중심부에서 할로윈 ​​시위 금지, 외곽 통행 허용",
    "src": "France 24",
    "u": "https://www.france24.com/en/france/20261031-live-france-braces-for-halloween-protests-government-vows-tough-response",
    "at": "2026-10-31T05:53:27.000Z",
@@ -684,20 +1053,6 @@
    "ev": [],
    "cc": [
     "Spain"
-   ]
-  },
-  {
-   "id": "46feefc25634",
-   "t": "Cost of living protests to spread to Germany and reignite in France on Halloween",
-   "ko": "생활비 시위가 독일로 확산됐다가 할로윈을 맞아 프랑스에서 다시 불붙을 예정",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/world/2026/oct/30/cost-of-living-protests-to-spread-to-germany-and-reignite-in-france-on-halloween",
-   "at": "2026-10-30T14:42:46.000Z",
-   "ev": [],
-   "cc": [
-    "Germany",
-    "France",
-    "Italy"
    ]
   },
   {
@@ -1755,326 +2110,6 @@
    "ev": [],
    "cc": [
     "Turkey"
-   ]
-  },
-  {
-   "id": "973c92ebbe21",
-   "t": "France: Trappes racist shooting suspect transferred to French court",
-   "ko": "프랑스: 트라페스 인종차별 총격 용의자, 프랑스 법원으로 이송",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/video/20261029-france-trappes-racist-shooting-suspect-transferred-to-french-court",
-   "at": "2026-10-29T13:22:39.000Z",
-   "ev": [],
-   "cc": [
-    "France"
-   ]
-  },
-  {
-   "id": "da75e312ba21",
-   "t": "'Very disturbing details': Trappes shooting suspect admits targeting victims by race, religion",
-   "ko": "'매우 충격적인 세부 사항': 트라페스 총격 용의자, 인종, 종교를 이용해 피해자를 표적으로 삼았다는 사실 인정",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/video/20261029-very-disturbing-details-trappes-shooting-suspect-admits-targeting-victims-by-race-religion",
-   "at": "2026-10-29T13:10:37.000Z",
-   "ev": [],
-   "cc": []
-  },
-  {
-   "id": "4fd9cb1c3fed",
-   "t": "Police investigate gang links as woman, 19, dies after drive-by shooting at Logan pub south of Brisbane",
-   "ko": "브리즈번 남쪽 로건 펍에서 19세 여성이 드라이브 바이 총격을 가한 뒤 사망하자 경찰이 갱단 연루 조사",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/australia-news/2026/oct/29/woman-19-dies-after-masked-gunmen-opened-fire-outside-brisbane-pub-ntwnfb",
-   "at": "2026-10-29T13:04:17.000Z",
-   "ev": [],
-   "cc": []
-  },
-  {
-   "id": "90413d21ea9e",
-   "t": "HMRC puts 200 billionaires on UK tax crackdown hitlist",
-   "ko": "HMRC, 영국 세금 단속 대상 목록에 억만장자 200명 추가",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/news/2026/oct/29/hmrc-billionaires-uk-tax-crackdown-compliance-managers",
-   "at": "2026-10-29T12:54:18.000Z",
-   "ev": [],
-   "cc": [
-    "United Kingdom"
-   ]
-  },
-  {
-   "id": "3db756187959",
-   "t": "Fighting rages near Yemen’s Taiz as UN urges humanitarian access",
-   "ko": "UN이 인도주의적 접근을 촉구함에 따라 예멘 타이즈 인근에서 격렬한 전투가 벌어지고 있습니다.",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/news/2026/10/29/fighting-rages-near-yemens-taiz-as-un-urges-humanitarian-access?traffic_source=rss",
-   "at": "2026-10-29T12:46:29.000Z",
-   "ev": [
-    "yemen"
-   ],
-   "cc": [
-    "Yemen"
-   ]
-  },
-  {
-   "id": "5f60a35bcc66",
-   "t": "South Korean prosecutors press for death sentence in Yoon martial law case",
-   "ko": "검찰, 윤 계엄령 사건에 사형 선고 촉구",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/news/2026/10/29/south-korean-prosecutors-press-for-death-sentence-in-yoon-martial-law-case?traffic_source=rss",
-   "at": "2026-10-29T12:36:43.000Z",
-   "ev": [],
-   "cc": []
-  },
-  {
-   "id": "1c0d63d6b788",
-   "t": "A week of Israel’s lockdown in Hebron: What’s happened, when will it end?",
-   "ko": "이스라엘의 헤브론 봉쇄 일주일: 무슨 일이 일어났고, 언제 끝날까요?",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/news/2026/10/29/a-week-of-israels-lockdown-in-hebron-whats-happened-when-will-it-end?traffic_source=rss",
-   "at": "2026-10-29T12:29:05.000Z",
-   "ev": [
-    "westbank"
-   ],
-   "cc": [
-    "Israel"
-   ]
-  },
-  {
-   "id": "c81fac5ea566",
-   "t": "Russia drone strike on Ukrainian railway station kills 13",
-   "ko": "러시아, 우크라이나 기차역에 드론 공격 13명 사망",
-   "src": "UN News",
-   "u": "https://news.un.org/feed/view/en/story/2026/10/1168702",
-   "at": "2026-10-29T12:00:00.000Z",
-   "ev": [
-    "ukraine"
-   ],
-   "cc": [
-    "Russia",
-    "Ukraine"
-   ]
-  },
-  {
-   "id": "8d958a4733bc",
-   "t": "Myanmar’s illicit economy fuels escalating violence, with civilians bearing the brunt",
-   "ko": "미얀마의 불법 경제는 폭력 사태를 부채질하고 있으며, 그 피해는 민간인에게 있습니다.",
-   "src": "UN News",
-   "u": "https://news.un.org/feed/view/en/story/2026/10/1168705",
-   "at": "2026-10-29T12:00:00.000Z",
-   "ev": [
-    "myanmar"
-   ],
-   "cc": [
-    "Myanmar"
-   ]
-  },
-  {
-   "id": "b06e115d93ff",
-   "t": "World News in Brief: 5 children killed in Sudan, Haiti hunger emergency, Yemen war update",
-   "ko": "세계 뉴스 요약: 수단에서 어린이 5명 사망, 아이티 기아 긴급 상황, 예멘 전쟁 업데이트",
-   "src": "UN News",
-   "u": "https://news.un.org/feed/view/en/story/2026/10/1168703",
-   "at": "2026-10-29T12:00:00.000Z",
-   "ev": [
-    "sudan",
-    "darfur",
-    "yemen",
-    "haiti"
-   ],
-   "cc": [
-    "Sudan",
-    "Haiti",
-    "Yemen"
-   ]
-  },
-  {
-   "id": "63d3b11e9840",
-   "t": "At least 13 killed in 'horrific' Russian drone strike at Ukraine train station",
-   "ko": "우크라이나 기차역에서 러시아 드론 공격으로 최소 13명 사망",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/europe/20261029-at-least-13-killed-in-horrific-russian-drone-strike-at-ukraine-train-station",
-   "at": "2026-10-29T11:36:35.000Z",
-   "ev": [
-    "ukraine"
-   ],
-   "cc": [
-    "Russia",
-    "Ukraine"
-   ]
-  },
-  {
-   "id": "dc053b54cf8c",
-   "t": "Israel’s election rhetoric: What candidates said, and how they performed",
-   "ko": "이스라엘의 선거 수사법: 후보자들이 말한 내용과 수행 방식",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/news/2026/10/29/israels-election-what-the-candidates-said-and-how-they-did?traffic_source=rss",
-   "at": "2026-10-29T11:27:22.000Z",
-   "ev": [],
-   "cc": [
-    "Israel"
-   ]
-  },
-  {
-   "id": "274115908bff",
-   "t": "US sanctions Rwanda's defence ministry over DR Congo conflict",
-   "ko": "미국, 콩고민주공화국 내전 관련 르완다 국방부 제재",
-   "src": "BBC",
-   "u": "https://www.bbc.co.uk/news/articles/cm87zw51qw0jo?at_medium=RSS&at_campaign=rss",
-   "at": "2026-10-29T11:25:16.000Z",
-   "ev": [
-    "drc"
-   ],
-   "cc": [
-    "United States",
-    "Rwanda",
-    "Democratic Republic of the Congo"
-   ]
-  },
-  {
-   "id": "42c054c66d68",
-   "t": "‘Survival of the fittest’: The struggle to get to university in The Gambia",
-   "ko": "'적자생존': 감비아에서 대학 진학을 위한 분투",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/news/2026/10/29/survival-of-the-fittest-the-struggle-to-get-to-university-in-the-gambia?traffic_source=rss",
-   "at": "2026-10-29T11:25:16.000Z",
-   "ev": [],
-   "cc": [
-    "Gambia"
-   ]
-  },
-  {
-   "id": "35b6fc33daf4",
-   "t": "Pentagon says Iran war has cost US taxpayers $47bn: What that means",
-   "ko": "미 국방부는 이란 전쟁으로 인해 미국 납세자들이 470억 달러의 손실을 입었다고 밝혔습니다. 이것이 의미하는 바는 무엇입니까?",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/news/2026/10/29/pentagon-says-iran-war-has-cost-us-taxpayers-47bn-what-that-means?traffic_source=rss",
-   "at": "2026-10-29T11:12:43.000Z",
-   "ev": [
-    "iran"
-   ],
-   "cc": [
-    "Iran",
-    "United States"
-   ]
-  },
-  {
-   "id": "1f4286ad68e7",
-   "t": "Protest at India university where no students’ union vote held for 20 years",
-   "ko": "20년 동안 학생회 투표가 없는 인도 대학에서 시위",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/news/2026/10/29/unrest-at-india-university-where-no-students-union-polls-held-for-20-years?traffic_source=rss",
-   "at": "2026-10-29T11:05:18.000Z",
-   "ev": [],
-   "cc": [
-    "India"
-   ]
-  },
-  {
-   "id": "d191265a138c",
-   "t": "REPLAY: French anti-terrorism prosecutor gives press conference on racist attack",
-   "ko": "재생: 프랑스 반테러 검사가 인종차별 공격에 대한 기자회견을 합니다.",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/video/20261029-replay-french-anti-terrorism-prosecutor-gives-press-conference-on-racist-attack",
-   "at": "2026-10-29T10:56:43.000Z",
-   "ev": [],
-   "cc": [
-    "France"
-   ]
-  },
-  {
-   "id": "c87799d315fd",
-   "t": "France reclaims title as Europe's champion of tax and social charges",
-   "ko": "프랑스, 세금 및 사회부담금 부문에서 유럽의 챔피언 자리 탈환",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/tv-shows/business/20261029-france-reclaims-title-as-europe-s-champion-of-tax-and-social-charges",
-   "at": "2026-10-29T10:54:59.000Z",
-   "ev": [],
-   "cc": [
-    "France",
-    "United States"
-   ]
-  },
-  {
-   "id": "1ccb7a83028e",
-   "t": "Trappes residents reel from deadly racist attack that killed one",
-   "ko": "트라페스 주민들, 한 명 사망한 치명적인 인종차별 공격에 휘청거림",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/video/20261029-trappes-residents-reel-from-deadly-racist-attack-that-killed-one",
-   "at": "2026-10-29T10:29:32.000Z",
-   "ev": [],
-   "cc": []
-  },
-  {
-   "id": "7e93f615451b",
-   "t": "Hong Kong leader apologises and housing minister resigns after fire investigation exposes failures",
-   "ko": "홍콩 지도자, 화재 조사 결과 실패 폭로 후 사과하고 주택부 장관 사임",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/asia-pacific/20261029-hong-kong-leader-apologises-and-housing-minister-resigns-after-fire-investigation-exposes-failures",
-   "at": "2026-10-29T10:29:23.000Z",
-   "ev": [],
-   "cc": [
-    "Hong Kong",
-    "United States"
-   ]
-  },
-  {
-   "id": "71fee8edd7df",
-   "t": "Ship reported on fire off Oman as Iran escalation fears mount",
-   "ko": "이란의 고조 우려로 오만에서 선박 화재 보고",
-   "src": "DW",
-   "u": "https://www.dw.com/en/ship-reported-on-fire-off-oman-as-iran-escalation-fears-mount/a-79792733?maca=en-rss-en-world-4025-rdf",
-   "at": "2026-10-29T10:04:00.000Z",
-   "ev": [
-    "iran"
-   ],
-   "cc": [
-    "Oman",
-    "Iran",
-    "United States"
-   ]
-  },
-  {
-   "id": "ab8e49c47e0b",
-   "t": "How AI drones are influencing the course of the Ukraine war",
-   "ko": "AI 드론이 우크라이나 전쟁 과정에 미치는 영향",
-   "src": "NPR",
-   "u": "https://www.npr.org/2026/10/29/g-s1-147496/ukraine-ai-drones-war-russia",
-   "at": "2026-10-29T09:02:00.000Z",
-   "ev": [
-    "ukraine"
-   ],
-   "cc": [
-    "Ukraine",
-    "Russia"
-   ]
-  },
-  {
-   "id": "acdb3df8b180",
-   "t": "Ethiopia acquires Russian fighter jets and air defence systems amid war in Tigray",
-   "ko": "에티오피아, 티그레이 전쟁 중 러시아 전투기와 방공 시스템 획득",
-   "src": "BBC",
-   "u": "https://www.bbc.co.uk/news/articles/cw78prj801pvo?at_medium=RSS&at_campaign=rss",
-   "at": "2026-10-29T08:23:31.000Z",
-   "ev": [
-    "ethiopia"
-   ],
-   "cc": [
-    "Ethiopia",
-    "Russia"
-   ]
-  },
-  {
-   "id": "66899ee6ee99",
-   "t": "Shell profits double to $10.8bn as Iran war pushes up margin on oil",
-   "ko": "이란 전쟁으로 원유 마진이 높아짐에 따라 Shell 이익은 108억 달러로 두 배 증가",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/business/2026/oct/29/shell-profits-double-iran-war-pushes-up-profit-margin-on-oil",
-   "at": "2026-10-29T08:00:37.000Z",
-   "ev": [
-    "iran"
-   ],
-   "cc": [
-    "Iran"
    ]
   }
  ]
