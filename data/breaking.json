@@ -1,13 +1,13 @@
 {
- "updated": "2026-10-31T13:27:50.542Z",
+ "updated": "2026-10-31T17:55:28.281Z",
  "sources": {
   "BBC": {
    "ok": true,
-   "n": 9
+   "n": 8
   },
   "Al Jazeera": {
    "ok": true,
-   "n": 12
+   "n": 11
   },
   "The Guardian": {
    "ok": true,
@@ -19,7 +19,7 @@
   },
   "France 24": {
    "ok": true,
-   "n": 16
+   "n": 15
   },
   "UN News": {
    "ok": true,
@@ -27,36 +27,118 @@
   },
   "NPR": {
    "ok": true,
-   "n": 5
+   "n": 3
   }
  },
  "items": [
   {
    "id": "763a99da6625",
-   "t": "Evacuees from Russia-occupied city where residents ate weeds arrive in Ukraine",
-   "ko": "주민들이 잡초를 먹었던 러시아 점령 도시에서 피난민들이 우크라이나에 도착",
+   "t": "Ukrainian evacuees reunite with family after years trapped in Russia-occupied city",
+   "ko": "우크라이나 피난민, 러시아 점령 도시에 수년간 갇혀 있다가 가족과 재회",
    "src": "BBC",
    "u": "https://www.bbc.co.uk/news/articles/cqx2818elrnzo?at_medium=RSS&at_campaign=rss",
-   "at": "2026-10-31T13:12:46.000Z",
+   "at": "2026-10-31T17:53:35.000Z",
    "ev": [
     "ukraine"
    ],
    "cc": [
-    "Ukraine",
-    "United States"
+    "Ukraine"
    ]
   },
   {
    "id": "be4683e2306f",
-   "t": "France and Germany braced for unrest with hundreds of demonstrations planned – Europe live",
-   "ko": "프랑스와 독일, 수백 건의 시위 계획으로 불안에 대비 - 유럽 라이브",
+   "t": "Protests under way in Germany and France as minister warns against use of Halloween masks – Europe live",
+   "ko": "장관이 할로윈 마스크 사용에 대해 경고하면서 독일과 프랑스에서 시위가 진행 중 – 유럽 라이브",
    "src": "The Guardian",
    "u": "https://www.theguardian.com/world/live/2026/oct/31/france-germany-protests-paris-europe-latest-news-updates",
-   "at": "2026-10-31T13:09:34.000Z",
+   "at": "2026-10-31T17:27:30.000Z",
    "ev": [],
    "cc": [
-    "France",
+    "Germany",
+    "France"
+   ]
+  },
+  {
+   "id": "062722960b48",
+   "t": "Almost 50 arrested at protest against Palestine Action ban outside US embassy in London",
+   "ko": "런던 주재 미국 대사관 밖에서 팔레스타인 활동 금지 반대 항의 시위에서 약 50명 체포",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/uk-news/2026/oct/31/protest-against-palestine-action-ban-outside-us-embassy-in-london",
+   "at": "2026-10-31T16:38:19.000Z",
+   "ev": [],
+   "cc": [
+    "Palestine",
+    "United States"
+   ]
+  },
+  {
+   "id": "e50b736a7914",
+   "t": "Thousands rally in Berlin as Gen Z plans protests in 30 German cities",
+   "ko": "Z 세대가 독일 30개 도시에서 시위를 계획함에 따라 수천 명이 베를린에서 집회를 열었습니다.",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/10/31/thousands-rally-in-berlin-as-gen-z-plans-protests-in-30-german-cities?traffic_source=rss",
+   "at": "2026-10-31T16:28:04.000Z",
+   "ev": [],
+   "cc": [
     "Germany"
+   ]
+  },
+  {
+   "id": "631b22c26981",
+   "t": "Iran FM says US outreach a ‘positive step’ as delegation in Qatar for talks",
+   "ko": "이란 FM은 회담을 위해 카타르 대표단으로서 미국의 지원 활동이 '긍정적인 단계'라고 말했습니다.",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/10/31/iran-fm-says-us-outreach-a-positive-step-as-delegation-in-qatar-for-talks?traffic_source=rss",
+   "at": "2026-10-31T14:31:37.000Z",
+   "ev": [
+    "iran"
+   ],
+   "cc": [
+    "Iran",
+    "United States",
+    "Qatar"
+   ]
+  },
+  {
+   "id": "93f7b4ba334e",
+   "t": "Ethiopian PM puts ministers through military training",
+   "ko": "에티오피아 총리, 장관들에게 군사 훈련 실시",
+   "src": "BBC",
+   "u": "https://www.bbc.co.uk/news/articles/cmwyv2y7g9l8o?at_medium=RSS&at_campaign=rss",
+   "at": "2026-10-31T14:28:15.000Z",
+   "ev": [
+    "ethiopia"
+   ],
+   "cc": [
+    "Ethiopia"
+   ]
+  },
+  {
+   "id": "b5bafb19c928",
+   "t": "Israel voted for Israel: Why Gaza wasn’t on the ballot",
+   "ko": "이스라엘이 이스라엘에게 투표했다: 왜 가자지구는 투표용지에 나오지 않았는가?",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/10/31/israel-voted-for-israel-why-gaza-wasnt-on-the-ballot?traffic_source=rss",
+   "at": "2026-10-31T13:35:51.000Z",
+   "ev": [
+    "gaza"
+   ],
+   "cc": [
+    "Israel",
+    "Palestine"
+   ]
+  },
+  {
+   "id": "f404abb85544",
+   "t": "UK police should not have let US force take over airbase trial, MoD documents show",
+   "ko": "영국 경찰은 미군이 공군 기지 재판을 맡게 놔두지 말았어야 했다고 국방부 문서가 밝혔습니다.",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/uk-news/2026/oct/31/uk-police-should-not-have-let-us-force-take-over-airbase-trial-mod-documents-show",
+   "at": "2026-10-31T13:30:43.000Z",
+   "ev": [],
+   "cc": [
+    "United Kingdom",
+    "United States"
    ]
   },
   {
@@ -100,6 +182,22 @@
    ],
    "cc": [
     "Yemen"
+   ]
+  },
+  {
+   "id": "d4ccf45294f2",
+   "t": "Residents from Russian-occupied Oleshky reunite with families after evacuation operation",
+   "ko": "러시아 점령지 올레쉬키 주민들, 대피 작전 후 가족과 재회",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/europe/20261031-evacuees-from-russian-occupied-oleshky-arrive-in-ukraine",
+   "at": "2026-10-31T12:45:49.000Z",
+   "ev": [
+    "ukraine"
+   ],
+   "cc": [
+    "Belarus",
+    "United States",
+    "Russia"
    ]
   },
   {
@@ -438,8 +536,8 @@
   },
   {
    "id": "f997b8a51ad9",
-   "t": "Live: France’s top court bans Halloween protest in the heart of Paris, permits route on outskirts",
-   "ko": "라이브: 프랑스 최고 법원, 파리 중심부에서 할로윈 ​​시위 금지, 외곽 통행 허용",
+   "t": "Live: Interior ministry says some 320,000 people protest across France as unrest flares",
+   "ko": "생방송: 내무부는 불안이 고조되면서 프랑스 전역에서 약 32만 명이 시위를 벌이고 있다고 밝혔습니다.",
    "src": "France 24",
    "u": "https://www.france24.com/en/france/20261031-live-france-braces-for-halloween-protests-government-vows-tough-response",
    "at": "2026-10-31T05:53:27.000Z",
@@ -1884,232 +1982,6 @@
    "cc": [
     "Ukraine",
     "Russia"
-   ]
-  },
-  {
-   "id": "5da7d48e1fb7",
-   "t": "Pakistan rights activist Imaan Mazari and husband jailed for 10 years",
-   "ko": "파키스탄 인권 운동가 이만 마자리와 남편이 징역 10년을 선고받았다.",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/news/2026/10/29/pakistan-rights-activist-imaan-mazari-and-husband-jailed-for-10-years?traffic_source=rss",
-   "at": "2026-10-29T17:28:18.000Z",
-   "ev": [],
-   "cc": [
-    "Pakistan"
-   ]
-  },
-  {
-   "id": "8bd06094ddf9",
-   "t": "UAE sentences eight people to life over arms supplies to Sudan’s army",
-   "ko": "UAE, 수단군에 무기 공급한 혐의로 8명 종신형 선고",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/news/2026/10/29/uae-sentences-eight-people-to-life-over-arms-supplies-to-sudans-army?traffic_source=rss",
-   "at": "2026-10-29T17:25:17.000Z",
-   "ev": [
-    "sudan"
-   ],
-   "cc": [
-    "United Arab Emirates",
-    "Sudan"
-   ]
-  },
-  {
-   "id": "6ca2a93812d3",
-   "t": "Meta discussed ‘whisper strategy’ against social media critic Jonathan Haidt, files show",
-   "ko": "메타는 소셜 미디어 평론가 조나단 하이트(Jonathan Haidt)에 대한 '속삭임 전략'에 대해 논의했다고 파일에 나와 있습니다.",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/technology/2026/oct/29/meta-staff-us-social-media-critic-jonathan-haidt-court-documents",
-   "at": "2026-10-29T17:20:57.000Z",
-   "ev": [],
-   "cc": [
-    "United States",
-    "Australia"
-   ]
-  },
-  {
-   "id": "a3167c4b039c",
-   "t": "Aid mission set to enter Ukraine's Oleshky as localised ceasefire holds for third day",
-   "ko": "현지 휴전이 3일째 유지됨에 따라 구호 임무가 우크라이나의 올레쉬키(Oleshky)에 진입할 예정",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/europe/20261029-aid-mission-set-to-enter-ukraine-s-oleshky-as-localised-ceasefire-holds-for-third-day",
-   "at": "2026-10-29T16:19:14.000Z",
-   "ev": [
-    "ukraine"
-   ],
-   "cc": [
-    "Ukraine",
-    "United States",
-    "Russia"
-   ]
-  },
-  {
-   "id": "57f2657ee766",
-   "t": "US and Japan agree to establish a Japanese facility for joint missile production",
-   "ko": "미국과 일본이 일본의 미사일 공동 생산 시설을 설립하기로 합의했습니다.",
-   "src": "NPR",
-   "u": "https://www.npr.org/2026/10/29/g-s1-150666/us-and-japan-agree-to-establish-a-japanese-facility-for-joint-missile-production",
-   "at": "2026-10-29T15:58:27.000Z",
-   "ev": [],
-   "cc": [
-    "United States",
-    "Japan",
-    "China"
-   ]
-  },
-  {
-   "id": "205ad8aa3a96",
-   "t": "China elevates a military general to the Politburo and seeks to strengthen party discipline",
-   "ko": "중국, 군 장성을 정치국에 승격시키고 당 규율 강화 노력",
-   "src": "NPR",
-   "u": "https://www.npr.org/2026/10/29/g-s1-150645/china-elevates-a-military-general-to-the-politburo-and-seeks-to-strengthen-party-discipline",
-   "at": "2026-10-29T15:53:46.000Z",
-   "ev": [],
-   "cc": [
-    "China"
-   ]
-  },
-  {
-   "id": "a1fc91976214",
-   "t": "Pentagon shake-up continues: US fires top army general in latest ouster",
-   "ko": "국방부 개편은 계속된다: 미국은 최근 축출에서 육군 최고 장군을 해고했다",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/video/20261029-pentagon-shake-up-continues-us-fires-top-army-general-in-latest-ouster",
-   "at": "2026-10-29T15:30:44.000Z",
-   "ev": [
-    "iran"
-   ],
-   "cc": [
-    "United States",
-    "Iran"
-   ]
-  },
-  {
-   "id": "1e8f7bb8ab78",
-   "t": "Spanish long jumper Julieta Gallego among victims of deadly train collision",
-   "ko": "스페인의 멀리뛰기 선수 줄리에타 갈레고(Julieta Gallego)가 열차 충돌로 사망했습니다.",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/sports/2026/10/29/spanish-long-jumper-julieta-gallego-among-victims-of-deadly-train-collision?traffic_source=rss",
-   "at": "2026-10-29T15:18:38.000Z",
-   "ev": [],
-   "cc": [
-    "Spain"
-   ]
-  },
-  {
-   "id": "f923a3e0cfa3",
-   "t": "Two Colorado college students found dead after going missing during hike",
-   "ko": "콜로라도 대학생 2명, 하이킹 중 실종돼 숨진 채 발견",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/us-news/2026/oct/29/colorado-college-students-found-dead-hike",
-   "at": "2026-10-29T15:17:16.000Z",
-   "ev": [],
-   "cc": []
-  },
-  {
-   "id": "4e2b19219e54",
-   "t": "Israeli strikes hit Gaza as Health Ministry urges Rafah opening",
-   "ko": "보건부가 라파 개방을 촉구하자 이스라엘, 가자지구 공습",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/news/2026/10/29/israeli-strikes-hit-gaza-as-health-ministry-urges-rafah-opening?traffic_source=rss",
-   "at": "2026-10-29T15:12:36.000Z",
-   "ev": [
-    "gaza"
-   ],
-   "cc": [
-    "Israel",
-    "Palestine"
-   ]
-  },
-  {
-   "id": "30b0b2008444",
-   "t": "Minimum wage increase could come early as France braces for protests",
-   "ko": "프랑스, 시위에 대비해 최저임금 인상이 조기에 이뤄질 수도 있다",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/video/20261029-minimum-wage-increase-could-come-early-as-france-braces-for-protests",
-   "at": "2026-10-29T14:47:48.000Z",
-   "ev": [],
-   "cc": [
-    "France"
-   ]
-  },
-  {
-   "id": "92c2ee3b7e50",
-   "t": "'Real questions to be asked' after deadly train collision in Spain, journalist says",
-   "ko": "스페인에서 치명적인 열차 충돌 후 '진짜 질문'을 던져야 한다고 언론인이 말했습니다.",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/tv-shows/perspective/20261029-real-questions-to-be-asked-after-deadly-train-collision-in-spain-journalist-says",
-   "at": "2026-10-29T14:44:07.000Z",
-   "ev": [],
-   "cc": [
-    "Spain"
-   ]
-  },
-  {
-   "id": "b6cec7dfaadc",
-   "t": "Senate race in once reliably Republican South Carolina tied in final stretch – poll",
-   "ko": "한때 안정적으로 공화당이었던 사우스캐롤라이나주 상원 경선이 마지막 단계에서 동점을 기록했습니다 – 여론조사",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/us-news/2026/oct/29/south-carolina-senate-tied-race",
-   "at": "2026-10-29T14:42:38.000Z",
-   "ev": [],
-   "cc": [
-    "United States"
-   ]
-  },
-  {
-   "id": "d4f72b2bef19",
-   "t": "Russian drone attack on Ukrainian train station kills at least 14, officials say",
-   "ko": "우크라이나 기차역에 대한 러시아 드론 공격으로 최소 14명이 사망했다고 관리들이 밝혔습니다.",
-   "src": "BBC",
-   "u": "https://www.bbc.co.uk/news/articles/c9p8gdlz1p2ko?at_medium=RSS&at_campaign=rss",
-   "at": "2026-10-29T14:17:35.000Z",
-   "ev": [
-    "ukraine"
-   ],
-   "cc": [
-    "Russia",
-    "Ukraine"
-   ]
-  },
-  {
-   "id": "e7753dad1225",
-   "t": "Alaska governor orders investigation into Democrat’s Senate campaign – live",
-   "ko": "알래스카 주지사, 민주당 상원 캠페인 조사 명령 – 실시간",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/us-news/live/2026/oct/29/midterm-elections-politics-trump-obama-california-alaska-latest-news-updates",
-   "at": "2026-10-29T13:45:28.000Z",
-   "ev": [
-    "iran"
-   ],
-   "cc": [
-    "United States",
-    "Iran"
-   ]
-  },
-  {
-   "id": "6ba5679a1883",
-   "t": "Damascus, Amman contradict each other on attack that killed civilians",
-   "ko": "다마스쿠스와 암만, 민간인 살해 공격으로 서로 모순",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/features/2026/10/29/damascus-amman-contradict-each-other-on-attack-that-killed-civilians?traffic_source=rss",
-   "at": "2026-10-29T13:44:42.000Z",
-   "ev": [
-    "syria"
-   ],
-   "cc": [
-    "Syria"
-   ]
-  },
-  {
-   "id": "72ab5d9bfb44",
-   "t": "Rock collapse kills two in Turkey's Cappadocia, local media reports",
-   "ko": "터키 카파도키아 암석 붕괴로 2명 사망, 현지 언론 보도",
-   "src": "BBC",
-   "u": "https://www.bbc.co.uk/news/articles/cknv08nvzld4o?at_medium=RSS&at_campaign=rss",
-   "at": "2026-10-29T13:44:39.000Z",
-   "ev": [],
-   "cc": [
-    "Turkey"
    ]
   }
  ]
