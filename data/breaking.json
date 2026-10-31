@@ -1,17 +1,17 @@
 {
- "updated": "2026-10-31T17:55:28.281Z",
+ "updated": "2026-10-31T21:13:51.809Z",
  "sources": {
   "BBC": {
    "ok": true,
-   "n": 8
+   "n": 10
   },
   "Al Jazeera": {
    "ok": true,
-   "n": 11
+   "n": 9
   },
   "The Guardian": {
    "ok": true,
-   "n": 15
+   "n": 13
   },
   "DW": {
    "ok": true,
@@ -27,10 +27,192 @@
   },
   "NPR": {
    "ok": true,
-   "n": 3
+   "n": 4
   }
  },
  "items": [
+  {
+   "id": "ac71f0a6c906",
+   "t": "Turkiye’s Erdogan urges Russia and Ukraine to stop Black Sea attacks",
+   "ko": "터키 에르도안 대통령, 러시아와 우크라이나에 흑해 공격 중단 촉구",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/10/31/turkiyes-erdogan-urges-russia-and-ukraine-to-stop-black-sea-attacks?traffic_source=rss",
+   "at": "2026-10-31T20:09:18.000Z",
+   "ev": [
+    "ukraine"
+   ],
+   "cc": [
+    "Turkey",
+    "Russia",
+    "Ukraine"
+   ]
+  },
+  {
+   "id": "ee38011e73f0",
+   "t": "'Gen Z' demonstrations across Germany demand more education funding",
+   "ko": "독일 전역의 'Z세대' 시위, 더 많은 교육 자금 요구",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/europe/20261031-german-police-protesters-clash-after-gen-z-demos",
+   "at": "2026-10-31T20:07:52.000Z",
+   "ev": [],
+   "cc": [
+    "Germany"
+   ]
+  },
+  {
+   "id": "3ef1a8112a73",
+   "t": "Clashes erupt between police and protesters in Paris",
+   "ko": "파리서 경찰과 시위대 충돌…",
+   "src": "BBC",
+   "u": "https://www.bbc.co.uk/news/videos/ck0j0y87j303o?at_medium=RSS&at_campaign=rss",
+   "at": "2026-10-31T19:37:43.000Z",
+   "ev": [],
+   "cc": [
+    "France"
+   ]
+  },
+  {
+   "id": "4b09569c771d",
+   "t": "France seethes again as youth-led protests sweep Europe",
+   "ko": "청년들이 주도하는 시위가 유럽을 휩쓸면서 프랑스가 다시 들끓고 있다",
+   "src": "NPR",
+   "u": "https://www.npr.org/2026/10/31/g-s1-151121/france-seethes-again-as-youth-led-protests-sweep-europe",
+   "at": "2026-10-31T19:30:19.000Z",
+   "ev": [],
+   "cc": [
+    "France"
+   ]
+  },
+  {
+   "id": "c02cb42c8aa4",
+   "t": "'We came back from hell', say Ukrainians after years in Russia-occupied front-line city",
+   "ko": "러시아 점령 최전선 도시에서 수년을 보낸 우크라이나인들은 '우리는 지옥에서 돌아왔다'고 말한다",
+   "src": "BBC",
+   "u": "https://www.bbc.co.uk/news/articles/cqglw3k7djp1o?at_medium=RSS&at_campaign=rss",
+   "at": "2026-10-31T19:22:26.000Z",
+   "ev": [
+    "ukraine"
+   ],
+   "cc": []
+  },
+  {
+   "id": "3fb3346bf27c",
+   "t": "Palestinians ‘Stealing their own olives’",
+   "ko": "팔레스타인인 '자신의 올리브를 훔치다'",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/video/newsfeed/2026/10/31/palestinians-stealing-their-own?traffic_source=rss",
+   "at": "2026-10-31T19:18:32.000Z",
+   "ev": [
+    "westbank"
+   ],
+   "cc": [
+    "Palestine",
+    "Israel"
+   ]
+  },
+  {
+   "id": "f80701f178a4",
+   "t": "Oleshky evacuees reunite with families after truce allows crossing back into Ukraine",
+   "ko": "올레쉬키(Oleshky) 피난민, 휴전 후 우크라이나로의 귀국 허용 후 가족과 재회",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/world/2026/oct/31/oleshky-evacuees-reunite-with-families-after-truce-allows-crossing-into-ukraine",
+   "at": "2026-10-31T19:17:22.000Z",
+   "ev": [
+    "ukraine"
+   ],
+   "cc": [
+    "Ukraine",
+    "Russia"
+   ]
+  },
+  {
+   "id": "90a7592b69ed",
+   "t": "London police arrest 139 as hundreds protest Palestine Action ban",
+   "ko": "수백 명이 팔레스타인 활동 금지에 항의하자 런던 경찰, 139명 체포",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/10/31/london-police-arrest-48-as-hundreds-protest-palestine-action-ban?traffic_source=rss",
+   "at": "2026-10-31T18:48:29.000Z",
+   "ev": [],
+   "cc": [
+    "Palestine",
+    "United Kingdom"
+   ]
+  },
+  {
+   "id": "c5e05211993f",
+   "t": "Key takeaways from this week's political meeting in Beijing",
+   "ko": "이번 주 베이징 정치 회의의 주요 내용",
+   "src": "NPR",
+   "u": "https://www.npr.org/2026/10/31/nx-s1-6024695/political-meeting-beijing-takeaways",
+   "at": "2026-10-31T18:42:33.000Z",
+   "ev": [],
+   "cc": []
+  },
+  {
+   "id": "149bbee8aa95",
+   "t": "Evacuees of Russian-occupied Oleshky reunited with families",
+   "ko": "러시아 점령지 올레스키(Oleshky)에서 피난민들이 가족과 재회했다.",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/video/newsfeed/2026/10/31/aje-onl-nf_evacuees-from-oleshky-reunite-w-families-in-ukraine-311026?traffic_source=rss",
+   "at": "2026-10-31T18:32:20.000Z",
+   "ev": [
+    "ukraine"
+   ],
+   "cc": [
+    "Ukraine"
+   ]
+  },
+  {
+   "id": "be4683e2306f",
+   "t": "Protests under way in Germany and France as minister warns against use of Halloween masks – as it happened",
+   "ko": "장관이 할로윈 마스크 사용에 대해 경고하면서 독일과 프랑스에서 시위가 진행 중입니다.",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/world/live/2026/oct/31/france-germany-protests-paris-europe-latest-news-updates",
+   "at": "2026-10-31T18:31:38.000Z",
+   "ev": [],
+   "cc": [
+    "Germany",
+    "France"
+   ]
+  },
+  {
+   "id": "062722960b48",
+   "t": "Almost 140 arrested at protest against Palestine Action ban outside US embassy in London",
+   "ko": "런던 주재 미국 대사관 밖에서 팔레스타인 활동 금지 반대 항의 시위에서 약 140명 체포",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/uk-news/2026/oct/31/protest-against-palestine-action-ban-outside-us-embassy-in-london",
+   "at": "2026-10-31T18:28:30.000Z",
+   "ev": [],
+   "cc": [
+    "Palestine",
+    "United States"
+   ]
+  },
+  {
+   "id": "c4dba270228b",
+   "t": "Tension and clashes as hundreds of thousands protest again in France",
+   "ko": "프랑스에서 수십만 명이 다시 항의하면서 긴장과 충돌",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/10/31/tension-and-clashes-as-hundreds-of-thousands-protest-again-in-france?traffic_source=rss",
+   "at": "2026-10-31T18:28:14.000Z",
+   "ev": [],
+   "cc": [
+    "France"
+   ]
+  },
+  {
+   "id": "bff7a6f82905",
+   "t": "Police clash with masked rioters after largely peaceful protests across France",
+   "ko": "프랑스 전역에서 대규모 평화 시위가 벌어진 후 경찰이 복면을 쓴 폭도들과 충돌했습니다.",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/world/2026/oct/31/police-clash-rioters-after-largely-peaceful-protests-across-france",
+   "at": "2026-10-31T18:23:56.000Z",
+   "ev": [],
+   "cc": [
+    "France",
+    "Germany"
+   ]
+  },
   {
    "id": "763a99da6625",
    "t": "Ukrainian evacuees reunite with family after years trapped in Russia-occupied city",
@@ -46,35 +228,55 @@
    ]
   },
   {
-   "id": "be4683e2306f",
-   "t": "Protests under way in Germany and France as minister warns against use of Halloween masks – Europe live",
-   "ko": "장관이 할로윈 마스크 사용에 대해 경고하면서 독일과 프랑스에서 시위가 진행 중 – 유럽 라이브",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/world/live/2026/oct/31/france-germany-protests-paris-europe-latest-news-updates",
-   "at": "2026-10-31T17:27:30.000Z",
-   "ev": [],
+   "id": "d45a2073311f",
+   "t": "At least four Palestinians killed in Gaza as Israeli attacks continue",
+   "ko": "이스라엘의 공격이 계속되면서 가자지구에서 팔레스타인인 최소 4명이 사망했습니다.",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/10/31/at-least-four-palestinians-killed-in-gaza-as-israeli-attacks-continue?traffic_source=rss",
+   "at": "2026-10-31T17:49:23.000Z",
+   "ev": [
+    "gaza"
+   ],
    "cc": [
-    "Germany",
-    "France"
+    "Palestine",
+    "Israel"
    ]
   },
   {
-   "id": "062722960b48",
-   "t": "Almost 50 arrested at protest against Palestine Action ban outside US embassy in London",
-   "ko": "런던 주재 미국 대사관 밖에서 팔레스타인 활동 금지 반대 항의 시위에서 약 50명 체포",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/uk-news/2026/oct/31/protest-against-palestine-action-ban-outside-us-embassy-in-london",
-   "at": "2026-10-31T16:38:19.000Z",
-   "ev": [],
+   "id": "5d1ffac44468",
+   "t": "Iran's Khamenei warns US and Israel against new attacks",
+   "ko": "이란 하메네이, 미국과 이스라엘에 새로운 공격 경고",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/middle-east/20261031-iran-s-khamenei-warns-us-and-israel-against-new-attacks",
+   "at": "2026-10-31T17:00:36.000Z",
+   "ev": [
+    "iran"
+   ],
    "cc": [
-    "Palestine",
-    "United States"
+    "Iran",
+    "United States",
+    "Israel"
+   ]
+  },
+  {
+   "id": "896568e9efb4",
+   "t": "Emotional reunions with loved ones for Oleshky evacuees",
+   "ko": "Oleshky 피난민을 위한 사랑하는 사람들과의 감동적인 재회",
+   "src": "BBC",
+   "u": "https://www.bbc.co.uk/news/videos/cmy83w0jwznpo?at_medium=RSS&at_campaign=rss",
+   "at": "2026-10-31T16:55:47.000Z",
+   "ev": [
+    "ukraine"
+   ],
+   "cc": [
+    "Ukraine",
+    "Belarus"
    ]
   },
   {
    "id": "e50b736a7914",
-   "t": "Thousands rally in Berlin as Gen Z plans protests in 30 German cities",
-   "ko": "Z 세대가 독일 30개 도시에서 시위를 계획함에 따라 수천 명이 베를린에서 집회를 열었습니다.",
+   "t": "Thousands rally in Berlin as Gen Z protests in more than 30 German cities",
+   "ko": "Z세대가 독일 30개 이상의 도시에서 시위를 벌이는 가운데 수천 명이 베를린에서 집회를 가졌습니다.",
    "src": "Al Jazeera",
    "u": "https://www.aljazeera.com/news/2026/10/31/thousands-rally-in-berlin-as-gen-z-plans-protests-in-30-german-cities?traffic_source=rss",
    "at": "2026-10-31T16:28:04.000Z",
@@ -536,8 +738,8 @@
   },
   {
    "id": "f997b8a51ad9",
-   "t": "Live: Interior ministry says some 320,000 people protest across France as unrest flares",
-   "ko": "생방송: 내무부는 불안이 고조되면서 프랑스 전역에서 약 32만 명이 시위를 벌이고 있다고 밝혔습니다.",
+   "t": "Live: Interior minister says protests across France went well despite clashes with police",
+   "ko": "생방송: 내무장관은 경찰과의 충돌에도 불구하고 프랑스 전역의 시위가 순조롭게 진행되었다고 말했습니다.",
    "src": "France 24",
    "u": "https://www.france24.com/en/france/20261031-live-france-braces-for-halloween-protests-government-vows-tough-response",
    "at": "2026-10-31T05:53:27.000Z",
@@ -1791,197 +1993,6 @@
     "Russia",
     "Ukraine",
     "Tunisia"
-   ]
-  },
-  {
-   "id": "114b09fa2de8",
-   "t": "Israel bans travel for Brad Lander after detention in occupied West Bank",
-   "ko": "이스라엘, 서안지구 구금 후 브래드 랜더 여행 금지",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/video/newsfeed/2026/10/29/israel-bans-travel-for-brad-lander-after-detention-in-occupied-west-bank?traffic_source=rss",
-   "at": "2026-10-29T21:10:13.000Z",
-   "ev": [
-    "westbank"
-   ],
-   "cc": [
-    "Israel",
-    "Palestine",
-    "United States"
-   ]
-  },
-  {
-   "id": "504788c106f8",
-   "t": "Patrick Stewart, Star Trek actor and acclaimed thespian, dies aged 86",
-   "ko": "스타트렉 배우이자 영화배우 패트릭 스튜어트가 86세의 나이로 사망했습니다.",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/culture/2026/oct/29/patrick-stewart-dead",
-   "at": "2026-10-29T21:02:36.000Z",
-   "ev": [],
-   "cc": []
-  },
-  {
-   "id": "415bb2ea4752",
-   "t": "Palestinians injured, arrested in Israeli raids across West Bank",
-   "ko": "이스라엘의 서안지구 공습으로 팔레스타인인 부상, 체포",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/news/2026/10/29/palestinians-injured-arrested-in-israeli-raids-across-west-bank?traffic_source=rss",
-   "at": "2026-10-29T20:40:03.000Z",
-   "ev": [
-    "westbank"
-   ],
-   "cc": [
-    "Israel",
-    "Palestine"
-   ]
-  },
-  {
-   "id": "32fc73a1f7bc",
-   "t": "'The city is alive': A brief peace in Kherson, but residents fear what comes next",
-   "ko": "'도시는 살아있다': 케르손에 잠시 평화가 찾아왔지만 주민들은 다음에 무슨 일이 일어날지 두려워합니다.",
-   "src": "BBC",
-   "u": "https://www.bbc.co.uk/news/articles/ck1l393pyrylo?at_medium=RSS&at_campaign=rss",
-   "at": "2026-10-29T20:05:57.000Z",
-   "ev": [
-    "ukraine"
-   ],
-   "cc": []
-  },
-  {
-   "id": "d1ff6d7e943c",
-   "t": "What killed 500-plus penguins? How scientists solved the mystery",
-   "ko": "500마리가 넘는 펭귄이 죽은 이유는 무엇입니까? 과학자들이 미스터리를 해결한 방법",
-   "src": "NPR",
-   "u": "https://www.npr.org/2026/10/29/nx-s1-6020451/avian-flu-penguins-pathogen-antarctica-cholera",
-   "at": "2026-10-29T20:03:26.000Z",
-   "ev": [],
-   "cc": []
-  },
-  {
-   "id": "da98c9e6b1e7",
-   "t": "'Extremist right-wing ideologies' an increasing threat in France & 'across much of democratic world'",
-   "ko": "'극단주의 우익 이데올로기', 프랑스와 '민주주의 세계 전반에 걸쳐' 위협 증가",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/video/20261029-extremist-right-wing-ideologies-an-increasing-threat-in-france-across-much-of-democratic-world",
-   "at": "2026-10-29T20:02:03.000Z",
-   "ev": [],
-   "cc": [
-    "France"
-   ]
-  },
-  {
-   "id": "d5fa3e1950df",
-   "t": "Netanyahu attacks Palestinian-Israeli parties as he falls short of majority",
-   "ko": "네타냐후는 과반수에 미치지 못하자 팔레스타인-이스라엘 정당을 공격한다.",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/video/newsfeed/2026/10/29/netanyahu-attacks-palestinian-israeli-parties-as-he-falls-short-of-majority?traffic_source=rss",
-   "at": "2026-10-29T19:06:00.000Z",
-   "ev": [],
-   "cc": []
-  },
-  {
-   "id": "8f824d311db5",
-   "t": "Seven oil tankers carrying 288,000 tonnes of Russian diesel sail towards US",
-   "ko": "288,000톤의 러시아 디젤을 싣고 미국을 향해 항해하는 7척의 유조선",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/us-news/2026/oct/29/seven-oil-tankers-288000-tonnes-russian-diesel-sail-us-putin-trump",
-   "at": "2026-10-29T19:04:17.000Z",
-   "ev": [
-    "ukraine"
-   ],
-   "cc": [
-    "Russia",
-    "United States"
-   ]
-  },
-  {
-   "id": "4ae26feb3cc0",
-   "t": "Pentagon fires general it says leaked classified information to media",
-   "ko": "미 국방부, 언론에 기밀 정보 유출했다고 장군 해임",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/news/2026/10/29/pentagon-fires-general-it-says-leaked-classified-information-to-media?traffic_source=rss",
-   "at": "2026-10-29T19:02:19.000Z",
-   "ev": [
-    "ukraine",
-    "iran"
-   ],
-   "cc": [
-    "Iran",
-    "Ukraine"
-   ]
-  },
-  {
-   "id": "176ae4c48f20",
-   "t": "French shooting suspect deliberately targeted Muslims, Africans",
-   "ko": "무슬림과 아프리카인을 고의로 겨냥한 프랑스 총격 용의자",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/video/20261029-french-shooting-suspect-deliberately-targeted-muslims-africans",
-   "at": "2026-10-29T18:45:57.000Z",
-   "ev": [],
-   "cc": [
-    "France"
-   ]
-  },
-  {
-   "id": "29848ab83373",
-   "t": "US Muslims concerned but resilient as ‘hate’ attacks target Abdul El-Sayed",
-   "ko": "미국 이슬람교도들은 압둘 엘-사예드(Abdul El-Sayed)를 겨냥한 '증오' 공격에 대해 우려하고 있지만 탄력적이다",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/news/2026/10/29/us-muslims-concerned-but-resilient-as-hate-attacks-target-abdul-el-sayed?traffic_source=rss",
-   "at": "2026-10-29T18:30:04.000Z",
-   "ev": [],
-   "cc": [
-    "United States"
-   ]
-  },
-  {
-   "id": "128cf7caf8e5",
-   "t": "'Deeply regressive': How the French government plans to make protesters pay for riots and looting",
-   "ko": "'매우 퇴행적': 프랑스 정부가 시위대에게 폭동과 약탈 비용을 지불하도록 계획하는 방법",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/france/20261029-deeply-regressive-how-the-french-government-plans-to-make-protesters-pay-for-riots-and-looting",
-   "at": "2026-10-29T18:15:38.000Z",
-   "ev": [],
-   "cc": [
-    "France"
-   ]
-  },
-  {
-   "id": "18979a846cd4",
-   "t": "Hong Kong’s leader apologises for residential fire that killed 168 people",
-   "ko": "홍콩 지도자, 168명 사망한 주택 화재 사과",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/world/2026/oct/29/hong-kong-john-lee-apologises-wang-fuk-court-fire-killed-168-people",
-   "at": "2026-10-29T18:14:21.000Z",
-   "ev": [],
-   "cc": [
-    "Hong Kong"
-   ]
-  },
-  {
-   "id": "eb3b2d391929",
-   "t": "Lt. Gen. Ben Hodges accuses Hegseth of 'getting rid of people who may have the courage to push back'",
-   "ko": "벤 호지스 중장은 헤그세스가 '반격할 용기가 있는 사람들을 제거하고 있다'고 비난했습니다.",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/lt-gen-ben-hodges-accuses-hegseth-of-getting-rid-of-people-who-may-have-the-courage-to-push-back",
-   "at": "2026-10-29T18:09:28.000Z",
-   "ev": [],
-   "cc": [
-    "United States"
-   ]
-  },
-  {
-   "id": "693b6c6a2f54",
-   "t": "At least 14 people killed in attack on Ukraine train station",
-   "ko": "우크라이나 기차역 테러로 최소 14명 사망",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/video/newsfeed/2026/10/29/aje-onl-nf_russian-drone-strike-at-dnipro-train-platform-291026?traffic_source=rss",
-   "at": "2026-10-29T18:03:21.000Z",
-   "ev": [
-    "ukraine"
-   ],
-   "cc": [
-    "Ukraine",
-    "Russia"
    ]
   }
  ]
