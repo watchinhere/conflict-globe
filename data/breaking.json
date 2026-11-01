@@ -1,17 +1,17 @@
 {
- "updated": "2026-11-01T06:25:10.993Z",
+ "updated": "2026-11-01T13:46:42.589Z",
  "sources": {
   "BBC": {
    "ok": true,
-   "n": 10
+   "n": 7
   },
   "Al Jazeera": {
    "ok": true,
-   "n": 8
+   "n": 5
   },
   "The Guardian": {
    "ok": true,
-   "n": 9
+   "n": 5
   },
   "DW": {
    "ok": true,
@@ -19,18 +19,187 @@
   },
   "France 24": {
    "ok": true,
-   "n": 16
+   "n": 12
   },
   "UN News": {
    "ok": true,
-   "n": 5
+   "n": 1
   },
   "NPR": {
    "ok": true,
-   "n": 4
+   "n": 3
   }
  },
  "items": [
+  {
+   "id": "75368c83fb89",
+   "t": "At least eight Palestinians killed in Israeli attacks across Gaza",
+   "ko": "이스라엘 가자지구 공격으로 팔레스타인 최소 8명 사망",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/11/1/at-least-eight-palestinians-killed-in-israeli-attacks-across-gaza?traffic_source=rss",
+   "at": "2026-11-01T13:36:16.000Z",
+   "ev": [
+    "gaza"
+   ],
+   "cc": [
+    "Israel",
+    "Palestine"
+   ]
+  },
+  {
+   "id": "b11ae889621c",
+   "t": "Iran and US explore diplomacy amid rising threats of war",
+   "ko": "이란과 미국은 전쟁 위협이 높아지는 가운데 외교를 모색하고 있습니다.",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/11/1/iran-and-us-explore-diplomacy-amid-rising-threats-of-war?traffic_source=rss",
+   "at": "2026-11-01T13:02:10.000Z",
+   "ev": [
+    "iran"
+   ],
+   "cc": [
+    "Iran",
+    "United States"
+   ]
+  },
+  {
+   "id": "10ce8c4d364a",
+   "t": "Spirit of 1676: remembering the Native American cataclysm of King Philip’s war",
+   "ko": "1676년의 정신: 필립 왕의 전쟁으로 인한 아메리카 원주민의 대격변을 기억",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/us-news/2026/nov/01/king-philips-war-anniversary-native-american",
+   "at": "2026-11-01T13:00:13.000Z",
+   "ev": [],
+   "cc": [
+    "United Kingdom",
+    "United States"
+   ]
+  },
+  {
+   "id": "325bf9aefa6f",
+   "t": "The US-China trade war seems to have subsided – but the sense of calm is misleading",
+   "ko": "미중 무역전쟁이 진정된 것 같지만, 차분한 분위기는 오해를 불러일으킵니다.",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/world/2026/nov/01/us-china-trade-war-trump-xi",
+   "at": "2026-11-01T12:00:12.000Z",
+   "ev": [],
+   "cc": [
+    "United States"
+   ]
+  },
+  {
+   "id": "de77300dcc63",
+   "t": "Shops looted as German cost of living protests turn violent",
+   "ko": "독일의 생활비 시위가 폭력적으로 변하면서 약탈당한 상점들",
+   "src": "BBC",
+   "u": "https://www.bbc.co.uk/news/articles/cqj34gnd3n30o?at_medium=RSS&at_campaign=rss",
+   "at": "2026-11-01T11:57:48.000Z",
+   "ev": [],
+   "cc": [
+    "Germany",
+    "France"
+   ]
+  },
+  {
+   "id": "555d19980e41",
+   "t": "Mediators continue US-Iran negotiations amid war rhetoric: What we know",
+   "ko": "중재자들은 전쟁 수사 속에서 미국-이란 협상을 계속합니다: 우리가 알고 있는 것",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/11/1/mediators-continue-us-iran-negotiations-amid-war-rhetoric-what-we-know?traffic_source=rss",
+   "at": "2026-11-01T11:14:27.000Z",
+   "ev": [
+    "iran"
+   ],
+   "cc": [
+    "Iran",
+    "United States"
+   ]
+  },
+  {
+   "id": "dfee2290dfe6",
+   "t": "Bulgarians vote in presidential run-off amid Black Sea tensions",
+   "ko": "흑해 긴장 속에서 불가리아인들이 대선 결선투표를 실시했습니다.",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/11/1/bulgarians-vote-in-presidential-run-off-amid-black-sea-tensions?traffic_source=rss",
+   "at": "2026-11-01T10:57:45.000Z",
+   "ev": [],
+   "cc": [
+    "Bulgaria"
+   ]
+  },
+  {
+   "id": "0877c7724134",
+   "t": "Youth-led rallies sweep Europe",
+   "ko": "청년들이 주도하는 집회가 유럽을 휩쓸다",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/youth-led-rallies-sweep-europe",
+   "at": "2026-11-01T09:38:00.000Z",
+   "ev": [],
+   "cc": [
+    "France",
+    "Portugal",
+    "Italy"
+   ]
+  },
+  {
+   "id": "e60e2a8ee003",
+   "t": "How social media are central to protests",
+   "ko": "소셜미디어가 시위의 중심이 되는 이유",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/how-social-media-are-central-to-protests",
+   "at": "2026-11-01T09:36:20.000Z",
+   "ev": [],
+   "cc": [
+    "France"
+   ]
+  },
+  {
+   "id": "cde0d0a9e6da",
+   "t": "Hundreds of thousands protest in France for \"Act III\"",
+   "ko": "프랑스에서 'Act III'에 대한 수십만 시위",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/hundreds-of-thousands-protest-in-france-for-act-iii",
+   "at": "2026-11-01T09:35:02.000Z",
+   "ev": [],
+   "cc": [
+    "France"
+   ]
+  },
+  {
+   "id": "9acee05d5e43",
+   "t": "Israeli protesters urge Jewish-Arab coalition government",
+   "ko": "이스라엘 시위대, 유대인-아랍 연합 정부 촉구",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/video/newsfeed/2026/11/1/israeli-protesters-urge-jewish-arab-coalition-government?traffic_source=rss",
+   "at": "2026-11-01T09:24:52.000Z",
+   "ev": [],
+   "cc": [
+    "Israel"
+   ]
+  },
+  {
+   "id": "bc7022d1015a",
+   "t": "Indian opposition parties stage mega rally seeking election chief’s resignation",
+   "ko": "인도 야당, 선거위원장 사임을 요구하는 대규모 집회 개최",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/asia-pacific/20261101-india-tightens-security-as-opposition-holds-mega-rally-demanding-election-chief-s-resignation",
+   "at": "2026-11-01T06:24:17.000Z",
+   "ev": [
+    "delhi"
+   ],
+   "cc": []
+  },
+  {
+   "id": "35cecf2e130b",
+   "t": "Indian forces tighten security in Delhi ahead of big opposition protest",
+   "ko": "인도군은 대규모 반대 시위를 앞두고 델리의 보안을 강화했습니다.",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/world/2026/nov/01/india-opposition-protest-rally-delhi",
+   "at": "2026-11-01T06:20:58.000Z",
+   "ev": [
+    "delhi"
+   ],
+   "cc": []
+  },
   {
    "id": "608e24c78fbd",
    "t": "UN demands investigation after staffer’s death in Houthi custody in Yemen",
@@ -106,18 +275,6 @@
    "ev": [],
    "cc": [
     "North Korea"
-   ]
-  },
-  {
-   "id": "de77300dcc63",
-   "t": "Shops looted as German cost of living protests turn violent",
-   "ko": "독일의 생활비 시위가 폭력적으로 변하면서 약탈당한 상점들",
-   "src": "BBC",
-   "u": "https://www.bbc.co.uk/news/articles/cqj34gnd3n30o?at_medium=RSS&at_campaign=rss",
-   "at": "2026-11-01T01:59:57.000Z",
-   "ev": [],
-   "cc": [
-    "Germany"
    ]
   },
   {
@@ -438,6 +595,18 @@
    "cc": [
     "Ukraine",
     "Belarus"
+   ]
+  },
+  {
+   "id": "f997b8a51ad9",
+   "t": "🔴 Live: Interior ministry says some 320,000 people protest across France as unrest flares",
+   "ko": "🔴 라이브: 내무부는 불안이 고조되면서 프랑스 전역에서 약 320,000명이 시위를 벌이고 있다고 밝혔습니다.",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/france/20261031-live-france-braces-for-halloween-protests-government-vows-tough-response",
+   "at": "2026-10-31T16:45:06.000Z",
+   "ev": [],
+   "cc": [
+    "France"
    ]
   },
   {
@@ -915,18 +1084,6 @@
    "ev": [],
    "cc": [
     "United Kingdom"
-   ]
-  },
-  {
-   "id": "f997b8a51ad9",
-   "t": "Interior minister says protests across France went well despite clashes with police",
-   "ko": "내무장관은 경찰과의 충돌에도 불구하고 프랑스 전역의 시위가 순조롭게 진행됐다고 말했습니다.",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/france/20261031-live-france-braces-for-halloween-protests-government-vows-tough-response",
-   "at": "2026-10-31T05:53:27.000Z",
-   "ev": [],
-   "cc": [
-    "France"
    ]
   },
   {
@@ -1626,311 +1783,6 @@
    "ev": [],
    "cc": [
     "France"
-   ]
-  },
-  {
-   "id": "8e0a91968989",
-   "t": "Georgia's European dream left in limbo",
-   "ko": "조지아의 유러피언 드림이 막혀 버렸습니다",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/tv-shows/revisited/20261030-georgia-s-european-dream-left-in-limbo",
-   "at": "2026-10-30T13:34:51.000Z",
-   "ev": [],
-   "cc": [
-    "Georgia"
-   ]
-  },
-  {
-   "id": "2a213ec588a0",
-   "t": "Palestinian child survives Israeli gunshot to the head",
-   "ko": "이스라엘의 머리에 총격을 가한 팔레스타인 어린이, 살아남다",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/video/newsfeed/2026/10/30/palestinian-child-survives-israeli-gunshot-to-the-head?traffic_source=rss",
-   "at": "2026-10-30T13:32:24.000Z",
-   "ev": [],
-   "cc": [
-    "Palestine",
-    "Israel"
-   ]
-  },
-  {
-   "id": "8ffb2f79549e",
-   "t": "Italy tightens security as students, unions launch nationwide protests",
-   "ko": "이탈리아는 학생과 노조가 전국적인 시위를 시작함에 따라 보안을 강화했습니다.",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/news/2026/10/30/italy-tightens-security-as-students-unions-launch-nationwide-protests?traffic_source=rss",
-   "at": "2026-10-30T13:14:11.000Z",
-   "ev": [],
-   "cc": [
-    "Italy"
-   ]
-  },
-  {
-   "id": "f3464fbd91b7",
-   "t": "🔴 Ukraine war live: Russian strikes leave 200,000 without power in Ukraine's Dnipropetrovsk region",
-   "ko": "🔴 우크라이나 전쟁 라이브: 러시아의 공습으로 우크라이나 드니프로페트로우스크 지역에서 20만명의 전력이 끊겼습니다.",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/europe/20261030-live-russia-strikes-energy-facilities-kyiv-aid-convoy-heads-besieged-town-oleshky-ukraine",
-   "at": "2026-10-30T12:59:30.000Z",
-   "ev": [
-    "ukraine"
-   ],
-   "cc": [
-    "Ukraine",
-    "Russia"
-   ]
-  },
-  {
-   "id": "729e1d4cac74",
-   "t": "Gulf states must rethink trillion-dollar defence in light of US-Iran war, says report",
-   "ko": "걸프 지역 국가들은 미국-이란 전쟁을 고려하여 1조 달러 규모의 국방비를 재고해야 한다고 보고서가 밝혔습니다.",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/world/2026/oct/30/gulf-states-rethink-trillion-dollar-defence-us-iran-war-iiss-report",
-   "at": "2026-10-30T12:49:56.000Z",
-   "ev": [
-    "iran"
-   ],
-   "cc": [
-    "United States",
-    "Iran",
-    "United Arab Emirates"
-   ]
-  },
-  {
-   "id": "5fcd613b303b",
-   "t": "Qatari officials in Iran in bid to revive ceasefire deal with US",
-   "ko": "이란의 카타르 관리들은 미국과의 휴전 협정을 재개하기 위해 노력하고 있습니다.",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/news/2026/10/30/qatari-officials-in-iran-in-bid-to-revive-ceasefire-deal-with-us?traffic_source=rss",
-   "at": "2026-10-30T12:26:56.000Z",
-   "ev": [
-    "iran"
-   ],
-   "cc": [
-    "Iran",
-    "United States"
-   ]
-  },
-  {
-   "id": "bbe903297a1e",
-   "t": "UN rights office warns of deepening displacement ‘nightmare’ in Gaza",
-   "ko": "유엔 인권 사무소, 가자지구 난민 '악몽' 심화 경고",
-   "src": "UN News",
-   "u": "https://news.un.org/feed/view/en/story/2026/10/1168707",
-   "at": "2026-10-30T12:00:00.000Z",
-   "ev": [
-    "gaza"
-   ],
-   "cc": [
-    "Palestine",
-    "Israel"
-   ]
-  },
-  {
-   "id": "7eb60cb784d1",
-   "t": "Yemen war makes reaching assistance too dangerous for many",
-   "ko": "예멘 전쟁으로 인해 지원을 받는 것이 많은 사람들에게 너무 위험해졌습니다",
-   "src": "UN News",
-   "u": "https://news.un.org/feed/view/en/story/2026/10/1168706",
-   "at": "2026-10-30T12:00:00.000Z",
-   "ev": [
-    "yemen"
-   ],
-   "cc": [
-    "Yemen"
-   ]
-  },
-  {
-   "id": "84ae1997f0cb",
-   "t": "World News in Brief: 300,000 displaced in Lebanon, Türk ‘deeply concerned’ over Novaya Gazeta closure, $50 million refugee appeal, World Cities Day",
-   "ko": "세계 뉴스 요약: 레바논에서 난민 30만 명, 터키는 노바야 가제타(Novaya Gazeta) 폐쇄, 5천만 달러 난민 호소, 세계 도시의 날에 대해 '심각한 우려'",
-   "src": "UN News",
-   "u": "https://news.un.org/feed/view/en/story/2026/10/1168713",
-   "at": "2026-10-30T12:00:00.000Z",
-   "ev": [
-    "lebanon"
-   ],
-   "cc": [
-    "Lebanon"
-   ]
-  },
-  {
-   "id": "6fab4e751a8d",
-   "t": "Ukraine: Oleshky ceasefire offers ‘hope’ for civilians as attacks on aid vehicles continue",
-   "ko": "우크라이나: 올레쉬키 휴전은 구호 차량에 대한 공격이 계속되면서 민간인에게 '희망'을 제공합니다",
-   "src": "UN News",
-   "u": "https://news.un.org/feed/view/en/story/2026/10/1168712",
-   "at": "2026-10-30T12:00:00.000Z",
-   "ev": [
-    "ukraine"
-   ],
-   "cc": [
-    "Ukraine"
-   ]
-  },
-  {
-   "id": "3be2509dcc2d",
-   "t": "Alaska's Senate race faces claims of spoiler candidate. And, Hegseth ousts Army general",
-   "ko": "알래스카 상원 경선은 스포일러 후보라는 주장에 직면해 있습니다. 그리고 헤그세스는 육군 장군을 축출한다.",
-   "src": "NPR",
-   "u": "https://www.npr.org/2026/10/30/g-s1-150889/up-first-newsletter-midterm-elections-iran-war-veteran-affairs-loans",
-   "at": "2026-10-30T11:20:26.000Z",
-   "ev": [
-    "iran"
-   ],
-   "cc": [
-    "United States",
-    "Iran"
-   ]
-  },
-  {
-   "id": "b5e59cd98268",
-   "t": "Russian oil refinery struck as Ukraine renews drone attacks",
-   "ko": "우크라이나가 드론 공격을 재개함에 따라 러시아 정유소가 공격을 받았습니다.",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/video/newsfeed/2026/10/30/russian-oil-refinery-struck-as-ukraine-renews-drone-attacks?traffic_source=rss",
-   "at": "2026-10-30T09:14:16.000Z",
-   "ev": [
-    "ukraine"
-   ],
-   "cc": [
-    "Russia",
-    "Ukraine"
-   ]
-  },
-  {
-   "id": "23850c9487bf",
-   "t": "Houthis sending Taiz ‘back to the stone age’, governor of besieged Yemen city says",
-   "ko": "후티 반군, 타이즈를 '석기시대로 되돌려 보내다' 포위된 예멘 시 주지사",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/world/2026/oct/30/houthis-taiz-stone-age-yemen-city-siege",
-   "at": "2026-10-30T09:00:50.000Z",
-   "ev": [
-    "yemen"
-   ],
-   "cc": [
-    "Yemen"
-   ]
-  },
-  {
-   "id": "09005c7fe3d9",
-   "t": "Andy Burnham admits he would have liked more radical first budget",
-   "ko": "Andy Burnham은 좀 더 급진적인 첫 번째 예산을 선호했다고 인정합니다.",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/uk-news/2026/oct/30/andy-burnham-first-budget-labour-welfare",
-   "at": "2026-10-30T08:53:00.000Z",
-   "ev": [
-    "iran"
-   ],
-   "cc": [
-    "Iran"
-   ]
-  },
-  {
-   "id": "d6bdff54c628",
-   "t": "Oil flows are up as Iran war turmoil eases. Why do prices keep rising?",
-   "ko": "이란 전쟁 혼란이 완화되면서 석유 흐름이 증가했습니다. 가격은 왜 계속 오르는 걸까요?",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/economy/2026/10/30/oil-flows-are-up-as-iran-war-turmoil-eases-why-do-prices-keep-rising?traffic_source=rss",
-   "at": "2026-10-30T08:36:11.000Z",
-   "ev": [
-    "iran"
-   ],
-   "cc": [
-    "Iran"
-   ]
-  },
-  {
-   "id": "691a8b4ea357",
-   "t": "BP profits jump as Middle East conflict drives up oil refining margins",
-   "ko": "중동 분쟁으로 인해 정유 마진이 상승함에 따라 BP 이익 급증",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/business/2026/oct/30/bp-profits-jump-as-middle-east-conflict-drives-up-oil-refining-margins",
-   "at": "2026-10-30T08:06:46.000Z",
-   "ev": [],
-   "cc": []
-  },
-  {
-   "id": "35457c9bb75b",
-   "t": "French economy 'headed for a wall' as GDP shrinks, finance minister warns",
-   "ko": "프랑스 경제는 GDP가 줄어들면서 '벽에 직면했다'고 재무장관이 경고했다.",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/business/20261030-french-economy-headed-for-a-wall-as-gdp-shrinks-finance-minister-warns",
-   "at": "2026-10-30T08:01:46.000Z",
-   "ev": [],
-   "cc": [
-    "France"
-   ]
-  },
-  {
-   "id": "1b4e23184b84",
-   "t": "Are Trump’s global actions, from Ukraine to Iran, going to hurt him in elections?",
-   "ko": "우크라이나에서 이란에 이르기까지 트럼프의 글로벌 행동이 선거에서 그에게 해를 끼칠 것인가?",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/us-news/ng-interactive/2026/oct/30/ukraine-iran-trump-elections",
-   "at": "2026-10-30T08:00:49.000Z",
-   "ev": [
-    "ukraine",
-    "iran"
-   ],
-   "cc": [
-    "Ukraine",
-    "Iran",
-    "United States"
-   ]
-  },
-  {
-   "id": "eaa63838dee7",
-   "t": "‘My life is buried here’: Iranian man whose 12 family members were killed",
-   "ko": "'내 목숨이 여기에 묻혀 있다': 가족 12명 살해한 이란 남성",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/news/2026/10/30/my-life-is-buried-here-iranian-man-whose-12-family-members-were-killed?traffic_source=rss",
-   "at": "2026-10-30T07:51:08.000Z",
-   "ev": [
-    "iran"
-   ],
-   "cc": [
-    "Iran"
-   ]
-  },
-  {
-   "id": "29101399e919",
-   "t": "How Israel choked off Hebron at 10 entrances, as 5,000 forced to flee",
-   "ko": "이스라엘이 헤브론의 10개 입구에서 5,000명을 강제로 도망치게 한 방법",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/economy/2026/10/30/how-israel-choked-off-hebron-at-10-entrances-as-5000-forced-to-flee?traffic_source=rss",
-   "at": "2026-10-30T07:07:36.000Z",
-   "ev": [
-    "westbank"
-   ],
-   "cc": [
-    "Israel"
-   ]
-  },
-  {
-   "id": "eaf060580436",
-   "t": "French minister warns of 'very high' violence risk as country braces for Halloween protests",
-   "ko": "프랑스 장관, 할로윈 시위 준비로 폭력 위험 '매우 높음' 경고",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/france/20261030-french-minister-warns-of-very-high-violence-risk-as-country-braces-for-halloween-protests",
-   "at": "2026-10-30T06:57:15.000Z",
-   "ev": [],
-   "cc": [
-    "France"
-   ]
-  },
-  {
-   "id": "a1b6e2b85e25",
-   "t": "Friday briefing: Israel has a dilemma - can its opposition govern with Palestinian parties?",
-   "ko": "금요일 브리핑: 이스라엘은 딜레마에 빠졌습니다. 야당이 팔레스타인 정당과 함께 통치할 수 있을까요?",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/world/2026/oct/30/friday-briefing-israel-has-a-dilemma-can-its-opposition-govern-with-palestinian-parties",
-   "at": "2026-10-30T06:44:29.000Z",
-   "ev": [],
-   "cc": [
-    "Israel",
-    "Palestine",
-    "United Kingdom"
    ]
   }
  ]
