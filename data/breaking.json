@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-01T00:13:10.809Z",
+ "updated": "2026-11-01T06:25:10.993Z",
  "sources": {
   "BBC": {
    "ok": true,
@@ -7,11 +7,11 @@
   },
   "Al Jazeera": {
    "ok": true,
-   "n": 7
+   "n": 8
   },
   "The Guardian": {
    "ok": true,
-   "n": 12
+   "n": 9
   },
   "DW": {
    "ok": true,
@@ -32,15 +32,157 @@
  },
  "items": [
   {
+   "id": "608e24c78fbd",
+   "t": "UN demands investigation after staffer’s death in Houthi custody in Yemen",
+   "ko": "유엔, 예멘 후티군 구금 중 직원 사망에 대한 조사 요구",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/11/1/un-demands-investigation-after-staffers-death-in-houthi-custody-in-yemen?traffic_source=rss",
+   "at": "2026-11-01T04:49:15.000Z",
+   "ev": [
+    "yemen"
+   ],
+   "cc": [
+    "Yemen"
+   ]
+  },
+  {
+   "id": "fc9683a709a6",
+   "t": "France protests enter third week as police fire tear gas",
+   "ko": "경찰이 최루탄을 발사하면서 프랑스 시위가 3주째 접어들었습니다.",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/video/newsfeed/2026/11/1/france-protests-teargas-police-clashes?traffic_source=rss",
+   "at": "2026-11-01T04:31:24.000Z",
+   "ev": [],
+   "cc": [
+    "France"
+   ]
+  },
+  {
+   "id": "3bc92ec7802e",
+   "t": "Ukrainian evacuees from Russian-occupied Oleshky reunite with family",
+   "ko": "러시아 점령지 올레쉬키(Oleshky)에서 탈출한 우크라이나 피난민들이 가족과 재회하다",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/11/1/ukrainian-evacuees-from-russian-occupied-oleshky-reunite-with-family?traffic_source=rss",
+   "at": "2026-11-01T03:37:23.000Z",
+   "ev": [
+    "ukraine"
+   ],
+   "cc": [
+    "Ukraine"
+   ]
+  },
+  {
+   "id": "fa3ec50660c8",
+   "t": "What we know about latest efforts to end US war on Iran",
+   "ko": "이란에 대한 미국의 전쟁을 종식시키기 위한 최근의 노력에 대해 우리가 알고 있는 것",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/video/newsfeed/2026/11/1/iran-wrap-iran-latest-developments-011126?traffic_source=rss",
+   "at": "2026-11-01T03:24:02.000Z",
+   "ev": [
+    "iran"
+   ],
+   "cc": [
+    "United States",
+    "Iran"
+   ]
+  },
+  {
+   "id": "9fc83c591c0f",
+   "t": "The murder of Javits Frimpong, a bullied schoolboy in The Bronx",
+   "ko": "브롱크스에서 괴롭힘을 당한 남학생 Javits Frimpong의 살해",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/video/newsfeed/2026/11/1/the-murder-of-javits-frimpong-a-bullied-schoolboy-in-the-bronx?traffic_source=rss",
+   "at": "2026-11-01T03:18:02.000Z",
+   "ev": [],
+   "cc": []
+  },
+  {
+   "id": "49fc6e1403de",
+   "t": "Binance says 90% of losses from $6.3bn hack covered as FBI says North Korea behind attack",
+   "ko": "FBI가 해킹 배후에 북한이 있다고 밝혔을 때, 바이낸스는 63억 달러 규모의 해킹으로 인한 손실의 90%를 커버했다고 밝혔습니다.",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/business/2026/nov/01/binance-losses-covered-hack-fbi-north-korea-cryptocurrency",
+   "at": "2026-11-01T02:41:34.000Z",
+   "ev": [],
+   "cc": [
+    "North Korea"
+   ]
+  },
+  {
+   "id": "de77300dcc63",
+   "t": "Shops looted as German cost of living protests turn violent",
+   "ko": "독일의 생활비 시위가 폭력적으로 변하면서 약탈당한 상점들",
+   "src": "BBC",
+   "u": "https://www.bbc.co.uk/news/articles/cqj34gnd3n30o?at_medium=RSS&at_campaign=rss",
+   "at": "2026-11-01T01:59:57.000Z",
+   "ev": [],
+   "cc": [
+    "Germany"
+   ]
+  },
+  {
+   "id": "bff7a6f82905",
+   "t": "Police clash with masked rioters after largely peaceful protests across France",
+   "ko": "프랑스 전역에서 대규모 평화 시위가 벌어진 후 경찰이 복면을 쓴 폭도들과 충돌했습니다.",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/world/2026/oct/31/police-clash-rioters-after-largely-peaceful-protests-across-france",
+   "at": "2026-11-01T01:43:02.000Z",
+   "ev": [],
+   "cc": [
+    "France",
+    "Germany"
+   ]
+  },
+  {
    "id": "f086fc4a525c",
    "t": "Tusk defends overhaul of Poland’s constitutional court despite protests",
    "ko": "투스크는 항의에도 불구하고 폴란드 헌법재판소 개편을 옹호했다",
    "src": "The Guardian",
    "u": "https://www.theguardian.com/world/2026/oct/31/donald-tusk-defends-overhaul-poland-constitutional-court-despite-protests",
-   "at": "2026-10-31T22:43:09.000Z",
+   "at": "2026-11-01T01:14:06.000Z",
    "ev": [],
    "cc": [
     "Poland"
+   ]
+  },
+  {
+   "id": "1e4208dc101a",
+   "t": "Gen Z-led protests in Germany turn violent",
+   "ko": "독일 Z세대 주도 시위, 폭력적으로 변하다",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/video/newsfeed/2026/11/1/germany-gen-z-protests-education-military-service?traffic_source=rss",
+   "at": "2026-11-01T00:27:20.000Z",
+   "ev": [],
+   "cc": [
+    "Germany"
+   ]
+  },
+  {
+   "id": "8fa2de342312",
+   "t": "India's opposition set to hold mega rally seeking election chief's resignation",
+   "ko": "인도 야권, 선거관리위원장의 사임을 요구하는 대규모 집회 개최 예정",
+   "src": "BBC",
+   "u": "https://www.bbc.co.uk/news/articles/c60qk92dvlwgo?at_medium=RSS&at_campaign=rss",
+   "at": "2026-11-01T00:12:07.000Z",
+   "ev": [],
+   "cc": [
+    "India"
+   ]
+  },
+  {
+   "id": "dabd2925be5e",
+   "t": "Iran war live: Tehran eyes 2-day Hormuz plan; Trump says talks ‘going fine’",
+   "ko": "이란 전쟁 생중계: 테헤란은 2일 호르무즈 계획을 주시하고 있습니다. 트럼프 “회담은 잘 진행되고 있다”",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/liveblog/2026/11/1/iran-war-live-araghchi-says-talks-under-way-on-2-day-plan-to-reopen-hormuz?traffic_source=rss",
+   "at": "2026-11-01T00:00:51.000Z",
+   "ev": [
+    "iran"
+   ],
+   "cc": [
+    "Iran",
+    "Qatar",
+    "United States"
    ]
   },
   {
@@ -236,19 +378,6 @@
    "ev": [],
    "cc": [
     "France"
-   ]
-  },
-  {
-   "id": "bff7a6f82905",
-   "t": "Police clash with masked rioters after largely peaceful protests across France",
-   "ko": "프랑스 전역에서 대규모 평화 시위가 벌어진 후 경찰이 복면을 쓴 폭도들과 충돌했습니다.",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/world/2026/oct/31/police-clash-rioters-after-largely-peaceful-protests-across-france",
-   "at": "2026-10-31T18:23:56.000Z",
-   "ev": [],
-   "cc": [
-    "France",
-    "Germany"
    ]
   },
   {
@@ -1802,167 +1931,6 @@
     "Israel",
     "Palestine",
     "United Kingdom"
-   ]
-  },
-  {
-   "id": "98c40d1f5ce3",
-   "t": "Battle lines redrawn in Spain’s snap election after latest train disaster",
-   "ko": "최근 열차 참사 이후 스페인의 즉석 선거에서 전투선이 다시 그려졌습니다.",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/world/2026/oct/30/battle-lines-redrawn-spain-snap-election-train-disaster-pedro-sanchez-psoe-pp-vox",
-   "at": "2026-10-30T06:00:47.000Z",
-   "ev": [],
-   "cc": [
-    "Spain"
-   ]
-  },
-  {
-   "id": "11af3731112f",
-   "t": "Erin Patterson to die in prison after losing appeal against mushroom murder convictions",
-   "ko": "에린 패터슨, 버섯 살인 유죄 판결에 대한 항소 패소 후 감옥에서 사망",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/australia-news/2026/oct/29/erin-patterson-mushroom-murders-appeal-ruling-ntwnfb",
-   "at": "2026-10-30T05:31:26.000Z",
-   "ev": [],
-   "cc": []
-  },
-  {
-   "id": "d5399bfb76f3",
-   "t": "Sinkholes, scarred land and scapegoats: the scourge of illegal gold mining in Johannesburg",
-   "ko": "싱크홀, 상처받은 땅, 희생양: 요하네스버그 불법 금 채굴의 재앙",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/business/2026/oct/30/sinkholes-scarred-land-scapegoats-illegal-gold-mining-johannesburg",
-   "at": "2026-10-30T05:00:45.000Z",
-   "ev": [],
-   "cc": [
-    "South Africa"
-   ]
-  },
-  {
-   "id": "31bb82931ece",
-   "t": "Sudanese diaspora and human rights groups denounce UAE nominee for UN top job",
-   "ko": "수단 디아스포라 및 인권 단체, 유엔 최고 직책에 UAE 후보자 비난",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/world/2026/oct/30/sudanese-diaspora-human-rights-groups-denounce-uae-nominee-un-top-job",
-   "at": "2026-10-30T05:00:45.000Z",
-   "ev": [
-    "sudan"
-   ],
-   "cc": [
-    "Sudan",
-    "United Arab Emirates"
-   ]
-  },
-  {
-   "id": "6fb4f1a3aa72",
-   "t": "Three dead after two helicopters collide midair near Oregon airport",
-   "ko": "오리건주 공항 근처에서 헬기 2대가 공중에서 충돌해 3명이 숨졌다.",
-   "src": "BBC",
-   "u": "https://www.bbc.co.uk/news/articles/cked3p81303yo?at_medium=RSS&at_campaign=rss",
-   "at": "2026-10-30T03:05:17.000Z",
-   "ev": [],
-   "cc": []
-  },
-  {
-   "id": "dec6d740afe4",
-   "t": "China expels a record number from Communist party amid Xi’s intensified purges of top officials",
-   "ko": "중국, 시의 고위 관료 숙청 강화 속에 공산당에서 기록적인 숫자의 추방",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/world/2026/oct/30/china-expels-record-number-communist-party-xi-jinping-purges-officials-fifth-plenum",
-   "at": "2026-10-30T02:56:46.000Z",
-   "ev": [],
-   "cc": [
-    "China"
-   ]
-  },
-  {
-   "id": "1c9585119c7a",
-   "t": "Husband of one of Modi’s closest advisors questions election integrity",
-   "ko": "Modi의 가장 가까운 고문 중 한 사람의 남편은 선거 무결성에 의문을 제기합니다",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/video/newsfeed/2026/10/30/husband-of-one-of-modis-closest-advisors-questions-election-integrity?traffic_source=rss",
-   "at": "2026-10-30T02:41:18.000Z",
-   "ev": [],
-   "cc": [
-    "India"
-   ]
-  },
-  {
-   "id": "1da8a030205e",
-   "t": "Netanyahu attacks Israel’s Arab parties as he falls short of majority",
-   "ko": "네타냐후, 과반수에 못 미치자 이스라엘 아랍정당 공격",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/video/newsfeed/2026/10/30/netanyahu-attacks-israels-arab-parties-as-he-falls-short-of-majority?traffic_source=rss",
-   "at": "2026-10-30T02:40:26.000Z",
-   "ev": [],
-   "cc": [
-    "Israel"
-   ]
-  },
-  {
-   "id": "9845fb218ec1",
-   "t": "Vivek Ramaswamy discontinues attack ad that prompted wave of revulsion",
-   "ko": "Vivek Ramaswamy는 혐오감을 불러일으킨 공격 광고를 중단했습니다.",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/us-news/2026/oct/29/vivek-ramaswamy-attack-ad-ohio-governor-race-republican",
-   "at": "2026-10-30T01:10:33.000Z",
-   "ev": [],
-   "cc": []
-  },
-  {
-   "id": "bf2f4eca4741",
-   "t": "Ethiopia border clashes leave families hungry and homeless in Kenya",
-   "ko": "에티오피아 국경 충돌로 케냐 가족들이 굶주리고 노숙자가 되었습니다.",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/video/newsfeed/2026/10/30/ethiopia-border-clashes-leave-families-hungry-and-homeless-in-kenya?traffic_source=rss",
-   "at": "2026-10-30T01:05:26.000Z",
-   "ev": [
-    "ethiopia"
-   ],
-   "cc": [
-    "Ethiopia",
-    "Kenya"
-   ]
-  },
-  {
-   "id": "9d2802e95fa6",
-   "t": "EU force helicopter crash kills four in Bosnia",
-   "ko": "보스니아에서 EU군 헬리콥터 추락 사고로 4명 사망",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/news/2026/10/30/eu-force-helicopter-crash-kills-four-in-bosnia?traffic_source=rss",
-   "at": "2026-10-30T00:56:49.000Z",
-   "ev": [],
-   "cc": [
-    "Italy"
-   ]
-  },
-  {
-   "id": "382c88a84bc3",
-   "t": "Antisemitism envoy proposes ‘external ombudsman’ to monitor ABC and SBS coverage of Israel and Middle East",
-   "ko": "반유대주의 특사는 이스라엘과 중동에 대한 ABC와 SBS 보도를 감시하기 위해 '외부 옴부즈맨'을 제안했습니다.",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/media/2026/oct/30/jillian-segal-antisemitism-envoy-plan-report-priorities-ntwnfb",
-   "at": "2026-10-30T00:37:36.000Z",
-   "ev": [
-    "gaza"
-   ],
-   "cc": [
-    "Israel",
-    "Palestine",
-    "Australia"
-   ]
-  },
-  {
-   "id": "30a91c9b1a75",
-   "t": "North Korea tests attack drones as Kim calls for 'absolute superiority'",
-   "ko": "북한, 김정은이 '절대 우월' 주장하자 공격용 드론 시험",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/asia-pacific/20261030-north-korea-tests-attack-drones-as-kim-calls-for-absolute-superiority",
-   "at": "2026-10-30T00:22:55.000Z",
-   "ev": [],
-   "cc": [
-    "North Korea",
-    "South Korea"
    ]
   }
  ]
