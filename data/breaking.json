@@ -1,9 +1,9 @@
 {
- "updated": "2026-11-01T18:48:41.481Z",
+ "updated": "2026-11-01T22:37:42.262Z",
  "sources": {
   "BBC": {
    "ok": true,
-   "n": 9
+   "n": 10
   },
   "Al Jazeera": {
    "ok": true,
@@ -11,15 +11,15 @@
   },
   "The Guardian": {
    "ok": true,
-   "n": 10
+   "n": 8
   },
   "DW": {
    "ok": true,
-   "n": 0
+   "n": 1
   },
   "France 24": {
    "ok": true,
-   "n": 9
+   "n": 8
   },
   "UN News": {
    "ok": true,
@@ -27,10 +27,139 @@
   },
   "NPR": {
    "ok": true,
-   "n": 3
+   "n": 4
   }
  },
  "items": [
+  {
+   "id": "5c1a12d656f9",
+   "t": "Gulf leaders meet in Qatar in effort to stave off new escalation in U.S and Iran war",
+   "ko": "걸프 지도자들은 미국과 이란의 전쟁이 다시 고조되는 것을 막기 위해 카타르에서 회담을 가졌습니다.",
+   "src": "NPR",
+   "u": "https://www.npr.org/2026/11/01/nx-s1-6023237/gulf-leaders-meet-in-qatar-in-effort-to-stave-off-new-escalation-in-u-s-and-iran-war",
+   "at": "2026-11-01T22:19:13.000Z",
+   "ev": [
+    "iran"
+   ],
+   "cc": [
+    "Qatar",
+    "Iran",
+    "United States"
+   ]
+  },
+  {
+   "id": "fab922e7ae8a",
+   "t": "Parents of woman who died of seizure after ChaGPT misguidance sue OpenAI",
+   "ko": "ChaGPT의 잘못된 지도로 발작으로 사망한 여성의 부모, OpenAI 고소",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/us-news/2026/nov/01/chatgpt-woman-seizure-lawsuit-openai",
+   "at": "2026-11-01T22:02:17.000Z",
+   "ev": [],
+   "cc": []
+  },
+  {
+   "id": "e630747aaad9",
+   "t": "Russian strikes cut power to thousands in Ukraine as Kherson ceasefire ends",
+   "ko": "헤르손 휴전 종료로 러시아 공습으로 우크라이나 내 수천명의 전력 차단",
+   "src": "BBC",
+   "u": "https://www.bbc.co.uk/news/articles/c64g1y90p71eo?at_medium=RSS&at_campaign=rss",
+   "at": "2026-11-01T21:55:01.000Z",
+   "ev": [
+    "ukraine"
+   ],
+   "cc": [
+    "Russia",
+    "Ukraine"
+   ]
+  },
+  {
+   "id": "e908865eb42d",
+   "t": "Thousands displaced from Hebron as Israel carries on siege",
+   "ko": "이스라엘이 포위 공격을 계속하면서 헤브론에서 수천 명의 난민이 발생함",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/video/newsfeed/2026/11/1/thousands-displaced-from-hebron-as-israel-carries-on-siege?traffic_source=rss",
+   "at": "2026-11-01T21:28:47.000Z",
+   "ev": [
+    "westbank"
+   ],
+   "cc": [
+    "Israel",
+    "Palestine"
+   ]
+  },
+  {
+   "id": "4fdc7fe2cd88",
+   "t": "Russia's giant new radar in Kaliningrad raises alarm in NATO",
+   "ko": "칼리닌그라드에 있는 러시아의 거대한 신형 레이더가 NATO에 경고를 제기하다",
+   "src": "DW",
+   "u": "https://www.dw.com/en/russia-s-giant-new-radar-in-kaliningrad-raises-alarm-in-nato/a-79797815?maca=en-rss-en-world-4025-rdf",
+   "at": "2026-11-01T20:34:00.000Z",
+   "ev": [],
+   "cc": [
+    "Russia"
+   ]
+  },
+  {
+   "id": "45a4b151f12c",
+   "t": "Police clash with housing crisis protesters in Portugal",
+   "ko": "포르투갈 주택위기 시위대와 경찰 충돌",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/video/newsfeed/2026/11/1/police-clash-with-housing-crisis-protesters-in-portugal?traffic_source=rss",
+   "at": "2026-11-01T20:31:17.000Z",
+   "ev": [],
+   "cc": [
+    "Portugal"
+   ]
+  },
+  {
+   "id": "d09e41a41cee",
+   "t": "Northern Territory water plan condemned as ‘blatant and shameless’ attack on nature",
+   "ko": "노던 테리토리 수자원 계획, 자연에 대한 '노골적이고 뻔뻔한 공격'으로 비난",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/australia-news/2026/nov/02/northern-territory-water-plan-condemned-as-blatant-and-shameless-attack-on-nature",
+   "at": "2026-11-01T20:02:57.000Z",
+   "ev": [],
+   "cc": []
+  },
+  {
+   "id": "7a63247dca30",
+   "t": "How will the Iran war shape the outcome of the US midterm vote?",
+   "ko": "이란 전쟁은 미국 중간 투표 결과에 어떤 영향을 미칠까요?",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/video/inside-story/2026/11/1/how-will-the-iran-war-shape-the-outcome-of-the-u-s-midterm-vote?traffic_source=rss",
+   "at": "2026-11-01T19:00:32.000Z",
+   "ev": [
+    "iran"
+   ],
+   "cc": [
+    "Iran",
+    "United States"
+   ]
+  },
+  {
+   "id": "7f5416b35717",
+   "t": "France opens ‘attempted murder’ probe into petrol bomb attacks on police",
+   "ko": "프랑스, 경찰에 휘발유 폭탄 공격 '살인미수' 수사 개시",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/11/1/france-opens-attempted-murder-probe-into-molotov-attacks-on-police?traffic_source=rss",
+   "at": "2026-11-01T18:58:23.000Z",
+   "ev": [],
+   "cc": [
+    "France"
+   ]
+  },
+  {
+   "id": "94fc68f0ffa8",
+   "t": "Peaceful protests in Germany spiral into violence and looting",
+   "ko": "독일의 평화시위가 폭력과 약탈로 번지고 있다",
+   "src": "BBC",
+   "u": "https://www.bbc.co.uk/news/videos/cqgm0der7zkmo?at_medium=RSS&at_campaign=rss",
+   "at": "2026-11-01T18:51:56.000Z",
+   "ev": [],
+   "cc": [
+    "Germany"
+   ]
+  },
   {
    "id": "dbcc28af996e",
    "t": "Juan Atkins, pioneer of Detroit techno sound, dies aged 64",
@@ -349,16 +478,6 @@
    ]
   },
   {
-   "id": "d09e41a41cee",
-   "t": "Northern Territory water plan condemned as ‘blatant and shameless’ attack on nature",
-   "ko": "노던 테리토리 수자원 계획, 자연에 대한 '노골적이고 뻔뻔한 공격'으로 비난",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/australia-news/2026/nov/02/northern-territory-water-plan-condemned-as-blatant-and-shameless-attack-on-nature",
-   "at": "2026-11-01T14:00:13.000Z",
-   "ev": [],
-   "cc": []
-  },
-  {
    "id": "75368c83fb89",
    "t": "At least eight Palestinians killed in Israeli attacks across Gaza",
    "ko": "이스라엘 가자지구 공격으로 팔레스타인 최소 8명 사망",
@@ -399,6 +518,21 @@
    "cc": [
     "United Kingdom",
     "United States"
+   ]
+  },
+  {
+   "id": "8ecd969067e6",
+   "t": "Ceasefire in Ukraine's Kherson region ends after Russia refuses extension",
+   "ko": "러시아, 휴전 연장 거부로 우크라이나 헤르손 지역 휴전 종료",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/europe/20261101-localised-ceasefire-in-ukraine-s-kherson-region-set-to-end",
+   "at": "2026-11-01T12:41:48.000Z",
+   "ev": [
+    "ukraine"
+   ],
+   "cc": [
+    "Ukraine",
+    "Russia"
    ]
   },
   {
@@ -1634,50 +1768,6 @@
    ],
    "cc": [
     "Ukraine"
-   ]
-  },
-  {
-   "id": "77e8331448e4",
-   "t": "G20 'family photo' cancelled after protests over presence of Russian minister",
-   "ko": "G20 '가족사진' 러시아 장관 참석 반대 시위로 취소",
-   "src": "BBC",
-   "u": "https://www.bbc.co.uk/news/articles/cmd6dp2y576do?at_medium=RSS&at_campaign=rss",
-   "at": "2026-10-30T22:11:52.000Z",
-   "ev": [
-    "ukraine"
-   ],
-   "cc": [
-    "Russia",
-    "United Kingdom",
-    "Ukraine"
-   ]
-  },
-  {
-   "id": "38d37832b865",
-   "t": "Residents leave Russian-occupied Oleshky in evacuation operation",
-   "ko": "주민들은 대피 작전을 위해 러시아가 점령한 올레쉬키를 떠나고 있다",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/europe/20261030-residents-leave-russian-occupied-oleshky-in-evacuation-operation",
-   "at": "2026-10-30T21:46:29.000Z",
-   "ev": [
-    "ukraine"
-   ],
-   "cc": [
-    "Ukraine",
-    "Russia",
-    "Belarus"
-   ]
-  },
-  {
-   "id": "31077fabb6a0",
-   "t": "Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea",
-   "ko": "암호화폐 거대 바이낸스, 북한 관련 해킹으로 도난당한 63억 달러 회수 시도",
-   "src": "BBC",
-   "u": "https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo?at_medium=RSS&at_campaign=rss",
-   "at": "2026-10-30T21:13:14.000Z",
-   "ev": [],
-   "cc": [
-    "North Korea"
    ]
   }
  ]
