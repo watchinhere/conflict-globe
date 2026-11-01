@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-31T21:13:51.809Z",
+ "updated": "2026-11-01T00:13:10.809Z",
  "sources": {
   "BBC": {
    "ok": true,
@@ -7,11 +7,11 @@
   },
   "Al Jazeera": {
    "ok": true,
-   "n": 9
+   "n": 7
   },
   "The Guardian": {
    "ok": true,
-   "n": 13
+   "n": 12
   },
   "DW": {
    "ok": true,
@@ -19,11 +19,11 @@
   },
   "France 24": {
    "ok": true,
-   "n": 15
+   "n": 16
   },
   "UN News": {
    "ok": true,
-   "n": 4
+   "n": 5
   },
   "NPR": {
    "ok": true,
@@ -31,6 +31,56 @@
   }
  },
  "items": [
+  {
+   "id": "f086fc4a525c",
+   "t": "Tusk defends overhaul of Poland’s constitutional court despite protests",
+   "ko": "투스크는 항의에도 불구하고 폴란드 헌법재판소 개편을 옹호했다",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/world/2026/oct/31/donald-tusk-defends-overhaul-poland-constitutional-court-despite-protests",
+   "at": "2026-10-31T22:43:09.000Z",
+   "ev": [],
+   "cc": [
+    "Poland"
+   ]
+  },
+  {
+   "id": "e31749945efc",
+   "t": "Palestine Action supporters arrested outside US embassy in London",
+   "ko": "팔레스타인 행동 지지자들, 런던 주재 미국 대사관 앞에서 체포",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/video/newsfeed/2026/10/31/aje-onl-nf_palestine-action-supporters-arrested-in-london-311026?traffic_source=rss",
+   "at": "2026-10-31T22:10:53.000Z",
+   "ev": [],
+   "cc": [
+    "Palestine",
+    "United States",
+    "United Kingdom"
+   ]
+  },
+  {
+   "id": "a9231df1b62f",
+   "t": "Some 320,000 demonstrators take part in largely peaceful protests across France",
+   "ko": "프랑스 전역에서 약 32만명의 시위대가 평화적인 시위에 참여",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/france/20261031-some-320-000-demonstrators-take-part-in-largely-peaceful-protests-across-france",
+   "at": "2026-10-31T21:34:15.000Z",
+   "ev": [],
+   "cc": [
+    "France"
+   ]
+  },
+  {
+   "id": "3ef1a8112a73",
+   "t": "Thousands demonstrate in Paris as protests spread across Europe",
+   "ko": "시위가 유럽 전역으로 확산되면서 파리에서 수천 명이 시위를 벌였습니다.",
+   "src": "BBC",
+   "u": "https://www.bbc.co.uk/news/videos/ck0j0y87j303o?at_medium=RSS&at_campaign=rss",
+   "at": "2026-10-31T21:29:01.000Z",
+   "ev": [],
+   "cc": [
+    "France"
+   ]
+  },
   {
    "id": "ac71f0a6c906",
    "t": "Turkiye’s Erdogan urges Russia and Ukraine to stop Black Sea attacks",
@@ -57,18 +107,6 @@
    "ev": [],
    "cc": [
     "Germany"
-   ]
-  },
-  {
-   "id": "3ef1a8112a73",
-   "t": "Clashes erupt between police and protesters in Paris",
-   "ko": "파리서 경찰과 시위대 충돌…",
-   "src": "BBC",
-   "u": "https://www.bbc.co.uk/news/videos/ck0j0y87j303o?at_medium=RSS&at_campaign=rss",
-   "at": "2026-10-31T19:37:43.000Z",
-   "ev": [],
-   "cc": [
-    "France"
    ]
   },
   {
@@ -443,6 +481,20 @@
    ]
   },
   {
+   "id": "046414c90739",
+   "t": "‘They deserve to know the truth’: UN rights chief demands probe into staffer’s death in Houthi custody",
+   "ko": "'그들은 진실을 알 자격이 있다': 유엔 인권 최고대표, 후티 구금 중 직원 사망에 대한 조사 요구",
+   "src": "UN News",
+   "u": "https://news.un.org/feed/view/en/story/2026/10/1168716",
+   "at": "2026-10-31T12:00:00.000Z",
+   "ev": [
+    "yemen"
+   ],
+   "cc": [
+    "Yemen"
+   ]
+  },
+  {
    "id": "676f23ce4fee",
    "t": "Drone photo award winners: Far-out landscapes. Ship recycling. Rugs, rugs rugs!",
    "ko": "드론 사진상 수상자: 먼 풍경. 선박 재활용. 러그, 러그 러그!",
@@ -738,8 +790,8 @@
   },
   {
    "id": "f997b8a51ad9",
-   "t": "Live: Interior minister says protests across France went well despite clashes with police",
-   "ko": "생방송: 내무장관은 경찰과의 충돌에도 불구하고 프랑스 전역의 시위가 순조롭게 진행되었다고 말했습니다.",
+   "t": "Interior minister says protests across France went well despite clashes with police",
+   "ko": "내무장관은 경찰과의 충돌에도 불구하고 프랑스 전역의 시위가 순조롭게 진행됐다고 말했습니다.",
    "src": "France 24",
    "u": "https://www.france24.com/en/france/20261031-live-france-braces-for-halloween-protests-government-vows-tough-response",
    "at": "2026-10-31T05:53:27.000Z",
@@ -1911,88 +1963,6 @@
    "cc": [
     "North Korea",
     "South Korea"
-   ]
-  },
-  {
-   "id": "e13a203d3372",
-   "t": "Houthi forces claim six attacks on Saudi airports, oil facilities",
-   "ko": "후티군, 사우디 공항과 석유시설 6건 공격 주장",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/news/2026/10/30/houthi-forces-claim-six-attacks-on-saudi-airports-oil-facilities?traffic_source=rss",
-   "at": "2026-10-30T00:11:20.000Z",
-   "ev": [
-    "iran",
-    "yemen"
-   ],
-   "cc": [
-    "Saudi Arabia",
-    "Iran"
-   ]
-  },
-  {
-   "id": "5834ee5b8bf9",
-   "t": "What does bourbon have to do with the US midterms?",
-   "ko": "버번은 미국 중간고사와 어떤 관련이 있나요?",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/video/newsfeed/2026/10/30/what-does-bourbon-have-to-do-with-the-us-midterms?traffic_source=rss",
-   "at": "2026-10-30T00:08:50.000Z",
-   "ev": [],
-   "cc": [
-    "United States"
-   ]
-  },
-  {
-   "id": "8e53baee8325",
-   "t": "Iran war live: IRGC says four tankers struck mines in Strait of Hormuz",
-   "ko": "이란 전쟁 생중계: IRGC는 유조선 4척이 호르무즈 해협의 지뢰를 공격했다고 밝혔습니다.",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/news/liveblog/2026/10/30/iran-war-live-irgc-says-four-tankers-struck-mines-in-strait-of-hormuz?traffic_source=rss",
-   "at": "2026-10-30T00:00:00.000Z",
-   "ev": [
-    "iran"
-   ],
-   "cc": [
-    "Iran"
-   ]
-  },
-  {
-   "id": "5017844e0aa9",
-   "t": "France braces for ‘very high risk’ of disorder at Halloween protests",
-   "ko": "프랑스, 할로윈 시위 '무질서 위험 매우 높음' 대비",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/news/2026/10/29/france-braces-for-very-high-risk-of-disorder-at-halloween-protests?traffic_source=rss",
-   "at": "2026-10-29T23:52:30.000Z",
-   "ev": [],
-   "cc": [
-    "France"
-   ]
-  },
-  {
-   "id": "677893a90872",
-   "t": "Hegseth reportedly fires high-ranking army strategist over alleged leaks",
-   "ko": "Hegseth, 정보 유출 혐의로 육군 고위 전략가 해고",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/us-news/2026/oct/29/hegseth-fires-general-leak-inquiry-pentagon",
-   "at": "2026-10-29T22:01:56.000Z",
-   "ev": [],
-   "cc": [
-    "United States"
-   ]
-  },
-  {
-   "id": "c749ee88b1f3",
-   "t": "Tunisians drawn into Russia's war in Ukraine",
-   "ko": "튀니지인, 우크라이나 내전 러시아 전쟁에 참여",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/tunisians-drawn-into-russia-s-war-in-ukraine",
-   "at": "2026-10-29T21:48:35.000Z",
-   "ev": [
-    "ukraine"
-   ],
-   "cc": [
-    "Russia",
-    "Ukraine",
-    "Tunisia"
    ]
   }
  ]
