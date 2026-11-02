@@ -1,17 +1,17 @@
 {
- "updated": "2026-11-01T22:37:42.262Z",
+ "updated": "2026-11-02T01:50:40.627Z",
  "sources": {
   "BBC": {
    "ok": true,
-   "n": 10
+   "n": 11
   },
   "Al Jazeera": {
    "ok": true,
-   "n": 10
+   "n": 9
   },
   "The Guardian": {
    "ok": true,
-   "n": 8
+   "n": 7
   },
   "DW": {
    "ok": true,
@@ -19,7 +19,7 @@
   },
   "France 24": {
    "ok": true,
-   "n": 8
+   "n": 9
   },
   "UN News": {
    "ok": true,
@@ -31,6 +31,132 @@
   }
  },
  "items": [
+  {
+   "id": "e5db13bcf80c",
+   "t": "Ukraine suspects nationwide air raid alert app has been hacked",
+   "ko": "우크라이나, 전국 공습 경보 앱 해킹 의심",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/europe/20261102-ukraine-suspects-nationwide-air-raid-alert-app-has-been-hacked",
+   "at": "2026-11-02T01:20:44.000Z",
+   "ev": [
+    "ukraine"
+   ],
+   "cc": [
+    "Ukraine",
+    "Russia"
+   ]
+  },
+  {
+   "id": "9bcc9a97ca60",
+   "t": "Halloween weekend shootings across US leave at least six dead, dozens wounded",
+   "ko": "미국 전역에서 할로윈 ​​주말 총격 사건으로 최소 6명이 사망하고 수십 명이 부상당했습니다.",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/americas/20261102-halloween-weekend-shootings-across-us-leave-at-least-six-dead-dozens-wounded",
+   "at": "2026-11-02T00:49:01.000Z",
+   "ev": [],
+   "cc": [
+    "United States"
+   ]
+  },
+  {
+   "id": "06413aba9f10",
+   "t": "Iran warns renewed war with US could outlast previous conflict",
+   "ko": "이란, 미국과의 새로운 전쟁이 이전 전쟁보다 오래 지속될 수 있다고 경고",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/middle-east/20261102-iran-warns-renewed-war-with-us-could-outlast-previous-conflict",
+   "at": "2026-11-02T00:23:23.000Z",
+   "ev": [
+    "iran"
+   ],
+   "cc": [
+    "Iran",
+    "United States"
+   ]
+  },
+  {
+   "id": "1d395cb90e29",
+   "t": "France launches attempted murder investigation after petrol bomb thrown at police",
+   "ko": "프랑스, 경찰에 휘발유 폭탄 투척 후 살인미수 수사 개시",
+   "src": "BBC",
+   "u": "https://www.bbc.co.uk/news/articles/cwvg05z184j0o?at_medium=RSS&at_campaign=rss",
+   "at": "2026-11-02T00:15:30.000Z",
+   "ev": [],
+   "cc": [
+    "France"
+   ]
+  },
+  {
+   "id": "7b66f0410aa1",
+   "t": "Bollywood star greets fans in bulletproof glass after bomb threat",
+   "ko": "볼리우드 스타, 폭탄 위협 후 방탄 유리로 팬들과 인사",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/video/newsfeed/2026/11/2/bollywood-star-greets-fans-in-bulletproof-glass-after-bomb-threat?traffic_source=rss",
+   "at": "2026-11-02T00:14:22.000Z",
+   "ev": [],
+   "cc": []
+  },
+  {
+   "id": "6ee149854410",
+   "t": "Iran war live: Tankers hit in Hormuz; Trump again says conflict to end soon",
+   "ko": "이란 전쟁 라이브: 호르무즈에서 유조선 공격; 트럼프, 갈등 곧 끝날 것이라고 재차 강조",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/liveblog/2026/11/2/iran-war-live-tankers-hit-in-hormuz-trump-again-says-conflict-to-end-soon?traffic_source=rss",
+   "at": "2026-11-02T00:00:00.000Z",
+   "ev": [
+    "iran"
+   ],
+   "cc": [
+    "Iran",
+    "United States"
+   ]
+  },
+  {
+   "id": "16fb86669829",
+   "t": "Nine killed as business jet crashes into South Florida neighbourhood",
+   "ko": "비즈니스 제트기가 플로리다 남부 지역에 추락해 9명이 사망했습니다.",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/americas/20261101-nine-killed-as-business-jet-crashes-into-south-florida-neighbourhood",
+   "at": "2026-11-01T23:45:08.000Z",
+   "ev": [],
+   "cc": [
+    "United States"
+   ]
+  },
+  {
+   "id": "7caaf7864a06",
+   "t": "Nine people dead after Learjet crashes in Florida",
+   "ko": "플로리다에서 Learjet 추락으로 9명 사망",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/video/newsfeed/2026/11/1/nine-people-dead-after-learjet-crashes-in-florida?traffic_source=rss",
+   "at": "2026-11-01T23:29:48.000Z",
+   "ev": [],
+   "cc": [
+    "United States",
+    "Bahamas"
+   ]
+  },
+  {
+   "id": "100871a6f9ff",
+   "t": "UN warns of security risks in Western Sahara as peacekeeping mission ends",
+   "ko": "UN, 평화 유지 임무 종료로 서부 사하라의 안보 위험 경고",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/11/1/un-warns-of-security-risks-in-western-sahara-as-peacekeeping-mission-ends?traffic_source=rss",
+   "at": "2026-11-01T23:19:51.000Z",
+   "ev": [],
+   "cc": [
+    "Western Sahara"
+   ]
+  },
+  {
+   "id": "fab922e7ae8a",
+   "t": "Parents of woman who died of seizure after ChatGPT misguidance sue OpenAI",
+   "ko": "ChatGPT 실수로 발작으로 사망한 여성의 부모, OpenAI 고소",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/us-news/2026/nov/01/chatgpt-woman-seizure-lawsuit-openai",
+   "at": "2026-11-01T22:37:36.000Z",
+   "ev": [],
+   "cc": []
+  },
   {
    "id": "5c1a12d656f9",
    "t": "Gulf leaders meet in Qatar in effort to stave off new escalation in U.S and Iran war",
@@ -48,13 +174,15 @@
    ]
   },
   {
-   "id": "fab922e7ae8a",
-   "t": "Parents of woman who died of seizure after ChaGPT misguidance sue OpenAI",
-   "ko": "ChaGPT의 잘못된 지도로 발작으로 사망한 여성의 부모, OpenAI 고소",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/us-news/2026/nov/01/chatgpt-woman-seizure-lawsuit-openai",
-   "at": "2026-11-01T22:02:17.000Z",
-   "ev": [],
+   "id": "9edc0868d52c",
+   "t": "Kherson braces for return of war as localised Russia-Ukraine truce ends",
+   "ko": "헤르슨은 러시아-우크라이나의 국지적 휴전이 종료됨에 따라 전쟁 복귀를 준비하고 있습니다.",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/11/1/ukraine-evacuates-civilians-in-kherson-region-as-localised-ceasefire-ends?traffic_source=rss",
+   "at": "2026-11-01T22:15:14.000Z",
+   "ev": [
+    "ukraine"
+   ],
    "cc": []
   },
   {
@@ -1701,73 +1829,6 @@
     "Ukraine",
     "United States",
     "Russia"
-   ]
-  },
-  {
-   "id": "3985f8f9b586",
-   "t": "Halloween Protests & French Promises, US Mid Term Mood, What now for Israel?",
-   "ko": "할로윈 시위와 프랑스의 약속, 미국 중기 분위기, 이스라엘은 지금 어떻습니까?",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/tv-shows/the-world-this-week/20261031-halloween-protests-french-promises-us-mid-term-mood-what-now-for-israel",
-   "at": "2026-10-31T00:30:13.000Z",
-   "ev": [],
-   "cc": [
-    "France",
-    "United States",
-    "Israel"
-   ]
-  },
-  {
-   "id": "fc5e15d5984c",
-   "t": "Germany and France brace for protests on Halloween weekend",
-   "ko": "독일과 프랑스, ​​할로윈 주말 시위 준비",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/news/2026/10/31/germany-and-france-brace-for-protests-on-halloween-weekend?traffic_source=rss",
-   "at": "2026-10-31T00:17:35.000Z",
-   "ev": [],
-   "cc": [
-    "Germany",
-    "France"
-   ]
-  },
-  {
-   "id": "f0722a9954e4",
-   "t": "'The necktie is dead': How US midterm candidates are dressing for votes",
-   "ko": "'넥타이는 죽었다': 미국 중간선거 후보들이 투표를 위해 옷을 입는 방법",
-   "src": "BBC",
-   "u": "https://www.bbc.co.uk/news/articles/ckq6nz4286r4o?at_medium=RSS&at_campaign=rss",
-   "at": "2026-10-31T00:16:03.000Z",
-   "ev": [],
-   "cc": [
-    "United States"
-   ]
-  },
-  {
-   "id": "7116fb04b341",
-   "t": "Iran war live: Tehran warns of earth-shattering blow; drones target Riyadh",
-   "ko": "이란 전쟁 생중계: 테헤란은 엄청난 타격을 입을 것이라고 경고합니다. 드론이 리야드를 표적으로 삼는다",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/news/liveblog/2026/10/31/iran-war-live-oil-tankers-hit-in-hormuz-trump-says-conflict-will-end-soon?traffic_source=rss",
-   "at": "2026-10-31T00:00:00.000Z",
-   "ev": [
-    "iran"
-   ],
-   "cc": [
-    "Iran"
-   ]
-  },
-  {
-   "id": "936d143ebe9e",
-   "t": "How has the ceasefire in Russian-occupied Oleshky been unfolding?",
-   "ko": "러시아가 점령한 올레쉬키의 휴전은 어떻게 전개되고 있습니까?",
-   "src": "BBC",
-   "u": "https://www.bbc.co.uk/news/videos/cmp3gp2vg078o?at_medium=RSS&at_campaign=rss",
-   "at": "2026-10-30T23:19:17.000Z",
-   "ev": [
-    "ukraine"
-   ],
-   "cc": [
-    "Ukraine"
    ]
   }
  ]
