@@ -1,13 +1,13 @@
 {
- "updated": "2026-11-03T01:47:37.550Z",
+ "updated": "2026-11-03T09:12:50.505Z",
  "sources": {
   "BBC": {
    "ok": true,
-   "n": 19
+   "n": 11
   },
   "Al Jazeera": {
    "ok": true,
-   "n": 9
+   "n": 8
   },
   "The Guardian": {
    "ok": true,
@@ -19,7 +19,7 @@
   },
   "France 24": {
    "ok": true,
-   "n": 13
+   "n": 14
   },
   "UN News": {
    "ok": true,
@@ -31,6 +31,263 @@
   }
  },
  "items": [
+  {
+   "id": "861c5ba5b8f7",
+   "t": "Zelenskyy to make unexpected visit to Berlin for talks with Merz – Europe live",
+   "ko": "Zelenskyy, Merz와의 회담을 위해 예상치 못한 베를린 방문 – 유럽 라이브",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/world/live/2026/nov/03/zelenskyy-berlin-merz-europe-sweden-spain-france-belgium-poland-latest-news",
+   "at": "2026-11-03T09:08:12.000Z",
+   "ev": [
+    "ukraine"
+   ],
+   "cc": [
+    "Germany",
+    "Ukraine",
+    "Russia"
+   ]
+  },
+  {
+   "id": "c9261f10df0c",
+   "t": "Henry Nowak ‘would have hated’ riots after his murder, says family",
+   "ko": "헨리 노왁은 살해 후 폭동을 '미워했을 것'이라고 가족이 말했습니다.",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/uk-news/2026/nov/03/henry-nowak-would-have-hated-riots-after-his-murder-his-says-family",
+   "at": "2026-11-03T08:14:25.000Z",
+   "ev": [],
+   "cc": []
+  },
+  {
+   "id": "5904df709278",
+   "t": "US strikes Iran’s Qeshm Island as Vance voices optimism about a deal",
+   "ko": "Vance가 거래에 대해 낙관론을 표명함에 따라 미국은이란의 Qeshm 섬을 공격했습니다.",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/world/2026/nov/03/us-strikes-irans-qeshm-island",
+   "at": "2026-11-03T08:13:46.000Z",
+   "ev": [
+    "iran"
+   ],
+   "cc": [
+    "United States",
+    "Iran"
+   ]
+  },
+  {
+   "id": "8671be621ae4",
+   "t": "Major Queensland hospital to close pathology labs amid potential formaldehyde exposure investigation",
+   "ko": "포름알데히드 노출 가능성 조사로 퀸즈랜드 주요 병원 병리학 실험실 폐쇄",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/australia-news/2026/nov/03/major-queensland-hospital-to-close-pathology-labs-amid-potential-formaldehyde-exposure-investigation",
+   "at": "2026-11-03T08:11:08.000Z",
+   "ev": [],
+   "cc": []
+  },
+  {
+   "id": "395cf6025c1b",
+   "t": "Two helicopters crash near Everest base camp, killing Indian tourist",
+   "ko": "에베레스트 베이스캠프 인근 헬기 2대 추락, 인도 관광객 사망",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/video/newsfeed/2026/11/3/two-helicopters-crash-near-everest-base-camp-killing-indian-tourist?traffic_source=rss",
+   "at": "2026-11-03T07:34:36.000Z",
+   "ev": [],
+   "cc": [
+    "Nepal"
+   ]
+  },
+  {
+   "id": "7584627279c2",
+   "t": "Russian bombing kills 29 people at Ukraine aid centre, Kyiv says",
+   "ko": "우크라이나 구호센터서 러시아 폭탄테러로 29명 사망",
+   "src": "BBC",
+   "u": "https://www.bbc.co.uk/news/articles/cjy56dndlyz0o?at_medium=RSS&at_campaign=rss",
+   "at": "2026-11-03T07:24:12.000Z",
+   "ev": [
+    "ukraine"
+   ],
+   "cc": [
+    "Russia",
+    "Ukraine"
+   ]
+  },
+  {
+   "id": "bfad2b5951c1",
+   "t": "Asian Cup postponed in wake of attacks on Saudi Arabia",
+   "ko": "사우디 공격으로 아시안컵 연기",
+   "src": "BBC",
+   "u": "https://www.bbc.co.uk/sport/football/articles/c6y0e79yjg44o?at_medium=RSS&at_campaign=rss",
+   "at": "2026-11-03T07:15:17.000Z",
+   "ev": [],
+   "cc": [
+    "Saudi Arabia"
+   ]
+  },
+  {
+   "id": "7ef622d90071",
+   "t": "One dead after two helicopters collide near Mount Everest in Nepal",
+   "ko": "네팔 에베레스트 산 근처에서 헬리콥터 두 대가 충돌해 한 명이 사망했습니다.",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/11/3/one-dead-after-two-helicopters-collide-near-mount-everest-in-nepal?traffic_source=rss",
+   "at": "2026-11-03T07:06:07.000Z",
+   "ev": [],
+   "cc": [
+    "Nepal"
+   ]
+  },
+  {
+   "id": "50a8e0346879",
+   "t": "AFC reschedules Asian Cup 2027 in Saudi Arabia amid regional conflict",
+   "ko": "AFC, 지역 갈등 속에 2027년 사우디아라비아 아시안컵 개최 일정 변경",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/sports/2026/11/3/afc-reschedules-asian-cup-2027-in-saudi-arabia-amid-regional-conflict?traffic_source=rss",
+   "at": "2026-11-03T06:55:39.000Z",
+   "ev": [
+    "yemen"
+   ],
+   "cc": [
+    "Saudi Arabia"
+   ]
+  },
+  {
+   "id": "5e123f01323d",
+   "t": "Bullock doesn’t see ‘economy cracking at this point’ – as it happened",
+   "ko": "Bullock은 '이 시점에서 경제 균열'을 보지 않습니다.",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/australia-news/live/2026/nov/03/rba-interest-rates-meeting-today-latest-news-australia-reserve-bank-cash-rate-announcement-decision-live-updates",
+   "at": "2026-11-03T06:33:51.000Z",
+   "ev": [],
+   "cc": []
+  },
+  {
+   "id": "d71c79bb1196",
+   "t": "New York child dies from measles in state’s first fatal case in 30 years",
+   "ko": "뉴욕주 30년 만에 처음으로 홍역으로 어린이 사망",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/society/2026/nov/03/new-york-child-measles-death-first-in-30-years",
+   "at": "2026-11-03T05:48:26.000Z",
+   "ev": [],
+   "cc": []
+  },
+  {
+   "id": "86d7efb15b41",
+   "t": "Israeli forces kill four in Gaza as fifth Palestinian dies of wounds",
+   "ko": "이스라엘군, 가자지구서 4명 사살, 다섯 번째 팔레스타인인 부상으로 사망",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/11/3/israeli-forces-kill-four-in-gaza-as-fifth-palestinian-dies-of-wounds?traffic_source=rss",
+   "at": "2026-11-03T05:02:34.000Z",
+   "ev": [
+    "gaza"
+   ],
+   "cc": [
+    "Israel",
+    "Palestine"
+   ]
+  },
+  {
+   "id": "b8250a43f0a2",
+   "t": "CPJ: 'Attacks on journalists almost always precede attacks on other rights to broader population'",
+   "ko": "CPJ: '언론인에 대한 공격은 거의 항상 더 많은 사람들에 대한 다른 권리에 대한 공격보다 먼저 발생합니다'",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/video/20261103-cpj-attacks-on-journalists-almost-always-precede-attacks-on-other-rights-to-broader-population",
+   "at": "2026-11-03T05:02:12.000Z",
+   "ev": [],
+   "cc": []
+  },
+  {
+   "id": "c442a2886f69",
+   "t": "Israeli forces release Al Jazeera journalist in occupied West Bank",
+   "ko": "이스라엘군, 요르단강 서안지구에서 알자지라 기자 석방",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/11/3/israeli-forces-arrest-al-jazeera-journalist-in-raid-on-his-west-bank-home?traffic_source=rss",
+   "at": "2026-11-03T04:25:16.000Z",
+   "ev": [
+    "westbank"
+   ],
+   "cc": [
+    "Israel",
+    "Palestine"
+   ]
+  },
+  {
+   "id": "294d63f791bf",
+   "t": "Israeli soldiers arrest Al Jazeera journalist in Hebron raids",
+   "ko": "이스라엘군, 헤브론 공습에서 알자지라 기자 체포",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/video/newsfeed/2026/11/3/israeli-soldiers-arrest-al-jazeera-journalist-in-hebron-raids?traffic_source=rss",
+   "at": "2026-11-03T03:53:09.000Z",
+   "ev": [
+    "westbank"
+   ],
+   "cc": [
+    "Israel"
+   ]
+  },
+  {
+   "id": "7062a3beba16",
+   "t": "US strikes Iran ahead of midterm elections",
+   "ko": "미국, 중간선거 앞두고 이란 공습",
+   "src": "BBC",
+   "u": "https://www.bbc.co.uk/news/articles/cx240mrm3g8vo?at_medium=RSS&at_campaign=rss",
+   "at": "2026-11-03T03:39:08.000Z",
+   "ev": [
+    "iran"
+   ],
+   "cc": [
+    "United States",
+    "Iran"
+   ]
+  },
+  {
+   "id": "52ea9462ec31",
+   "t": "Tennessee national guard trained guns on dying man after guard member shot him, video shows",
+   "ko": "테네시 주 방위군은 죽어가는 남자에게 총을 쏘는 훈련을 시켰다.",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/us-news/2026/nov/02/tennessee-shooting-tyrin-johnson-video",
+   "at": "2026-11-03T03:13:06.000Z",
+   "ev": [],
+   "cc": []
+  },
+  {
+   "id": "0e6399a6311e",
+   "t": "US strikes Iran's Qeshm Island as Trump signals progress in talks",
+   "ko": "미국, 트럼프 회담 진전 신호에 이란 케심 섬 공습",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/middle-east/20261103-us-strikes-iran-qeshm-island-as-trump-signals-progress-in-talks",
+   "at": "2026-11-03T02:28:07.000Z",
+   "ev": [
+    "iran"
+   ],
+   "cc": [
+    "United States",
+    "Iran"
+   ]
+  },
+  {
+   "id": "ee4967f67bfd",
+   "t": "Explosions hit Iran’s Qeshm Island as US media report US strikes in Hormuz",
+   "ko": "미국 언론이 미국의 호르무즈 공습을 보도하자 이란 케심 섬에서 폭발이 발생했습니다.",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/11/3/explosions-hit-irans-qeshm-island-as-us-media-report-us-strikes-in-hormuz?traffic_source=rss",
+   "at": "2026-11-03T02:25:02.000Z",
+   "ev": [
+    "iran"
+   ],
+   "cc": [
+    "Iran",
+    "United States"
+   ]
+  },
+  {
+   "id": "079dcfa45f50",
+   "t": "Thousands displaced as homes are bulldozed in India’s Assam state",
+   "ko": "인도 아삼주에서 수천 명의 이재민이 집으로 옮겨졌습니다.",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/video/newsfeed/2026/11/3/thousands-displaced-as-homes-are-bulldozed-in-indias-assam-state?traffic_source=rss",
+   "at": "2026-11-03T02:15:39.000Z",
+   "ev": [],
+   "cc": [
+    "India"
+   ]
+  },
   {
    "id": "33d61d25d3c6",
    "t": "European force to hold first Ukraine support exercise in Poland",
@@ -48,9 +305,25 @@
    ]
   },
   {
+   "id": "206cffd5934c",
+   "t": "Europe's Gen Z protesters unite over living costs, housing and employment uncertainty",
+   "ko": "유럽의 Z 세대 시위자들은 생활비, 주택 및 고용 불확실성으로 단결했습니다.",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/europe/20261103-europe-s-gen-z-protesters-unite-over-living-costs-housing-and-uncertainty-of-getting-jobs",
+   "at": "2026-11-03T01:21:48.000Z",
+   "ev": [
+    "belgium"
+   ],
+   "cc": [
+    "France",
+    "Belgium",
+    "Germany"
+   ]
+  },
+  {
    "id": "6ebb60de6dea",
-   "t": "Russian strikes kill 26 in Ukraine after longest ceasefire ends",
-   "ko": "러시아, 최장 휴전 종료 후 우크라이나 공습으로 26명 사망",
+   "t": "Russian strikes kill at least 26 in Ukraine after war's longest ceasefire ends",
+   "ko": "최장 휴전 종료 후 우크라이나에서 러시아 공습으로 최소 26명 사망",
    "src": "France 24",
    "u": "https://www.france24.com/en/europe/20261103-russian-strikes-kill-26-in-ukraine-after-longest-ceasefire-ends",
    "at": "2026-11-03T01:18:44.000Z",
@@ -242,21 +515,6 @@
    ]
   },
   {
-   "id": "7584627279c2",
-   "t": "Russian bombing kills 26 people at Ukraine aid centre, Kyiv says",
-   "ko": "키예프 \"우크라이나 구호센터서 러시아 폭격으로 26명 사망\"",
-   "src": "BBC",
-   "u": "https://www.bbc.co.uk/news/articles/cjy56dndlyz0o?at_medium=RSS&at_campaign=rss",
-   "at": "2026-11-02T21:10:04.000Z",
-   "ev": [
-    "ukraine"
-   ],
-   "cc": [
-    "Russia",
-    "Ukraine"
-   ]
-  },
-  {
    "id": "53aad65db362",
    "t": "Migration is a moral issue for Burnham – but is he trying to please everyone?",
    "ko": "번햄에게 이민은 도덕적 문제입니다. 하지만 그는 모든 사람을 기쁘게 하려고 노력하고 있나요?",
@@ -320,7 +578,7 @@
   },
   {
    "id": "329d86acd85f",
-   "t": "MAGA: Why Trump's most loyal supporters are turning against him?",
+   "t": "MAGA: Why are Trump's most loyal supporters turning against him?",
    "ko": "MAGA: 트럼프의 가장 충성스러운 지지자들이 왜 그에게 등을 돌리는 걸까요?",
    "src": "France 24",
    "u": "https://www.france24.com/en/maga-why-trump-s-most-loyal-supporters-are-turning-against-him",
@@ -341,6 +599,21 @@
    "at": "2026-11-02T19:07:40.000Z",
    "ev": [],
    "cc": []
+  },
+  {
+   "id": "f271a634c7d9",
+   "t": "Russia again pummels Ukraine after rare pause in fighting in Kherson",
+   "ko": "러시아, 헤르손 전투가 드물게 중단된 후 다시 우크라이나를 강타",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/europe/20261102-russia-pummels-ukraine-again-after-rare-pause-in-fighting-in-kherson",
+   "at": "2026-11-02T18:53:49.000Z",
+   "ev": [
+    "ukraine"
+   ],
+   "cc": [
+    "Russia",
+    "Ukraine"
+   ]
   },
   {
    "id": "ebdde0b3842f",
@@ -1866,110 +2139,6 @@
    "ev": [],
    "cc": [
     "Israel"
-   ]
-  },
-  {
-   "id": "bc7022d1015a",
-   "t": "Indian opposition parties stage mega rally seeking election chief’s resignation",
-   "ko": "인도 야당, 선거위원장 사임을 요구하는 대규모 집회 개최",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/asia-pacific/20261101-india-tightens-security-as-opposition-holds-mega-rally-demanding-election-chief-s-resignation",
-   "at": "2026-11-01T06:24:17.000Z",
-   "ev": [
-    "delhi"
-   ],
-   "cc": []
-  },
-  {
-   "id": "1d106f8d7f85",
-   "t": "Bulgarians vote in presidential runoff amid security tensions in the Black Sea",
-   "ko": "흑해의 안보 긴장 속에서 불가리아인들이 대선 결선투표를 실시했습니다.",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/europe/20261101-bulgarians-vote-in-presidential-runoff-amid-security-tensions-in-the-black-sea",
-   "at": "2026-11-01T05:47:51.000Z",
-   "ev": [
-    "ukraine"
-   ],
-   "cc": [
-    "Ukraine",
-    "Russia"
-   ]
-  },
-  {
-   "id": "608e24c78fbd",
-   "t": "UN demands investigation after staffer’s death in Houthi custody in Yemen",
-   "ko": "유엔, 예멘 후티군 구금 중 직원 사망에 대한 조사 요구",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/news/2026/11/1/un-demands-investigation-after-staffers-death-in-houthi-custody-in-yemen?traffic_source=rss",
-   "at": "2026-11-01T04:49:15.000Z",
-   "ev": [
-    "yemen"
-   ],
-   "cc": [
-    "Yemen"
-   ]
-  },
-  {
-   "id": "fc9683a709a6",
-   "t": "France protests enter third week as police fire tear gas",
-   "ko": "경찰이 최루탄을 발사하면서 프랑스 시위가 3주째 접어들었습니다.",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/video/newsfeed/2026/11/1/france-protests-teargas-police-clashes?traffic_source=rss",
-   "at": "2026-11-01T04:31:24.000Z",
-   "ev": [],
-   "cc": [
-    "France"
-   ]
-  },
-  {
-   "id": "3bc92ec7802e",
-   "t": "Ukrainian evacuees from Russian-occupied Oleshky reunite with family",
-   "ko": "러시아 점령지 올레쉬키(Oleshky)에서 탈출한 우크라이나 피난민들이 가족과 재회하다",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/news/2026/11/1/ukrainian-evacuees-from-russian-occupied-oleshky-reunite-with-family?traffic_source=rss",
-   "at": "2026-11-01T03:37:23.000Z",
-   "ev": [
-    "ukraine"
-   ],
-   "cc": [
-    "Ukraine"
-   ]
-  },
-  {
-   "id": "fa3ec50660c8",
-   "t": "What we know about latest efforts to end US war on Iran",
-   "ko": "이란에 대한 미국의 전쟁을 종식시키기 위한 최근의 노력에 대해 우리가 알고 있는 것",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/video/newsfeed/2026/11/1/iran-wrap-iran-latest-developments-011126?traffic_source=rss",
-   "at": "2026-11-01T03:24:02.000Z",
-   "ev": [
-    "iran"
-   ],
-   "cc": [
-    "United States",
-    "Iran"
-   ]
-  },
-  {
-   "id": "9fc83c591c0f",
-   "t": "The murder of Javits Frimpong, a bullied schoolboy in The Bronx",
-   "ko": "브롱크스에서 괴롭힘을 당한 남학생 Javits Frimpong의 살해",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/video/newsfeed/2026/11/1/the-murder-of-javits-frimpong-a-bullied-schoolboy-in-the-bronx?traffic_source=rss",
-   "at": "2026-11-01T03:18:02.000Z",
-   "ev": [],
-   "cc": []
-  },
-  {
-   "id": "49fc6e1403de",
-   "t": "Binance says 90% of losses from $6.3bn hack covered as FBI says North Korea behind attack",
-   "ko": "FBI가 해킹 배후에 북한이 있다고 밝혔을 때, 바이낸스는 63억 달러 규모의 해킹으로 인한 손실의 90%를 커버했다고 밝혔습니다.",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/business/2026/nov/01/binance-losses-covered-hack-fbi-north-korea-cryptocurrency",
-   "at": "2026-11-01T02:41:34.000Z",
-   "ev": [],
-   "cc": [
-    "North Korea"
    ]
   }
  ]
