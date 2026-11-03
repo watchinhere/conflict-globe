@@ -1,141 +1,163 @@
 {
- "updated": "2026-11-02",
+ "updated": "2026-11-03",
  "news": {
   "ukraine": [
    {
-    "date": "2026-11-01",
-    "text": "Russian strikes cut power to thousands in Ukraine as Kherson ceasefire ends",
-    "ko": "헤르손 휴전 종료로 러시아 공습으로 우크라이나 내 수천명의 전력 차단",
-    "sources": [
-     {
-      "t": "BBC",
-      "u": "https://www.bbc.co.uk/news/articles/c64g1y90p71eo?at_medium=RSS&at_campaign=rss"
-     }
-    ]
-   },
-   {
-    "date": "2026-11-01",
-    "text": "Oleshky: Evacuations during first humanitarian truce of war end",
-    "ko": "Oleshky: 첫 번째 인도주의적 전쟁 휴전 중 대피",
+    "date": "2026-11-03",
+    "text": "European force to hold first Ukraine support exercise in Poland",
+    "ko": "유럽군, 폴란드에서 첫 우크라이나 지원 훈련 개최",
     "sources": [
      {
       "t": "France 24",
-      "u": "https://www.france24.com/en/oleshky-evacuations-during-first-humanitarian-truce-of-war-end"
+      "u": "https://www.france24.com/en/europe/20261103-european-force-to-hold-first-ukraine-support-exercise-in-poland"
      }
     ]
    },
    {
-    "date": "2026-11-01",
-    "text": "Ukraine defies Trump to resume attacks on Russian oil refineries",
-    "ko": "우크라이나, 트럼프에 맞서 러시아 정유시설 공격 재개",
+    "date": "2026-11-03",
+    "text": "Russian strikes kill 26 in Ukraine after longest ceasefire ends",
+    "ko": "러시아, 최장 휴전 종료 후 우크라이나 공습으로 26명 사망",
+    "sources": [
+     {
+      "t": "France 24",
+      "u": "https://www.france24.com/en/europe/20261103-russian-strikes-kill-26-in-ukraine-after-longest-ceasefire-ends"
+     }
+    ]
+   },
+   {
+    "date": "2026-11-03",
+    "text": "Multiple Russian strikes kill at least 26 at Ukraine aid centre",
+    "ko": "러시아의 여러 차례 공습으로 우크라이나 구호센터 최소 26명 사망",
+    "sources": [
+     {
+      "t": "Al Jazeera",
+      "u": "https://www.aljazeera.com/video/newsfeed/2026/11/3/multiple-russian-strikes-kill-at-least-26-at-ukraine-aid-centre?traffic_source=rss"
+     }
+    ]
+   },
+   {
+    "date": "2026-11-03",
+    "text": "Russian bombing of Ukrainian aid centre kills at least 26, Kyiv says",
+    "ko": "러시아, 우크라이나 구호센터 폭격으로 최소 26명 사망",
     "sources": [
      {
       "t": "The Guardian",
-      "u": "https://www.theguardian.com/world/2026/nov/01/ukraine-defies-trump-resumes-attacks-russian-oil"
+      "u": "https://www.theguardian.com/world/2026/nov/03/russia-bombs-ukrainian-aid-centre-komyshuvakha"
      }
     ]
    },
    {
-    "date": "2026-11-01",
-    "text": "Russia detains minor over alleged Moscow attack plot after US warning",
-    "ko": "러시아, 미국 경고 후 모스크바 공격 음모 혐의로 미성년자 구금",
-    "sources": [
-     {
-      "t": "Al Jazeera",
-      "u": "https://www.aljazeera.com/news/2026/11/1/russia-detains-minor-over-alleged-moscow-attack-plot-after-us-warning?traffic_source=rss"
-     }
-    ]
-   },
-   {
-    "date": "2026-11-01",
-    "text": "Oleshky residents return to Ukraine",
-    "ko": "Oleshky 주민들이 우크라이나로 돌아옴",
-    "sources": [
-     {
-      "t": "France 24",
-      "u": "https://www.france24.com/en/oleshky-residents-return-to-ukraine"
-     }
-    ]
-   },
-   {
-    "date": "2026-11-01",
-    "text": "Ceasefire in Ukraine's Kherson region ends after Russia refuses extension",
-    "ko": "러시아, 휴전 연장 거부로 우크라이나 헤르손 지역 휴전 종료",
-    "sources": [
-     {
-      "t": "France 24",
-      "u": "https://www.france24.com/en/europe/20261101-localised-ceasefire-in-ukraine-s-kherson-region-set-to-end"
-     }
-    ]
-   },
-   {
-    "date": "2026-11-01",
-    "text": "Bulgarians vote in presidential runoff amid security tensions in the Black Sea",
-    "ko": "흑해의 안보 긴장 속에서 불가리아인들이 대선 결선투표를 실시했습니다.",
-    "sources": [
-     {
-      "t": "France 24",
-      "u": "https://www.france24.com/en/europe/20261101-bulgarians-vote-in-presidential-runoff-amid-security-tensions-in-the-black-sea"
-     }
-    ]
-   },
-   {
-    "date": "2026-11-01",
-    "text": "Ukrainian evacuees from Russian-occupied Oleshky reunite with family",
-    "ko": "러시아 점령지 올레쉬키(Oleshky)에서 탈출한 우크라이나 피난민들이 가족과 재회하다",
-    "sources": [
-     {
-      "t": "Al Jazeera",
-      "u": "https://www.aljazeera.com/news/2026/11/1/ukrainian-evacuees-from-russian-occupied-oleshky-reunite-with-family?traffic_source=rss"
-     }
-    ]
-   },
-   {
-    "date": "2026-10-31",
-    "text": "Turkiye’s Erdogan urges Russia and Ukraine to stop Black Sea attacks",
-    "ko": "터키 에르도안 대통령, 러시아와 우크라이나에 흑해 공격 중단 촉구",
-    "sources": [
-     {
-      "t": "Al Jazeera",
-      "u": "https://www.aljazeera.com/news/2026/10/31/turkiyes-erdogan-urges-russia-and-ukraine-to-stop-black-sea-attacks?traffic_source=rss"
-     }
-    ]
-   },
-   {
-    "date": "2026-10-31",
-    "text": "'We came back from hell', say Ukrainians after years in Russia-occupied front-line city",
-    "ko": "러시아 점령 최전선 도시에서 수년을 보낸 우크라이나인들은 '우리는 지옥에서 돌아왔다'고 말한다",
+    "date": "2026-11-03",
+    "text": "Thousands of European troops to rehearse Ukraine deployment in event of peace",
+    "ko": "유럽군 수천명, 평화시 우크라이나 배치 연습",
     "sources": [
      {
       "t": "BBC",
-      "u": "https://www.bbc.co.uk/news/articles/cqglw3k7djp1o?at_medium=RSS&at_campaign=rss"
+      "u": "https://www.bbc.co.uk/news/articles/cm3wv085ne6po?at_medium=RSS&at_campaign=rss"
      }
     ]
    },
    {
-    "date": "2026-10-31",
-    "text": "Oleshky evacuees reunite with families after truce allows crossing back into Ukraine",
-    "ko": "올레쉬키(Oleshky) 피난민, 휴전 후 우크라이나로의 귀국 허용 후 가족과 재회",
+    "date": "2026-11-02",
+    "text": "At least 24 people are killed, five others are injured, and 27 are missing during Russian bombing on an aid distribution centre in Komyshuvakha, Zaporizhzhia Oblast. Ukraine.",
     "sources": [
      {
-      "t": "The Guardian",
-      "u": "https://www.theguardian.com/world/2026/oct/31/oleshky-evacuees-reunite-with-families-after-truce-allows-crossing-into-ukraine"
+      "t": "BBC News",
+      "u": "https://www.bbc.com/news/articles/cjy56dndlyz0o"
+     }
+    ],
+    "ko": "Zaporizhzhia Oblast의 Komyshuvakha에 있는 구호품 배포 센터에 대한 러시아의 폭격으로 최소 24명이 사망하고 5명이 부상했으며 27명이 실종되었습니다. 우크라이나."
+   },
+   {
+    "date": "2026-11-02",
+    "text": "Emergency alerts hacking 'designed to undermine trust in government', expert says",
+    "ko": "긴급 경보 해킹은 '정부에 대한 신뢰를 훼손하기 위해 고안된 것'이라고 전문가는 말합니다.",
+    "sources": [
+     {
+      "t": "France 24",
+      "u": "https://www.france24.com/en/tv-shows/a-propos/20261102-emergency-alerts-hacking-designed-to-undermine-trust-in-government-expert-says"
      }
     ]
    },
    {
-    "date": "2026-10-31",
-    "text": "Evacuees of Russian-occupied Oleshky reunited with families",
-    "ko": "러시아 점령지 올레스키(Oleshky)에서 피난민들이 가족과 재회했다.",
+    "date": "2026-11-02",
+    "text": "Trump promised 'no more wars'. His foreign policy tells another story",
+    "ko": "트럼프는 '더 이상 전쟁은 없다'고 약속했다. 그의 외교 정책은 또 다른 이야기를 말해준다",
+    "sources": [
+     {
+      "t": "France 24",
+      "u": "https://www.france24.com/en/tv-shows/truth-or-fake/20261102-trump-promised-no-more-wars-his-foreign-policy-tells-another-story"
+     }
+    ]
+   },
+   {
+    "date": "2026-11-02",
+    "text": "Russian bombing kills 26 people at Ukraine aid centre, Kyiv says",
+    "ko": "키예프 \"우크라이나 구호센터서 러시아 폭격으로 26명 사망\"",
+    "sources": [
+     {
+      "t": "BBC",
+      "u": "https://www.bbc.co.uk/news/articles/cjy56dndlyz0o?at_medium=RSS&at_campaign=rss"
+     }
+    ]
+   },
+   {
+    "date": "2026-11-02",
+    "text": "Fake nuclear warning from hacked app sparks unease but not panic in Ukraine",
+    "ko": "해킹된 앱의 가짜 핵 경고로 인해 우크라이나에서는 불안이 촉발되었지만 당황하지는 않았습니다.",
+    "sources": [
+     {
+      "t": "BBC",
+      "u": "https://www.bbc.co.uk/news/articles/cwx28mngxz8do?at_medium=RSS&at_campaign=rss"
+     }
+    ]
+   },
+   {
+    "date": "2026-11-02",
+    "text": "Russian bombing of Ukrainian aid centre kills 26 people",
+    "ko": "러시아, 우크라이나 구호센터 폭격으로 26명 사망",
     "sources": [
      {
       "t": "Al Jazeera",
-      "u": "https://www.aljazeera.com/video/newsfeed/2026/10/31/aje-onl-nf_evacuees-from-oleshky-reunite-w-families-in-ukraine-311026?traffic_source=rss"
+      "u": "https://www.aljazeera.com/news/2026/11/2/russian-bombing-of-ukrainian-aid-centre-kills-24-people-zelenskyy?traffic_source=rss"
+     }
+    ]
+   },
+   {
+    "date": "2026-11-02",
+    "text": "Fighting returns to Kherson region after longest Ukraine war ceasefire",
+    "ko": "가장 긴 우크라이나 전쟁 휴전 이후 헤르손 지역으로 전투 복귀",
+    "sources": [
+     {
+      "t": "BBC",
+      "u": "https://www.bbc.co.uk/news/articles/ckg5jlyp66jzo?at_medium=RSS&at_campaign=rss"
      }
     ]
    }
   ],
   "sudan": [
+   {
+    "date": "2026-11-02",
+    "text": "The Rapid Support Forces launches drone strikes against three distrubition stations in Sudan's Kassala and Northern states.",
+    "sources": [
+     {
+      "t": "Sudan Tribune",
+      "u": "https://sudantribune.com/article/320792"
+     }
+    ],
+    "ko": "신속지원군(Rapid Support Forces)은 수단의 카살라(Kassala) 주와 북부 주에 있는 세 개의 보급 기지에 대해 드론 공격을 시작합니다."
+   },
+   {
+    "date": "2026-11-02",
+    "text": "Drone attacks extend campaign targeting Sudan’s power system",
+    "ko": "드론 공격으로 수단의 전력 시스템을 겨냥한 캠페인 확대",
+    "sources": [
+     {
+      "t": "Al Jazeera",
+      "u": "https://www.aljazeera.com/news/2026/11/2/drone-attacks-extend-campaign-targeting-sudans-power-system?traffic_source=rss"
+     }
+    ]
+   },
    {
     "date": "2026-10-31",
     "text": "Studios destroyed, traditions saved: Artists fight to save Sudan’s culture",
@@ -245,165 +267,165 @@
      }
     ],
     "ko": "어제 수단 남부 다르푸르의 니알라 시장에서 드론 공격으로 인한 사상자 수는 100명 이상이 사망하고 112명이 부상했습니다."
-   },
-   {
-    "date": "2026-10-27",
-    "text": "West warns of famine risk in Sudan as civil war grinds on",
-    "ko": "웨스트, 내전이 심화됨에 따라 수단의 기근 위험 경고",
-    "sources": [
-     {
-      "t": "BBC",
-      "u": "https://www.bbc.co.uk/news/articles/cj5ynkk6v3pzo?at_medium=RSS&at_campaign=rss"
-     }
-    ]
-   },
-   {
-    "date": "2026-10-27",
-    "text": "Sudan: One year after the fall of El-Fasher",
-    "ko": "수단: El-Fasher가 함락된 지 1년 후",
-    "sources": [
-     {
-      "t": "France 24",
-      "u": "https://www.france24.com/en/video/20261027-sudan-one-year-after-the-fall-of-el-fasher"
-     }
-    ]
    }
   ],
   "iran": [
    {
-    "date": "2026-11-01",
-    "text": "Gulf leaders meet in Qatar in effort to stave off new escalation in U.S and Iran war",
-    "ko": "걸프 지도자들은 미국과 이란의 전쟁이 다시 고조되는 것을 막기 위해 카타르에서 회담을 가졌습니다.",
-    "sources": [
-     {
-      "t": "NPR",
-      "u": "https://www.npr.org/2026/11/01/nx-s1-6023237/gulf-leaders-meet-in-qatar-in-effort-to-stave-off-new-escalation-in-u-s-and-iran-war"
-     }
-    ]
-   },
-   {
-    "date": "2026-11-01",
-    "text": "How will the Iran war shape the outcome of the US midterm vote?",
-    "ko": "이란 전쟁은 미국 중간 투표 결과에 어떤 영향을 미칠까요?",
+    "date": "2026-11-03",
+    "text": "Iran war live: Vance sees ‘progress’, Tehran says ‘ball is in US court’",
+    "ko": "이란 전쟁 라이브: Vance는 '진행'을 보고, 테헤란은 '공은 미국 법원에 있다'고 말했습니다.",
     "sources": [
      {
       "t": "Al Jazeera",
-      "u": "https://www.aljazeera.com/video/inside-story/2026/11/1/how-will-the-iran-war-shape-the-outcome-of-the-u-s-midterm-vote?traffic_source=rss"
+      "u": "https://www.aljazeera.com/news/liveblog/2026/11/3/iran-war-live-vance-sees-progress-in-talks-tehran-says-ball-in-us-court?traffic_source=rss"
      }
     ]
    },
    {
-    "date": "2026-11-01",
-    "text": "Iran and US explore diplomacy amid rising threats of war",
-    "ko": "이란과 미국은 전쟁 위협이 높아지는 가운데 외교를 모색하고 있습니다.",
+    "date": "2026-11-02",
+    "text": "War, tariffs and China: What the US midterms mean for the Asia-Pacific",
+    "ko": "전쟁, 관세, 중국: 미국 중간고사가 아시아태평양 지역에 미치는 영향",
     "sources": [
      {
       "t": "Al Jazeera",
-      "u": "https://www.aljazeera.com/news/2026/11/1/iran-and-us-explore-diplomacy-amid-rising-threats-of-war?traffic_source=rss"
+      "u": "https://www.aljazeera.com/news/2026/11/2/war-tariffs-and-china-what-the-us-midterms-mean-for-the-asia-pacific?traffic_source=rss"
      }
     ]
    },
    {
-    "date": "2026-11-01",
-    "text": "Mediators continue US-Iran negotiations amid war rhetoric: What we know",
-    "ko": "중재자들은 전쟁 수사 속에서 미국-이란 협상을 계속합니다: 우리가 알고 있는 것",
-    "sources": [
-     {
-      "t": "Al Jazeera",
-      "u": "https://www.aljazeera.com/news/2026/11/1/mediators-continue-us-iran-negotiations-amid-war-rhetoric-what-we-know?traffic_source=rss"
-     }
-    ]
-   },
-   {
-    "date": "2026-11-01",
-    "text": "What we know about latest efforts to end US war on Iran",
-    "ko": "이란에 대한 미국의 전쟁을 종식시키기 위한 최근의 노력에 대해 우리가 알고 있는 것",
-    "sources": [
-     {
-      "t": "Al Jazeera",
-      "u": "https://www.aljazeera.com/video/newsfeed/2026/11/1/iran-wrap-iran-latest-developments-011126?traffic_source=rss"
-     }
-    ]
-   },
-   {
-    "date": "2026-11-01",
-    "text": "Iran war live: Tehran eyes 2-day Hormuz plan; Trump says talks ‘going fine’",
-    "ko": "이란 전쟁 생중계: 테헤란은 2일 호르무즈 계획을 주시하고 있습니다. 트럼프 “회담은 잘 진행되고 있다”",
-    "sources": [
-     {
-      "t": "Al Jazeera",
-      "u": "https://www.aljazeera.com/news/liveblog/2026/11/1/iran-war-live-araghchi-says-talks-under-way-on-2-day-plan-to-reopen-hormuz?traffic_source=rss"
-     }
-    ]
-   },
-   {
-    "date": "2026-10-31",
-    "text": "Iran's Khamenei warns US and Israel against new attacks",
-    "ko": "이란 하메네이, 미국과 이스라엘에 새로운 공격 경고",
+    "date": "2026-11-02",
+    "text": "Trump promised 'no more wars'. His foreign policy tells another story",
+    "ko": "트럼프는 '더 이상 전쟁은 없다'고 약속했다. 그의 외교 정책은 또 다른 이야기를 말해준다",
     "sources": [
      {
       "t": "France 24",
-      "u": "https://www.france24.com/en/middle-east/20261031-iran-s-khamenei-warns-us-and-israel-against-new-attacks"
+      "u": "https://www.france24.com/en/tv-shows/truth-or-fake/20261102-trump-promised-no-more-wars-his-foreign-policy-tells-another-story"
      }
     ]
    },
    {
-    "date": "2026-10-31",
-    "text": "Iran FM says US outreach a ‘positive step’ as delegation in Qatar for talks",
-    "ko": "이란 FM은 회담을 위해 카타르 대표단으로서 미국의 지원 활동이 '긍정적인 단계'라고 말했습니다.",
-    "sources": [
-     {
-      "t": "Al Jazeera",
-      "u": "https://www.aljazeera.com/news/2026/10/31/iran-fm-says-us-outreach-a-positive-step-as-delegation-in-qatar-for-talks?traffic_source=rss"
-     }
-    ]
-   },
-   {
-    "date": "2026-10-31",
-    "text": "Iran lawmakers call for withdrawal from NPT: Will we have war or peace?",
-    "ko": "이란 국회의원들, NPT 탈퇴 촉구: 전쟁이 일어날 것인가, 평화가 일어날 것인가?",
-    "sources": [
-     {
-      "t": "Al Jazeera",
-      "u": "https://www.aljazeera.com/news/2026/10/31/iran-lawmakers-call-for-withdrawal-from-npt-will-we-have-war-or-peace?traffic_source=rss"
-     }
-    ]
-   },
-   {
-    "date": "2026-10-31",
-    "text": "Iran warns of unfettered retaliation if attacked as mediators try for peace",
-    "ko": "이란은 중재자가 평화를 위해 노력하는 동안 공격을 받으면 무제한 보복을 경고합니다.",
-    "sources": [
-     {
-      "t": "Al Jazeera",
-      "u": "https://www.aljazeera.com/news/2026/10/31/iran-warns-of-unfettered-retaliation-if-attacked-as-mediators-try-for-peace?traffic_source=rss"
-     }
-    ]
-   },
-   {
-    "date": "2026-10-31",
-    "text": "Can Democrats win the US Senate? 10 key midterm races to watch",
-    "ko": "민주당이 미국 상원에서 승리할 수 있을까? 주목해야 할 10가지 주요 중간고사 경기",
-    "sources": [
-     {
-      "t": "Al Jazeera",
-      "u": "https://www.aljazeera.com/news/2026/10/31/can-democrats-win-the-us-senate-10-key-midterm-races-to-watch?traffic_source=rss"
-     }
-    ]
-   },
-   {
-    "date": "2026-10-31",
-    "text": "Trump vs MAGA: Why his movement is splitting",
-    "ko": "트럼프 대 MAGA: 그의 움직임이 분열되는 이유",
+    "date": "2026-11-02",
+    "text": "MAGA: Why Trump's most loyal supporters are turning against him?",
+    "ko": "MAGA: 트럼프의 가장 충성스러운 지지자들이 왜 그에게 등을 돌리는 걸까요?",
     "sources": [
      {
       "t": "France 24",
-      "u": "https://www.france24.com/en/video/20261031-trump-vs-maga-why-his-movement-is-splitting"
+      "u": "https://www.france24.com/en/maga-why-trump-s-most-loyal-supporters-are-turning-against-him"
+     }
+    ]
+   },
+   {
+    "date": "2026-11-02",
+    "text": "Trump signals progress on Iran deal as Tehran pushes faster ceasefire",
+    "ko": "테헤란이 더 빠른 휴전을 추진함에 따라 트럼프는이란 거래의 진전을 예고했습니다.",
+    "sources": [
+     {
+      "t": "Al Jazeera",
+      "u": "https://www.aljazeera.com/news/2026/11/2/iran-pushing-accelerated-plan-for-ceasefire-talks-with-us?traffic_source=rss"
+     }
+    ]
+   },
+   {
+    "date": "2026-11-02",
+    "text": "Trump says deal with Tehran 'could happen' amid 'intensive' talks",
+    "ko": "트럼프 \"테헤란과의 협상은 집중적 회담 속에서 성사될 수 있다\"",
+    "sources": [
+     {
+      "t": "France 24",
+      "u": "https://www.france24.com/en/middle-east/20261102-iran-engages-us-in-intensive-negotiations-to-avert-fresh-war-outbreak"
+     }
+    ]
+   },
+   {
+    "date": "2026-11-02",
+    "text": "Oil price falls amid hope of a breakthrough to end Iran war",
+    "ko": "이란 전쟁 종식 돌파구 기대 속에 유가 하락",
+    "sources": [
+     {
+      "t": "The Guardian",
+      "u": "https://www.theguardian.com/business/2026/nov/02/oil-price-falls-amid-hope-of-a-breakthrough-to-end-iran-war"
+     }
+    ]
+   },
+   {
+    "date": "2026-11-02",
+    "text": "China steps up Middle East diplomacy with Iran and Oman meetings",
+    "ko": "중국, 이란·오만 회담으로 중동 외교 강화",
+    "sources": [
+     {
+      "t": "Al Jazeera",
+      "u": "https://www.aljazeera.com/news/2026/11/2/china-steps-up-middle-east-diplomacy-with-iran-and-oman-meetings?traffic_source=rss"
+     }
+    ]
+   },
+   {
+    "date": "2026-11-02",
+    "text": "What might Trump have planned for Iran following the midterm election?",
+    "ko": "트럼프는 중간선거 이후 이란을 위해 무엇을 계획했을까?",
+    "sources": [
+     {
+      "t": "DW",
+      "u": "https://www.dw.com/en/what-might-trump-have-planned-for-iran-following-the-midterm-election/a-79831816?maca=en-rss-en-world-4025-rdf"
+     }
+    ]
+   },
+   {
+    "date": "2026-11-02",
+    "text": "Heading into the midterms, 'no US president in recent times has been as unpopular as Donald Trump'",
+    "ko": "중간고사 돌입 \"최근 도널드 트럼프만큼 인기 없는 미국 대통령은 없다\"",
+    "sources": [
+     {
+      "t": "France 24",
+      "u": "https://www.france24.com/en/heading-into-the-midterms-no-us-president-in-recent-times-has-been-as-unpopular-as-donald-trump"
+     }
+    ]
+   },
+   {
+    "date": "2026-11-02",
+    "text": "Ryanair faces clash with unions as it mulls pay freezes amid soaring fuel costs",
+    "ko": "라이언에어, 유류비 급등 속에 임금 동결 고민하다 노조와 충돌 직면",
+    "sources": [
+     {
+      "t": "The Guardian",
+      "u": "https://www.theguardian.com/business/2026/nov/02/ryanair-considers-pay-freezes-reducing-crew-on-flights-fuel-costs-soar-ai"
+     }
+    ]
+   },
+   {
+    "date": "2026-11-02",
+    "text": "Ryanair says it may freeze workers' pay and raise airfares",
+    "ko": "라이언에어 \"직원 임금 동결하고 항공료 인상할 수도 있다\"",
+    "sources": [
+     {
+      "t": "BBC",
+      "u": "https://www.bbc.co.uk/news/articles/cr0qkve1x224o?at_medium=RSS&at_campaign=rss"
      }
     ]
    }
   ],
   "yemen": [
+   {
+    "date": "2026-11-02",
+    "text": "World News in Brief: healthcare crisis in Yemen’s Taiz and Afghanistan, Western Sahara mission&#039;s phased closure",
+    "ko": "월드 뉴스 요약: 예멘 타이즈와 아프가니스탄의 의료 위기, 서사하라 선교부의 단계적 폐쇄",
+    "sources": [
+     {
+      "t": "UN News",
+      "u": "https://news.un.org/feed/view/en/story/2026/11/1168723"
+     }
+    ]
+   },
+   {
+    "date": "2026-11-02",
+    "text": "UN staffer’s death in custody exposes Houthi ‘political extortion’ in Yemen",
+    "ko": "유엔 직원 구금 중 사망, 예멘 내 후티 반군 '정치적 갈취' 폭로",
+    "sources": [
+     {
+      "t": "Al Jazeera",
+      "u": "https://www.aljazeera.com/news/2026/11/2/un-staffers-death-in-custody-exposes-houthi-political-extortion-in-yemen?traffic_source=rss"
+     }
+    ]
+   },
    {
     "date": "2026-11-01",
     "text": "Israel’s first ambassador to Somaliland presents credentials in Hargeisa",
@@ -513,31 +535,42 @@
       "u": "https://www.aljazeera.com/news/2026/10/30/houthi-forces-claim-six-attacks-on-saudi-airports-oil-facilities?traffic_source=rss"
      }
     ]
-   },
-   {
-    "date": "2026-10-29",
-    "text": "Saudi Arabia launches airstrikes against two residential buildings in Taiz, Yemen, killing 12 civilians and wounding three more.",
-    "sources": [
-     {
-      "t": "Xinhua",
-      "u": "https://english.news.cn/20261029/44a9ff9e8822451ea1c2e37ac00c3657/c.html"
-     }
-    ],
-    "ko": "사우디아라비아가 예멘 타이즈의 주택 2채에 ​​공습을 가해 민간인 12명이 숨지고 3명이 부상했다."
-   },
-   {
-    "date": "2026-10-29",
-    "text": "Fighting rages near Yemen’s Taiz as UN urges humanitarian access",
-    "ko": "UN이 인도주의적 접근을 촉구함에 따라 예멘 타이즈 인근에서 격렬한 전투가 벌어지고 있습니다.",
-    "sources": [
-     {
-      "t": "Al Jazeera",
-      "u": "https://www.aljazeera.com/news/2026/10/29/fighting-rages-near-yemens-taiz-as-un-urges-humanitarian-access?traffic_source=rss"
-     }
-    ]
    }
   ],
   "gaza": [
+   {
+    "date": "2026-11-02",
+    "text": "Israeli forces withdraw from areas around Hebron in the occupied West Bank after a multi-day operation following the killing of two Israeli soldiers at a checkpoint.",
+    "sources": [
+     {
+      "t": "AFP via RFI",
+      "u": "https://www.rfi.fr/en/international-news/20261102-israel-army-withdraws-after-hebron-operation"
+     }
+    ],
+    "ko": "이스라엘군은 검문소에서 이스라엘 군인 2명을 살해한 후 며칠간의 작전을 마친 후 점령된 서안 지구의 헤브론 주변 지역에서 철수합니다."
+   },
+   {
+    "date": "2026-11-02",
+    "text": "NSW council refuses to show world-renowned Gaza artwork over ‘unacceptable’ safety risk",
+    "ko": "NSW 의회는 '용납할 수 없는' 안전 위험 때문에 세계적으로 유명한 가자 예술 작품 전시를 거부했습니다.",
+    "sources": [
+     {
+      "t": "The Guardian",
+      "u": "https://www.theguardian.com/australia-news/2026/nov/03/shoalhaven-council-refuses-to-show-wall-of-tears-gaza-artwork-safety-risk-ntwnfb"
+     }
+    ]
+   },
+   {
+    "date": "2026-11-01",
+    "text": "Five civil police officers are killed in an Israeli airstrike in al-Mawasi, Rafah, Gaza Strip. Separately, three more Palestinians, including a four-year-old child, are killed in an airstrike on a building in Gaza City.",
+    "sources": [
+     {
+      "t": "Al Jazeera",
+      "u": "https://www.aljazeera.com/news/2026/11/1/at-least-eight-palestinians-killed-in-israeli-attacks-across-gaza"
+     }
+    ],
+    "ko": "가자지구 라파주 알마와시에서 이스라엘의 공습으로 경찰 5명이 사망했다. 이와 별도로 가자시티의 한 건물에 대한 공습으로 4살 어린이를 포함해 팔레스타인인 3명이 추가로 사망했습니다."
+   },
    {
     "date": "2026-11-01",
     "text": "Five civil police officers are killed in an Israeli airstrike in al-Mawasi, Rafah, Gaza Strip. Separately, three more Palestinians, including a four-year-old child, are killed in an airstrike against a building in Gaza City.",
@@ -636,39 +669,6 @@
       "u": "https://www.aljazeera.com/video/newsfeed/2026/10/31/mohammed-deif-rare-footage-and-october-7-documents?traffic_source=rss"
      }
     ]
-   },
-   {
-    "date": "2026-10-30",
-    "text": "Jerusalem Daily: Israel’s siege on Hebron displaces thousands",
-    "ko": "예루살렘 데일리(Jerusalem Daily): 이스라엘의 헤브론 포위로 수천 명의 난민 발생",
-    "sources": [
-     {
-      "t": "Al Jazeera",
-      "u": "https://www.aljazeera.com/video/newsfeed/2026/10/30/jerusalem-daily-israels-siege-on-hebron-displaces-thousands?traffic_source=rss"
-     }
-    ]
-   },
-   {
-    "date": "2026-10-30",
-    "text": "Ethnic cleansing fears rise as Israel squeezes space in Gaza: UN",
-    "ko": "이스라엘이 가자 지구의 공간을 압박함에 따라 인종 청소에 대한 우려가 커지고 있습니다 : UN",
-    "sources": [
-     {
-      "t": "Al Jazeera",
-      "u": "https://www.aljazeera.com/news/2026/10/30/ethnic-cleansing-fears-rise-as-israel-squeezes-space-in-gaza-un?traffic_source=rss"
-     }
-    ]
-   },
-   {
-    "date": "2026-10-30",
-    "text": "UN rights office warns of deepening displacement ‘nightmare’ in Gaza",
-    "ko": "유엔 인권 사무소, 가자지구 난민 '악몽' 심화 경고",
-    "sources": [
-     {
-      "t": "UN News",
-      "u": "https://news.un.org/feed/view/en/story/2026/10/1168707"
-     }
-    ]
    }
   ],
   "delhi": [
@@ -751,6 +751,39 @@
    }
   ],
   "westbank": [
+   {
+    "date": "2026-11-02",
+    "text": "Jerusalem Daily: Israel’s lockdown of Hebron comes to an end",
+    "ko": "예루살렘 데일리(Jerusalem Daily): 이스라엘의 헤브론 봉쇄가 끝났습니다",
+    "sources": [
+     {
+      "t": "Al Jazeera",
+      "u": "https://www.aljazeera.com/video/newsfeed/2026/11/2/jerusalem-daily-israels-lockdown-of-hebron-comes-to-an-end?traffic_source=rss"
+     }
+    ]
+   },
+   {
+    "date": "2026-11-02",
+    "text": "Displaced in Hebron: Picking up pieces after Israeli siege",
+    "ko": "헤브론의 난민: 이스라엘의 포위 공격 후 조각을 줍는 모습",
+    "sources": [
+     {
+      "t": "Al Jazeera",
+      "u": "https://www.aljazeera.com/news/2026/11/2/displaced-in-hebron-picking-up-pieces-after-israeli-siege?traffic_source=rss"
+     }
+    ]
+   },
+   {
+    "date": "2026-11-02",
+    "text": "Hebron governor says Israeli forces withdraw from city after 10-day siege",
+    "ko": "헤브론 주지사 \"이스라엘군, 10일간의 포위전 마치고 철수\"",
+    "sources": [
+     {
+      "t": "Al Jazeera",
+      "u": "https://www.aljazeera.com/news/2026/11/2/hebron-governor-says-israeli-forces-withdraw-from-city-after-10-day-siege?traffic_source=rss"
+     }
+    ]
+   },
    {
     "date": "2026-11-01",
     "text": "Thousands displaced from Hebron as Israel carries on siege",
@@ -847,39 +880,6 @@
      {
       "t": "Al Jazeera",
       "u": "https://www.aljazeera.com/news/2026/10/29/palestinians-injured-arrested-in-israeli-raids-across-west-bank?traffic_source=rss"
-     }
-    ]
-   },
-   {
-    "date": "2026-10-29",
-    "text": "A week of Israel’s lockdown in Hebron: What’s happened, when will it end?",
-    "ko": "이스라엘의 헤브론 봉쇄 일주일: 무슨 일이 일어났고, 언제 끝날까요?",
-    "sources": [
-     {
-      "t": "Al Jazeera",
-      "u": "https://www.aljazeera.com/news/2026/10/29/a-week-of-israels-lockdown-in-hebron-whats-happened-when-will-it-end?traffic_source=rss"
-     }
-    ]
-   },
-   {
-    "date": "2026-10-29",
-    "text": "Activists accuse Israeli settlers of assault in occupied West Bank",
-    "ko": "활동가들은 점령된 서안 지구에서 이스라엘 정착민이 폭행을 했다고 비난합니다.",
-    "sources": [
-     {
-      "t": "Al Jazeera",
-      "u": "https://www.aljazeera.com/news/2026/10/29/activists-accuse-israeli-settlers-of-assault-in-occupied-west-bank?traffic_source=rss"
-     }
-    ]
-   },
-   {
-    "date": "2026-10-29",
-    "text": "Israeli settlers savagely attack journalists in occupied West Bank",
-    "ko": "이스라엘 정착민, 서안지구 점령지에서 기자들을 잔인하게 공격",
-    "sources": [
-     {
-      "t": "Al Jazeera",
-      "u": "https://www.aljazeera.com/video/newsfeed/2026/10/29/israeli-settlers-savagely-attack-journalists-in-occupied-west-bank?traffic_source=rss"
      }
     ]
    }
@@ -1116,6 +1116,28 @@
   ],
   "ethiopia": [
    {
+    "date": "2026-11-02",
+    "text": "Violence in northern Ethiopia pushing health system towards collapse: WHO",
+    "ko": "에티오피아 북부의 폭력 사태로 의료 시스템 붕괴: WHO",
+    "sources": [
+     {
+      "t": "Al Jazeera",
+      "u": "https://www.aljazeera.com/news/2026/11/2/violence-in-northern-ethiopia-pushing-health-system-towards-collapse-who?traffic_source=rss"
+     }
+    ]
+   },
+   {
+    "date": "2026-11-02",
+    "text": "Ethiopia: Violence in the north is pushing health system to the brink, WHO chief warns",
+    "ko": "에티오피아: 북부 지역의 폭력으로 인해 의료 시스템이 위기에 처해 있다고 WHO 사무총장이 경고",
+    "sources": [
+     {
+      "t": "UN News",
+      "u": "https://news.un.org/feed/view/en/story/2026/11/1168720"
+     }
+    ]
+   },
+   {
     "date": "2026-10-31",
     "text": "Ethiopian PM puts ministers through military training",
     "ko": "에티오피아 총리, 장관들에게 군사 훈련 실시",
@@ -1300,6 +1322,28 @@
   ],
   "somalia": [
    {
+    "date": "2026-11-02",
+    "text": "Uganda withdrawing troops from peacekeeping mission in Somalia",
+    "ko": "우간다, 소말리아 평화 유지 임무에서 군대 철수",
+    "sources": [
+     {
+      "t": "France 24",
+      "u": "https://www.france24.com/en/uganda-withdrawing-troops-from-peacekeeping-mission-in-somalia"
+     }
+    ]
+   },
+   {
+    "date": "2026-11-02",
+    "text": "Uganda begins withdrawing troops from Somalia after 20 years",
+    "ko": "우간다, 20년 만에 소말리아에서 군대 철수 시작",
+    "sources": [
+     {
+      "t": "BBC",
+      "u": "https://www.bbc.co.uk/news/articles/c8zxlqxwed4do?at_medium=RSS&at_campaign=rss"
+     }
+    ]
+   },
+   {
     "date": "2026-11-01",
     "text": "Israel’s first ambassador to Somaliland presents credentials in Hargeisa",
     "ko": "소말릴란드 주재 이스라엘 대사, 하르게이사에서 신임장 수여",
@@ -1469,6 +1513,17 @@
   ],
   "colombia": [
    {
+    "date": "2026-11-02",
+    "text": "A truck bomb explodes near a military base in Planadas, Tolima Department, Colombia, killing four people, including a baby, and wounding several others.",
+    "sources": [
+     {
+      "t": "BBC News",
+      "u": "https://www.bbc.com/news/articles/cqn06n30l406o"
+     }
+    ],
+    "ko": "콜롬비아 톨리마 주 플라나다스의 한 군사 기지 근처에서 트럭 폭탄이 터져 아기를 포함해 4명이 사망하고 여러 명이 부상을 입었습니다."
+   },
+   {
     "date": "2026-10-27",
     "text": "A bomb explodes near a bridge in Cúcuta, Colombia, at the border with Venezuela, injuring four police officers.",
     "sources": [
@@ -1563,6 +1618,17 @@
   ],
   "drc": [
    {
+    "date": "2026-11-02",
+    "text": "Petition to ban French right-wing TV channel clears 600,000 signatures after racist killing",
+    "ko": "프랑스 우익 TV 채널 금지 청원, 인종차별 살해 이후 60만 서명 통과",
+    "sources": [
+     {
+      "t": "France 24",
+      "u": "https://www.france24.com/en/france/20261102-petition-to-ban-french-right-wing-tv-channel-clears-500-000-signatures-after-racist-killing"
+     }
+    ]
+   },
+   {
     "date": "2026-10-31",
     "text": "Suited and booted: How Joseph Kabila went from president to rebel leader",
     "ko": "적합하고 부츠 : Joseph Kabila가 대통령에서 반군 지도자가 된 방법",
@@ -1597,6 +1663,17 @@
    }
   ],
   "mexico": [
+   {
+    "date": "2026-11-02",
+    "text": "A double attack against against two Drug rehabilitation centers left three people killed and five wounded in Mazatlán, Sinaloa, México.",
+    "sources": [
+     {
+      "t": "La Jornada",
+      "u": "https://www.jornada.com.mx/noticia/2026/11/01/estados/atacan-centros-de-rehabilitacion-en-mazatlan-y-matan-a-3-personas"
+     }
+    ],
+    "ko": "멕시코 시날로아주 마사틀란에서 두 곳의 약물 재활 센터에 대한 이중 공격으로 3명이 사망하고 5명이 부상을 입었습니다."
+   },
    {
     "date": "2026-11-01",
     "text": "Juan Atkins, pioneer of Detroit techno sound, dies aged 64",
