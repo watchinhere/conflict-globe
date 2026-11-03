@@ -1,9 +1,9 @@
 {
- "updated": "2026-11-02T19:37:13.783Z",
+ "updated": "2026-11-03T01:47:37.550Z",
  "sources": {
   "BBC": {
    "ok": true,
-   "n": 17
+   "n": 19
   },
   "Al Jazeera": {
    "ok": true,
@@ -11,7 +11,7 @@
   },
   "The Guardian": {
    "ok": true,
-   "n": 11
+   "n": 13
   },
   "DW": {
    "ok": true,
@@ -19,11 +19,11 @@
   },
   "France 24": {
    "ok": true,
-   "n": 9
+   "n": 13
   },
   "UN News": {
    "ok": true,
-   "n": 1
+   "n": 3
   },
   "NPR": {
    "ok": true,
@@ -31,6 +31,293 @@
   }
  },
  "items": [
+  {
+   "id": "33d61d25d3c6",
+   "t": "European force to hold first Ukraine support exercise in Poland",
+   "ko": "유럽군, 폴란드에서 첫 우크라이나 지원 훈련 개최",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/europe/20261103-european-force-to-hold-first-ukraine-support-exercise-in-poland",
+   "at": "2026-11-03T01:43:00.000Z",
+   "ev": [
+    "ukraine"
+   ],
+   "cc": [
+    "Ukraine",
+    "Poland",
+    "France"
+   ]
+  },
+  {
+   "id": "6ebb60de6dea",
+   "t": "Russian strikes kill 26 in Ukraine after longest ceasefire ends",
+   "ko": "러시아, 최장 휴전 종료 후 우크라이나 공습으로 26명 사망",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/europe/20261103-russian-strikes-kill-26-in-ukraine-after-longest-ceasefire-ends",
+   "at": "2026-11-03T01:18:44.000Z",
+   "ev": [
+    "ukraine"
+   ],
+   "cc": [
+    "Russia",
+    "Ukraine"
+   ]
+  },
+  {
+   "id": "2308b3a724f7",
+   "t": "Multiple Russian strikes kill at least 26 at Ukraine aid centre",
+   "ko": "러시아의 여러 차례 공습으로 우크라이나 구호센터 최소 26명 사망",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/video/newsfeed/2026/11/3/multiple-russian-strikes-kill-at-least-26-at-ukraine-aid-centre?traffic_source=rss",
+   "at": "2026-11-03T01:17:57.000Z",
+   "ev": [
+    "ukraine"
+   ],
+   "cc": [
+    "Russia",
+    "Ukraine"
+   ]
+  },
+  {
+   "id": "8eb8876b84d0",
+   "t": "Russian bombing of Ukrainian aid centre kills at least 26, Kyiv says",
+   "ko": "러시아, 우크라이나 구호센터 폭격으로 최소 26명 사망",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/world/2026/nov/03/russia-bombs-ukrainian-aid-centre-komyshuvakha",
+   "at": "2026-11-03T01:13:52.000Z",
+   "ev": [
+    "ukraine"
+   ],
+   "cc": [
+    "Russia",
+    "Ukraine"
+   ]
+  },
+  {
+   "id": "ac89c9448e6f",
+   "t": "Man and boy arrested after One Nation volunteer allegedly attacked with baseball bat in Victoria",
+   "ko": "빅토리아에서 원네이션 자원봉사자가 야구 방망이로 공격을 가한 남성과 소년이 체포됐다.",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/australia-news/2026/nov/03/one-nation-volunteer-alleged-attack-assault-torquay-victoria-ntwnfb",
+   "at": "2026-11-03T01:09:34.000Z",
+   "ev": [],
+   "cc": []
+  },
+  {
+   "id": "9d0eb81c9039",
+   "t": "Thousands of European troops to rehearse Ukraine deployment in event of peace",
+   "ko": "유럽군 수천명, 평화시 우크라이나 배치 연습",
+   "src": "BBC",
+   "u": "https://www.bbc.co.uk/news/articles/cm3wv085ne6po?at_medium=RSS&at_campaign=rss",
+   "at": "2026-11-03T00:07:05.000Z",
+   "ev": [
+    "ukraine"
+   ],
+   "cc": [
+    "Ukraine"
+   ]
+  },
+  {
+   "id": "8330bdd3be4d",
+   "t": "AI-powered malware ‘highly likely’ to be used to hack UK infrastructure by 2028",
+   "ko": "AI 기반 악성코드, 2028년까지 영국 인프라 해킹에 사용될 가능성 '높음'",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/technology/2026/nov/03/ai-powered-malware-artificial-intelligence-hacking-critical-uk-infrastructure",
+   "at": "2026-11-03T00:01:32.000Z",
+   "ev": [],
+   "cc": [
+    "United Kingdom"
+   ]
+  },
+  {
+   "id": "0f1a935f2e2b",
+   "t": "Iran war live: Vance sees ‘progress’, Tehran says ‘ball is in US court’",
+   "ko": "이란 전쟁 라이브: Vance는 '진행'을 보고, 테헤란은 '공은 미국 법원에 있다'고 말했습니다.",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/liveblog/2026/11/3/iran-war-live-vance-sees-progress-in-talks-tehran-says-ball-in-us-court?traffic_source=rss",
+   "at": "2026-11-03T00:00:00.000Z",
+   "ev": [
+    "iran"
+   ],
+   "cc": [
+    "Iran",
+    "United States"
+   ]
+  },
+  {
+   "id": "3f5f6e21578f",
+   "t": "War, tariffs and China: What the US midterms mean for the Asia-Pacific",
+   "ko": "전쟁, 관세, 중국: 미국 중간고사가 아시아태평양 지역에 미치는 영향",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/11/2/war-tariffs-and-china-what-the-us-midterms-mean-for-the-asia-pacific?traffic_source=rss",
+   "at": "2026-11-02T23:41:18.000Z",
+   "ev": [
+    "iran"
+   ],
+   "cc": [
+    "China",
+    "United States",
+    "Iran"
+   ]
+  },
+  {
+   "id": "d4b687bdc321",
+   "t": "Trump’s DoJ charges six more people in ‘voter fraud’ crackdown in California",
+   "ko": "트럼프 법무부, 캘리포니아주 '유권자 사기' 단속 혐의로 6명 추가 기소",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/us-news/2026/nov/02/california-voter-fraud-charges",
+   "at": "2026-11-02T23:22:24.000Z",
+   "ev": [],
+   "cc": [
+    "United States"
+   ]
+  },
+  {
+   "id": "9a1277f14af4",
+   "t": "Emergency alerts hacking 'designed to undermine trust in government', expert says",
+   "ko": "긴급 경보 해킹은 '정부에 대한 신뢰를 훼손하기 위해 고안된 것'이라고 전문가는 말합니다.",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/tv-shows/a-propos/20261102-emergency-alerts-hacking-designed-to-undermine-trust-in-government-expert-says",
+   "at": "2026-11-02T22:30:09.000Z",
+   "ev": [
+    "ukraine"
+   ],
+   "cc": [
+    "Russia",
+    "Ukraine"
+   ]
+  },
+  {
+   "id": "4d729eed8737",
+   "t": "Washington state resident dies from ‘severe illness’ after contracting bird flu",
+   "ko": "워싱턴주 주민, 조류독감에 걸린 후 '심각한 질병'으로 사망",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/us-news/2026/nov/02/bird-flu-death-washington",
+   "at": "2026-11-02T21:59:02.000Z",
+   "ev": [],
+   "cc": []
+  },
+  {
+   "id": "d1d98fc2aafa",
+   "t": "Trump promised 'no more wars'. His foreign policy tells another story",
+   "ko": "트럼프는 '더 이상 전쟁은 없다'고 약속했다. 그의 외교 정책은 또 다른 이야기를 말해준다",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/tv-shows/truth-or-fake/20261102-trump-promised-no-more-wars-his-foreign-policy-tells-another-story",
+   "at": "2026-11-02T21:34:10.000Z",
+   "ev": [
+    "ukraine",
+    "iran"
+   ],
+   "cc": [
+    "United States",
+    "Ukraine",
+    "Greenland"
+   ]
+  },
+  {
+   "id": "d38b77da41bf",
+   "t": "Student protests resume in France as pupils return to school",
+   "ko": "프랑스, 학생들이 학교로 돌아가자 시위 재개",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/video/newsfeed/2026/11/2/student-protests-resume-in-france-as-pupils-return-to-school?traffic_source=rss",
+   "at": "2026-11-02T21:28:55.000Z",
+   "ev": [],
+   "cc": [
+    "France"
+   ]
+  },
+  {
+   "id": "15458b0e8388",
+   "t": "Uganda withdrawing troops from peacekeeping mission in Somalia",
+   "ko": "우간다, 소말리아 평화 유지 임무에서 군대 철수",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/uganda-withdrawing-troops-from-peacekeeping-mission-in-somalia",
+   "at": "2026-11-02T21:24:21.000Z",
+   "ev": [
+    "somalia"
+   ],
+   "cc": [
+    "Uganda",
+    "Somalia",
+    "South Africa"
+   ]
+  },
+  {
+   "id": "7584627279c2",
+   "t": "Russian bombing kills 26 people at Ukraine aid centre, Kyiv says",
+   "ko": "키예프 \"우크라이나 구호센터서 러시아 폭격으로 26명 사망\"",
+   "src": "BBC",
+   "u": "https://www.bbc.co.uk/news/articles/cjy56dndlyz0o?at_medium=RSS&at_campaign=rss",
+   "at": "2026-11-02T21:10:04.000Z",
+   "ev": [
+    "ukraine"
+   ],
+   "cc": [
+    "Russia",
+    "Ukraine"
+   ]
+  },
+  {
+   "id": "53aad65db362",
+   "t": "Migration is a moral issue for Burnham – but is he trying to please everyone?",
+   "ko": "번햄에게 이민은 도덕적 문제입니다. 하지만 그는 모든 사람을 기쁘게 하려고 노력하고 있나요?",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/uk-news/2026/nov/02/migration-andy-burnham-shabana-mahmood-labour-immigration",
+   "at": "2026-11-02T20:39:52.000Z",
+   "ev": [],
+   "cc": [
+    "United Kingdom"
+   ]
+  },
+  {
+   "id": "79a2147bb5e1",
+   "t": "EU says fridge attacks 'deliberate attempt to disrupt' bloc's food supply",
+   "ko": "EU는 냉장고 공격이 블록의 식량 공급을 방해하려는 '의도적인 시도'라고 말했습니다.",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/eu-says-fridge-attacks-deliberate-attempt-to-disrupt-bloc-s-food-supply",
+   "at": "2026-11-02T20:30:07.000Z",
+   "ev": [],
+   "cc": [
+    "Sweden",
+    "Portugal",
+    "Belgium"
+   ]
+  },
+  {
+   "id": "3bbc6d75eba3",
+   "t": "What Florida jet audio and flight data tells us about its final moments",
+   "ko": "플로리다 제트기 오디오 및 비행 데이터가 마지막 순간에 대해 알려주는 것",
+   "src": "BBC",
+   "u": "https://www.bbc.co.uk/news/videos/c52e9lgxjz82o?at_medium=RSS&at_campaign=rss",
+   "at": "2026-11-02T19:49:22.000Z",
+   "ev": [],
+   "cc": [
+    "United States"
+   ]
+  },
+  {
+   "id": "a89ddf8c5707",
+   "t": "HRW calls on Zambia to halt post-election crackdown",
+   "ko": "HRW, 잠비아에 선거 후 탄압 중단 촉구",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/11/2/hrw-calls-on-zambia-to-halt-post-election-crackdown?traffic_source=rss",
+   "at": "2026-11-02T19:40:10.000Z",
+   "ev": [],
+   "cc": [
+    "Zambia"
+   ]
+  },
+  {
+   "id": "6f65d06038e6",
+   "t": "Protester’s ‘I support genocide’ sign appears to face no police action",
+   "ko": "시위대의 '나는 대량 학살을 지지합니다' 팻말은 경찰의 조치에 직면하지 않는 것으로 보인다",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/video/newsfeed/2026/11/2/protesters-i-support-genocide-sign-appears-to-face-no-police-action?traffic_source=rss",
+   "at": "2026-11-02T19:39:24.000Z",
+   "ev": [],
+   "cc": [
+    "United Kingdom"
+   ]
+  },
   {
    "id": "329d86acd85f",
    "t": "MAGA: Why Trump's most loyal supporters are turning against him?",
@@ -57,8 +344,8 @@
   },
   {
    "id": "ebdde0b3842f",
-   "t": "Iran pushing accelerated plan for ceasefire talks with US",
-   "ko": "이란, 미국과 휴전 협상 가속화 계획 추진",
+   "t": "Trump signals progress on Iran deal as Tehran pushes faster ceasefire",
+   "ko": "테헤란이 더 빠른 휴전을 추진함에 따라 트럼프는이란 거래의 진전을 예고했습니다.",
    "src": "Al Jazeera",
    "u": "https://www.aljazeera.com/news/2026/11/2/iran-pushing-accelerated-plan-for-ceasefire-talks-with-us?traffic_source=rss",
    "at": "2026-11-02T18:49:26.000Z",
@@ -68,21 +355,6 @@
    "cc": [
     "Iran",
     "United States"
-   ]
-  },
-  {
-   "id": "7584627279c2",
-   "t": "Russian bombing kills 24 people at Ukraine aid centre, Kyiv says",
-   "ko": "키예프 \"우크라이나 구호센터서 러시아 폭격으로 24명 사망\"",
-   "src": "BBC",
-   "u": "https://www.bbc.co.uk/news/articles/cjy56dndlyz0o?at_medium=RSS&at_campaign=rss",
-   "at": "2026-11-02T18:48:00.000Z",
-   "ev": [
-    "ukraine"
-   ],
-   "cc": [
-    "Russia",
-    "Ukraine"
    ]
   },
   {
@@ -136,8 +408,8 @@
   },
   {
    "id": "195b281056db",
-   "t": "Russian bombing of Ukrainian aid centre kills 24 people",
-   "ko": "러시아, 우크라이나 구호센터 폭격으로 24명 사망",
+   "t": "Russian bombing of Ukrainian aid centre kills 26 people",
+   "ko": "러시아, 우크라이나 구호센터 폭격으로 26명 사망",
    "src": "Al Jazeera",
    "u": "https://www.aljazeera.com/news/2026/11/2/russian-bombing-of-ukrainian-aid-centre-kills-24-people-zelenskyy?traffic_source=rss",
    "at": "2026-11-02T18:23:02.000Z",
@@ -171,6 +443,21 @@
    "ev": [],
    "cc": [
     "France"
+   ]
+  },
+  {
+   "id": "21a34d091e7a",
+   "t": "Trump says deal with Tehran 'could happen' amid 'intensive' talks",
+   "ko": "트럼프 \"테헤란과의 협상은 집중적 회담 속에서 성사될 수 있다\"",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/middle-east/20261102-iran-engages-us-in-intensive-negotiations-to-avert-fresh-war-outbreak",
+   "at": "2026-11-02T17:42:22.000Z",
+   "ev": [
+    "iran"
+   ],
+   "cc": [
+    "United States",
+    "Iran"
    ]
   },
   {
@@ -252,8 +539,8 @@
   },
   {
    "id": "ad1db20ccec9",
-   "t": "Petition to ban French right-wing TV channel clears 500,000 signatures after racist killing",
-   "ko": "프랑스 우익 TV 채널 금지 청원, 인종차별 살해 이후 50만명 서명 완료",
+   "t": "Petition to ban French right-wing TV channel clears 600,000 signatures after racist killing",
+   "ko": "프랑스 우익 TV 채널 금지 청원, 인종차별 살해 이후 60만 서명 통과",
    "src": "France 24",
    "u": "https://www.france24.com/en/france/20261102-petition-to-ban-french-right-wing-tv-channel-clears-500-000-signatures-after-racist-killing",
    "at": "2026-11-02T16:53:34.000Z",
@@ -566,6 +853,37 @@
    ],
    "cc": [
     "Ethiopia"
+   ]
+  },
+  {
+   "id": "c461de83b8fc",
+   "t": "World News in Brief: healthcare crisis in Yemen’s Taiz and Afghanistan, Western Sahara mission&#039;s phased closure",
+   "ko": "월드 뉴스 요약: 예멘 타이즈와 아프가니스탄의 의료 위기, 서사하라 선교부의 단계적 폐쇄",
+   "src": "UN News",
+   "u": "https://news.un.org/feed/view/en/story/2026/11/1168723",
+   "at": "2026-11-02T12:00:00.000Z",
+   "ev": [
+    "iran",
+    "yemen"
+   ],
+   "cc": [
+    "Yemen",
+    "Afghanistan",
+    "Western Sahara"
+   ]
+  },
+  {
+   "id": "ee5c0a3eb29f",
+   "t": "Ukraine: WFP provides hot meals to Oleshky evacuees as UN pushes to restore power before winter",
+   "ko": "우크라이나: 유엔이 겨울이 오기 전에 전력을 복구하도록 추진함에 따라 WFP는 올레쉬키(Oleshky) 피난민들에게 따뜻한 식사를 제공합니다.",
+   "src": "UN News",
+   "u": "https://news.un.org/feed/view/en/story/2026/11/1168722",
+   "at": "2026-11-02T12:00:00.000Z",
+   "ev": [
+    "ukraine"
+   ],
+   "cc": [
+    "Ukraine"
    ]
   },
   {
@@ -1652,125 +1970,6 @@
    "ev": [],
    "cc": [
     "North Korea"
-   ]
-  },
-  {
-   "id": "bff7a6f82905",
-   "t": "Police clash with masked rioters after largely peaceful protests across France",
-   "ko": "프랑스 전역에서 대규모 평화 시위가 벌어진 후 경찰이 복면을 쓴 폭도들과 충돌했습니다.",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/world/2026/oct/31/police-clash-rioters-after-largely-peaceful-protests-across-france",
-   "at": "2026-11-01T01:43:02.000Z",
-   "ev": [],
-   "cc": [
-    "France",
-    "Germany"
-   ]
-  },
-  {
-   "id": "1e4208dc101a",
-   "t": "Gen Z-led protests in Germany turn violent",
-   "ko": "독일 Z세대 주도 시위, 폭력적으로 변하다",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/video/newsfeed/2026/11/1/germany-gen-z-protests-education-military-service?traffic_source=rss",
-   "at": "2026-11-01T00:27:20.000Z",
-   "ev": [],
-   "cc": [
-    "Germany"
-   ]
-  },
-  {
-   "id": "8fa2de342312",
-   "t": "India's opposition set to hold mega rally seeking election chief's resignation",
-   "ko": "인도 야권, 선거관리위원장의 사임을 요구하는 대규모 집회 개최 예정",
-   "src": "BBC",
-   "u": "https://www.bbc.co.uk/news/articles/c60qk92dvlwgo?at_medium=RSS&at_campaign=rss",
-   "at": "2026-11-01T00:12:07.000Z",
-   "ev": [],
-   "cc": [
-    "India"
-   ]
-  },
-  {
-   "id": "dabd2925be5e",
-   "t": "Iran war live: Tehran eyes 2-day Hormuz plan; Trump says talks ‘going fine’",
-   "ko": "이란 전쟁 생중계: 테헤란은 2일 호르무즈 계획을 주시하고 있습니다. 트럼프 “회담은 잘 진행되고 있다”",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/news/liveblog/2026/11/1/iran-war-live-araghchi-says-talks-under-way-on-2-day-plan-to-reopen-hormuz?traffic_source=rss",
-   "at": "2026-11-01T00:00:51.000Z",
-   "ev": [
-    "iran"
-   ],
-   "cc": [
-    "Iran",
-    "Qatar",
-    "United States"
-   ]
-  },
-  {
-   "id": "e31749945efc",
-   "t": "Palestine Action supporters arrested outside US embassy in London",
-   "ko": "팔레스타인 행동 지지자들, 런던 주재 미국 대사관 앞에서 체포",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/video/newsfeed/2026/10/31/aje-onl-nf_palestine-action-supporters-arrested-in-london-311026?traffic_source=rss",
-   "at": "2026-10-31T22:10:53.000Z",
-   "ev": [],
-   "cc": [
-    "Palestine",
-    "United States",
-    "United Kingdom"
-   ]
-  },
-  {
-   "id": "a9231df1b62f",
-   "t": "Some 320,000 demonstrators take part in largely peaceful protests across France",
-   "ko": "프랑스 전역에서 약 32만명의 시위대가 평화적인 시위에 참여",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/france/20261031-some-320-000-demonstrators-take-part-in-largely-peaceful-protests-across-france",
-   "at": "2026-10-31T21:34:15.000Z",
-   "ev": [],
-   "cc": [
-    "France"
-   ]
-  },
-  {
-   "id": "3ef1a8112a73",
-   "t": "Thousands demonstrate in Paris as protests spread across Europe",
-   "ko": "시위가 유럽 전역으로 확산되면서 파리에서 수천 명이 시위를 벌였습니다.",
-   "src": "BBC",
-   "u": "https://www.bbc.co.uk/news/videos/ck0j0y87j303o?at_medium=RSS&at_campaign=rss",
-   "at": "2026-10-31T21:29:01.000Z",
-   "ev": [],
-   "cc": [
-    "France"
-   ]
-  },
-  {
-   "id": "ac71f0a6c906",
-   "t": "Turkiye’s Erdogan urges Russia and Ukraine to stop Black Sea attacks",
-   "ko": "터키 에르도안 대통령, 러시아와 우크라이나에 흑해 공격 중단 촉구",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/news/2026/10/31/turkiyes-erdogan-urges-russia-and-ukraine-to-stop-black-sea-attacks?traffic_source=rss",
-   "at": "2026-10-31T20:09:18.000Z",
-   "ev": [
-    "ukraine"
-   ],
-   "cc": [
-    "Turkey",
-    "Russia",
-    "Ukraine"
-   ]
-  },
-  {
-   "id": "ee38011e73f0",
-   "t": "'Gen Z' demonstrations across Germany demand more education funding",
-   "ko": "독일 전역의 'Z세대' 시위, 더 많은 교육 자금 요구",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/europe/20261031-german-police-protesters-clash-after-gen-z-demos",
-   "at": "2026-10-31T20:07:52.000Z",
-   "ev": [],
-   "cc": [
-    "Germany"
    ]
   }
  ]
