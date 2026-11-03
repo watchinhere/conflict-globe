@@ -1,9 +1,9 @@
 {
- "updated": "2026-11-03T09:12:50.505Z",
+ "updated": "2026-11-03T17:10:15.630Z",
  "sources": {
   "BBC": {
    "ok": true,
-   "n": 11
+   "n": 12
   },
   "Al Jazeera": {
    "ok": true,
@@ -11,40 +11,452 @@
   },
   "The Guardian": {
    "ok": true,
-   "n": 13
+   "n": 10
   },
   "DW": {
    "ok": true,
-   "n": 4
+   "n": 5
   },
   "France 24": {
    "ok": true,
-   "n": 14
+   "n": 4
   },
   "UN News": {
    "ok": true,
-   "n": 3
+   "n": 4
   },
   "NPR": {
    "ok": true,
-   "n": 3
+   "n": 5
   }
  },
  "items": [
   {
-   "id": "861c5ba5b8f7",
-   "t": "Zelenskyy to make unexpected visit to Berlin for talks with Merz – Europe live",
-   "ko": "Zelenskyy, Merz와의 회담을 위해 예상치 못한 베를린 방문 – 유럽 라이브",
+   "id": "dc7333a3409a",
+   "t": "Officials investigate fire at Mississippi police department tied to fatal shooting of Black toddler",
+   "ko": "미시시피주 경찰서 화재, 흑인 유아 총격 사건 조사",
    "src": "The Guardian",
-   "u": "https://www.theguardian.com/world/live/2026/nov/03/zelenskyy-berlin-merz-europe-sweden-spain-france-belgium-poland-latest-news",
-   "at": "2026-11-03T09:08:12.000Z",
+   "u": "https://www.theguardian.com/us-news/2026/nov/03/mississippi-police-department-fire-kohen-wiley",
+   "at": "2026-11-03T17:02:21.000Z",
+   "ev": [],
+   "cc": [
+    "United States"
+   ]
+  },
+  {
+   "id": "9f8e9ab53c97",
+   "t": "US midterm elections 2026 live: Americans go to the polls in referendum on Trump’s agenda",
+   "ko": "2026년 미국 중간선거 실시간: 미국인들은 트럼프 의제에 대한 국민투표 투표에 참여합니다",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/us-news/live/2026/nov/03/midterm-elections-live-updates-voting",
+   "at": "2026-11-03T16:55:08.000Z",
+   "ev": [
+    "iran"
+   ],
+   "cc": [
+    "United States",
+    "Iran"
+   ]
+  },
+  {
+   "id": "f6556b124ad9",
+   "t": "Ukraine and Russia are taking the war underground as drones saturate the battlefield",
+   "ko": "드론이 전장을 포화시키면서 우크라이나와 러시아는 지하 전쟁을 벌이고 있다",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/europe/20261103-ukraine-and-russia-are-taking-the-war-underground-as-drones-saturate-the-battlefield",
+   "at": "2026-11-03T16:52:13.000Z",
    "ev": [
     "ukraine"
    ],
    "cc": [
-    "Germany",
     "Ukraine",
     "Russia"
+   ]
+  },
+  {
+   "id": "861c5ba5b8f7",
+   "t": "Seven reported bomb threats against European flights confirmed as false alarms – Europe live",
+   "ko": "유럽 ​​항공편에 대한 보고된 폭탄 위협 7건이 허위 경보로 확인됨 - 유럽 라이브",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/world/live/2026/nov/03/zelenskyy-berlin-merz-europe-sweden-spain-france-belgium-poland-latest-news",
+   "at": "2026-11-03T16:41:44.000Z",
+   "ev": [
+    "ukraine"
+   ],
+   "cc": [
+    "Poland",
+    "Ukraine",
+    "Germany"
+   ]
+  },
+  {
+   "id": "e47b36e2919a",
+   "t": "Opposition party organiser killed before South Africa elections",
+   "ko": "남아공 선거 앞두고 야당 조직원 살해",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/11/3/opposition-party-organiser-killed-ahead-of-south-africa-elections?traffic_source=rss",
+   "at": "2026-11-03T16:39:00.000Z",
+   "ev": [],
+   "cc": [
+    "South Africa"
+   ]
+  },
+  {
+   "id": "3407fdfcc100",
+   "t": "‘Vile terrorist attack’: Russia bombs Ukraine aid centre",
+   "ko": "'사악한 테러 공격': 러시아, 우크라이나 구호센터 폭격",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/video/20261103-vile-terrorist-attack-russia-bombs-ukraine-aid-centre",
+   "at": "2026-11-03T16:30:08.000Z",
+   "ev": [
+    "ukraine"
+   ],
+   "cc": [
+    "Russia",
+    "Ukraine"
+   ]
+  },
+  {
+   "id": "6756cd00b2f9",
+   "t": "Reform UK councillor charged with 12 counts of rape and multiple other offences",
+   "ko": "영국 개혁 의원, 12건의 강간 및 기타 여러 범죄 혐의로 기소",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/uk-news/2026/nov/03/reform-uk-councillor-george-madgwick-charged-12-counts-rape",
+   "at": "2026-11-03T16:24:29.000Z",
+   "ev": [],
+   "cc": [
+    "United Kingdom"
+   ]
+  },
+  {
+   "id": "864958441751",
+   "t": "Trump cuts Israeli military aid: $3.8 billion in security assistance slashed",
+   "ko": "트럼프, 이스라엘 군사원조 삭감: 안보지원 38억 달러 삭감",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/video/20261103-trump-cuts-israeli-military-aid-3-8-billion-in-security-assistance-slashed",
+   "at": "2026-11-03T16:01:30.000Z",
+   "ev": [],
+   "cc": [
+    "Israel",
+    "United States"
+   ]
+  },
+  {
+   "id": "cd2ab2488c56",
+   "t": "For Ukraine's Kherson region, a short ceasefire meant a momentary return to normal life",
+   "ko": "우크라이나 헤르손 지역의 경우 짧은 휴전은 일시적인 일상 복귀를 의미했습니다.",
+   "src": "NPR",
+   "u": "https://www.npr.org/2026/11/03/g-s1-151238/ukraine-russia-ceasefire-oleshky-kherson",
+   "at": "2026-11-03T15:54:39.000Z",
+   "ev": [
+    "ukraine"
+   ],
+   "cc": [
+    "Ukraine",
+    "Russia"
+   ]
+  },
+  {
+   "id": "f2b7af65fe4f",
+   "t": "Freezers of UK meat suppliers heat up after cyber-attacks in Europe",
+   "ko": "유럽에서 사이버 공격을 받은 영국 육류 공급업체의 냉동고가 뜨거워졌습니다.",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/technology/2026/nov/03/uk-meat-processing-firms-fridges-heat-up-cyber-attacks",
+   "at": "2026-11-03T15:43:14.000Z",
+   "ev": [],
+   "cc": [
+    "United Kingdom"
+   ]
+  },
+  {
+   "id": "c7763924a56a",
+   "t": "Political parallels in France and the US: Anger at the ballot box and in the streets",
+   "ko": "프랑스와 미국의 정치적 유사점: 투표함과 거리에서의 분노",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/tv-shows/entre-nous/20261103-political-parallels-in-france-and-us-anger-at-the-ballot-box-and-in-the-streets",
+   "at": "2026-11-03T15:21:19.000Z",
+   "ev": [],
+   "cc": [
+    "France",
+    "United States"
+   ]
+  },
+  {
+   "id": "d462fedb6b7b",
+   "t": "Global food security is under threat",
+   "ko": "세계 식량안보가 위협받고 있다",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news-analysis/2026/11/3/global-food-security-is-under-threat?traffic_source=rss",
+   "at": "2026-11-03T14:58:10.000Z",
+   "ev": [
+    "ukraine"
+   ],
+   "cc": [
+    "Russia",
+    "Ukraine"
+   ]
+  },
+  {
+   "id": "46268f0515ad",
+   "t": "What's behind new India-China border tensions?",
+   "ko": "새로운 인도-중국 국경 긴장의 배경은 무엇입니까?",
+   "src": "DW",
+   "u": "https://www.dw.com/en/what-s-behind-new-india-china-border-tensions/a-79843273?maca=en-rss-en-world-4025-rdf",
+   "at": "2026-11-03T14:48:00.000Z",
+   "ev": [
+    "delhi"
+   ],
+   "cc": [
+    "China"
+   ]
+  },
+  {
+   "id": "00c521dfd3e5",
+   "t": "From Italy to Canada, how the UK’s Palestine Action group went global",
+   "ko": "이탈리아에서 캐나다까지, 영국의 팔레스타인 액션 그룹이 어떻게 세계화되었는지",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/11/3/from-italy-to-canada-how-the-uks-palestine-action-group-went-global?traffic_source=rss",
+   "at": "2026-11-03T14:30:24.000Z",
+   "ev": [],
+   "cc": [
+    "Italy",
+    "Canada",
+    "United Kingdom"
+   ]
+  },
+  {
+   "id": "6ae9996c27bd",
+   "t": "Four planes flying across Europe targeted by bomb threats",
+   "ko": "유럽 ​​상공을 비행하는 비행기 4대, 폭탄 위협 표적",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/world/2026/nov/03/four-planes-flying-across-europe-targeted-by-bomb-threats",
+   "at": "2026-11-03T14:21:24.000Z",
+   "ev": [],
+   "cc": [
+    "Israel",
+    "United Kingdom"
+   ]
+  },
+  {
+   "id": "b9b11c5e6c17",
+   "t": "Yemen: Houthi clashes near Taiz leave residents in a 'state of panic'",
+   "ko": "예멘: 타이즈 근처 후티 충돌로 주민들이 '공포 상태'에 빠졌습니다.",
+   "src": "DW",
+   "u": "https://www.dw.com/en/yemen-houthi-clashes-near-taiz-leave-residents-in-a-state-of-panic/a-79836913?maca=en-rss-en-world-4025-rdf",
+   "at": "2026-11-03T14:18:00.000Z",
+   "ev": [
+    "iran",
+    "yemen"
+   ],
+   "cc": [
+    "Yemen"
+   ]
+  },
+  {
+   "id": "b00441961ffe",
+   "t": "Very cold war: Who’s attacking Europe’s supermarket freezers?",
+   "ko": "매우 냉전: 유럽의 슈퍼마켓 냉동고를 공격하는 사람은 누구입니까?",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/11/3/very-cold-war-whos-attacking-europes-supermarket-freezers?traffic_source=rss",
+   "at": "2026-11-03T14:17:29.000Z",
+   "ev": [],
+   "cc": []
+  },
+  {
+   "id": "ff83ae7c925b",
+   "t": "Who is goalkeeper Owono and will he be punished after De Miguel’s death?",
+   "ko": "골키퍼 오워노는 누구이며 데 미구엘의 죽음 이후 그는 처벌을 받게 될까요?",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/sports/2026/11/3/who-is-goalkeeper-jesus-owono-and-will-he-be-punished-after-miguels-death?traffic_source=rss",
+   "at": "2026-11-03T14:02:00.000Z",
+   "ev": [],
+   "cc": []
+  },
+  {
+   "id": "a80c9e9fe5be",
+   "t": "Europe on alert after supermarket freezers hit by cyber-attacks in 10 countries",
+   "ko": "10개국에서 슈퍼마켓 냉동고가 사이버 공격을 받은 후 유럽에 비상이 걸렸습니다.",
+   "src": "BBC",
+   "u": "https://www.bbc.co.uk/news/articles/cwy8lm1m59mvo?at_medium=RSS&at_campaign=rss",
+   "at": "2026-11-03T13:55:47.000Z",
+   "ev": [],
+   "cc": [
+    "Estonia",
+    "Sweden",
+    "Portugal"
+   ]
+  },
+  {
+   "id": "5904df709278",
+   "t": "US strikes Iran’s Qeshm Island as Vance voices optimism about a deal",
+   "ko": "Vance가 거래에 대해 낙관론을 표명함에 따라 미국은이란의 Qeshm 섬을 공격했습니다.",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/world/2026/nov/03/us-strikes-irans-qeshm-island",
+   "at": "2026-11-03T13:52:34.000Z",
+   "ev": [
+    "iran"
+   ],
+   "cc": [
+    "United States",
+    "Iran"
+   ]
+  },
+  {
+   "id": "86a09edf595a",
+   "t": "Trump says US will stop giving Israel aid after year-end",
+   "ko": "트럼프 \"미국, 연말 이후 이스라엘 지원 중단할 것\"",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/11/3/trump-announces-that-us-will-stop-paying-israel-after-year-end?traffic_source=rss",
+   "at": "2026-11-03T13:42:05.000Z",
+   "ev": [],
+   "cc": [
+    "United States",
+    "Israel"
+   ]
+  },
+  {
+   "id": "7584627279c2",
+   "t": "Russian bombing kills 31 people at Ukraine aid centre, Kyiv says",
+   "ko": "우크라이나 구호센터서 러시아 폭탄테러로 31명 사망",
+   "src": "BBC",
+   "u": "https://www.bbc.co.uk/news/articles/cjy56dndlyz0o?at_medium=RSS&at_campaign=rss",
+   "at": "2026-11-03T13:26:19.000Z",
+   "ev": [
+    "ukraine"
+   ],
+   "cc": [
+    "Russia",
+    "Ukraine"
+   ]
+  },
+  {
+   "id": "e846802d24e8",
+   "t": "Can US midterm election really change Trump's Iran policy?",
+   "ko": "미국 중간선거가 트럼프의 이란 정책을 정말로 바꿀 수 있을까?",
+   "src": "DW",
+   "u": "https://www.dw.com/en/can-us-midterm-election-really-change-trump-s-iran-policy/a-79840683?maca=en-rss-en-world-4025-rdf",
+   "at": "2026-11-03T12:55:00.000Z",
+   "ev": [
+    "iran"
+   ],
+   "cc": [
+    "United States",
+    "Iran"
+   ]
+  },
+  {
+   "id": "0e05a4cd03db",
+   "t": "Two police officers protecting polio workers in Pakistan shot dead",
+   "ko": "파키스탄에서 소아마비 치료사를 보호하던 경찰관 2명이 총에 맞아 사망했습니다.",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/11/3/two-police-officers-protecting-polio-workers-in-pakistan-shot-dead?traffic_source=rss",
+   "at": "2026-11-03T12:33:03.000Z",
+   "ev": [
+    "afpak"
+   ],
+   "cc": [
+    "Pakistan"
+   ]
+  },
+  {
+   "id": "8eb8876b84d0",
+   "t": "Russia bombs humanitarian hub in Ukraine, killing at least 31 people",
+   "ko": "러시아, 우크라이나 인도주의 중심지 폭격해 최소 31명 사망",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/world/2026/nov/03/russia-bombs-ukrainian-aid-centre-komyshuvakha",
+   "at": "2026-11-03T12:25:07.000Z",
+   "ev": [
+    "ukraine"
+   ],
+   "cc": [
+    "Russia",
+    "Ukraine",
+    "United States"
+   ]
+  },
+  {
+   "id": "7f24926b7b5d",
+   "t": "Grain under fire: Russian, Ukrainian Black Sea attacks threaten food supply",
+   "ko": "불타오르는 곡물: 러시아, 우크라이나 흑해 공격으로 식량 공급 위협",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/11/3/disruptions-of-black-sea-grain-exports-spike-global-prices?traffic_source=rss",
+   "at": "2026-11-03T12:10:47.000Z",
+   "ev": [
+    "ukraine"
+   ],
+   "cc": [
+    "Russia",
+    "Ukraine"
+   ]
+  },
+  {
+   "id": "8c49739e0560",
+   "t": "Air raid alerts and attacks on schools: the devastating face of education in Ukraine",
+   "ko": "공습 경보 및 학교 공격: 우크라이나 교육의 파괴적인 모습",
+   "src": "UN News",
+   "u": "https://news.un.org/feed/view/en/story/2026/11/1168724",
+   "at": "2026-11-03T12:00:00.000Z",
+   "ev": [
+    "ukraine"
+   ],
+   "cc": [
+    "Ukraine",
+    "Russia"
+   ]
+  },
+  {
+   "id": "8b0e9b13f19e",
+   "t": "Indian tourist killed after two helicopters collide near Everest base camp",
+   "ko": "에베레스트 베이스캠프 근처에서 헬리콥터 두 대가 충돌해 인도 관광객 사망",
+   "src": "BBC",
+   "u": "https://www.bbc.co.uk/news/articles/cmqlnx7z1549o?at_medium=RSS&at_campaign=rss",
+   "at": "2026-11-03T11:51:08.000Z",
+   "ev": [],
+   "cc": []
+  },
+  {
+   "id": "7062a3beba16",
+   "t": "US strikes Iranian island ahead of midterm elections",
+   "ko": "미국, 중간선거 앞두고 이란 섬 공습",
+   "src": "BBC",
+   "u": "https://www.bbc.co.uk/news/articles/cx240mrm3g8vo?at_medium=RSS&at_campaign=rss",
+   "at": "2026-11-03T11:33:33.000Z",
+   "ev": [
+    "iran"
+   ],
+   "cc": [
+    "United States",
+    "Iran"
+   ]
+  },
+  {
+   "id": "586cced2deb2",
+   "t": "Death toll hits 29 after Russian strike on Ukrainian aid site, with 48 still missing",
+   "ko": "러시아의 우크라이나 구호시설 공습으로 사망자 29명, 아직 48명 실종",
+   "src": "NPR",
+   "u": "https://www.npr.org/2026/11/03/g-s1-151439/russia-ukraine-war",
+   "at": "2026-11-03T11:01:14.000Z",
+   "ev": [
+    "ukraine"
+   ],
+   "cc": [
+    "Russia",
+    "Ukraine",
+    "United States"
+   ]
+  },
+  {
+   "id": "40b81c812881",
+   "t": "Could the AI boom make borrowing more expensive in Europe?",
+   "ko": "AI 붐으로 인해 유럽에서 대출 비용이 더 높아질 수 있을까요?",
+   "src": "DW",
+   "u": "https://www.dw.com/en/could-the-ai-boom-make-borrowing-more-expensive-in-europe/a-79511985?maca=en-rss-en-world-4025-rdf",
+   "at": "2026-11-03T10:27:00.000Z",
+   "ev": [],
+   "cc": [
+    "France",
+    "Germany",
+    "Italy"
    ]
   },
   {
@@ -56,21 +468,6 @@
    "at": "2026-11-03T08:14:25.000Z",
    "ev": [],
    "cc": []
-  },
-  {
-   "id": "5904df709278",
-   "t": "US strikes Iran’s Qeshm Island as Vance voices optimism about a deal",
-   "ko": "Vance가 거래에 대해 낙관론을 표명함에 따라 미국은이란의 Qeshm 섬을 공격했습니다.",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/world/2026/nov/03/us-strikes-irans-qeshm-island",
-   "at": "2026-11-03T08:13:46.000Z",
-   "ev": [
-    "iran"
-   ],
-   "cc": [
-    "United States",
-    "Iran"
-   ]
   },
   {
    "id": "8671be621ae4",
@@ -92,21 +489,6 @@
    "ev": [],
    "cc": [
     "Nepal"
-   ]
-  },
-  {
-   "id": "7584627279c2",
-   "t": "Russian bombing kills 29 people at Ukraine aid centre, Kyiv says",
-   "ko": "우크라이나 구호센터서 러시아 폭탄테러로 29명 사망",
-   "src": "BBC",
-   "u": "https://www.bbc.co.uk/news/articles/cjy56dndlyz0o?at_medium=RSS&at_campaign=rss",
-   "at": "2026-11-03T07:24:12.000Z",
-   "ev": [
-    "ukraine"
-   ],
-   "cc": [
-    "Russia",
-    "Ukraine"
    ]
   },
   {
@@ -222,21 +604,6 @@
    ]
   },
   {
-   "id": "7062a3beba16",
-   "t": "US strikes Iran ahead of midterm elections",
-   "ko": "미국, 중간선거 앞두고 이란 공습",
-   "src": "BBC",
-   "u": "https://www.bbc.co.uk/news/articles/cx240mrm3g8vo?at_medium=RSS&at_campaign=rss",
-   "at": "2026-11-03T03:39:08.000Z",
-   "ev": [
-    "iran"
-   ],
-   "cc": [
-    "United States",
-    "Iran"
-   ]
-  },
-  {
    "id": "52ea9462ec31",
    "t": "Tennessee national guard trained guns on dying man after guard member shot him, video shows",
    "ko": "테네시 주 방위군은 죽어가는 남자에게 총을 쏘는 훈련을 시켰다.",
@@ -342,21 +709,6 @@
    "src": "Al Jazeera",
    "u": "https://www.aljazeera.com/video/newsfeed/2026/11/3/multiple-russian-strikes-kill-at-least-26-at-ukraine-aid-centre?traffic_source=rss",
    "at": "2026-11-03T01:17:57.000Z",
-   "ev": [
-    "ukraine"
-   ],
-   "cc": [
-    "Russia",
-    "Ukraine"
-   ]
-  },
-  {
-   "id": "8eb8876b84d0",
-   "t": "Russian bombing of Ukrainian aid centre kills at least 26, Kyiv says",
-   "ko": "러시아, 우크라이나 구호센터 폭격으로 최소 26명 사망",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/world/2026/nov/03/russia-bombs-ukrainian-aid-centre-komyshuvakha",
-   "at": "2026-11-03T01:13:52.000Z",
    "ev": [
     "ukraine"
    ],
@@ -947,6 +1299,21 @@
    "cc": [
     "Iran",
     "United States"
+   ]
+  },
+  {
+   "id": "11c34db4da82",
+   "t": "8 ways the US midterm election could affect Donald Trump's Iran policy",
+   "ko": "미국 중간선거가 도널드 트럼프의 이란 정책에 영향을 미칠 수 있는 8가지 방식",
+   "src": "DW",
+   "u": "https://www.dw.com/en/8-ways-the-us-midterm-election-could-affect-donald-trump-s-iran-policy/a-79831816?maca=en-rss-en-world-4025-rdf",
+   "at": "2026-11-02T15:41:00.000Z",
+   "ev": [
+    "iran"
+   ],
+   "cc": [
+    "United States",
+    "Iran"
    ]
   },
   {
@@ -1788,357 +2155,6 @@
     "Ukraine",
     "Russia",
     "United States"
-   ]
-  },
-  {
-   "id": "96a242f04e8e",
-   "t": "Israeli strikes in Gaza kill eight including child, hospitals say",
-   "ko": "이스라엘, 가자지구 공습으로 어린이 포함 8명 사망",
-   "src": "BBC",
-   "u": "https://www.bbc.co.uk/news/articles/cmqln14rrzxvo?at_medium=RSS&at_campaign=rss",
-   "at": "2026-11-01T17:06:32.000Z",
-   "ev": [
-    "gaza"
-   ],
-   "cc": [
-    "Israel",
-    "Palestine"
-   ]
-  },
-  {
-   "id": "444d79bd6258",
-   "t": "Bangladesh workers clash with police in protests over low pay",
-   "ko": "방글라데시 노동자, 저임금 항의 시위에서 경찰과 충돌",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/video/newsfeed/2026/11/1/bangladesh-workers-clash-with-police-in-protests-over-low-pay?traffic_source=rss",
-   "at": "2026-11-01T16:52:42.000Z",
-   "ev": [],
-   "cc": [
-    "Bangladesh"
-   ]
-  },
-  {
-   "id": "ecf63c363def",
-   "t": "India protesters march with 1km banner of deleted voters’ names",
-   "ko": "인도 시위대, 삭제된 유권자 이름이 적힌 1km 배너 들고 행진",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/video/newsfeed/2026/11/1/india-protesters-march-with-1km-banner-of-deleted-voters-names?traffic_source=rss",
-   "at": "2026-11-01T16:42:18.000Z",
-   "ev": [
-    "delhi"
-   ],
-   "cc": [
-    "India"
-   ]
-  },
-  {
-   "id": "3979c4821f57",
-   "t": "Attempted murder probe after petrol bomb thrown at French riot police",
-   "ko": "프랑스 진압경찰에 휘발유 폭탄 투척 후 살인미수 수사",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/world/2026/nov/01/petrol-bomb-thrown-at-french-riot-police",
-   "at": "2026-11-01T16:24:38.000Z",
-   "ev": [],
-   "cc": [
-    "France",
-    "Germany",
-    "Switzerland"
-   ]
-  },
-  {
-   "id": "9281a000fd6a",
-   "t": "Russia detains minor over alleged Moscow attack plot after US warning",
-   "ko": "러시아, 미국 경고 후 모스크바 공격 음모 혐의로 미성년자 구금",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/news/2026/11/1/russia-detains-minor-over-alleged-moscow-attack-plot-after-us-warning?traffic_source=rss",
-   "at": "2026-11-01T16:24:16.000Z",
-   "ev": [
-    "ukraine"
-   ],
-   "cc": [
-    "Russia",
-    "United States"
-   ]
-  },
-  {
-   "id": "70dfebaa9cbe",
-   "t": "Five teenagers hurt in stabbing at Halloween party in Hampshire",
-   "ko": "햄프셔 할로윈 파티에서 10대 5명 칼에 찔려 부상",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/uk-news/2026/nov/01/teenagers-stabbing-halloween-party-hampshire",
-   "at": "2026-11-01T16:14:56.000Z",
-   "ev": [],
-   "cc": []
-  },
-  {
-   "id": "35cecf2e130b",
-   "t": "Tens of thousands protest against Narendra Modi regime in Delhi",
-   "ko": "델리에서 수만명이 나렌드라 모디 정권 반대 시위",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/world/2026/nov/01/india-opposition-protest-rally-delhi",
-   "at": "2026-11-01T16:11:50.000Z",
-   "ev": [
-    "delhi"
-   ],
-   "cc": [
-    "India"
-   ]
-  },
-  {
-   "id": "b970f1418c16",
-   "t": "France reports largely peaceful protests",
-   "ko": "프랑스는 대체로 평화적인 시위를 벌이고 있다고 보고",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/france-reports-largely-peaceful-protests",
-   "at": "2026-11-01T15:50:06.000Z",
-   "ev": [],
-   "cc": [
-    "France"
-   ]
-  },
-  {
-   "id": "f086fc4a525c",
-   "t": "Tusk defends overhaul of Poland’s constitutional court despite protests",
-   "ko": "투스크는 항의에도 불구하고 폴란드 헌법재판소 개편을 옹호했다",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/world/2026/oct/31/donald-tusk-defends-overhaul-poland-constitutional-court-despite-protests",
-   "at": "2026-11-01T15:44:28.000Z",
-   "ev": [],
-   "cc": [
-    "Poland"
-   ]
-  },
-  {
-   "id": "d23a87aed05f",
-   "t": "JERUSALEM DAILY: Israel continues siege and arrests in Hebron",
-   "ko": "예루살렘 매일: 이스라엘, 헤브론에서 계속 포위 공격과 체포",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/video/newsfeed/2026/11/1/jerusalem-daily-israel-continues-siege-and-arrests-in-hebron?traffic_source=rss",
-   "at": "2026-11-01T15:38:12.000Z",
-   "ev": [
-    "gaza",
-    "westbank"
-   ],
-   "cc": [
-    "Israel",
-    "Palestine"
-   ]
-  },
-  {
-   "id": "5582d8ffe6b8",
-   "t": "Oleshky residents return to Ukraine",
-   "ko": "Oleshky 주민들이 우크라이나로 돌아옴",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/oleshky-residents-return-to-ukraine",
-   "at": "2026-11-01T14:56:05.000Z",
-   "ev": [
-    "ukraine"
-   ],
-   "cc": [
-    "Ukraine",
-    "Russia"
-   ]
-  },
-  {
-   "id": "494d59375f11",
-   "t": "Photos: Thousands join India’s opposition rally against election chief",
-   "ko": "사진: 인도 선거위원장 반대 집회에 수천 명이 참여",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/gallery/2026/11/1/photos-indian-opposition-rallies-against-elections-chief?traffic_source=rss",
-   "at": "2026-11-01T14:46:03.000Z",
-   "ev": [
-    "delhi"
-   ],
-   "cc": [
-    "India"
-   ]
-  },
-  {
-   "id": "f525b2df6010",
-   "t": "Why is Morocco celebrating the defeat of a UN resolution on Western Sahara?",
-   "ko": "모로코가 서사하라에 대한 UN 결의안의 패배를 축하하는 이유는 무엇입니까?",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/news/2026/11/1/why-is-morocco-celebrating-the-defeat-of-a-un-resolution-on-western-sahara?traffic_source=rss",
-   "at": "2026-11-01T14:26:43.000Z",
-   "ev": [],
-   "cc": [
-    "Morocco",
-    "Western Sahara"
-   ]
-  },
-  {
-   "id": "4f74f56acb7b",
-   "t": "Israeli attacks on Gaza kill at least nine people",
-   "ko": "이스라엘, 가자지구 공습으로 최소 9명 사망",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/video/newsfeed/2026/11/1/israeli-attacks-on-gaza-kill-at-least-nine-people?traffic_source=rss",
-   "at": "2026-11-01T14:10:59.000Z",
-   "ev": [
-    "gaza"
-   ],
-   "cc": [
-    "Israel",
-    "Palestine"
-   ]
-  },
-  {
-   "id": "75368c83fb89",
-   "t": "At least eight Palestinians killed in Israeli attacks across Gaza",
-   "ko": "이스라엘 가자지구 공격으로 팔레스타인 최소 8명 사망",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/news/2026/11/1/at-least-eight-palestinians-killed-in-israeli-attacks-across-gaza?traffic_source=rss",
-   "at": "2026-11-01T13:36:16.000Z",
-   "ev": [
-    "gaza"
-   ],
-   "cc": [
-    "Israel",
-    "Palestine"
-   ]
-  },
-  {
-   "id": "b11ae889621c",
-   "t": "Iran and US explore diplomacy amid rising threats of war",
-   "ko": "이란과 미국은 전쟁 위협이 높아지는 가운데 외교를 모색하고 있습니다.",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/news/2026/11/1/iran-and-us-explore-diplomacy-amid-rising-threats-of-war?traffic_source=rss",
-   "at": "2026-11-01T13:02:10.000Z",
-   "ev": [
-    "iran"
-   ],
-   "cc": [
-    "Iran",
-    "United States"
-   ]
-  },
-  {
-   "id": "10ce8c4d364a",
-   "t": "Spirit of 1676: remembering the Native American cataclysm of King Philip’s war",
-   "ko": "1676년의 정신: 필립 왕의 전쟁으로 인한 아메리카 원주민의 대격변을 기억",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/us-news/2026/nov/01/king-philips-war-anniversary-native-american",
-   "at": "2026-11-01T13:00:13.000Z",
-   "ev": [],
-   "cc": [
-    "United Kingdom",
-    "United States"
-   ]
-  },
-  {
-   "id": "8ecd969067e6",
-   "t": "Ceasefire in Ukraine's Kherson region ends after Russia refuses extension",
-   "ko": "러시아, 휴전 연장 거부로 우크라이나 헤르손 지역 휴전 종료",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/europe/20261101-localised-ceasefire-in-ukraine-s-kherson-region-set-to-end",
-   "at": "2026-11-01T12:41:48.000Z",
-   "ev": [
-    "ukraine"
-   ],
-   "cc": [
-    "Ukraine",
-    "Russia"
-   ]
-  },
-  {
-   "id": "325bf9aefa6f",
-   "t": "The US-China trade war seems to have subsided – but the sense of calm is misleading",
-   "ko": "미중 무역전쟁이 진정된 것 같지만, 차분한 분위기는 오해를 불러일으킵니다.",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/world/2026/nov/01/us-china-trade-war-trump-xi",
-   "at": "2026-11-01T12:00:12.000Z",
-   "ev": [],
-   "cc": [
-    "United States"
-   ]
-  },
-  {
-   "id": "de77300dcc63",
-   "t": "Shops looted as German cost-of-living protests turn violent",
-   "ko": "독일의 생활비 반대 시위가 폭력적으로 변하면서 약탈당한 상점들",
-   "src": "BBC",
-   "u": "https://www.bbc.co.uk/news/articles/cqj34gnd3n30o?at_medium=RSS&at_campaign=rss",
-   "at": "2026-11-01T11:57:48.000Z",
-   "ev": [],
-   "cc": [
-    "Germany",
-    "France"
-   ]
-  },
-  {
-   "id": "555d19980e41",
-   "t": "Mediators continue US-Iran negotiations amid war rhetoric: What we know",
-   "ko": "중재자들은 전쟁 수사 속에서 미국-이란 협상을 계속합니다: 우리가 알고 있는 것",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/news/2026/11/1/mediators-continue-us-iran-negotiations-amid-war-rhetoric-what-we-know?traffic_source=rss",
-   "at": "2026-11-01T11:14:27.000Z",
-   "ev": [
-    "iran"
-   ],
-   "cc": [
-    "Iran",
-    "United States"
-   ]
-  },
-  {
-   "id": "dfee2290dfe6",
-   "t": "Bulgarians vote in presidential run-off amid Black Sea tensions",
-   "ko": "흑해 긴장 속에서 불가리아인들이 대선 결선투표를 실시했습니다.",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/news/2026/11/1/bulgarians-vote-in-presidential-run-off-amid-black-sea-tensions?traffic_source=rss",
-   "at": "2026-11-01T10:57:45.000Z",
-   "ev": [],
-   "cc": [
-    "Bulgaria"
-   ]
-  },
-  {
-   "id": "0877c7724134",
-   "t": "Youth-led rallies sweep Europe",
-   "ko": "청년들이 주도하는 집회가 유럽을 휩쓸다",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/youth-led-rallies-sweep-europe",
-   "at": "2026-11-01T09:38:00.000Z",
-   "ev": [],
-   "cc": [
-    "France",
-    "Portugal",
-    "Italy"
-   ]
-  },
-  {
-   "id": "e60e2a8ee003",
-   "t": "How social media are central to protests",
-   "ko": "소셜미디어가 시위의 중심이 되는 이유",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/how-social-media-are-central-to-protests",
-   "at": "2026-11-01T09:36:20.000Z",
-   "ev": [],
-   "cc": [
-    "France"
-   ]
-  },
-  {
-   "id": "cde0d0a9e6da",
-   "t": "Hundreds of thousands protest in France for \"Act III\"",
-   "ko": "프랑스에서 'Act III'에 대한 수십만 시위",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/hundreds-of-thousands-protest-in-france-for-act-iii",
-   "at": "2026-11-01T09:35:02.000Z",
-   "ev": [],
-   "cc": [
-    "France"
-   ]
-  },
-  {
-   "id": "9acee05d5e43",
-   "t": "Israeli protesters urge Jewish-Arab coalition government",
-   "ko": "이스라엘 시위대, 유대인-아랍 연합 정부 촉구",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/video/newsfeed/2026/11/1/israeli-protesters-urge-jewish-arab-coalition-government?traffic_source=rss",
-   "at": "2026-11-01T09:24:52.000Z",
-   "ev": [],
-   "cc": [
-    "Israel"
    ]
   }
  ]
