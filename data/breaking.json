@@ -1,17 +1,17 @@
 {
- "updated": "2026-11-03T22:26:17.588Z",
+ "updated": "2026-11-04T02:41:19.865Z",
  "sources": {
   "BBC": {
    "ok": true,
-   "n": 14
+   "n": 13
   },
   "Al Jazeera": {
    "ok": true,
-   "n": 8
+   "n": 6
   },
   "The Guardian": {
    "ok": true,
-   "n": 11
+   "n": 10
   },
   "DW": {
    "ok": true,
@@ -19,7 +19,7 @@
   },
   "France 24": {
    "ok": true,
-   "n": 7
+   "n": 6
   },
   "UN News": {
    "ok": true,
@@ -27,14 +27,94 @@
   },
   "NPR": {
    "ok": true,
-   "n": 4
+   "n": 5
   }
  },
  "items": [
   {
+   "id": "dbc98b1df41b",
+   "t": "Canada joins coalition refusing to play ice hockey against Russia over Ukraine war",
+   "ko": "캐나다, 우크라이나 전쟁으로 러시아와의 아이스하키 경기 거부 연합에 합류",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/world/2026/nov/04/canada-bans-russian-players-junior-ice-hockey-championships-ukraine-war",
+   "at": "2026-11-04T01:31:46.000Z",
+   "ev": [
+    "ukraine"
+   ],
+   "cc": [
+    "Canada",
+    "Russia",
+    "Ukraine"
+   ]
+  },
+  {
+   "id": "e399449b1f95",
+   "t": "Scepticism as Trump says he’s ending Israel’s $3.8 bn military aid deal",
+   "ko": "트럼프가 이스라엘의 38억 달러 규모의 군사 지원 계약을 종료하겠다고 말하자 회의론이 제기됐다.",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/video/newsfeed/2026/11/4/scepticism-as-trump-says-hes-ending-israels-3-8-bn-military-aid-deal?traffic_source=rss",
+   "at": "2026-11-04T01:13:49.000Z",
+   "ev": [],
+   "cc": [
+    "Israel",
+    "United States"
+   ]
+  },
+  {
+   "id": "29f03273177a",
+   "t": "Bomb threats disrupt flights across Europe, no explosive devices found",
+   "ko": "폭발물 위협으로 인해 유럽 전역의 항공편이 중단되고 폭발 장치가 발견되지 않음",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/11/4/bomb-threats-disrupt-flights-across-europe-no-explosive-devices-found?traffic_source=rss",
+   "at": "2026-11-04T00:35:44.000Z",
+   "ev": [],
+   "cc": []
+  },
+  {
+   "id": "ac851c0f80b6",
+   "t": "Canva layoffs: design giant to cut or relocate more than 1,200 jobs in major restructure",
+   "ko": "Canva 정리해고: 대대적인 구조 조정을 통해 1,200개 이상의 일자리를 삭감하거나 재배치하는 거대 기업을 설계하세요",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/australia-news/2026/nov/04/canva-layoffs-job-cuts-restructure",
+   "at": "2026-11-04T00:14:49.000Z",
+   "ev": [],
+   "cc": []
+  },
+  {
+   "id": "d5a29ca6b4fd",
+   "t": "Iran war live: Tehran prepares ‘maximum deterrence’ plan for any new attack",
+   "ko": "이란 전쟁 라이브: 테헤란은 새로운 공격에 대한 '최대 억지' 계획을 준비하고 있습니다.",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/liveblog/2026/11/4/iran-war-live-tehran-prepares-maximum-deterrence-plan-for-any-new-attack?traffic_source=rss",
+   "at": "2026-11-04T00:00:00.000Z",
+   "ev": [
+    "iran"
+   ],
+   "cc": [
+    "Iran",
+    "United States"
+   ]
+  },
+  {
+   "id": "e794a0119d2d",
+   "t": "Japan faces diplomatic dilemma amid joint pressure from nuclear neighbors",
+   "ko": "일본, 핵 이웃 국가들의 공동 압력으로 외교적 딜레마에 직면",
+   "src": "NPR",
+   "u": "https://www.npr.org/2026/11/03/nx-s1-6012016/japan-faces-diplomatic-dilemma-amid-joint-pressure-from-nuclear-neighbors",
+   "at": "2026-11-03T22:25:15.000Z",
+   "ev": [
+    "ukraine"
+   ],
+   "cc": [
+    "Japan",
+    "Ukraine",
+    "Russia"
+   ]
+  },
+  {
    "id": "e339c8ca95fa",
    "t": "One dead and another missing in suspected grizzly bear attack in Canada",
-   "ko": null,
+   "ko": "캐나다에서 회색곰 공격으로 의심되는 1명 사망 및 1명 실종",
    "src": "The Guardian",
    "u": "https://www.theguardian.com/world/2026/nov/03/grizzly-bear-attack-canada",
    "at": "2026-11-03T22:08:50.000Z",
@@ -46,7 +126,7 @@
   {
    "id": "9f8e9ab53c97",
    "t": "Voter turnout surges in US midterm elections with control of Congress at stake – live",
-   "ko": null,
+   "ko": "의회 통제권이 걸린 미국 중간선거에서 유권자 투표율 급증 – 실시간",
    "src": "The Guardian",
    "u": "https://www.theguardian.com/us-news/live/2026/nov/03/midterm-elections-live-updates-voting",
    "at": "2026-11-03T22:08:02.000Z",
@@ -74,7 +154,7 @@
   {
    "id": "8ba9d62f52ea",
    "t": "President Zelenskyy says US elections will impact war in Ukraine",
-   "ko": null,
+   "ko": "젤렌스키 대통령 \"미국 선거가 우크라이나 전쟁에 영향 미칠 것\"",
    "src": "Al Jazeera",
    "u": "https://www.aljazeera.com/video/newsfeed/2026/11/3/president-zelenskyy-says-us-elections-will-impact-war-in-ukraine?traffic_source=rss",
    "at": "2026-11-03T21:43:19.000Z",
@@ -89,7 +169,7 @@
   {
    "id": "ca6f4bcfa772",
    "t": "Investigators say they found tail pieces of Learjet that crashed in Florida, killing nine",
-   "ko": null,
+   "ko": "수사관들은 플로리다에서 추락해 9명이 사망한 Learjet의 꼬리 부분을 발견했다고 말했습니다.",
    "src": "The Guardian",
    "u": "https://www.theguardian.com/us-news/2026/nov/03/florida-plane-crash-tail-pieces-discovered",
    "at": "2026-11-03T21:31:49.000Z",
@@ -101,7 +181,7 @@
   {
    "id": "aac4eb69dd42",
    "t": "Minnesota voters leave ‘I Voted’ stickers at memorial sites for Alex Pretti and Renee Good",
-   "ko": null,
+   "ko": "미네소타 유권자들이 알렉스 프레티(Alex Pretti)와 르네 굿(Renee Good) 추모 장소에 'I Voted' 스티커를 남겼습니다.",
    "src": "The Guardian",
    "u": "https://www.theguardian.com/us-news/2026/nov/03/minneapolis-i-voted-stickers-alex-pretti-memorial",
    "at": "2026-11-03T21:27:03.000Z",
@@ -113,7 +193,7 @@
   {
    "id": "de37f73a80fb",
    "t": "Palestinian families return home after Israeli siege of Hebron",
-   "ko": null,
+   "ko": "이스라엘의 헤브론 포위 이후 팔레스타인 가족들이 집으로 돌아옴",
    "src": "Al Jazeera",
    "u": "https://www.aljazeera.com/video/newsfeed/2026/11/3/palestinian-families-return-home-after-israeli-siege-of-hebron?traffic_source=rss",
    "at": "2026-11-03T21:15:17.000Z",
@@ -128,7 +208,7 @@
   {
    "id": "84a1d398aeb4",
    "t": "Trump promised a 'Golden Age'. What has he delivered at home?",
-   "ko": null,
+   "ko": "트럼프는 '황금시대'를 약속했다. 그는 집에 무엇을 배달했습니까?",
    "src": "France 24",
    "u": "https://www.france24.com/en/tv-shows/truth-or-fake/20261103-trump-promised-a-golden-age-what-has-he-delivered-at-home",
    "at": "2026-11-03T20:56:49.000Z",
@@ -138,7 +218,7 @@
   {
    "id": "2ced5e1da444",
    "t": "Kyiv protest raises suspicions of possible Russian orchestration",
-   "ko": null,
+   "ko": "키예프 시위, 러시아의 조율 가능성 의혹 제기",
    "src": "Al Jazeera",
    "u": "https://www.aljazeera.com/video/newsfeed/2026/11/3/kyiv-protest-raises-suspicions-of-possible-russian-orchestration?traffic_source=rss",
    "at": "2026-11-03T20:54:44.000Z",
@@ -153,7 +233,7 @@
   {
    "id": "a09a583b0825",
    "t": "Seven flights across Europe targeted by suspected bomb threats",
-   "ko": null,
+   "ko": "폭발물 위협으로 의심되는 유럽 전역의 7개 항공편",
    "src": "BBC",
    "u": "https://www.bbc.co.uk/news/articles/c6x2wd4v04eeo?at_medium=RSS&at_campaign=rss",
    "at": "2026-11-03T20:42:47.000Z",
@@ -167,7 +247,7 @@
   {
    "id": "a6ce9c614994",
    "t": "Yemen gov’t accuses IRGC, Hezbollah of sending 21 experts to back Houthis",
-   "ko": null,
+   "ko": "예멘 정부는 IRGC와 헤즈볼라가 후티 반군을 지원하기 위해 21명의 전문가를 보냈다고 비난하지 않습니다",
    "src": "Al Jazeera",
    "u": "https://www.aljazeera.com/news/2026/11/3/yemen-govt-accuses-irgc-hezbollah-of-sending-21-experts-to-back-houthis?traffic_source=rss",
    "at": "2026-11-03T19:09:09.000Z",
@@ -183,7 +263,7 @@
   {
    "id": "75e27868bf56",
    "t": "Palestinian Americans turn to US flags to protect West Bank homes",
-   "ko": null,
+   "ko": "팔레스타인계 미국인, 서안 지구의 주택 보호를 위해 성조기로 전환",
    "src": "Al Jazeera",
    "u": "https://www.aljazeera.com/video/newsfeed/2026/11/3/palestinian-americans-turn-to-us-flags-to-protect-west-bank-homes?traffic_source=rss",
    "at": "2026-11-03T18:38:50.000Z",
@@ -199,7 +279,7 @@
   {
    "id": "861c5ba5b8f7",
    "t": "Seven reported bomb threats against European flights confirmed as false alarms – as it happened",
-   "ko": null,
+   "ko": "유럽 ​​항공편에 대한 7건의 보고된 폭탄 위협이 허위 경보로 확인되었습니다.",
    "src": "The Guardian",
    "u": "https://www.theguardian.com/world/live/2026/nov/03/zelenskyy-berlin-merz-europe-sweden-spain-france-belgium-poland-latest-news",
    "at": "2026-11-03T18:22:57.000Z",
@@ -215,7 +295,7 @@
   {
    "id": "6ae9996c27bd",
    "t": "Seven planes across Europe searched or diverted after ‘malicious hoax’ bomb threats",
-   "ko": null,
+   "ko": "유럽 ​​전역에서 7대의 비행기가 '악의적인 사기극' 폭탄 위협 이후 수색되거나 회항했습니다",
    "src": "The Guardian",
    "u": "https://www.theguardian.com/world/2026/nov/03/four-planes-flying-across-europe-targeted-by-bomb-threats",
    "at": "2026-11-03T17:32:45.000Z",
@@ -227,7 +307,7 @@
   {
    "id": "f2b7af65fe4f",
    "t": "Food suppliers in UK hit by cyber-attacks after freezers targeted in Europe",
-   "ko": null,
+   "ko": "유럽을 겨냥한 냉동고 이후 영국의 식품 공급업체가 사이버 공격을 당함",
    "src": "The Guardian",
    "u": "https://www.theguardian.com/technology/2026/nov/03/uk-meat-processing-firms-fridges-heat-up-cyber-attacks",
    "at": "2026-11-03T17:28:49.000Z",
@@ -239,7 +319,7 @@
   {
    "id": "952253f97c5a",
    "t": "Russian strikes on Dnipro kill two, injure 20 others",
-   "ko": null,
+   "ko": "러시아, 드니프로 공격으로 2명 사망, 20명 부상",
    "src": "Al Jazeera",
    "u": "https://www.aljazeera.com/video/newsfeed/2026/11/3/russian-strikes-on-dnipro-kill-two-injure-20-others?traffic_source=rss",
    "at": "2026-11-03T17:24:08.000Z",
@@ -253,7 +333,7 @@
   {
    "id": "13698c50167a",
    "t": "Trump claims US will end military aid to Israel by end of this year",
-   "ko": null,
+   "ko": "트럼프 \"올해 말까지 이스라엘에 대한 군사지원 중단할 것\"",
    "src": "The Guardian",
    "u": "https://www.theguardian.com/us-news/2026/nov/03/donald-trump-usa-end-military-aid-to-israel-end-year-midterms",
    "at": "2026-11-03T17:17:11.000Z",
@@ -269,7 +349,7 @@
   {
    "id": "67d27748c87b",
    "t": "Russian households face increasing financial strain as war in Ukraine drags on",
-   "ko": null,
+   "ko": "우크라이나 내전이 장기화되면서 러시아 가계의 재정적 부담이 커지고 있다",
    "src": "France 24",
    "u": "https://www.france24.com/en/video/20261103-russian-households-face-increasing-financial-strain-as-war-in-ukraine-drags-on",
    "at": "2026-11-03T17:05:54.000Z",
@@ -284,7 +364,7 @@
   {
    "id": "cb5167013434",
    "t": "Darfur survivors vow to tell story of those killed after Sudan camp attacks",
-   "ko": null,
+   "ko": "다르푸르 생존자들, 수단 수용소 공격으로 사망한 사람들에 대한 이야기를 전하겠다고 다짐",
    "src": "Al Jazeera",
    "u": "https://www.aljazeera.com/features/2026/11/3/darfur-survivors-vow-to-tell-story-of-those-killed-after-sudan-camp-attacks?traffic_source=rss",
    "at": "2026-11-03T17:03:24.000Z",
@@ -311,7 +391,7 @@
   {
    "id": "2a1eb018a2c3",
    "t": "Death toll rises in Ukraine after Russia attacks aid centre, hospice and hospital",
-   "ko": null,
+   "ko": "러시아가 구호센터, 호스피스, 병원을 공격한 후 우크라이나에서 사망자 수가 증가했습니다",
    "src": "BBC",
    "u": "https://www.bbc.co.uk/news/articles/c65ynez5y599o?at_medium=RSS&at_campaign=rss",
    "at": "2026-11-03T16:57:41.000Z",
@@ -396,7 +476,7 @@
   {
    "id": "f9dd4a767b6b",
    "t": "Bomb threats against European airlines force Warsaw airport closure, affect several flights",
-   "ko": null,
+   "ko": "유럽 ​​항공사에 대한 폭탄 위협으로 바르샤바 공항 폐쇄, 여러 항공편에 영향",
    "src": "France 24",
    "u": "https://www.france24.com/en/europe/20261103-bomb-threats-disrupt-europe-flights",
    "at": "2026-11-03T15:41:48.000Z",
@@ -448,7 +528,7 @@
   {
    "id": "54c6b69f93b8",
    "t": "China and India achieved diplomatic thaw. Now the border is flaring up",
-   "ko": null,
+   "ko": "중국과 인도가 외교적 해빙을 달성했다. 이제 국경이 활활 타 오르고 있습니다",
    "src": "DW",
    "u": "https://www.dw.com/en/china-and-india-achieved-diplomatic-thaw-now-the-border-is-flaring-up/a-79843273?maca=en-rss-en-world-4025-rdf",
    "at": "2026-11-03T14:48:00.000Z",
@@ -644,7 +724,7 @@
   {
    "id": "8a4022d64ecf",
    "t": "World News in Brief: Children killed in Myanmar strike, new violence flares in Mozambique, an Internet affordability milestone",
-   "ko": null,
+   "ko": "세계 뉴스 요약: 미얀마 파업으로 어린이 사망, 모잠비크에서 새로운 폭력 사태 발생, 인터넷 경제성의 이정표",
    "src": "UN News",
    "u": "https://news.un.org/feed/view/en/story/2026/11/1168729",
    "at": "2026-11-03T12:00:00.000Z",
@@ -660,7 +740,7 @@
   {
    "id": "39b38f1b9ba6",
    "t": "Married off at 14: In Yemen’s war, women and girls suffer ‘devastating consequences’",
-   "ko": null,
+   "ko": "14세에 결혼: 예멘 전쟁에서 여성과 소녀들은 '파괴적인 결과'를 겪었다",
    "src": "UN News",
    "u": "https://news.un.org/feed/view/en/story/2026/11/1168730",
    "at": "2026-11-03T12:00:00.000Z",
@@ -674,7 +754,7 @@
   {
    "id": "b7e1a61bde76",
    "t": "Haiti gang leader seeks UN talks as El Salvador sends 2,000 troops to hunt for missing soldiers",
-   "ko": null,
+   "ko": "엘살바도르가 실종 군인 수색을 위해 2000명의 병력을 파견하자 아이티 갱단 지도자, 유엔 회담 모색",
    "src": "UN News",
    "u": "https://news.un.org/feed/view/en/story/2026/11/1168728",
    "at": "2026-11-03T12:00:00.000Z",
@@ -2025,148 +2105,6 @@
    "src": "The Guardian",
    "u": "https://www.theguardian.com/australia-news/2026/nov/02/victorian-magistrate-reprimanded-over-language-in-court-ntwnfb",
    "at": "2026-11-02T04:05:01.000Z",
-   "ev": [],
-   "cc": []
-  },
-  {
-   "id": "f109a84ff002",
-   "t": "Russia, Ukraine air raid alert apps hit by cyberattacks after truce ends",
-   "ko": "휴전 종료 후 러시아, 우크라이나 공습 경보 앱이 사이버 공격을 당함",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/news/2026/11/2/ukraine-blames-russia-after-air-alert-app-sends-out-false-warnings?traffic_source=rss",
-   "at": "2026-11-02T01:40:50.000Z",
-   "ev": [
-    "ukraine"
-   ],
-   "cc": [
-    "Russia",
-    "Ukraine"
-   ]
-  },
-  {
-   "id": "e5db13bcf80c",
-   "t": "Russia and Ukraine accuse each other of hacking emergency alert apps",
-   "ko": "러시아와 우크라이나, 긴급 경보 앱 해킹 혐의로 서로 비난",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/europe/20261102-ukraine-suspects-nationwide-air-raid-alert-app-has-been-hacked",
-   "at": "2026-11-02T01:20:44.000Z",
-   "ev": [
-    "ukraine"
-   ],
-   "cc": [
-    "Russia",
-    "Ukraine",
-    "United States"
-   ]
-  },
-  {
-   "id": "9bcc9a97ca60",
-   "t": "Halloween weekend shootings across US leave at least six dead, dozens wounded",
-   "ko": "미국 전역에서 할로윈 ​​주말 총격 사건으로 최소 6명이 사망하고 수십 명이 부상당했습니다.",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/americas/20261102-halloween-weekend-shootings-across-us-leave-at-least-six-dead-dozens-wounded",
-   "at": "2026-11-02T00:49:01.000Z",
-   "ev": [],
-   "cc": [
-    "United States"
-   ]
-  },
-  {
-   "id": "06413aba9f10",
-   "t": "Iran warns renewed war with US could outlast previous conflict",
-   "ko": "이란, 미국과의 새로운 전쟁이 이전 전쟁보다 오래 지속될 수 있다고 경고",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/middle-east/20261102-iran-warns-renewed-war-with-us-could-outlast-previous-conflict",
-   "at": "2026-11-02T00:23:23.000Z",
-   "ev": [
-    "iran"
-   ],
-   "cc": [
-    "Iran",
-    "United States"
-   ]
-  },
-  {
-   "id": "1d395cb90e29",
-   "t": "France launches attempted murder investigation after petrol bomb thrown at police",
-   "ko": "프랑스, 경찰에 휘발유 폭탄 투척 후 살인미수 수사 개시",
-   "src": "BBC",
-   "u": "https://www.bbc.co.uk/news/articles/cwvg05z184j0o?at_medium=RSS&at_campaign=rss",
-   "at": "2026-11-02T00:15:30.000Z",
-   "ev": [],
-   "cc": [
-    "France"
-   ]
-  },
-  {
-   "id": "7b66f0410aa1",
-   "t": "Bollywood star greets fans in bulletproof glass after bomb threat",
-   "ko": "볼리우드 스타, 폭탄 위협 후 방탄 유리로 팬들과 인사",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/video/newsfeed/2026/11/2/bollywood-star-greets-fans-in-bulletproof-glass-after-bomb-threat?traffic_source=rss",
-   "at": "2026-11-02T00:14:22.000Z",
-   "ev": [],
-   "cc": []
-  },
-  {
-   "id": "6ee149854410",
-   "t": "Iran war live: Tankers hit in Hormuz; Trump again says conflict to end soon",
-   "ko": "이란 전쟁 라이브: 호르무즈에서 유조선 공격; 트럼프, 갈등 곧 끝날 것이라고 재차 강조",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/news/liveblog/2026/11/2/iran-war-live-tankers-hit-in-hormuz-trump-again-says-conflict-to-end-soon?traffic_source=rss",
-   "at": "2026-11-02T00:00:00.000Z",
-   "ev": [
-    "iran"
-   ],
-   "cc": [
-    "Iran",
-    "United States"
-   ]
-  },
-  {
-   "id": "16fb86669829",
-   "t": "Nine killed as business jet crashes into South Florida neighbourhood",
-   "ko": "비즈니스 제트기가 플로리다 남부 지역에 추락해 9명이 사망했습니다.",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/americas/20261101-nine-killed-as-business-jet-crashes-into-south-florida-neighbourhood",
-   "at": "2026-11-01T23:45:08.000Z",
-   "ev": [],
-   "cc": [
-    "United States"
-   ]
-  },
-  {
-   "id": "7caaf7864a06",
-   "t": "Nine people dead after Learjet crashes in Florida",
-   "ko": "플로리다에서 Learjet 추락으로 9명 사망",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/video/newsfeed/2026/11/1/nine-people-dead-after-learjet-crashes-in-florida?traffic_source=rss",
-   "at": "2026-11-01T23:29:48.000Z",
-   "ev": [],
-   "cc": [
-    "United States",
-    "Bahamas"
-   ]
-  },
-  {
-   "id": "100871a6f9ff",
-   "t": "UN warns of security risks in Western Sahara as peacekeeping mission ends",
-   "ko": "UN, 평화 유지 임무 종료로 서부 사하라의 안보 위험 경고",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/news/2026/11/1/un-warns-of-security-risks-in-western-sahara-as-peacekeeping-mission-ends?traffic_source=rss",
-   "at": "2026-11-01T23:19:51.000Z",
-   "ev": [],
-   "cc": [
-    "Western Sahara"
-   ]
-  },
-  {
-   "id": "fab922e7ae8a",
-   "t": "Parents of woman who died of seizure after ChatGPT misguidance sue OpenAI",
-   "ko": "ChatGPT 실수로 발작으로 사망한 여성의 부모, OpenAI 고소",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/us-news/2026/nov/01/chatgpt-woman-seizure-lawsuit-openai",
-   "at": "2026-11-01T22:37:36.000Z",
    "ev": [],
    "cc": []
   }
