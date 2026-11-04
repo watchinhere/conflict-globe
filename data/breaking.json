@@ -1,17 +1,17 @@
 {
- "updated": "2026-11-04T02:41:19.865Z",
+ "updated": "2026-11-04T10:39:32.925Z",
  "sources": {
   "BBC": {
    "ok": true,
-   "n": 13
+   "n": 6
   },
   "Al Jazeera": {
    "ok": true,
-   "n": 6
+   "n": 4
   },
   "The Guardian": {
    "ok": true,
-   "n": 10
+   "n": 11
   },
   "DW": {
    "ok": true,
@@ -19,18 +19,260 @@
   },
   "France 24": {
    "ok": true,
-   "n": 6
+   "n": 7
   },
   "UN News": {
    "ok": true,
-   "n": 7
+   "n": 8
   },
   "NPR": {
    "ok": true,
-   "n": 5
+   "n": 4
   }
  },
  "items": [
+  {
+   "id": "2791455f2104",
+   "t": "Miliband criticises Blair’s slavery statement and defends Burnham’s plan for proper apology – UK politics live",
+   "ko": "Miliband는 블레어 총리의 노예 제도 성명을 비판하고 Burnham의 적절한 사과 계획을 옹호합니다 – 영국 정치 라이브",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/politics/live/2026/nov/04/ed-miliband-andy-burnham-king-charles-labour-louise-haigh-alex-burghart-pmqs-conservatives-uk-politics-latest-news",
+   "at": "2026-11-04T10:20:37.000Z",
+   "ev": [
+    "iran"
+   ],
+   "cc": [
+    "United Kingdom",
+    "United States",
+    "Iran"
+   ]
+  },
+  {
+   "id": "78857a0782ce",
+   "t": "Sudanese Arab refugees face hostility and distrust after fleeing to Chad",
+   "ko": "차드로 탈출한 수단 아랍 난민들은 적대감과 불신에 직면",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/video/20261104-sudanese-arab-refugees-face-hostility-and-distrust-after-fleeing-to-chad",
+   "at": "2026-11-04T10:18:55.000Z",
+   "ev": [
+    "sudan"
+   ],
+   "cc": [
+    "Sudan",
+    "Chad"
+   ]
+  },
+  {
+   "id": "cf064f177920",
+   "t": "Iran's chief negotiator says Americans voted 'no to war'",
+   "ko": "이란 수석대표 \"미국인들이 전쟁 반대 투표했다\"",
+   "src": "BBC",
+   "u": "https://www.bbc.co.uk/news/articles/c6d934npl9y8o?at_medium=RSS&at_campaign=rss",
+   "at": "2026-11-04T10:11:39.000Z",
+   "ev": [
+    "iran"
+   ],
+   "cc": [
+    "Iran"
+   ]
+  },
+  {
+   "id": "6c2c33810cc6",
+   "t": "From education to housing protests, Palestine’s flag spreads across Europe",
+   "ko": "교육부터 주택 시위까지, 팔레스타인의 깃발이 유럽 전역에 퍼집니다.",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/11/4/palestinian-flag-in-eu-demonstrations?traffic_source=rss",
+   "at": "2026-11-04T10:10:08.000Z",
+   "ev": [],
+   "cc": [
+    "Palestine"
+   ]
+  },
+  {
+   "id": "881aac7f41af",
+   "t": "‘Rejecting hate’: Abdul El-Sayed wins Senate seat despite racist attacks",
+   "ko": "'증오 거부': 인종 차별 공격에도 불구하고 Abdul El-Sayed가 상원 의원 자리를 차지했습니다.",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/11/4/rejecting-hate-abdul-el-sayed-wins-senate-seat-despite-racist-attacks?traffic_source=rss",
+   "at": "2026-11-04T09:47:49.000Z",
+   "ev": [],
+   "cc": [
+    "United States"
+   ]
+  },
+  {
+   "id": "d4a836a47541",
+   "t": "Why the Democrats routed the Republicans in the US midterm elections",
+   "ko": "미국 중간선거에서 민주당이 공화당을 꺾은 이유",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/americas/20261104-why-the-democrats-routed-republicans-us-midterm-elections",
+   "at": "2026-11-04T09:41:10.000Z",
+   "ev": [
+    "iran"
+   ],
+   "cc": [
+    "United States",
+    "Iran"
+   ]
+  },
+  {
+   "id": "2ca9bba621e6",
+   "t": "Iran war, Epstein, impeachment? What will Democrats do with control of Congress?",
+   "ko": "이란 전쟁, 엡스타인, 탄핵? 민주당은 의회 통제권을 가지고 무엇을 할 것인가?",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/video/20261104-iran-war-epstein-impeachment-what-will-democrats-do-with-control-of-congress",
+   "at": "2026-11-04T09:26:55.000Z",
+   "ev": [
+    "iran"
+   ],
+   "cc": [
+    "Iran",
+    "United States"
+   ]
+  },
+  {
+   "id": "8a41b31f6bdc",
+   "t": "Democrat Abdul El-Sayed to become first Muslim senator after winning Michigan race",
+   "ko": "미시간 경선에서 승리한 민주당 압둘 엘-사예드(Abdul El-Sayed)가 첫 무슬림 상원의원이 됐다.",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/americas/20261104-democrat-abdul-el-sayed-to-become-first-muslim-senator-after-winning-michigan-race",
+   "at": "2026-11-04T09:20:05.000Z",
+   "ev": [],
+   "cc": []
+  },
+  {
+   "id": "bb6c6d32c132",
+   "t": "Who determines Iran’s fighting and negotiating position amid US threats?",
+   "ko": "미국의 위협 속에서 이란의 전투와 협상 위치는 누가 결정하는가?",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/11/4/who-determines-irans-fighting-and-negotiating-position-amid-us-threats?traffic_source=rss",
+   "at": "2026-11-04T09:16:57.000Z",
+   "ev": [
+    "iran"
+   ],
+   "cc": [
+    "Iran",
+    "United States"
+   ]
+  },
+  {
+   "id": "1fffe98f3eef",
+   "t": "What next for Iran war after Trump's midterms defeat?",
+   "ko": "트럼프의 중간선거 패배 이후 이란 전쟁의 다음 단계는 어떻게 될까요?",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/video/20261104-what-next-for-iran-war-after-trump-s-midterms-defeat",
+   "at": "2026-11-04T09:11:16.000Z",
+   "ev": [
+    "iran"
+   ],
+   "cc": [
+    "Iran",
+    "United States",
+    "France"
+   ]
+  },
+  {
+   "id": "abd27f32f777",
+   "t": "Four oil tankers destroyed in Hormuz after hitting mines, Tehran says",
+   "ko": "호르무즈에서 유조선 4척이 지뢰에 부딪혀 파괴됐다고 테헤란이 밝혔습니다.",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/middle-east/20261104-four-oil-tankers-destroyed-in-hormuz-after-hitting-mines-tehran-says",
+   "at": "2026-11-04T08:43:31.000Z",
+   "ev": [
+    "iran"
+   ],
+   "cc": [
+    "United States",
+    "Iran"
+   ]
+  },
+  {
+   "id": "5bf2f4786a3a",
+   "t": "Progressive Abdul El-Sayed wins Michigan Senate race to become first Muslim US senator",
+   "ko": "진보 성향의 압둘 엘 사이드(Abdul El-Sayed)가 미시간 상원 경선에서 승리해 미국 최초의 무슬림 상원의원이 됐다.",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/us-news/2026/nov/03/abdul-el-sayed-mike-rogers-michigan-senate",
+   "at": "2026-11-04T08:42:22.000Z",
+   "ev": [],
+   "cc": [
+    "United States"
+   ]
+  },
+  {
+   "id": "dd5dc72bba21",
+   "t": "Palestinians return to ruined Hebron homes after Israel’s 10-day siege",
+   "ko": "이스라엘의 10일간의 포위 이후 팔레스타인인들이 헤브론의 폐허가 된 집으로 돌아오고 있다",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/features/2026/11/4/palestinians-return-to-ruined-hebron-homes-after-israels-10-day-siege?traffic_source=rss",
+   "at": "2026-11-04T08:22:15.000Z",
+   "ev": [
+    "westbank"
+   ],
+   "cc": [
+    "Israel"
+   ]
+  },
+  {
+   "id": "0a9b9fa0aa63",
+   "t": "M&S takes more than a year to recover from cyber-attack as profits bounce back to £355m",
+   "ko": "M&S는 수익이 £355m로 회복되면서 사이버 공격으로부터 복구하는 데 1년 이상이 소요됩니다.",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/business/2026/nov/04/m-and-s-recover-from-cyber-attack-profits-bounce-back",
+   "at": "2026-11-04T08:17:14.000Z",
+   "ev": [],
+   "cc": []
+  },
+  {
+   "id": "788172991436",
+   "t": "South Carolina elects Democratic senator for first time in almost three decades",
+   "ko": "사우스캐롤라이나주, 거의 30년 만에 처음으로 민주당 상원의원 선출",
+   "src": "BBC",
+   "u": "https://www.bbc.co.uk/news/articles/cjy56z440nl9o?at_medium=RSS&at_campaign=rss",
+   "at": "2026-11-04T07:32:02.000Z",
+   "ev": [],
+   "cc": []
+  },
+  {
+   "id": "3c143eb330ed",
+   "t": "Trump congratulates Democrats on midterms win, says Iran war played role",
+   "ko": "트럼프, 민주당 중간선거 승리 축하…이란 전쟁도 영향 있었다",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/americas/20261104-trump-congratulates-democrats-on-midterms-win-says-iran-war-played-role",
+   "at": "2026-11-04T07:13:41.000Z",
+   "ev": [
+    "iran"
+   ],
+   "cc": [
+    "Iran",
+    "United States"
+   ]
+  },
+  {
+   "id": "01ebf5a5673d",
+   "t": "Kate McClymont questioned over ‘nail in the coffin’ and poo emoji texts at Alan Jones trial",
+   "ko": "케이트 맥클리몬트(Kate McClymont)는 앨런 존스(Alan Jones) 재판에서 '관 속의 못'과 똥 이모티콘 텍스트에 대해 질문했습니다.",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/australia-news/2026/nov/04/alan-jones-trial-kate-mcclymont-nail-in-coffin-ntwnfb",
+   "at": "2026-11-04T06:23:40.000Z",
+   "ev": [],
+   "cc": []
+  },
+  {
+   "id": "3b1ab1c3382e",
+   "t": "UK apologises to Ukrainian child refugees who were told to study Russian",
+   "ko": "영국, 러시아어 공부하라는 지시를 받은 우크라이나 난민 어린이들에게 사과",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/education/2026/nov/04/ukrainian-gcse-uk-apologises-child-refugees",
+   "at": "2026-11-04T05:00:25.000Z",
+   "ev": [
+    "ukraine"
+   ],
+   "cc": [
+    "United Kingdom",
+    "Ukraine",
+    "Russia"
+   ]
+  },
   {
    "id": "dbc98b1df41b",
    "t": "Canada joins coalition refusing to play ice hockey against Russia over Ukraine war",
@@ -570,6 +812,19 @@
    ]
   },
   {
+   "id": "d8decf644af0",
+   "t": "Multiple flights to European airports targeted by bomb threats",
+   "ko": "폭탄 위협의 표적이 된 유럽 공항으로의 여러 항공편",
+   "src": "DW",
+   "u": "https://www.dw.com/en/multiple-flights-to-european-airports-targeted-by-bomb-threats/a-79842434?maca=en-rss-en-world-4025-rdf",
+   "at": "2026-11-03T14:18:00.000Z",
+   "ev": [],
+   "cc": [
+    "Spain",
+    "Israel"
+   ]
+  },
+  {
    "id": "b00441961ffe",
    "t": "Very cold war: Who’s attacking Europe’s supermarket freezers?",
    "ko": "매우 냉전: 유럽의 슈퍼마켓 냉동고를 공격하는 사람은 누구입니까?",
@@ -765,6 +1020,20 @@
     "Haiti",
     "El Salvador",
     "United States"
+   ]
+  },
+  {
+   "id": "00c9322683b1",
+   "t": "‘This is not about politics. This is about people’: UN warns of impact of deadly drone strikes in Sudan",
+   "ko": "'이것은 정치에 관한 것이 아닙니다. 이것은 사람에 관한 것입니다. 'UN은 수단에서 치명적인 드론 공격의 영향을 경고합니다.",
+   "src": "UN News",
+   "u": "https://news.un.org/feed/view/en/story/2026/11/1168731",
+   "at": "2026-11-03T12:00:00.000Z",
+   "ev": [
+    "sudan"
+   ],
+   "cc": [
+    "Sudan"
    ]
   },
   {
@@ -1896,215 +2165,6 @@
    "src": "BBC",
    "u": "https://www.bbc.co.uk/news/articles/cv4g13z0px8yo?at_medium=RSS&at_campaign=rss",
    "at": "2026-11-02T10:48:47.000Z",
-   "ev": [],
-   "cc": []
-  },
-  {
-   "id": "2c775af06445",
-   "t": "Hundreds evacuate city during temporary ceasefire between Russia and Ukraine",
-   "ko": "러시아와 우크라이나 간 임시 휴전 기간 동안 수백 명이 도시에서 대피",
-   "src": "NPR",
-   "u": "https://www.npr.org/2026/11/02/nx-s1-6022261/hundreds-evacuate-city-during-temporary-ceasefire-between-russia-and-ukraine",
-   "at": "2026-11-02T09:42:11.000Z",
-   "ev": [
-    "ukraine"
-   ],
-   "cc": [
-    "Russia",
-    "Ukraine"
-   ]
-  },
-  {
-   "id": "398f93ec88ae",
-   "t": "Sydney deploys heavily armed police unit after Bondi attack",
-   "ko": "본다이 공격 이후 시드니, 중무장한 경찰 부대 배치",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/video/newsfeed/2026/11/2/sydney-deploys-heavily-armed-police-unit-after-bondi-attack?traffic_source=rss",
-   "at": "2026-11-02T08:44:49.000Z",
-   "ev": [],
-   "cc": []
-  },
-  {
-   "id": "a4ca3a29f016",
-   "t": "Meeting Elvis was ‘my biggest day with the Beatles’, says road manager’s book",
-   "ko": "로드 매니저의 책에 따르면 엘비스를 만난 것은 '비틀즈와 함께한 가장 중요한 날'이었다",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/music/2026/nov/02/elvis-presley-the-beatles-mal-evans-memoir",
-   "at": "2026-11-02T08:00:37.000Z",
-   "ev": [],
-   "cc": []
-  },
-  {
-   "id": "98e888566738",
-   "t": "US: Nine killed in Florida jet crash",
-   "ko": "미국: 플로리다 제트기 추락사고로 9명 사망",
-   "src": "DW",
-   "u": "https://www.dw.com/en/us-nine-killed-in-florida-jet-crash/a-79825921?maca=en-rss-en-world-4025-rdf",
-   "at": "2026-11-02T07:46:00.000Z",
-   "ev": [],
-   "cc": [
-    "United States"
-   ]
-  },
-  {
-   "id": "cafc6a428b81",
-   "t": "US: 9 killed in Florida jet crash",
-   "ko": "미국: 플로리다 제트기 추락사고로 9명 사망",
-   "src": "DW",
-   "u": "https://www.dw.com/en/us-9-killed-in-florida-jet-crash/a-79825921?maca=en-rss-en-world-4025-rdf",
-   "at": "2026-11-02T07:46:00.000Z",
-   "ev": [],
-   "cc": [
-    "United States"
-   ]
-  },
-  {
-   "id": "aaea91b70d8c",
-   "t": "UN staffer’s death in custody exposes Houthi ‘political extortion’ in Yemen",
-   "ko": "유엔 직원 구금 중 사망, 예멘 내 후티 반군 '정치적 갈취' 폭로",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/news/2026/11/2/un-staffers-death-in-custody-exposes-houthi-political-extortion-in-yemen?traffic_source=rss",
-   "at": "2026-11-02T07:43:05.000Z",
-   "ev": [
-    "yemen"
-   ],
-   "cc": [
-    "Yemen"
-   ]
-  },
-  {
-   "id": "27c8c1facaf4",
-   "t": "Nine killed as small jet crashes on Florida street",
-   "ko": "플로리다 거리에서 소형 제트기 추락으로 9명 사망",
-   "src": "BBC",
-   "u": "https://www.bbc.co.uk/news/articles/cm369yy7lw73o?at_medium=RSS&at_campaign=rss",
-   "at": "2026-11-02T07:33:17.000Z",
-   "ev": [],
-   "cc": [
-    "United States"
-   ]
-  },
-  {
-   "id": "4511087399d6",
-   "t": "Bangladesh garment factories disrupted as protests continue for third day",
-   "ko": "사흘째 계속되는 시위로 방글라데시 의류공장 가동 중단",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/news/2026/11/2/bangladesh-garment-factories-disrupted-as-protests-continue-for-third-day?traffic_source=rss",
-   "at": "2026-11-02T07:08:28.000Z",
-   "ev": [],
-   "cc": [
-    "Bangladesh"
-   ]
-  },
-  {
-   "id": "2a74f1d8388b",
-   "t": "Domestic violence survivor living ‘in terror’ after attacker released without tag",
-   "ko": "태그 없이 석방된 공격자 이후 '공포 속에' 살아가는 가정폭력 생존자",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/society/2026/nov/02/domestic-violence-survivor-terror-attacker-released-without-tag",
-   "at": "2026-11-02T07:00:35.000Z",
-   "ev": [],
-   "cc": []
-  },
-  {
-   "id": "349c9bdc69f0",
-   "t": "‘Sharper, longer slowdown’ predicted for Australian economy as fifth interest rate hike looms",
-   "ko": "5번째 금리 인상이 다가옴에 따라 호주 경제는 '더 가파르고 더 긴 경기 둔화'가 예상됩니다.",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/australia-news/2026/nov/02/australia-economy-fifth-interest-rate-hike-looms",
-   "at": "2026-11-02T06:57:29.000Z",
-   "ev": [],
-   "cc": [
-    "Australia"
-   ]
-  },
-  {
-   "id": "f63c5509f840",
-   "t": "Hebron governor says Israeli forces withdraw from city after 10-day siege",
-   "ko": "헤브론 주지사 \"이스라엘군, 10일간의 포위전 마치고 철수\"",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/news/2026/11/2/hebron-governor-says-israeli-forces-withdraw-from-city-after-10-day-siege?traffic_source=rss",
-   "at": "2026-11-02T06:27:01.000Z",
-   "ev": [
-    "westbank"
-   ],
-   "cc": [
-    "Israel"
-   ]
-  },
-  {
-   "id": "876d15921afc",
-   "t": "Live: Russia and Ukraine trade blame for cyber attacks as fragile ceasefire ends",
-   "ko": "라이브: 취약한 휴전 종료로 인해 러시아와 우크라이나가 사이버 공격에 대한 책임을 교환합니다.",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/europe/20261102-live-russia-and-ukraine-trade-blame-cyber-attacks-fragile-ceasefire-ends",
-   "at": "2026-11-02T06:19:40.000Z",
-   "ev": [
-    "ukraine"
-   ],
-   "cc": [
-    "Russia",
-    "Ukraine"
-   ]
-  },
-  {
-   "id": "17217963010a",
-   "t": "Midterms 2026: Georgians on the front lines of the people’s war against data centres",
-   "ko": "2026년 중간고사: 데이터 센터에 대한 민중 전쟁의 최전선에 선 조지아인",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/americas/20261102-midterms-2026-georgians-front-lines-people-war-against-data-centres",
-   "at": "2026-11-02T06:11:55.000Z",
-   "ev": [],
-   "cc": [
-    "United States",
-    "Georgia"
-   ]
-  },
-  {
-   "id": "16c7e336609a",
-   "t": "'I couldn't be silent': Iranian teen's mother seeking justice after daughter shot dead",
-   "ko": "'침묵할 수 없었다': 딸이 총에 맞아 숨진 뒤 정의를 요구하는 이란 10대 어머니",
-   "src": "BBC",
-   "u": "https://www.bbc.co.uk/news/videos/cwjdmp25mem9o?at_medium=RSS&at_campaign=rss",
-   "at": "2026-11-02T06:05:34.000Z",
-   "ev": [
-    "iran"
-   ],
-   "cc": [
-    "Iran"
-   ]
-  },
-  {
-   "id": "f3f6c3d1fba6",
-   "t": "Iran killed her teenage daughter - now she is facing up to the regime",
-   "ko": "이란이 10대 딸을 살해했다 - 이제 그녀는 정권에 맞서고 있다",
-   "src": "BBC",
-   "u": "https://www.bbc.co.uk/news/articles/c3qjn8117kwjo?at_medium=RSS&at_campaign=rss",
-   "at": "2026-11-02T06:00:54.000Z",
-   "ev": [
-    "iran"
-   ],
-   "cc": [
-    "Iran"
-   ]
-  },
-  {
-   "id": "2c92ff6bd653",
-   "t": "Trump leans into Islamophobia and conspiracy in last-ditch campaign rallies",
-   "ko": "트럼프는 최후의 유세 집회에서 이슬람 혐오와 음모에 기댄다",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/news/2026/11/2/trump-leans-into-islamophobia-and-conspiracy-in-last-ditch-campaign-rallies?traffic_source=rss",
-   "at": "2026-11-02T04:08:54.000Z",
-   "ev": [],
-   "cc": []
-  },
-  {
-   "id": "007212f454a0",
-   "t": "‘I want to slap you around a bit, too’: Victorian magistrate reprimanded over language in court",
-   "ko": "'나도 당신을 좀 때리고 싶다': 법정에서 언어 문제로 질책받은 빅토리아 치안판사",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/australia-news/2026/nov/02/victorian-magistrate-reprimanded-over-language-in-court-ntwnfb",
-   "at": "2026-11-02T04:05:01.000Z",
    "ev": [],
    "cc": []
   }
