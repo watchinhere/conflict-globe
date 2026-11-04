@@ -1,9 +1,9 @@
 {
- "updated": "2026-11-04T18:15:31.700Z",
+ "updated": "2026-11-04T23:46:12.204Z",
  "sources": {
   "BBC": {
    "ok": true,
-   "n": 5
+   "n": 4
   },
   "Al Jazeera": {
    "ok": true,
@@ -15,11 +15,11 @@
   },
   "DW": {
    "ok": true,
-   "n": 7
+   "n": 4
   },
   "France 24": {
    "ok": true,
-   "n": 8
+   "n": 9
   },
   "UN News": {
    "ok": true,
@@ -31,6 +31,229 @@
   }
  },
  "items": [
+  {
+   "id": "f8646df3b811",
+   "t": "Trump blames Iran war for midterms losses",
+   "ko": "트럼프, 중기 손실 원인은 이란 전쟁 탓",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/video/newsfeed/2026/11/4/trump-blames-iran-war-for-midterms-losses?traffic_source=rss",
+   "at": "2026-11-04T23:30:01.000Z",
+   "ev": [
+    "iran"
+   ],
+   "cc": [
+    "Iran"
+   ]
+  },
+  {
+   "id": "7bb8998eca36",
+   "t": "Ukraine says bodycam video shows deadly Russian double-tap bombing",
+   "ko": "우크라이나, 바디캠 영상에 러시아의 이중 탭 폭격 장면이 담겨 있다고 주장",
+   "src": "BBC",
+   "u": "https://www.bbc.co.uk/news/articles/c98rz6penv86o?at_medium=RSS&at_campaign=rss",
+   "at": "2026-11-04T22:48:43.000Z",
+   "ev": [
+    "ukraine"
+   ],
+   "cc": [
+    "Ukraine",
+    "Russia"
+   ]
+  },
+  {
+   "id": "4507554b7cbc",
+   "t": "Democratic Socialists of America see record wins in US midterm elections",
+   "ko": "미국의 민주사회당이 미국 중간선거에서 기록적인 승리를 거두었습니다.",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/11/4/democratic-socialists-of-america-see-record-wins-in-us-midterm-elections?traffic_source=rss",
+   "at": "2026-11-04T22:45:24.000Z",
+   "ev": [
+    "gaza"
+   ],
+   "cc": [
+    "United States",
+    "Palestine"
+   ]
+  },
+  {
+   "id": "992279eca65e",
+   "t": "Sudan factories struggle to restart after devastating wartime losses",
+   "ko": "수단 공장은 엄청난 전쟁 손실로 인해 재가동에 어려움을 겪고 있습니다.",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/11/4/sudan-factories-struggle-to-restart-after-devastating-wartime-losses?traffic_source=rss",
+   "at": "2026-11-04T22:31:09.000Z",
+   "ev": [
+    "sudan"
+   ],
+   "cc": [
+    "Sudan"
+   ]
+  },
+  {
+   "id": "bc4fa0beccd8",
+   "t": "Champions League: Real Madrid seal late comeback as Liverpool lose to Fenerbahce",
+   "ko": "챔피언스리그: 리버풀이 페네르바체에 패하면서 레알 마드리드가 늦게 복귀했다.",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/sport/20261104-champions-league-real-madrid-comeback-liverpool-fenerbahce",
+   "at": "2026-11-04T22:17:58.000Z",
+   "ev": [],
+   "cc": []
+  },
+  {
+   "id": "5b5b491c890b",
+   "t": "South Africans vote in key municipal elections",
+   "ko": "남아프리카공화국 주요 지방선거에서 투표",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/south-africans-vote-in-key-municipal-elections",
+   "at": "2026-11-04T21:26:13.000Z",
+   "ev": [
+    "sudan",
+    "ethiopia"
+   ],
+   "cc": [
+    "South Africa",
+    "Ethiopia",
+    "Sudan"
+   ]
+  },
+  {
+   "id": "1afac6f78eff",
+   "t": "US midterm election results live: Trump blames Iran war after losses",
+   "ko": "미국 중간선거 결과 생중계: 트럼프, 패배 후 이란 전쟁 탓",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/liveblog/2026/11/4/us-midterm-election-results-live-trump-reacts-as-more-results-awaited?traffic_source=rss",
+   "at": "2026-11-04T21:00:00.000Z",
+   "ev": [
+    "iran"
+   ],
+   "cc": [
+    "United States",
+    "Iran"
+   ]
+  },
+  {
+   "id": "fabcd7dc33b3",
+   "t": "Trump’s second-term playbook: Fake news, AI and attacks on his critics",
+   "ko": "트럼프의 2기 플레이북: 가짜 뉴스, AI, 비판가에 대한 공격",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/tv-shows/truth-or-fake/20261104-trump-s-second-term-playbook-fake-news-ai-and-attacks-on-his-critics",
+   "at": "2026-11-04T20:44:52.000Z",
+   "ev": [],
+   "cc": []
+  },
+  {
+   "id": "f1cf5360e3fd",
+   "t": "Serbia detains police officers over alleged use of force against protesters",
+   "ko": "세르비아, 시위대에 무력 행사 혐의로 경찰 구금",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/world/2026/nov/04/serbia-officers-protesters",
+   "at": "2026-11-04T20:42:14.000Z",
+   "ev": [],
+   "cc": [
+    "Serbia"
+   ]
+  },
+  {
+   "id": "588402d59d7b",
+   "t": "Ukraine raises death toll from Russian strike on Zaporizhia to 40 people",
+   "ko": "우크라이나, 러시아 자포리지아 공습으로 사망자 40명으로 늘어",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/11/4/ukraine-raises-death-toll-from-russian-strike-on-zaporizhia-to-40-people?traffic_source=rss",
+   "at": "2026-11-04T20:31:56.000Z",
+   "ev": [
+    "ukraine"
+   ],
+   "cc": [
+    "Ukraine",
+    "Russia"
+   ]
+  },
+  {
+   "id": "eaa6b52280c8",
+   "t": "Will the US resume its attacks on Iran?",
+   "ko": "미국은 이란에 대한 공격을 재개할 것인가?",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/video/inside-story/2026/11/4/will-the-us-resume-its-attacks-on-iran?traffic_source=rss",
+   "at": "2026-11-04T20:25:50.000Z",
+   "ev": [
+    "iran"
+   ],
+   "cc": [
+    "United States",
+    "Iran"
+   ]
+  },
+  {
+   "id": "03ca8dc25af4",
+   "t": "Food grown in illegal West Bank settlements being sold in Australia as ‘produce of Israel’",
+   "ko": "서안지구 불법 정착촌에서 재배한 식품, 호주에서 '이스라엘산'으로 판매",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/australia-news/2026/nov/04/food-grown-in-settlements-west-bank-sold-in-australia-produce-of-israel-ntwnfb",
+   "at": "2026-11-04T20:00:43.000Z",
+   "ev": [
+    "westbank"
+   ],
+   "cc": [
+    "Palestine",
+    "Australia",
+    "Israel"
+   ]
+  },
+  {
+   "id": "e8d44099fee5",
+   "t": "Iranians celebrate Democrat victory in US midterms",
+   "ko": "이란인, 미국 중간고사에서 민주당 승리 축하",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/video/newsfeed/2026/11/4/iranians-celebrate-democrat-victory-in-us-midterms?traffic_source=rss",
+   "at": "2026-11-04T19:59:14.000Z",
+   "ev": [
+    "iran"
+   ],
+   "cc": [
+    "United States",
+    "Iran"
+   ]
+  },
+  {
+   "id": "8fa8c8ed8acd",
+   "t": "Mother and daughter killed in grizzly bear attack, Canadian authorities confirm",
+   "ko": "캐나다 당국은 회색곰의 공격으로 어머니와 딸이 사망했다고 확인했습니다.",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/world/2026/nov/04/canada-bear-attack-mother-daughter-killed",
+   "at": "2026-11-04T19:42:47.000Z",
+   "ev": [],
+   "cc": [
+    "Canada"
+   ]
+  },
+  {
+   "id": "43e490bb19da",
+   "t": "The midterms were a thumping rebuke of the US-Israel relationship",
+   "ko": "중간고사는 미국-이스라엘 관계에 대한 엄청난 질책이었다.",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/us-news/2026/nov/04/israel-relationship-midterm-elections",
+   "at": "2026-11-04T19:22:43.000Z",
+   "ev": [
+    "iran"
+   ],
+   "cc": [
+    "Israel"
+   ]
+  },
+  {
+   "id": "7eec19af0309",
+   "t": "🔴 Live: Trump says going to war in Iran was worth it, despite midterm rout",
+   "ko": "🔴 라이브: 트럼프는 중간 대패에도 불구하고 이란에서 전쟁을 벌일 가치가 있었다고 말했습니다.",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/americas/20261103-live-americans-head-to-the-polls-to-vote-in-us-midterm-elections",
+   "at": "2026-11-04T18:32:56.000Z",
+   "ev": [
+    "iran"
+   ],
+   "cc": [
+    "Iran"
+   ]
+  },
   {
    "id": "6f17732e22d9",
    "t": "US midterm elections 2026 live updates: Trump ignores midterms in first remarks after stunning Republican losses; Vance blames Iran war",
@@ -57,21 +280,6 @@
    "cc": []
   },
   {
-   "id": "7bb8998eca36",
-   "t": "Ukraine says bodycam video shows deadly Russian double-tap bombing",
-   "ko": "우크라이나, 바디캠 영상에 러시아의 이중 탭 폭격 장면이 담겨 있다고 주장",
-   "src": "BBC",
-   "u": "https://www.bbc.co.uk/news/articles/c98rz6penv86o?at_medium=RSS&at_campaign=rss",
-   "at": "2026-11-04T17:45:58.000Z",
-   "ev": [
-    "ukraine"
-   ],
-   "cc": [
-    "Ukraine",
-    "Russia"
-   ]
-  },
-  {
    "id": "b1590b1a2723",
    "t": "Presidential hopeful Vance appears to question Iran war after polls debacle",
    "ko": "대선 후보 밴스는 여론조사가 실패한 후 이란 전쟁에 의문을 제기하는 것으로 보입니다.",
@@ -83,6 +291,7 @@
    ],
    "cc": [
     "Iran",
+    "United States",
     "Israel"
    ]
   },
@@ -430,9 +639,7 @@
    "src": "The Guardian",
    "u": "https://www.theguardian.com/technology/2026/nov/04/france-national-blood-service-hack-cyber-attack-europe",
    "at": "2026-11-04T13:22:28.000Z",
-   "ev": [
-    "ukraine"
-   ],
+   "ev": [],
    "cc": [
     "France"
    ]
@@ -1855,296 +2062,6 @@
    "cc": [
     "Iran",
     "United States"
-   ]
-  },
-  {
-   "id": "3f5f6e21578f",
-   "t": "War, tariffs and China: What the US midterms mean for the Asia-Pacific",
-   "ko": "전쟁, 관세, 중국: 미국 중간고사가 아시아태평양 지역에 미치는 영향",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/news/2026/11/2/war-tariffs-and-china-what-the-us-midterms-mean-for-the-asia-pacific?traffic_source=rss",
-   "at": "2026-11-02T23:41:18.000Z",
-   "ev": [
-    "iran"
-   ],
-   "cc": [
-    "China",
-    "United States",
-    "Iran"
-   ]
-  },
-  {
-   "id": "d4b687bdc321",
-   "t": "Trump’s DoJ charges six more people in ‘voter fraud’ crackdown in California",
-   "ko": "트럼프 법무부, 캘리포니아주 '유권자 사기' 단속 혐의로 6명 추가 기소",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/us-news/2026/nov/02/california-voter-fraud-charges",
-   "at": "2026-11-02T23:22:24.000Z",
-   "ev": [],
-   "cc": [
-    "United States"
-   ]
-  },
-  {
-   "id": "9a1277f14af4",
-   "t": "Emergency alerts hacking 'designed to undermine trust in government', expert says",
-   "ko": "긴급 경보 해킹은 '정부에 대한 신뢰를 훼손하기 위해 고안된 것'이라고 전문가는 말합니다.",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/tv-shows/a-propos/20261102-emergency-alerts-hacking-designed-to-undermine-trust-in-government-expert-says",
-   "at": "2026-11-02T22:30:09.000Z",
-   "ev": [
-    "ukraine"
-   ],
-   "cc": [
-    "Russia",
-    "Ukraine"
-   ]
-  },
-  {
-   "id": "4d729eed8737",
-   "t": "Washington state resident dies from ‘severe illness’ after contracting bird flu",
-   "ko": "워싱턴주 주민, 조류독감에 걸린 후 '심각한 질병'으로 사망",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/us-news/2026/nov/02/bird-flu-death-washington",
-   "at": "2026-11-02T21:59:02.000Z",
-   "ev": [],
-   "cc": []
-  },
-  {
-   "id": "d1d98fc2aafa",
-   "t": "Trump promised 'no more wars'. His foreign policy tells another story",
-   "ko": "트럼프는 '더 이상 전쟁은 없다'고 약속했다. 그의 외교 정책은 또 다른 이야기를 말해준다",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/tv-shows/truth-or-fake/20261102-trump-promised-no-more-wars-his-foreign-policy-tells-another-story",
-   "at": "2026-11-02T21:34:10.000Z",
-   "ev": [
-    "ukraine",
-    "iran"
-   ],
-   "cc": [
-    "United States",
-    "Ukraine",
-    "Greenland"
-   ]
-  },
-  {
-   "id": "d38b77da41bf",
-   "t": "Student protests resume in France as pupils return to school",
-   "ko": "프랑스, 학생들이 학교로 돌아가자 시위 재개",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/video/newsfeed/2026/11/2/student-protests-resume-in-france-as-pupils-return-to-school?traffic_source=rss",
-   "at": "2026-11-02T21:28:55.000Z",
-   "ev": [],
-   "cc": [
-    "France"
-   ]
-  },
-  {
-   "id": "15458b0e8388",
-   "t": "Uganda withdrawing troops from peacekeeping mission in Somalia",
-   "ko": "우간다, 소말리아 평화 유지 임무에서 군대 철수",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/uganda-withdrawing-troops-from-peacekeeping-mission-in-somalia",
-   "at": "2026-11-02T21:24:21.000Z",
-   "ev": [
-    "somalia"
-   ],
-   "cc": [
-    "Uganda",
-    "Somalia",
-    "South Africa"
-   ]
-  },
-  {
-   "id": "53aad65db362",
-   "t": "Migration is a moral issue for Burnham – but is he trying to please everyone?",
-   "ko": "번햄에게 이민은 도덕적 문제입니다. 하지만 그는 모든 사람을 기쁘게 하려고 노력하고 있나요?",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/uk-news/2026/nov/02/migration-andy-burnham-shabana-mahmood-labour-immigration",
-   "at": "2026-11-02T20:39:52.000Z",
-   "ev": [],
-   "cc": [
-    "United Kingdom"
-   ]
-  },
-  {
-   "id": "79a2147bb5e1",
-   "t": "EU says fridge attacks 'deliberate attempt to disrupt' bloc's food supply",
-   "ko": "EU는 냉장고 공격이 블록의 식량 공급을 방해하려는 '의도적인 시도'라고 말했습니다.",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/eu-says-fridge-attacks-deliberate-attempt-to-disrupt-bloc-s-food-supply",
-   "at": "2026-11-02T20:30:07.000Z",
-   "ev": [],
-   "cc": [
-    "Sweden",
-    "Portugal",
-    "Belgium"
-   ]
-  },
-  {
-   "id": "3bbc6d75eba3",
-   "t": "What Florida jet audio and flight data tells us about its final moments",
-   "ko": "플로리다 제트기 오디오 및 비행 데이터가 마지막 순간에 대해 알려주는 것",
-   "src": "BBC",
-   "u": "https://www.bbc.co.uk/news/videos/c52e9lgxjz82o?at_medium=RSS&at_campaign=rss",
-   "at": "2026-11-02T19:49:22.000Z",
-   "ev": [],
-   "cc": [
-    "United States"
-   ]
-  },
-  {
-   "id": "a89ddf8c5707",
-   "t": "HRW calls on Zambia to halt post-election crackdown",
-   "ko": "HRW, 잠비아에 선거 후 탄압 중단 촉구",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/news/2026/11/2/hrw-calls-on-zambia-to-halt-post-election-crackdown?traffic_source=rss",
-   "at": "2026-11-02T19:40:10.000Z",
-   "ev": [],
-   "cc": [
-    "Zambia"
-   ]
-  },
-  {
-   "id": "6f65d06038e6",
-   "t": "Protester’s ‘I support genocide’ sign appears to face no police action",
-   "ko": "시위대의 '나는 대량 학살을 지지합니다' 팻말은 경찰의 조치에 직면하지 않는 것으로 보인다",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/video/newsfeed/2026/11/2/protesters-i-support-genocide-sign-appears-to-face-no-police-action?traffic_source=rss",
-   "at": "2026-11-02T19:39:24.000Z",
-   "ev": [],
-   "cc": [
-    "United Kingdom"
-   ]
-  },
-  {
-   "id": "329d86acd85f",
-   "t": "MAGA: Why are Trump's most loyal supporters turning against him?",
-   "ko": "MAGA: 트럼프의 가장 충성스러운 지지자들이 왜 그에게 등을 돌리는 걸까요?",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/maga-why-trump-s-most-loyal-supporters-are-turning-against-him",
-   "at": "2026-11-02T19:17:55.000Z",
-   "ev": [
-    "iran"
-   ],
-   "cc": [
-    "Iran"
-   ]
-  },
-  {
-   "id": "ff30951d5388",
-   "t": "Who is hacking Europe’s supermarket fridges and freezers, and why?",
-   "ko": "유럽의 슈퍼마켓 냉장고와 냉동고를 해킹하는 사람은 누구이며, 그 이유는 무엇입니까?",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/technology/2026/nov/02/europe-supermarket-fridges-freezers-who-hacking-why",
-   "at": "2026-11-02T19:07:40.000Z",
-   "ev": [],
-   "cc": []
-  },
-  {
-   "id": "f271a634c7d9",
-   "t": "Russia again pummels Ukraine after rare pause in fighting in Kherson",
-   "ko": "러시아, 헤르손 전투가 드물게 중단된 후 다시 우크라이나를 강타",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/europe/20261102-russia-pummels-ukraine-again-after-rare-pause-in-fighting-in-kherson",
-   "at": "2026-11-02T18:53:49.000Z",
-   "ev": [
-    "ukraine"
-   ],
-   "cc": [
-    "Russia",
-    "Ukraine"
-   ]
-  },
-  {
-   "id": "ebdde0b3842f",
-   "t": "Trump signals progress on Iran deal as Tehran pushes faster ceasefire",
-   "ko": "테헤란이 더 빠른 휴전을 추진함에 따라 트럼프는이란 거래의 진전을 예고했습니다.",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/news/2026/11/2/iran-pushing-accelerated-plan-for-ceasefire-talks-with-us?traffic_source=rss",
-   "at": "2026-11-02T18:49:26.000Z",
-   "ev": [
-    "iran"
-   ],
-   "cc": [
-    "Iran",
-    "United States"
-   ]
-  },
-  {
-   "id": "4ce58a958d6b",
-   "t": "German unions launch wave of strikes over cost-of-living pressures",
-   "ko": "독일 노조, 생활비 문제로 파업 돌입",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/news/2026/11/2/german-unions-launch-wave-of-strikes-over-cost-of-living-pressures?traffic_source=rss",
-   "at": "2026-11-02T18:47:24.000Z",
-   "ev": [],
-   "cc": [
-    "Germany"
-   ]
-  },
-  {
-   "id": "32f890107f38",
-   "t": "Charities condemn proposal to make some refugees wait up to 30 years for settlement – as it happened",
-   "ko": "자선단체들은 일부 난민들이 정착을 위해 최대 30년을 기다리게 하자는 제안을 비난했습니다.",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/politics/live/2026/nov/02/andy-burnham-shabana-mahmood-migration-indefinite-leave-to-remain-care-workers-uk-politics-latest-news",
-   "at": "2026-11-02T18:38:22.000Z",
-   "ev": [],
-   "cc": [
-    "United Kingdom"
-   ]
-  },
-  {
-   "id": "9021f5cfb428",
-   "t": "Fake nuclear warning from hacked app sparks unease but not panic in Ukraine",
-   "ko": "해킹된 앱의 가짜 핵 경고로 인해 우크라이나에서는 불안이 촉발되었지만 당황하지는 않았습니다.",
-   "src": "BBC",
-   "u": "https://www.bbc.co.uk/news/articles/cwx28mngxz8do?at_medium=RSS&at_campaign=rss",
-   "at": "2026-11-02T18:34:24.000Z",
-   "ev": [
-    "ukraine"
-   ],
-   "cc": [
-    "Ukraine",
-    "Russia"
-   ]
-  },
-  {
-   "id": "bcc88126953a",
-   "t": "If hackers can take control of a supermarket freezer, how vulnerable is other tech?",
-   "ko": "해커가 슈퍼마켓 냉동고를 제어할 수 있다면 다른 기술은 얼마나 취약할까요?",
-   "src": "BBC",
-   "u": "https://www.bbc.co.uk/news/articles/ckpqg8lve73go?at_medium=RSS&at_campaign=rss",
-   "at": "2026-11-02T18:25:01.000Z",
-   "ev": [],
-   "cc": []
-  },
-  {
-   "id": "195b281056db",
-   "t": "Russian bombing of Ukrainian aid centre kills 26 people",
-   "ko": "러시아, 우크라이나 구호센터 폭격으로 26명 사망",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/news/2026/11/2/russian-bombing-of-ukrainian-aid-centre-kills-24-people-zelenskyy?traffic_source=rss",
-   "at": "2026-11-02T18:23:02.000Z",
-   "ev": [
-    "ukraine"
-   ],
-   "cc": [
-    "Russia",
-    "Ukraine"
-   ]
-  },
-  {
-   "id": "1af9b03caed6",
-   "t": "French pupils resume school blockades as country braces for more protests",
-   "ko": "프랑스 학생들은 국가가 더 많은 시위에 대비하면서 학교 봉쇄를 재개합니다.",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/education/2026/nov/02/franch-students-school-blockades-protests",
-   "at": "2026-11-02T18:17:33.000Z",
-   "ev": [],
-   "cc": [
-    "France"
    ]
   }
  ]
