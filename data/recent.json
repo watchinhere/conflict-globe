@@ -1,141 +1,185 @@
 {
- "updated": "2026-11-04",
+ "updated": "2026-11-05",
  "news": {
   "ukraine": [
    {
-    "date": "2026-11-03",
-    "text": "President Zelenskyy says US elections will impact war in Ukraine",
-    "ko": "젤렌스키 대통령 \"미국 선거가 우크라이나 전쟁에 영향 미칠 것\"",
-    "sources": [
-     {
-      "t": "Al Jazeera",
-      "u": "https://www.aljazeera.com/video/newsfeed/2026/11/3/president-zelenskyy-says-us-elections-will-impact-war-in-ukraine?traffic_source=rss"
-     }
-    ]
-   },
-   {
-    "date": "2026-11-03",
-    "text": "Kyiv protest raises suspicions of possible Russian orchestration",
-    "ko": "키예프 시위, 러시아의 조율 가능성 의혹 제기",
-    "sources": [
-     {
-      "t": "Al Jazeera",
-      "u": "https://www.aljazeera.com/video/newsfeed/2026/11/3/kyiv-protest-raises-suspicions-of-possible-russian-orchestration?traffic_source=rss"
-     }
-    ]
-   },
-   {
-    "date": "2026-11-03",
-    "text": "Seven reported bomb threats against European flights confirmed as false alarms – as it happened",
-    "ko": "유럽 ​​항공편에 대한 7건의 보고된 폭탄 위협이 허위 경보로 확인되었습니다.",
-    "sources": [
-     {
-      "t": "The Guardian",
-      "u": "https://www.theguardian.com/world/live/2026/nov/03/zelenskyy-berlin-merz-europe-sweden-spain-france-belgium-poland-latest-news"
-     }
-    ]
-   },
-   {
-    "date": "2026-11-03",
-    "text": "Russian strikes on Dnipro kill two, injure 20 others",
-    "ko": "러시아, 드니프로 공격으로 2명 사망, 20명 부상",
-    "sources": [
-     {
-      "t": "Al Jazeera",
-      "u": "https://www.aljazeera.com/video/newsfeed/2026/11/3/russian-strikes-on-dnipro-kill-two-injure-20-others?traffic_source=rss"
-     }
-    ]
-   },
-   {
-    "date": "2026-11-03",
-    "text": "Russian households face increasing financial strain as war in Ukraine drags on",
-    "ko": "우크라이나 내전이 장기화되면서 러시아 가계의 재정적 부담이 커지고 있다",
-    "sources": [
-     {
-      "t": "France 24",
-      "u": "https://www.france24.com/en/video/20261103-russian-households-face-increasing-financial-strain-as-war-in-ukraine-drags-on"
-     }
-    ]
-   },
-   {
-    "date": "2026-11-03",
-    "text": "Death toll rises in Ukraine after Russia attacks aid centre, hospice and hospital",
-    "ko": "러시아가 구호센터, 호스피스, 병원을 공격한 후 우크라이나에서 사망자 수가 증가했습니다",
+    "date": "2026-11-04",
+    "text": "Ukraine says bodycam video shows deadly Russian double-tap bombing",
+    "ko": "우크라이나, 바디캠 영상에 러시아의 이중 탭 폭격 장면이 담겨 있다고 주장",
     "sources": [
      {
       "t": "BBC",
-      "u": "https://www.bbc.co.uk/news/articles/c65ynez5y599o?at_medium=RSS&at_campaign=rss"
+      "u": "https://www.bbc.co.uk/news/articles/c98rz6penv86o?at_medium=RSS&at_campaign=rss"
      }
     ]
    },
    {
-    "date": "2026-11-03",
-    "text": "Ukraine and Russia are taking the war underground as drones saturate the battlefield",
-    "ko": "드론이 전장을 포화시키면서 우크라이나와 러시아는 지하 전쟁을 벌이고 있다",
+    "date": "2026-11-04",
+    "text": "Ukraine raises death toll from Russian strike on Zaporizhia to 40 people",
+    "ko": "우크라이나, 러시아 자포리지아 공습으로 사망자 40명으로 늘어",
+    "sources": [
+     {
+      "t": "Al Jazeera",
+      "u": "https://www.aljazeera.com/news/2026/11/4/ukraine-raises-death-toll-from-russian-strike-on-zaporizhia-to-40-people?traffic_source=rss"
+     }
+    ]
+   },
+   {
+    "date": "2026-11-04",
+    "text": "Ukrainian strikes kill three in Russia’s Belgorod region",
+    "ko": "우크라이나 공습으로 러시아 벨고로드 지역 3명 사망",
+    "sources": [
+     {
+      "t": "Al Jazeera",
+      "u": "https://www.aljazeera.com/news/2026/11/4/ukrainian-strikes-kill-three-in-russias-belgorod-region?traffic_source=rss"
+     }
+    ]
+   },
+   {
+    "date": "2026-11-04",
+    "text": "Zelenskyy says 40 now confirmed dead after ‘insane’ Russian attack on school – as it happened",
+    "ko": "젤렌스키는 러시아의 학교 공격으로 40명이 사망한 것으로 확인됐다고 밝혔습니다.",
+    "sources": [
+     {
+      "t": "The Guardian",
+      "u": "https://www.theguardian.com/world/live/2026/nov/04/eu-ukraine-russia-france-germany-us-nato-europe-latest-news"
+     }
+    ]
+   },
+   {
+    "date": "2026-11-04",
+    "text": "Ice hockey federation reiterates opposition to reinstatement of Russia",
+    "ko": "아이스하키연맹, 러시아 복귀 반대 입장 반복",
+    "sources": [
+     {
+      "t": "Al Jazeera",
+      "u": "https://www.aljazeera.com/sports/2026/11/4/ice-hockey-federation-reiterates-opposition-to-reinstatement-of-russia?traffic_source=rss"
+     }
+    ]
+   },
+   {
+    "date": "2026-11-04",
+    "text": "Ukrainian's 'not expecting drastic change in US policy' after midterms",
+    "ko": "우크라이나 \"중간고사 이후 미국 정책에 급격한 변화는 없을 것\"",
     "sources": [
      {
       "t": "France 24",
-      "u": "https://www.france24.com/en/europe/20261103-ukraine-and-russia-are-taking-the-war-underground-as-drones-saturate-the-battlefield"
+      "u": "https://www.france24.com/en/ukrainian-s-not-expecting-drastic-change-in-us-policy-after-midterms"
      }
     ]
    },
    {
-    "date": "2026-11-03",
-    "text": "‘Vile terrorist attack’: Russia bombs Ukraine aid centre",
-    "ko": "'사악한 테러 공격': 러시아, 우크라이나 구호센터 폭격",
+    "date": "2026-11-04",
+    "text": "UK apologises to Ukrainian child refugees who were told to study Russian",
+    "ko": "영국, 러시아어 공부하라는 지시를 받은 우크라이나 난민 어린이들에게 사과",
     "sources": [
      {
-      "t": "France 24",
-      "u": "https://www.france24.com/en/video/20261103-vile-terrorist-attack-russia-bombs-ukraine-aid-centre"
+      "t": "The Guardian",
+      "u": "https://www.theguardian.com/education/2026/nov/04/ukrainian-gcse-uk-apologises-child-refugees"
+     }
+    ]
+   },
+   {
+    "date": "2026-11-04",
+    "text": "Canada joins coalition refusing to play ice hockey against Russia over Ukraine war",
+    "ko": "캐나다, 우크라이나 전쟁으로 러시아와의 아이스하키 경기 거부 연합에 합류",
+    "sources": [
+     {
+      "t": "The Guardian",
+      "u": "https://www.theguardian.com/world/2026/nov/04/canada-bans-russian-players-junior-ice-hockey-championships-ukraine-war"
      }
     ]
    },
    {
     "date": "2026-11-03",
-    "text": "For Ukraine's Kherson region, a short ceasefire meant a momentary return to normal life",
-    "ko": "우크라이나 헤르손 지역의 경우 짧은 휴전은 일시적인 일상 복귀를 의미했습니다.",
+    "text": "Japan faces diplomatic dilemma amid joint pressure from nuclear neighbors",
+    "ko": "일본, 핵 이웃 국가들의 공동 압력으로 외교적 딜레마에 직면",
     "sources": [
      {
       "t": "NPR",
-      "u": "https://www.npr.org/2026/11/03/g-s1-151238/ukraine-russia-ceasefire-oleshky-kherson"
+      "u": "https://www.npr.org/2026/11/03/nx-s1-6012016/japan-faces-diplomatic-dilemma-amid-joint-pressure-from-nuclear-neighbors"
      }
     ]
    },
    {
     "date": "2026-11-03",
-    "text": "Global food security is under threat",
-    "ko": "세계 식량안보가 위협받고 있다",
+    "text": "Grain under fire: Russian, Ukrainian Black Sea attacks threaten food supply",
+    "ko": "불타오르는 곡물: 러시아, 우크라이나 흑해 공격으로 식량 공급 위협",
     "sources": [
      {
       "t": "Al Jazeera",
-      "u": "https://www.aljazeera.com/news-analysis/2026/11/3/global-food-security-is-under-threat?traffic_source=rss"
+      "u": "https://www.aljazeera.com/news/2026/11/3/disruptions-of-black-sea-grain-exports-spike-global-prices?traffic_source=rss"
      }
     ]
    },
    {
     "date": "2026-11-03",
-    "text": "Russian bombing kills 31 people at Ukraine aid centre, Kyiv says",
-    "ko": "우크라이나 구호센터서 러시아 폭탄테러로 31명 사망",
+    "text": "Air raid alerts and attacks on schools: the devastating face of education in Ukraine",
+    "ko": "공습 경보 및 학교 공격: 우크라이나 교육의 파괴적인 모습",
     "sources": [
      {
-      "t": "BBC",
-      "u": "https://www.bbc.co.uk/news/articles/cjy56dndlyz0o?at_medium=RSS&at_campaign=rss"
+      "t": "UN News",
+      "u": "https://news.un.org/feed/view/en/story/2026/11/1168724"
      }
     ]
    },
    {
     "date": "2026-11-03",
-    "text": "Russia bombs humanitarian hub in Ukraine, killing at least 31 people",
-    "ko": "러시아, 우크라이나 인도주의 중심지 폭격해 최소 31명 사망",
+    "text": "Death toll hits 29 after Russian strike on Ukrainian aid site, with 48 still missing",
+    "ko": "러시아의 우크라이나 구호시설 공습으로 사망자 29명, 아직 48명 실종",
     "sources": [
      {
-      "t": "The Guardian",
-      "u": "https://www.theguardian.com/world/2026/nov/03/russia-bombs-ukrainian-aid-centre-komyshuvakha"
+      "t": "NPR",
+      "u": "https://www.npr.org/2026/11/03/g-s1-151439/russia-ukraine-war"
      }
     ]
    }
   ],
   "sudan": [
+   {
+    "date": "2026-11-04",
+    "text": "Sudan factories struggle to restart after devastating wartime losses",
+    "ko": "수단 공장은 엄청난 전쟁 손실로 인해 재가동에 어려움을 겪고 있습니다.",
+    "sources": [
+     {
+      "t": "Al Jazeera",
+      "u": "https://www.aljazeera.com/news/2026/11/4/sudan-factories-struggle-to-restart-after-devastating-wartime-losses?traffic_source=rss"
+     }
+    ]
+   },
+   {
+    "date": "2026-11-04",
+    "text": "South Africans vote in key municipal elections",
+    "ko": "남아프리카공화국 주요 지방선거에서 투표",
+    "sources": [
+     {
+      "t": "France 24",
+      "u": "https://www.france24.com/en/south-africans-vote-in-key-municipal-elections"
+     }
+    ]
+   },
+   {
+    "date": "2026-11-04",
+    "text": "Sudanese Arab refugees face hostility and distrust after fleeing to Chad",
+    "ko": "차드로 탈출한 수단 아랍 난민들은 적대감과 불신에 직면",
+    "sources": [
+     {
+      "t": "France 24",
+      "u": "https://www.france24.com/en/video/20261104-sudanese-arab-refugees-face-hostility-and-distrust-after-fleeing-to-chad"
+     }
+    ]
+   },
+   {
+    "date": "2026-11-03",
+    "text": "‘This is not about politics. This is about people’: UN warns of impact of deadly drone strikes in Sudan",
+    "ko": "'이것은 정치에 관한 것이 아닙니다. 이것은 사람에 관한 것입니다. 'UN은 수단에서 치명적인 드론 공격의 영향을 경고합니다.",
+    "sources": [
+     {
+      "t": "UN News",
+      "u": "https://news.un.org/feed/view/en/story/2026/11/1168731"
+     }
+    ]
+   },
    {
     "date": "2026-11-03",
     "text": "Darfur survivors vow to tell story of those killed after Sudan camp attacks",
@@ -146,6 +190,17 @@
       "u": "https://www.aljazeera.com/features/2026/11/3/darfur-survivors-vow-to-tell-story-of-those-killed-after-sudan-camp-attacks?traffic_source=rss"
      }
     ]
+   },
+   {
+    "date": "2026-11-02",
+    "text": "The Rapid Support Forces launches drone strikes against three distribution stations in Sudan's Kassala and Northern states.",
+    "sources": [
+     {
+      "t": "Sudan Tribune",
+      "u": "https://sudantribune.com/article/320792"
+     }
+    ],
+    "ko": "신속지원군(Rapid Support Forces)은 수단의 카살라(Kassala) 주와 북부 주에 있는 배급소 3곳을 대상으로 드론 공격을 시작했습니다."
    },
    {
     "date": "2026-11-02",
@@ -212,202 +267,154 @@
       "u": "https://news.un.org/feed/view/en/story/2026/10/1168703"
      }
     ]
-   },
-   {
-    "date": "2026-10-29",
-    "text": "Strikes on Darfur market in Sudan killed more than 100, rights group says",
-    "ko": "수단 다르푸르 시장 공습으로 100명 이상 사망 인권단체",
-    "sources": [
-     {
-      "t": "Al Jazeera",
-      "u": "https://www.aljazeera.com/news/2026/10/29/strikes-on-darfur-market-in-sudan-kill-more-than-100-rights-group-says?traffic_source=rss"
-     }
-    ]
-   },
-   {
-    "date": "2026-10-28",
-    "text": "Eight women and children are reported to be injured in a airstrike in Kadugli, South Kordofan, Sudan.",
-    "sources": [
-     {
-      "t": "Sudan Tribune",
-      "u": "https://sudantribune.com/article/320591"
-     }
-    ],
-    "ko": "수단 남코르도판 카두글리에서 공습으로 여성과 어린이 8명이 부상한 것으로 알려졌다."
-   },
-   {
-    "date": "2026-10-28",
-    "text": "Sudan war and inflation leave families struggling to survive in Khartoum",
-    "ko": "수단 전쟁과 인플레이션으로 인해 가족들은 하르툼에서 생존하기 위해 고군분투하고 있습니다.",
-    "sources": [
-     {
-      "t": "Al Jazeera",
-      "u": "https://www.aljazeera.com/features/2026/10/28/sudan-war-and-inflation-leave-families-struggling-to-survive-in-khartoum?traffic_source=rss"
-     }
-    ]
-   },
-   {
-    "date": "2026-10-28",
-    "text": "Civilians in Sudan’s El Obeid trapped between drones and incarceration",
-    "ko": "드론과 투옥 사이에 갇힌 수단 엘오베이드의 민간인",
-    "sources": [
-     {
-      "t": "UN News",
-      "u": "https://news.un.org/feed/view/en/story/2026/10/1168696"
-     }
-    ]
-   },
-   {
-    "date": "2026-10-27",
-    "text": "The casualty toll from yesterday's drone strike at a market in Nyala, South Darfur, Sudan, increases to over 100 people killed and 112 more injured.",
-    "sources": [
-     {
-      "t": "Reuters",
-      "u": "https://apnews.com/article/sudan-power-outage-capital-drone-0798818d82bc79ed10300687a514c693"
-     }
-    ],
-    "ko": "수단 남다르푸르 니알라 시장에서 어제 드론 공격으로 인한 사상자 수는 100명 이상이 사망하고 112명이 부상했다."
    }
   ],
   "iran": [
    {
-    "date": "2026-11-03",
-    "text": "The Indian external ministry reports an attack on a commercial vessel near Musandam Governorate, Oman, that killed one Indian national, while 13 others are rescued.",
-    "sources": [
-     {
-      "t": "Reuters",
-      "u": "https://www.reuters.com/world/india/one-indian-killed-attack-ship-near-oman-indian-foreign-ministry-says-2026-11-03/"
-     }
-    ],
-    "ko": "인도 외무부는 오만 무산담 주 근처의 상업용 선박에 대한 공격으로 인도 국민 1명이 사망하고 13명이 구조되었다고 보고했습니다."
-   },
-   {
-    "date": "2026-11-03",
-    "text": "The Reserve Bank of Australia raises its benchmark interest rate by 0.25 percentage points to 4.85%, its highest level since 2008, citing persistent inflation and rising energy costs associated with the Iran war.",
-    "sources": [
-     {
-      "t": "AFP via France 24",
-      "u": "https://www.france24.com/en/live-news/20261103-australian-central-bank-lifts-key-interest-rate-to-18-year-high"
-     }
-    ],
-    "ko": "호주중앙은행(RBA)은 이란 전쟁과 관련된 지속적인 인플레이션과 에너지 비용 상승을 이유로 기준 금리를 0.25%포인트 인상한 4.85%로 2008년 이후 최고 수준을 기록했습니다."
-   },
-   {
-    "date": "2026-11-03",
-    "text": "Voter turnout surges in US midterm elections with control of Congress at stake – live",
-    "ko": "의회 통제권이 걸린 미국 중간선거에서 유권자 투표율 급증 – 실시간",
-    "sources": [
-     {
-      "t": "The Guardian",
-      "u": "https://www.theguardian.com/us-news/live/2026/nov/03/midterm-elections-live-updates-voting"
-     }
-    ]
-   },
-   {
-    "date": "2026-11-03",
-    "text": "Yemen gov’t accuses IRGC, Hezbollah of sending 21 experts to back Houthis",
-    "ko": "예멘 정부는 IRGC와 헤즈볼라가 후티 반군을 지원하기 위해 21명의 전문가를 보냈다고 비난하지 않습니다",
+    "date": "2026-11-04",
+    "text": "Trump blames Iran war for midterms losses",
+    "ko": "트럼프, 중기 손실 원인은 이란 전쟁 탓",
     "sources": [
      {
       "t": "Al Jazeera",
-      "u": "https://www.aljazeera.com/news/2026/11/3/yemen-govt-accuses-irgc-hezbollah-of-sending-21-experts-to-back-houthis?traffic_source=rss"
+      "u": "https://www.aljazeera.com/video/newsfeed/2026/11/4/trump-blames-iran-war-for-midterms-losses?traffic_source=rss"
      }
     ]
    },
    {
-    "date": "2026-11-03",
-    "text": "Yemen: Houthi clashes near Taiz leave residents in a 'state of panic'",
-    "ko": "예멘: 타이즈 근처 후티 충돌로 주민들이 '공포 상태'에 빠졌습니다.",
+    "date": "2026-11-04",
+    "text": "US midterm election results live: Trump blames Iran war after losses",
+    "ko": "미국 중간선거 결과 생중계: 트럼프, 패배 후 이란 전쟁 탓",
     "sources": [
      {
-      "t": "DW",
-      "u": "https://www.dw.com/en/yemen-houthi-clashes-near-taiz-leave-residents-in-a-state-of-panic/a-79836913?maca=en-rss-en-world-4025-rdf"
+      "t": "Al Jazeera",
+      "u": "https://www.aljazeera.com/news/liveblog/2026/11/4/us-midterm-election-results-live-trump-reacts-as-more-results-awaited?traffic_source=rss"
      }
     ]
    },
    {
-    "date": "2026-11-03",
-    "text": "US strikes Iran’s Qeshm Island as Vance voices optimism about a deal",
-    "ko": "Vance가 거래에 대해 낙관론을 표명함에 따라 미국은이란의 Qeshm 섬을 공격했습니다.",
+    "date": "2026-11-04",
+    "text": "Will the US resume its attacks on Iran?",
+    "ko": "미국은 이란에 대한 공격을 재개할 것인가?",
+    "sources": [
+     {
+      "t": "Al Jazeera",
+      "u": "https://www.aljazeera.com/video/inside-story/2026/11/4/will-the-us-resume-its-attacks-on-iran?traffic_source=rss"
+     }
+    ]
+   },
+   {
+    "date": "2026-11-04",
+    "text": "Iranians celebrate Democrat victory in US midterms",
+    "ko": "이란인, 미국 중간고사에서 민주당 승리 축하",
+    "sources": [
+     {
+      "t": "Al Jazeera",
+      "u": "https://www.aljazeera.com/video/newsfeed/2026/11/4/iranians-celebrate-democrat-victory-in-us-midterms?traffic_source=rss"
+     }
+    ]
+   },
+   {
+    "date": "2026-11-04",
+    "text": "The midterms were a thumping rebuke of the US-Israel relationship",
+    "ko": "중간고사는 미국-이스라엘 관계에 대한 엄청난 질책이었다.",
     "sources": [
      {
       "t": "The Guardian",
-      "u": "https://www.theguardian.com/world/2026/nov/03/us-strikes-irans-qeshm-island"
+      "u": "https://www.theguardian.com/us-news/2026/nov/04/israel-relationship-midterm-elections"
      }
     ]
    },
    {
-    "date": "2026-11-03",
-    "text": "Can US midterm election really change Trump's Iran policy?",
-    "ko": "미국 중간선거가 트럼프의 이란 정책을 정말로 바꿀 수 있을까?",
-    "sources": [
-     {
-      "t": "DW",
-      "u": "https://www.dw.com/en/can-us-midterm-election-really-change-trump-s-iran-policy/a-79840683?maca=en-rss-en-world-4025-rdf"
-     }
-    ]
-   },
-   {
-    "date": "2026-11-03",
-    "text": "US strikes Iranian island ahead of midterm elections",
-    "ko": "미국, 중간선거 앞두고 이란 섬 공습",
-    "sources": [
-     {
-      "t": "BBC",
-      "u": "https://www.bbc.co.uk/news/articles/cx240mrm3g8vo?at_medium=RSS&at_campaign=rss"
-     }
-    ]
-   },
-   {
-    "date": "2026-11-03",
-    "text": "US strikes Iran's Qeshm Island as Trump signals progress in talks",
-    "ko": "미국, 트럼프 회담 진전 신호에 이란 케심 섬 공습",
+    "date": "2026-11-04",
+    "text": "🔴 Live: Trump says going to war in Iran was worth it, despite midterm rout",
+    "ko": "🔴 라이브: 트럼프는 중간 대패에도 불구하고 이란에서 전쟁을 벌일 가치가 있었다고 말했습니다.",
     "sources": [
      {
       "t": "France 24",
-      "u": "https://www.france24.com/en/middle-east/20261103-us-strikes-iran-qeshm-island-as-trump-signals-progress-in-talks"
+      "u": "https://www.france24.com/en/americas/20261103-live-americans-head-to-the-polls-to-vote-in-us-midterm-elections"
      }
     ]
    },
    {
-    "date": "2026-11-03",
-    "text": "Explosions hit Iran’s Qeshm Island as US media report US strikes in Hormuz",
-    "ko": "미국 언론이 미국의 호르무즈 공습을 보도하자 이란 케심 섬에서 폭발이 발생했습니다.",
+    "date": "2026-11-04",
+    "text": "US midterm elections 2026 live updates: Trump ignores midterms in first remarks after stunning Republican losses; Vance blames Iran war",
+    "ko": "2026년 미국 중간선거 실시간 업데이트: 트럼프는 공화당의 엄청난 패배 이후 첫 발언에서 중간선거를 무시했습니다. 밴스는 이란 전쟁을 비난한다",
     "sources": [
      {
-      "t": "Al Jazeera",
-      "u": "https://www.aljazeera.com/news/2026/11/3/explosions-hit-irans-qeshm-island-as-us-media-report-us-strikes-in-hormuz?traffic_source=rss"
+      "t": "The Guardian",
+      "u": "https://www.theguardian.com/us-news/live/2026/nov/04/midterm-elections-results-senate-house-michigan-maine-mississippi-latest-updates"
      }
     ]
    },
    {
-    "date": "2026-11-03",
-    "text": "Iran war live: Vance sees ‘progress’, Tehran says ‘ball is in US court’",
-    "ko": "이란 전쟁 라이브: Vance는 '진행'을 보고, 테헤란은 '공은 미국 법원에 있다'고 말했습니다.",
+    "date": "2026-11-04",
+    "text": "Presidential hopeful Vance appears to question Iran war after polls debacle",
+    "ko": "대선 후보 밴스는 여론조사가 실패한 후 이란 전쟁에 의문을 제기하는 것으로 보입니다.",
     "sources": [
      {
       "t": "Al Jazeera",
-      "u": "https://www.aljazeera.com/news/liveblog/2026/11/3/iran-war-live-vance-sees-progress-in-talks-tehran-says-ball-in-us-court?traffic_source=rss"
+      "u": "https://www.aljazeera.com/news/2026/11/4/presidential-hopeful-vance-appears-to-question-iran-war-after-polls-debacle?traffic_source=rss"
      }
     ]
    },
    {
-    "date": "2026-11-02",
-    "text": "The United States military carries out airstrikes on Iranian targets across the Strait of Hormuz after Iranian surface-to-air missiles attack American aircraft in the Strait.",
+    "date": "2026-11-04",
+    "text": "JD Vance says US war on Iran is ‘real reason’ Republicans lost midterm elections",
+    "ko": "JD 밴스(JD Vance)는 미국의 이란 전쟁이 공화당이 중간선거에서 패한 '진짜 이유'라고 말했습니다.",
     "sources": [
      {
-      "t": "Al Jazeera",
-      "u": "https://www.aljazeera.com/news/2026/11/3/explosions-hit-irans-qeshm-island-as-us-media-report-us-strikes-in-hormuz"
-     },
-     {
-      "t": "AP",
-      "u": "https://apnews.com/article/iran-us-trump-netanyahu-israel-war-b4519ef86bafe2672e0855d7a48ce309"
+      "t": "The Guardian",
+      "u": "https://www.theguardian.com/us-news/2026/nov/04/jd-vance-iran-war-midterms-election"
      }
-    ],
-    "ko": "이란의 지대공 미사일이 호르무즈 해협에서 미국 항공기를 공격한 이후 미군이 호르무즈 해협 전역의 이란 목표물을 공습하고 있다."
+    ]
+   },
+   {
+    "date": "2026-11-04",
+    "text": "UK politics: Burnham says US midterm results have created ‘opportunity’ for world to focus on cost of living and ending Iran war – as it happened",
+    "ko": "영국 정치: Burnham은 미국의 중간 결과가 세계가 생활비에 집중하고 이란 전쟁을 종식시킬 수 있는 '기회'를 창출했다고 말했습니다.",
+    "sources": [
+     {
+      "t": "The Guardian",
+      "u": "https://www.theguardian.com/politics/live/2026/nov/04/ed-miliband-andy-burnham-king-charles-labour-louise-haigh-alex-burghart-pmqs-conservatives-uk-politics-latest-news"
+     }
+    ]
+   },
+   {
+    "date": "2026-11-04",
+    "text": "Iran's chief negotiator says Americans voted 'no to war'",
+    "ko": "이란 수석대표 \"미국인들이 전쟁 반대 투표했다\"",
+    "sources": [
+     {
+      "t": "BBC",
+      "u": "https://www.bbc.co.uk/news/articles/c6d934npl9y8o?at_medium=RSS&at_campaign=rss"
+     }
+    ]
+   },
+   {
+    "date": "2026-11-04",
+    "text": "US midterms: Iran's deputy parliament speaker reacts to Trump's elections setback",
+    "ko": "미국 중간고사: 이란 부의회 의장, 트럼프 선거 패배에 반응",
+    "sources": [
+     {
+      "t": "France 24",
+      "u": "https://www.france24.com/en/video/20261104-us-midterms-iran-s-deputy-parliament-speaker-reacts-to-trump-s-elections-setback-1"
+     }
+    ]
    }
   ],
   "yemen": [
+   {
+    "date": "2026-11-04",
+    "text": "Yemeni government forces claim control of strategic al-Jawf mountain range",
+    "ko": "예멘 정부군은 전략적인 알 자와프 산맥에 대한 통제권을 주장하고 있습니다.",
+    "sources": [
+     {
+      "t": "Al Jazeera",
+      "u": "https://www.aljazeera.com/news/2026/11/4/yemeni-government-forces-claim-control-of-strategic-al-jawf-mountain-range?traffic_source=rss"
+     }
+    ]
+   },
    {
     "date": "2026-11-03",
     "text": "Yemen gov’t accuses IRGC, Hezbollah of sending 21 experts to back Houthis",
@@ -528,20 +535,31 @@
       "u": "https://www.aljazeera.com/features/2026/10/31/after-the-martyrs-funeral-the-families-left-behind-by-yemens-war?traffic_source=rss"
      }
     ]
-   },
-   {
-    "date": "2026-10-30",
-    "text": "The Saudi Arabia-led coalition announces it intercepted a drone allegedly launched by the Houthis towards the Mecca region, which the Houthis deny.",
-    "sources": [
-     {
-      "t": "Al Jazeera",
-      "u": "https://www.aljazeera.com/news/2026/10/30/saudi-arabia-reports-interception-of-houthi-drone-targeting-mecca"
-     }
-    ],
-    "ko": "사우디아라비아가 주도하는 연합군은 후티 반군이 메카 지역을 향해 발사한 것으로 알려진 드론을 요격했다고 발표했지만 후티 반군은 이를 부인했습니다."
    }
   ],
   "gaza": [
+   {
+    "date": "2026-11-04",
+    "text": "Democratic Socialists of America see record wins in US midterm elections",
+    "ko": "미국의 민주사회당이 미국 중간선거에서 기록적인 승리를 거두었습니다.",
+    "sources": [
+     {
+      "t": "Al Jazeera",
+      "u": "https://www.aljazeera.com/news/2026/11/4/democratic-socialists-of-america-see-record-wins-in-us-midterm-elections?traffic_source=rss"
+     }
+    ]
+   },
+   {
+    "date": "2026-11-04",
+    "text": "Jerusalem Daily: Mass arrests across occupied West Bank",
+    "ko": "예루살렘 데일리(Jerusalem Daily): 점령된 서안지구(West Bank) 전역에서 대규모 체포",
+    "sources": [
+     {
+      "t": "Al Jazeera",
+      "u": "https://www.aljazeera.com/video/newsfeed/2026/11/4/jerusalem-daily-mass-arrests-across-occupied-west-bank?traffic_source=rss"
+     }
+    ]
+   },
    {
     "date": "2026-11-03",
     "text": "Trump claims US will end military aid to Israel by end of this year",
@@ -651,28 +669,6 @@
       "u": "https://www.aljazeera.com/news/2026/11/1/at-least-eight-palestinians-killed-in-israeli-attacks-across-gaza?traffic_source=rss"
      }
     ]
-   },
-   {
-    "date": "2026-10-31",
-    "text": "At least four Palestinians killed in Gaza as Israeli attacks continue",
-    "ko": "이스라엘의 공격이 계속되면서 가자지구에서 팔레스타인인 최소 4명이 사망했습니다.",
-    "sources": [
-     {
-      "t": "Al Jazeera",
-      "u": "https://www.aljazeera.com/news/2026/10/31/at-least-four-palestinians-killed-in-gaza-as-israeli-attacks-continue?traffic_source=rss"
-     }
-    ]
-   },
-   {
-    "date": "2026-10-31",
-    "text": "Israel voted for Israel: Why Gaza wasn’t on the ballot",
-    "ko": "이스라엘이 이스라엘에게 투표했다: 왜 가자지구는 투표용지에 나오지 않았는가?",
-    "sources": [
-     {
-      "t": "Al Jazeera",
-      "u": "https://www.aljazeera.com/news/2026/10/31/israel-voted-for-israel-why-gaza-wasnt-on-the-ballot?traffic_source=rss"
-     }
-    ]
    }
   ],
   "delhi": [
@@ -778,6 +774,39 @@
   ],
   "westbank": [
    {
+    "date": "2026-11-04",
+    "text": "Food grown in illegal West Bank settlements being sold in Australia as ‘produce of Israel’",
+    "ko": "서안지구 불법 정착촌에서 재배한 식품, 호주에서 '이스라엘산'으로 판매",
+    "sources": [
+     {
+      "t": "The Guardian",
+      "u": "https://www.theguardian.com/australia-news/2026/nov/04/food-grown-in-settlements-west-bank-sold-in-australia-produce-of-israel-ntwnfb"
+     }
+    ]
+   },
+   {
+    "date": "2026-11-04",
+    "text": "Jerusalem Daily: Mass arrests across occupied West Bank",
+    "ko": "예루살렘 데일리(Jerusalem Daily): 점령된 서안지구(West Bank) 전역에서 대규모 체포",
+    "sources": [
+     {
+      "t": "Al Jazeera",
+      "u": "https://www.aljazeera.com/video/newsfeed/2026/11/4/jerusalem-daily-mass-arrests-across-occupied-west-bank?traffic_source=rss"
+     }
+    ]
+   },
+   {
+    "date": "2026-11-04",
+    "text": "Palestinians return to ruined Hebron homes after Israel’s 10-day siege",
+    "ko": "이스라엘의 10일간의 포위 이후 팔레스타인인들이 헤브론의 폐허가 된 집으로 돌아오고 있다",
+    "sources": [
+     {
+      "t": "Al Jazeera",
+      "u": "https://www.aljazeera.com/features/2026/11/4/palestinians-return-to-ruined-hebron-homes-after-israels-10-day-siege?traffic_source=rss"
+     }
+    ]
+   },
+   {
     "date": "2026-11-03",
     "text": "Palestinian families return home after Israeli siege of Hebron",
     "ko": "이스라엘의 헤브론 포위 이후 팔레스타인 가족들이 집으로 돌아옴",
@@ -873,39 +902,6 @@
      {
       "t": "Al Jazeera",
       "u": "https://www.aljazeera.com/news/2026/11/1/hebron-siege-continues-for-10th-day-as-israel-threatens-wider-offensive?traffic_source=rss"
-     }
-    ]
-   },
-   {
-    "date": "2026-11-01",
-    "text": "JERUSALEM DAILY: Israel continues siege and arrests in Hebron",
-    "ko": "예루살렘 매일: 이스라엘, 헤브론에서 계속 포위 공격과 체포",
-    "sources": [
-     {
-      "t": "Al Jazeera",
-      "u": "https://www.aljazeera.com/video/newsfeed/2026/11/1/jerusalem-daily-israel-continues-siege-and-arrests-in-hebron?traffic_source=rss"
-     }
-    ]
-   },
-   {
-    "date": "2026-10-31",
-    "text": "Palestinians ‘Stealing their own olives’",
-    "ko": "팔레스타인인 '자신의 올리브를 훔치다'",
-    "sources": [
-     {
-      "t": "Al Jazeera",
-      "u": "https://www.aljazeera.com/video/newsfeed/2026/10/31/palestinians-stealing-their-own?traffic_source=rss"
-     }
-    ]
-   },
-   {
-    "date": "2026-10-30",
-    "text": "Jerusalem Daily: Israel’s siege on Hebron displaces thousands",
-    "ko": "예루살렘 데일리(Jerusalem Daily): 이스라엘의 헤브론 포위로 수천 명의 난민 발생",
-    "sources": [
-     {
-      "t": "Al Jazeera",
-      "u": "https://www.aljazeera.com/video/newsfeed/2026/10/30/jerusalem-daily-israels-siege-on-hebron-displaces-thousands?traffic_source=rss"
      }
     ]
    }
@@ -1196,6 +1192,17 @@
    }
   ],
   "ethiopia": [
+   {
+    "date": "2026-11-04",
+    "text": "South Africans vote in key municipal elections",
+    "ko": "남아프리카공화국 주요 지방선거에서 투표",
+    "sources": [
+     {
+      "t": "France 24",
+      "u": "https://www.france24.com/en/south-africans-vote-in-key-municipal-elections"
+     }
+    ]
+   },
    {
     "date": "2026-11-02",
     "text": "Violence in northern Ethiopia pushing health system towards collapse: WHO",
@@ -1720,6 +1727,17 @@
    }
   ],
   "drc": [
+   {
+    "date": "2026-11-04",
+    "text": "Rwanda's army team removed from Africa league after US sanctions, NBA says",
+    "ko": "NBA \"미국의 제재로 르완다군, 아프리카리그에서 탈퇴\"",
+    "sources": [
+     {
+      "t": "BBC",
+      "u": "https://www.bbc.co.uk/news/articles/c699zdx9knmpo?at_medium=RSS&at_campaign=rss"
+     }
+    ]
+   },
    {
     "date": "2026-11-02",
     "text": "Petition to ban French right-wing TV channel clears 600,000 signatures after racist killing",
