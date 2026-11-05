@@ -1,17 +1,17 @@
 {
- "updated": "2026-11-04T23:46:12.204Z",
+ "updated": "2026-11-05T05:51:19.402Z",
  "sources": {
   "BBC": {
    "ok": true,
-   "n": 4
+   "n": 6
   },
   "Al Jazeera": {
    "ok": true,
-   "n": 10
+   "n": 8
   },
   "The Guardian": {
    "ok": true,
-   "n": 14
+   "n": 15
   },
   "DW": {
    "ok": true,
@@ -23,14 +23,231 @@
   },
   "UN News": {
    "ok": true,
-   "n": 5
+   "n": 6
   },
   "NPR": {
    "ok": true,
-   "n": 4
+   "n": 5
   }
  },
  "items": [
+  {
+   "id": "cdbb2ad09964",
+   "t": "Hong Kong activist Joshua Wong sentenced to 10 years in prison",
+   "ko": null,
+   "src": "NPR",
+   "u": "https://www.npr.org/2026/11/05/g-s1-152032/hong-kong-activist-wong-sentenced",
+   "at": "2026-11-05T05:29:56.000Z",
+   "ev": [],
+   "cc": [
+    "Hong Kong"
+   ]
+  },
+  {
+   "id": "b2d385c02ab5",
+   "t": "US midterm elections 2026 live: Democrats eye historic upset in Mississippi Senate race as Republican blame game begins",
+   "ko": null,
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/us-news/live/2026/nov/05/midterm-elections-live-latest-updates-mississippi-senate-race",
+   "at": "2026-11-05T05:27:33.000Z",
+   "ev": [
+    "iran"
+   ],
+   "cc": [
+    "United States",
+    "Iran"
+   ]
+  },
+  {
+   "id": "9e0176657cd2",
+   "t": "UK found to be ‘dangerously’ reliant on China for critical minerals needed for defence and AI",
+   "ko": "영국은 국방과 AI에 필요한 필수 광물을 중국에 '위험할 정도로' 의존하고 있는 것으로 밝혀졌습니다.",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/world/2026/nov/05/uk-dangerously-reliant-on-china-critical-minerals-military-ai-renewable-energy",
+   "at": "2026-11-05T05:00:55.000Z",
+   "ev": [],
+   "cc": [
+    "United Kingdom",
+    "China"
+   ]
+  },
+  {
+   "id": "dd7f854fb23e",
+   "t": "Protesters to join nationwide march as France braces for day of strike action",
+   "ko": "프랑스가 파업일을 준비하는 가운데 시위대도 전국 행진에 동참할 예정",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/world/2026/nov/05/protesters-france-march-strikes-education-cost-of-living",
+   "at": "2026-11-05T05:00:54.000Z",
+   "ev": [],
+   "cc": [
+    "France"
+   ]
+  },
+  {
+   "id": "bab7886ab0e6",
+   "t": "Historians say King Verica persuaded Rome to invade Britain. But could Verica actually have been a queen?",
+   "ko": "역사가들은 베리카 왕이 로마를 설득하여 영국을 침공했다고 말합니다. 하지만 베리카는 실제로 여왕이었을까요?",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/uk-news/2026/nov/05/verica-rome-invade-britain-queen-or-king",
+   "at": "2026-11-05T05:00:54.000Z",
+   "ev": [],
+   "cc": [
+    "United Kingdom"
+   ]
+  },
+  {
+   "id": "297097115c5a",
+   "t": "Zelenskyy hopes Democratic Congress will bring more US help for Ukraine",
+   "ko": "Zelenskyy는 민주당 의회가 우크라이나에 대해 미국의 더 많은 도움을 제공하기를 바랍니다",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/11/5/zelenskyy-hopes-democratic-congress-will-bring-more-us-help-for-ukraine?traffic_source=rss",
+   "at": "2026-11-05T04:49:56.000Z",
+   "ev": [
+    "ukraine"
+   ],
+   "cc": [
+    "United States",
+    "Ukraine",
+    "Russia"
+   ]
+  },
+  {
+   "id": "444853f1d6b1",
+   "t": "South Korea says it will expand naval operations closer to strait of Hormuz",
+   "ko": "한국, 호르무즈 해협 인근에서 해군 작전 확대",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/world/2026/nov/05/south-korea-to-expand-anti-piracy-unit-strait-of-hormuz",
+   "at": "2026-11-05T04:22:49.000Z",
+   "ev": [
+    "iran"
+   ],
+   "cc": [
+    "South Korea",
+    "Iran",
+    "Oman"
+   ]
+  },
+  {
+   "id": "007a0c9885d7",
+   "t": "Paraguay bank collapses with half of population’s savings",
+   "ko": "파라과이 은행, 인구 절반 저축으로 파산",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/video/newsfeed/2026/11/5/paraguay-bank-collapses-with-half-of-populations-savings?traffic_source=rss",
+   "at": "2026-11-05T04:11:45.000Z",
+   "ev": [],
+   "cc": [
+    "Paraguay"
+   ]
+  },
+  {
+   "id": "79e2afd27123",
+   "t": "Joshua Wong, face of Hong Kong's pro-democracy protests, jailed for 10 years",
+   "ko": "홍콩 민주화 시위 주역 조슈아 웡, 징역 10년 선고",
+   "src": "BBC",
+   "u": "https://www.bbc.co.uk/news/articles/cwp9g3rlp8jlo?at_medium=RSS&at_campaign=rss",
+   "at": "2026-11-05T03:56:16.000Z",
+   "ev": [],
+   "cc": [
+    "Hong Kong"
+   ]
+  },
+  {
+   "id": "e8db9958c58d",
+   "t": "Vance walks Trump tightrope with scathing election critique blaming Iran war",
+   "ko": "밴스, 이란 전쟁 비난하며 신랄한 선거 비판으로 트럼프 줄타기",
+   "src": "BBC",
+   "u": "https://www.bbc.co.uk/news/articles/crz98zqkz7z0o?at_medium=RSS&at_campaign=rss",
+   "at": "2026-11-05T03:47:56.000Z",
+   "ev": [
+    "iran"
+   ],
+   "cc": [
+    "Iran"
+   ]
+  },
+  {
+   "id": "449b627e0a32",
+   "t": "Former Israeli generals help Palestinian olive farmers",
+   "ko": "전직 이스라엘 장군들이 팔레스타인 올리브 농부들을 도왔습니다.",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/video/newsfeed/2026/11/5/former-israeli-generals-help-palestinian-olive-farmers?traffic_source=rss",
+   "at": "2026-11-05T02:52:30.000Z",
+   "ev": [
+    "westbank"
+   ],
+   "cc": [
+    "Israel",
+    "Palestine"
+   ]
+  },
+  {
+   "id": "46051b9e7fce",
+   "t": "South Korea to deploy military mission to keep Strait of Hormuz open",
+   "ko": "한국, 호르무즈 해협 개방 유지 위해 군사 임무 파견",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/asia-pacific/20261105-south-korea-military-mission-strait-of-hormuz",
+   "at": "2026-11-05T02:17:44.000Z",
+   "ev": [
+    "iran"
+   ],
+   "cc": [
+    "South Korea"
+   ]
+  },
+  {
+   "id": "100c3d8e9d56",
+   "t": "El Salvador’s Bukele touts military intervention in Haiti",
+   "ko": "엘살바도르의 부켈레, 아이티에 대한 군사개입 주장",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/11/5/el-salvadors-bukele-touts-military-intervention-in-haiti?traffic_source=rss",
+   "at": "2026-11-05T02:10:07.000Z",
+   "ev": [
+    "haiti"
+   ],
+   "cc": [
+    "El Salvador",
+    "Haiti"
+   ]
+  },
+  {
+   "id": "db3bde2c3c47",
+   "t": "Hubert Aiwanger, prominent German politician, found dead in Berlin hotel",
+   "ko": "독일 유명 정치인 후베르트 아이방거(Hubert Aiwanger)가 베를린 호텔에서 숨진 채 발견됐다.",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/world/2026/nov/05/hubert-aiwanger-dead-german-politician-berlin-hotel",
+   "at": "2026-11-05T00:53:19.000Z",
+   "ev": [],
+   "cc": [
+    "Germany"
+   ]
+  },
+  {
+   "id": "6f2c84f47350",
+   "t": "Iran war live: Khamenei says US hostility will persist after midterms",
+   "ko": "이란 전쟁 생중계: 하메네이는 미국의 적대감이 중간고사 이후에도 지속될 것이라고 말했습니다.",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/liveblog/2026/11/5/iran-war-live-trump-admits-war-caused-election-loss-but-had-to-do-it?traffic_source=rss",
+   "at": "2026-11-05T00:00:00.000Z",
+   "ev": [
+    "iran"
+   ],
+   "cc": [
+    "Iran",
+    "United States"
+   ]
+  },
+  {
+   "id": "e626a6401717",
+   "t": "Mother and daughter die after suspected grizzly bear attack in Canada",
+   "ko": "캐나다에서 회색곰 공격으로 의심되는 어머니와 딸 사망",
+   "src": "BBC",
+   "u": "https://www.bbc.co.uk/news/articles/cqvgry8k5d01o?at_medium=RSS&at_campaign=rss",
+   "at": "2026-11-04T23:50:40.000Z",
+   "ev": [],
+   "cc": [
+    "Canada"
+   ]
+  },
   {
    "id": "f8646df3b811",
    "t": "Trump blames Iran war for midterms losses",
@@ -692,6 +909,30 @@
    "cc": [
     "United Kingdom",
     "Palestine"
+   ]
+  },
+  {
+   "id": "1d796afec7fc",
+   "t": "Fuel price shock: Why developing economies are paying the most at the pump",
+   "ko": "연료 가격 충격: 개발도상국이 주유소에서 가장 많은 비용을 지불하는 이유",
+   "src": "UN News",
+   "u": "https://news.un.org/feed/view/en/story/2026/11/1168738",
+   "at": "2026-11-04T12:00:00.000Z",
+   "ev": [],
+   "cc": []
+  },
+  {
+   "id": "5ce3357606c6",
+   "t": "Syria’s undocumented children ‘pay the price’ of war and a law that shuts out mothers",
+   "ko": "시리아의 서류 미비 아동은 전쟁의 대가를 치르고 어머니를 배제하는 법",
+   "src": "UN News",
+   "u": "https://news.un.org/feed/view/en/story/2026/11/1168737",
+   "at": "2026-11-04T12:00:00.000Z",
+   "ev": [
+    "syria"
+   ],
+   "cc": [
+    "Syria"
    ]
   },
   {
@@ -1834,235 +2075,6 @@
    "at": "2026-11-03T06:33:51.000Z",
    "ev": [],
    "cc": []
-  },
-  {
-   "id": "d71c79bb1196",
-   "t": "New York child dies from measles in state’s first fatal case in 30 years",
-   "ko": "뉴욕주 30년 만에 처음으로 홍역으로 어린이 사망",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/society/2026/nov/03/new-york-child-measles-death-first-in-30-years",
-   "at": "2026-11-03T05:48:26.000Z",
-   "ev": [],
-   "cc": []
-  },
-  {
-   "id": "86d7efb15b41",
-   "t": "Israeli forces kill four in Gaza as fifth Palestinian dies of wounds",
-   "ko": "이스라엘군, 가자지구서 4명 사살, 다섯 번째 팔레스타인인 부상으로 사망",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/news/2026/11/3/israeli-forces-kill-four-in-gaza-as-fifth-palestinian-dies-of-wounds?traffic_source=rss",
-   "at": "2026-11-03T05:02:34.000Z",
-   "ev": [
-    "gaza"
-   ],
-   "cc": [
-    "Israel",
-    "Palestine"
-   ]
-  },
-  {
-   "id": "b8250a43f0a2",
-   "t": "CPJ: 'Attacks on journalists almost always precede attacks on other rights to broader population'",
-   "ko": "CPJ: '언론인에 대한 공격은 거의 항상 더 많은 사람들에 대한 다른 권리에 대한 공격보다 먼저 발생합니다'",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/video/20261103-cpj-attacks-on-journalists-almost-always-precede-attacks-on-other-rights-to-broader-population",
-   "at": "2026-11-03T05:02:12.000Z",
-   "ev": [],
-   "cc": []
-  },
-  {
-   "id": "c442a2886f69",
-   "t": "Israeli forces release Al Jazeera journalist in occupied West Bank",
-   "ko": "이스라엘군, 요르단강 서안지구에서 알자지라 기자 석방",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/news/2026/11/3/israeli-forces-arrest-al-jazeera-journalist-in-raid-on-his-west-bank-home?traffic_source=rss",
-   "at": "2026-11-03T04:25:16.000Z",
-   "ev": [
-    "westbank"
-   ],
-   "cc": [
-    "Israel",
-    "Palestine"
-   ]
-  },
-  {
-   "id": "294d63f791bf",
-   "t": "Israeli soldiers arrest Al Jazeera journalist in Hebron raids",
-   "ko": "이스라엘군, 헤브론 공습에서 알자지라 기자 체포",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/video/newsfeed/2026/11/3/israeli-soldiers-arrest-al-jazeera-journalist-in-hebron-raids?traffic_source=rss",
-   "at": "2026-11-03T03:53:09.000Z",
-   "ev": [
-    "westbank"
-   ],
-   "cc": [
-    "Israel"
-   ]
-  },
-  {
-   "id": "52ea9462ec31",
-   "t": "Tennessee national guard trained guns on dying man after guard member shot him, video shows",
-   "ko": "테네시 주 방위군은 죽어가는 남자에게 총을 쏘는 훈련을 시켰다.",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/us-news/2026/nov/02/tennessee-shooting-tyrin-johnson-video",
-   "at": "2026-11-03T03:13:06.000Z",
-   "ev": [],
-   "cc": []
-  },
-  {
-   "id": "0e6399a6311e",
-   "t": "US strikes Iran's Qeshm Island as Trump signals progress in talks",
-   "ko": "미국, 트럼프 회담 진전 신호에 이란 케심 섬 공습",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/middle-east/20261103-us-strikes-iran-qeshm-island-as-trump-signals-progress-in-talks",
-   "at": "2026-11-03T02:28:07.000Z",
-   "ev": [
-    "iran"
-   ],
-   "cc": [
-    "United States",
-    "Iran"
-   ]
-  },
-  {
-   "id": "ee4967f67bfd",
-   "t": "Explosions hit Iran’s Qeshm Island as US media report US strikes in Hormuz",
-   "ko": "미국 언론이 미국의 호르무즈 공습을 보도하자 이란 케심 섬에서 폭발이 발생했습니다.",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/news/2026/11/3/explosions-hit-irans-qeshm-island-as-us-media-report-us-strikes-in-hormuz?traffic_source=rss",
-   "at": "2026-11-03T02:25:02.000Z",
-   "ev": [
-    "iran"
-   ],
-   "cc": [
-    "Iran",
-    "United States"
-   ]
-  },
-  {
-   "id": "079dcfa45f50",
-   "t": "Thousands displaced as homes are bulldozed in India’s Assam state",
-   "ko": "인도 아삼주에서 수천 명의 이재민이 집으로 옮겨졌습니다.",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/video/newsfeed/2026/11/3/thousands-displaced-as-homes-are-bulldozed-in-indias-assam-state?traffic_source=rss",
-   "at": "2026-11-03T02:15:39.000Z",
-   "ev": [],
-   "cc": [
-    "India"
-   ]
-  },
-  {
-   "id": "33d61d25d3c6",
-   "t": "European force to hold first Ukraine support exercise in Poland",
-   "ko": "유럽군, 폴란드에서 첫 우크라이나 지원 훈련 개최",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/europe/20261103-european-force-to-hold-first-ukraine-support-exercise-in-poland",
-   "at": "2026-11-03T01:43:00.000Z",
-   "ev": [
-    "ukraine"
-   ],
-   "cc": [
-    "Ukraine",
-    "Poland",
-    "France"
-   ]
-  },
-  {
-   "id": "206cffd5934c",
-   "t": "Europe's Gen Z protesters unite over living costs, housing and employment uncertainty",
-   "ko": "유럽의 Z 세대 시위자들은 생활비, 주택 및 고용 불확실성으로 단결했습니다.",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/europe/20261103-europe-s-gen-z-protesters-unite-over-living-costs-housing-and-uncertainty-of-getting-jobs",
-   "at": "2026-11-03T01:21:48.000Z",
-   "ev": [
-    "belgium"
-   ],
-   "cc": [
-    "France",
-    "Belgium",
-    "Germany"
-   ]
-  },
-  {
-   "id": "6ebb60de6dea",
-   "t": "Russian strikes kill at least 26 in Ukraine after war's longest ceasefire ends",
-   "ko": "최장 휴전 종료 후 우크라이나에서 러시아 공습으로 최소 26명 사망",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/europe/20261103-russian-strikes-kill-26-in-ukraine-after-longest-ceasefire-ends",
-   "at": "2026-11-03T01:18:44.000Z",
-   "ev": [
-    "ukraine"
-   ],
-   "cc": [
-    "Russia",
-    "Ukraine"
-   ]
-  },
-  {
-   "id": "2308b3a724f7",
-   "t": "Multiple Russian strikes kill at least 26 at Ukraine aid centre",
-   "ko": "러시아의 여러 차례 공습으로 우크라이나 구호센터 최소 26명 사망",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/video/newsfeed/2026/11/3/multiple-russian-strikes-kill-at-least-26-at-ukraine-aid-centre?traffic_source=rss",
-   "at": "2026-11-03T01:17:57.000Z",
-   "ev": [
-    "ukraine"
-   ],
-   "cc": [
-    "Russia",
-    "Ukraine"
-   ]
-  },
-  {
-   "id": "ac89c9448e6f",
-   "t": "Man and boy arrested after One Nation volunteer allegedly attacked with baseball bat in Victoria",
-   "ko": "빅토리아에서 원네이션 자원봉사자가 야구 방망이로 공격을 가한 남성과 소년이 체포됐다.",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/australia-news/2026/nov/03/one-nation-volunteer-alleged-attack-assault-torquay-victoria-ntwnfb",
-   "at": "2026-11-03T01:09:34.000Z",
-   "ev": [],
-   "cc": []
-  },
-  {
-   "id": "9d0eb81c9039",
-   "t": "Thousands of European troops to rehearse Ukraine deployment in event of peace",
-   "ko": "유럽군 수천명, 평화시 우크라이나 배치 연습",
-   "src": "BBC",
-   "u": "https://www.bbc.co.uk/news/articles/cm3wv085ne6po?at_medium=RSS&at_campaign=rss",
-   "at": "2026-11-03T00:07:05.000Z",
-   "ev": [
-    "ukraine"
-   ],
-   "cc": [
-    "Ukraine"
-   ]
-  },
-  {
-   "id": "8330bdd3be4d",
-   "t": "AI-powered malware ‘highly likely’ to be used to hack UK infrastructure by 2028",
-   "ko": "AI 기반 악성코드, 2028년까지 영국 인프라 해킹에 사용될 가능성 '높음'",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/technology/2026/nov/03/ai-powered-malware-artificial-intelligence-hacking-critical-uk-infrastructure",
-   "at": "2026-11-03T00:01:32.000Z",
-   "ev": [],
-   "cc": [
-    "United Kingdom"
-   ]
-  },
-  {
-   "id": "0f1a935f2e2b",
-   "t": "Iran war live: Vance sees ‘progress’, Tehran says ‘ball is in US court’",
-   "ko": "이란 전쟁 라이브: Vance는 '진행'을 보고, 테헤란은 '공은 미국 법원에 있다'고 말했습니다.",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/news/liveblog/2026/11/3/iran-war-live-vance-sees-progress-in-talks-tehran-says-ball-in-us-court?traffic_source=rss",
-   "at": "2026-11-03T00:00:00.000Z",
-   "ev": [
-    "iran"
-   ],
-   "cc": [
-    "Iran",
-    "United States"
-   ]
   }
  ]
 }
