@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T05:51:19.402Z",
+ "updated": "2026-11-05T14:21:00.505Z",
  "sources": {
   "BBC": {
    "ok": true,
@@ -7,15 +7,15 @@
   },
   "Al Jazeera": {
    "ok": true,
-   "n": 8
+   "n": 12
   },
   "The Guardian": {
    "ok": true,
-   "n": 15
+   "n": 16
   },
   "DW": {
    "ok": true,
-   "n": 4
+   "n": 2
   },
   "France 24": {
    "ok": true,
@@ -23,18 +23,457 @@
   },
   "UN News": {
    "ok": true,
-   "n": 6
+   "n": 2
   },
   "NPR": {
    "ok": true,
-   "n": 5
+   "n": 4
   }
  },
  "items": [
   {
+   "id": "8220a085cff2",
+   "t": "Cyberattack: French bank says online hacking stole around $100 million",
+   "ko": "사이버 공격: 프랑스 은행은 온라인 해킹으로 약 1억 달러를 훔쳤다고 밝혔습니다.",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/cyberattack-french-bank-says-online-hacking-stole-around-100-million",
+   "at": "2026-11-05T14:09:56.000Z",
+   "ev": [],
+   "cc": [
+    "France"
+   ]
+  },
+  {
+   "id": "3284095eed78",
+   "t": "Multiple planes diverted as bomb threats to commercial flights reported across Europe – live",
+   "ko": "유럽 ​​전역에서 보고된 상업용 항공기에 대한 폭탄 위협으로 여러 대의 비행기 우회 – 실시간",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/world/live/2026/nov/05/aer-lingus-plane-bomb-threat-europe-latest-news-updates",
+   "at": "2026-11-05T14:04:31.000Z",
+   "ev": [],
+   "cc": [
+    "Italy",
+    "Belgium"
+   ]
+  },
+  {
+   "id": "dd7f854fb23e",
+   "t": "Protesters join street demonstrations across France on day of strike action",
+   "ko": "시위자들은 파업 당일 프랑스 전역의 거리 시위에 합류했습니다.",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/world/2026/nov/05/protesters-france-march-strikes-education-cost-of-living",
+   "at": "2026-11-05T14:00:13.000Z",
+   "ev": [],
+   "cc": [
+    "France"
+   ]
+  },
+  {
+   "id": "79e2afd27123",
+   "t": "Joshua Wong, face of Hong Kong's pro-democracy protests, jailed for 10 years",
+   "ko": "홍콩 민주화 시위 주역 조슈아 웡, 징역 10년 선고",
+   "src": "BBC",
+   "u": "https://www.bbc.co.uk/news/articles/cwp9g3rlp8jlo?at_medium=RSS&at_campaign=rss",
+   "at": "2026-11-05T13:51:03.000Z",
+   "ev": [],
+   "cc": [
+    "Hong Kong"
+   ]
+  },
+  {
+   "id": "97a61a9c26a1",
+   "t": "Yemen’s president sacks ministers and officers in attempt to turn tide of war",
+   "ko": "예멘 대통령, 전쟁의 흐름을 바꾸려고 장관과 장교를 해고하다",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/world/2026/nov/05/yemen-president-sacks-ministers-and-officers-houthis",
+   "at": "2026-11-05T13:47:00.000Z",
+   "ev": [
+    "iran",
+    "yemen"
+   ],
+   "cc": [
+    "Yemen",
+    "Saudi Arabia"
+   ]
+  },
+  {
+   "id": "953910621315",
+   "t": "Indonesia rushes thousands of troops to Jakarta amid wiretap scandal",
+   "ko": "인도네시아, 도청 스캔들로 수천명의 병력을 자카르타로 돌진",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/video/newsfeed/2026/11/5/indonesia-rushes-thousands-of-troops-to-jakarta-amid-wiretap-scandal?traffic_source=rss",
+   "at": "2026-11-05T13:41:24.000Z",
+   "ev": [],
+   "cc": [
+    "Indonesia"
+   ]
+  },
+  {
+   "id": "16b67c918e8f",
+   "t": "Europe’s far right has a Trump problem after Republican US midterms wipeout",
+   "ko": "유럽의 극우파는 미국 공화당의 중간고사 전멸 이후 트럼프 문제를 안고 있다",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/us-news/2026/nov/05/republican-wipeout-donald-trump-us-midterms-europe-far-right-message",
+   "at": "2026-11-05T13:36:31.000Z",
+   "ev": [],
+   "cc": [
+    "United States",
+    "France",
+    "Italy"
+   ]
+  },
+  {
+   "id": "c00bb304550b",
+   "t": "Police bodycam captures moments before deadly Russian strike in Ukraine",
+   "ko": "경찰의 바디캠은 우크라이나에서 러시아의 치명적인 공격 직전 순간을 포착합니다.",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/video/newsfeed/2026/11/5/police-bodycam-captures-moments-before-deadly-russian-strike-in-ukraine?traffic_source=rss",
+   "at": "2026-11-05T13:28:12.000Z",
+   "ev": [
+    "ukraine"
+   ],
+   "cc": [
+    "Russia",
+    "Ukraine"
+   ]
+  },
+  {
+   "id": "5f9460ad2c77",
+   "t": "Six people dead and seven injured after fire at Brooklyn home",
+   "ko": "브루클린 자택에서 화재가 발생해 6명이 숨지고 7명이 부상당했다.",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/us-news/2026/nov/05/six-people-dead-brooklyn-fire",
+   "at": "2026-11-05T13:18:45.000Z",
+   "ev": [],
+   "cc": []
+  },
+  {
+   "id": "4ddebc6b15e5",
+   "t": "Henry Nowak’s killer should have had longer sentence, court of appeal hears",
+   "ko": "헨리 노박 살해범은 더 긴 형을 선고받았어야 했다고 항소법원이 판결했다",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/law/2026/nov/05/henry-nowak-killer-vickrum-digwa-should-have-had-longer-sentence-court-of-appeal-hears",
+   "at": "2026-11-05T13:15:05.000Z",
+   "ev": [],
+   "cc": []
+  },
+  {
+   "id": "c30fa378e81d",
+   "t": "Mahmood accused of hardening rules for 200,000 successful asylum applicants",
+   "ko": "마흐무드, 성공적인 망명 신청자 20만 명에 대한 규정을 강화한 혐의로 기소",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/uk-news/2026/nov/05/shabana-mahmood-accused-hardening-immigration-plans-200000-successful-asylum-applicants",
+   "at": "2026-11-05T13:10:47.000Z",
+   "ev": [],
+   "cc": [
+    "United Kingdom"
+   ]
+  },
+  {
+   "id": "69d33865f6d0",
+   "t": "Four people, including a child, killed in Israeli attacks on Gaza",
+   "ko": "이스라엘 가자지구 공격으로 어린이 포함 4명 사망",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/11/5/four-people-including-a-child-killed-in-israeli-attacks-on-gaza?traffic_source=rss",
+   "at": "2026-11-05T13:04:52.000Z",
+   "ev": [
+    "gaza"
+   ],
+   "cc": [
+    "Israel",
+    "Palestine"
+   ]
+  },
+  {
+   "id": "ba26403f95e1",
+   "t": "France holds new strikes and protests as unions demand immediate answers",
+   "ko": "노조가 즉각적인 대응을 요구함에 따라 프랑스는 새로운 파업과 시위를 벌였습니다.",
+   "src": "BBC",
+   "u": "https://www.bbc.co.uk/news/articles/ckx2qzv835pgo?at_medium=RSS&at_campaign=rss",
+   "at": "2026-11-05T13:04:04.000Z",
+   "ev": [],
+   "cc": [
+    "France"
+   ]
+  },
+  {
+   "id": "3456c90f7b21",
+   "t": "Multiple flights in Europe diverted because of bomb threats after earlier hoaxes",
+   "ko": "유럽의 여러 항공편은 초기 사기 이후 폭탄 위협으로 인해 회항했습니다.",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/video/20261105-multiple-flights-in-europe-diverted-because-of-bomb-threats-after-earlier-hoaxes",
+   "at": "2026-11-05T12:52:44.000Z",
+   "ev": [],
+   "cc": []
+  },
+  {
+   "id": "bdf8ab61789f",
+   "t": "Trump accepts election results as Republicans face midterm reckoning | First Thing",
+   "ko": "공화당이 중간고사를 치르는 가운데 트럼프, 선거 결과 수용 | 가장 중요한 것",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/us-news/2026/nov/05/first-thing-trump-accepts-midterm-election-results",
+   "at": "2026-11-05T12:35:11.000Z",
+   "ev": [
+    "iran"
+   ],
+   "cc": [
+    "Iran",
+    "United States"
+   ]
+  },
+  {
+   "id": "b6761ba4322a",
+   "t": "New Yorkers rally against gun violence after Ghanaian teen’s killing",
+   "ko": "가나 청소년 살해 사건 이후 총기 폭력에 반대하는 뉴욕 시민들의 집회",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/video/newsfeed/2026/11/5/new-yorkers-rally-against-gun-violence-after-ghanaian-teens-killing?traffic_source=rss",
+   "at": "2026-11-05T12:25:28.000Z",
+   "ev": [],
+   "cc": []
+  },
+  {
+   "id": "4dd06a88f770",
+   "t": "Workers strike across France, hundreds of thousands expected to protest",
+   "ko": "프랑스 전역에서 노동자 파업, 수십만 명이 항의할 것으로 예상",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/11/5/workers-strike-across-france-hundreds-of-thousands-expected-to-protest?traffic_source=rss",
+   "at": "2026-11-05T12:21:13.000Z",
+   "ev": [],
+   "cc": [
+    "France"
+   ]
+  },
+  {
+   "id": "a582647bb3ef",
+   "t": "Security ⁠officer killed in stabbing attack in Jordan’s capital",
+   "ko": "요르단 수도에서 칼부림 공격으로 보안요원 사망",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/11/5/security-%e2%81%a0officer-killed-in-stabbing-attack-in-jordans-capital?traffic_source=rss",
+   "at": "2026-11-05T12:04:00.000Z",
+   "ev": [],
+   "cc": [
+    "Jordan"
+   ]
+  },
+  {
+   "id": "4d6c5216fce3",
+   "t": "Palantir harvests battlefield data that Ukraine pays for ‘with blood’",
+   "ko": "Palantir는 우크라이나가 '피로' 비용을 지불한 전장 데이터를 수집합니다.",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/11/5/palantir-mines-battlefield-intelligence-but-is-ukraine-paying-with-blood?traffic_source=rss",
+   "at": "2026-11-05T11:34:29.000Z",
+   "ev": [
+    "ukraine"
+   ],
+   "cc": [
+    "Ukraine",
+    "United States"
+   ]
+  },
+  {
+   "id": "7f115272b5bf",
+   "t": "Bomb threats cause major flight disruptions across Europe",
+   "ko": "폭발물 위협으로 인해 유럽 전역에 심각한 비행 중단 발생",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/video/20261105-bomb-threats-cause-major-flight-disruptions-across-europe",
+   "at": "2026-11-05T11:32:13.000Z",
+   "ev": [
+    "iran"
+   ],
+   "cc": [
+    "Russia",
+    "Iran"
+   ]
+  },
+  {
+   "id": "0219bd19b111",
+   "t": "Houthi missiles fired at Medina intercepted, Saudi coalition says",
+   "ko": "사우디 연합군, 메디나에서 발사된 후티 미사일 요격",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/middle-east/20261105-houthi-missiles-fired-at-medina-intercepted-saudi-coalition-says",
+   "at": "2026-11-05T11:07:22.000Z",
+   "ev": [
+    "yemen"
+   ],
+   "cc": [
+    "Saudi Arabia",
+    "Yemen"
+   ]
+  },
+  {
+   "id": "a135406d915e",
+   "t": "Sudan accuses Ethiopia of allowing RSF drone launches from its territory",
+   "ko": "수단, 에티오피아가 자국 영토에서 RSF 드론 발사를 허용했다고 비난",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/video/20261105-sudan-accuses-ethiopia-of-allowing-rsf-drone-launches-from-its-territory",
+   "at": "2026-11-05T10:42:55.000Z",
+   "ev": [
+    "sudan",
+    "ethiopia"
+   ],
+   "cc": [
+    "Sudan",
+    "Ethiopia"
+   ]
+  },
+  {
+   "id": "9dd86ff5f1ec",
+   "t": "Ethiopian families fleeing conflict face difficulties with food access",
+   "ko": "분쟁을 피해 탈출한 에티오피아 가족들은 식량 접근에 어려움을 겪고 있습니다.",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/video/20261105-ethiopian-families-fleeing-conflict-face-difficulties-with-food-access",
+   "at": "2026-11-05T10:38:41.000Z",
+   "ev": [
+    "ethiopia"
+   ],
+   "cc": [
+    "Ethiopia"
+   ]
+  },
+  {
+   "id": "358c0c3c469b",
+   "t": "Dozens dead and missing after Russian strike on Ukrainian aid centre",
+   "ko": "러시아가 우크라이나 구호센터를 공습한 뒤 수십 명이 사망하고 실종됐다.",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/video/20261105-dozens-dead-and-missing-after-russian-strike-on-ukrainian-aid-centre",
+   "at": "2026-11-05T10:34:55.000Z",
+   "ev": [
+    "ukraine"
+   ],
+   "cc": [
+    "Russia",
+    "Ukraine",
+    "United States"
+   ]
+  },
+  {
+   "id": "095910f368f9",
+   "t": "Serbian officers arrested for using ‘excessive force’ against protesters",
+   "ko": "세르비아 경찰, 시위대에 '과도한 무력' 사용 혐의로 체포",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/11/5/serbian-officers-arrested-for-using-excessive-force-against-protesters?traffic_source=rss",
+   "at": "2026-11-05T10:34:42.000Z",
+   "ev": [],
+   "cc": [
+    "Serbia"
+   ]
+  },
+  {
+   "id": "611ee32735d3",
+   "t": "Was an Italian chef really fired over refusal to put pineapple on pizza?",
+   "ko": "이탈리아 요리사가 피자에 파인애플을 넣지 않았다는 이유로 실제로 해고 되었습니까?",
+   "src": "BBC",
+   "u": "https://www.bbc.co.uk/news/videos/cmvg9yy8wpweo?at_medium=RSS&at_campaign=rss",
+   "at": "2026-11-05T10:33:21.000Z",
+   "ev": [],
+   "cc": [
+    "Italy"
+   ]
+  },
+  {
+   "id": "358c0f109e65",
+   "t": "Zelensky in Spain for talks with world leaders as Kyiv seeks to strengthen air defences",
+   "ko": "키예프가 방공 강화를 모색함에 따라 스페인의 젤렌스키는 세계 지도자들과 대화를 나눴습니다.",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/video/20261105-zelensky-in-spain-for-talks-with-world-leaders-as-kyiv-seeks-to-strengthen-air-defences",
+   "at": "2026-11-05T10:32:12.000Z",
+   "ev": [
+    "ukraine"
+   ],
+   "cc": [
+    "Spain",
+    "Ukraine",
+    "Russia"
+   ]
+  },
+  {
+   "id": "05577fe906c6",
+   "t": "After midterm stinging defeat, Trump is left to weigh his next move in Iran war",
+   "ko": "트럼프는 중간 참패 이후 이란 전쟁에서 다음 행보를 검토하게 됐다.",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/video/20261105-after-midterm-stinging-defeat-trump-is-left-to-weigh-his-next-move-in-iran-war",
+   "at": "2026-11-05T10:27:32.000Z",
+   "ev": [
+    "iran"
+   ],
+   "cc": [
+    "Iran",
+    "United States"
+   ]
+  },
+  {
+   "id": "e24eadb1154e",
+   "t": "Congress defeat: How Trump’s allies are distancing themselves from Iran war",
+   "ko": "의회 패배: 트럼프 동맹국들이 이란 전쟁에서 멀어지는 방법",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/11/5/congress-defeat-how-trumps-allies-are-distancing-themselves-from-iran-war?traffic_source=rss",
+   "at": "2026-11-05T10:24:14.000Z",
+   "ev": [
+    "iran"
+   ],
+   "cc": [
+    "Iran",
+    "United States"
+   ]
+  },
+  {
+   "id": "a88d5d4518d9",
+   "t": "Several European flights receive bomb threats, some divert",
+   "ko": "여러 유럽 항공편이 폭탄 위협을 받고 일부는 우회했습니다.",
+   "src": "DW",
+   "u": "https://www.dw.com/en/several-european-flights-receive-bomb-threats-some-divert/a-79861216?maca=en-rss-en-world-4025-rdf",
+   "at": "2026-11-05T10:10:00.000Z",
+   "ev": [],
+   "cc": []
+  },
+  {
+   "id": "029a75e7dbe1",
+   "t": "A month after Yemen government offensive began, war of attrition takes hold",
+   "ko": "예멘 정부 공세 개시 한 달 만에 소모전 발발",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/11/5/a-month-after-yemen-government-offensive-began-war-of-attrition-takes-hold?traffic_source=rss",
+   "at": "2026-11-05T09:58:18.000Z",
+   "ev": [
+    "yemen"
+   ],
+   "cc": [
+    "Yemen",
+    "Saudi Arabia"
+   ]
+  },
+  {
+   "id": "eb8477a528b4",
+   "t": "New bomb threats bring more disruption to flights across Europe",
+   "ko": "새로운 폭탄 위협으로 인해 유럽 전역의 항공편이 더 큰 혼란을 겪습니다.",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/11/5/bomb-threat-diverts-dublin-rome-flight-to-france?traffic_source=rss",
+   "at": "2026-11-05T09:50:08.000Z",
+   "ev": [],
+   "cc": [
+    "France",
+    "Italy",
+    "Bulgaria"
+   ]
+  },
+  {
+   "id": "89410fd092fb",
+   "t": "It’s Gaza, stupid",
+   "ko": "여긴 가자야, 바보야",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/opinions/2026/11/5/its-gaza-stupid?traffic_source=rss",
+   "at": "2026-11-05T09:44:33.000Z",
+   "ev": [
+    "gaza"
+   ],
+   "cc": [
+    "Palestine",
+    "Israel"
+   ]
+  },
+  {
    "id": "cdbb2ad09964",
    "t": "Hong Kong activist Joshua Wong sentenced to 10 years in prison",
-   "ko": null,
+   "ko": "홍콩 운동가 조슈아 웡에게 징역 10년 선고",
    "src": "NPR",
    "u": "https://www.npr.org/2026/11/05/g-s1-152032/hong-kong-activist-wong-sentenced",
    "at": "2026-11-05T05:29:56.000Z",
@@ -46,7 +485,7 @@
   {
    "id": "b2d385c02ab5",
    "t": "US midterm elections 2026 live: Democrats eye historic upset in Mississippi Senate race as Republican blame game begins",
-   "ko": null,
+   "ko": "2026년 미국 중간선거 실시간: 민주당은 공화당 비난 게임이 시작되면서 미시시피 상원 경선에서 역사적 혼란을 예고",
    "src": "The Guardian",
    "u": "https://www.theguardian.com/us-news/live/2026/nov/05/midterm-elections-live-latest-updates-mississippi-senate-race",
    "at": "2026-11-05T05:27:33.000Z",
@@ -69,18 +508,6 @@
    "cc": [
     "United Kingdom",
     "China"
-   ]
-  },
-  {
-   "id": "dd7f854fb23e",
-   "t": "Protesters to join nationwide march as France braces for day of strike action",
-   "ko": "프랑스가 파업일을 준비하는 가운데 시위대도 전국 행진에 동참할 예정",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/world/2026/nov/05/protesters-france-march-strikes-education-cost-of-living",
-   "at": "2026-11-05T05:00:54.000Z",
-   "ev": [],
-   "cc": [
-    "France"
    ]
   },
   {
@@ -137,18 +564,6 @@
    "ev": [],
    "cc": [
     "Paraguay"
-   ]
-  },
-  {
-   "id": "79e2afd27123",
-   "t": "Joshua Wong, face of Hong Kong's pro-democracy protests, jailed for 10 years",
-   "ko": "홍콩 민주화 시위 주역 조슈아 웡, 징역 10년 선고",
-   "src": "BBC",
-   "u": "https://www.bbc.co.uk/news/articles/cwp9g3rlp8jlo?at_medium=RSS&at_campaign=rss",
-   "at": "2026-11-05T03:56:16.000Z",
-   "ev": [],
-   "cc": [
-    "Hong Kong"
    ]
   },
   {
@@ -1700,381 +2115,6 @@
     "Canada",
     "United Kingdom"
    ]
-  },
-  {
-   "id": "b9b11c5e6c17",
-   "t": "Yemen: Houthi clashes near Taiz leave residents in a 'state of panic'",
-   "ko": "예멘: 타이즈 근처 후티 충돌로 주민들이 '공포 상태'에 빠졌습니다.",
-   "src": "DW",
-   "u": "https://www.dw.com/en/yemen-houthi-clashes-near-taiz-leave-residents-in-a-state-of-panic/a-79836913?maca=en-rss-en-world-4025-rdf",
-   "at": "2026-11-03T14:18:00.000Z",
-   "ev": [
-    "iran",
-    "yemen"
-   ],
-   "cc": [
-    "Yemen"
-   ]
-  },
-  {
-   "id": "d8decf644af0",
-   "t": "Multiple flights to European airports targeted by bomb threats",
-   "ko": "폭탄 위협의 표적이 된 유럽 공항으로의 여러 항공편",
-   "src": "DW",
-   "u": "https://www.dw.com/en/multiple-flights-to-european-airports-targeted-by-bomb-threats/a-79842434?maca=en-rss-en-world-4025-rdf",
-   "at": "2026-11-03T14:18:00.000Z",
-   "ev": [],
-   "cc": [
-    "Spain",
-    "Israel"
-   ]
-  },
-  {
-   "id": "b00441961ffe",
-   "t": "Very cold war: Who’s attacking Europe’s supermarket freezers?",
-   "ko": "매우 냉전: 유럽의 슈퍼마켓 냉동고를 공격하는 사람은 누구입니까?",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/news/2026/11/3/very-cold-war-whos-attacking-europes-supermarket-freezers?traffic_source=rss",
-   "at": "2026-11-03T14:17:29.000Z",
-   "ev": [],
-   "cc": []
-  },
-  {
-   "id": "ff83ae7c925b",
-   "t": "Who is goalkeeper Owono and will he be punished after De Miguel’s death?",
-   "ko": "골키퍼 오워노는 누구이며 데 미구엘의 죽음 이후 그는 처벌을 받게 될까요?",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/sports/2026/11/3/who-is-goalkeeper-jesus-owono-and-will-he-be-punished-after-miguels-death?traffic_source=rss",
-   "at": "2026-11-03T14:02:00.000Z",
-   "ev": [],
-   "cc": []
-  },
-  {
-   "id": "a80c9e9fe5be",
-   "t": "Europe on alert after supermarket freezers hit by cyber-attacks in 10 countries",
-   "ko": "10개국에서 슈퍼마켓 냉동고가 사이버 공격을 받은 후 유럽에 비상이 걸렸습니다.",
-   "src": "BBC",
-   "u": "https://www.bbc.co.uk/news/articles/cwy8lm1m59mvo?at_medium=RSS&at_campaign=rss",
-   "at": "2026-11-03T13:55:47.000Z",
-   "ev": [],
-   "cc": [
-    "Estonia",
-    "Sweden",
-    "Portugal"
-   ]
-  },
-  {
-   "id": "5904df709278",
-   "t": "US strikes Iran’s Qeshm Island as Vance voices optimism about a deal",
-   "ko": "Vance가 거래에 대해 낙관론을 표명함에 따라 미국은이란의 Qeshm 섬을 공격했습니다.",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/world/2026/nov/03/us-strikes-irans-qeshm-island",
-   "at": "2026-11-03T13:52:34.000Z",
-   "ev": [
-    "iran"
-   ],
-   "cc": [
-    "United States",
-    "Iran"
-   ]
-  },
-  {
-   "id": "86a09edf595a",
-   "t": "Trump says US will stop giving Israel aid after year-end",
-   "ko": "트럼프 \"미국, 연말 이후 이스라엘 지원 중단할 것\"",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/news/2026/11/3/trump-announces-that-us-will-stop-paying-israel-after-year-end?traffic_source=rss",
-   "at": "2026-11-03T13:42:05.000Z",
-   "ev": [],
-   "cc": [
-    "United States",
-    "Israel"
-   ]
-  },
-  {
-   "id": "7584627279c2",
-   "t": "Russian bombing kills 31 people at Ukraine aid centre, Kyiv says",
-   "ko": "우크라이나 구호센터서 러시아 폭탄테러로 31명 사망",
-   "src": "BBC",
-   "u": "https://www.bbc.co.uk/news/articles/cjy56dndlyz0o?at_medium=RSS&at_campaign=rss",
-   "at": "2026-11-03T13:26:19.000Z",
-   "ev": [
-    "ukraine"
-   ],
-   "cc": [
-    "Russia",
-    "Ukraine"
-   ]
-  },
-  {
-   "id": "e846802d24e8",
-   "t": "Can US midterm election really change Trump's Iran policy?",
-   "ko": "미국 중간선거가 트럼프의 이란 정책을 정말로 바꿀 수 있을까?",
-   "src": "DW",
-   "u": "https://www.dw.com/en/can-us-midterm-election-really-change-trump-s-iran-policy/a-79840683?maca=en-rss-en-world-4025-rdf",
-   "at": "2026-11-03T12:55:00.000Z",
-   "ev": [
-    "iran"
-   ],
-   "cc": [
-    "United States",
-    "Iran"
-   ]
-  },
-  {
-   "id": "0e05a4cd03db",
-   "t": "Two police officers protecting polio workers in Pakistan shot dead",
-   "ko": "파키스탄에서 소아마비 치료사를 보호하던 경찰관 2명이 총에 맞아 사망했습니다.",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/news/2026/11/3/two-police-officers-protecting-polio-workers-in-pakistan-shot-dead?traffic_source=rss",
-   "at": "2026-11-03T12:33:03.000Z",
-   "ev": [
-    "afpak"
-   ],
-   "cc": [
-    "Pakistan"
-   ]
-  },
-  {
-   "id": "8eb8876b84d0",
-   "t": "Russia bombs humanitarian hub in Ukraine, killing at least 31 people",
-   "ko": "러시아, 우크라이나 인도주의 중심지 폭격해 최소 31명 사망",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/world/2026/nov/03/russia-bombs-ukrainian-aid-centre-komyshuvakha",
-   "at": "2026-11-03T12:25:07.000Z",
-   "ev": [
-    "ukraine"
-   ],
-   "cc": [
-    "Russia",
-    "Ukraine",
-    "United States"
-   ]
-  },
-  {
-   "id": "7f24926b7b5d",
-   "t": "Grain under fire: Russian, Ukrainian Black Sea attacks threaten food supply",
-   "ko": "불타오르는 곡물: 러시아, 우크라이나 흑해 공격으로 식량 공급 위협",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/news/2026/11/3/disruptions-of-black-sea-grain-exports-spike-global-prices?traffic_source=rss",
-   "at": "2026-11-03T12:10:47.000Z",
-   "ev": [
-    "ukraine"
-   ],
-   "cc": [
-    "Russia",
-    "Ukraine"
-   ]
-  },
-  {
-   "id": "8c49739e0560",
-   "t": "Air raid alerts and attacks on schools: the devastating face of education in Ukraine",
-   "ko": "공습 경보 및 학교 공격: 우크라이나 교육의 파괴적인 모습",
-   "src": "UN News",
-   "u": "https://news.un.org/feed/view/en/story/2026/11/1168724",
-   "at": "2026-11-03T12:00:00.000Z",
-   "ev": [
-    "ukraine"
-   ],
-   "cc": [
-    "Ukraine",
-    "Russia"
-   ]
-  },
-  {
-   "id": "8a4022d64ecf",
-   "t": "World News in Brief: Children killed in Myanmar strike, new violence flares in Mozambique, an Internet affordability milestone",
-   "ko": "세계 뉴스 요약: 미얀마 파업으로 어린이 사망, 모잠비크에서 새로운 폭력 사태 발생, 인터넷 경제성의 이정표",
-   "src": "UN News",
-   "u": "https://news.un.org/feed/view/en/story/2026/11/1168729",
-   "at": "2026-11-03T12:00:00.000Z",
-   "ev": [
-    "myanmar",
-    "mozambique"
-   ],
-   "cc": [
-    "Myanmar",
-    "Mozambique"
-   ]
-  },
-  {
-   "id": "39b38f1b9ba6",
-   "t": "Married off at 14: In Yemen’s war, women and girls suffer ‘devastating consequences’",
-   "ko": "14세에 결혼: 예멘 전쟁에서 여성과 소녀들은 '파괴적인 결과'를 겪었다",
-   "src": "UN News",
-   "u": "https://news.un.org/feed/view/en/story/2026/11/1168730",
-   "at": "2026-11-03T12:00:00.000Z",
-   "ev": [
-    "yemen"
-   ],
-   "cc": [
-    "Yemen"
-   ]
-  },
-  {
-   "id": "b7e1a61bde76",
-   "t": "Haiti gang leader seeks UN talks as El Salvador sends 2,000 troops to hunt for missing soldiers",
-   "ko": "엘살바도르가 실종 군인 수색을 위해 2000명의 병력을 파견하자 아이티 갱단 지도자, 유엔 회담 모색",
-   "src": "UN News",
-   "u": "https://news.un.org/feed/view/en/story/2026/11/1168728",
-   "at": "2026-11-03T12:00:00.000Z",
-   "ev": [
-    "haiti"
-   ],
-   "cc": [
-    "Haiti",
-    "El Salvador",
-    "United States"
-   ]
-  },
-  {
-   "id": "00c9322683b1",
-   "t": "‘This is not about politics. This is about people’: UN warns of impact of deadly drone strikes in Sudan",
-   "ko": "'이것은 정치에 관한 것이 아닙니다. 이것은 사람에 관한 것입니다. 'UN은 수단에서 치명적인 드론 공격의 영향을 경고합니다.",
-   "src": "UN News",
-   "u": "https://news.un.org/feed/view/en/story/2026/11/1168731",
-   "at": "2026-11-03T12:00:00.000Z",
-   "ev": [
-    "sudan"
-   ],
-   "cc": [
-    "Sudan"
-   ]
-  },
-  {
-   "id": "8b0e9b13f19e",
-   "t": "Indian tourist killed after two helicopters collide near Everest base camp",
-   "ko": "에베레스트 베이스캠프 근처에서 헬리콥터 두 대가 충돌해 인도 관광객 사망",
-   "src": "BBC",
-   "u": "https://www.bbc.co.uk/news/articles/cmqlnx7z1549o?at_medium=RSS&at_campaign=rss",
-   "at": "2026-11-03T11:51:08.000Z",
-   "ev": [],
-   "cc": []
-  },
-  {
-   "id": "7062a3beba16",
-   "t": "US strikes Iranian island ahead of midterm elections",
-   "ko": "미국, 중간선거 앞두고 이란 섬 공습",
-   "src": "BBC",
-   "u": "https://www.bbc.co.uk/news/articles/cx240mrm3g8vo?at_medium=RSS&at_campaign=rss",
-   "at": "2026-11-03T11:33:33.000Z",
-   "ev": [
-    "iran"
-   ],
-   "cc": [
-    "United States",
-    "Iran"
-   ]
-  },
-  {
-   "id": "586cced2deb2",
-   "t": "Death toll hits 29 after Russian strike on Ukrainian aid site, with 48 still missing",
-   "ko": "러시아의 우크라이나 구호시설 공습으로 사망자 29명, 아직 48명 실종",
-   "src": "NPR",
-   "u": "https://www.npr.org/2026/11/03/g-s1-151439/russia-ukraine-war",
-   "at": "2026-11-03T11:01:14.000Z",
-   "ev": [
-    "ukraine"
-   ],
-   "cc": [
-    "Russia",
-    "Ukraine",
-    "United States"
-   ]
-  },
-  {
-   "id": "40b81c812881",
-   "t": "Could the AI boom make borrowing more expensive in Europe?",
-   "ko": "AI 붐으로 인해 유럽에서 대출 비용이 더 높아질 수 있을까요?",
-   "src": "DW",
-   "u": "https://www.dw.com/en/could-the-ai-boom-make-borrowing-more-expensive-in-europe/a-79511985?maca=en-rss-en-world-4025-rdf",
-   "at": "2026-11-03T10:27:00.000Z",
-   "ev": [],
-   "cc": [
-    "France",
-    "Germany",
-    "Italy"
-   ]
-  },
-  {
-   "id": "c9261f10df0c",
-   "t": "Henry Nowak ‘would have hated’ riots after his murder, says family",
-   "ko": "헨리 노왁은 살해 후 폭동을 '미워했을 것'이라고 가족이 말했습니다.",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/uk-news/2026/nov/03/henry-nowak-would-have-hated-riots-after-his-murder-his-says-family",
-   "at": "2026-11-03T08:14:25.000Z",
-   "ev": [],
-   "cc": []
-  },
-  {
-   "id": "8671be621ae4",
-   "t": "Major Queensland hospital to close pathology labs amid potential formaldehyde exposure investigation",
-   "ko": "포름알데히드 노출 가능성 조사로 퀸즈랜드 주요 병원 병리학 실험실 폐쇄",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/australia-news/2026/nov/03/major-queensland-hospital-to-close-pathology-labs-amid-potential-formaldehyde-exposure-investigation",
-   "at": "2026-11-03T08:11:08.000Z",
-   "ev": [],
-   "cc": []
-  },
-  {
-   "id": "395cf6025c1b",
-   "t": "Two helicopters crash near Everest base camp, killing Indian tourist",
-   "ko": "에베레스트 베이스캠프 인근 헬기 2대 추락, 인도 관광객 사망",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/video/newsfeed/2026/11/3/two-helicopters-crash-near-everest-base-camp-killing-indian-tourist?traffic_source=rss",
-   "at": "2026-11-03T07:34:36.000Z",
-   "ev": [],
-   "cc": [
-    "Nepal"
-   ]
-  },
-  {
-   "id": "bfad2b5951c1",
-   "t": "Asian Cup postponed in wake of attacks on Saudi Arabia",
-   "ko": "사우디 공격으로 아시안컵 연기",
-   "src": "BBC",
-   "u": "https://www.bbc.co.uk/sport/football/articles/c6y0e79yjg44o?at_medium=RSS&at_campaign=rss",
-   "at": "2026-11-03T07:15:17.000Z",
-   "ev": [],
-   "cc": [
-    "Saudi Arabia"
-   ]
-  },
-  {
-   "id": "7ef622d90071",
-   "t": "One dead after two helicopters collide near Mount Everest in Nepal",
-   "ko": "네팔 에베레스트 산 근처에서 헬리콥터 두 대가 충돌해 한 명이 사망했습니다.",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/news/2026/11/3/one-dead-after-two-helicopters-collide-near-mount-everest-in-nepal?traffic_source=rss",
-   "at": "2026-11-03T07:06:07.000Z",
-   "ev": [],
-   "cc": [
-    "Nepal"
-   ]
-  },
-  {
-   "id": "50a8e0346879",
-   "t": "AFC reschedules Asian Cup 2027 in Saudi Arabia amid regional conflict",
-   "ko": "AFC, 지역 갈등 속에 2027년 사우디아라비아 아시안컵 개최 일정 변경",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/sports/2026/11/3/afc-reschedules-asian-cup-2027-in-saudi-arabia-amid-regional-conflict?traffic_source=rss",
-   "at": "2026-11-03T06:55:39.000Z",
-   "ev": [
-    "yemen"
-   ],
-   "cc": [
-    "Saudi Arabia"
-   ]
-  },
-  {
-   "id": "5e123f01323d",
-   "t": "Bullock doesn’t see ‘economy cracking at this point’ – as it happened",
-   "ko": "Bullock은 '이 시점에서 경제 균열'을 보지 않습니다.",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/australia-news/live/2026/nov/03/rba-interest-rates-meeting-today-latest-news-australia-reserve-bank-cash-rate-announcement-decision-live-updates",
-   "at": "2026-11-03T06:33:51.000Z",
-   "ev": [],
-   "cc": []
   }
  ]
 }
