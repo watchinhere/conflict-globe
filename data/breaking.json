@@ -1,17 +1,17 @@
 {
- "updated": "2026-11-06T16:16:13.762Z",
+ "updated": "2026-11-06T21:37:30.868Z",
  "sources": {
   "BBC": {
    "ok": true,
-   "n": 11
+   "n": 9
   },
   "Al Jazeera": {
    "ok": true,
-   "n": 9
+   "n": 5
   },
   "The Guardian": {
    "ok": true,
-   "n": 14
+   "n": 15
   },
   "DW": {
    "ok": true,
@@ -32,15 +32,224 @@
  },
  "items": [
   {
+   "id": "43e42c428382",
+   "t": "Protesters break into Microsoft data centre site in Amsterdam",
+   "ko": "시위대, 암스테르담 마이크로소프트 데이터센터 사이트 침입",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/11/6/protesters-break-into-microsoft-data-centre-site-in-amsterdam?traffic_source=rss",
+   "at": "2026-11-06T21:04:40.000Z",
+   "ev": [],
+   "cc": []
+  },
+  {
+   "id": "5c1a467688bd",
+   "t": "Democrats blast Trump’s decision to appoint Stephen Miller as chief of staff in wake of Republican midterm rout – live",
+   "ko": "민주당은 공화당 중간 참패 이후 스티븐 밀러를 비서실장으로 임명하기로 한 트럼프의 결정을 비난했다.",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/us-news/live/2026/nov/06/us-midterm-elections-2026-democrats-blue-wave-congress-latest-news-updates",
+   "at": "2026-11-06T21:03:08.000Z",
+   "ev": [],
+   "cc": [
+    "United States"
+   ]
+  },
+  {
+   "id": "bb7780fee199",
+   "t": "Trump announces immigration hardliner Stephen Miller as new chief of staff",
+   "ko": "트럼프, 새 비서실장에 이민 강경파 스티븐 밀러 발표",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/americas/20261106-trump-announces-immigration-hardliner-stephen-miller-as-new-chief-of-staff",
+   "at": "2026-11-06T20:51:37.000Z",
+   "ev": [],
+   "cc": [
+    "United States"
+   ]
+  },
+  {
+   "id": "3567332eeba4",
+   "t": "How ‘Street Medics’ protect French protesters",
+   "ko": "'거리의 의무병'이 프랑스 시위대를 보호하는 방법",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/video/newsfeed/2026/11/6/how-street-medics-protect-french-protesters?traffic_source=rss",
+   "at": "2026-11-06T20:17:32.000Z",
+   "ev": [],
+   "cc": [
+    "France"
+   ]
+  },
+  {
+   "id": "2d3459557a70",
+   "t": "Midterms: A Maga PostMortem, Europe’s ‘Shape Shifting’ Protests",
+   "ko": "중간고사: 마가 사후 분석, 유럽의 '형태 변화' 시위",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/tv-shows/the-world-this-week/20261106-midterms-a-maga-postmortem-europe-s-shape-shifting-protests",
+   "at": "2026-11-06T20:08:32.000Z",
+   "ev": [],
+   "cc": []
+  },
+  {
+   "id": "533775c3cf0a",
+   "t": "Stephen Miller, architect of Trump’s immigration crackdown, to become White House chief of staff",
+   "ko": "트럼프의 이민 단속 설계자인 스티븐 밀러가 백악관 비서실장이 된다",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/us-news/2026/nov/06/stephen-miller-chief-of-staff-trump",
+   "at": "2026-11-06T20:06:11.000Z",
+   "ev": [],
+   "cc": [
+    "United States"
+   ]
+  },
+  {
+   "id": "0cbf74246ec8",
+   "t": "Russell Brand barrister reports himself to watchdog over clash with journalist",
+   "ko": "Russell Brand 변호사는 언론인과의 충돌로 감시단에 자신을 신고했습니다.",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/culture/2026/nov/06/russell-brand-barrister-ian-winter-reports-himself-bar-watchdog-confronting-sunday-times-journalist",
+   "at": "2026-11-06T19:59:23.000Z",
+   "ev": [],
+   "cc": []
+  },
+  {
+   "id": "4a7e1ef8907a",
+   "t": "Russell Brand suspected to have attacked at least 10 other women",
+   "ko": "러셀 브랜드는 최소 10명의 다른 여성을 공격한 혐의를 받고 있다.",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/culture/2026/nov/06/russell-brand-trial-other-women",
+   "at": "2026-11-06T19:23:24.000Z",
+   "ev": [],
+   "cc": []
+  },
+  {
+   "id": "54d6a280d177",
+   "t": "Want to have a better chat? Scientists say the secret is ‘pink noise’",
+   "ko": "더 나은 채팅을 원하시나요? 과학자들이 말하는 비결은 '핑크 노이즈'",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/science/2026/nov/06/better-conversation-study-pink-noise",
+   "at": "2026-11-06T19:00:49.000Z",
+   "ev": [],
+   "cc": []
+  },
+  {
+   "id": "51fc088bcbce",
+   "t": "Activists break into building site of Microsoft datacentre in Amsterdam",
+   "ko": "활동가들이 암스테르담의 마이크로소프트 데이터센터 건설 현장에 침입했다.",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/world/2026/nov/06/activists-break-into-building-site-of-microsoft-datacentre-in-amsterdam",
+   "at": "2026-11-06T18:51:37.000Z",
+   "ev": [],
+   "cc": []
+  },
+  {
+   "id": "8f2220bd64f4",
+   "t": "‘Message to the West’ bomb threats target European newsrooms, travel",
+   "ko": "유럽 ​​뉴스룸과 여행을 겨냥한 '서방에 보내는 메시지' 폭탄 위협",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/video/newsfeed/2026/11/6/message-to-the-west-bomb-threats-target-european-newsrooms-travel?traffic_source=rss",
+   "at": "2026-11-06T18:38:44.000Z",
+   "ev": [],
+   "cc": [
+    "Ireland",
+    "Bulgaria"
+   ]
+  },
+  {
+   "id": "811ba6d983a1",
+   "t": "Yemeni gov’t forces, Houthis trade blame for deadly strikes on Taiz market",
+   "ko": "예멘 정부군과 후티 반군, 타이즈 시장에 대한 치명적인 파업 비난",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/11/6/yemeni-govt-forces-houthis-trade-blame-for-deadly-strikes-on-taiz-market?traffic_source=rss",
+   "at": "2026-11-06T18:09:49.000Z",
+   "ev": [
+    "yemen"
+   ],
+   "cc": [
+    "Yemen"
+   ]
+  },
+  {
+   "id": "398f6302dac8",
+   "t": "US city votes to divest from Israel",
+   "ko": "미국 도시, 이스라엘로부터 매각하기로 투표",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/video/newsfeed/2026/11/6/us-city-votes-to-divest-from-israel?traffic_source=rss",
+   "at": "2026-11-06T17:40:13.000Z",
+   "ev": [],
+   "cc": [
+    "United States",
+    "Israel"
+   ]
+  },
+  {
+   "id": "c6531d850163",
+   "t": "Further bomb threats disrupt at least another 18 flights across Europe",
+   "ko": "추가 폭탄 위협으로 인해 유럽 전역에서 최소 18편 이상의 항공편이 중단되었습니다.",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/world/2026/nov/06/further-bomb-threats-disrupt-flights-across-europe",
+   "at": "2026-11-06T17:14:31.000Z",
+   "ev": [],
+   "cc": [
+    "Ireland",
+    "United Kingdom",
+    "Bulgaria"
+   ]
+  },
+  {
+   "id": "60fa5510a8eb",
+   "t": "Europe: What we know about the hoax bomb threats disrupting flights",
+   "ko": "유럽: 비행을 방해하는 가짜 폭탄 위협에 대해 우리가 알고 있는 것",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/europe-what-we-know-about-the-hoax-bomb-threats-disrupting-flights",
+   "at": "2026-11-06T16:59:02.000Z",
+   "ev": [],
+   "cc": []
+  },
+  {
+   "id": "36a09abd5702",
+   "t": "Pressure mounts on US Defence chief Hegseth after Republican election rout",
+   "ko": "공화당 선거 참패 이후 헤그세스 미 국방장관에 압력 가중",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/video/20261106-pressure-mounts-on-us-defence-chief-hegseth-after-republican-election-rout",
+   "at": "2026-11-06T16:45:03.000Z",
+   "ev": [
+    "iran"
+   ],
+   "cc": [
+    "United States",
+    "Iran"
+   ]
+  },
+  {
+   "id": "a1760aa7ee75",
+   "t": "'Chaos within aviation industry' as European air traffic hit by bomb threats",
+   "ko": "유럽 ​​항공 교통이 폭탄 위협에 타격을 입으면서 '항공 산업 내 혼란'",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/video/20261106-chaos-within-aviation-industry-as-european-air-traffic-hit-by-bomb-threats",
+   "at": "2026-11-06T16:33:20.000Z",
+   "ev": [],
+   "cc": []
+  },
+  {
    "id": "72ce0af5d0cf",
-   "t": "Bomb threats against European flights ‘likely a coordinated campaign of disruption’, Ireland says – Europe live",
-   "ko": "유럽 ​​항공편에 대한 폭탄 위협은 '협조된 혼란 캠페인 가능성이 높다'고 아일랜드는 말합니다 – 유럽 라이브",
+   "t": "Bomb threats against European flights ‘likely a coordinated campaign of disruption’, Ireland says – as it happened",
+   "ko": "유럽 ​​항공편에 대한 폭탄 위협은 '협조된 교란 캠페인일 가능성이 높다'고 아일랜드는 밝혔습니다.",
    "src": "The Guardian",
    "u": "https://www.theguardian.com/world/live/2026/nov/06/high-alert-hoax-bomb-threats-france-air-lingus-belgium-pope-leo-europe-live",
-   "at": "2026-11-06T15:53:41.000Z",
+   "at": "2026-11-06T16:26:17.000Z",
    "ev": [],
    "cc": [
     "Ireland"
+   ]
+  },
+  {
+   "id": "a379acf3d768",
+   "t": "Wounded French protesters to sue interior minister over police brutality",
+   "ko": "부상당한 프랑스 시위대, 경찰 폭력으로 내무장관 고소",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/france/20261106-wounded-french-protesters-to-sue-interior-minister-over-police-brutality",
+   "at": "2026-11-06T16:13:55.000Z",
+   "ev": [],
+   "cc": [
+    "France"
    ]
   },
   {
@@ -111,8 +320,8 @@
   },
   {
    "id": "af979b270e63",
-   "t": "European air traffic is targeted by new threats after a week of hoaxes",
-   "ko": "유럽 ​​항공 교통은 일주일 간의 사기극 이후 새로운 위협의 표적이 되었습니다.",
+   "t": "European flights and broadcasters are targeted with another wave of bomb threats",
+   "ko": "유럽의 항공편과 방송사들은 또 다른 폭탄 위협의 표적이 되었습니다.",
    "src": "NPR",
    "u": "https://www.npr.org/2026/11/06/nx-s1-6032612/europe-flights-hoaxes",
    "at": "2026-11-06T15:21:31.000Z",
@@ -258,20 +467,6 @@
    ]
   },
   {
-   "id": "c6531d850163",
-   "t": "Further bomb threats disrupt at least another 18 flights across Europe",
-   "ko": "추가 폭탄 위협으로 인해 유럽 전역에서 최소 18편 이상의 항공편이 중단되었습니다.",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/world/2026/nov/06/further-bomb-threats-disrupt-flights-across-europe",
-   "at": "2026-11-06T13:34:59.000Z",
-   "ev": [],
-   "cc": [
-    "Ireland",
-    "United Kingdom",
-    "Bulgaria"
-   ]
-  },
-  {
    "id": "c2f70f66f991",
    "t": "Ukraine raises Zaporizhia aid strike death toll to at least 50",
    "ko": "우크라이나, 자포리지아 구호 파업 사망자 수 최소 50명으로 인상",
@@ -328,6 +523,18 @@
    ],
    "cc": [
     "Iran"
+   ]
+  },
+  {
+   "id": "ea37f3e65943",
+   "t": "Russian extremist group denies sending hoax bomb threats",
+   "ko": "러시아 극단주의 단체, 가짜 폭탄 위협 발송 거부",
+   "src": "BBC",
+   "u": "https://www.bbc.co.uk/news/articles/cm2d66n0lx1yo?at_medium=RSS&at_campaign=rss",
+   "at": "2026-11-06T12:51:38.000Z",
+   "ev": [],
+   "cc": [
+    "Russia"
    ]
   },
   {
@@ -1860,251 +2067,6 @@
     "United States",
     "Palestine"
    ]
-  },
-  {
-   "id": "992279eca65e",
-   "t": "Sudan factories struggle to restart after devastating wartime losses",
-   "ko": "수단 공장은 엄청난 전쟁 손실로 인해 재가동에 어려움을 겪고 있습니다.",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/news/2026/11/4/sudan-factories-struggle-to-restart-after-devastating-wartime-losses?traffic_source=rss",
-   "at": "2026-11-04T22:31:09.000Z",
-   "ev": [
-    "sudan"
-   ],
-   "cc": [
-    "Sudan"
-   ]
-  },
-  {
-   "id": "bc4fa0beccd8",
-   "t": "Champions League: Real Madrid seal late comeback as Liverpool lose to Fenerbahce",
-   "ko": "챔피언스리그: 리버풀이 페네르바체에 패하면서 레알 마드리드가 늦게 복귀했다.",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/sport/20261104-champions-league-real-madrid-comeback-liverpool-fenerbahce",
-   "at": "2026-11-04T22:17:58.000Z",
-   "ev": [],
-   "cc": []
-  },
-  {
-   "id": "5b5b491c890b",
-   "t": "South Africans vote in key municipal elections",
-   "ko": "남아프리카공화국 주요 지방선거에서 투표",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/south-africans-vote-in-key-municipal-elections",
-   "at": "2026-11-04T21:26:13.000Z",
-   "ev": [
-    "sudan",
-    "ethiopia"
-   ],
-   "cc": [
-    "South Africa",
-    "Ethiopia",
-    "Sudan"
-   ]
-  },
-  {
-   "id": "1afac6f78eff",
-   "t": "US midterm election results live: Trump blames Iran war after losses",
-   "ko": "미국 중간선거 결과 생중계: 트럼프, 패배 후 이란 전쟁 탓",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/news/liveblog/2026/11/4/us-midterm-election-results-live-trump-reacts-as-more-results-awaited?traffic_source=rss",
-   "at": "2026-11-04T21:00:00.000Z",
-   "ev": [
-    "iran"
-   ],
-   "cc": [
-    "United States",
-    "Iran"
-   ]
-  },
-  {
-   "id": "fabcd7dc33b3",
-   "t": "Trump’s second-term playbook: Fake news, AI and attacks on his critics",
-   "ko": "트럼프의 2기 플레이북: 가짜 뉴스, AI, 비판가에 대한 공격",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/tv-shows/truth-or-fake/20261104-trump-s-second-term-playbook-fake-news-ai-and-attacks-on-his-critics",
-   "at": "2026-11-04T20:44:52.000Z",
-   "ev": [],
-   "cc": []
-  },
-  {
-   "id": "f1cf5360e3fd",
-   "t": "Serbia detains police officers over alleged use of force against protesters",
-   "ko": "세르비아, 시위대에 무력 행사 혐의로 경찰 구금",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/world/2026/nov/04/serbia-officers-protesters",
-   "at": "2026-11-04T20:42:14.000Z",
-   "ev": [],
-   "cc": [
-    "Serbia"
-   ]
-  },
-  {
-   "id": "588402d59d7b",
-   "t": "Ukraine raises death toll from Russian strike on Zaporizhia to 40 people",
-   "ko": "우크라이나, 러시아 자포리지아 공습으로 사망자 40명으로 늘어",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/news/2026/11/4/ukraine-raises-death-toll-from-russian-strike-on-zaporizhia-to-40-people?traffic_source=rss",
-   "at": "2026-11-04T20:31:56.000Z",
-   "ev": [
-    "ukraine"
-   ],
-   "cc": [
-    "Ukraine",
-    "Russia"
-   ]
-  },
-  {
-   "id": "eaa6b52280c8",
-   "t": "Will the US resume its attacks on Iran?",
-   "ko": "미국은 이란에 대한 공격을 재개할 것인가?",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/video/inside-story/2026/11/4/will-the-us-resume-its-attacks-on-iran?traffic_source=rss",
-   "at": "2026-11-04T20:25:50.000Z",
-   "ev": [
-    "iran"
-   ],
-   "cc": [
-    "United States",
-    "Iran"
-   ]
-  },
-  {
-   "id": "03ca8dc25af4",
-   "t": "Food grown in illegal West Bank settlements being sold in Australia as ‘produce of Israel’",
-   "ko": "서안지구 불법 정착촌에서 재배한 식품, 호주에서 '이스라엘산'으로 판매",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/australia-news/2026/nov/04/food-grown-in-settlements-west-bank-sold-in-australia-produce-of-israel-ntwnfb",
-   "at": "2026-11-04T20:00:43.000Z",
-   "ev": [
-    "westbank"
-   ],
-   "cc": [
-    "Palestine",
-    "Australia",
-    "Israel"
-   ]
-  },
-  {
-   "id": "e8d44099fee5",
-   "t": "Iranians celebrate Democrat victory in US midterms",
-   "ko": "이란인, 미국 중간고사에서 민주당 승리 축하",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/video/newsfeed/2026/11/4/iranians-celebrate-democrat-victory-in-us-midterms?traffic_source=rss",
-   "at": "2026-11-04T19:59:14.000Z",
-   "ev": [
-    "iran"
-   ],
-   "cc": [
-    "United States",
-    "Iran"
-   ]
-  },
-  {
-   "id": "8fa8c8ed8acd",
-   "t": "Mother and daughter killed in grizzly bear attack, Canadian authorities confirm",
-   "ko": "캐나다 당국은 회색곰의 공격으로 어머니와 딸이 사망했다고 확인했습니다.",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/world/2026/nov/04/canada-bear-attack-mother-daughter-killed",
-   "at": "2026-11-04T19:42:47.000Z",
-   "ev": [],
-   "cc": [
-    "Canada"
-   ]
-  },
-  {
-   "id": "43e490bb19da",
-   "t": "The midterms were a thumping rebuke of the US-Israel relationship",
-   "ko": "중간고사는 미국-이스라엘 관계에 대한 엄청난 질책이었다.",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/us-news/2026/nov/04/israel-relationship-midterm-elections",
-   "at": "2026-11-04T19:22:43.000Z",
-   "ev": [
-    "iran"
-   ],
-   "cc": [
-    "Israel"
-   ]
-  },
-  {
-   "id": "7eec19af0309",
-   "t": "🔴 Live: Trump says going to war in Iran was worth it, despite midterm rout",
-   "ko": "🔴 라이브: 트럼프는 중간 대패에도 불구하고 이란에서 전쟁을 벌일 가치가 있었다고 말했습니다.",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/americas/20261103-live-americans-head-to-the-polls-to-vote-in-us-midterm-elections",
-   "at": "2026-11-04T18:32:56.000Z",
-   "ev": [
-    "iran"
-   ],
-   "cc": [
-    "Iran"
-   ]
-  },
-  {
-   "id": "6f17732e22d9",
-   "t": "US midterm elections 2026 live updates: Trump ignores midterms in first remarks after stunning Republican losses; Vance blames Iran war",
-   "ko": "2026년 미국 중간선거 실시간 업데이트: 트럼프는 공화당의 엄청난 패배 이후 첫 발언에서 중간선거를 무시했습니다. 밴스는 이란 전쟁을 비난한다",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/us-news/live/2026/nov/04/midterm-elections-results-senate-house-michigan-maine-mississippi-latest-updates",
-   "at": "2026-11-04T18:01:35.000Z",
-   "ev": [
-    "iran"
-   ],
-   "cc": [
-    "United States",
-    "Iran"
-   ]
-  },
-  {
-   "id": "f1f1d78250df",
-   "t": "Danish students join European protest wave against education funding cuts",
-   "ko": "덴마크 학생들, 교육 자금 삭감에 반대하는 유럽 항의 물결에 합류",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/news/2026/11/4/danish-students-join-european-protest-wave-against-education-funding-cuts?traffic_source=rss",
-   "at": "2026-11-04T17:54:48.000Z",
-   "ev": [],
-   "cc": []
-  },
-  {
-   "id": "b1590b1a2723",
-   "t": "Presidential hopeful Vance appears to question Iran war after polls debacle",
-   "ko": "대선 후보 밴스는 여론조사가 실패한 후 이란 전쟁에 의문을 제기하는 것으로 보입니다.",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/news/2026/11/4/presidential-hopeful-vance-appears-to-question-iran-war-after-polls-debacle?traffic_source=rss",
-   "at": "2026-11-04T17:18:50.000Z",
-   "ev": [
-    "iran"
-   ],
-   "cc": [
-    "Iran",
-    "United States",
-    "Israel"
-   ]
-  },
-  {
-   "id": "12966fc8e65e",
-   "t": "JD Vance says US war on Iran is ‘real reason’ Republicans lost midterm elections",
-   "ko": "JD 밴스(JD Vance)는 미국의 이란 전쟁이 공화당이 중간선거에서 패한 '진짜 이유'라고 말했습니다.",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/us-news/2026/nov/04/jd-vance-iran-war-midterms-election",
-   "at": "2026-11-04T17:15:33.000Z",
-   "ev": [
-    "iran"
-   ],
-   "cc": [
-    "United States",
-    "Iran"
-   ]
-  },
-  {
-   "id": "260872763ff0",
-   "t": "Owono enduring ‘hardest days of my life’ after De Miguel death",
-   "ko": "드 미구엘 사망 후 '내 인생에서 가장 힘든 날'을 견디는 오워노",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/sports/2026/11/4/owono-enduring-hardest-days-of-my-life-after-de-miguel-death?traffic_source=rss",
-   "at": "2026-11-04T17:05:12.000Z",
-   "ev": [],
-   "cc": []
   }
  ]
 }
