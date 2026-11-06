@@ -1,9 +1,9 @@
 {
- "updated": "2026-11-05T21:13:42.510Z",
+ "updated": "2026-11-06T01:38:47.544Z",
  "sources": {
   "BBC": {
    "ok": true,
-   "n": 8
+   "n": 9
   },
   "Al Jazeera": {
    "ok": true,
@@ -11,7 +11,7 @@
   },
   "The Guardian": {
    "ok": true,
-   "n": 15
+   "n": 13
   },
   "DW": {
    "ok": true,
@@ -19,28 +19,121 @@
   },
   "France 24": {
    "ok": true,
-   "n": 11
+   "n": 12
   },
   "UN News": {
    "ok": true,
-   "n": 3
+   "n": 5
   },
   "NPR": {
    "ok": true,
-   "n": 3
+   "n": 2
   }
  },
  "items": [
   {
-   "id": "a49f25ad0c4a",
-   "t": "California governor commutes death sentences for all 548 people on death row",
-   "ko": "캘리포니아 주지사, 사형수 548명 모두에 대해 감형",
-   "src": "BBC",
-   "u": "https://www.bbc.co.uk/news/articles/cqrkyyd2j8mvo?at_medium=RSS&at_campaign=rss",
-   "at": "2026-11-05T21:08:34.000Z",
+   "id": "d85e0362da0f",
+   "t": "Alabama, Florida and Indiana carry out executions on same day",
+   "ko": "앨라배마·플로리다·인디애나주, 같은 날 사형 집행",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/us-news/2026/nov/05/executions-florida-alabama-indiana",
+   "at": "2026-11-06T00:27:20.000Z",
    "ev": [],
    "cc": [
     "United States"
+   ]
+  },
+  {
+   "id": "691300686fdf",
+   "t": "Iran war live: Trump warns US may have to ‘destroy’ rest of Iran",
+   "ko": "이란 전쟁 생중계: 트럼프, 미국이 이란의 나머지 부분을 '파괴'해야 할 수도 있다고 경고",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/liveblog/2026/11/6/iran-war-live-trump-warns-us-may-have-to-destroy-rest-of-iran?traffic_source=rss",
+   "at": "2026-11-06T00:00:00.000Z",
+   "ev": [
+    "iran"
+   ],
+   "cc": [
+    "Iran",
+    "United States"
+   ]
+  },
+  {
+   "id": "2b2b5e7bcef0",
+   "t": "Three in four displaced people live in climate danger zones, UN says",
+   "ko": "UN은 난민 4명 중 3명이 기후 위험 지역에 살고 있다고 밝혔습니다.",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/environment/20261105-un-displaced-people-climate-risks",
+   "at": "2026-11-05T23:34:08.000Z",
+   "ev": [],
+   "cc": [
+    "Turkey"
+   ]
+  },
+  {
+   "id": "a49f25ad0c4a",
+   "t": "California governor commutes sentences for state's 548 death row inmates",
+   "ko": "캘리포니아 주지사, 주 사형수 548명 감형",
+   "src": "BBC",
+   "u": "https://www.bbc.co.uk/news/articles/cqrkyyd2j8mvo?at_medium=RSS&at_campaign=rss",
+   "at": "2026-11-05T23:09:33.000Z",
+   "ev": [],
+   "cc": [
+    "United States"
+   ]
+  },
+  {
+   "id": "0e48bd76d816",
+   "t": "Israeli demolitions displace more than 100 Palestinians in Biddu",
+   "ko": "이스라엘의 폭파로 비두에서 팔레스타인인 100명 이상 이주",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/video/newsfeed/2026/11/5/aje-onl-nf_israeli-demolitions-displace-palestinians-in-biddu-051126?traffic_source=rss",
+   "at": "2026-11-05T21:33:40.000Z",
+   "ev": [
+    "westbank"
+   ],
+   "cc": [
+    "Israel",
+    "Palestine"
+   ]
+  },
+  {
+   "id": "e990d4bf7ee3",
+   "t": "Hoax bomb threats force emergency landings, evacuations across Europe",
+   "ko": "가짜 폭탄 위협으로 인해 유럽 전역에 비상 착륙 및 대피가 발생했습니다.",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/video/newsfeed/2026/11/5/hoax-bomb-threats-force-emergency-landings-evacuations-across-europe?traffic_source=rss",
+   "at": "2026-11-05T21:26:21.000Z",
+   "ev": [],
+   "cc": []
+  },
+  {
+   "id": "746183376196",
+   "t": "Nigeria court bars opposition candidate two months before election",
+   "ko": "나이지리아 법원, 선거 두 달 앞두고 야당 후보 출마 금지",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/nigeria-court-bars-opposition-candidate-two-months-before-election",
+   "at": "2026-11-05T21:22:18.000Z",
+   "ev": [
+    "ethiopia",
+    "nigeria"
+   ],
+   "cc": [
+    "Nigeria",
+    "Kenya",
+    "Ethiopia"
+   ]
+  },
+  {
+   "id": "643f06df6856",
+   "t": "Saudi coalition intercepts missile fired towards Medina",
+   "ko": "사우디 연합군, 메디나 향해 발사된 미사일 요격",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/11/5/saudi-coalition-intercepts-missile-fired-towards-medina?traffic_source=rss",
+   "at": "2026-11-05T20:48:47.000Z",
+   "ev": [],
+   "cc": [
+    "Saudi Arabia"
    ]
   },
   {
@@ -209,6 +302,16 @@
     "Iran",
     "United States"
    ]
+  },
+  {
+   "id": "b4bb7442d6a0",
+   "t": "Bomb hoaxes: Messages reveal how threat was passed on by air traffic control",
+   "ko": "폭발물 사기: 항공 교통 관제소가 위협을 어떻게 전달했는지 알려주는 메시지",
+   "src": "BBC",
+   "u": "https://www.bbc.co.uk/news/videos/cq398m8w41lyo?at_medium=RSS&at_campaign=rss",
+   "at": "2026-11-05T18:22:46.000Z",
+   "ev": [],
+   "cc": []
   },
   {
    "id": "155e203a7518",
@@ -678,6 +781,32 @@
    "ko": "전쟁 지역에서 물과 위생에 대한 공격이 세 배 이상 증가하면서 어린이들이 위험에 처해 있습니다.",
    "src": "UN News",
    "u": "https://news.un.org/feed/view/en/story/2026/11/1168743",
+   "at": "2026-11-05T12:00:00.000Z",
+   "ev": [],
+   "cc": []
+  },
+  {
+   "id": "4360cc32bc47",
+   "t": "World News in Brief: Korea tensions mount, UN demands answers over staff death in Yemen, Guterres in Spain, Nepal alert ahead of COP31",
+   "ko": "세계 뉴스 요약: 한국의 긴장 고조, 유엔은 예멘 직원 사망에 대한 답변 요구, 스페인의 구테레스, COP31을 앞두고 네팔 경보",
+   "src": "UN News",
+   "u": "https://news.un.org/feed/view/en/story/2026/11/1168750",
+   "at": "2026-11-05T12:00:00.000Z",
+   "ev": [
+    "yemen"
+   ],
+   "cc": [
+    "South Korea",
+    "Yemen",
+    "Spain"
+   ]
+  },
+  {
+   "id": "db4b06a2934c",
+   "t": "Abyei: Deadly drone strikes mark ‘new and concerning’ threat, UN peacekeeping chief warns",
+   "ko": "아비에이(Abyei): 치명적인 드론 공격은 '새롭고 우려되는' 위협이라고 유엔 평화유지군 사무총장이 경고",
+   "src": "UN News",
+   "u": "https://news.un.org/feed/view/en/story/2026/11/1168749",
    "at": "2026-11-05T12:00:00.000Z",
    "ev": [],
    "cc": []
@@ -2028,141 +2157,6 @@
     "United Kingdom",
     "Ukraine",
     "Russia"
-   ]
-  },
-  {
-   "id": "dbc98b1df41b",
-   "t": "Canada joins coalition refusing to play ice hockey against Russia over Ukraine war",
-   "ko": "캐나다, 우크라이나 전쟁으로 러시아와의 아이스하키 경기 거부 연합에 합류",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/world/2026/nov/04/canada-bans-russian-players-junior-ice-hockey-championships-ukraine-war",
-   "at": "2026-11-04T01:31:46.000Z",
-   "ev": [
-    "ukraine"
-   ],
-   "cc": [
-    "Canada",
-    "Russia",
-    "Ukraine"
-   ]
-  },
-  {
-   "id": "e399449b1f95",
-   "t": "Scepticism as Trump says he’s ending Israel’s $3.8 bn military aid deal",
-   "ko": "트럼프가 이스라엘의 38억 달러 규모의 군사 지원 계약을 종료하겠다고 말하자 회의론이 제기됐다.",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/video/newsfeed/2026/11/4/scepticism-as-trump-says-hes-ending-israels-3-8-bn-military-aid-deal?traffic_source=rss",
-   "at": "2026-11-04T01:13:49.000Z",
-   "ev": [],
-   "cc": [
-    "Israel",
-    "United States"
-   ]
-  },
-  {
-   "id": "29f03273177a",
-   "t": "Bomb threats disrupt flights across Europe, no explosive devices found",
-   "ko": "폭발물 위협으로 인해 유럽 전역의 항공편이 중단되고 폭발 장치가 발견되지 않음",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/news/2026/11/4/bomb-threats-disrupt-flights-across-europe-no-explosive-devices-found?traffic_source=rss",
-   "at": "2026-11-04T00:35:44.000Z",
-   "ev": [],
-   "cc": []
-  },
-  {
-   "id": "ac851c0f80b6",
-   "t": "Canva layoffs: design giant to cut or relocate more than 1,200 jobs in major restructure",
-   "ko": "Canva 정리해고: 대대적인 구조 조정을 통해 1,200개 이상의 일자리를 삭감하거나 재배치하는 거대 기업을 설계하세요",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/australia-news/2026/nov/04/canva-layoffs-job-cuts-restructure",
-   "at": "2026-11-04T00:14:49.000Z",
-   "ev": [],
-   "cc": []
-  },
-  {
-   "id": "d5a29ca6b4fd",
-   "t": "Iran war live: Tehran prepares ‘maximum deterrence’ plan for any new attack",
-   "ko": "이란 전쟁 라이브: 테헤란은 새로운 공격에 대한 '최대 억지' 계획을 준비하고 있습니다.",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/news/liveblog/2026/11/4/iran-war-live-tehran-prepares-maximum-deterrence-plan-for-any-new-attack?traffic_source=rss",
-   "at": "2026-11-04T00:00:00.000Z",
-   "ev": [
-    "iran"
-   ],
-   "cc": [
-    "Iran",
-    "United States"
-   ]
-  },
-  {
-   "id": "e794a0119d2d",
-   "t": "Japan faces diplomatic dilemma amid joint pressure from nuclear neighbors",
-   "ko": "일본, 핵 이웃 국가들의 공동 압력으로 외교적 딜레마에 직면",
-   "src": "NPR",
-   "u": "https://www.npr.org/2026/11/03/nx-s1-6012016/japan-faces-diplomatic-dilemma-amid-joint-pressure-from-nuclear-neighbors",
-   "at": "2026-11-03T22:25:15.000Z",
-   "ev": [
-    "ukraine"
-   ],
-   "cc": [
-    "Japan",
-    "Ukraine",
-    "Russia"
-   ]
-  },
-  {
-   "id": "e339c8ca95fa",
-   "t": "One dead and another missing in suspected grizzly bear attack in Canada",
-   "ko": "캐나다에서 회색곰 공격으로 의심되는 1명 사망 및 1명 실종",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/world/2026/nov/03/grizzly-bear-attack-canada",
-   "at": "2026-11-03T22:08:50.000Z",
-   "ev": [],
-   "cc": [
-    "Canada"
-   ]
-  },
-  {
-   "id": "9f8e9ab53c97",
-   "t": "Voter turnout surges in US midterm elections with control of Congress at stake – live",
-   "ko": "의회 통제권이 걸린 미국 중간선거에서 유권자 투표율 급증 – 실시간",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/us-news/live/2026/nov/03/midterm-elections-live-updates-voting",
-   "at": "2026-11-03T22:08:02.000Z",
-   "ev": [
-    "iran"
-   ],
-   "cc": [
-    "United States",
-    "Georgia",
-    "Iran"
-   ]
-  },
-  {
-   "id": "6756cd00b2f9",
-   "t": "Reform UK councillor charged with 12 counts of rape and multiple other offences",
-   "ko": "영국 개혁 의원, 12건의 강간 및 기타 여러 범죄 혐의로 기소",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/uk-news/2026/nov/03/reform-uk-councillor-george-madgwick-charged-12-counts-rape",
-   "at": "2026-11-03T22:04:24.000Z",
-   "ev": [],
-   "cc": [
-    "United Kingdom"
-   ]
-  },
-  {
-   "id": "8ba9d62f52ea",
-   "t": "President Zelenskyy says US elections will impact war in Ukraine",
-   "ko": "젤렌스키 대통령 \"미국 선거가 우크라이나 전쟁에 영향 미칠 것\"",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/video/newsfeed/2026/11/3/president-zelenskyy-says-us-elections-will-impact-war-in-ukraine?traffic_source=rss",
-   "at": "2026-11-03T21:43:19.000Z",
-   "ev": [
-    "ukraine"
-   ],
-   "cc": [
-    "United States",
-    "Ukraine"
    ]
   }
  ]
