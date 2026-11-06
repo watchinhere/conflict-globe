@@ -1,17 +1,17 @@
 {
- "updated": "2026-11-06T01:38:47.544Z",
+ "updated": "2026-11-06T08:31:31.808Z",
  "sources": {
   "BBC": {
    "ok": true,
-   "n": 9
+   "n": 10
   },
   "Al Jazeera": {
    "ok": true,
-   "n": 10
+   "n": 2
   },
   "The Guardian": {
    "ok": true,
-   "n": 13
+   "n": 17
   },
   "DW": {
    "ok": true,
@@ -19,7 +19,7 @@
   },
   "France 24": {
    "ok": true,
-   "n": 12
+   "n": 10
   },
   "UN News": {
    "ok": true,
@@ -31,6 +31,126 @@
   }
  },
  "items": [
+  {
+   "id": "f3372422aec8",
+   "t": "Death a ‘distinct possibility’ in collision running and face-slapping competitions, inquiry hears",
+   "ko": "충돌 달리기와 얼굴 때리기 경쟁에서 죽음은 '뚜렷한 가능성'이라는 조사가 들었습니다.",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/australia-news/2026/nov/06/run-nation-power-slap-combat-sports-safety-inquiry-nsw",
+   "at": "2026-11-06T08:23:10.000Z",
+   "ev": [],
+   "cc": []
+  },
+  {
+   "id": "5a56f3812c17",
+   "t": "Melania Trump calls for lasting Ukraine truce as she hosts Russian and Ukrainian officials",
+   "ko": "멜라니아 트럼프는 러시아와 우크라이나 관리들을 초대하면서 우크라이나의 지속적인 휴전을 촉구했습니다.",
+   "src": "BBC",
+   "u": "https://www.bbc.co.uk/news/articles/c9p8g085mz07o?at_medium=RSS&at_campaign=rss",
+   "at": "2026-11-06T07:56:19.000Z",
+   "ev": [
+    "ukraine"
+   ],
+   "cc": [
+    "Ukraine",
+    "Russia",
+    "United States"
+   ]
+  },
+  {
+   "id": "3a7b00a96496",
+   "t": "Major construction ongoing near Iran missile bases, satellite images suggest",
+   "ko": "이란 미사일 기지 근처에서 진행 중인 주요 건설, 위성 이미지에 따르면",
+   "src": "BBC",
+   "u": "https://www.bbc.co.uk/news/articles/ckjrwx1r2d5ro?at_medium=RSS&at_campaign=rss",
+   "at": "2026-11-06T07:33:41.000Z",
+   "ev": [
+    "iran"
+   ],
+   "cc": [
+    "Iran"
+   ]
+  },
+  {
+   "id": "824b61744ffb",
+   "t": "Friday briefing: ​After a week of disruption, is living with threats our new normal?",
+   "ko": "금요일 브리핑: 일주일 간의 혼란이 지나고 위협을 안고 살아가는 것이 새로운 일상이 되었나요?",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/world/2026/nov/06/friday-briefing-after-a-week-of-disruption-is-living-with-threats-our-new-normal",
+   "at": "2026-11-06T06:43:04.000Z",
+   "ev": [
+    "yemen"
+   ],
+   "cc": [
+    "Belgium",
+    "Sweden",
+    "United Kingdom"
+   ]
+  },
+  {
+   "id": "c88026a9b84d",
+   "t": "Bondi beach shooting: Eva Geller, 90, shot during massacre dies in hospital year after antisemitic attack",
+   "ko": "본다이 해변 총격 사건: 학살 도중 총에 맞은 90세 에바 겔러, 반유대주의 공격 1년 만에 병원에서 사망",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/australia-news/2026/nov/06/bondi-beach-shooting-woman-dies-year-after-terror-attack-ntwnfb",
+   "at": "2026-11-06T06:26:03.000Z",
+   "ev": [],
+   "cc": []
+  },
+  {
+   "id": "cd93e4041065",
+   "t": "Police turn to charities for help with teenagers caught up in online child abuse",
+   "ko": "경찰은 온라인 아동 학대에 휘말린 십대들을 돕기 위해 자선 단체에 도움을 요청합니다",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/society/2026/nov/06/police-charities-pornography-online-child-abuse",
+   "at": "2026-11-06T06:00:44.000Z",
+   "ev": [],
+   "cc": []
+  },
+  {
+   "id": "e5717fc7abd4",
+   "t": "Iraq’s al-Zaidi talks to Trump as Baghdad seeks to stay out of war on Iran",
+   "ko": "바그다드가 이란과의 전쟁을 중단하려고 하는 가운데 이라크의 알자이디가 트럼프와 대화하다",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/11/6/iraqs-al-zaidi-talks-to-trump-as-baghdad-seeks-to-stay-out-of-war-on-iran?traffic_source=rss",
+   "at": "2026-11-06T05:00:47.000Z",
+   "ev": [
+    "iran"
+   ],
+   "cc": [
+    "Iraq",
+    "Iran",
+    "United States"
+   ]
+  },
+  {
+   "id": "b739dcae1dc7",
+   "t": "Australia faces same issues that flipped control of US Congress in midterms, experts say",
+   "ko": "호주는 중간선거에서 미국 의회의 통제권을 뒤집은 것과 동일한 문제에 직면해 있다고 전문가들은 말합니다.",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/australia-news/2026/nov/06/us-midterms-warning-for-australia-cost-of-living-fuel-prices",
+   "at": "2026-11-06T04:45:24.000Z",
+   "ev": [
+    "iran"
+   ],
+   "cc": [
+    "Australia",
+    "United States",
+    "Iran"
+   ]
+  },
+  {
+   "id": "e8c0c67decf9",
+   "t": "California governor commutes sentences of more than 500 people on death row",
+   "ko": "캘리포니아 주지사, 사형수 500명 이상 감형",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/11/6/california-governor-commutes-sentences-of-more-than-500-people-on-death-row?traffic_source=rss",
+   "at": "2026-11-06T01:39:35.000Z",
+   "ev": [],
+   "cc": [
+    "United States"
+   ]
+  },
   {
    "id": "d85e0362da0f",
    "t": "Alabama, Florida and Indiana carry out executions on same day",
@@ -60,8 +180,8 @@
   },
   {
    "id": "2b2b5e7bcef0",
-   "t": "Three in four displaced people live in climate danger zones, UN says",
-   "ko": "UN은 난민 4명 중 3명이 기후 위험 지역에 살고 있다고 밝혔습니다.",
+   "t": "Three-quarters of world's displaced people face severe climate risks, UN says",
+   "ko": "유엔 \"세계 난민 4분의 3, 심각한 기후위험 직면해 있다\"",
    "src": "France 24",
    "u": "https://www.france24.com/en/environment/20261105-un-displaced-people-climate-risks",
    "at": "2026-11-05T23:34:08.000Z",
@@ -273,22 +393,6 @@
    ]
   },
   {
-   "id": "5a56f3812c17",
-   "t": "Melania Trump calls for lasting Ukraine truce as she hosts Russian and Ukrainian officials",
-   "ko": "멜라니아 트럼프는 러시아와 우크라이나 관리들을 초대하면서 우크라이나의 지속적인 휴전을 촉구했습니다.",
-   "src": "BBC",
-   "u": "https://www.bbc.co.uk/news/articles/c9p8g085mz07o?at_medium=RSS&at_campaign=rss",
-   "at": "2026-11-05T19:08:08.000Z",
-   "ev": [
-    "ukraine"
-   ],
-   "cc": [
-    "Ukraine",
-    "Russia",
-    "United States"
-   ]
-  },
-  {
    "id": "ee34a295b1d8",
    "t": "Iran says tankers struck in Hormuz amid fears of new US attack",
    "ko": "이란, 미국의 새로운 공격 우려로 유조선 호르무즈 공격",
@@ -315,8 +419,8 @@
   },
   {
    "id": "155e203a7518",
-   "t": "Bomb threats disrupt at least 25 flights across Europe, raising hybrid war fears",
-   "ko": "폭탄 위협으로 인해 유럽 전역에서 최소 25편의 항공편이 중단되어 하이브리드 전쟁에 대한 우려가 커지고 있습니다.",
+   "t": "Bomb threats disrupt dozens of flights across Europe, raising hybrid war fears",
+   "ko": "폭탄 위협으로 인해 유럽 전역에서 수십 편의 항공편이 중단되어 하이브리드 전쟁에 대한 두려움이 높아졌습니다.",
    "src": "The Guardian",
    "u": "https://www.theguardian.com/world/2026/nov/05/bomb-threats-disrupt-flights-across-europe-and-renew-hybrid-warfare-fears",
    "at": "2026-11-05T18:17:36.000Z",
@@ -419,8 +523,8 @@
   },
   {
    "id": "1193f1374eb7",
-   "t": "Paraguay's president Peña impeached moments after resigning over banking scandal",
-   "ko": "파라과이 페냐 대통령, 은행 스캔들로 사임 직후 탄핵",
+   "t": "Paraguay's president Pena impeached after resigning over banking scandal",
+   "ko": "파라과이 페냐 대통령, 은행 스캔들로 사임한 뒤 탄핵",
    "src": "France 24",
    "u": "https://www.france24.com/en/americas/20261105-paraguay-s-president-pe%C3%B1a-impeached-moments-after-resigning-amid-banking-scandal",
    "at": "2026-11-05T17:33:53.000Z",
@@ -503,13 +607,15 @@
   },
   {
    "id": "f195e510916f",
-   "t": "Navi Pillay: Fighting violence with justice",
-   "ko": "Navi Pillay: 정의로 폭력에 맞서 싸우다",
+   "t": "Nobel laureate Navi Pillay on fighting violence with justice",
+   "ko": "정의로 폭력에 맞서 싸우는 노벨상 수상자 나비 필레이(Navi Pillay)",
    "src": "France 24",
    "u": "https://www.france24.com/en/navi-pillay-fighting-violence-with-justice",
    "at": "2026-11-05T16:12:59.000Z",
    "ev": [],
-   "cc": []
+   "cc": [
+    "United States"
+   ]
   },
   {
    "id": "cad817701765",
@@ -2055,108 +2161,6 @@
     "Iran",
     "United States",
     "France"
-   ]
-  },
-  {
-   "id": "abd27f32f777",
-   "t": "Four oil tankers destroyed in Hormuz after hitting mines, Tehran says",
-   "ko": "호르무즈에서 유조선 4척이 지뢰에 부딪혀 파괴됐다고 테헤란이 밝혔습니다.",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/middle-east/20261104-four-oil-tankers-destroyed-in-hormuz-after-hitting-mines-tehran-says",
-   "at": "2026-11-04T08:43:31.000Z",
-   "ev": [
-    "iran"
-   ],
-   "cc": [
-    "United States",
-    "Iran"
-   ]
-  },
-  {
-   "id": "5bf2f4786a3a",
-   "t": "Progressive Abdul El-Sayed wins Michigan Senate race to become first Muslim US senator",
-   "ko": "진보 성향의 압둘 엘 사이드(Abdul El-Sayed)가 미시간 상원 경선에서 승리해 미국 최초의 무슬림 상원의원이 됐다.",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/us-news/2026/nov/03/abdul-el-sayed-mike-rogers-michigan-senate",
-   "at": "2026-11-04T08:42:22.000Z",
-   "ev": [],
-   "cc": [
-    "United States"
-   ]
-  },
-  {
-   "id": "dd5dc72bba21",
-   "t": "Palestinians return to ruined Hebron homes after Israel’s 10-day siege",
-   "ko": "이스라엘의 10일간의 포위 이후 팔레스타인인들이 헤브론의 폐허가 된 집으로 돌아오고 있다",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/features/2026/11/4/palestinians-return-to-ruined-hebron-homes-after-israels-10-day-siege?traffic_source=rss",
-   "at": "2026-11-04T08:22:15.000Z",
-   "ev": [
-    "westbank"
-   ],
-   "cc": [
-    "Israel"
-   ]
-  },
-  {
-   "id": "0a9b9fa0aa63",
-   "t": "M&S takes more than a year to recover from cyber-attack as profits bounce back to £355m",
-   "ko": "M&S는 수익이 £355m로 회복되면서 사이버 공격으로부터 복구하는 데 1년 이상이 소요됩니다.",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/business/2026/nov/04/m-and-s-recover-from-cyber-attack-profits-bounce-back",
-   "at": "2026-11-04T08:17:14.000Z",
-   "ev": [],
-   "cc": []
-  },
-  {
-   "id": "788172991436",
-   "t": "South Carolina elects Democratic senator for first time in almost three decades",
-   "ko": "사우스캐롤라이나주, 거의 30년 만에 처음으로 민주당 상원의원 선출",
-   "src": "BBC",
-   "u": "https://www.bbc.co.uk/news/articles/cjy56z440nl9o?at_medium=RSS&at_campaign=rss",
-   "at": "2026-11-04T07:32:02.000Z",
-   "ev": [],
-   "cc": []
-  },
-  {
-   "id": "3c143eb330ed",
-   "t": "Trump congratulates Democrats on midterms win, says Iran war played role",
-   "ko": "트럼프, 민주당 중간선거 승리 축하…이란 전쟁도 영향 있었다",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/americas/20261104-trump-congratulates-democrats-on-midterms-win-says-iran-war-played-role",
-   "at": "2026-11-04T07:13:41.000Z",
-   "ev": [
-    "iran"
-   ],
-   "cc": [
-    "Iran",
-    "United States"
-   ]
-  },
-  {
-   "id": "01ebf5a5673d",
-   "t": "Kate McClymont questioned over ‘nail in the coffin’ and poo emoji texts at Alan Jones trial",
-   "ko": "케이트 맥클리몬트(Kate McClymont)는 앨런 존스(Alan Jones) 재판에서 '관 속의 못'과 똥 이모티콘 텍스트에 대해 질문했습니다.",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/australia-news/2026/nov/04/alan-jones-trial-kate-mcclymont-nail-in-coffin-ntwnfb",
-   "at": "2026-11-04T06:23:40.000Z",
-   "ev": [],
-   "cc": []
-  },
-  {
-   "id": "3b1ab1c3382e",
-   "t": "UK apologises to Ukrainian child refugees who were told to study Russian",
-   "ko": "영국, 러시아어 공부하라는 지시를 받은 우크라이나 난민 어린이들에게 사과",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/education/2026/nov/04/ukrainian-gcse-uk-apologises-child-refugees",
-   "at": "2026-11-04T05:00:25.000Z",
-   "ev": [
-    "ukraine"
-   ],
-   "cc": [
-    "United Kingdom",
-    "Ukraine",
-    "Russia"
    ]
   }
  ]
