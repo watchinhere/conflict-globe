@@ -1,7 +1,51 @@
 {
- "updated": "2026-11-06",
+ "updated": "2026-11-07",
  "news": {
   "ukraine": [
+   {
+    "date": "2026-11-06",
+    "text": "Czech arms makers set sights on space defense in bid to sustain Ukraine-driven arms boom",
+    "ko": "체코 무기 제조업체, 우크라이나 주도의 무기 붐을 유지하기 위해 우주 방어에 주목",
+    "sources": [
+     {
+      "t": "DW",
+      "u": "https://www.dw.com/en/czech-arms-makers-set-sights-on-space-defense-in-bid-to-sustain-ukraine-driven-arms-boom/a-79876035?maca=en-rss-en-world-4025-rdf"
+     }
+    ]
+   },
+   {
+    "date": "2026-11-06",
+    "text": "Ukraine raises Zaporizhia aid strike death toll to at least 50",
+    "ko": "우크라이나, 자포리지아 구호 파업 사망자 수 최소 50명으로 인상",
+    "sources": [
+     {
+      "t": "Al Jazeera",
+      "u": "https://www.aljazeera.com/news/2026/11/6/ukraine-raises-zaporizhia-aid-strike-death-toll-to-at-least-50?traffic_source=rss"
+     }
+    ]
+   },
+   {
+    "date": "2026-11-06",
+    "text": "Death toll rises to 50 in Russian attack on aid distribution ‌point in Ukraine",
+    "ko": "러시아, 우크라이나 구호물자 배급소 공격으로 사망자 50명으로 늘어",
+    "sources": [
+     {
+      "t": "France 24",
+      "u": "https://www.france24.com/en/europe/20261106-death-toll-rises-to-50-in-russian-attack-on-aid-distribution-point-in-ukraine"
+     }
+    ]
+   },
+   {
+    "date": "2026-11-05",
+    "text": "Belarus sentences Roman Catholic priest Anatoly Parakhnevich to three years in prison for opposing the war in Ukraine.",
+    "sources": [
+     {
+      "t": "AP",
+      "u": "https://apnews.com/article/belarus-catholic-priest-crackdown-lukashenko-ukraine-war-0cbca46fc4d8125dfa53ec626232b11e"
+     }
+    ],
+    "ko": "벨로루시는 우크라이나 전쟁에 반대한 혐의로 로마 가톨릭 신부 아나톨리 파라크네비치에게 징역 3년을 선고했습니다."
+   },
    {
     "date": "2026-11-05",
     "text": "Belarus sentences Roman Catholic Priest Anatoly Parakhnevich to three years in prison for opposing the war in Ukraine.",
@@ -89,53 +133,20 @@
       "u": "https://www.france24.com/en/video/20261105-zelensky-in-spain-for-talks-with-world-leaders-as-kyiv-seeks-to-strengthen-air-defences"
      }
     ]
-   },
-   {
-    "date": "2026-11-05",
-    "text": "Zelenskyy hopes Democratic Congress will bring more US help for Ukraine",
-    "ko": "Zelenskyy는 민주당 의회가 우크라이나에 대해 미국의 더 많은 도움을 제공하기를 바랍니다",
-    "sources": [
-     {
-      "t": "Al Jazeera",
-      "u": "https://www.aljazeera.com/news/2026/11/5/zelenskyy-hopes-democratic-congress-will-bring-more-us-help-for-ukraine?traffic_source=rss"
-     }
-    ]
-   },
-   {
-    "date": "2026-11-04",
-    "text": "Ukraine says bodycam video shows deadly Russian double-tap bombing",
-    "ko": "우크라이나, 바디캠 영상에 러시아의 이중 탭 폭격 장면이 담겨 있다고 주장",
-    "sources": [
-     {
-      "t": "BBC",
-      "u": "https://www.bbc.co.uk/news/articles/c98rz6penv86o?at_medium=RSS&at_campaign=rss"
-     }
-    ]
-   },
-   {
-    "date": "2026-11-04",
-    "text": "Ukraine raises death toll from Russian strike on Zaporizhia to 40 people",
-    "ko": "우크라이나, 러시아 자포리지아 공습으로 사망자 40명으로 늘어",
-    "sources": [
-     {
-      "t": "Al Jazeera",
-      "u": "https://www.aljazeera.com/news/2026/11/4/ukraine-raises-death-toll-from-russian-strike-on-zaporizhia-to-40-people?traffic_source=rss"
-     }
-    ]
-   },
-   {
-    "date": "2026-11-04",
-    "text": "Ukrainian strikes kill three in Russia’s Belgorod region",
-    "ko": "우크라이나 공습으로 러시아 벨고로드 지역 3명 사망",
-    "sources": [
-     {
-      "t": "Al Jazeera",
-      "u": "https://www.aljazeera.com/news/2026/11/4/ukrainian-strikes-kill-three-in-russias-belgorod-region?traffic_source=rss"
-     }
-    ]
    }
   ],
   "sudan": [
+   {
+    "date": "2026-11-06",
+    "text": "Sudan’s suffering is plain for all to see say aid teams, as brutal war continues",
+    "ko": "잔혹한 전쟁이 계속되는 가운데 수단의 고통은 구호팀의 모습을 모두가 쉽게 볼 수 있습니다.",
+    "sources": [
+     {
+      "t": "UN News",
+      "u": "https://news.un.org/feed/view/en/story/2026/11/1168753"
+     }
+    ]
+   },
    {
     "date": "2026-11-05",
     "text": "Sudan accuses Ethiopia of allowing RSF drone launches from its territory",
@@ -256,154 +267,176 @@
       "u": "https://www.aljazeera.com/features/2026/10/31/studios-destroyed-traditions-saved-artists-fight-to-save-sudans-culture?traffic_source=rss"
      }
     ]
-   },
-   {
-    "date": "2026-10-30",
-    "text": "Sudanese diaspora and human rights groups denounce UAE nominee for UN top job",
-    "ko": "수단 디아스포라 및 인권 단체, 유엔 최고 직책에 UAE 후보자 비난",
-    "sources": [
-     {
-      "t": "The Guardian",
-      "u": "https://www.theguardian.com/world/2026/oct/30/sudanese-diaspora-human-rights-groups-denounce-uae-nominee-un-top-job"
-     }
-    ]
    }
   ],
   "iran": [
    {
-    "date": "2026-11-05",
-    "text": "Trump administration holds secret talks to deport Iranians even as war presses on, court documents show",
-    "ko": "법원 문서에 따르면 트럼프 행정부는 전쟁이 계속되는 와중에도 이란인들을 추방하기 위해 비밀 회담을 진행 중이다.",
+    "date": "2026-11-06",
+    "text": "Pressure mounts on US Defence chief Hegseth after Republican election rout",
+    "ko": "공화당 선거 참패 이후 헤그세스 미 국방장관에 압력 가중",
     "sources": [
      {
-      "t": "The Guardian",
-      "u": "https://www.theguardian.com/us-news/2026/nov/05/trump-administration-deport-iranians"
+      "t": "France 24",
+      "u": "https://www.france24.com/en/video/20261106-pressure-mounts-on-us-defence-chief-hegseth-after-republican-election-rout"
      }
     ]
    },
    {
-    "date": "2026-11-05",
-    "text": "Who could be behind hoax bomb threats to European air travel?",
-    "ko": "유럽 ​​항공 여행에 대한 가짜 폭탄 위협 뒤에 누가 있을 수 있습니까?",
+    "date": "2026-11-06",
+    "text": "US Defence Secretary Pete Hegseth's future in question after midterms setback",
+    "ko": "중간고사 차질 이후 피트 헤그세스 미 국방장관의 미래가 불투명하다",
+    "sources": [
+     {
+      "t": "France 24",
+      "u": "https://www.france24.com/en/video/20261106-us-defence-secretary-pete-hegseth-s-future-in-question-after-midterms-setback"
+     }
+    ]
+   },
+   {
+    "date": "2026-11-06",
+    "text": "Russia to UAE, Iran steps up diplomacy amid Trump threats: What we know",
+    "ko": "러시아-UAE, 이란, 트럼프 위협 속에 외교 강화: 우리가 알고 있는 것",
+    "sources": [
+     {
+      "t": "Al Jazeera",
+      "u": "https://www.aljazeera.com/news/2026/11/6/russia-to-uae-iran-steps-up-diplomacy-amid-trump-threats-what-we-know?traffic_source=rss"
+     }
+    ]
+   },
+   {
+    "date": "2026-11-06",
+    "text": "For people in Iran, a constant threat of war and dearth of information",
+    "ko": "이란 사람들에게는 끊임없는 전쟁 위협과 정보 부족이 있습니다.",
+    "sources": [
+     {
+      "t": "DW",
+      "u": "https://www.dw.com/en/for-people-in-iran-a-constant-threat-of-war-and-dearth-of-information/a-79875438?maca=en-rss-en-world-4025-rdf"
+     }
+    ]
+   },
+   {
+    "date": "2026-11-06",
+    "text": "Rocket launcher deal illustrates deepening Russia-Iran relations",
+    "ko": "로켓 발사기 거래는 러시아-이란 관계 심화를 보여줍니다.",
+    "sources": [
+     {
+      "t": "Al Jazeera",
+      "u": "https://www.aljazeera.com/news/2026/11/6/rocket-launcher-deal-illustrates-deepening-russia-iran-relations?traffic_source=rss"
+     }
+    ]
+   },
+   {
+    "date": "2026-11-06",
+    "text": "Major construction ongoing near Iran missile bases, satellite images suggest",
+    "ko": "이란 미사일 기지 근처에서 진행 중인 주요 건설, 위성 이미지에 따르면",
     "sources": [
      {
       "t": "BBC",
-      "u": "https://www.bbc.co.uk/news/articles/cx8dzzjg3g9zo?at_medium=RSS&at_campaign=rss"
+      "u": "https://www.bbc.co.uk/news/articles/ckjrwx1r2d5ro?at_medium=RSS&at_campaign=rss"
      }
     ]
    },
    {
-    "date": "2026-11-05",
-    "text": "Americans voted against Trump's Iran war. Gulf countries hope that means an end to the conflict",
-    "ko": "미국인들은 트럼프의 이란 전쟁에 반대표를 던졌다. 걸프 국가들은 분쟁이 종식되기를 희망합니다.",
-    "sources": [
-     {
-      "t": "DW",
-      "u": "https://www.dw.com/en/americans-voted-against-trump-s-iran-war-gulf-countries-hope-that-means-an-end-to-the-conflict/a-79868398?maca=en-rss-en-world-4025-rdf"
-     }
-    ]
-   },
-   {
-    "date": "2026-11-05",
-    "text": "Iran says tankers struck in Hormuz amid fears of new US attack",
-    "ko": "이란, 미국의 새로운 공격 우려로 유조선 호르무즈 공격",
+    "date": "2026-11-06",
+    "text": "Iraq’s al-Zaidi talks to Trump as Baghdad seeks to stay out of war on Iran",
+    "ko": "바그다드가 이란과의 전쟁을 중단하려고 하는 가운데 이라크의 알자이디가 트럼프와 대화하다",
     "sources": [
      {
       "t": "Al Jazeera",
-      "u": "https://www.aljazeera.com/news/2026/11/5/iran-says-tankers-struck-in-hormuz-amid-fears-of-new-us-attack?traffic_source=rss"
+      "u": "https://www.aljazeera.com/news/2026/11/6/iraqs-al-zaidi-talks-to-trump-as-baghdad-seeks-to-stay-out-of-war-on-iran?traffic_source=rss"
      }
     ]
    },
    {
-    "date": "2026-11-05",
-    "text": "Bank of England raises interest rates to 4%, the first increase for more than three years",
-    "ko": "영란은행, 3년 만에 처음으로 금리 4% 인상",
+    "date": "2026-11-06",
+    "text": "Australia faces same issues that flipped control of US Congress in midterms, experts say",
+    "ko": "호주는 중간선거에서 미국 의회의 통제권을 뒤집은 것과 동일한 문제에 직면해 있다고 전문가들은 말합니다.",
     "sources": [
      {
       "t": "The Guardian",
-      "u": "https://www.theguardian.com/business/2026/nov/05/bank-of-england-raises-interest-rates-first-increase-for-more-than-three-years"
+      "u": "https://www.theguardian.com/australia-news/2026/nov/06/us-midterms-warning-for-australia-cost-of-living-fuel-prices"
      }
     ]
    },
    {
-    "date": "2026-11-05",
-    "text": "Iran signals satisfaction, skepticism after US midterm vote",
-    "ko": "이란은 미국 중간 투표 이후 만족감과 회의감을 표명했습니다.",
-    "sources": [
-     {
-      "t": "DW",
-      "u": "https://www.dw.com/en/iran-signals-satisfaction-skepticism-after-us-midterm-vote/a-79867149?maca=en-rss-en-world-4025-rdf"
-     }
-    ]
-   },
-   {
-    "date": "2026-11-05",
-    "text": "Yemen’s president sacks ministers and officers in attempt to turn tide of war",
-    "ko": "예멘 대통령, 전쟁의 흐름을 바꾸려고 장관과 장교를 해고하다",
-    "sources": [
-     {
-      "t": "The Guardian",
-      "u": "https://www.theguardian.com/world/2026/nov/05/yemen-president-sacks-ministers-and-officers-houthis"
-     }
-    ]
-   },
-   {
-    "date": "2026-11-05",
-    "text": "Trump accepts election results as Republicans face midterm reckoning | First Thing",
-    "ko": "공화당이 중간고사를 치르는 가운데 트럼프, 선거 결과 수용 | 가장 중요한 것",
-    "sources": [
-     {
-      "t": "The Guardian",
-      "u": "https://www.theguardian.com/us-news/2026/nov/05/first-thing-trump-accepts-midterm-election-results"
-     }
-    ]
-   },
-   {
-    "date": "2026-11-05",
-    "text": "Bomb threats cause major flight disruptions across Europe",
-    "ko": "폭발물 위협으로 인해 유럽 전역에 심각한 비행 중단 발생",
-    "sources": [
-     {
-      "t": "France 24",
-      "u": "https://www.france24.com/en/video/20261105-bomb-threats-cause-major-flight-disruptions-across-europe"
-     }
-    ]
-   },
-   {
-    "date": "2026-11-05",
-    "text": "After midterm stinging defeat, Trump is left to weigh his next move in Iran war",
-    "ko": "트럼프는 중간 참패 이후 이란 전쟁에서 다음 행보를 검토하게 됐다.",
-    "sources": [
-     {
-      "t": "France 24",
-      "u": "https://www.france24.com/en/video/20261105-after-midterm-stinging-defeat-trump-is-left-to-weigh-his-next-move-in-iran-war"
-     }
-    ]
-   },
-   {
-    "date": "2026-11-05",
-    "text": "Congress defeat: How Trump’s allies are distancing themselves from Iran war",
-    "ko": "의회 패배: 트럼프 동맹국들이 이란 전쟁에서 멀어지는 방법",
+    "date": "2026-11-06",
+    "text": "Iran war live: Trump warns US may have to ‘destroy’ rest of Iran",
+    "ko": "이란 전쟁 생중계: 트럼프, 미국이 이란의 나머지 부분을 '파괴'해야 할 수도 있다고 경고",
     "sources": [
      {
       "t": "Al Jazeera",
-      "u": "https://www.aljazeera.com/news/2026/11/5/congress-defeat-how-trumps-allies-are-distancing-themselves-from-iran-war?traffic_source=rss"
+      "u": "https://www.aljazeera.com/news/liveblog/2026/11/6/iran-war-live-trump-warns-us-may-have-to-destroy-rest-of-iran?traffic_source=rss"
      }
     ]
    },
    {
     "date": "2026-11-05",
-    "text": "US midterm elections 2026 live: Democrats eye historic upset in Mississippi Senate race as Republican blame game begins",
-    "ko": "2026년 미국 중간선거 실시간: 민주당은 공화당 비난 게임이 시작되면서 미시시피 상원 경선에서 역사적 혼란을 예고",
+    "text": "South Korea says it will expand naval operations closer to strait of Hormuz",
+    "ko": "한국, 호르무즈 해협 인근에서 해군 작전 확대",
     "sources": [
      {
       "t": "The Guardian",
-      "u": "https://www.theguardian.com/us-news/live/2026/nov/05/midterm-elections-live-latest-updates-mississippi-senate-race"
+      "u": "https://www.theguardian.com/world/2026/nov/05/south-korea-to-expand-anti-piracy-unit-strait-of-hormuz"
+     }
+    ]
+   },
+   {
+    "date": "2026-11-05",
+    "text": "Vance walks Trump tightrope with scathing election critique blaming Iran war",
+    "ko": "밴스, 이란 전쟁 비난하며 신랄한 선거 비판으로 트럼프 줄타기",
+    "sources": [
+     {
+      "t": "BBC",
+      "u": "https://www.bbc.co.uk/news/articles/crz98zqkz7z0o?at_medium=RSS&at_campaign=rss"
+     }
+    ]
+   },
+   {
+    "date": "2026-11-05",
+    "text": "South Korea to deploy military mission to keep Strait of Hormuz open",
+    "ko": "한국, 호르무즈 해협 개방 유지 위해 군사 임무 파견",
+    "sources": [
+     {
+      "t": "France 24",
+      "u": "https://www.france24.com/en/asia-pacific/20261105-south-korea-military-mission-strait-of-hormuz"
      }
     ]
    }
   ],
   "yemen": [
+   {
+    "date": "2026-11-06",
+    "text": "Yemeni gov’t forces, Houthis trade blame for deadly strikes on Taiz market",
+    "ko": "예멘 정부군과 후티 반군, 타이즈 시장에 대한 치명적인 파업 비난",
+    "sources": [
+     {
+      "t": "Al Jazeera",
+      "u": "https://www.aljazeera.com/news/2026/11/6/yemeni-govt-forces-houthis-trade-blame-for-deadly-strikes-on-taiz-market?traffic_source=rss"
+     }
+    ]
+   },
+   {
+    "date": "2026-11-06",
+    "text": "Friday briefing: ​After a week of disruption, is living with threats our new normal?",
+    "ko": "금요일 브리핑: 일주일 간의 혼란이 지나고 위협을 안고 살아가는 것이 새로운 일상이 되었나요?",
+    "sources": [
+     {
+      "t": "The Guardian",
+      "u": "https://www.theguardian.com/world/2026/nov/06/friday-briefing-after-a-week-of-disruption-is-living-with-threats-our-new-normal"
+     }
+    ]
+   },
+   {
+    "date": "2026-11-05",
+    "text": "World News in Brief: Korea tensions mount, UN demands answers over staff death in Yemen, Guterres in Spain, Nepal alert ahead of COP31",
+    "ko": "세계 뉴스 요약: 한국의 긴장 고조, 유엔은 예멘 직원 사망에 대한 답변 요구, 스페인의 구테레스, COP31을 앞두고 네팔 경보",
+    "sources": [
+     {
+      "t": "UN News",
+      "u": "https://news.un.org/feed/view/en/story/2026/11/1168750"
+     }
+    ]
+   },
    {
     "date": "2026-11-05",
     "text": "Yemen’s president sacks ministers and officers in attempt to turn tide of war",
@@ -500,39 +533,6 @@
      {
       "t": "UN News",
       "u": "https://news.un.org/feed/view/en/story/2026/11/1168723"
-     }
-    ]
-   },
-   {
-    "date": "2026-11-02",
-    "text": "UN staffer’s death in custody exposes Houthi ‘political extortion’ in Yemen",
-    "ko": "유엔 직원 구금 중 사망, 예멘 내 후티 반군 '정치적 갈취' 폭로",
-    "sources": [
-     {
-      "t": "Al Jazeera",
-      "u": "https://www.aljazeera.com/news/2026/11/2/un-staffers-death-in-custody-exposes-houthi-political-extortion-in-yemen?traffic_source=rss"
-     }
-    ]
-   },
-   {
-    "date": "2026-11-01",
-    "text": "Israel’s first ambassador to Somaliland presents credentials in Hargeisa",
-    "ko": "소말릴란드 주재 이스라엘 대사, 하르게이사에서 신임장 수여",
-    "sources": [
-     {
-      "t": "Al Jazeera",
-      "u": "https://www.aljazeera.com/news/2026/11/1/israels-first-ambassador-to-somaliland-presents-credentials-in-hargeisa?traffic_source=rss"
-     }
-    ]
-   },
-   {
-    "date": "2026-11-01",
-    "text": "UN demands investigation after staffer’s death in Houthi custody in Yemen",
-    "ko": "유엔, 예멘 후티군 구금 중 직원 사망에 대한 조사 요구",
-    "sources": [
-     {
-      "t": "Al Jazeera",
-      "u": "https://www.aljazeera.com/news/2026/11/1/un-demands-investigation-after-staffers-death-in-houthi-custody-in-yemen?traffic_source=rss"
      }
     ]
    }
@@ -775,6 +775,17 @@
   "westbank": [
    {
     "date": "2026-11-05",
+    "text": "Israeli demolitions displace more than 100 Palestinians in Biddu",
+    "ko": "이스라엘의 폭파로 비두에서 팔레스타인인 100명 이상 이주",
+    "sources": [
+     {
+      "t": "Al Jazeera",
+      "u": "https://www.aljazeera.com/video/newsfeed/2026/11/5/aje-onl-nf_israeli-demolitions-displace-palestinians-in-biddu-051126?traffic_source=rss"
+     }
+    ]
+   },
+   {
+    "date": "2026-11-05",
     "text": "Jerusalem Daily: Settler pogroms in Hebron",
     "ko": "예루살렘 데일리: 헤브론의 정착민 포그롬",
     "sources": [
@@ -891,17 +902,6 @@
      {
       "t": "Al Jazeera",
       "u": "https://www.aljazeera.com/news/2026/11/2/displaced-in-hebron-picking-up-pieces-after-israeli-siege?traffic_source=rss"
-     }
-    ]
-   },
-   {
-    "date": "2026-11-02",
-    "text": "Hebron governor says Israeli forces withdraw from city after 10-day siege",
-    "ko": "헤브론 주지사 \"이스라엘군, 10일간의 포위전 마치고 철수\"",
-    "sources": [
-     {
-      "t": "Al Jazeera",
-      "u": "https://www.aljazeera.com/news/2026/11/2/hebron-governor-says-israeli-forces-withdraw-from-city-after-10-day-siege?traffic_source=rss"
      }
     ]
    }
@@ -1136,6 +1136,17 @@
   ],
   "nigeria": [
    {
+    "date": "2026-11-05",
+    "text": "Nigeria court bars opposition candidate two months before election",
+    "ko": "나이지리아 법원, 선거 두 달 앞두고 야당 후보 출마 금지",
+    "sources": [
+     {
+      "t": "France 24",
+      "u": "https://www.france24.com/en/nigeria-court-bars-opposition-candidate-two-months-before-election"
+     }
+    ]
+   },
+   {
     "date": "2026-11-03",
     "text": "Unidentified attackers ambush a police convoy near Gidan-Giye village in Zamfara State, Nigeria, killing at least five police officers and three members of the Zamfara Community Protection Guard, injuring two officers, and abducting an unspecified number of personnel.",
     "sources": [
@@ -1214,6 +1225,17 @@
    }
   ],
   "ethiopia": [
+   {
+    "date": "2026-11-05",
+    "text": "Nigeria court bars opposition candidate two months before election",
+    "ko": "나이지리아 법원, 선거 두 달 앞두고 야당 후보 출마 금지",
+    "sources": [
+     {
+      "t": "France 24",
+      "u": "https://www.france24.com/en/nigeria-court-bars-opposition-candidate-two-months-before-election"
+     }
+    ]
+   },
    {
     "date": "2026-11-05",
     "text": "Sudan accuses Ethiopia of allowing RSF drone launches from its territory",
@@ -1334,17 +1356,6 @@
      }
     ],
     "ko": "에티오피아 정교회 테와헤도 교회는 지난주 에티오피아 오로미아에서 발생한 공격으로 최소 60명의 기독교인이 사망했다고 보고했습니다."
-   },
-   {
-    "date": "2026-10-27",
-    "text": "World News in Brief: ‘No safe place in Ukraine’, IAEA calls for Iran nuclear inspections, Kenya hosts thousands of Ethiopians fleeing clashes",
-    "ko": "세계 뉴스 요약: '우크라이나에는 안전한 곳이 없습니다', IAEA는 이란 핵 사찰을 요구하고 케냐는 충돌을 피해 도망치는 수천 명의 에티오피아인을 수용합니다",
-    "sources": [
-     {
-      "t": "UN News",
-      "u": "https://news.un.org/feed/view/en/story/2026/10/1168682"
-     }
-    ]
    }
   ],
   "sahel": [
