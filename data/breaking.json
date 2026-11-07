@@ -1,21 +1,21 @@
 {
- "updated": "2026-11-07T14:12:31.480Z",
+ "updated": "2026-11-07T18:51:53.898Z",
  "sources": {
   "BBC": {
    "ok": true,
-   "n": 10
+   "n": 9
   },
   "Al Jazeera": {
    "ok": true,
-   "n": 9
+   "n": 11
   },
   "The Guardian": {
    "ok": true,
-   "n": 13
+   "n": 12
   },
   "DW": {
    "ok": true,
-   "n": 5
+   "n": 3
   },
   "France 24": {
    "ok": true,
@@ -31,6 +31,204 @@
   }
  },
  "items": [
+  {
+   "id": "2836ed32ece6",
+   "t": "Kraków shooting latest updates: six killed and more than a dozen injured, police say",
+   "ko": "크라쿠프 총격 사건 최신 업데이트: 6명이 사망하고 12명 이상이 부상했다고 경찰이 밝혔습니다.",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/world/live/2026/nov/07/krakow-shooting-poland-latest-news-updates",
+   "at": "2026-11-07T18:39:30.000Z",
+   "ev": [],
+   "cc": [
+    "United States",
+    "Poland"
+   ]
+  },
+  {
+   "id": "10a11a207755",
+   "t": "What we know about Krakow mass shooting so far",
+   "ko": "지금까지 크라쿠프 대량 총격 사건에 대해 우리가 알고 있는 것",
+   "src": "BBC",
+   "u": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss",
+   "at": "2026-11-07T18:22:11.000Z",
+   "ev": [],
+   "cc": [
+    "Poland"
+   ]
+  },
+  {
+   "id": "a190c1df0327",
+   "t": "US offers $20m reward for information about Iran's nuclear programme",
+   "ko": "미국, 이란 핵 프로그램 정보 제공에 2천만 달러 보상 제안",
+   "src": "BBC",
+   "u": "https://www.bbc.co.uk/news/articles/c6d091ev3p0jo?at_medium=RSS&at_campaign=rss",
+   "at": "2026-11-07T18:14:38.000Z",
+   "ev": [
+    "iran"
+   ],
+   "cc": [
+    "United States",
+    "Iran"
+   ]
+  },
+  {
+   "id": "654d4d4352ba",
+   "t": "Houthis report 25 killed in Yemen strikes",
+   "ko": "후티 반군, 예멘 공습으로 25명 사망",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/video/newsfeed/2026/11/7/houthis-report-25-killed-in-yemen-strikes?traffic_source=rss",
+   "at": "2026-11-07T17:39:23.000Z",
+   "ev": [
+    "yemen"
+   ],
+   "cc": [
+    "Yemen"
+   ]
+  },
+  {
+   "id": "f50d287e94f5",
+   "t": "Six dead after gunman opens fire ‘at random’ in Kraków market square",
+   "ko": "크라쿠프 시장 광장에서 총격범이 '무작위' 총격을 가해 6명이 사망",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/world/2026/nov/07/krakow-poland-shooting-market-square-deaths-gunman",
+   "at": "2026-11-07T17:17:23.000Z",
+   "ev": [],
+   "cc": [
+    "Poland"
+   ]
+  },
+  {
+   "id": "b3534df0c874",
+   "t": "Houthis say at least 25 killed in Saudi air strike",
+   "ko": "후티 반군 \"사우디 공습으로 최소 25명 사망\"",
+   "src": "BBC",
+   "u": "https://www.bbc.co.uk/news/articles/c65yn1v99ypmo?at_medium=RSS&at_campaign=rss",
+   "at": "2026-11-07T17:09:24.000Z",
+   "ev": [
+    "yemen"
+   ],
+   "cc": [
+    "Saudi Arabia",
+    "Yemen"
+   ]
+  },
+  {
+   "id": "141accc59656",
+   "t": "Valencia vs Real Madrid LIVE: La Liga",
+   "ko": "발렌시아 대 레알 마드리드 LIVE: 라 리가",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/sports/liveblog/2026/11/7/valencia-vs-real-madrid-live-la-liga?traffic_source=rss",
+   "at": "2026-11-07T17:00:12.000Z",
+   "ev": [],
+   "cc": []
+  },
+  {
+   "id": "65a817c2e36a",
+   "t": "Three teenagers arrested after 17-year-old injured in Gloucester sword attack",
+   "ko": "글로스터 칼 공격으로 17세 부상당한 10대 3명 체포",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/uk-news/2026/nov/07/sword-attack-gloucester-school-men-arrested-boy-injured",
+   "at": "2026-11-07T16:41:07.000Z",
+   "ev": [],
+   "cc": []
+  },
+  {
+   "id": "67e202a19f60",
+   "t": "France investigating if bogus bomb threats against airlines linked to 'foreign powers'",
+   "ko": "프랑스, '외세'와 연계된 항공사에 대한 가짜 폭탄 위협 여부 조사",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/france/20261107-france-investigating-if-bogus-bomb-threats-against-airlines-linked-to-foreign-powers",
+   "at": "2026-11-07T16:33:53.000Z",
+   "ev": [],
+   "cc": [
+    "France"
+   ]
+  },
+  {
+   "id": "48e1b5c23070",
+   "t": "Israel builds 90km network of military roads across southern Lebanon",
+   "ko": "이스라엘, 레바논 남부 전역에 90km 길이의 군사 도로망 구축",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/video/newsfeed/2026/11/7/israel-builds-90km-network-of-military-roads-across-southern-lebanon?traffic_source=rss",
+   "at": "2026-11-07T16:30:33.000Z",
+   "ev": [
+    "lebanon"
+   ],
+   "cc": [
+    "Israel",
+    "Lebanon"
+   ]
+  },
+  {
+   "id": "56d20b78c2b2",
+   "t": "Guatemalan lawmaker and three police officers killed in armed attack",
+   "ko": "과테말라 국회의원과 경찰 3명이 무장공격으로 사망",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/11/7/guatemalan-lawmaker-and-three-police-officers-killed-in-armed-attack?traffic_source=rss",
+   "at": "2026-11-07T16:15:18.000Z",
+   "ev": [],
+   "cc": []
+  },
+  {
+   "id": "dff1118f9b2b",
+   "t": "Five killed and at least 10 injured in Krakow shooting",
+   "ko": "크라쿠프에서 총격 사건이 발생해 5명이 사망하고 최소 10명이 부상당했다.",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/video/newsfeed/2026/11/7/7-11-clip-poland-krakow-shooting?traffic_source=rss",
+   "at": "2026-11-07T16:06:58.000Z",
+   "ev": [],
+   "cc": [
+    "Poland"
+   ]
+  },
+  {
+   "id": "dfb312f672dc",
+   "t": "Iran’s IRGC says building underground sites for weapons production, storage",
+   "ko": "이란 IRGC, 무기 생산과 저장을 위한 지하 부지 건설",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/11/7/irans-irgc-says-building-underground-sites-for-weapons-production-storage?traffic_source=rss",
+   "at": "2026-11-07T15:34:58.000Z",
+   "ev": [
+    "iran"
+   ],
+   "cc": [
+    "Iran"
+   ]
+  },
+  {
+   "id": "d4298f9a1819",
+   "t": "At least six people killed in shooting in Polish city of Krakow, police say",
+   "ko": "폴란드 크라쿠프에서 총격 사건이 발생해 최소 6명이 사망했다고 경찰이 밝혔다.",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/europe/20261107-at-least-three-people-killed-shooting-in-polish-city-of-krakow-police-say",
+   "at": "2026-11-07T15:23:48.000Z",
+   "ev": [],
+   "cc": [
+    "Poland"
+   ]
+  },
+  {
+   "id": "1e8aa65b1853",
+   "t": "Stephen Miller, Trump’s incoming chief of staff, pledges ‘total devotion’ to the president",
+   "ko": "트럼프 신임 비서실장 스티븐 밀러, 대통령에 '전적인 헌신' 다짐",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/us-news/2026/nov/07/stephen-miller-trump-loyalty",
+   "at": "2026-11-07T15:15:11.000Z",
+   "ev": [],
+   "cc": []
+  },
+  {
+   "id": "053daca12a9c",
+   "t": "Iraq’s FM says external parties using Iraqi soil to attack neighbours",
+   "ko": "이라크 FM은 외부 세력이 이라크 땅을 이용해 이웃 국가를 공격했다고 밝혔습니다.",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/11/7/iraqs-fm-says-external-parties-using-iraqi-soil-to-attack-neighbours?traffic_source=rss",
+   "at": "2026-11-07T14:24:48.000Z",
+   "ev": [],
+   "cc": [
+    "Iraq"
+   ]
+  },
   {
    "id": "c696078ff473",
    "t": "France braces for more nationwide protests as Yellow Vests urge 'mass disobedience'",
@@ -128,8 +326,8 @@
   },
   {
    "id": "e6afdaa46c60",
-   "t": "Ukraine's power network suffers further damage after fresh Russian strikes",
-   "ko": "러시아의 공습으로 우크라이나 전력망이 추가 피해를 입다",
+   "t": "Russian strikes wound nine and damage Ukraine's power network ahead of talks",
+   "ko": "러시아, 회담 앞두고 우크라이나 전력망 공격으로 9명 부상 및 피해",
    "src": "BBC",
    "u": "https://www.bbc.co.uk/news/articles/cm4g1nq8158po?at_medium=RSS&at_campaign=rss",
    "at": "2026-11-07T12:49:36.000Z",
@@ -137,19 +335,9 @@
     "ukraine"
    ],
    "cc": [
-    "Ukraine",
-    "Russia"
+    "Russia",
+    "Ukraine"
    ]
-  },
-  {
-   "id": "65a817c2e36a",
-   "t": "Two men arrested after boy injured in Gloucester sword attack",
-   "ko": "글로스터 칼 공격으로 소년 부상당한 남성 2명 체포",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/uk-news/2026/nov/07/sword-attack-gloucester-school-men-arrested-boy-injured",
-   "at": "2026-11-07T12:32:29.000Z",
-   "ev": [],
-   "cc": []
   },
   {
    "id": "32dbf104fcb3",
@@ -334,8 +522,8 @@
   },
   {
    "id": "43d3003c551f",
-   "t": "Live: Fresh demonstration kicks off in Paris as France’s Yellow Vests urge 'mass disobedience'",
-   "ko": "라이브: 프랑스 노란 조끼 운동이 '대량 불복종'을 촉구하면서 파리에서 새로운 시위가 시작되었습니다.",
+   "t": "Live: French student unions say 250,000 people took part in Saturday’s protests",
+   "ko": "생방송: 프랑스 학생회는 토요일 시위에 25만 명이 참여했다고 밝혔습니다.",
    "src": "France 24",
    "u": "https://www.france24.com/en/france/20261107-live-france-braces-for-more-nationwide-protests-as-yellow-vests-urge-mass-disobedience",
    "at": "2026-11-07T08:17:22.000Z",
@@ -1683,308 +1871,6 @@
    "cc": [
     "Iran",
     "United States"
-   ]
-  },
-  {
-   "id": "ee34a295b1d8",
-   "t": "Iran says tankers struck in Hormuz amid fears of new US attack",
-   "ko": "이란, 미국의 새로운 공격 우려로 유조선 호르무즈 공격",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/news/2026/11/5/iran-says-tankers-struck-in-hormuz-amid-fears-of-new-us-attack?traffic_source=rss",
-   "at": "2026-11-05T18:47:10.000Z",
-   "ev": [
-    "iran"
-   ],
-   "cc": [
-    "Iran",
-    "United States"
-   ]
-  },
-  {
-   "id": "b4bb7442d6a0",
-   "t": "Bomb hoaxes: Messages reveal how threat was passed on by air traffic control",
-   "ko": "폭발물 사기: 항공 교통 관제소가 위협을 어떻게 전달했는지 알려주는 메시지",
-   "src": "BBC",
-   "u": "https://www.bbc.co.uk/news/videos/cq398m8w41lyo?at_medium=RSS&at_campaign=rss",
-   "at": "2026-11-05T18:22:46.000Z",
-   "ev": [],
-   "cc": []
-  },
-  {
-   "id": "155e203a7518",
-   "t": "Bomb threats disrupt dozens of flights across Europe, raising hybrid war fears",
-   "ko": "폭탄 위협으로 인해 유럽 전역에서 수십 편의 항공편이 중단되어 하이브리드 전쟁에 대한 두려움이 높아졌습니다.",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/world/2026/nov/05/bomb-threats-disrupt-flights-across-europe-and-renew-hybrid-warfare-fears",
-   "at": "2026-11-05T18:17:36.000Z",
-   "ev": [],
-   "cc": [
-    "Italy",
-    "Ireland",
-    "United Kingdom"
-   ]
-  },
-  {
-   "id": "b4dcd993f868",
-   "t": "Herzog to meet Israeli election rivals as decision nears on path to power",
-   "ko": "권력 장악에 대한 결정이 가까워짐에 따라 헤르조그, 이스라엘 선거 경쟁자들을 만나다",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/world/2026/nov/05/herzog-netanyahu-eisenkot-israel-election-decision",
-   "at": "2026-11-05T18:13:01.000Z",
-   "ev": [],
-   "cc": [
-    "Israel"
-   ]
-  },
-  {
-   "id": "bad87b539115",
-   "t": "Bank of England raises interest rates to 4%, the first increase for more than three years",
-   "ko": "영란은행, 3년 만에 처음으로 금리 4% 인상",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/business/2026/nov/05/bank-of-england-raises-interest-rates-first-increase-for-more-than-three-years",
-   "at": "2026-11-05T18:00:28.000Z",
-   "ev": [
-    "iran"
-   ],
-   "cc": [
-    "United Kingdom",
-    "Iran"
-   ]
-  },
-  {
-   "id": "ba26403f95e1",
-   "t": "French protests see numbers surge as unions join strikes over high cost of living",
-   "ko": "프랑스 시위, 높은 생활비 문제로 노조가 파업에 동참하면서 숫자 급증",
-   "src": "BBC",
-   "u": "https://www.bbc.co.uk/news/articles/ckx2qzv835pgo?at_medium=RSS&at_campaign=rss",
-   "at": "2026-11-05T17:59:53.000Z",
-   "ev": [],
-   "cc": [
-    "France"
-   ]
-  },
-  {
-   "id": "d95025b640a8",
-   "t": "Myanmar: Civilians under fire from military junta",
-   "ko": "미얀마: 군사 정권의 총격을 받는 민간인",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/asia-pacific/20261105-myanmar-civilians-under-fire-from-military-junta",
-   "at": "2026-11-05T17:58:28.000Z",
-   "ev": [
-    "myanmar"
-   ],
-   "cc": [
-    "Myanmar"
-   ]
-  },
-  {
-   "id": "3284095eed78",
-   "t": "Multiple planes diverted as bomb threats to commercial flights reported across Europe – as it happened",
-   "ko": "여러 대의 비행기가 유럽 전역에서 보고된 상업용 항공기에 대한 폭탄 위협으로 방향을 바꾸었습니다.",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/world/live/2026/nov/05/aer-lingus-plane-bomb-threat-europe-latest-news-updates",
-   "at": "2026-11-05T17:57:54.000Z",
-   "ev": [],
-   "cc": [
-    "Italy",
-    "Belgium"
-   ]
-  },
-  {
-   "id": "f360b43ad7df",
-   "t": "Hoax bomb threats target European airlines and airports for second time in a week",
-   "ko": "유럽 ​​항공사와 공항을 겨냥한 가짜 폭탄 위협이 일주일 만에 두 번째로 발생했습니다.",
-   "src": "BBC",
-   "u": "https://www.bbc.co.uk/news/articles/cmpqg08nz3pqo?at_medium=RSS&at_campaign=rss",
-   "at": "2026-11-05T17:39:48.000Z",
-   "ev": [],
-   "cc": [
-    "United Kingdom"
-   ]
-  },
-  {
-   "id": "29949bfef56d",
-   "t": "France needs 'more public services', 'salaries are too low', 'schools are in very, very bad shape'",
-   "ko": "프랑스는 '더 많은 공공 서비스'가 필요하고, '급여는 너무 낮고', '학교는 상태가 매우 나쁘다'",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/france-needs-more-public-services-salaries-are-too-low-schools-are-in-very-very-bad-shape",
-   "at": "2026-11-05T17:36:48.000Z",
-   "ev": [],
-   "cc": [
-    "France"
-   ]
-  },
-  {
-   "id": "1193f1374eb7",
-   "t": "Paraguay's president Pena impeached after resigning over banking scandal",
-   "ko": "파라과이 페냐 대통령, 은행 스캔들로 사임한 뒤 탄핵",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/americas/20261105-paraguay-s-president-pe%C3%B1a-impeached-moments-after-resigning-amid-banking-scandal",
-   "at": "2026-11-05T17:33:53.000Z",
-   "ev": [],
-   "cc": [
-    "Paraguay"
-   ]
-  },
-  {
-   "id": "dd7f854fb23e",
-   "t": "Protesters march in cities across France as unions stage general strike",
-   "ko": "노조가 총파업을 벌이는 가운데 시위대가 프랑스 전역의 도시에서 행진하고 있다.",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/world/2026/nov/05/protesters-france-march-strikes-education-cost-of-living",
-   "at": "2026-11-05T17:21:45.000Z",
-   "ev": [],
-   "cc": [
-    "France"
-   ]
-  },
-  {
-   "id": "a85489020ca6",
-   "t": "Beware ‘sun, sea and surgery’ cosmetic tourism packages, experts advise",
-   "ko": "전문가들은 '태양, 바다, 수술' 화장품 관광 패키지를 조심하라고 조언했다.",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/society/2026/nov/05/beware-cosmetic-surgery-tourism-packages-experts-advise",
-   "at": "2026-11-05T17:17:00.000Z",
-   "ev": [],
-   "cc": [
-    "Turkey"
-   ]
-  },
-  {
-   "id": "95f086dcd8d9",
-   "t": "Jordanian officer killed in stabbing attack in Amman",
-   "ko": "암만서 칼부림 공격으로 요르단 장교 사망",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/video/newsfeed/2026/11/5/jordanian-officer-killed-in-stabbing-attack-in-amman?traffic_source=rss",
-   "at": "2026-11-05T17:08:45.000Z",
-   "ev": [],
-   "cc": []
-  },
-  {
-   "id": "b53cf15abfc4",
-   "t": "Paraguay President Pena resigns in wake of bank collapse",
-   "ko": "페냐 파라과이 대통령, 은행 붕괴로 사임",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/economy/2026/11/5/paraguay-president-pena-resigns-in-wake-of-bank-collapse?traffic_source=rss",
-   "at": "2026-11-05T17:08:19.000Z",
-   "ev": [],
-   "cc": [
-    "Paraguay"
-   ]
-  },
-  {
-   "id": "8cd97cc15fd1",
-   "t": "🔴 Live: Interior ministry says 600,000 protest across France as unions claim 'close to 1.6 million'",
-   "ko": "🔴 라이브: 내무부는 노조가 '160만 명에 가깝다'고 주장함에 따라 프랑스 전역에서 60만 명이 시위를 벌였다고 밝혔습니다.",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/france/20261105-live-france-nationwide-strikes-living-costs",
-   "at": "2026-11-05T17:05:44.000Z",
-   "ev": [],
-   "cc": [
-    "France"
-   ]
-  },
-  {
-   "id": "b29a036a281e",
-   "t": "Gaza holds final of tournament honouring more than 1,000 slain athletes",
-   "ko": "가자지구, 1000명 이상의 전사한 운동선수를 추모하는 토너먼트 결승전 개최",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/video/newsfeed/2026/11/5/gaza-holds-final-of-tournament-honouring-more-than-1000-slain-athletes?traffic_source=rss",
-   "at": "2026-11-05T16:46:34.000Z",
-   "ev": [
-    "gaza"
-   ],
-   "cc": [
-    "Palestine"
-   ]
-  },
-  {
-   "id": "f195e510916f",
-   "t": "Nobel laureate Navi Pillay on fighting violence with justice",
-   "ko": "정의로 폭력에 맞서 싸우는 노벨상 수상자 나비 필레이(Navi Pillay)",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/navi-pillay-fighting-violence-with-justice",
-   "at": "2026-11-05T16:12:59.000Z",
-   "ev": [],
-   "cc": [
-    "United States"
-   ]
-  },
-  {
-   "id": "cad817701765",
-   "t": "Photos: Spain mourns Jesus de Miguel, who died after on-pitch collision",
-   "ko": "사진: 스페인은 경기장 충돌로 사망한 헤수스 데 미구엘을 애도합니다.",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/gallery/2026/11/5/photos-spain-mourns-jesus-de-miguel-who-died-after-on-pitch-collision?traffic_source=rss",
-   "at": "2026-11-05T16:12:37.000Z",
-   "ev": [],
-   "cc": [
-    "Spain"
-   ]
-  },
-  {
-   "id": "92d1df2c53bb",
-   "t": "Photos: Thousands rally in France over rising costs and economic struggles",
-   "ko": "사진: 프랑스에서 비용 상승과 경제적 어려움으로 수천 명이 집회",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/gallery/2026/11/5/photos-thousands-rally-in-france-over-rising-costs-and-economic-struggles?traffic_source=rss",
-   "at": "2026-11-05T16:07:56.000Z",
-   "ev": [],
-   "cc": [
-    "France"
-   ]
-  },
-  {
-   "id": "2065d8aa970c",
-   "t": "Europe: Dozens of flights diverted following bomb threats",
-   "ko": "유럽: 폭탄 위협으로 인해 수십 편의 항공편이 우회되었습니다",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/video/20261105-europe-dozens-of-flights-diverted-following-bomb-threats",
-   "at": "2026-11-05T15:40:50.000Z",
-   "ev": [],
-   "cc": []
-  },
-  {
-   "id": "65b68a77a91a",
-   "t": "Jerusalem Daily: Settler pogroms in Hebron",
-   "ko": "예루살렘 데일리: 헤브론의 정착민 포그롬",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/video/newsfeed/2026/11/5/jerusalem-daily-settler-pogroms-in-hebron?traffic_source=rss",
-   "at": "2026-11-05T15:10:42.000Z",
-   "ev": [
-    "gaza",
-    "westbank"
-   ],
-   "cc": [
-    "Israel",
-    "Palestine"
-   ]
-  },
-  {
-   "id": "86819384ee8e",
-   "t": "Iran signals satisfaction, skepticism after US midterm vote",
-   "ko": "이란은 미국 중간 투표 이후 만족감과 회의감을 표명했습니다.",
-   "src": "DW",
-   "u": "https://www.dw.com/en/iran-signals-satisfaction-skepticism-after-us-midterm-vote/a-79867149?maca=en-rss-en-world-4025-rdf",
-   "at": "2026-11-05T15:04:00.000Z",
-   "ev": [
-    "iran"
-   ],
-   "cc": [
-    "Iran",
-    "United States"
-   ]
-  },
-  {
-   "id": "d6341f69676f",
-   "t": "France faces new protests as government seeks to prevent violence",
-   "ko": "프랑스 정부가 폭력을 예방하려고 노력함에 따라 새로운 시위에 직면",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/france-faces-new-protests-as-government-seeks-to-prevent-violence",
-   "at": "2026-11-05T14:19:53.000Z",
-   "ev": [],
-   "cc": [
-    "France"
    ]
   }
  ]
