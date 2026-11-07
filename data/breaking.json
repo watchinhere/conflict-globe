@@ -1,25 +1,25 @@
 {
- "updated": "2026-11-07T01:13:47.426Z",
+ "updated": "2026-11-07T07:18:45.366Z",
  "sources": {
   "BBC": {
    "ok": true,
-   "n": 10
+   "n": 11
   },
   "Al Jazeera": {
    "ok": true,
-   "n": 5
+   "n": 6
   },
   "The Guardian": {
    "ok": true,
-   "n": 15
+   "n": 16
   },
   "DW": {
    "ok": true,
-   "n": 6
+   "n": 5
   },
   "France 24": {
    "ok": true,
-   "n": 13
+   "n": 12
   },
   "UN News": {
    "ok": true,
@@ -32,12 +32,151 @@
  },
  "items": [
   {
+   "id": "6da1f10b9d2e",
+   "t": "Strait of Hormuz could reopen as part of Qatari plan for Iran nuclear inspections",
+   "ko": "호르무즈 해협은 이란 핵 사찰을 위한 카타르 계획의 일환으로 재개방될 수 있다.",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/world/2026/nov/07/strait-of-hormuz-qatar-plan-iran-nuclear-inspections",
+   "at": "2026-11-07T07:00:04.000Z",
+   "ev": [
+    "iran"
+   ],
+   "cc": [
+    "Iran",
+    "Qatar"
+   ]
+  },
+  {
+   "id": "d16055133bfa",
+   "t": "How the Iran war helped Democrats win the midterms",
+   "ko": "이란 전쟁이 민주당의 중간고사 승리에 어떻게 도움이 됐나",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/opinions/2026/11/7/how-the-iran-war-helped-democrats-win-the-midterms?traffic_source=rss",
+   "at": "2026-11-07T06:26:58.000Z",
+   "ev": [
+    "iran"
+   ],
+   "cc": [
+    "Iran"
+   ]
+  },
+  {
+   "id": "d29e41e56277",
+   "t": "The end of Maga as we know it",
+   "ko": "우리가 알고 있는 마가의 종말",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/news/ng-interactive/2026/nov/07/the-end-of-maga-as-we-know-it",
+   "at": "2026-11-07T06:00:05.000Z",
+   "ev": [
+    "iran"
+   ],
+   "cc": [
+    "United States",
+    "Iran",
+    "Afghanistan"
+   ]
+  },
+  {
+   "id": "e448e95b11f2",
+   "t": "Paraguay’s Pena under military protection in bank collapse chaos",
+   "ko": "파라과이 페나, 은행 붕괴 혼란 속 군사 보호 받고 있다",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/video/newsfeed/2026/11/7/aje-onl-nf_paraguays-pena-under-house-arrest-061126?traffic_source=rss",
+   "at": "2026-11-07T05:51:23.000Z",
+   "ev": [],
+   "cc": [
+    "Paraguay"
+   ]
+  },
+  {
+   "id": "edebd58d56dc",
+   "t": "Russia launches missile attack on Kyiv, injuring residents",
+   "ko": "러시아, 키예프에 미사일 공격…주민 부상",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/11/7/russia-launches-missile-attack-on-kyiv-injuring-residents?traffic_source=rss",
+   "at": "2026-11-07T05:11:03.000Z",
+   "ev": [
+    "ukraine"
+   ],
+   "cc": [
+    "Russia"
+   ]
+  },
+  {
+   "id": "75ebae57c2c7",
+   "t": "‘One less gang leader’: Haiti’s prime minister celebrates police operation",
+   "ko": "'갱단 두목 하나 줄이기': 아이티 총리, 경찰 작전 축하",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/11/7/one-less-gang-leader-haitis-prime-minister-celebrates-police-operation?traffic_source=rss",
+   "at": "2026-11-07T05:02:49.000Z",
+   "ev": [
+    "haiti"
+   ],
+   "cc": [
+    "Haiti"
+   ]
+  },
+  {
+   "id": "fb30aca16f08",
+   "t": "Trump confirms new US strikes on Iran’s Qeshm island",
+   "ko": "트럼프, 이란 케심섬에 대한 미국의 추가 공습 확인",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/11/7/trump-confirms-new-us-strikes-on-irans-qeshm-island?traffic_source=rss",
+   "at": "2026-11-07T03:53:01.000Z",
+   "ev": [
+    "iran"
+   ],
+   "cc": [
+    "United States",
+    "Iran"
+   ]
+  },
+  {
+   "id": "8acdf42e10a9",
+   "t": "US carries out another round of ‘minor’ strikes on Iran, Trump says",
+   "ko": "트럼프 \"미국, 이란에 또 다른 '사소한' 공격 감행\"",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/world/2026/nov/07/us-carries-out-another-round-of-minor-strikes-on-iran-trump-says",
+   "at": "2026-11-07T03:07:01.000Z",
+   "ev": [
+    "iran"
+   ],
+   "cc": [
+    "United States",
+    "Iran"
+   ]
+  },
+  {
    "id": "5c1a467688bd",
-   "t": "Democrats blast Trump’s decision to appoint Stephen Miller as chief of staff in wake of Republican midterm rout – live",
-   "ko": "민주당은 공화당 중간 참패 이후 스티븐 밀러를 비서실장으로 임명하기로 한 트럼프의 결정을 비난했다.",
+   "t": "Democrats blast Trump’s decision to make Stephen Miller his chief of staff as president defends picking loyal ‘MVP’ - as it happened",
+   "ko": "민주당은 대통령이 충성스러운 'MVP'를 뽑는 것을 옹호하면서 스티븐 밀러를 비서실장으로 임명한 트럼프의 결정을 비난했습니다.",
    "src": "The Guardian",
    "u": "https://www.theguardian.com/us-news/live/2026/nov/06/us-midterm-elections-2026-democrats-blue-wave-congress-latest-news-updates",
-   "at": "2026-11-07T01:08:08.000Z",
+   "at": "2026-11-07T03:02:26.000Z",
+   "ev": [],
+   "cc": [
+    "United States"
+   ]
+  },
+  {
+   "id": "d94247d11890",
+   "t": "Ousted Paraguay president under house arrest after banking crisis leaves 60% of country unable to access accounts",
+   "ko": "축출된 파라과이 대통령, 은행위기로 가택연금돼 국민 60% 계좌 접근 불가",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/world/2026/nov/07/ousted-paraguay-president-under-house-arrest-after-banking-crisis-leaves-60-of-country-unable-to-access-accounts",
+   "at": "2026-11-07T01:55:11.000Z",
+   "ev": [],
+   "cc": [
+    "Paraguay"
+   ]
+  },
+  {
+   "id": "533775c3cf0a",
+   "t": "Stephen Miller, architect of Trump’s immigration crackdown, to become White House chief of staff",
+   "ko": "트럼프의 이민 단속 설계자인 스티븐 밀러가 백악관 비서실장이 된다",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/us-news/2026/nov/06/stephen-miller-chief-of-staff-trump",
+   "at": "2026-11-07T01:38:06.000Z",
    "ev": [],
    "cc": [
     "United States"
@@ -45,8 +184,8 @@
   },
   {
    "id": "325e133d4c4b",
-   "t": "How Stephen Miller appointment shows Trump hasn’t learned his lesson on immigration",
-   "ko": "스티븐 밀러 임명은 트럼프가 이민에 대한 교훈을 배우지 못했다는 것을 보여주는 방법",
+   "t": "Stephen Miller’s appointment shows Trump hasn’t learned his lesson on immigration",
+   "ko": "스티븐 밀러의 임명은 트럼프가 이민에 대한 교훈을 배우지 못했다는 것을 보여줍니다",
    "src": "The Guardian",
    "u": "https://www.theguardian.com/us-news/2026/nov/06/donald-trump-stephen-miller-immigration",
    "at": "2026-11-07T01:04:52.000Z",
@@ -90,6 +229,18 @@
    "cc": [
     "Iran",
     "Qatar",
+    "United States"
+   ]
+  },
+  {
+   "id": "1129afa74846",
+   "t": "With Stephen Miller pick, Trump readies for a battle",
+   "ko": "스티븐 밀러 선택으로 트럼프는 전투 준비",
+   "src": "BBC",
+   "u": "https://www.bbc.co.uk/news/articles/crp3gg2z171go?at_medium=RSS&at_campaign=rss",
+   "at": "2026-11-06T23:24:15.000Z",
+   "ev": [],
+   "cc": [
     "United States"
    ]
   },
@@ -179,18 +330,6 @@
    "at": "2026-11-06T20:08:32.000Z",
    "ev": [],
    "cc": []
-  },
-  {
-   "id": "533775c3cf0a",
-   "t": "Stephen Miller, architect of Trump’s immigration crackdown, to become White House chief of staff",
-   "ko": "트럼프의 이민 단속 설계자인 스티븐 밀러가 백악관 비서실장이 된다",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/us-news/2026/nov/06/stephen-miller-chief-of-staff-trump",
-   "at": "2026-11-06T20:06:11.000Z",
-   "ev": [],
-   "cc": [
-    "United States"
-   ]
   },
   {
    "id": "0cbf74246ec8",
@@ -1924,145 +2063,6 @@
    "cc": [
     "Yemen",
     "Saudi Arabia"
-   ]
-  },
-  {
-   "id": "eb8477a528b4",
-   "t": "New bomb threats bring more disruption to flights across Europe",
-   "ko": "새로운 폭탄 위협으로 인해 유럽 전역의 항공편이 더 큰 혼란을 겪습니다.",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/news/2026/11/5/bomb-threat-diverts-dublin-rome-flight-to-france?traffic_source=rss",
-   "at": "2026-11-05T09:50:08.000Z",
-   "ev": [],
-   "cc": [
-    "France",
-    "Italy",
-    "Bulgaria"
-   ]
-  },
-  {
-   "id": "89410fd092fb",
-   "t": "It’s Gaza, stupid",
-   "ko": "여긴 가자야, 바보야",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/opinions/2026/11/5/its-gaza-stupid?traffic_source=rss",
-   "at": "2026-11-05T09:44:33.000Z",
-   "ev": [
-    "gaza"
-   ],
-   "cc": [
-    "Palestine",
-    "Israel"
-   ]
-  },
-  {
-   "id": "cdbb2ad09964",
-   "t": "Hong Kong activist Joshua Wong is sentenced to 10 more years in prison",
-   "ko": "홍콩 운동가 조슈아 웡, 징역 10년 추가 선고",
-   "src": "NPR",
-   "u": "https://www.npr.org/2026/11/05/g-s1-152032/hong-kong-activist-wong-sentenced",
-   "at": "2026-11-05T05:29:56.000Z",
-   "ev": [],
-   "cc": [
-    "Hong Kong"
-   ]
-  },
-  {
-   "id": "b2d385c02ab5",
-   "t": "US midterm elections 2026 live: Democrats eye historic upset in Mississippi Senate race as Republican blame game begins",
-   "ko": "2026년 미국 중간선거 실시간: 민주당은 공화당 비난 게임이 시작되면서 미시시피 상원 경선에서 역사적 혼란을 예고",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/us-news/live/2026/nov/05/midterm-elections-live-latest-updates-mississippi-senate-race",
-   "at": "2026-11-05T05:27:33.000Z",
-   "ev": [
-    "iran"
-   ],
-   "cc": [
-    "United States",
-    "Iran"
-   ]
-  },
-  {
-   "id": "9e0176657cd2",
-   "t": "UK found to be ‘dangerously’ reliant on China for critical minerals needed for defence and AI",
-   "ko": "영국은 국방과 AI에 필요한 필수 광물을 중국에 '위험할 정도로' 의존하고 있는 것으로 밝혀졌습니다.",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/world/2026/nov/05/uk-dangerously-reliant-on-china-critical-minerals-military-ai-renewable-energy",
-   "at": "2026-11-05T05:00:55.000Z",
-   "ev": [],
-   "cc": [
-    "United Kingdom",
-    "China"
-   ]
-  },
-  {
-   "id": "bab7886ab0e6",
-   "t": "Historians say King Verica persuaded Rome to invade Britain. But could Verica actually have been a queen?",
-   "ko": "역사가들은 베리카 왕이 로마를 설득하여 영국을 침공했다고 말합니다. 하지만 베리카는 실제로 여왕이었을까요?",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/uk-news/2026/nov/05/verica-rome-invade-britain-queen-or-king",
-   "at": "2026-11-05T05:00:54.000Z",
-   "ev": [],
-   "cc": [
-    "United Kingdom"
-   ]
-  },
-  {
-   "id": "297097115c5a",
-   "t": "Zelenskyy hopes Democratic Congress will bring more US help for Ukraine",
-   "ko": "Zelenskyy는 민주당 의회가 우크라이나에 대해 미국의 더 많은 도움을 제공하기를 바랍니다",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/news/2026/11/5/zelenskyy-hopes-democratic-congress-will-bring-more-us-help-for-ukraine?traffic_source=rss",
-   "at": "2026-11-05T04:49:56.000Z",
-   "ev": [
-    "ukraine"
-   ],
-   "cc": [
-    "United States",
-    "Ukraine",
-    "Russia"
-   ]
-  },
-  {
-   "id": "444853f1d6b1",
-   "t": "South Korea says it will expand naval operations closer to strait of Hormuz",
-   "ko": "한국, 호르무즈 해협 인근에서 해군 작전 확대",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/world/2026/nov/05/south-korea-to-expand-anti-piracy-unit-strait-of-hormuz",
-   "at": "2026-11-05T04:22:49.000Z",
-   "ev": [
-    "iran"
-   ],
-   "cc": [
-    "South Korea",
-    "Iran",
-    "Oman"
-   ]
-  },
-  {
-   "id": "007a0c9885d7",
-   "t": "Paraguay bank collapses with half of population’s savings",
-   "ko": "파라과이 은행, 인구 절반 저축으로 파산",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/video/newsfeed/2026/11/5/paraguay-bank-collapses-with-half-of-populations-savings?traffic_source=rss",
-   "at": "2026-11-05T04:11:45.000Z",
-   "ev": [],
-   "cc": [
-    "Paraguay"
-   ]
-  },
-  {
-   "id": "e8db9958c58d",
-   "t": "Vance walks Trump tightrope with scathing election critique blaming Iran war",
-   "ko": "밴스, 이란 전쟁 비난하며 신랄한 선거 비판으로 트럼프 줄타기",
-   "src": "BBC",
-   "u": "https://www.bbc.co.uk/news/articles/crz98zqkz7z0o?at_medium=RSS&at_campaign=rss",
-   "at": "2026-11-05T03:47:56.000Z",
-   "ev": [
-    "iran"
-   ],
-   "cc": [
-    "Iran"
    ]
   }
  ]
