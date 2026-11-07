@@ -1,9 +1,9 @@
 {
- "updated": "2026-11-06T21:37:30.868Z",
+ "updated": "2026-11-07T01:13:47.426Z",
  "sources": {
   "BBC": {
    "ok": true,
-   "n": 9
+   "n": 10
   },
   "Al Jazeera": {
    "ok": true,
@@ -19,11 +19,11 @@
   },
   "France 24": {
    "ok": true,
-   "n": 11
+   "n": 13
   },
   "UN News": {
    "ok": true,
-   "n": 5
+   "n": 7
   },
   "NPR": {
    "ok": true,
@@ -31,6 +31,111 @@
   }
  },
  "items": [
+  {
+   "id": "5c1a467688bd",
+   "t": "Democrats blast Trump’s decision to appoint Stephen Miller as chief of staff in wake of Republican midterm rout – live",
+   "ko": "민주당은 공화당 중간 참패 이후 스티븐 밀러를 비서실장으로 임명하기로 한 트럼프의 결정을 비난했다.",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/us-news/live/2026/nov/06/us-midterm-elections-2026-democrats-blue-wave-congress-latest-news-updates",
+   "at": "2026-11-07T01:08:08.000Z",
+   "ev": [],
+   "cc": [
+    "United States"
+   ]
+  },
+  {
+   "id": "325e133d4c4b",
+   "t": "How Stephen Miller appointment shows Trump hasn’t learned his lesson on immigration",
+   "ko": "스티븐 밀러 임명은 트럼프가 이민에 대한 교훈을 배우지 못했다는 것을 보여주는 방법",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/us-news/2026/nov/06/donald-trump-stephen-miller-immigration",
+   "at": "2026-11-07T01:04:52.000Z",
+   "ev": [],
+   "cc": [
+    "United States"
+   ]
+  },
+  {
+   "id": "3e7c87c95d67",
+   "t": "Ben Roberts-Smith collaborates with gym business run by influencer that sold ‘war crimes’ pre-workout supplement",
+   "ko": "벤 로버츠-스미스(Ben Roberts-Smith)는 '전쟁 범죄' 운동 전 보충제를 판매한 인플루언서가 운영하는 체육관 사업과 협력합니다.",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/australia-news/2026/nov/07/ben-roberts-smith-collaborates-gym-business-influencer-war-crimes-pre-workout-supplement-ntwnfb",
+   "at": "2026-11-07T00:58:11.000Z",
+   "ev": [],
+   "cc": [
+    "Australia"
+   ]
+  },
+  {
+   "id": "4a7e1ef8907a",
+   "t": "Russell Brand suspected to have attacked at least 10 other women",
+   "ko": "러셀 브랜드는 최소 10명의 다른 여성을 공격한 혐의를 받고 있다.",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/culture/2026/nov/06/russell-brand-trial-other-women",
+   "at": "2026-11-07T00:00:47.000Z",
+   "ev": [],
+   "cc": []
+  },
+  {
+   "id": "b763a4725b59",
+   "t": "Iran war live: Qatar says US, Iran should not wait to reach a peace deal",
+   "ko": "이란 전쟁 라이브: 카타르는 미국과 이란이 평화 협정에 도달할 때까지 기다려서는 안 된다고 말했습니다.",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/liveblog/2026/11/7/iran-war-live-qatar-says-us-iran-should-not-wait-to-reach-a-peace-deal?traffic_source=rss",
+   "at": "2026-11-07T00:00:00.000Z",
+   "ev": [
+    "iran"
+   ],
+   "cc": [
+    "Iran",
+    "Qatar",
+    "United States"
+   ]
+  },
+  {
+   "id": "2e0a9bf9e20e",
+   "t": "Palestinian couples tie the knot in mass wedding in Gaza",
+   "ko": "팔레스타인 커플, 가자지구에서 대규모 결혼식을 올리다",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/video/newsfeed/2026/11/6/palestinian-couples-tie-the-knot-in-mass-wedding-in-gaza?traffic_source=rss",
+   "at": "2026-11-06T21:37:30.000Z",
+   "ev": [
+    "gaza"
+   ],
+   "cc": [
+    "Palestine",
+    "Israel"
+   ]
+  },
+  {
+   "id": "70ae670eed74",
+   "t": "Kenyan cult leader sentenced to 200 years in prison",
+   "ko": "케냐 이종교주, 징역 200년 선고",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/kenyan-cult-leader-sentenced-to-200-years-in-prison",
+   "at": "2026-11-06T21:23:53.000Z",
+   "ev": [],
+   "cc": [
+    "Kenya",
+    "South Africa",
+    "Senegal"
+   ]
+  },
+  {
+   "id": "7aba9e69b45f",
+   "t": "Europe bomb hoaxes widen",
+   "ko": "유럽 ​​폭탄 사기 확산",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/europe-bomb-hoaxes-widen",
+   "at": "2026-11-06T21:22:24.000Z",
+   "ev": [],
+   "cc": [
+    "Ireland",
+    "Italy",
+    "Russia"
+   ]
+  },
   {
    "id": "43e42c428382",
    "t": "Protesters break into Microsoft data centre site in Amsterdam",
@@ -40,18 +145,6 @@
    "at": "2026-11-06T21:04:40.000Z",
    "ev": [],
    "cc": []
-  },
-  {
-   "id": "5c1a467688bd",
-   "t": "Democrats blast Trump’s decision to appoint Stephen Miller as chief of staff in wake of Republican midterm rout – live",
-   "ko": "민주당은 공화당 중간 참패 이후 스티븐 밀러를 비서실장으로 임명하기로 한 트럼프의 결정을 비난했다.",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/us-news/live/2026/nov/06/us-midterm-elections-2026-democrats-blue-wave-congress-latest-news-updates",
-   "at": "2026-11-06T21:03:08.000Z",
-   "ev": [],
-   "cc": [
-    "United States"
-   ]
   },
   {
    "id": "bb7780fee199",
@@ -110,16 +203,6 @@
    "cc": []
   },
   {
-   "id": "4a7e1ef8907a",
-   "t": "Russell Brand suspected to have attacked at least 10 other women",
-   "ko": "러셀 브랜드는 최소 10명의 다른 여성을 공격한 혐의를 받고 있다.",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/culture/2026/nov/06/russell-brand-trial-other-women",
-   "at": "2026-11-06T19:23:24.000Z",
-   "ev": [],
-   "cc": []
-  },
-  {
    "id": "54d6a280d177",
    "t": "Want to have a better chat? Scientists say the secret is ‘pink noise’",
    "ko": "더 나은 채팅을 원하시나요? 과학자들이 말하는 비결은 '핑크 노이즈'",
@@ -164,6 +247,18 @@
    ],
    "cc": [
     "Yemen"
+   ]
+  },
+  {
+   "id": "9ce3058db886",
+   "t": "Spain's rail authorities face European fraud probe after Urda rail disaster",
+   "ko": "스페인 철도청, 우르다 철도 참사 이후 유럽 사기 조사에 직면",
+   "src": "BBC",
+   "u": "https://www.bbc.co.uk/news/articles/c6x2wwnz5445o?at_medium=RSS&at_campaign=rss",
+   "at": "2026-11-06T17:44:02.000Z",
+   "ev": [],
+   "cc": [
+    "Spain"
    ]
   },
   {
@@ -607,6 +702,35 @@
    "at": "2026-11-06T12:00:00.000Z",
    "ev": [],
    "cc": []
+  },
+  {
+   "id": "ad25359eddcd",
+   "t": "Afghanistan faces deepening humanitarian crisis amid sweeping rights restrictions",
+   "ko": "아프가니스탄은 전면적인 인권 제한으로 인도주의적 위기가 심화되고 있다",
+   "src": "UN News",
+   "u": "https://news.un.org/feed/view/en/story/2026/11/1168758",
+   "at": "2026-11-06T12:00:00.000Z",
+   "ev": [
+    "afpak"
+   ],
+   "cc": [
+    "Afghanistan"
+   ]
+  },
+  {
+   "id": "a62193ec19db",
+   "t": "World News in Brief: Civilians killed in DR Congo, Ukrainians wrestle with return, Guterres calls out ‘normalisation’ of force",
+   "ko": "세계 뉴스 요약: 콩고민주공화국에서 민간인 사망, 우크라이나인 귀환 위해 고군분투, 구테레스는 무력의 '정상화' 촉구",
+   "src": "UN News",
+   "u": "https://news.un.org/feed/view/en/story/2026/11/1168757",
+   "at": "2026-11-06T12:00:00.000Z",
+   "ev": [
+    "ukraine",
+    "drc"
+   ],
+   "cc": [
+    "Democratic Republic of the Congo"
+   ]
   },
   {
    "id": "a5922f5bfbd6",
@@ -1939,133 +2063,6 @@
    ],
    "cc": [
     "Iran"
-   ]
-  },
-  {
-   "id": "449b627e0a32",
-   "t": "Former Israeli generals help Palestinian olive farmers",
-   "ko": "전직 이스라엘 장군들이 팔레스타인 올리브 농부들을 도왔습니다.",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/video/newsfeed/2026/11/5/former-israeli-generals-help-palestinian-olive-farmers?traffic_source=rss",
-   "at": "2026-11-05T02:52:30.000Z",
-   "ev": [
-    "westbank"
-   ],
-   "cc": [
-    "Israel",
-    "Palestine"
-   ]
-  },
-  {
-   "id": "46051b9e7fce",
-   "t": "South Korea to deploy military mission to keep Strait of Hormuz open",
-   "ko": "한국, 호르무즈 해협 개방 유지 위해 군사 임무 파견",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/asia-pacific/20261105-south-korea-military-mission-strait-of-hormuz",
-   "at": "2026-11-05T02:17:44.000Z",
-   "ev": [
-    "iran"
-   ],
-   "cc": [
-    "South Korea"
-   ]
-  },
-  {
-   "id": "100c3d8e9d56",
-   "t": "El Salvador’s Bukele touts military intervention in Haiti",
-   "ko": "엘살바도르의 부켈레, 아이티에 대한 군사개입 주장",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/news/2026/11/5/el-salvadors-bukele-touts-military-intervention-in-haiti?traffic_source=rss",
-   "at": "2026-11-05T02:10:07.000Z",
-   "ev": [
-    "haiti"
-   ],
-   "cc": [
-    "El Salvador",
-    "Haiti"
-   ]
-  },
-  {
-   "id": "db3bde2c3c47",
-   "t": "Hubert Aiwanger, prominent German politician, found dead in Berlin hotel",
-   "ko": "독일 유명 정치인 후베르트 아이방거(Hubert Aiwanger)가 베를린 호텔에서 숨진 채 발견됐다.",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/world/2026/nov/05/hubert-aiwanger-dead-german-politician-berlin-hotel",
-   "at": "2026-11-05T00:53:19.000Z",
-   "ev": [],
-   "cc": [
-    "Germany"
-   ]
-  },
-  {
-   "id": "6f2c84f47350",
-   "t": "Iran war live: Khamenei says US hostility will persist after midterms",
-   "ko": "이란 전쟁 생중계: 하메네이는 미국의 적대감이 중간고사 이후에도 지속될 것이라고 말했습니다.",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/news/liveblog/2026/11/5/iran-war-live-trump-admits-war-caused-election-loss-but-had-to-do-it?traffic_source=rss",
-   "at": "2026-11-05T00:00:00.000Z",
-   "ev": [
-    "iran"
-   ],
-   "cc": [
-    "Iran",
-    "United States"
-   ]
-  },
-  {
-   "id": "e626a6401717",
-   "t": "Mother and daughter die after suspected grizzly bear attack in Canada",
-   "ko": "캐나다에서 회색곰 공격으로 의심되는 어머니와 딸 사망",
-   "src": "BBC",
-   "u": "https://www.bbc.co.uk/news/articles/cqvgry8k5d01o?at_medium=RSS&at_campaign=rss",
-   "at": "2026-11-04T23:50:40.000Z",
-   "ev": [],
-   "cc": [
-    "Canada"
-   ]
-  },
-  {
-   "id": "f8646df3b811",
-   "t": "Trump blames Iran war for midterms losses",
-   "ko": "트럼프, 중기 손실 원인은 이란 전쟁 탓",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/video/newsfeed/2026/11/4/trump-blames-iran-war-for-midterms-losses?traffic_source=rss",
-   "at": "2026-11-04T23:30:01.000Z",
-   "ev": [
-    "iran"
-   ],
-   "cc": [
-    "Iran"
-   ]
-  },
-  {
-   "id": "7bb8998eca36",
-   "t": "Ukraine says bodycam video shows deadly Russian double-tap bombing",
-   "ko": "우크라이나, 바디캠 영상에 러시아의 이중 탭 폭격 장면이 담겨 있다고 주장",
-   "src": "BBC",
-   "u": "https://www.bbc.co.uk/news/articles/c98rz6penv86o?at_medium=RSS&at_campaign=rss",
-   "at": "2026-11-04T22:48:43.000Z",
-   "ev": [
-    "ukraine"
-   ],
-   "cc": [
-    "Ukraine",
-    "Russia"
-   ]
-  },
-  {
-   "id": "4507554b7cbc",
-   "t": "Democratic Socialists of America see record wins in US midterm elections",
-   "ko": "미국의 민주사회당이 미국 중간선거에서 기록적인 승리를 거두었습니다.",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/news/2026/11/4/democratic-socialists-of-america-see-record-wins-in-us-midterm-elections?traffic_source=rss",
-   "at": "2026-11-04T22:45:24.000Z",
-   "ev": [
-    "gaza"
-   ],
-   "cc": [
-    "United States",
-    "Palestine"
    ]
   }
  ]
