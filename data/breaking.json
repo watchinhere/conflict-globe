@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-07T18:51:53.898Z",
+ "updated": "2026-11-07T22:33:14.465Z",
  "sources": {
   "BBC": {
    "ok": true,
@@ -7,11 +7,11 @@
   },
   "Al Jazeera": {
    "ok": true,
-   "n": 11
+   "n": 12
   },
   "The Guardian": {
    "ok": true,
-   "n": 12
+   "n": 13
   },
   "DW": {
    "ok": true,
@@ -19,7 +19,7 @@
   },
   "France 24": {
    "ok": true,
-   "n": 13
+   "n": 14
   },
   "UN News": {
    "ok": true,
@@ -32,12 +32,22 @@
  },
  "items": [
   {
+   "id": "10a11a207755",
+   "t": "What we know so far after Krakow gun attack",
+   "ko": "크라쿠프 총격 사건 이후 지금까지 우리가 알고 있는 것",
+   "src": "BBC",
+   "u": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss",
+   "at": "2026-11-07T22:27:30.000Z",
+   "ev": [],
+   "cc": []
+  },
+  {
    "id": "2836ed32ece6",
    "t": "Kraków shooting latest updates: six killed and more than a dozen injured, police say",
    "ko": "크라쿠프 총격 사건 최신 업데이트: 6명이 사망하고 12명 이상이 부상했다고 경찰이 밝혔습니다.",
    "src": "The Guardian",
    "u": "https://www.theguardian.com/world/live/2026/nov/07/krakow-shooting-poland-latest-news-updates",
-   "at": "2026-11-07T18:39:30.000Z",
+   "at": "2026-11-07T21:58:54.000Z",
    "ev": [],
    "cc": [
     "United States",
@@ -45,15 +55,163 @@
    ]
   },
   {
-   "id": "10a11a207755",
-   "t": "What we know about Krakow mass shooting so far",
-   "ko": "지금까지 크라쿠프 대량 총격 사건에 대해 우리가 알고 있는 것",
-   "src": "BBC",
-   "u": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss",
-   "at": "2026-11-07T18:22:11.000Z",
+   "id": "d16142210881",
+   "t": "Police clash with protesters as anti-government rallies sweep France",
+   "ko": "프랑스 전역에서 반정부 집회가 벌어지자 경찰과 시위대 충돌",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/video/newsfeed/2026/11/7/police-clash-with-protesters-as-anti-government-rallies-sweep-france?traffic_source=rss",
+   "at": "2026-11-07T21:24:10.000Z",
+   "ev": [],
+   "cc": [
+    "France"
+   ]
+  },
+  {
+   "id": "f50d287e94f5",
+   "t": "Six dead after gunman opens fire in Kraków market square, with three more victims found at suspect’s home",
+   "ko": "크라쿠프 시장 광장에서 총격범이 총격을 가해 6명이 숨지고, 용의자의 집에서 3명이 추가로 발견됐다.",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/world/2026/nov/07/krakow-poland-shooting-market-square-deaths-gunman",
+   "at": "2026-11-07T21:19:01.000Z",
    "ev": [],
    "cc": [
     "Poland"
+   ]
+  },
+  {
+   "id": "75c705f6b4d2",
+   "t": "Who is behind Europe’s suspected hybrid attacks?",
+   "ko": "유럽에서 의심되는 하이브리드 공격의 배후는 누구입니까?",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/video/inside-story/2026/11/7/who-is-behind-europes-suspected-hybrid-attacks?traffic_source=rss",
+   "at": "2026-11-07T20:48:58.000Z",
+   "ev": [],
+   "cc": []
+  },
+  {
+   "id": "ec039aa045ac",
+   "t": "'A violent fighter and warrior': Trump offers press secretary role to UFC chief Dana White",
+   "ko": "'폭력적인 전사이자 전사' 트럼프, 데이나 화이트 UFC 대표에게 기자 자리 제안",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/americas/20261107-a-violent-fighter-and-warrior-trump-offers-press-secretary-role-to-ufc-chief-dana-white",
+   "at": "2026-11-07T20:45:45.000Z",
+   "ev": [],
+   "cc": [
+    "United States"
+   ]
+  },
+  {
+   "id": "4e070b16673e",
+   "t": "Abdul El-Sayed slams Trump’s tariff war with Canada",
+   "ko": "Abdul El-Sayed는 트럼프의 캐나다와의 관세 전쟁을 비난했습니다.",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/video/newsfeed/2026/11/7/abdul-el-sayed-slams-trumps-tariff-war-with-canada?traffic_source=rss",
+   "at": "2026-11-07T20:44:34.000Z",
+   "ev": [],
+   "cc": [
+    "Canada"
+   ]
+  },
+  {
+   "id": "f1914e95baa8",
+   "t": "More than 140,000 rally as new protests against rising costs sweep France",
+   "ko": "비용 인상에 대한 새로운 항의가 프랑스를 휩쓸면서 140,000명 이상의 집회가 열렸습니다.",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/11/7/more-than-140000-rally-as-new-protests-against-rising-costs-sweep-france?traffic_source=rss",
+   "at": "2026-11-07T20:12:22.000Z",
+   "ev": [],
+   "cc": [
+    "France"
+   ]
+  },
+  {
+   "id": "3ec4150b8fd4",
+   "t": "Ukraine’s Zaporizhzhia faces threat as Russian drones close in",
+   "ko": "러시아 드론이 접근해 우크라이나 자포리지아(Zaporizhzhia) 위협에 직면",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/video/newsfeed/2026/11/7/0711-reported-audrey-in-zaporizhzhia-071126?traffic_source=rss",
+   "at": "2026-11-07T20:10:38.000Z",
+   "ev": [
+    "ukraine"
+   ],
+   "cc": [
+    "Ukraine",
+    "Russia"
+   ]
+  },
+  {
+   "id": "154e291d3037",
+   "t": "Richard Lloyd, founding member and guitarist of punk band Television, dies aged 75",
+   "ko": "펑크 밴드 텔레비전의 창립 멤버이자 기타리스트인 리차드 로이드(Richard Lloyd)가 75세의 나이로 사망했습니다.",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/music/2026/nov/07/richard-lloyd-punk-band-television-dies-aged-75",
+   "at": "2026-11-07T20:06:25.000Z",
+   "ev": [],
+   "cc": []
+  },
+  {
+   "id": "a4c6f85a8ce4",
+   "t": "France Unbowed’s Mélenchon unveils ‘A Shared Future’ manifesto ahead of 2027 presidential race",
+   "ko": "France Unbowed의 Mélenchon, 2027년 대선을 앞두고 '공유된 미래' 선언문 공개",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/tv-shows/spotlight/20261107-france-unbowed-s-m%C3%A9lenchon-unveils-a-shared-future-manifesto-ahead-of-2027-presidential-race",
+   "at": "2026-11-07T19:58:43.000Z",
+   "ev": [],
+   "cc": [
+    "France"
+   ]
+  },
+  {
+   "id": "ce0806935ef4",
+   "t": "Masked protesters set off firecrackers and block roads in Albania",
+   "ko": "가면을 쓴 시위대가 알바니아에서 폭죽을 터뜨리고 도로를 막았습니다.",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/video/newsfeed/2026/11/7/masked-protesters-set-off-firecrackers-and-block-roads-in-albania?traffic_source=rss",
+   "at": "2026-11-07T19:49:19.000Z",
+   "ev": [],
+   "cc": [
+    "Albania"
+   ]
+  },
+  {
+   "id": "173755b2628a",
+   "t": "Israeli president picks Netanyahu's rival Eisenkot to try to form government",
+   "ko": "이스라엘 대통령, 정부 구성을 위해 네타냐후의 라이벌 아이젠코트를 지명",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/middle-east/20261107-israeli-president-picks-netanyahu-s-rival-eisenkot-to-try-to-form-government",
+   "at": "2026-11-07T19:37:14.000Z",
+   "ev": [],
+   "cc": [
+    "Israel"
+   ]
+  },
+  {
+   "id": "7bcbf4fe40fc",
+   "t": "Latvian farmers protest over ‘blood grain’ trade with Russia",
+   "ko": "라트비아 농민, 러시아와의 '혈액 곡물' 무역에 항의",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/video/newsfeed/2026/11/7/7-11-sv-latvia-farmers-protest-russian-grain-transit?traffic_source=rss",
+   "at": "2026-11-07T19:10:34.000Z",
+   "ev": [
+    "ukraine"
+   ],
+   "cc": [
+    "Russia",
+    "Ukraine"
+   ]
+  },
+  {
+   "id": "566a74c7d2b4",
+   "t": "Yemeni gov’t forces report advances as Houthis say deadly strikes hit Sanaa",
+   "ko": "예멘 정부군, 후티 반군이 치명적인 공습으로 사나를 강타했다고 발표",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/11/7/yemeni-govt-forces-report-advances-as-houthis-say-deadly-strikes-hit-sanaa?traffic_source=rss",
+   "at": "2026-11-07T19:06:31.000Z",
+   "ev": [
+    "yemen"
+   ],
+   "cc": [
+    "Yemen"
    ]
   },
   {
@@ -86,18 +244,6 @@
    ]
   },
   {
-   "id": "f50d287e94f5",
-   "t": "Six dead after gunman opens fire ‘at random’ in Kraków market square",
-   "ko": "크라쿠프 시장 광장에서 총격범이 '무작위' 총격을 가해 6명이 사망",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/world/2026/nov/07/krakow-poland-shooting-market-square-deaths-gunman",
-   "at": "2026-11-07T17:17:23.000Z",
-   "ev": [],
-   "cc": [
-    "Poland"
-   ]
-  },
-  {
    "id": "b3534df0c874",
    "t": "Houthis say at least 25 killed in Saudi air strike",
    "ko": "후티 반군 \"사우디 공습으로 최소 25명 사망\"",
@@ -114,8 +260,8 @@
   },
   {
    "id": "141accc59656",
-   "t": "Valencia vs Real Madrid LIVE: La Liga",
-   "ko": "발렌시아 대 레알 마드리드 LIVE: 라 리가",
+   "t": "Valencia 0-3 Real Madrid LIVE: La Liga",
+   "ko": "발렌시아 0-3 레알 마드리드 LIVE: 라 리가",
    "src": "Al Jazeera",
    "u": "https://www.aljazeera.com/sports/liveblog/2026/11/7/valencia-vs-real-madrid-live-la-liga?traffic_source=rss",
    "at": "2026-11-07T17:00:12.000Z",
@@ -197,15 +343,13 @@
   },
   {
    "id": "d4298f9a1819",
-   "t": "At least six people killed in shooting in Polish city of Krakow, police say",
-   "ko": "폴란드 크라쿠프에서 총격 사건이 발생해 최소 6명이 사망했다고 경찰이 밝혔다.",
+   "t": "Gunman who killed at least six people in Krakow had ‘far-right’ views, Polish government says",
+   "ko": "크라쿠프에서 최소 6명을 살해한 총격범은 극우 성향이었다고 폴란드 정부가 밝혔다.",
    "src": "France 24",
    "u": "https://www.france24.com/en/europe/20261107-at-least-three-people-killed-shooting-in-polish-city-of-krakow-police-say",
    "at": "2026-11-07T15:23:48.000Z",
    "ev": [],
-   "cc": [
-    "Poland"
-   ]
+   "cc": []
   },
   {
    "id": "1e8aa65b1853",
@@ -301,8 +445,8 @@
   },
   {
    "id": "d5b05a550a34",
-   "t": "Trump’s elevation of Stephen Miller a middle finger to millions of voters",
-   "ko": "수백만 유권자들에게 트럼프가 스티븐 밀러를 가운데 손가락으로 지명한 이유",
+   "t": "Trump’s elevation of Stephen Miller is a middle finger to millions of voters",
+   "ko": "트럼프의 스티븐 밀러 상승은 수백만 유권자들에게 가운데 손가락입니다",
    "src": "The Guardian",
    "u": "https://www.theguardian.com/us-news/2026/nov/07/trump-stephen-miller-midterms",
    "at": "2026-11-07T13:00:12.000Z",
@@ -522,8 +666,8 @@
   },
   {
    "id": "43d3003c551f",
-   "t": "Live: French student unions say 250,000 people took part in Saturday’s protests",
-   "ko": "생방송: 프랑스 학생회는 토요일 시위에 25만 명이 참여했다고 밝혔습니다.",
+   "t": "French student unions say 250,000 people took part in Saturday’s protests",
+   "ko": "프랑스 학생회는 토요일 시위에 25만 명이 참여했다고 밝혔습니다.",
    "src": "France 24",
    "u": "https://www.france24.com/en/france/20261107-live-france-braces-for-more-nationwide-protests-as-yellow-vests-urge-mass-disobedience",
    "at": "2026-11-07T08:17:22.000Z",
@@ -1680,196 +1824,6 @@
    "at": "2026-11-05T23:09:33.000Z",
    "ev": [],
    "cc": [
-    "United States"
-   ]
-  },
-  {
-   "id": "0e48bd76d816",
-   "t": "Israeli demolitions displace more than 100 Palestinians in Biddu",
-   "ko": "이스라엘의 폭파로 비두에서 팔레스타인인 100명 이상 이주",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/video/newsfeed/2026/11/5/aje-onl-nf_israeli-demolitions-displace-palestinians-in-biddu-051126?traffic_source=rss",
-   "at": "2026-11-05T21:33:40.000Z",
-   "ev": [
-    "westbank"
-   ],
-   "cc": [
-    "Israel",
-    "Palestine"
-   ]
-  },
-  {
-   "id": "e990d4bf7ee3",
-   "t": "Hoax bomb threats force emergency landings, evacuations across Europe",
-   "ko": "가짜 폭탄 위협으로 인해 유럽 전역에 비상 착륙 및 대피가 발생했습니다.",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/video/newsfeed/2026/11/5/hoax-bomb-threats-force-emergency-landings-evacuations-across-europe?traffic_source=rss",
-   "at": "2026-11-05T21:26:21.000Z",
-   "ev": [],
-   "cc": []
-  },
-  {
-   "id": "746183376196",
-   "t": "Nigeria court bars opposition candidate two months before election",
-   "ko": "나이지리아 법원, 선거 두 달 앞두고 야당 후보 출마 금지",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/nigeria-court-bars-opposition-candidate-two-months-before-election",
-   "at": "2026-11-05T21:22:18.000Z",
-   "ev": [
-    "ethiopia",
-    "nigeria"
-   ],
-   "cc": [
-    "Nigeria",
-    "Kenya",
-    "Ethiopia"
-   ]
-  },
-  {
-   "id": "643f06df6856",
-   "t": "Saudi coalition intercepts missile fired towards Medina",
-   "ko": "사우디 연합군, 메디나 향해 발사된 미사일 요격",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/news/2026/11/5/saudi-coalition-intercepts-missile-fired-towards-medina?traffic_source=rss",
-   "at": "2026-11-05T20:48:47.000Z",
-   "ev": [],
-   "cc": [
-    "Saudi Arabia"
-   ]
-  },
-  {
-   "id": "294f9272f24b",
-   "t": "Gavin Newsom commutes more than 500 death sentences in California",
-   "ko": "개빈 뉴섬(Gavin Newsom)은 캘리포니아에서 500명 이상의 사형 선고를 감형했습니다.",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/us-news/2026/nov/05/gavin-newsom-commutes-death-sentences-california",
-   "at": "2026-11-05T20:44:57.000Z",
-   "ev": [],
-   "cc": [
-    "United States"
-   ]
-  },
-  {
-   "id": "f7db50156a2c",
-   "t": "Melania Trump hosts Russia-Ukraine meeting after Oleshky ceasefire",
-   "ko": "멜라니아 트럼프, 올레쉬키 휴전 이후 러시아-우크라이나 회담 주최",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/video/newsfeed/2026/11/5/melania-trump-hosts-russia-ukraine-meeting-after-oleshky-ceasefire?traffic_source=rss",
-   "at": "2026-11-05T20:43:46.000Z",
-   "ev": [
-    "ukraine"
-   ],
-   "cc": [
-    "United States",
-    "Russia",
-    "Ukraine"
-   ]
-  },
-  {
-   "id": "73c2b77213d1",
-   "t": "Trump administration holds secret talks to deport Iranians even as war presses on, court documents show",
-   "ko": "법원 문서에 따르면 트럼프 행정부는 전쟁이 계속되는 와중에도 이란인들을 추방하기 위해 비밀 회담을 진행 중이다.",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/us-news/2026/nov/05/trump-administration-deport-iranians",
-   "at": "2026-11-05T20:43:26.000Z",
-   "ev": [
-    "iran"
-   ],
-   "cc": [
-    "Iran"
-   ]
-  },
-  {
-   "id": "d337609acd07",
-   "t": "French protests: 'It's only when public, private sector act together that you can make changes'",
-   "ko": "프랑스 시위: '공공과 민간이 함께 행동해야만 변화를 만들 수 있다'",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/video/20261105-french-protests-it-s-only-when-public-private-sector-act-together-that-you-can-make-changes",
-   "at": "2026-11-05T20:39:49.000Z",
-   "ev": [],
-   "cc": [
-    "France"
-   ]
-  },
-  {
-   "id": "09269b9bc382",
-   "t": "Mass protests in France driven by nationwide strike action",
-   "ko": "전국적 파업으로 촉발된 프랑스 대규모 시위",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/video/newsfeed/2026/11/5/mass-protests-in-france-driven-by-nationwide-strike-action?traffic_source=rss",
-   "at": "2026-11-05T20:11:37.000Z",
-   "ev": [],
-   "cc": [
-    "France"
-   ]
-  },
-  {
-   "id": "d7204ccd8c69",
-   "t": "'Inhumane punishment': Governor Gavin Newsom to commute all 548 California death sentences",
-   "ko": "'비인도적인 처벌': 개빈 뉴섬 주지사, 캘리포니아주 사형 선고 548건 모두 감형",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/americas/20261105-inhumane-punishment-california-governor-gavin-newsom-to-commute-548-death-sentences",
-   "at": "2026-11-05T19:59:48.000Z",
-   "ev": [],
-   "cc": [
-    "United States"
-   ]
-  },
-  {
-   "id": "413516c6ba41",
-   "t": "Who could be behind hoax bomb threats to European air travel?",
-   "ko": "유럽 ​​항공 여행에 대한 가짜 폭탄 위협 뒤에 누가 있을 수 있습니까?",
-   "src": "BBC",
-   "u": "https://www.bbc.co.uk/news/articles/cx8dzzjg3g9zo?at_medium=RSS&at_campaign=rss",
-   "at": "2026-11-05T19:58:40.000Z",
-   "ev": [
-    "iran"
-   ],
-   "cc": [
-    "Russia",
-    "Iran"
-   ]
-  },
-  {
-   "id": "b191861c3b26",
-   "t": "Eight killed in series of shootings in western Turkey",
-   "ko": "터키 서부에서 연쇄 총격 사건으로 8명 사망",
-   "src": "BBC",
-   "u": "https://www.bbc.co.uk/news/articles/cvj6jj21pd2ko?at_medium=RSS&at_campaign=rss",
-   "at": "2026-11-05T19:32:54.000Z",
-   "ev": [],
-   "cc": [
-    "Turkey"
-   ]
-  },
-  {
-   "id": "2e438c49db59",
-   "t": "Melania Trump calls for peace at meeting with Russia, Ukraine officials",
-   "ko": "멜라니아 트럼프, 러시아·우크라이나 관리들과 회담에서 평화 촉구",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/news/2026/11/5/melania-trump-calls-for-peace-at-meeting-with-russia-ukraine-officials?traffic_source=rss",
-   "at": "2026-11-05T19:31:28.000Z",
-   "ev": [
-    "ukraine"
-   ],
-   "cc": [
-    "Russia",
-    "Ukraine",
-    "United States"
-   ]
-  },
-  {
-   "id": "c4b757428d11",
-   "t": "Americans voted against Trump's Iran war. Gulf countries hope that means an end to the conflict",
-   "ko": "미국인들은 트럼프의 이란 전쟁에 반대표를 던졌다. 걸프 국가들은 분쟁이 종식되기를 희망합니다.",
-   "src": "DW",
-   "u": "https://www.dw.com/en/americans-voted-against-trump-s-iran-war-gulf-countries-hope-that-means-an-end-to-the-conflict/a-79868398?maca=en-rss-en-world-4025-rdf",
-   "at": "2026-11-05T19:12:00.000Z",
-   "ev": [
-    "iran"
-   ],
-   "cc": [
-    "Iran",
     "United States"
    ]
   }
