@@ -1,13 +1,13 @@
 {
- "updated": "2026-11-08T15:51:59.580Z",
+ "updated": "2026-11-08T20:17:15.197Z",
  "sources": {
   "BBC": {
    "ok": true,
-   "n": 6
+   "n": 7
   },
   "Al Jazeera": {
    "ok": true,
-   "n": 7
+   "n": 3
   },
   "The Guardian": {
    "ok": true,
@@ -19,7 +19,7 @@
   },
   "France 24": {
    "ok": true,
-   "n": 16
+   "n": 15
   },
   "UN News": {
    "ok": true,
@@ -31,6 +31,127 @@
   }
  },
  "items": [
+  {
+   "id": "fd082421c347",
+   "t": "Seven dead and more than 100 injured after trains collide in Egypt",
+   "ko": "이집트에서 열차 충돌로 7명이 사망하고 100명 이상이 부상당했다.",
+   "src": "BBC",
+   "u": "https://www.bbc.co.uk/news/articles/cwvgr20mmmevo?at_medium=RSS&at_campaign=rss",
+   "at": "2026-11-08T19:58:02.000Z",
+   "ev": [],
+   "cc": [
+    "Egypt"
+   ]
+  },
+  {
+   "id": "8a3ed9a2297b",
+   "t": "Riot breaks out at influencer boxing event attended by Tommy Robinson in Ireland",
+   "ko": "아일랜드의 토미 로빈슨이 참석한 인플루언서 복싱 행사에서 폭동이 발생했습니다.",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/uk-news/2026/nov/08/riot-influencer-boxing-event-attended-tommy-robinson-ireland",
+   "at": "2026-11-08T18:33:34.000Z",
+   "ev": [],
+   "cc": [
+    "Ireland"
+   ]
+  },
+  {
+   "id": "97b1a1785af3",
+   "t": "Surgeon having lunch near Krakow shooting undoubtedly saved officer's life, colleague says",
+   "ko": "크라쿠프 총격 사건 근처에서 점심을 먹은 외과의사가 의심할 바 없이 경찰관의 생명을 구했다고 동료가 말했습니다.",
+   "src": "BBC",
+   "u": "https://www.bbc.co.uk/news/articles/c5x2vw4e1gx1o?at_medium=RSS&at_campaign=rss",
+   "at": "2026-11-08T18:22:53.000Z",
+   "ev": [],
+   "cc": []
+  },
+  {
+   "id": "16f2d0293549",
+   "t": "Trump set to lurch further right, claiming US took ‘giant step back’ in elections",
+   "ko": "트럼프, 미국이 선거에서 '대단한 조치'를 취했다고 주장하며 더 우파로 휘둘릴 듯",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/us-news/2026/nov/08/trump-midterm-elections-loss-democrats-immigration",
+   "at": "2026-11-08T17:58:43.000Z",
+   "ev": [],
+   "cc": [
+    "United States"
+   ]
+  },
+  {
+   "id": "6472930ee2a7",
+   "t": "Gadi Eisenkot reaches out to Netanyahu allies as he strives to form government",
+   "ko": "Gadi Eisenkot는 정부 구성을 위해 노력하면서 네타냐후 동맹국에 손을 뻗었습니다.",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/world/2026/nov/08/gadi-eisenkot-netanyahu-allies-form-israel-government",
+   "at": "2026-11-08T17:53:59.000Z",
+   "ev": [],
+   "cc": [
+    "Israel"
+   ]
+  },
+  {
+   "id": "836d3453271e",
+   "t": "Labour expected to cut EV targets for UK’s car industry despite MPs’ protests",
+   "ko": "노동당은 의원들의 항의에도 불구하고 영국 자동차 산업의 EV 목표를 줄일 것으로 예상됨",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/environment/2026/nov/08/labour-cut-ev-target-car-industry-despite-climate-concerns",
+   "at": "2026-11-08T17:51:19.000Z",
+   "ev": [],
+   "cc": [
+    "United Kingdom"
+   ]
+  },
+  {
+   "id": "ff406199a7cc",
+   "t": "Collision of two trains in Egypt kills at least seven",
+   "ko": "이집트서 열차 두 대 충돌해 최소 7명 사망",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/world/2026/nov/08/egypt-two-trains-deadly-collision",
+   "at": "2026-11-08T17:51:17.000Z",
+   "ev": [],
+   "cc": [
+    "Egypt"
+   ]
+  },
+  {
+   "id": "9b9296914dcf",
+   "t": "Hundreds of thousands join Amsterdam’s ‘Red Line’ protest against Israel",
+   "ko": "암스테르담 '레드라인' 이스라엘 반대 시위에 수십만명 동참",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/11/8/hundreds-of-thousands-protesters-storm-amsterdam?traffic_source=rss",
+   "at": "2026-11-08T17:44:51.000Z",
+   "ev": [],
+   "cc": [
+    "Israel"
+   ]
+  },
+  {
+   "id": "2109efc29540",
+   "t": "Ukraine: Russian strikes leave hundreds of thousands without power",
+   "ko": "우크라이나: 러시아의 공습으로 수십만명의 전력 공급 중단",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/ukraine-russian-strikes-leave-hundreds-of-thousands-without-power",
+   "at": "2026-11-08T16:59:42.000Z",
+   "ev": [
+    "ukraine"
+   ],
+   "cc": [
+    "Ukraine",
+    "Russia"
+   ]
+  },
+  {
+   "id": "9b5ca2220f15",
+   "t": "Seven killed, 112 injured in train collision in Egypt",
+   "ko": "이집트서 열차 충돌로 7명 사망, 112명 부상",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/video/newsfeed/2026/11/8/four-killed-88-injured-in-train-collision-in-egypt?traffic_source=rss",
+   "at": "2026-11-08T16:31:54.000Z",
+   "ev": [],
+   "cc": [
+    "Egypt"
+   ]
+  },
   {
    "id": "34c6cb4164db",
    "t": "Beef industry quietly squashes part of its own science curriculum after ranchers protest",
@@ -130,9 +251,23 @@
    "cc": []
   },
   {
+   "id": "221e80597e10",
+   "t": "Iran executes three men for 'armed unrest' after January protests",
+   "ko": "이란, 1월 시위 이후 '무장 불안' 혐의로 남성 3명 처형",
+   "src": "BBC",
+   "u": "https://www.bbc.co.uk/news/articles/ckly0ex633ydo?at_medium=RSS&at_campaign=rss",
+   "at": "2026-11-08T13:37:50.000Z",
+   "ev": [
+    "iran"
+   ],
+   "cc": [
+    "Iran"
+   ]
+  },
+  {
    "id": "dbae0af08f3c",
-   "t": "At least 21 dead as small boat sinks off Senegal",
-   "ko": "세네갈에서 소형선박 침몰로 최소 21명 사망",
+   "t": "At least 34 dead as small boat sinks off Senegal",
+   "ko": "세네갈에서 소형선박 침몰로 최소 34명 사망",
    "src": "Al Jazeera",
    "u": "https://www.aljazeera.com/news/2026/11/8/at-least-21-dead-as-small-boat-sinks-off-senegal?traffic_source=rss",
    "at": "2026-11-08T13:32:17.000Z",
@@ -383,6 +518,22 @@
    "ev": [],
    "cc": [
     "France"
+   ]
+  },
+  {
+   "id": "a4c834776699",
+   "t": "Yemen's Houthis claim attack on Aramco skyscraper in Riyadh",
+   "ko": "예멘 후티 반군, 리야드 아람코 초고층건물 공격",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/middle-east/20261108-yemen-s-houthis-claim-attack-on-aramco-building-in-riyadh-s-financial-district",
+   "at": "2026-11-08T08:11:54.000Z",
+   "ev": [
+    "iran",
+    "yemen"
+   ],
+   "cc": [
+    "Yemen",
+    "Saudi Arabia"
    ]
   },
   {
@@ -1514,171 +1665,6 @@
    "src": "Al Jazeera",
    "u": "https://www.aljazeera.com/video/newsfeed/2026/11/6/how-street-medics-protect-french-protesters?traffic_source=rss",
    "at": "2026-11-06T20:17:32.000Z",
-   "ev": [],
-   "cc": [
-    "France"
-   ]
-  },
-  {
-   "id": "2d3459557a70",
-   "t": "Midterms: A Maga PostMortem, Europe’s ‘Shape Shifting’ Protests",
-   "ko": "중간고사: 마가 사후 분석, 유럽의 '형태 변화' 시위",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/tv-shows/the-world-this-week/20261106-midterms-a-maga-postmortem-europe-s-shape-shifting-protests",
-   "at": "2026-11-06T20:08:32.000Z",
-   "ev": [],
-   "cc": []
-  },
-  {
-   "id": "54d6a280d177",
-   "t": "Want to have a better chat? Scientists say the secret is ‘pink noise’",
-   "ko": "더 나은 채팅을 원하시나요? 과학자들이 말하는 비결은 '핑크 노이즈'",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/science/2026/nov/06/better-conversation-study-pink-noise",
-   "at": "2026-11-06T19:00:49.000Z",
-   "ev": [],
-   "cc": []
-  },
-  {
-   "id": "51fc088bcbce",
-   "t": "Activists break into building site of Microsoft datacentre in Amsterdam",
-   "ko": "활동가들이 암스테르담의 마이크로소프트 데이터센터 건설 현장에 침입했다.",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/world/2026/nov/06/activists-break-into-building-site-of-microsoft-datacentre-in-amsterdam",
-   "at": "2026-11-06T18:51:37.000Z",
-   "ev": [],
-   "cc": []
-  },
-  {
-   "id": "8f2220bd64f4",
-   "t": "‘Message to the West’ bomb threats target European newsrooms, travel",
-   "ko": "유럽 ​​뉴스룸과 여행을 겨냥한 '서방에 보내는 메시지' 폭탄 위협",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/video/newsfeed/2026/11/6/message-to-the-west-bomb-threats-target-european-newsrooms-travel?traffic_source=rss",
-   "at": "2026-11-06T18:38:44.000Z",
-   "ev": [],
-   "cc": [
-    "Ireland",
-    "Bulgaria"
-   ]
-  },
-  {
-   "id": "811ba6d983a1",
-   "t": "Yemeni gov’t forces, Houthis trade blame for deadly strikes on Taiz market",
-   "ko": "예멘 정부군과 후티 반군, 타이즈 시장에 대한 치명적인 파업 비난",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/news/2026/11/6/yemeni-govt-forces-houthis-trade-blame-for-deadly-strikes-on-taiz-market?traffic_source=rss",
-   "at": "2026-11-06T18:09:49.000Z",
-   "ev": [
-    "yemen"
-   ],
-   "cc": [
-    "Yemen"
-   ]
-  },
-  {
-   "id": "9ce3058db886",
-   "t": "Spain's rail authorities face European fraud probe after Urda rail disaster",
-   "ko": "스페인 철도청, 우르다 철도 참사 이후 유럽 사기 조사에 직면",
-   "src": "BBC",
-   "u": "https://www.bbc.co.uk/news/articles/c6x2wwnz5445o?at_medium=RSS&at_campaign=rss",
-   "at": "2026-11-06T17:44:02.000Z",
-   "ev": [],
-   "cc": [
-    "Spain"
-   ]
-  },
-  {
-   "id": "398f6302dac8",
-   "t": "US city votes to divest from Israel",
-   "ko": "미국 도시, 이스라엘로부터 매각하기로 투표",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/video/newsfeed/2026/11/6/us-city-votes-to-divest-from-israel?traffic_source=rss",
-   "at": "2026-11-06T17:40:13.000Z",
-   "ev": [],
-   "cc": [
-    "United States",
-    "Israel"
-   ]
-  },
-  {
-   "id": "c6531d850163",
-   "t": "Further bomb threats disrupt at least another 18 flights across Europe",
-   "ko": "추가 폭탄 위협으로 인해 유럽 전역에서 최소 18편 이상의 항공편이 중단되었습니다.",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/world/2026/nov/06/further-bomb-threats-disrupt-flights-across-europe",
-   "at": "2026-11-06T17:14:31.000Z",
-   "ev": [],
-   "cc": [
-    "Ireland",
-    "United Kingdom",
-    "Bulgaria"
-   ]
-  },
-  {
-   "id": "60fa5510a8eb",
-   "t": "Europe: What we know about the hoax bomb threats disrupting flights",
-   "ko": "유럽: 비행을 방해하는 가짜 폭탄 위협에 대해 우리가 알고 있는 것",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/europe-what-we-know-about-the-hoax-bomb-threats-disrupting-flights",
-   "at": "2026-11-06T16:59:02.000Z",
-   "ev": [],
-   "cc": []
-  },
-  {
-   "id": "36a09abd5702",
-   "t": "Pressure mounts on US Defence chief Hegseth after Republican election rout",
-   "ko": "공화당 선거 참패 이후 헤그세스 미 국방장관에 압력 가중",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/video/20261106-pressure-mounts-on-us-defence-chief-hegseth-after-republican-election-rout",
-   "at": "2026-11-06T16:45:03.000Z",
-   "ev": [
-    "iran"
-   ],
-   "cc": [
-    "United States",
-    "Iran"
-   ]
-  },
-  {
-   "id": "a1760aa7ee75",
-   "t": "'Chaos within aviation industry' as European air traffic hit by bomb threats",
-   "ko": "유럽 ​​항공 교통이 폭탄 위협에 타격을 입으면서 '항공 산업 내 혼란'",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/video/20261106-chaos-within-aviation-industry-as-european-air-traffic-hit-by-bomb-threats",
-   "at": "2026-11-06T16:33:20.000Z",
-   "ev": [],
-   "cc": []
-  },
-  {
-   "id": "72ce0af5d0cf",
-   "t": "Bomb threats against European flights ‘likely a coordinated campaign of disruption’, Ireland says – as it happened",
-   "ko": "유럽 ​​항공편에 대한 폭탄 위협은 '협조된 교란 캠페인일 가능성이 높다'고 아일랜드는 밝혔습니다.",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/world/live/2026/nov/06/high-alert-hoax-bomb-threats-france-air-lingus-belgium-pope-leo-europe-live",
-   "at": "2026-11-06T16:26:17.000Z",
-   "ev": [],
-   "cc": [
-    "Ireland"
-   ]
-  },
-  {
-   "id": "b85a71b0d75b",
-   "t": "Spate of bomb threats poses serious challenge to airline industry",
-   "ko": "폭탄 위협의 급증은 항공 산업에 심각한 도전을 초래합니다",
-   "src": "BBC",
-   "u": "https://www.bbc.co.uk/news/articles/cv8ezz9yn6pyo?at_medium=RSS&at_campaign=rss",
-   "at": "2026-11-06T16:18:44.000Z",
-   "ev": [],
-   "cc": []
-  },
-  {
-   "id": "a379acf3d768",
-   "t": "Wounded French protesters to sue interior minister over police brutality",
-   "ko": "부상당한 프랑스 시위대, 경찰 폭력으로 내무장관 고소",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/france/20261106-wounded-french-protesters-to-sue-interior-minister-over-police-brutality",
-   "at": "2026-11-06T16:13:55.000Z",
    "ev": [],
    "cc": [
     "France"
