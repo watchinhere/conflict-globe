@@ -1,13 +1,13 @@
 {
- "updated": "2026-11-08T01:49:10.119Z",
+ "updated": "2026-11-08T08:45:11.252Z",
  "sources": {
   "BBC": {
    "ok": true,
-   "n": 9
+   "n": 8
   },
   "Al Jazeera": {
    "ok": true,
-   "n": 12
+   "n": 14
   },
   "The Guardian": {
    "ok": true,
@@ -19,7 +19,7 @@
   },
   "France 24": {
    "ok": true,
-   "n": 14
+   "n": 13
   },
   "UN News": {
    "ok": true,
@@ -32,14 +32,173 @@
  },
  "items": [
   {
+   "id": "718247ba153f",
+   "t": "US military attacks cargo ship in the Gulf of Oman",
+   "ko": "미군, 오만해에서 화물선 공격",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/video/newsfeed/2026/11/8/us-military-attacks-cargo-ship-in-the-gulf-of-oman?traffic_source=rss",
+   "at": "2026-11-08T08:24:37.000Z",
+   "ev": [],
+   "cc": [
+    "United States",
+    "Oman"
+   ]
+  },
+  {
+   "id": "6837e6991208",
+   "t": "Mapping how France’s protest wave spread across Europe",
+   "ko": "프랑스의 항의 물결이 유럽 전역으로 어떻게 확산되었는지 매핑",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/11/8/mapping-how-frances-protest-wave-spread-across-europe?traffic_source=rss",
+   "at": "2026-11-08T08:18:38.000Z",
+   "ev": [],
+   "cc": [
+    "France"
+   ]
+  },
+  {
    "id": "10a11a207755",
    "t": "What we know so far after Krakow gun attack",
    "ko": "크라쿠프 총격 사건 이후 지금까지 우리가 알고 있는 것",
    "src": "BBC",
    "u": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss",
-   "at": "2026-11-08T01:47:41.000Z",
+   "at": "2026-11-08T07:52:33.000Z",
    "ev": [],
    "cc": []
+  },
+  {
+   "id": "00485656fad7",
+   "t": "Saudi Arabia intercepts Houthi missiles targeting Riyadh, Eastern province",
+   "ko": "사우디, 동부 리야드를 겨냥한 후티 미사일 요격",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/11/8/saudi-arabia-intercepts-houthi-missiles-targeting-riyadh-eastern-province?traffic_source=rss",
+   "at": "2026-11-08T07:40:07.000Z",
+   "ev": [
+    "yemen"
+   ],
+   "cc": [
+    "Saudi Arabia"
+   ]
+  },
+  {
+   "id": "2a2d18a832ec",
+   "t": "Trump’s shattered ‘mirror world’: American voters roundly reject president’s alternate reality",
+   "ko": "트럼프의 산산이 부서진 '거울 세계': 미국 유권자들은 대통령의 대체 현실을 완강히 거부합니다",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/us-news/ng-interactive/2026/nov/08/trump-midterms-voters-mirror-world",
+   "at": "2026-11-08T07:00:34.000Z",
+   "ev": [
+    "iran"
+   ],
+   "cc": [
+    "United States",
+    "Iran"
+   ]
+  },
+  {
+   "id": "3080e2bfc14e",
+   "t": "Photos: Heavy rains leave tens of thousands without shelter in Gaza",
+   "ko": "사진: 가자지구에 폭우로 수만 명이 피난처 없이 대피",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/gallery/2026/11/8/photos-heavy-rains-leave-tens-of-thousands-without-shelter-in-gaza?traffic_source=rss",
+   "at": "2026-11-08T06:55:24.000Z",
+   "ev": [
+    "gaza"
+   ],
+   "cc": [
+    "Palestine",
+    "Israel"
+   ]
+  },
+  {
+   "id": "f50d287e94f5",
+   "t": "Briton among six dead after gunman opens fire in Kraków market square",
+   "ko": "크라쿠프 시장 광장에서 총격범이 총격을 가해 사망한 6명 중 영국인",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/world/2026/nov/07/krakow-poland-shooting-market-square-deaths-gunman",
+   "at": "2026-11-08T06:06:46.000Z",
+   "ev": [],
+   "cc": [
+    "Poland"
+   ]
+  },
+  {
+   "id": "08249d244a83",
+   "t": "Hot fridges, a fake nuclear alert and a $6bn heist: are we in the foothills of a hacking epidemic?",
+   "ko": "뜨거운 냉장고, 가짜 핵 경고, 60억 달러 규모의 강도: 우리는 해킹 전염병의 산기슭에 있습니까?",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/news/ng-interactive/2026/nov/08/hot-fridges-a-fake-nuclear-alert-and-a-6bn-heist-are-we-in-the-foothills-of-a-hacking-epidemic",
+   "at": "2026-11-08T06:00:33.000Z",
+   "ev": [],
+   "cc": []
+  },
+  {
+   "id": "82f1830297af",
+   "t": "Haitians cheer El Salvador’s Bukele amid gang war",
+   "ko": "아이티인들은 갱단 전쟁 중에 엘살바도르의 부켈레를 응원합니다",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/video/newsfeed/2026/11/8/haitians-cheer-el-salvadors-bukele-amid-gang-war?traffic_source=rss",
+   "at": "2026-11-08T05:09:39.000Z",
+   "ev": [
+    "haiti"
+   ],
+   "cc": [
+    "El Salvador",
+    "Haiti"
+   ]
+  },
+  {
+   "id": "ee3d9f8f96e5",
+   "t": "Drone attack on Colombian army base kills three soldiers and wounds 16",
+   "ko": "콜롬비아군 기지에 대한 드론 공격으로 군인 3명이 사망하고 16명이 부상당했습니다.",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/11/8/drone-attack-on-colombian-army-base-kills-three-soldiers-and-wounds-16?traffic_source=rss",
+   "at": "2026-11-08T04:56:37.000Z",
+   "ev": [
+    "colombia"
+   ],
+   "cc": [
+    "Colombia"
+   ]
+  },
+  {
+   "id": "b3534df0c874",
+   "t": "Houthis say at least 33 killed in Saudi air strike",
+   "ko": "후티 반군 \"사우디 공습으로 최소 33명 사망\"",
+   "src": "BBC",
+   "u": "https://www.bbc.co.uk/news/articles/c65yn1v99ypmo?at_medium=RSS&at_campaign=rss",
+   "at": "2026-11-08T04:03:12.000Z",
+   "ev": [
+    "yemen"
+   ],
+   "cc": [
+    "Saudi Arabia",
+    "Yemen"
+   ]
+  },
+  {
+   "id": "b1be3b5762d7",
+   "t": "Trump asks UFC chief Dana White to be White House press secretary",
+   "ko": "트럼프, 데이나 화이트 UFC 대표에게 백악관 대변인 자리 요청",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/11/8/trump-asks-ufc-chief-dana-white-to-be-white-house-press-secretary?traffic_source=rss",
+   "at": "2026-11-08T03:12:44.000Z",
+   "ev": [],
+   "cc": [
+    "United States"
+   ]
+  },
+  {
+   "id": "bc104d8a3148",
+   "t": "Cold blast brings springtime snow to alpine regions as temperatures plummet across Australia’s south-east",
+   "ko": "호주 남동부 지역의 기온이 급락하면서 한파로 고산 지역에 봄 눈이 내립니다.",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/australia-news/2026/nov/08/australia-weather-cold-blast-springtime-snow-thredbo-perisher-hotham-victoria-tasmania-el-nino",
+   "at": "2026-11-08T02:34:19.000Z",
+   "ev": [],
+   "cc": [
+    "Australia"
+   ]
   },
   {
    "id": "403053207322",
@@ -64,9 +223,21 @@
    "cc": []
   },
   {
+   "id": "acbc26952a99",
+   "t": "Victoria Barracks in Sydney and Melbourne to remain in public hands after partial backtrack on defence property selloff",
+   "ko": "국방 자산 매각이 부분적으로 철회된 후 시드니와 멜버른의 빅토리아 막사(Victoria Barracks)는 공공 소유로 유지됩니다",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/australia-news/2026/nov/08/victoria-barracks-sydney-and-melbourne-remain-in-public-hands-backtrack-defence-property-sale-albanese-marles",
+   "at": "2026-11-08T00:17:28.000Z",
+   "ev": [],
+   "cc": [
+    "Australia"
+   ]
+  },
+  {
    "id": "99179248bf96",
-   "t": "Iran war live: Blasts heard in Qeshm; US moves to block land supply routes",
-   "ko": "이란 전쟁 라이브: Qeshm에서 폭발음이 들림; 미국, 토지 공급 경로 차단 움직임",
+   "t": "Iran war live: US moves to block land supply routes; UAE rescues 22 sailors",
+   "ko": "이란 전쟁 라이브: 미국은 토지 공급 경로를 차단하려고 움직임; UAE, 선원 22명 구조",
    "src": "Al Jazeera",
    "u": "https://www.aljazeera.com/news/liveblog/2026/11/8/iran-war-live-explosions-hit-qeshm-us-moves-to-block-land-supply-routes?traffic_source=rss",
    "at": "2026-11-08T00:00:56.000Z",
@@ -75,13 +246,14 @@
    ],
    "cc": [
     "Iran",
-    "United States"
+    "United States",
+    "United Arab Emirates"
    ]
   },
   {
    "id": "a15661f83070",
-   "t": "Gunmen kills six in Krakow, three more bodies found at his house",
-   "ko": "크라쿠프에서 괴한이 6명을 사살하고 그의 집에서 시신 3구가 더 발견됐다.",
+   "t": "Gunman kills six in Krakow, three more bodies found at his house",
+   "ko": "총격범, 크라쿠프에서 6명 사살, 그의 집에서 시신 3구 더 발견",
    "src": "France 24",
    "u": "https://www.france24.com/en/gunmen-kills-six-in-krakow-three-more-bodies-found-at-his-house",
    "at": "2026-11-07T22:47:06.000Z",
@@ -113,18 +285,6 @@
    "ev": [],
    "cc": [
     "France"
-   ]
-  },
-  {
-   "id": "f50d287e94f5",
-   "t": "Six dead after gunman opens fire in Kraków market square, with three more victims found at suspect’s home",
-   "ko": "크라쿠프 시장 광장에서 총격범이 총격을 가해 6명이 숨지고, 용의자의 집에서 3명이 추가로 발견됐다.",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/world/2026/nov/07/krakow-poland-shooting-market-square-deaths-gunman",
-   "at": "2026-11-07T21:19:01.000Z",
-   "ev": [],
-   "cc": [
-    "Poland"
    ]
   },
   {
@@ -293,21 +453,6 @@
    ]
   },
   {
-   "id": "b3534df0c874",
-   "t": "Houthis say at least 25 killed in Saudi air strike",
-   "ko": "후티 반군 \"사우디 공습으로 최소 25명 사망\"",
-   "src": "BBC",
-   "u": "https://www.bbc.co.uk/news/articles/c65yn1v99ypmo?at_medium=RSS&at_campaign=rss",
-   "at": "2026-11-07T17:09:24.000Z",
-   "ev": [
-    "yemen"
-   ],
-   "cc": [
-    "Saudi Arabia",
-    "Yemen"
-   ]
-  },
-  {
    "id": "141accc59656",
    "t": "Valencia 0-3 Real Madrid LIVE: La Liga",
    "ko": "발렌시아 0-3 레알 마드리드 LIVE: 라 리가",
@@ -377,6 +522,18 @@
    ]
   },
   {
+   "id": "1f6f0999ff9f",
+   "t": "Paraguay’s impeached president charged over bank collapse",
+   "ko": "파라과이 탄핵 대통령, 은행 붕괴 혐의로 기소",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/americas/20261107-paraguay-s-impeached-president-charged-over-bank-collapse",
+   "at": "2026-11-07T15:49:53.000Z",
+   "ev": [],
+   "cc": [
+    "Paraguay"
+   ]
+  },
+  {
    "id": "dfb312f672dc",
    "t": "Iran’s IRGC says building underground sites for weapons production, storage",
    "ko": "이란 IRGC, 무기 생산과 저장을 위한 지하 부지 건설",
@@ -392,8 +549,8 @@
   },
   {
    "id": "d4298f9a1819",
-   "t": "Gunman who killed at least six people in Krakow had ‘far-right’ views, Polish government says",
-   "ko": "크라쿠프에서 최소 6명을 살해한 총격범은 극우 성향이었다고 폴란드 정부가 밝혔다.",
+   "t": "Gunman who killed at least six in Krakow ‘fascinated’ by far-right ideologies, government says",
+   "ko": "크라쿠프에서 최소 6명을 살해한 총격범은 극우 이념에 '매혹'됐다고 정부가 밝혔다",
    "src": "France 24",
    "u": "https://www.france24.com/en/europe/20261107-at-least-three-people-killed-shooting-in-polish-city-of-krakow-police-say",
    "at": "2026-11-07T15:23:48.000Z",
@@ -1703,114 +1860,6 @@
    "cc": [
     "Russia",
     "Ukraine"
-   ]
-  },
-  {
-   "id": "f3372422aec8",
-   "t": "Death a ‘distinct possibility’ in collision running and face-slapping competitions, inquiry hears",
-   "ko": "충돌 달리기와 얼굴 때리기 경쟁에서 죽음은 '뚜렷한 가능성'이라는 조사가 들었습니다.",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/australia-news/2026/nov/06/run-nation-power-slap-combat-sports-safety-inquiry-nsw",
-   "at": "2026-11-06T08:23:10.000Z",
-   "ev": [],
-   "cc": []
-  },
-  {
-   "id": "5a56f3812c17",
-   "t": "Melania Trump calls for lasting Ukraine truce as she hosts Russian and Ukrainian officials",
-   "ko": "멜라니아 트럼프는 러시아와 우크라이나 관리들을 초대하면서 우크라이나의 지속적인 휴전을 촉구했습니다.",
-   "src": "BBC",
-   "u": "https://www.bbc.co.uk/news/articles/c9p8g085mz07o?at_medium=RSS&at_campaign=rss",
-   "at": "2026-11-06T07:56:19.000Z",
-   "ev": [
-    "ukraine"
-   ],
-   "cc": [
-    "Ukraine",
-    "Russia",
-    "United States"
-   ]
-  },
-  {
-   "id": "3a7b00a96496",
-   "t": "Major construction ongoing near Iran missile bases, satellite images suggest",
-   "ko": "이란 미사일 기지 근처에서 진행 중인 주요 건설, 위성 이미지에 따르면",
-   "src": "BBC",
-   "u": "https://www.bbc.co.uk/news/articles/ckjrwx1r2d5ro?at_medium=RSS&at_campaign=rss",
-   "at": "2026-11-06T07:33:41.000Z",
-   "ev": [
-    "iran"
-   ],
-   "cc": [
-    "Iran"
-   ]
-  },
-  {
-   "id": "824b61744ffb",
-   "t": "Friday briefing: ​After a week of disruption, is living with threats our new normal?",
-   "ko": "금요일 브리핑: 일주일 간의 혼란이 지나고 위협을 안고 살아가는 것이 새로운 일상이 되었나요?",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/world/2026/nov/06/friday-briefing-after-a-week-of-disruption-is-living-with-threats-our-new-normal",
-   "at": "2026-11-06T06:43:04.000Z",
-   "ev": [
-    "yemen"
-   ],
-   "cc": [
-    "Belgium",
-    "Sweden",
-    "United Kingdom"
-   ]
-  },
-  {
-   "id": "c88026a9b84d",
-   "t": "Bondi beach shooting: Eva Geller, 90, shot during massacre dies in hospital year after antisemitic attack",
-   "ko": "본다이 해변 총격 사건: 학살 도중 총에 맞은 90세 에바 겔러, 반유대주의 공격 1년 만에 병원에서 사망",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/australia-news/2026/nov/06/bondi-beach-shooting-woman-dies-year-after-terror-attack-ntwnfb",
-   "at": "2026-11-06T06:26:03.000Z",
-   "ev": [],
-   "cc": []
-  },
-  {
-   "id": "cd93e4041065",
-   "t": "Police turn to charities for help with teenagers caught up in online child abuse",
-   "ko": "경찰은 온라인 아동 학대에 휘말린 십대들을 돕기 위해 자선 단체에 도움을 요청합니다",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/society/2026/nov/06/police-charities-pornography-online-child-abuse",
-   "at": "2026-11-06T06:00:44.000Z",
-   "ev": [],
-   "cc": []
-  },
-  {
-   "id": "e5717fc7abd4",
-   "t": "Iraq’s al-Zaidi talks to Trump as Baghdad seeks to stay out of war on Iran",
-   "ko": "바그다드가 이란과의 전쟁을 중단하려고 하는 가운데 이라크의 알자이디가 트럼프와 대화하다",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/news/2026/11/6/iraqs-al-zaidi-talks-to-trump-as-baghdad-seeks-to-stay-out-of-war-on-iran?traffic_source=rss",
-   "at": "2026-11-06T05:00:47.000Z",
-   "ev": [
-    "iran"
-   ],
-   "cc": [
-    "Iraq",
-    "Iran",
-    "United States"
-   ]
-  },
-  {
-   "id": "b739dcae1dc7",
-   "t": "Australia faces same issues that flipped control of US Congress in midterms, experts say",
-   "ko": "호주는 중간선거에서 미국 의회의 통제권을 뒤집은 것과 동일한 문제에 직면해 있다고 전문가들은 말합니다.",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/australia-news/2026/nov/06/us-midterms-warning-for-australia-cost-of-living-fuel-prices",
-   "at": "2026-11-06T04:45:24.000Z",
-   "ev": [
-    "iran"
-   ],
-   "cc": [
-    "Australia",
-    "United States",
-    "Iran"
    ]
   }
  ]
