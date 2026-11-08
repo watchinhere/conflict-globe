@@ -1,17 +1,17 @@
 {
- "updated": "2026-11-08T08:45:11.252Z",
+ "updated": "2026-11-08T15:51:59.580Z",
  "sources": {
   "BBC": {
    "ok": true,
-   "n": 8
+   "n": 6
   },
   "Al Jazeera": {
    "ok": true,
-   "n": 14
+   "n": 7
   },
   "The Guardian": {
    "ok": true,
-   "n": 13
+   "n": 11
   },
   "DW": {
    "ok": true,
@@ -19,18 +19,347 @@
   },
   "France 24": {
    "ok": true,
-   "n": 13
+   "n": 16
   },
   "UN News": {
    "ok": true,
-   "n": 4
+   "n": 0
   },
   "NPR": {
    "ok": true,
-   "n": 2
+   "n": 0
   }
  },
  "items": [
+  {
+   "id": "34c6cb4164db",
+   "t": "Beef industry quietly squashes part of its own science curriculum after ranchers protest",
+   "ko": "쇠고기 산업은 목장주들의 항의 이후 조용히 자체 과학 커리큘럼의 일부를 압도한다",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/environment/2026/nov/08/beef-industry-climate-impact-education",
+   "at": "2026-11-08T15:00:43.000Z",
+   "ev": [],
+   "cc": [
+    "United States"
+   ]
+  },
+  {
+   "id": "08adc0b7e080",
+   "t": "Two police officers hailed as heroes for confronting Kraków gunman",
+   "ko": "크라쿠프 총격범과 맞서 싸운 경찰관 2명이 영웅으로 칭찬받았다",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/world/2026/nov/08/two-police-officers-heroes-confronting-krakow-gunman-poland",
+   "at": "2026-11-08T14:49:16.000Z",
+   "ev": [],
+   "cc": []
+  },
+  {
+   "id": "10a11a207755",
+   "t": "What we know so far after Krakow gun attack",
+   "ko": "크라쿠프 총격 사건 이후 지금까지 우리가 알고 있는 것",
+   "src": "BBC",
+   "u": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss",
+   "at": "2026-11-08T14:32:52.000Z",
+   "ev": [],
+   "cc": []
+  },
+  {
+   "id": "5fec5de167d6",
+   "t": "Yemen's humanitarian crisis worsens",
+   "ko": "예멘 인도주의적 위기 악화",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/yemen-s-humanitarian-crisis-worsens",
+   "at": "2026-11-08T14:22:14.000Z",
+   "ev": [
+    "iran",
+    "yemen"
+   ],
+   "cc": [
+    "Yemen",
+    "Jordan"
+   ]
+  },
+  {
+   "id": "c8e2ca1da901",
+   "t": "Poland in shock after 6 killed in Krakow far-right shooting",
+   "ko": "크라쿠프 극우 총격으로 6명 사망한 폴란드, 충격에 빠졌다",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/poland-in-shock-after-6-killed-in-krakow-far-right-shooting",
+   "at": "2026-11-08T14:21:18.000Z",
+   "ev": [],
+   "cc": [
+    "Poland"
+   ]
+  },
+  {
+   "id": "fb402abf5671",
+   "t": "Mourning in Poland after mass shooting",
+   "ko": "폴란드 총격 사건 후 애도",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/mourning-in-poland-after-mass-shooting",
+   "at": "2026-11-08T14:18:48.000Z",
+   "ev": [],
+   "cc": [
+    "Poland"
+   ]
+  },
+  {
+   "id": "b818c4e58429",
+   "t": "Europe will take part in US-mediated Ukraine talks in Abu Dhabi, French FM says",
+   "ko": "유럽은 미국이 중재하는 아부다비에서 열리는 우크라이나 회담에 참여할 것이라고 프랑스 FM이 밝혔습니다.",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/europe/20261108-europe-will-take-part-us-mediated-ukraine-peace-talks-abu-dhabi-french-fm-says",
+   "at": "2026-11-08T14:16:31.000Z",
+   "ev": [
+    "ukraine"
+   ],
+   "cc": [
+    "Ukraine",
+    "France",
+    "United States"
+   ]
+  },
+  {
+   "id": "369e4bfc26d9",
+   "t": "Pope Leo urges men to respect wives amid Latin American femicide crisis",
+   "ko": "교황 레오, 라틴 아메리카 여성 살해 위기 속에서 남성들에게 아내 존중 촉구",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/americas/20261108-pope-leo-urges-husbands-to-respect-wives-amid-femicide-crisis-across-latin-america",
+   "at": "2026-11-08T14:15:54.000Z",
+   "ev": [],
+   "cc": []
+  },
+  {
+   "id": "dbae0af08f3c",
+   "t": "At least 21 dead as small boat sinks off Senegal",
+   "ko": "세네갈에서 소형선박 침몰로 최소 21명 사망",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/11/8/at-least-21-dead-as-small-boat-sinks-off-senegal?traffic_source=rss",
+   "at": "2026-11-08T13:32:17.000Z",
+   "ev": [],
+   "cc": [
+    "Senegal"
+   ]
+  },
+  {
+   "id": "f34bf47aa06d",
+   "t": "WW2 veterans outnumber former PMs for possible last time at Remembrance Sunday service",
+   "ko": "2차 세계 대전 참전 용사, 추모 주일 예배에서 마지막으로 전 총리보다 많아",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/uk-news/2026/nov/08/second-world-war-veterans-outnumber-former-pms-for-possible-last-time-on-remembrance-sunday",
+   "at": "2026-11-08T13:05:13.000Z",
+   "ev": [],
+   "cc": [
+    "United Kingdom"
+   ]
+  },
+  {
+   "id": "f34c68ba918b",
+   "t": "US datacenter demand spurs increased fossil fuel pipeline projects as rules are discarded",
+   "ko": "미국 데이터 센터 수요로 인해 규칙이 폐기됨에 따라 화석 연료 파이프라인 프로젝트 증가",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/us-news/2026/nov/08/datacenters-fossil-fuel-pipelines-regulations",
+   "at": "2026-11-08T13:00:40.000Z",
+   "ev": [
+    "ukraine",
+    "iran"
+   ],
+   "cc": [
+    "United States",
+    "Ukraine",
+    "Iran"
+   ]
+  },
+  {
+   "id": "78e746cd2202",
+   "t": "Poland mourns six killed in attack as authorities launch ‘terrorism’ probe",
+   "ko": "폴란드, 당국이 '테러' 조사 개시하자 공격으로 6명 사망 애도",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/11/8/poland-mourns-six-killed-in-attack-as-authorities-launch-terrorism-probe?traffic_source=rss",
+   "at": "2026-11-08T12:40:12.000Z",
+   "ev": [],
+   "cc": [
+    "Poland"
+   ]
+  },
+  {
+   "id": "bf3a8cb6e847",
+   "t": "Russian strikes on Ukraine leave hundreds of thousands without electricity",
+   "ko": "러시아, 우크라이나 공격으로 수십만 명 전기 공급 중단",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/11/8/russian-strikes-on-ukraine-leave-hundreds-of-thousands-without-electricity?traffic_source=rss",
+   "at": "2026-11-08T12:20:17.000Z",
+   "ev": [
+    "ukraine"
+   ],
+   "cc": [
+    "Russia",
+    "Ukraine"
+   ]
+  },
+  {
+   "id": "eea51ddb4a07",
+   "t": "Stimulant overdoses on the rise as opioid deaths decline, but treatment is complex",
+   "ko": "오피오이드 사망률이 감소함에 따라 자극제 과다 복용이 증가하고 있지만 치료는 복잡합니다.",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/us-news/2026/nov/08/stimulant-overdoses-rise",
+   "at": "2026-11-08T12:00:40.000Z",
+   "ev": [],
+   "cc": [
+    "United States"
+   ]
+  },
+  {
+   "id": "8ed510abfa11",
+   "t": "‘10 times more painful’: Menstrual disorders fuel calls to ban tear gas at French protests",
+   "ko": "'10배 더 고통스럽다': 월경 장애로 인해 프랑스 시위에서 최루탄 금지 촉구",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/france/20261108-abnormal-menstraution-periods-fuel-calls-ban-tear-gas-french-protests-police",
+   "at": "2026-11-08T11:53:14.000Z",
+   "ev": [],
+   "cc": [
+    "France"
+   ]
+  },
+  {
+   "id": "36d1a006d1aa",
+   "t": "Polish prosecutors open terrorism investigation into Kraków shooting",
+   "ko": "폴란드 검찰, 크라쿠프 총격 테러 수사 개시",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/world/2026/nov/08/krakow-shooting-poland-terrorism-investigation",
+   "at": "2026-11-08T11:50:15.000Z",
+   "ev": [],
+   "cc": []
+  },
+  {
+   "id": "38f02fc341d5",
+   "t": "Will Eisenkot be able to form Israel’s next gov’t amid divided opposition?",
+   "ko": "아이젠코트는 분열된 반대 속에서도 이스라엘의 차기 정부를 구성할 수 있을까요?",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/11/8/will-eisenkot-be-able-to-form-israels-next-govt-amid-divided-opposition?traffic_source=rss",
+   "at": "2026-11-08T11:34:58.000Z",
+   "ev": [],
+   "cc": [
+    "Israel"
+   ]
+  },
+  {
+   "id": "0dc5860fe5b7",
+   "t": "Diwali: Over one billion people mark victory of light over darkness",
+   "ko": "디왈리: 10억 명이 넘는 사람들이 어둠을 이긴 빛의 승리를 기념합니다",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/diwali-over-one-billion-people-mark-victory-of-light-over-darkness",
+   "at": "2026-11-08T10:46:37.000Z",
+   "ev": [],
+   "cc": [
+    "India"
+   ]
+  },
+  {
+   "id": "26553ff84cd1",
+   "t": "Paraguay: Senate impeached Peña rather than accept his offer to resign",
+   "ko": "파라과이: 상원은 페냐의 사임 제안을 받아들이지 않고 탄핵했다",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/video/20261108-paraguay-senate-impeached-pe%C3%B1a-rather-than-accept-his-offer-to-resign",
+   "at": "2026-11-08T10:42:59.000Z",
+   "ev": [],
+   "cc": [
+    "Paraguay"
+   ]
+  },
+  {
+   "id": "c6008c18da39",
+   "t": "After rebel offensive, efforts to push them back appear to have stalled",
+   "ko": "반군의 공세 이후 그들을 밀어내려는 노력은 중단된 것으로 보인다",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/video/project-force-2/2026/11/8/after-rebel-offensive-efforts-to-push-them-back-appear-to-have-stalled?traffic_source=rss",
+   "at": "2026-11-08T10:28:08.000Z",
+   "ev": [
+    "yemen"
+   ],
+   "cc": [
+    "Saudi Arabia",
+    "Yemen"
+   ]
+  },
+  {
+   "id": "682a9e6d201b",
+   "t": "Middle East live: Israeli president officially tasks Eisenkot with forming government",
+   "ko": "중동 라이브: 이스라엘 대통령, 공식적으로 Eisenkot에게 정부 구성 임무 부여",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/middle-east/20261108-middle-east-live-riyadh-financial-district-targeted-deadly-strikes-yemen-israel-eisenkot-netanyahu-coalition-government-elections",
+   "at": "2026-11-08T09:47:36.000Z",
+   "ev": [],
+   "cc": [
+    "Israel"
+   ]
+  },
+  {
+   "id": "148238e3c9e6",
+   "t": "Donald Trump wants UFC fighters as assistants",
+   "ko": "도널드 트럼프는 UFC 선수를 보조자로 원한다",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/donald-trump-wants-ufc-fighters-as-assistants",
+   "at": "2026-11-08T09:44:28.000Z",
+   "ev": [],
+   "cc": [
+    "United States"
+   ]
+  },
+  {
+   "id": "f7216b033ce6",
+   "t": "Gaza: Heavy rain inundates thousands of tents",
+   "ko": "가자지구: 폭우로 수천 개의 텐트가 침수됨",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/gaza-heavy-rain-inundates-thousands-of-tents",
+   "at": "2026-11-08T09:42:03.000Z",
+   "ev": [
+    "gaza"
+   ],
+   "cc": [
+    "Palestine"
+   ]
+  },
+  {
+   "id": "f50d287e94f5",
+   "t": "Briton among six dead after gunman opens fire in Kraków market square",
+   "ko": "크라쿠프 시장 광장에서 총격범이 총격을 가해 사망한 6명 중 영국인",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/world/2026/nov/07/krakow-poland-shooting-market-square-deaths-gunman",
+   "at": "2026-11-08T09:30:22.000Z",
+   "ev": [],
+   "cc": [
+    "Poland"
+   ]
+  },
+  {
+   "id": "00b21f280e61",
+   "t": "Democrats’ congressional win could strengthen Ukraine’s hand against Russia",
+   "ko": "민주당의 의회 승리는 러시아에 대한 우크라이나의 영향력을 강화할 수 있습니다",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/11/8/democrats-congressional-win-could-strengthen-ukraines-hand-against-russia?traffic_source=rss",
+   "at": "2026-11-08T09:30:17.000Z",
+   "ev": [
+    "ukraine"
+   ],
+   "cc": [
+    "Ukraine",
+    "Russia",
+    "United States"
+   ]
+  },
+  {
+   "id": "16842677b56a",
+   "t": "Poland launches terrorism probe into mass shooting in Krakow",
+   "ko": "폴란드, 크라쿠프에서 발생한 대량 총격 사건에 대한 테러 조사 개시",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/europe/20261108-poland-launches-terrorism-probe-into-krakow-mass-shooting",
+   "at": "2026-11-08T08:59:56.000Z",
+   "ev": [],
+   "cc": [
+    "Poland"
+   ]
+  },
   {
    "id": "718247ba153f",
    "t": "US military attacks cargo ship in the Gulf of Oman",
@@ -55,16 +384,6 @@
    "cc": [
     "France"
    ]
-  },
-  {
-   "id": "10a11a207755",
-   "t": "What we know so far after Krakow gun attack",
-   "ko": "크라쿠프 총격 사건 이후 지금까지 우리가 알고 있는 것",
-   "src": "BBC",
-   "u": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss",
-   "at": "2026-11-08T07:52:33.000Z",
-   "ev": [],
-   "cc": []
   },
   {
    "id": "00485656fad7",
@@ -108,18 +427,6 @@
    "cc": [
     "Palestine",
     "Israel"
-   ]
-  },
-  {
-   "id": "f50d287e94f5",
-   "t": "Briton among six dead after gunman opens fire in Kraków market square",
-   "ko": "크라쿠프 시장 광장에서 총격범이 총격을 가해 사망한 6명 중 영국인",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/world/2026/nov/07/krakow-poland-shooting-market-square-deaths-gunman",
-   "at": "2026-11-08T06:06:46.000Z",
-   "ev": [],
-   "cc": [
-    "Poland"
    ]
   },
   {
@@ -368,6 +675,18 @@
    "ev": [],
    "cc": [
     "France"
+   ]
+  },
+  {
+   "id": "bd9dcf903fd9",
+   "t": "Israeli president tasks Gadi Eisenkot with forming government",
+   "ko": "이스라엘 대통령, 가디 아이젠코트에게 정부 구성 권한 위임",
+   "src": "DW",
+   "u": "https://www.dw.com/en/israeli-president-tasks-gadi-eisenkot-with-forming-government/a-79888288?maca=en-rss-en-world-4025-rdf",
+   "at": "2026-11-07T19:56:00.000Z",
+   "ev": [],
+   "cc": [
+    "Israel"
    ]
   },
   {
@@ -1363,503 +1682,6 @@
    "ev": [],
    "cc": [
     "France"
-   ]
-  },
-  {
-   "id": "e7c611e951f1",
-   "t": "Protesters break into Microsoft AI data centre site in Amsterdam",
-   "ko": "시위대가 암스테르담의 Microsoft AI 데이터 센터 사이트에 침입했습니다.",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/video/newsfeed/2026/11/6/protesters-break-into-microsoft-ai-data-centre-site-in-amsterdam?traffic_source=rss",
-   "at": "2026-11-06T15:48:10.000Z",
-   "ev": [],
-   "cc": []
-  },
-  {
-   "id": "f2cd36f3aa49",
-   "t": "Police chief condemns ‘terrifying’ Bonfire Night violence across Scotland",
-   "ko": "경찰청장, 스코틀랜드 전역의 '끔찍한' 모닥불 밤 폭력사태 규탄",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/uk-news/2026/nov/06/arrests-glasgow-bonfire-night-violence-scotland",
-   "at": "2026-11-06T15:38:33.000Z",
-   "ev": [],
-   "cc": [
-    "United Kingdom"
-   ]
-  },
-  {
-   "id": "7a21dd53eebc",
-   "t": "Turkey to push for 'electrification' drive at COP31 as climate threats mount",
-   "ko": "터키, 기후 위협 증가로 COP31에서 '전기화' 추진 추진",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/environment/20261106-turkey-to-push-for-electrification-drive-at-cop31-as-climate-threats-mount",
-   "at": "2026-11-06T15:36:34.000Z",
-   "ev": [],
-   "cc": [
-    "Turkey"
-   ]
-  },
-  {
-   "id": "1dbcb0594af8",
-   "t": "Two dead after bus crashes in France, officials say",
-   "ko": "프랑스에서 버스 충돌로 2명이 사망했다고 관리들이 밝혔습니다.",
-   "src": "BBC",
-   "u": "https://www.bbc.co.uk/news/articles/cmly00l4p3lwo?at_medium=RSS&at_campaign=rss",
-   "at": "2026-11-06T15:33:52.000Z",
-   "ev": [],
-   "cc": [
-    "France"
-   ]
-  },
-  {
-   "id": "8c805a113994",
-   "t": "New wave of bomb threats hit European airlines",
-   "ko": "유럽 ​​항공사들에 폭탄 위협의 새로운 물결",
-   "src": "BBC",
-   "u": "https://www.bbc.co.uk/news/articles/cq62yy064vjpo?at_medium=RSS&at_campaign=rss",
-   "at": "2026-11-06T15:25:35.000Z",
-   "ev": [],
-   "cc": []
-  },
-  {
-   "id": "2f5337a83c68",
-   "t": "New bomb threats target European broadcasters, air traffic",
-   "ko": "유럽 ​​방송사와 항공 교통을 겨냥한 새로운 폭탄 위협",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/news/2026/11/6/new-bomb-threats-target-european-broadcasters-air-traffic?traffic_source=rss",
-   "at": "2026-11-06T15:24:54.000Z",
-   "ev": [],
-   "cc": []
-  },
-  {
-   "id": "af979b270e63",
-   "t": "European flights and broadcasters are targeted with another wave of bomb threats",
-   "ko": "유럽의 항공편과 방송사들은 또 다른 폭탄 위협의 표적이 되었습니다.",
-   "src": "NPR",
-   "u": "https://www.npr.org/2026/11/06/nx-s1-6032612/europe-flights-hoaxes",
-   "at": "2026-11-06T15:21:31.000Z",
-   "ev": [],
-   "cc": []
-  },
-  {
-   "id": "35d583ecb9bd",
-   "t": "EU charges TikTok with failing to protect users’ mental health",
-   "ko": "EU, 사용자의 정신 건강을 보호하지 못한 혐의로 TikTok 기소",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/technology/2026/nov/06/eu-charges-tiktok-failure-to-protect-users-mental-health",
-   "at": "2026-11-06T15:17:08.000Z",
-   "ev": [],
-   "cc": []
-  },
-  {
-   "id": "36abb8aa2fbd",
-   "t": "Kenyan doomsday sect leader jailed for 200 years for murder of 190 children",
-   "ko": "케냐 종말론 종파 지도자, 어린이 190명 살해 혐의로 징역 200년 선고",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/world/2026/nov/06/kenyan-doomsday-sect-leader-jailed-murders-paul-mackenzie",
-   "at": "2026-11-06T15:08:43.000Z",
-   "ev": [],
-   "cc": [
-    "Kenya"
-   ]
-  },
-  {
-   "id": "a3c55c34d0c5",
-   "t": "Tanzanian opposition leader found guilty of inciting unrest but acquitted of treason",
-   "ko": "탄자니아 야당 지도자, 불안을 선동한 혐의로 유죄 판결을 받았지만 반역죄는 무죄 선고",
-   "src": "BBC",
-   "u": "https://www.bbc.co.uk/news/articles/ckp8g4pm0y4lo?at_medium=RSS&at_campaign=rss",
-   "at": "2026-11-06T14:57:08.000Z",
-   "ev": [],
-   "cc": []
-  },
-  {
-   "id": "6fa418872f90",
-   "t": "California governor to grant clemency to all 548 death row inmates in state",
-   "ko": "캘리포니아 주지사, 주 내 사형수 548명 모두에게 사면",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/video/20261106-california-governor-to-grant-clemency-to-all-548-death-row-inmates-in-state",
-   "at": "2026-11-06T14:54:44.000Z",
-   "ev": [],
-   "cc": [
-    "United States"
-   ]
-  },
-  {
-   "id": "e2edaef4ed43",
-   "t": "The leader of a Kenyan doomsday cult is sentenced to 200 years in prison",
-   "ko": "케냐 종말론 숭배 지도자에게 200년 형이 선고됐다",
-   "src": "NPR",
-   "u": "https://www.npr.org/2026/11/06/nx-s1-6032593/kenya-cult-leader-paul-mackenzie-sentenced-murder",
-   "at": "2026-11-06T14:53:46.000Z",
-   "ev": [],
-   "cc": [
-    "Kenya"
-   ]
-  },
-  {
-   "id": "de2d0ff3c8b5",
-   "t": "Kenyan doomsday cult leader given life sentence for murdering 191 people",
-   "ko": "191명 살해한 케냐 종말종교 지도자에 종신형 선고",
-   "src": "BBC",
-   "u": "https://www.bbc.co.uk/news/articles/cm5yne5984l0o?at_medium=RSS&at_campaign=rss",
-   "at": "2026-11-06T14:46:03.000Z",
-   "ev": [],
-   "cc": [
-    "Kenya"
-   ]
-  },
-  {
-   "id": "da99de4581f2",
-   "t": "Protests and reforms: France's rising debt costs threaten stability",
-   "ko": "시위와 개혁: 프랑스의 부채 비용 상승으로 안정이 위협받고 있습니다.",
-   "src": "DW",
-   "u": "https://www.dw.com/en/protests-and-reforms-france-s-rising-debt-costs-threaten-stability/a-79865654?maca=en-rss-en-world-4025-rdf",
-   "at": "2026-11-06T14:37:00.000Z",
-   "ev": [],
-   "cc": [
-    "France"
-   ]
-  },
-  {
-   "id": "d03d6293c14b",
-   "t": "Czech arms makers set sights on space defense in bid to sustain Ukraine-driven arms boom",
-   "ko": "체코 무기 제조업체, 우크라이나 주도의 무기 붐을 유지하기 위해 우주 방어에 주목",
-   "src": "DW",
-   "u": "https://www.dw.com/en/czech-arms-makers-set-sights-on-space-defense-in-bid-to-sustain-ukraine-driven-arms-boom/a-79876035?maca=en-rss-en-world-4025-rdf",
-   "at": "2026-11-06T14:00:00.000Z",
-   "ev": [
-    "ukraine"
-   ],
-   "cc": [
-    "Ukraine"
-   ]
-  },
-  {
-   "id": "a03fc5920747",
-   "t": "What a Trump-Xi-Putin summit could mean – and what it wouldn’t",
-   "ko": "트럼프-시-푸틴 정상회담이 의미할 수 있는 것과 그렇지 않은 것",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/news/2026/11/6/what-a-trump-xi-putin-summit-would-mean-and-what-it-wouldnt?traffic_source=rss",
-   "at": "2026-11-06T13:49:07.000Z",
-   "ev": [],
-   "cc": []
-  },
-  {
-   "id": "92417e2f5a89",
-   "t": "'Too early to draw conclusions' as bomb threat hoaxes target European countries",
-   "ko": "폭탄 위협 사기가 유럽 국가를 대상으로 하기 때문에 '결론을 내리기에는 너무 이르다'",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/video/20261106-too-early-to-draw-conclusions-as-bomb-threat-hoaxes-target-european-countries",
-   "at": "2026-11-06T13:48:11.000Z",
-   "ev": [],
-   "cc": []
-  },
-  {
-   "id": "9a7348af64db",
-   "t": "Paraguay's Peña offers resignation amid banking scandal, protests",
-   "ko": "파라과이의 페냐, 은행 스캔들과 시위 속에 사임 제안",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/video/20261106-paraguay-s-pe%C3%B1a-offers-resignation-amid-banking-scandal-protests",
-   "at": "2026-11-06T13:45:58.000Z",
-   "ev": [],
-   "cc": [
-    "Paraguay"
-   ]
-  },
-  {
-   "id": "2a2c483ce3c3",
-   "t": "US job growth exceeds expectations in October despite economic uncertainty",
-   "ko": "경제 불확실성에도 불구하고 10월 미국 고용 증가율이 기대치를 초과했습니다.",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/business/2026/nov/06/us-job-growth-october",
-   "at": "2026-11-06T13:42:26.000Z",
-   "ev": [],
-   "cc": [
-    "United States"
-   ]
-  },
-  {
-   "id": "c2f70f66f991",
-   "t": "Ukraine raises Zaporizhia aid strike death toll to at least 50",
-   "ko": "우크라이나, 자포리지아 구호 파업 사망자 수 최소 50명으로 인상",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/news/2026/11/6/ukraine-raises-zaporizhia-aid-strike-death-toll-to-at-least-50?traffic_source=rss",
-   "at": "2026-11-06T13:30:18.000Z",
-   "ev": [
-    "ukraine"
-   ],
-   "cc": [
-    "Ukraine"
-   ]
-  },
-  {
-   "id": "653d06a39302",
-   "t": "US Defence Secretary Pete Hegseth's future in question after midterms setback",
-   "ko": "중간고사 차질 이후 피트 헤그세스 미 국방장관의 미래가 불투명하다",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/video/20261106-us-defence-secretary-pete-hegseth-s-future-in-question-after-midterms-setback",
-   "at": "2026-11-06T13:15:54.000Z",
-   "ev": [
-    "iran"
-   ],
-   "cc": [
-    "United States",
-    "Iran"
-   ]
-  },
-  {
-   "id": "117e3ec399d6",
-   "t": "Russia to UAE, Iran steps up diplomacy amid Trump threats: What we know",
-   "ko": "러시아-UAE, 이란, 트럼프 위협 속에 외교 강화: 우리가 알고 있는 것",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/news/2026/11/6/russia-to-uae-iran-steps-up-diplomacy-amid-trump-threats-what-we-know?traffic_source=rss",
-   "at": "2026-11-06T12:57:33.000Z",
-   "ev": [
-    "iran"
-   ],
-   "cc": [
-    "Russia",
-    "United Arab Emirates",
-    "Iran"
-   ]
-  },
-  {
-   "id": "15bef426e99d",
-   "t": "For people in Iran, a constant threat of war and dearth of information",
-   "ko": "이란 사람들에게는 끊임없는 전쟁 위협과 정보 부족이 있습니다.",
-   "src": "DW",
-   "u": "https://www.dw.com/en/for-people-in-iran-a-constant-threat-of-war-and-dearth-of-information/a-79875438?maca=en-rss-en-world-4025-rdf",
-   "at": "2026-11-06T12:56:00.000Z",
-   "ev": [
-    "iran"
-   ],
-   "cc": [
-    "Iran"
-   ]
-  },
-  {
-   "id": "ea37f3e65943",
-   "t": "Russian extremist group denies sending hoax bomb threats",
-   "ko": "러시아 극단주의 단체, 가짜 폭탄 위협 발송 거부",
-   "src": "BBC",
-   "u": "https://www.bbc.co.uk/news/articles/cm2d66n0lx1yo?at_medium=RSS&at_campaign=rss",
-   "at": "2026-11-06T12:51:38.000Z",
-   "ev": [],
-   "cc": [
-    "Russia"
-   ]
-  },
-  {
-   "id": "22a269a7628c",
-   "t": "The human cost of recycling: Kenyan waste pickers put their health at risk",
-   "ko": "재활용으로 인한 인적 비용: 케냐의 쓰레기 수거인은 건강을 위험에 빠뜨립니다.",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/tv-shows/reporters/20261106-the-human-cost-of-recycling-kenyan-waste-pickers-put-their-health-at-risk",
-   "at": "2026-11-06T12:34:50.000Z",
-   "ev": [],
-   "cc": [
-    "Kenya"
-   ]
-  },
-  {
-   "id": "7dcaeed45ba7",
-   "t": "Most Europeans want action to tackle climate crisis but not at any cost, poll shows",
-   "ko": "대부분의 유럽인들은 기후 위기에 대처하기 위한 조치를 원하지만 어떤 대가를 치르더라도 그렇지 않다는 여론조사 결과가 나왔습니다.",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/world/2026/nov/06/europeans-want-action-climate-crisis-yougov-poll",
-   "at": "2026-11-06T12:27:54.000Z",
-   "ev": [],
-   "cc": [
-    "Germany",
-    "France"
-   ]
-  },
-  {
-   "id": "013cb805ad78",
-   "t": "Kenya cult leader Paul Mackenzie sentenced to 200 years",
-   "ko": "케냐 사이비종교 지도자 폴 맥켄지, 200년형 선고",
-   "src": "DW",
-   "u": "https://www.dw.com/en/kenya-cult-leader-paul-mackenzie-sentenced-to-200-years/a-79875112?maca=en-rss-en-world-4025-rdf",
-   "at": "2026-11-06T12:03:00.000Z",
-   "ev": [],
-   "cc": [
-    "Kenya"
-   ]
-  },
-  {
-   "id": "4cd028ae0820",
-   "t": "‘An abomination’: Idaho hunters earned thousands of dollars to kill newborn wolf pups, records reveal",
-   "ko": "'혐오스러운 일': 아이다호 사냥꾼들은 새끼 늑대를 죽여 수천 달러를 벌었다고 기록이 밝혀졌습니다",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/us-news/2026/nov/06/idaho-hunters-newborn-wolf-pups",
-   "at": "2026-11-06T12:00:42.000Z",
-   "ev": [],
-   "cc": []
-  },
-  {
-   "id": "cf2d7ffe16d7",
-   "t": "Sudan’s suffering is plain for all to see say aid teams, as brutal war continues",
-   "ko": "잔혹한 전쟁이 계속되는 가운데 수단의 고통은 구호팀의 모습을 모두가 쉽게 볼 수 있습니다.",
-   "src": "UN News",
-   "u": "https://news.un.org/feed/view/en/story/2026/11/1168753",
-   "at": "2026-11-06T12:00:00.000Z",
-   "ev": [
-    "sudan"
-   ],
-   "cc": [
-    "Sudan"
-   ]
-  },
-  {
-   "id": "c1e6899ab618",
-   "t": "‘No Escape’ for refugees on the frontlines of the climate crisis",
-   "ko": "기후위기 최전선에 있는 난민들을 위한 '탈출은 없다'",
-   "src": "UN News",
-   "u": "https://news.un.org/feed/view/en/story/2026/11/1168752",
-   "at": "2026-11-06T12:00:00.000Z",
-   "ev": [],
-   "cc": []
-  },
-  {
-   "id": "ad25359eddcd",
-   "t": "Afghanistan faces deepening humanitarian crisis amid sweeping rights restrictions",
-   "ko": "아프가니스탄은 전면적인 인권 제한으로 인도주의적 위기가 심화되고 있다",
-   "src": "UN News",
-   "u": "https://news.un.org/feed/view/en/story/2026/11/1168758",
-   "at": "2026-11-06T12:00:00.000Z",
-   "ev": [
-    "afpak"
-   ],
-   "cc": [
-    "Afghanistan"
-   ]
-  },
-  {
-   "id": "a62193ec19db",
-   "t": "World News in Brief: Civilians killed in DR Congo, Ukrainians wrestle with return, Guterres calls out ‘normalisation’ of force",
-   "ko": "세계 뉴스 요약: 콩고민주공화국에서 민간인 사망, 우크라이나인 귀환 위해 고군분투, 구테레스는 무력의 '정상화' 촉구",
-   "src": "UN News",
-   "u": "https://news.un.org/feed/view/en/story/2026/11/1168757",
-   "at": "2026-11-06T12:00:00.000Z",
-   "ev": [
-    "ukraine",
-    "drc"
-   ],
-   "cc": [
-    "Democratic Republic of the Congo"
-   ]
-  },
-  {
-   "id": "a5922f5bfbd6",
-   "t": "Tanzania court jails opposition leader for incitement, lifts treason charge",
-   "ko": "탄자니아 법원, 야당 지도자를 선동 혐의로 징역형, 반역 혐의 취소",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/news/2026/11/6/tanzania-court-jails-opposition-leader-for-incitement-lifts-treason-charge?traffic_source=rss",
-   "at": "2026-11-06T11:56:57.000Z",
-   "ev": [],
-   "cc": [
-    "Tanzania"
-   ]
-  },
-  {
-   "id": "43fd6b3d4efb",
-   "t": "Europe's crisis of discontent: Student and cost-of-living protests spread across EU",
-   "ko": "유럽의 불만 위기: 학생 및 생활비 시위가 EU 전역으로 확산",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/tv-shows/talking-europe/20261106-europe-s-crisis-of-discontent-student-and-cost-of-living-protests-spread-across-eu",
-   "at": "2026-11-06T11:48:49.000Z",
-   "ev": [],
-   "cc": [
-    "France"
-   ]
-  },
-  {
-   "id": "f7898d7efe4c",
-   "t": "Israel's Eisenkot claims 'progress' in coalition talks as opposition eases on ultra-Orthodox draft",
-   "ko": "이스라엘의 아이젠코트는 야당이 초정통 초안을 완화함에 따라 연합 회담에서 '진전'을 주장했습니다.",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/middle-east/20261106-israel-s-eisenkot-claims-significant-progress-in-coalition-talks-as-opposition-eases-on-ultra-orthodox-draft",
-   "at": "2026-11-06T11:43:55.000Z",
-   "ev": [],
-   "cc": [
-    "Israel"
-   ]
-  },
-  {
-   "id": "893c5cf1489f",
-   "t": "French 2027 presidential elections: Why Melenchon is a Gen Z favourite",
-   "ko": "2027년 프랑스 대통령 선거: Melenchon이 Z 세대가 가장 좋아하는 이유",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/french-2027-presidential-elections-why-melenchon-is-a-gen-z-favourite",
-   "at": "2026-11-06T11:43:31.000Z",
-   "ev": [],
-   "cc": [
-    "France"
-   ]
-  },
-  {
-   "id": "b3578216dc4e",
-   "t": "Rocket launcher deal illustrates deepening Russia-Iran relations",
-   "ko": "로켓 발사기 거래는 러시아-이란 관계 심화를 보여줍니다.",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/news/2026/11/6/rocket-launcher-deal-illustrates-deepening-russia-iran-relations?traffic_source=rss",
-   "at": "2026-11-06T11:28:38.000Z",
-   "ev": [
-    "iran"
-   ],
-   "cc": [
-    "Iran"
-   ]
-  },
-  {
-   "id": "2c55a995fedd",
-   "t": "Hoax or bomb threats? What we know about flight disruptions across Europe",
-   "ko": "사기 또는 폭탄 위협? 유럽 ​​전역의 항공편 중단에 대해 우리가 알고 있는 것",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/news/2026/11/6/hoax-or-bomb-threats-what-we-know-about-flight-disruptions-across-europe?traffic_source=rss",
-   "at": "2026-11-06T11:18:02.000Z",
-   "ev": [],
-   "cc": []
-  },
-  {
-   "id": "369a4e4f36ab",
-   "t": "‘Nobody can stop them’: Who are Europe’s Black Bloc protesters?",
-   "ko": "'아무도 그들을 막을 수 없다': 유럽 블랙 블록 시위자들은 누구인가?",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/news/2026/11/6/nobody-can-stop-them-who-are-europes-black-bloc-protesters?traffic_source=rss",
-   "at": "2026-11-06T11:09:04.000Z",
-   "ev": [],
-   "cc": [
-    "France",
-    "Albania"
-   ]
-  },
-  {
-   "id": "85261cb12f5f",
-   "t": "At least two killed, 23 injured in school bus accident in eastern France",
-   "ko": "프랑스 동부에서 스쿨버스 사고로 최소 2명이 사망하고 23명이 부상당했다.",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/france/20261106-at-least-two-killed-16-injured-in-school-bus-accident-in-eastern-france",
-   "at": "2026-11-06T10:37:42.000Z",
-   "ev": [],
-   "cc": [
-    "France"
-   ]
-  },
-  {
-   "id": "84c007891ea8",
-   "t": "Death toll rises to 50 in Russian attack on aid distribution ‌point in Ukraine",
-   "ko": "러시아, 우크라이나 구호물자 배급소 공격으로 사망자 50명으로 늘어",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/europe/20261106-death-toll-rises-to-50-in-russian-attack-on-aid-distribution-point-in-ukraine",
-   "at": "2026-11-06T10:15:12.000Z",
-   "ev": [
-    "ukraine"
-   ],
-   "cc": [
-    "Russia",
-    "Ukraine"
    ]
   }
  ]
