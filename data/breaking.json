@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-07T22:33:14.465Z",
+ "updated": "2026-11-08T01:49:10.119Z",
  "sources": {
   "BBC": {
    "ok": true,
@@ -37,17 +37,66 @@
    "ko": "크라쿠프 총격 사건 이후 지금까지 우리가 알고 있는 것",
    "src": "BBC",
    "u": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss",
-   "at": "2026-11-07T22:27:30.000Z",
+   "at": "2026-11-08T01:47:41.000Z",
    "ev": [],
    "cc": []
   },
   {
+   "id": "403053207322",
+   "t": "Canary Islands’ El Hierro declares emergency amid migrant, refugee influx",
+   "ko": "카나리아 제도의 엘 히에로(El Hierro), 이민자·난민 유입으로 비상사태 선포",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/11/8/canary-islands-el-hierro-declares-emergency-amid-migrant-refugee-influx?traffic_source=rss",
+   "at": "2026-11-08T01:37:55.000Z",
+   "ev": [],
+   "cc": [
+    "Spain"
+   ]
+  },
+  {
+   "id": "ae905b2cfb5f",
+   "t": "Polish PM calls deadly Krakow shooting an act of ‘terrorism’",
+   "ko": "폴란드 총리는 치명적인 크라쿠프 총격 사건을 '테러 행위'라고 불렀습니다.",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/video/newsfeed/2026/11/8/polish-pm-calls-deadly-krakow-shooting-an-act-of?traffic_source=rss",
+   "at": "2026-11-08T00:50:28.000Z",
+   "ev": [],
+   "cc": []
+  },
+  {
+   "id": "99179248bf96",
+   "t": "Iran war live: Blasts heard in Qeshm; US moves to block land supply routes",
+   "ko": "이란 전쟁 라이브: Qeshm에서 폭발음이 들림; 미국, 토지 공급 경로 차단 움직임",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/liveblog/2026/11/8/iran-war-live-explosions-hit-qeshm-us-moves-to-block-land-supply-routes?traffic_source=rss",
+   "at": "2026-11-08T00:00:56.000Z",
+   "ev": [
+    "iran"
+   ],
+   "cc": [
+    "Iran",
+    "United States"
+   ]
+  },
+  {
+   "id": "a15661f83070",
+   "t": "Gunmen kills six in Krakow, three more bodies found at his house",
+   "ko": "크라쿠프에서 괴한이 6명을 사살하고 그의 집에서 시신 3구가 더 발견됐다.",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/gunmen-kills-six-in-krakow-three-more-bodies-found-at-his-house",
+   "at": "2026-11-07T22:47:06.000Z",
+   "ev": [],
+   "cc": [
+    "Poland"
+   ]
+  },
+  {
    "id": "2836ed32ece6",
-   "t": "Kraków shooting latest updates: six killed and more than a dozen injured, police say",
-   "ko": "크라쿠프 총격 사건 최신 업데이트: 6명이 사망하고 12명 이상이 부상했다고 경찰이 밝혔습니다.",
+   "t": "Kraków shooting latest updates: six killed and more than a dozen injured – as it happened",
+   "ko": "크라쿠프 총격 사건 최신 업데이트: 6명이 사망하고 12명 이상이 부상당했습니다.",
    "src": "The Guardian",
    "u": "https://www.theguardian.com/world/live/2026/nov/07/krakow-shooting-poland-latest-news-updates",
-   "at": "2026-11-07T21:58:54.000Z",
+   "at": "2026-11-07T22:32:41.000Z",
    "ev": [],
    "cc": [
     "United States",
@@ -1762,69 +1811,6 @@
     "Australia",
     "United States",
     "Iran"
-   ]
-  },
-  {
-   "id": "e8c0c67decf9",
-   "t": "California governor commutes sentences of more than 500 people on death row",
-   "ko": "캘리포니아 주지사, 사형수 500명 이상 감형",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/news/2026/11/6/california-governor-commutes-sentences-of-more-than-500-people-on-death-row?traffic_source=rss",
-   "at": "2026-11-06T01:39:35.000Z",
-   "ev": [],
-   "cc": [
-    "United States"
-   ]
-  },
-  {
-   "id": "d85e0362da0f",
-   "t": "Alabama, Florida and Indiana carry out executions on same day",
-   "ko": "앨라배마·플로리다·인디애나주, 같은 날 사형 집행",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/us-news/2026/nov/05/executions-florida-alabama-indiana",
-   "at": "2026-11-06T00:27:20.000Z",
-   "ev": [],
-   "cc": [
-    "United States"
-   ]
-  },
-  {
-   "id": "691300686fdf",
-   "t": "Iran war live: Trump warns US may have to ‘destroy’ rest of Iran",
-   "ko": "이란 전쟁 생중계: 트럼프, 미국이 이란의 나머지 부분을 '파괴'해야 할 수도 있다고 경고",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/news/liveblog/2026/11/6/iran-war-live-trump-warns-us-may-have-to-destroy-rest-of-iran?traffic_source=rss",
-   "at": "2026-11-06T00:00:00.000Z",
-   "ev": [
-    "iran"
-   ],
-   "cc": [
-    "Iran",
-    "United States"
-   ]
-  },
-  {
-   "id": "2b2b5e7bcef0",
-   "t": "Three-quarters of world's displaced people face severe climate risks, UN says",
-   "ko": "유엔 \"세계 난민 4분의 3, 심각한 기후위험 직면해 있다\"",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/environment/20261105-un-displaced-people-climate-risks",
-   "at": "2026-11-05T23:34:08.000Z",
-   "ev": [],
-   "cc": [
-    "Turkey"
-   ]
-  },
-  {
-   "id": "a49f25ad0c4a",
-   "t": "California governor commutes sentences for state's 548 death row inmates",
-   "ko": "캘리포니아 주지사, 주 사형수 548명 감형",
-   "src": "BBC",
-   "u": "https://www.bbc.co.uk/news/articles/cqrkyyd2j8mvo?at_medium=RSS&at_campaign=rss",
-   "at": "2026-11-05T23:09:33.000Z",
-   "ev": [],
-   "cc": [
-    "United States"
    ]
   }
  ]
