@@ -1,25 +1,25 @@
 {
- "updated": "2026-11-09T05:26:32.555Z",
+ "updated": "2026-11-09T14:20:12.130Z",
  "sources": {
   "BBC": {
    "ok": true,
-   "n": 6
+   "n": 9
   },
   "Al Jazeera": {
    "ok": true,
-   "n": 5
+   "n": 7
   },
   "The Guardian": {
    "ok": true,
-   "n": 9
+   "n": 10
   },
   "DW": {
    "ok": true,
-   "n": 3
+   "n": 2
   },
   "France 24": {
    "ok": true,
-   "n": 14
+   "n": 10
   },
   "UN News": {
    "ok": true,
@@ -32,6 +32,389 @@
  },
  "items": [
   {
+   "id": "5555027afb92",
+   "t": "French PM brings forward 1.6% increase in minimum wage in bid to calm protests",
+   "ko": "프랑스 총리, 시위 진정 위해 최저임금 1.6% 인상 제안",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/france/20261109-french-pm-lecornu-announces-increase-minimum-wage-bid-to-calm-protests",
+   "at": "2026-11-09T13:52:34.000Z",
+   "ev": [],
+   "cc": [
+    "France"
+   ]
+  },
+  {
+   "id": "b61202356cdf",
+   "t": "Iran sees 'golden opportunity for a sweetheart deal' after US midterms, expert says",
+   "ko": "이란은 미국 중간고사 이후 '좋은 거래를 위한 절호의 기회'를 보고 있다고 전문가는 말합니다.",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/iran-sees-golden-opportunity-for-a-sweetheart-deal-after-us-midterms-expert-says",
+   "at": "2026-11-09T13:49:33.000Z",
+   "ev": [
+    "iran"
+   ],
+   "cc": [
+    "Iran",
+    "United States"
+   ]
+  },
+  {
+   "id": "aa930c646752",
+   "t": "‘Obvious risk of further tragedy’ at rail crossing type at which Amazon driver died, inquiry finds",
+   "ko": "아마존 운전자가 사망한 건널목 유형에서 '추가 비극의 명백한 위험'이 조사 결과 밝혀졌습니다.",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/business/2026/nov/09/amazon-driver-died-inquiry-manually-operated-level-crossing-kent",
+   "at": "2026-11-09T13:43:57.000Z",
+   "ev": [],
+   "cc": []
+  },
+  {
+   "id": "eb683941877c",
+   "t": "Poland’s justice minister says investigation into Kraków shooting will aim to establish if the 24-year-old acted alone – Europe live",
+   "ko": "폴란드 법무장관은 크라쿠프 총격 사건에 대한 조사가 24세의 혼자 행동했는지 여부를 밝히는 것을 목표로 할 것이라고 말했습니다 – 유럽 라이브",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/world/live/2026/nov/09/polands-krakow-attack-ukraine-russia-france-germany-europe-latest-news",
+   "at": "2026-11-09T13:34:24.000Z",
+   "ev": [
+    "ukraine"
+   ],
+   "cc": [
+    "Poland",
+    "Ukraine",
+    "Canada"
+   ]
+  },
+  {
+   "id": "73acf381ec21",
+   "t": "Syria confirms sending troops to Saudi Arabia amid battle against Houthis",
+   "ko": "시리아, 후티 반군과의 전투 중 사우디아라비아에 군대 파병 확인",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/features/2026/11/9/syria-confirms-sending-troops-to-saudi-arabia-amid-battle-against-houthis?traffic_source=rss",
+   "at": "2026-11-09T13:15:27.000Z",
+   "ev": [
+    "yemen",
+    "syria"
+   ],
+   "cc": [
+    "Syria",
+    "Saudi Arabia",
+    "Yemen"
+   ]
+  },
+  {
+   "id": "931c77e00354",
+   "t": "Sudan teachers go on strike over meagre salaries and dilapidated schools",
+   "ko": "수단 교사들, 적은 급여와 낙후된 학교 문제로 파업",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/economy/2026/11/9/sudan-teachers-go-on-strike-over-meagre-salaries-and-dilapidated-schools?traffic_source=rss",
+   "at": "2026-11-09T13:08:35.000Z",
+   "ev": [
+    "sudan"
+   ],
+   "cc": [
+    "Sudan"
+   ]
+  },
+  {
+   "id": "c1e95fc8ad4d",
+   "t": "Black girls in LA keep seeing women around them getting killed. They’re driving change",
+   "ko": "LA의 흑인 소녀들은 주변 여성들이 살해당하는 것을 계속 목격합니다. They’re driving change",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/us-news/ng-interactive/2026/nov/09/black-women-girls-los-angeles-homicides-violence",
+   "at": "2026-11-09T13:00:09.000Z",
+   "ev": [],
+   "cc": [
+    "United States"
+   ]
+  },
+  {
+   "id": "ee941fb427c9",
+   "t": "At least 21 migrants and refugees die trying to reach Greece’s Crete",
+   "ko": "그리스 크레타 섬에 도착하려다 최소 21명의 이주민과 난민이 사망",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/11/9/at-least-21-migrants-and-refugees-die-trying-to-reach-greeces-crete?traffic_source=rss",
+   "at": "2026-11-09T12:06:19.000Z",
+   "ev": [],
+   "cc": [
+    "Greece"
+   ]
+  },
+  {
+   "id": "3149e587198d",
+   "t": "Krakow shooting suspect has died in hospital, police say",
+   "ko": "크라쿠프 총격 용의자, 병원에서 사망했다고 경찰 발표",
+   "src": "BBC",
+   "u": "https://www.bbc.co.uk/news/articles/c6y434dw8319o?at_medium=RSS&at_campaign=rss",
+   "at": "2026-11-09T11:56:25.000Z",
+   "ev": [],
+   "cc": []
+  },
+  {
+   "id": "a2675e832de9",
+   "t": "'A tricky day' ahead for French PM as he meets with unions amid social unrest",
+   "ko": "사회 불안 속에서 노조와 만나는 프랑스 총리에게 '까다로운 날'이 다가왔다",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/video/20261109-a-tricky-day-ahead-for-french-pm-as-he-meets-with-unions-amid-social-unrest",
+   "at": "2026-11-09T11:42:48.000Z",
+   "ev": [],
+   "cc": [
+    "France"
+   ]
+  },
+  {
+   "id": "196d81ce9eb7",
+   "t": "New James Bond actor expected 'within weeks' as 'unexpected' frontrunners emerge",
+   "ko": "'예상치 못한' 선두 주자가 등장함에 따라 새로운 제임스 본드 배우는 '몇 주 안에' 예상됩니다.",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/tv-shows/press-review/20261109-new-james-bond-actor-expected-within-weeks-as-unexpected-frontrunners-emerge",
+   "at": "2026-11-09T11:05:38.000Z",
+   "ev": [
+    "ukraine"
+   ],
+   "cc": [
+    "Russia",
+    "Ukraine"
+   ]
+  },
+  {
+   "id": "017b58253dd5",
+   "t": "Tents 'entirely submerged' as heavy rains hit Gaza",
+   "ko": "가자지구에 폭우가 내리자 텐트가 '완전히 물에 잠겨'",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/video/20261109-tents-entirely-submerged-has-heavy-rains-hit-gaza",
+   "at": "2026-11-09T11:04:18.000Z",
+   "ev": [
+    "gaza"
+   ],
+   "cc": [
+    "Palestine"
+   ]
+  },
+  {
+   "id": "474691794557",
+   "t": "At least 34 dead after Europe-bound migrant boat sinks off Senegal",
+   "ko": "유럽으로 향하던 이민자 보트가 세네갈에서 침몰해 최소 34명이 사망했다.",
+   "src": "BBC",
+   "u": "https://www.bbc.co.uk/news/articles/cv2d6dpge65go?at_medium=RSS&at_campaign=rss",
+   "at": "2026-11-09T10:59:26.000Z",
+   "ev": [],
+   "cc": [
+    "Senegal",
+    "Spain"
+   ]
+  },
+  {
+   "id": "160d26aeef61",
+   "t": "Four killed in Gaza after sand embankment collapses onto tents, health ministry says",
+   "ko": "가자 지구에서 모래 제방이 텐트 위로 무너져 4명이 사망했다고 보건부가 밝혔습니다.",
+   "src": "BBC",
+   "u": "https://www.bbc.co.uk/news/articles/cqd090ee8px5o?at_medium=RSS&at_campaign=rss",
+   "at": "2026-11-09T10:41:57.000Z",
+   "ev": [
+    "gaza"
+   ],
+   "cc": [
+    "Palestine"
+   ]
+  },
+  {
+   "id": "2eb59544055d",
+   "t": "Saudi Arabia intercepts Houthi missiles as Riyadh's Aramco building damaged",
+   "ko": "사우디아라비아, 리야드 아람코 건물 손상되자 후티 미사일 요격",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/video/20261109-saudi-arabia-intercepts-houthi-missiles-as-riyadh-s-aramco-building-damaged",
+   "at": "2026-11-09T10:41:55.000Z",
+   "ev": [
+    "yemen"
+   ],
+   "cc": [
+    "Saudi Arabia",
+    "Yemen"
+   ]
+  },
+  {
+   "id": "0c6ab64dbd9b",
+   "t": "French PM Lecornu holds talks over protesters' cost-of-living concerns",
+   "ko": "르코르누 프랑스 총리, 시위대의 생활비 문제에 대해 회담",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/video/20261109-french-pm-lecornu-holds-talks-over-protesters-cost-of-living-concerns",
+   "at": "2026-11-09T10:40:01.000Z",
+   "ev": [],
+   "cc": [
+    "France"
+   ]
+  },
+  {
+   "id": "f659e792d7bb",
+   "t": "Poland begins 2 days of national mourning after gunman kills 6",
+   "ko": "폴란드, 총격범으로 6명 사망 이틀간 국가애도 시작",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/video/20261109-poland-begins-2-days-of-national-mourning-after-gunman-kills-6",
+   "at": "2026-11-09T10:37:02.000Z",
+   "ev": [],
+   "cc": [
+    "Poland"
+   ]
+  },
+  {
+   "id": "93080ee73830",
+   "t": "Fog shrouding swathes of UK likely to disrupt transport early this week",
+   "ko": "이번 주 초 영국의 안개로 인해 교통이 방해받을 가능성이 높습니다.",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/uk-news/2026/nov/09/fog-uk-weather-transport-disruption",
+   "at": "2026-11-09T10:29:28.000Z",
+   "ev": [],
+   "cc": [
+    "United Kingdom",
+    "Ireland"
+   ]
+  },
+  {
+   "id": "5252d0cff00c",
+   "t": "Kraków shooting suspect who killed six has died, Polish police say",
+   "ko": "6명을 살해한 크라쿠프 총격 용의자가 사망했다고 폴란드 경찰이 밝혔다.",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/world/2026/nov/09/krakow-shooting-suspected-gunman-dead",
+   "at": "2026-11-09T10:22:54.000Z",
+   "ev": [
+    "ukraine"
+   ],
+   "cc": []
+  },
+  {
+   "id": "e78121e7d8b1",
+   "t": "Dems set to go after Hegseth, Musk following midterms rout",
+   "ko": "민주당은 중간고사 패배 이후 헤그세스, 머스크를 뒤쫓을 예정",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/video/20261109-dems-set-to-go-after-hegseth-musk-following-midterms-rout",
+   "at": "2026-11-09T10:19:49.000Z",
+   "ev": [
+    "iran"
+   ],
+   "cc": [
+    "Iran"
+   ]
+  },
+  {
+   "id": "ffb0b5ca14f5",
+   "t": "At least four people killed as Russia and Ukraine trade strikes overnight",
+   "ko": "러시아와 우크라이나가 밤새 무역 파업으로 최소 4명이 사망했다.",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/11/9/at-least-one-person-killed-as-russia-and-ukraine-trade-strikes-overnight?traffic_source=rss",
+   "at": "2026-11-09T10:08:45.000Z",
+   "ev": [
+    "ukraine"
+   ],
+   "cc": [
+    "Russia",
+    "Ukraine"
+   ]
+  },
+  {
+   "id": "64bd8139fd85",
+   "t": "Iran’s authorities harden domestic security controls amid US strike threats",
+   "ko": "이란 당국, 미국의 공습 위협에 국내 보안 통제 강화",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/11/9/irans-authorities-harden-domestic-security-controls-amid-us-strike-threats?traffic_source=rss",
+   "at": "2026-11-09T09:56:13.000Z",
+   "ev": [
+    "iran"
+   ],
+   "cc": [
+    "Iran",
+    "United States"
+   ]
+  },
+  {
+   "id": "adec5d47b493",
+   "t": "European troops in Poland: 'Coalition of the Willing' holds military exercises",
+   "ko": "폴란드 주둔 유럽군: '의지 연합'이 군사 훈련을 실시합니다.",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/video/20261109-european-troops-in-poland-coalition-of-the-willing-holds-military-exercises",
+   "at": "2026-11-09T09:53:53.000Z",
+   "ev": [
+    "ukraine"
+   ],
+   "cc": [
+    "Poland",
+    "Ukraine"
+   ]
+  },
+  {
+   "id": "814d1a2b6376",
+   "t": "Trump says he was 'kidding' about Dana White press secretary offer",
+   "ko": "트럼프, 데이나 화이트 기자 비서 제안에 '농담'",
+   "src": "BBC",
+   "u": "https://www.bbc.co.uk/news/articles/ck0j0j87959eo?at_medium=RSS&at_campaign=rss",
+   "at": "2026-11-09T08:49:17.000Z",
+   "ev": [],
+   "cc": []
+  },
+  {
+   "id": "7e6b058b7705",
+   "t": "Trump admits deportation policy was ‘too tough’ despite promotion of Stephen Miller",
+   "ko": "트럼프, 스티븐 밀러 승진에도 불구하고 추방 정책이 '너무 가혹했다' 인정",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/us-news/2026/nov/09/trump-tells-60-minutes-deportation-policy-too-tough-ice-immigration",
+   "at": "2026-11-09T08:32:32.000Z",
+   "ev": [],
+   "cc": [
+    "United States"
+   ]
+  },
+  {
+   "id": "11458af0c685",
+   "t": "‘A global political awakening’: how gen Z protests are sweeping the world",
+   "ko": "'글로벌 정치적 각성': Z세대 시위가 어떻게 세계를 휩쓸고 있는가",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/world/2026/nov/06/gen-z-protests-sweeping-the-world",
+   "at": "2026-11-09T08:04:44.000Z",
+   "ev": [],
+   "cc": [
+    "Serbia",
+    "Bangladesh",
+    "India"
+   ]
+  },
+  {
+   "id": "597a3b496bcb",
+   "t": "Who are the seafarers caught in the US-Israeli war on Iran?",
+   "ko": "미국-이스라엘의 이란 전쟁에 휘말린 선원들은 누구인가?",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/11/9/who-are-the-seafarers-caught-in-the-us-israeli-war-on-iran?traffic_source=rss",
+   "at": "2026-11-09T07:07:26.000Z",
+   "ev": [
+    "iran"
+   ],
+   "cc": [
+    "Iran"
+   ]
+  },
+  {
+   "id": "c0a45d64564a",
+   "t": "Poland mass shooting assailant dies in hospital, police say",
+   "ko": "폴란드 총격 사건 용의자, 병원에서 사망했다고 경찰 발표",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/11/9/poland-mass-shooting-assailant-dies-in-hospital-police-say?traffic_source=rss",
+   "at": "2026-11-09T07:03:24.000Z",
+   "ev": [],
+   "cc": [
+    "Poland"
+   ]
+  },
+  {
+   "id": "160e086e36d0",
+   "t": "Krakow mass shooting suspect has died in hospital, police in Poland say",
+   "ko": "폴란드 경찰은 크라쿠프 총격 용의자가 병원에서 사망했다고 밝혔다.",
+   "src": "DW",
+   "u": "https://www.dw.com/en/krakow-mass-shooting-suspect-has-died-in-hospital-police-in-poland-say/a-79895626?maca=en-rss-en-world-4025-rdf",
+   "at": "2026-11-09T06:53:00.000Z",
+   "ev": [],
+   "cc": [
+    "Poland"
+   ]
+  },
+  {
    "id": "d37bdd9c471b",
    "t": "Rubio says war on Iran unpopular but ‘necessary’ to stop nuclear threat",
    "ko": "루비오 총리는 이란과의 전쟁은 인기가 없지만 핵 위협을 막기 위해서는 '필요하다'고 말했습니다.",
@@ -43,18 +426,6 @@
    ],
    "cc": [
     "Iran",
-    "United States"
-   ]
-  },
-  {
-   "id": "7e6b058b7705",
-   "t": "Trump tells 60 Minutes that deportation policy was ‘too tough’",
-   "ko": "트럼프, 60분에 \"추방 정책 너무 가혹했다\"",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/us-news/2026/nov/09/trump-tells-60-minutes-deportation-policy-too-tough-ice-immigration",
-   "at": "2026-11-09T03:59:31.000Z",
-   "ev": [],
-   "cc": [
     "United States"
    ]
   },
@@ -1241,408 +1612,6 @@
    "ev": [],
    "cc": [
     "Iraq"
-   ]
-  },
-  {
-   "id": "c696078ff473",
-   "t": "France braces for more nationwide protests as Yellow Vests urge 'mass disobedience'",
-   "ko": "프랑스, 노란 조끼 시위에 '대량 불복종' 촉구",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/france-braces-for-more-nationwide-protests-as-yellow-vests-urge-mass-disobedience",
-   "at": "2026-11-07T13:29:28.000Z",
-   "ev": [],
-   "cc": [
-    "France"
-   ]
-  },
-  {
-   "id": "48af3f0a481d",
-   "t": "Nations League: Zinedine Zidane balances surprise and continuity in his second roster",
-   "ko": "네이션스 리그: 지네딘 지단은 두 번째 명단에서 놀라움과 연속성의 균형을 맞췄습니다.",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/nations-league-zinedine-zidane-balances-surprise-and-continuity-in-his-second-roster",
-   "at": "2026-11-07T13:27:01.000Z",
-   "ev": [],
-   "cc": [
-    "France",
-    "Italy",
-    "Turkey"
-   ]
-  },
-  {
-   "id": "93c9406c2b39",
-   "t": "‘They started bombing us with drones’: Russian attacks unnerve Zaporizhzhia",
-   "ko": "'그들은 드론으로 우리를 폭격하기 시작했습니다': 러시아의 공격으로 Zaporizhzhia는 불안해졌습니다",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/news/2026/11/7/they-started-bombing-us-with-drones-russian-attacks-unnerve-zaporizhzhia?traffic_source=rss",
-   "at": "2026-11-07T13:24:41.000Z",
-   "ev": [
-    "ukraine"
-   ],
-   "cc": [
-    "Russia"
-   ]
-  },
-  {
-   "id": "213870ee0ec8",
-   "t": "Buildings damaged in Israeli bombings risk collapse as rain inundates Gaza",
-   "ko": "이스라엘 폭격으로 파손된 건물, 가자지구에 폭우로 인해 붕괴 위험",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/features/2026/11/7/buildings-damaged-in-israel-bombing-at-risk-of-collapse-as-rain-floods-gaza?traffic_source=rss",
-   "at": "2026-11-07T13:07:23.000Z",
-   "ev": [
-    "gaza"
-   ],
-   "cc": [
-    "Israel",
-    "Palestine"
-   ]
-  },
-  {
-   "id": "393e0d6d578a",
-   "t": "Blackouts and water shortages in Kyiv after Russia strikes Ukraine’s energy grid",
-   "ko": "러시아가 우크라이나의 에너지 그리드를 공격한 후 키예프에서 정전과 물 부족이 발생했습니다.",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/world/2026/nov/07/blackout-water-shortage-kyiv-russia-strike-ukraine-energy-grid",
-   "at": "2026-11-07T13:03:03.000Z",
-   "ev": [
-    "ukraine"
-   ],
-   "cc": [
-    "Russia",
-    "Ukraine"
-   ]
-  },
-  {
-   "id": "d5b05a550a34",
-   "t": "Trump’s elevation of Stephen Miller is a middle finger to millions of voters",
-   "ko": "트럼프의 스티븐 밀러 상승은 수백만 유권자들에게 가운데 손가락입니다",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/us-news/2026/nov/07/trump-stephen-miller-midterms",
-   "at": "2026-11-07T13:00:12.000Z",
-   "ev": [],
-   "cc": []
-  },
-  {
-   "id": "395b7d483495",
-   "t": "Court rules against Home Office in asylum seeker kidnapping case",
-   "ko": "망명 신청자 납치 사건에서 내무부에 대한 법원 판결",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/law/2026/nov/07/court-of-appeal-rules-kidnap-for-ransom-libya-exploitation-trafficking-victims-asylum-seeker-home-office",
-   "at": "2026-11-07T13:00:11.000Z",
-   "ev": [
-    "syria"
-   ],
-   "cc": [
-    "Syria",
-    "Libya"
-   ]
-  },
-  {
-   "id": "e6afdaa46c60",
-   "t": "Russian strikes wound nine and damage Ukraine's power network ahead of talks",
-   "ko": "러시아, 회담 앞두고 우크라이나 전력망 공격으로 9명 부상 및 피해",
-   "src": "BBC",
-   "u": "https://www.bbc.co.uk/news/articles/cm4g1nq8158po?at_medium=RSS&at_campaign=rss",
-   "at": "2026-11-07T12:49:36.000Z",
-   "ev": [
-    "ukraine"
-   ],
-   "cc": [
-    "Russia",
-    "Ukraine"
-   ]
-  },
-  {
-   "id": "32dbf104fcb3",
-   "t": "Atletico Madrid vs Barcelona: La Liga – predictions, team news, lineups",
-   "ko": "아틀레티코 마드리드 대 바르셀로나: 라 리가 – 예측, 팀 뉴스, 라인업",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/sports/2026/11/7/atletico-madrid-barcelona-la-liga-prediction-team-news-lineups-preview?traffic_source=rss",
-   "at": "2026-11-07T12:27:58.000Z",
-   "ev": [],
-   "cc": []
-  },
-  {
-   "id": "1ed61bc0c753",
-   "t": "Qeshm island and Hormuz hit, as mediators try to prevent US-Iran escalation",
-   "ko": "중재자가 미국-이란의 확대를 막으려고 노력함에 따라 케심 섬과 호르무즈가 타격을 입었습니다.",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/news/2026/11/7/qeshm-island-and-hormuz-hit-as-mediators-try-to-prevent-us-iran-escalation?traffic_source=rss",
-   "at": "2026-11-07T12:22:18.000Z",
-   "ev": [
-    "iran"
-   ],
-   "cc": [
-    "United States",
-    "Iran"
-   ]
-  },
-  {
-   "id": "b633397dc632",
-   "t": "Russia launches massive strike on Kyiv",
-   "ko": "러시아, 키예프에 대규모 공습 개시",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/video/20261107-russia-launches-massive-strike-on-kyiv-1",
-   "at": "2026-11-07T12:15:21.000Z",
-   "ev": [
-    "ukraine"
-   ],
-   "cc": [
-    "Russia",
-    "Ukraine",
-    "United States"
-   ]
-  },
-  {
-   "id": "081cf898f0e6",
-   "t": "Stephen Miller named White House Chief of Staff",
-   "ko": "백악관 비서실장에 스티븐 밀러 임명",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/stephen-miller-named-white-house-chief-of-staff",
-   "at": "2026-11-07T12:14:16.000Z",
-   "ev": [],
-   "cc": []
-  },
-  {
-   "id": "351662446cf4",
-   "t": "Kenyan cult leader sentenced to 200 years in prison",
-   "ko": "케냐 이종교주, 징역 200년 선고",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/kenyan-cult-leader-sentenced-to-200-years-in-prison-1",
-   "at": "2026-11-07T12:10:34.000Z",
-   "ev": [],
-   "cc": [
-    "Kenya"
-   ]
-  },
-  {
-   "id": "10e7c1452b4a",
-   "t": "Dozens killed as humanitarian crisis mounts in Yemen: What next for war?",
-   "ko": "예멘에서 인도주의적 위기가 닥치면서 수십 명이 사망했습니다. 전쟁의 다음 단계는 무엇입니까?",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/news/2026/11/7/dozens-killed-as-humanitarian-crisis-mounts-in-yemen-what-next-for-war?traffic_source=rss",
-   "at": "2026-11-07T11:59:26.000Z",
-   "ev": [
-    "yemen"
-   ],
-   "cc": [
-    "Yemen"
-   ]
-  },
-  {
-   "id": "eb3a4198ef59",
-   "t": "India beat New Zealand by four runs via DLS in rain-hit second ODI",
-   "ko": "인도는 비가 내린 두 번째 ODI에서 DLS를 통해 뉴질랜드를 4점 차로 이겼습니다.",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/sports/2026/11/7/india-new-zealand-second-odi-rain-dls-method-win-four-runs?traffic_source=rss",
-   "at": "2026-11-07T10:50:54.000Z",
-   "ev": [],
-   "cc": [
-    "India",
-    "New Zealand"
-   ]
-  },
-  {
-   "id": "b7e1981b4884",
-   "t": "Sudan war and climate change see parents struggle to feed their children",
-   "ko": "수단 전쟁과 기후 변화로 인해 부모들은 자녀를 먹이기 위해 고군분투하고 있습니다.",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/features/2026/11/7/sudan-war-and-climate-change-sees-parents-struggle-to-feed-their-children?traffic_source=rss",
-   "at": "2026-11-07T10:36:32.000Z",
-   "ev": [
-    "sudan"
-   ],
-   "cc": [
-    "Sudan"
-   ]
-  },
-  {
-   "id": "0cbf74246ec8",
-   "t": "Russell Brand barrister reports himself to watchdog over clash with journalist",
-   "ko": "Russell Brand 변호사는 언론인과의 충돌로 감시단에 자신을 신고했습니다.",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/culture/2026/nov/06/russell-brand-barrister-ian-winter-reports-himself-bar-watchdog-confronting-sunday-times-journalist",
-   "at": "2026-11-07T10:04:01.000Z",
-   "ev": [],
-   "cc": []
-  },
-  {
-   "id": "9496121a3a2d",
-   "t": "Trump faces criticism for ‘dangerous’ Stephen Miller appointment as White House chief of staff",
-   "ko": "트럼프, 백악관 비서실장에 '위험한' 스티븐 밀러 임명 비판에 직면",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/us-news/2026/nov/07/stephen-miller-democrats-react",
-   "at": "2026-11-07T10:00:08.000Z",
-   "ev": [],
-   "cc": [
-    "United States"
-   ]
-  },
-  {
-   "id": "aa82f33007b1",
-   "t": "AI Data centres face growing backlash",
-   "ko": "AI 데이터 센터는 반발 증가에 직면",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/ai-data-centres-face-growing-backlash",
-   "at": "2026-11-07T09:39:55.000Z",
-   "ev": [],
-   "cc": []
-  },
-  {
-   "id": "78cf16109511",
-   "t": "Yemen: 30 dead in strikes on Taiz market",
-   "ko": "예멘: 타이즈 시장에서 파업으로 30명 사망",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/yemen-30-dead-in-strikes-on-taiz-market",
-   "at": "2026-11-07T09:37:16.000Z",
-   "ev": [
-    "yemen"
-   ],
-   "cc": [
-    "Yemen",
-    "Saudi Arabia"
-   ]
-  },
-  {
-   "id": "5093aacf1f39",
-   "t": "Ukraine: Russia hits Kyiv with airstrikes ahead of trilateral talks",
-   "ko": "우크라이나: 러시아, 3자 회담 앞두고 키예프 공습",
-   "src": "DW",
-   "u": "https://www.dw.com/en/ukraine-russia-hits-kyiv-with-airstrikes-ahead-of-trilateral-talks/a-79883851?maca=en-rss-en-world-4025-rdf",
-   "at": "2026-11-07T09:21:00.000Z",
-   "ev": [
-    "ukraine"
-   ],
-   "cc": [
-    "Ukraine",
-    "Russia"
-   ]
-  },
-  {
-   "id": "ff0eea51cee9",
-   "t": "Will Trump strike nuclear sites again as Iran engages ‘cognitive warfare’?",
-   "ko": "이란이 '인지전'을 벌이면서 트럼프는 다시 핵 시설을 공격할 것인가?",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/news/2026/11/7/will-trump-strike-nuclear-sites-again-as-iran-engages-cognitive?traffic_source=rss",
-   "at": "2026-11-07T08:45:36.000Z",
-   "ev": [
-    "iran"
-   ],
-   "cc": [
-    "Iran",
-    "United States"
-   ]
-  },
-  {
-   "id": "43d3003c551f",
-   "t": "French student unions say 250,000 people took part in Saturday’s protests",
-   "ko": "프랑스 학생회는 토요일 시위에 25만 명이 참여했다고 밝혔습니다.",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/france/20261107-live-france-braces-for-more-nationwide-protests-as-yellow-vests-urge-mass-disobedience",
-   "at": "2026-11-07T08:17:22.000Z",
-   "ev": [],
-   "cc": [
-    "France"
-   ]
-  },
-  {
-   "id": "c18487e5b924",
-   "t": "Amid protests, France's rising debt costs threaten stability",
-   "ko": "시위 속에서 프랑스의 부채 비용 증가로 안정이 위협받고 있습니다.",
-   "src": "DW",
-   "u": "https://www.dw.com/en/amid-protests-france-s-rising-debt-costs-threaten-stability/a-79865654?maca=en-rss-en-world-4025-rdf",
-   "at": "2026-11-07T08:16:00.000Z",
-   "ev": [],
-   "cc": [
-    "France"
-   ]
-  },
-  {
-   "id": "774b036d4ef1",
-   "t": "Russia hits Kyiv and surrounding region in massive overnight strike",
-   "ko": "러시아, 대규모 야간 파업으로 키예프와 주변 지역 공습",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/europe/20261107-moscow-strikes-kyiv-as-ukraine-prepares-for-talks-with-russia-and-the-us",
-   "at": "2026-11-07T08:08:44.000Z",
-   "ev": [
-    "ukraine"
-   ],
-   "cc": [
-    "Russia",
-    "Ukraine"
-   ]
-  },
-  {
-   "id": "d01f5b42d42d",
-   "t": "Qatari PM says US willing to seek solution to war with Iran",
-   "ko": "카타르 총리는 미국이 이란과의 전쟁 해결책을 모색할 의향이 있다고 밝혔습니다.",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/video/newsfeed/2026/11/7/qatari-pm-says-us-willing-to-seek-solution-to-war-with-iran?traffic_source=rss",
-   "at": "2026-11-07T07:10:37.000Z",
-   "ev": [
-    "iran"
-   ],
-   "cc": [
-    "United States",
-    "Iran"
-   ]
-  },
-  {
-   "id": "6da1f10b9d2e",
-   "t": "Strait of Hormuz could reopen as part of Qatari plan for Iran nuclear inspections",
-   "ko": "호르무즈 해협은 이란 핵 사찰을 위한 카타르 계획의 일환으로 재개방될 수 있다.",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/world/2026/nov/07/strait-of-hormuz-qatar-plan-iran-nuclear-inspections",
-   "at": "2026-11-07T07:00:04.000Z",
-   "ev": [
-    "iran"
-   ],
-   "cc": [
-    "Iran",
-    "Qatar"
-   ]
-  },
-  {
-   "id": "d16055133bfa",
-   "t": "How the Iran war helped Democrats win the midterms",
-   "ko": "이란 전쟁이 민주당의 중간고사 승리에 어떻게 도움이 됐나",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/opinions/2026/11/7/how-the-iran-war-helped-democrats-win-the-midterms?traffic_source=rss",
-   "at": "2026-11-07T06:26:58.000Z",
-   "ev": [
-    "iran"
-   ],
-   "cc": [
-    "Iran"
-   ]
-  },
-  {
-   "id": "d29e41e56277",
-   "t": "The end of Maga as we know it",
-   "ko": "우리가 알고 있는 마가의 종말",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/news/ng-interactive/2026/nov/07/the-end-of-maga-as-we-know-it",
-   "at": "2026-11-07T06:00:05.000Z",
-   "ev": [
-    "iran"
-   ],
-   "cc": [
-    "United States",
-    "Iran",
-    "Afghanistan"
-   ]
-  },
-  {
-   "id": "e448e95b11f2",
-   "t": "Paraguay’s Pena under military protection in bank collapse chaos",
-   "ko": "파라과이 페나, 은행 붕괴 혼란 속 군사 보호 받고 있다",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/video/newsfeed/2026/11/7/aje-onl-nf_paraguays-pena-under-house-arrest-061126?traffic_source=rss",
-   "at": "2026-11-07T05:51:23.000Z",
-   "ev": [],
-   "cc": [
-    "Paraguay"
    ]
   }
  ]
