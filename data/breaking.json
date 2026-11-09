@@ -1,13 +1,13 @@
 {
- "updated": "2026-11-09T14:20:12.130Z",
+ "updated": "2026-11-09T23:29:49.986Z",
  "sources": {
   "BBC": {
    "ok": true,
-   "n": 9
+   "n": 3
   },
   "Al Jazeera": {
    "ok": true,
-   "n": 7
+   "n": 14
   },
   "The Guardian": {
    "ok": true,
@@ -19,18 +19,504 @@
   },
   "France 24": {
    "ok": true,
-   "n": 10
+   "n": 9
   },
   "UN News": {
    "ok": true,
-   "n": 0
+   "n": 2
   },
   "NPR": {
    "ok": true,
-   "n": 1
+   "n": 3
   }
  },
  "items": [
+  {
+   "id": "d2bc1bd42d05",
+   "t": "Donald Trump doubles down on defense of Pete Hegseth and attacks fresh effort to impeach him – live",
+   "ko": "도널드 트럼프(Donald Trump)는 피트 헤그세스(Pete Hegseth)를 옹호하고 그를 탄핵하려는 새로운 노력을 공격합니다 – 라이브",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/us-news/live/2026/nov/09/donald-trump-stephen-miller-immigration-midterms-iran-qatar-economy-latest-news-updates",
+   "at": "2026-11-09T23:02:28.000Z",
+   "ev": [
+    "iran"
+   ],
+   "cc": [
+    "Iran",
+    "United States",
+    "China"
+   ]
+  },
+  {
+   "id": "146fa5ff5a82",
+   "t": "Trump says US war in Iran ‘effectively over’ as he plays down escalation concerns",
+   "ko": "트럼프 \"이란 전쟁은 사실상 끝났다\"",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/us-news/2026/nov/09/trump-iran-war",
+   "at": "2026-11-09T22:58:31.000Z",
+   "ev": [
+    "iran"
+   ],
+   "cc": [
+    "United States",
+    "Iran",
+    "Israel"
+   ]
+  },
+  {
+   "id": "d97f7f3c4d6e",
+   "t": "US Defense Secretary Hegseth faces expected impeachment vote this week",
+   "ko": "헤그세스 미 국방장관, 이번 주 탄핵 표결 예상",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/us-defense-secretary-hegseth-faces-expected-impeachment-vote-this-week",
+   "at": "2026-11-09T22:51:39.000Z",
+   "ev": [
+    "iran"
+   ],
+   "cc": [
+    "United States",
+    "Iran"
+   ]
+  },
+  {
+   "id": "ee6742e73a89",
+   "t": "Trump calls Iran war ‘effectively over’ after talks with Qatar PM",
+   "ko": "트럼프, 카타르 총리와 회담 후 이란 전쟁 '효과적으로 끝났다'",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/11/9/trump-calls-iran-war-effectively-over-after-talks-with-qatar-pm?traffic_source=rss",
+   "at": "2026-11-09T22:31:19.000Z",
+   "ev": [
+    "iran"
+   ],
+   "cc": [
+    "Iran",
+    "Qatar",
+    "United States"
+   ]
+  },
+  {
+   "id": "dc54cd1e24ad",
+   "t": "France accuses Iran of cyber 'sabotage' in fridge attacks",
+   "ko": "프랑스, 이란의 냉장고 공격 사이버 '사보타주' 비난",
+   "src": "NPR",
+   "u": "https://www.npr.org/2026/11/09/g-s1-152724/france-iran-cyber-sabotage-fridge-attacks",
+   "at": "2026-11-09T22:30:49.000Z",
+   "ev": [
+    "iran"
+   ],
+   "cc": [
+    "France",
+    "Iran"
+   ]
+  },
+  {
+   "id": "af48d2ce612c",
+   "t": "Todd Russell, Beaconsfield mine collapse survivor, dies aged 54 due to illness",
+   "ko": "비콘스필드 광산 붕괴 생존자 토드 러셀(Todd Russell), 질병으로 인해 54세의 나이로 사망",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/australia-news/2026/nov/10/todd-russell-dies-beaconsfield-mine-collapse-survivor-death-illness-aged-54",
+   "at": "2026-11-09T22:26:31.000Z",
+   "ev": [],
+   "cc": []
+  },
+  {
+   "id": "27c4daec6738",
+   "t": "In northern Ethiopia, conflict pushes a strained healthcare system to the brink",
+   "ko": "에티오피아 북부에서는 분쟁으로 인해 의료 시스템이 위기에 처해 있습니다.",
+   "src": "NPR",
+   "u": "https://www.npr.org/2026/11/09/nx-s1-5987949/in-northern-ethiopia-conflict-pushes-a-strained-healthcare-system-to-the-brink",
+   "at": "2026-11-09T22:25:13.000Z",
+   "ev": [
+    "ethiopia"
+   ],
+   "cc": [
+    "Ethiopia"
+   ]
+  },
+  {
+   "id": "49d1109f6c1a",
+   "t": "Saudi Arabia reports new attack on key East-West pipeline",
+   "ko": "사우디아라비아, 주요 동서 파이프라인에 대한 새로운 공격 보고",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/11/9/saudi-arabia-reports-new-attack-on-key-east-west-pipeline?traffic_source=rss",
+   "at": "2026-11-09T22:10:52.000Z",
+   "ev": [],
+   "cc": [
+    "Saudi Arabia"
+   ]
+  },
+  {
+   "id": "c9dfbcec8aec",
+   "t": "South Africa’s ANC suffers a historic setback in local elections as coalition talks begin",
+   "ko": "남아프리카공화국 ANC, 연정 회담 시작으로 지방선거에서 역사적 좌절",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/tv-shows/eye-on-africa/20261109-south-africa-s-anc-suffers-a-historic-setback-in-local-elections-as-coalition-talks-begin",
+   "at": "2026-11-09T21:54:11.000Z",
+   "ev": [],
+   "cc": [
+    "South Africa",
+    "Senegal"
+   ]
+  },
+  {
+   "id": "f8a5a7047ff2",
+   "t": "Trial date of alleged Charlie Kirk killer set for June 2028",
+   "ko": "찰리 커크 살인범의 재판 날짜는 2028년 6월로 정해졌습니다",
+   "src": "BBC",
+   "u": "https://www.bbc.co.uk/news/articles/cq0mem8d2p3xo?at_medium=RSS&at_campaign=rss",
+   "at": "2026-11-09T21:48:38.000Z",
+   "ev": [],
+   "cc": []
+  },
+  {
+   "id": "c4a15de1ee79",
+   "t": "What to expect as Russia, Ukraine and the US hold trilateral talks in Abu Dhabi",
+   "ko": "러시아, 우크라이나, 미국이 아부다비에서 3자 회담을 가질 때 예상되는 것",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/europe/20261109-what-to-expect-as-russia-ukraine-and-us-hold-trilateral-talks-in-abu-dhabi",
+   "at": "2026-11-09T21:46:23.000Z",
+   "ev": [
+    "ukraine"
+   ],
+   "cc": [
+    "Russia",
+    "Ukraine",
+    "United States"
+   ]
+  },
+  {
+   "id": "3679e377ecac",
+   "t": "COP31 opens amid energy crisis as activists demand climate action",
+   "ko": "활동가들이 기후 행동을 요구하면서 에너지 위기 속에서 COP31이 열립니다.",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/video/newsfeed/2026/11/9/cop31-opens-amid-energy-crisis-as-activists-demand-climate-action?traffic_source=rss",
+   "at": "2026-11-09T21:18:25.000Z",
+   "ev": [],
+   "cc": [
+    "Turkey"
+   ]
+  },
+  {
+   "id": "f9251271f0ff",
+   "t": "Suspect in Charlie Kirk killing to stand trial for murder in July 2028",
+   "ko": "찰리 커크 살해 용의자, 2028년 7월 살인 혐의로 재판 예정",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/us-news/2026/nov/09/charlie-kirk-murder-trial",
+   "at": "2026-11-09T20:55:57.000Z",
+   "ev": [],
+   "cc": []
+  },
+  {
+   "id": "370da75e876c",
+   "t": "Cyprus rivals agree new crossings across island’s dividing line",
+   "ko": "키프로스 라이벌, 섬 분할선을 넘어 새로운 횡단에 동의",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/11/9/cyprus-rivals-agree-new-crossings-across-islands-dividing-line?traffic_source=rss",
+   "at": "2026-11-09T20:50:20.000Z",
+   "ev": [],
+   "cc": [
+    "Cyprus",
+    "Turkey"
+   ]
+  },
+  {
+   "id": "12647216fa6b",
+   "t": "Turkey steel factory blast kills at least 17 people",
+   "ko": "터키 철강공장 폭발로 최소 17명 사망",
+   "src": "BBC",
+   "u": "https://www.bbc.co.uk/news/articles/cq2d6d5z9y5jo?at_medium=RSS&at_campaign=rss",
+   "at": "2026-11-09T20:42:04.000Z",
+   "ev": [],
+   "cc": [
+    "Turkey"
+   ]
+  },
+  {
+   "id": "49b909e40b31",
+   "t": "Deadly explosion at Iron and steel plant in Turkiye",
+   "ko": "투르키예 철강공장에서 치명적인 폭발",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/video/newsfeed/2026/11/9/deadly-explosion-at-iron-and-steel-plant-in-turkiye?traffic_source=rss",
+   "at": "2026-11-09T20:19:18.000Z",
+   "ev": [],
+   "cc": [
+    "Turkey"
+   ]
+  },
+  {
+   "id": "c3424ae0ffc8",
+   "t": "Paris prosecutor opens probe into IRGC cyber unit Shahid Kaveh over fridge cyberattacks",
+   "ko": "파리 검찰, 냉장고 사이버 공격과 관련하여 IRGC 사이버 부서 Shahid Kaveh에 대한 조사 시작",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/paris-prosecutor-opens-probe-into-irgc-cyber-unit-shahid-kaveh-over-fridge-cyberattacks",
+   "at": "2026-11-09T20:06:09.000Z",
+   "ev": [
+    "iran"
+   ],
+   "cc": [
+    "France"
+   ]
+  },
+  {
+   "id": "850a20be4f74",
+   "t": "Explosion at Turkish steel plant kills at least 16 people",
+   "ko": "터키 철강공장 폭발로 최소 16명 사망",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/11/9/explosion-at-turkish-steel-plant-kills-at-least-16-people?traffic_source=rss",
+   "at": "2026-11-09T19:58:40.000Z",
+   "ev": [],
+   "cc": [
+    "Turkey"
+   ]
+  },
+  {
+   "id": "70d067f37c96",
+   "t": "South Africa detains foreigners suspected of heading to join Russian forces",
+   "ko": "남아공, 러시아군 합류 위해 향하는 외국인 억류",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/11/9/south-africa-detains-foreigners-suspected-of-heading-to-join-russian-forces?traffic_source=rss",
+   "at": "2026-11-09T19:56:45.000Z",
+   "ev": [
+    "ukraine"
+   ],
+   "cc": [
+    "South Africa",
+    "Russia",
+    "Ukraine"
+   ]
+  },
+  {
+   "id": "719bb566ef54",
+   "t": "Cyber-attack on French supermarket freezers has geopolitical context",
+   "ko": "프랑스 슈퍼마켓 냉동고에 대한 사이버 공격은 지정학적 맥락을 가지고 있습니다.",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/technology/2026/nov/09/cyber-attack-french-supermarket-freezers-iran-europe",
+   "at": "2026-11-09T19:40:45.000Z",
+   "ev": [
+    "iran",
+    "gaza"
+   ],
+   "cc": [
+    "France",
+    "Iran",
+    "United Arab Emirates"
+   ]
+  },
+  {
+   "id": "6cbfa2ff8472",
+   "t": "'We think' the Iranians and Americans want to negotiate, Egyptian FM says",
+   "ko": "이집트 FM \"우리는 이란과 미국이 협상을 원한다고 생각한다\"",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/tv-shows/t%C3%AAte-%C3%A0-t%C3%AAte/20261109-we-think-the-iranians-and-americans-want-to-negotiate-egyptian-fm-says",
+   "at": "2026-11-09T19:31:42.000Z",
+   "ev": [
+    "iran",
+    "gaza"
+   ],
+   "cc": [
+    "Egypt",
+    "Iran",
+    "United States"
+   ]
+  },
+  {
+   "id": "b004cec5adb2",
+   "t": "France opens probe into Iranian cyber unit over fridge attacks",
+   "ko": "프랑스, 냉장고 공격과 관련해 이란 사이버 부대 조사 개시",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/france-opens-probe-into-iranian-cyber-unit-over-fridge-attacks",
+   "at": "2026-11-09T19:24:54.000Z",
+   "ev": [
+    "iran"
+   ],
+   "cc": [
+    "France",
+    "Iran"
+   ]
+  },
+  {
+   "id": "212cc0c308d3",
+   "t": "Broken system? French protesters rage against austerity",
+   "ko": "깨진 시스템? 긴축정책에 분노하는 프랑스 시위대",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/tv-shows/the-debate/20261109-broken-system-french-protesters-rage-against-austerity",
+   "at": "2026-11-09T19:19:18.000Z",
+   "ev": [],
+   "cc": [
+    "France"
+   ]
+  },
+  {
+   "id": "e1524bbf7627",
+   "t": "US agencies unite to combat rogue drone threats nationwide",
+   "ko": "미국 기관, 전국적으로 악성 드론 위협에 맞서 싸우기 위해 연합",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/11/9/us-agencies-unite-to-combat-rogue-drone-threats-nationwide?traffic_source=rss",
+   "at": "2026-11-09T19:07:56.000Z",
+   "ev": [],
+   "cc": [
+    "United States"
+   ]
+  },
+  {
+   "id": "5c6ac7ff67ef",
+   "t": "Barnsley workers strike over nursery privatisation by Reform council",
+   "ko": "반슬리 노동자, 개혁 위원회의 보육원 민영화 반대 파업",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/uk-news/2026/nov/09/barnsley-strike-nursery-privatisation-reform-council-yorkshire-grimethorpe",
+   "at": "2026-11-09T18:50:17.000Z",
+   "ev": [],
+   "cc": [
+    "United Kingdom"
+   ]
+  },
+  {
+   "id": "ca7c41fb3361",
+   "t": "Qatar PM meets with Trump for talks on ending war on Iran",
+   "ko": "카타르 총리, 트럼프 대통령과 만나 이란 전쟁 종식 논의",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/video/newsfeed/2026/11/9/qatar-pm-meets-with-trump-for-talks-on-ending-war-on-iran?traffic_source=rss",
+   "at": "2026-11-09T18:48:00.000Z",
+   "ev": [
+    "iran"
+   ],
+   "cc": [
+    "Qatar",
+    "Iran",
+    "United States"
+   ]
+  },
+  {
+   "id": "36c99229d851",
+   "t": "Yemen government forces claim new advances as Houthi border attacks resume",
+   "ko": "예멘 정부군, 후티 국경 공격 재개로 새로운 진전 주장",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/11/9/yemen-government-forces-claim-new-advances-as-houthi-border-attacks-resume?traffic_source=rss",
+   "at": "2026-11-09T18:37:03.000Z",
+   "ev": [
+    "yemen"
+   ],
+   "cc": [
+    "Yemen"
+   ]
+  },
+  {
+   "id": "a87b0df058bb",
+   "t": "Russian investigative newspaper Novaya Gazeta closes citing gov’t clampdown",
+   "ko": "러시아 탐사보도인 노바야 가제타(Novaya Gazeta)는 정부의 탄압을 이유로 폐간됐다.",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/11/9/russian-investigative-newspaper-novaya-gazeta-closes-citing-govt-clampdown?traffic_source=rss",
+   "at": "2026-11-09T18:21:38.000Z",
+   "ev": [
+    "ukraine"
+   ],
+   "cc": [
+    "Russia",
+    "Ukraine"
+   ]
+  },
+  {
+   "id": "1de4228c646a",
+   "t": "Krakow shooting suspect dies as Poland mourns six victims",
+   "ko": "폴란드가 희생자 6명을 애도하는 가운데 크라쿠프 총격 용의자 사망",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/video/newsfeed/2026/11/9/krakow-shooting-suspect-dies-as-poland-mourns-six-victims?traffic_source=rss",
+   "at": "2026-11-09T18:12:46.000Z",
+   "ev": [],
+   "cc": [
+    "Poland"
+   ]
+  },
+  {
+   "id": "6c486a4acb32",
+   "t": "Jerusalem Daily: Deadly aftermath of Gaza rainstorm continues",
+   "ko": "예루살렘 데일리: 가자 폭풍우의 치명적인 여파가 계속됩니다",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/video/newsfeed/2026/11/9/jerusalem-daily-deadly-aftermath-of-gaza-rainstorm-continues?traffic_source=rss",
+   "at": "2026-11-09T17:55:47.000Z",
+   "ev": [
+    "gaza"
+   ],
+   "cc": [
+    "Palestine"
+   ]
+  },
+  {
+   "id": "c557d34e0b17",
+   "t": "Iran was behind cyber-attack on French supermarket freezers, Paris says",
+   "ko": "프랑스 슈퍼마켓 냉동고 사이버 공격 배후에 이란이 있었다고 파리가 밝혔습니다.",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/world/2026/nov/09/france-blames-irans-revolutionary-guards-for-cyber-attacks-on-supermarket-fridges",
+   "at": "2026-11-09T17:54:40.000Z",
+   "ev": [
+    "iran"
+   ],
+   "cc": [
+    "Iran",
+    "France"
+   ]
+  },
+  {
+   "id": "015e96ce30e3",
+   "t": "France accelerates minimum wage hike in bid to quell protest",
+   "ko": "프랑스, 시위 진압 위해 최저임금 인상 가속화",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/11/9/france-accelerates-minimum-wage-hike-in-bid-to-quell-protest?traffic_source=rss",
+   "at": "2026-11-09T17:46:28.000Z",
+   "ev": [],
+   "cc": [
+    "France"
+   ]
+  },
+  {
+   "id": "13a9a8ac186b",
+   "t": "Social unrest ahead of French elections: Protesters 'don't believe politics can achieve anything'",
+   "ko": "프랑스 선거를 앞두고 사회 불안: 시위자들은 '정치가 어떤 것도 이룰 수 있다고 믿지 않는다'",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/social-unrest-ahead-of-french-elections-protesters-don-t-believe-politics-can-achieve-anything",
+   "at": "2026-11-09T16:52:22.000Z",
+   "ev": [],
+   "cc": [
+    "France"
+   ]
+  },
+  {
+   "id": "238d632ee399",
+   "t": "French PM brings forward hike in minimum wage to calm protesters",
+   "ko": "프랑스 총리, 시위대 진정 위해 최저임금 인상 추진",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/video/20261109-french-pm-brings-forward-hike-in-minimum-wage-to-calm-protesters",
+   "at": "2026-11-09T16:47:54.000Z",
+   "ev": [],
+   "cc": [
+    "France"
+   ]
+  },
+  {
+   "id": "5252d0cff00c",
+   "t": "Polish prosecutors say ‘too early’ to tell if Kraków gunman was motivated by political ideology",
+   "ko": "폴란드 검찰, 크라쿠프 총격범이 정치적 이념에 의해 동기 부여됐는지 판단하기엔 '너무 이르다'",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/world/2026/nov/09/krakow-shooting-suspected-gunman-dead",
+   "at": "2026-11-09T15:52:26.000Z",
+   "ev": [],
+   "cc": []
+  },
+  {
+   "id": "a9f2ea4aeb21",
+   "t": "Strait of Hormuz still a source of leverage for Iran",
+   "ko": "호르무즈 해협은 여전히 ​​이란의 지렛대 역할을 하고 있다.",
+   "src": "DW",
+   "u": "https://www.dw.com/en/strait-of-hormuz-still-a-source-of-leverage-for-iran/a-79901647?maca=en-rss-en-world-4025-rdf",
+   "at": "2026-11-09T14:49:00.000Z",
+   "ev": [
+    "iran"
+   ],
+   "cc": [
+    "Iran",
+    "United States"
+   ]
+  },
   {
    "id": "5555027afb92",
    "t": "French PM brings forward 1.6% increase in minimum wage in bid to calm protests",
@@ -137,6 +623,36 @@
    "ev": [],
    "cc": [
     "Greece"
+   ]
+  },
+  {
+   "id": "42f9ed387f0e",
+   "t": "Families who fled Ethiopia for Kenya’s Moyale need food, water and shelter",
+   "ko": "케냐 모얄레를 위해 에티오피아를 떠난 가족들에게는 음식, 물, 피난처가 필요합니다",
+   "src": "UN News",
+   "u": "https://news.un.org/feed/view/en/story/2026/11/1168762",
+   "at": "2026-11-09T12:00:00.000Z",
+   "ev": [
+    "ethiopia"
+   ],
+   "cc": [
+    "Ethiopia",
+    "Kenya"
+   ]
+  },
+  {
+   "id": "26f12835f322",
+   "t": "Security Council LIVE: Strikes on Ukraine’s power grid, as peace talks loom",
+   "ko": "안보리 라이브: 평화 회담이 다가옴에 따라 우크라이나 전력망에 대한 파업",
+   "src": "UN News",
+   "u": "https://news.un.org/feed/view/en/story/2026/11/1168761",
+   "at": "2026-11-09T12:00:00.000Z",
+   "ev": [
+    "ukraine"
+   ],
+   "cc": [
+    "Ukraine",
+    "Russia"
    ]
   },
   {
@@ -268,18 +784,6 @@
     "United Kingdom",
     "Ireland"
    ]
-  },
-  {
-   "id": "5252d0cff00c",
-   "t": "Kraków shooting suspect who killed six has died, Polish police say",
-   "ko": "6명을 살해한 크라쿠프 총격 용의자가 사망했다고 폴란드 경찰이 밝혔다.",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/world/2026/nov/09/krakow-shooting-suspected-gunman-dead",
-   "at": "2026-11-09T10:22:54.000Z",
-   "ev": [
-    "ukraine"
-   ],
-   "cc": []
   },
   {
    "id": "e78121e7d8b1",
@@ -1271,347 +1775,6 @@
     "Iran",
     "United States",
     "United Arab Emirates"
-   ]
-  },
-  {
-   "id": "a15661f83070",
-   "t": "Gunman kills six in Krakow, three more bodies found at his house",
-   "ko": "총격범, 크라쿠프에서 6명 사살, 그의 집에서 시신 3구 더 발견",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/gunmen-kills-six-in-krakow-three-more-bodies-found-at-his-house",
-   "at": "2026-11-07T22:47:06.000Z",
-   "ev": [],
-   "cc": [
-    "Poland"
-   ]
-  },
-  {
-   "id": "2836ed32ece6",
-   "t": "Kraków shooting latest updates: six killed and more than a dozen injured – as it happened",
-   "ko": "크라쿠프 총격 사건 최신 업데이트: 6명이 사망하고 12명 이상이 부상당했습니다.",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/world/live/2026/nov/07/krakow-shooting-poland-latest-news-updates",
-   "at": "2026-11-07T22:32:41.000Z",
-   "ev": [],
-   "cc": [
-    "United States",
-    "Poland"
-   ]
-  },
-  {
-   "id": "d16142210881",
-   "t": "Police clash with protesters as anti-government rallies sweep France",
-   "ko": "프랑스 전역에서 반정부 집회가 벌어지자 경찰과 시위대 충돌",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/video/newsfeed/2026/11/7/police-clash-with-protesters-as-anti-government-rallies-sweep-france?traffic_source=rss",
-   "at": "2026-11-07T21:24:10.000Z",
-   "ev": [],
-   "cc": [
-    "France"
-   ]
-  },
-  {
-   "id": "75c705f6b4d2",
-   "t": "Who is behind Europe’s suspected hybrid attacks?",
-   "ko": "유럽에서 의심되는 하이브리드 공격의 배후는 누구입니까?",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/video/inside-story/2026/11/7/who-is-behind-europes-suspected-hybrid-attacks?traffic_source=rss",
-   "at": "2026-11-07T20:48:58.000Z",
-   "ev": [],
-   "cc": []
-  },
-  {
-   "id": "ec039aa045ac",
-   "t": "'A violent fighter and warrior': Trump offers press secretary role to UFC chief Dana White",
-   "ko": "'폭력적인 전사이자 전사' 트럼프, 데이나 화이트 UFC 대표에게 기자 자리 제안",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/americas/20261107-a-violent-fighter-and-warrior-trump-offers-press-secretary-role-to-ufc-chief-dana-white",
-   "at": "2026-11-07T20:45:45.000Z",
-   "ev": [],
-   "cc": [
-    "United States"
-   ]
-  },
-  {
-   "id": "4e070b16673e",
-   "t": "Abdul El-Sayed slams Trump’s tariff war with Canada",
-   "ko": "Abdul El-Sayed는 트럼프의 캐나다와의 관세 전쟁을 비난했습니다.",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/video/newsfeed/2026/11/7/abdul-el-sayed-slams-trumps-tariff-war-with-canada?traffic_source=rss",
-   "at": "2026-11-07T20:44:34.000Z",
-   "ev": [],
-   "cc": [
-    "Canada"
-   ]
-  },
-  {
-   "id": "f1914e95baa8",
-   "t": "More than 140,000 rally as new protests against rising costs sweep France",
-   "ko": "비용 인상에 대한 새로운 항의가 프랑스를 휩쓸면서 140,000명 이상의 집회가 열렸습니다.",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/news/2026/11/7/more-than-140000-rally-as-new-protests-against-rising-costs-sweep-france?traffic_source=rss",
-   "at": "2026-11-07T20:12:22.000Z",
-   "ev": [],
-   "cc": [
-    "France"
-   ]
-  },
-  {
-   "id": "3ec4150b8fd4",
-   "t": "Ukraine’s Zaporizhzhia faces threat as Russian drones close in",
-   "ko": "러시아 드론이 접근해 우크라이나 자포리지아(Zaporizhzhia) 위협에 직면",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/video/newsfeed/2026/11/7/0711-reported-audrey-in-zaporizhzhia-071126?traffic_source=rss",
-   "at": "2026-11-07T20:10:38.000Z",
-   "ev": [
-    "ukraine"
-   ],
-   "cc": [
-    "Ukraine",
-    "Russia"
-   ]
-  },
-  {
-   "id": "154e291d3037",
-   "t": "Richard Lloyd, founding member and guitarist of punk band Television, dies aged 75",
-   "ko": "펑크 밴드 텔레비전의 창립 멤버이자 기타리스트인 리차드 로이드(Richard Lloyd)가 75세의 나이로 사망했습니다.",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/music/2026/nov/07/richard-lloyd-punk-band-television-dies-aged-75",
-   "at": "2026-11-07T20:06:25.000Z",
-   "ev": [],
-   "cc": []
-  },
-  {
-   "id": "a4c6f85a8ce4",
-   "t": "France Unbowed’s Mélenchon unveils ‘A Shared Future’ manifesto ahead of 2027 presidential race",
-   "ko": "France Unbowed의 Mélenchon, 2027년 대선을 앞두고 '공유된 미래' 선언문 공개",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/tv-shows/spotlight/20261107-france-unbowed-s-m%C3%A9lenchon-unveils-a-shared-future-manifesto-ahead-of-2027-presidential-race",
-   "at": "2026-11-07T19:58:43.000Z",
-   "ev": [],
-   "cc": [
-    "France"
-   ]
-  },
-  {
-   "id": "bd9dcf903fd9",
-   "t": "Israeli president tasks Gadi Eisenkot with forming government",
-   "ko": "이스라엘 대통령, 가디 아이젠코트에게 정부 구성 권한 위임",
-   "src": "DW",
-   "u": "https://www.dw.com/en/israeli-president-tasks-gadi-eisenkot-with-forming-government/a-79888288?maca=en-rss-en-world-4025-rdf",
-   "at": "2026-11-07T19:56:00.000Z",
-   "ev": [],
-   "cc": [
-    "Israel"
-   ]
-  },
-  {
-   "id": "ce0806935ef4",
-   "t": "Masked protesters set off firecrackers and block roads in Albania",
-   "ko": "가면을 쓴 시위대가 알바니아에서 폭죽을 터뜨리고 도로를 막았습니다.",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/video/newsfeed/2026/11/7/masked-protesters-set-off-firecrackers-and-block-roads-in-albania?traffic_source=rss",
-   "at": "2026-11-07T19:49:19.000Z",
-   "ev": [],
-   "cc": [
-    "Albania"
-   ]
-  },
-  {
-   "id": "173755b2628a",
-   "t": "Israeli president picks Netanyahu's rival Eisenkot to try to form government",
-   "ko": "이스라엘 대통령, 정부 구성을 위해 네타냐후의 라이벌 아이젠코트를 지명",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/middle-east/20261107-israeli-president-picks-netanyahu-s-rival-eisenkot-to-try-to-form-government",
-   "at": "2026-11-07T19:37:14.000Z",
-   "ev": [],
-   "cc": [
-    "Israel"
-   ]
-  },
-  {
-   "id": "7bcbf4fe40fc",
-   "t": "Latvian farmers protest over ‘blood grain’ trade with Russia",
-   "ko": "라트비아 농민, 러시아와의 '혈액 곡물' 무역에 항의",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/video/newsfeed/2026/11/7/7-11-sv-latvia-farmers-protest-russian-grain-transit?traffic_source=rss",
-   "at": "2026-11-07T19:10:34.000Z",
-   "ev": [
-    "ukraine"
-   ],
-   "cc": [
-    "Russia",
-    "Ukraine"
-   ]
-  },
-  {
-   "id": "566a74c7d2b4",
-   "t": "Yemeni gov’t forces report advances as Houthis say deadly strikes hit Sanaa",
-   "ko": "예멘 정부군, 후티 반군이 치명적인 공습으로 사나를 강타했다고 발표",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/news/2026/11/7/yemeni-govt-forces-report-advances-as-houthis-say-deadly-strikes-hit-sanaa?traffic_source=rss",
-   "at": "2026-11-07T19:06:31.000Z",
-   "ev": [
-    "yemen"
-   ],
-   "cc": [
-    "Yemen"
-   ]
-  },
-  {
-   "id": "a190c1df0327",
-   "t": "US offers $20m reward for information about Iran's nuclear programme",
-   "ko": "미국, 이란 핵 프로그램 정보 제공에 2천만 달러 보상 제안",
-   "src": "BBC",
-   "u": "https://www.bbc.co.uk/news/articles/c6d091ev3p0jo?at_medium=RSS&at_campaign=rss",
-   "at": "2026-11-07T18:14:38.000Z",
-   "ev": [
-    "iran"
-   ],
-   "cc": [
-    "United States",
-    "Iran"
-   ]
-  },
-  {
-   "id": "654d4d4352ba",
-   "t": "Houthis report 25 killed in Yemen strikes",
-   "ko": "후티 반군, 예멘 공습으로 25명 사망",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/video/newsfeed/2026/11/7/houthis-report-25-killed-in-yemen-strikes?traffic_source=rss",
-   "at": "2026-11-07T17:39:23.000Z",
-   "ev": [
-    "yemen"
-   ],
-   "cc": [
-    "Yemen"
-   ]
-  },
-  {
-   "id": "141accc59656",
-   "t": "Valencia 0-3 Real Madrid LIVE: La Liga",
-   "ko": "발렌시아 0-3 레알 마드리드 LIVE: 라 리가",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/sports/liveblog/2026/11/7/valencia-vs-real-madrid-live-la-liga?traffic_source=rss",
-   "at": "2026-11-07T17:00:12.000Z",
-   "ev": [],
-   "cc": []
-  },
-  {
-   "id": "65a817c2e36a",
-   "t": "Three teenagers arrested after 17-year-old injured in Gloucester sword attack",
-   "ko": "글로스터 칼 공격으로 17세 부상당한 10대 3명 체포",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/uk-news/2026/nov/07/sword-attack-gloucester-school-men-arrested-boy-injured",
-   "at": "2026-11-07T16:41:07.000Z",
-   "ev": [],
-   "cc": []
-  },
-  {
-   "id": "67e202a19f60",
-   "t": "France investigating if bogus bomb threats against airlines linked to 'foreign powers'",
-   "ko": "프랑스, '외세'와 연계된 항공사에 대한 가짜 폭탄 위협 여부 조사",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/france/20261107-france-investigating-if-bogus-bomb-threats-against-airlines-linked-to-foreign-powers",
-   "at": "2026-11-07T16:33:53.000Z",
-   "ev": [],
-   "cc": [
-    "France"
-   ]
-  },
-  {
-   "id": "48e1b5c23070",
-   "t": "Israel builds 90km network of military roads across southern Lebanon",
-   "ko": "이스라엘, 레바논 남부 전역에 90km 길이의 군사 도로망 구축",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/video/newsfeed/2026/11/7/israel-builds-90km-network-of-military-roads-across-southern-lebanon?traffic_source=rss",
-   "at": "2026-11-07T16:30:33.000Z",
-   "ev": [
-    "lebanon"
-   ],
-   "cc": [
-    "Israel",
-    "Lebanon"
-   ]
-  },
-  {
-   "id": "56d20b78c2b2",
-   "t": "Guatemalan lawmaker and three police officers killed in armed attack",
-   "ko": "과테말라 국회의원과 경찰 3명이 무장공격으로 사망",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/news/2026/11/7/guatemalan-lawmaker-and-three-police-officers-killed-in-armed-attack?traffic_source=rss",
-   "at": "2026-11-07T16:15:18.000Z",
-   "ev": [],
-   "cc": []
-  },
-  {
-   "id": "dff1118f9b2b",
-   "t": "Five killed and at least 10 injured in Krakow shooting",
-   "ko": "크라쿠프에서 총격 사건이 발생해 5명이 사망하고 최소 10명이 부상당했다.",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/video/newsfeed/2026/11/7/7-11-clip-poland-krakow-shooting?traffic_source=rss",
-   "at": "2026-11-07T16:06:58.000Z",
-   "ev": [],
-   "cc": [
-    "Poland"
-   ]
-  },
-  {
-   "id": "1f6f0999ff9f",
-   "t": "Paraguay’s impeached president charged over bank collapse",
-   "ko": "파라과이 탄핵 대통령, 은행 붕괴 혐의로 기소",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/americas/20261107-paraguay-s-impeached-president-charged-over-bank-collapse",
-   "at": "2026-11-07T15:49:53.000Z",
-   "ev": [],
-   "cc": [
-    "Paraguay"
-   ]
-  },
-  {
-   "id": "dfb312f672dc",
-   "t": "Iran’s IRGC says building underground sites for weapons production, storage",
-   "ko": "이란 IRGC, 무기 생산과 저장을 위한 지하 부지 건설",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/news/2026/11/7/irans-irgc-says-building-underground-sites-for-weapons-production-storage?traffic_source=rss",
-   "at": "2026-11-07T15:34:58.000Z",
-   "ev": [
-    "iran"
-   ],
-   "cc": [
-    "Iran"
-   ]
-  },
-  {
-   "id": "d4298f9a1819",
-   "t": "Gunman who killed at least six in Krakow ‘fascinated’ by far-right ideologies, government says",
-   "ko": "크라쿠프에서 최소 6명을 살해한 총격범은 극우 이념에 '매혹'됐다고 정부가 밝혔다",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/europe/20261107-at-least-three-people-killed-shooting-in-polish-city-of-krakow-police-say",
-   "at": "2026-11-07T15:23:48.000Z",
-   "ev": [],
-   "cc": []
-  },
-  {
-   "id": "1e8aa65b1853",
-   "t": "Stephen Miller, Trump’s incoming chief of staff, pledges ‘total devotion’ to the president",
-   "ko": "트럼프 신임 비서실장 스티븐 밀러, 대통령에 '전적인 헌신' 다짐",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/us-news/2026/nov/07/stephen-miller-trump-loyalty",
-   "at": "2026-11-07T15:15:11.000Z",
-   "ev": [],
-   "cc": []
-  },
-  {
-   "id": "053daca12a9c",
-   "t": "Iraq’s FM says external parties using Iraqi soil to attack neighbours",
-   "ko": "이라크 FM은 외부 세력이 이라크 땅을 이용해 이웃 국가를 공격했다고 밝혔습니다.",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/news/2026/11/7/iraqs-fm-says-external-parties-using-iraqi-soil-to-attack-neighbours?traffic_source=rss",
-   "at": "2026-11-07T14:24:48.000Z",
-   "ev": [],
-   "cc": [
-    "Iraq"
    ]
   }
  ]
