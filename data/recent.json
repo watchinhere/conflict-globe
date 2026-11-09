@@ -1,7 +1,62 @@
 {
- "updated": "2026-11-08",
+ "updated": "2026-11-09",
  "news": {
   "ukraine": [
+   {
+    "date": "2026-11-08",
+    "text": "Ukraine: Russian strikes leave hundreds of thousands without power",
+    "ko": "우크라이나: 러시아의 공습으로 수십만명의 전력 공급 중단",
+    "sources": [
+     {
+      "t": "France 24",
+      "u": "https://www.france24.com/en/ukraine-russian-strikes-leave-hundreds-of-thousands-without-power"
+     }
+    ]
+   },
+   {
+    "date": "2026-11-08",
+    "text": "Europe will take part in US-mediated Ukraine talks in Abu Dhabi, French FM says",
+    "ko": "유럽은 미국이 중재하는 아부다비에서 열리는 우크라이나 회담에 참여할 것이라고 프랑스 FM이 밝혔습니다.",
+    "sources": [
+     {
+      "t": "France 24",
+      "u": "https://www.france24.com/en/europe/20261108-europe-will-take-part-us-mediated-ukraine-peace-talks-abu-dhabi-french-fm-says"
+     }
+    ]
+   },
+   {
+    "date": "2026-11-08",
+    "text": "US datacenter demand spurs increased fossil fuel pipeline projects as rules are discarded",
+    "ko": "미국 데이터 센터 수요로 인해 규칙이 폐기됨에 따라 화석 연료 파이프라인 프로젝트 증가",
+    "sources": [
+     {
+      "t": "The Guardian",
+      "u": "https://www.theguardian.com/us-news/2026/nov/08/datacenters-fossil-fuel-pipelines-regulations"
+     }
+    ]
+   },
+   {
+    "date": "2026-11-08",
+    "text": "Russian strikes on Ukraine leave hundreds of thousands without electricity",
+    "ko": "러시아, 우크라이나 공격으로 수십만 명 전기 공급 중단",
+    "sources": [
+     {
+      "t": "Al Jazeera",
+      "u": "https://www.aljazeera.com/news/2026/11/8/russian-strikes-on-ukraine-leave-hundreds-of-thousands-without-electricity?traffic_source=rss"
+     }
+    ]
+   },
+   {
+    "date": "2026-11-08",
+    "text": "Democrats’ congressional win could strengthen Ukraine’s hand against Russia",
+    "ko": "민주당의 의회 승리는 러시아에 대한 우크라이나의 영향력을 강화할 수 있습니다",
+    "sources": [
+     {
+      "t": "Al Jazeera",
+      "u": "https://www.aljazeera.com/news/2026/11/8/democrats-congressional-win-could-strengthen-ukraines-hand-against-russia?traffic_source=rss"
+     }
+    ]
+   },
    {
     "date": "2026-11-07",
     "text": "Ukraine’s Zaporizhzhia faces threat as Russian drones close in",
@@ -78,64 +133,20 @@
       "u": "https://www.dw.com/en/ukraine-russia-hits-kyiv-with-airstrikes-ahead-of-trilateral-talks/a-79883851?maca=en-rss-en-world-4025-rdf"
      }
     ]
-   },
-   {
-    "date": "2026-11-07",
-    "text": "Russia hits Kyiv and surrounding region in massive overnight strike",
-    "ko": "러시아, 대규모 야간 파업으로 키예프와 주변 지역 공습",
-    "sources": [
-     {
-      "t": "France 24",
-      "u": "https://www.france24.com/en/europe/20261107-moscow-strikes-kyiv-as-ukraine-prepares-for-talks-with-russia-and-the-us"
-     }
-    ]
-   },
-   {
-    "date": "2026-11-07",
-    "text": "Russia launches missile attack on Kyiv, injuring residents",
-    "ko": "러시아, 키예프에 미사일 공격…주민 부상",
-    "sources": [
-     {
-      "t": "Al Jazeera",
-      "u": "https://www.aljazeera.com/news/2026/11/7/russia-launches-missile-attack-on-kyiv-injuring-residents?traffic_source=rss"
-     }
-    ]
-   },
-   {
-    "date": "2026-11-06",
-    "text": "World News in Brief: Civilians killed in DR Congo, Ukrainians wrestle with return, Guterres calls out ‘normalisation’ of force",
-    "ko": "세계 뉴스 요약: 콩고민주공화국에서 민간인 사망, 우크라이나인 귀환 위해 고군분투, 구테레스는 무력의 '정상화' 촉구",
-    "sources": [
-     {
-      "t": "UN News",
-      "u": "https://news.un.org/feed/view/en/story/2026/11/1168757"
-     }
-    ]
-   },
-   {
-    "date": "2026-11-06",
-    "text": "Czech arms makers set sights on space defense in bid to sustain Ukraine-driven arms boom",
-    "ko": "체코 무기 제조업체, 우크라이나 주도의 무기 붐을 유지하기 위해 우주 방어에 주목",
-    "sources": [
-     {
-      "t": "DW",
-      "u": "https://www.dw.com/en/czech-arms-makers-set-sights-on-space-defense-in-bid-to-sustain-ukraine-driven-arms-boom/a-79876035?maca=en-rss-en-world-4025-rdf"
-     }
-    ]
-   },
-   {
-    "date": "2026-11-06",
-    "text": "Ukraine raises Zaporizhia aid strike death toll to at least 50",
-    "ko": "우크라이나, 자포리지아 구호 파업 사망자 수 최소 50명으로 인상",
-    "sources": [
-     {
-      "t": "Al Jazeera",
-      "u": "https://www.aljazeera.com/news/2026/11/6/ukraine-raises-zaporizhia-aid-strike-death-toll-to-at-least-50?traffic_source=rss"
-     }
-    ]
    }
   ],
   "sudan": [
+   {
+    "date": "2026-11-07",
+    "text": "Sudan's armed forces (SAF) says that they have recaptured the West Kordofan town of Iyal Bakhit. Additionally, the SAF also says that they have downed a Rapid Support Forces drone.",
+    "sources": [
+     {
+      "t": "Sudan Tribune",
+      "u": "https://sudantribune.com/article/320981"
+     }
+    ],
+    "ko": "수단군(SAF)은 서부 코르도판 마을인 이얄 바키트(Iyal Bakhit)를 탈환했다고 밝혔습니다. 또한 SAF는 Rapid Support Forces 드론을 격추했다고 밝혔습니다."
+   },
    {
     "date": "2026-11-07",
     "text": "Sudan's armed forces says that they have recaptured the West Kordofan town of Iyal Bakhit. Additionally, the SAF also says that they have downed a Rapid Support Forces drone.",
@@ -256,20 +267,97 @@
      }
     ],
     "ko": "신속지원군(Rapid Support Forces)은 수단의 카살라(Kassala) 주와 북부 주에 있는 배급소 3곳을 대상으로 드론 공격을 시작했습니다."
-   },
-   {
-    "date": "2026-11-02",
-    "text": "The Rapid Support Forces launches drone strikes against three distrubition stations in Sudan's Kassala and Northern states.",
-    "sources": [
-     {
-      "t": "Sudan Tribune",
-      "u": "https://sudantribune.com/article/320792"
-     }
-    ],
-    "ko": "신속지원군(Rapid Support Forces)은 수단의 카살라(Kassala) 주와 북부 주에 있는 세 개의 보급 기지에 대해 드론 공격을 시작합니다."
    }
   ],
   "iran": [
+   {
+    "date": "2026-11-08",
+    "text": "State media reports that explosions are heard on Iran's Qeshm Island in the Strait of Hormuz after reporting that the U.S. military fired projectiles.",
+    "sources": [
+     {
+      "t": "Middle East Eye",
+      "u": "https://www.middleeasteye.net/live-blog/live-blog-update/explosions-heard-irans-qeshm-island-state-media-reports"
+     }
+    ],
+    "ko": "국영언론은 미군이 발사체를 발사했다는 보도가 나온 뒤 이란 호르무즈해협 케심섬에서 폭발음이 들렸다고 보도했다."
+   },
+   {
+    "date": "2026-11-08",
+    "text": "Iran threatens to ‘rain down hell’ if US escalates war",
+    "ko": "이란, 미국이 전쟁 확대하면 '지옥같은 비를 내리겠다' 위협",
+    "sources": [
+     {
+      "t": "Al Jazeera",
+      "u": "https://www.aljazeera.com/news/2026/11/8/iran-threatens-to-rain-down-hell-if-us-escalates-war?traffic_source=rss"
+     }
+    ]
+   },
+   {
+    "date": "2026-11-08",
+    "text": "Yemen's humanitarian crisis worsens",
+    "ko": "예멘 인도주의적 위기 악화",
+    "sources": [
+     {
+      "t": "France 24",
+      "u": "https://www.france24.com/en/yemen-s-humanitarian-crisis-worsens"
+     }
+    ]
+   },
+   {
+    "date": "2026-11-08",
+    "text": "Iran executes three men for 'armed unrest' after January protests",
+    "ko": "이란, 1월 시위 이후 '무장 불안' 혐의로 남성 3명 처형",
+    "sources": [
+     {
+      "t": "BBC",
+      "u": "https://www.bbc.co.uk/news/articles/ckly0ex633ydo?at_medium=RSS&at_campaign=rss"
+     }
+    ]
+   },
+   {
+    "date": "2026-11-08",
+    "text": "US datacenter demand spurs increased fossil fuel pipeline projects as rules are discarded",
+    "ko": "미국 데이터 센터 수요로 인해 규칙이 폐기됨에 따라 화석 연료 파이프라인 프로젝트 증가",
+    "sources": [
+     {
+      "t": "The Guardian",
+      "u": "https://www.theguardian.com/us-news/2026/nov/08/datacenters-fossil-fuel-pipelines-regulations"
+     }
+    ]
+   },
+   {
+    "date": "2026-11-08",
+    "text": "Yemen's Houthis claim attack on Aramco skyscraper in Riyadh",
+    "ko": "예멘 후티 반군, 리야드 아람코 초고층건물 공격",
+    "sources": [
+     {
+      "t": "France 24",
+      "u": "https://www.france24.com/en/middle-east/20261108-yemen-s-houthis-claim-attack-on-aramco-building-in-riyadh-s-financial-district"
+     }
+    ]
+   },
+   {
+    "date": "2026-11-08",
+    "text": "Trump’s shattered ‘mirror world’: American voters roundly reject president’s alternate reality",
+    "ko": "트럼프의 산산이 부서진 '거울 세계': 미국 유권자들은 대통령의 대체 현실을 완강히 거부합니다",
+    "sources": [
+     {
+      "t": "The Guardian",
+      "u": "https://www.theguardian.com/us-news/ng-interactive/2026/nov/08/trump-midterms-voters-mirror-world"
+     }
+    ]
+   },
+   {
+    "date": "2026-11-08",
+    "text": "Iran war live: US moves to block land supply routes; UAE rescues 22 sailors",
+    "ko": "이란 전쟁 라이브: 미국은 토지 공급 경로를 차단하려고 움직임; UAE, 선원 22명 구조",
+    "sources": [
+     {
+      "t": "Al Jazeera",
+      "u": "https://www.aljazeera.com/news/liveblog/2026/11/8/iran-war-live-explosions-hit-qeshm-us-moves-to-block-land-supply-routes?traffic_source=rss"
+     }
+    ]
+   },
    {
     "date": "2026-11-07",
     "text": "US offers $20m reward for information about Iran's nuclear programme",
@@ -313,97 +401,64 @@
       "u": "https://www.aljazeera.com/news/2026/11/7/will-trump-strike-nuclear-sites-again-as-iran-engages-cognitive?traffic_source=rss"
      }
     ]
-   },
-   {
-    "date": "2026-11-07",
-    "text": "Qatari PM says US willing to seek solution to war with Iran",
-    "ko": "카타르 총리는 미국이 이란과의 전쟁 해결책을 모색할 의향이 있다고 밝혔습니다.",
-    "sources": [
-     {
-      "t": "Al Jazeera",
-      "u": "https://www.aljazeera.com/video/newsfeed/2026/11/7/qatari-pm-says-us-willing-to-seek-solution-to-war-with-iran?traffic_source=rss"
-     }
-    ]
-   },
-   {
-    "date": "2026-11-07",
-    "text": "Strait of Hormuz could reopen as part of Qatari plan for Iran nuclear inspections",
-    "ko": "호르무즈 해협은 이란 핵 사찰을 위한 카타르 계획의 일환으로 재개방될 수 있다.",
-    "sources": [
-     {
-      "t": "The Guardian",
-      "u": "https://www.theguardian.com/world/2026/nov/07/strait-of-hormuz-qatar-plan-iran-nuclear-inspections"
-     }
-    ]
-   },
-   {
-    "date": "2026-11-07",
-    "text": "How the Iran war helped Democrats win the midterms",
-    "ko": "이란 전쟁이 민주당의 중간고사 승리에 어떻게 도움이 됐나",
-    "sources": [
-     {
-      "t": "Al Jazeera",
-      "u": "https://www.aljazeera.com/opinions/2026/11/7/how-the-iran-war-helped-democrats-win-the-midterms?traffic_source=rss"
-     }
-    ]
-   },
-   {
-    "date": "2026-11-07",
-    "text": "The end of Maga as we know it",
-    "ko": "우리가 알고 있는 마가의 종말",
-    "sources": [
-     {
-      "t": "The Guardian",
-      "u": "https://www.theguardian.com/news/ng-interactive/2026/nov/07/the-end-of-maga-as-we-know-it"
-     }
-    ]
-   },
-   {
-    "date": "2026-11-07",
-    "text": "Trump confirms new US strikes on Iran’s Qeshm island",
-    "ko": "트럼프, 이란 케심섬에 대한 미국의 추가 공습 확인",
-    "sources": [
-     {
-      "t": "Al Jazeera",
-      "u": "https://www.aljazeera.com/news/2026/11/7/trump-confirms-new-us-strikes-on-irans-qeshm-island?traffic_source=rss"
-     }
-    ]
-   },
-   {
-    "date": "2026-11-07",
-    "text": "US carries out another round of ‘minor’ strikes on Iran, Trump says",
-    "ko": "트럼프 \"미국, 이란에 또 다른 '사소한' 공격 감행\"",
-    "sources": [
-     {
-      "t": "The Guardian",
-      "u": "https://www.theguardian.com/world/2026/nov/07/us-carries-out-another-round-of-minor-strikes-on-iran-trump-says"
-     }
-    ]
-   },
-   {
-    "date": "2026-11-07",
-    "text": "Iran war live: Qatar says US, Iran should not wait to reach a peace deal",
-    "ko": "이란 전쟁 라이브: 카타르는 미국과 이란이 평화 협정에 도달할 때까지 기다려서는 안 된다고 말했습니다.",
-    "sources": [
-     {
-      "t": "Al Jazeera",
-      "u": "https://www.aljazeera.com/news/liveblog/2026/11/7/iran-war-live-qatar-says-us-iran-should-not-wait-to-reach-a-peace-deal?traffic_source=rss"
-     }
-    ]
-   },
-   {
-    "date": "2026-11-06",
-    "text": "Pressure mounts on US Defence chief Hegseth after Republican election rout",
-    "ko": "공화당 선거 참패 이후 헤그세스 미 국방장관에 압력 가중",
-    "sources": [
-     {
-      "t": "France 24",
-      "u": "https://www.france24.com/en/video/20261106-pressure-mounts-on-us-defence-chief-hegseth-after-republican-election-rout"
-     }
-    ]
    }
   ],
   "yemen": [
+   {
+    "date": "2026-11-08",
+    "text": "Yemen's humanitarian crisis worsens",
+    "ko": "예멘 인도주의적 위기 악화",
+    "sources": [
+     {
+      "t": "France 24",
+      "u": "https://www.france24.com/en/yemen-s-humanitarian-crisis-worsens"
+     }
+    ]
+   },
+   {
+    "date": "2026-11-08",
+    "text": "After rebel offensive, efforts to push them back appear to have stalled",
+    "ko": "반군의 공세 이후 그들을 밀어내려는 노력은 중단된 것으로 보인다",
+    "sources": [
+     {
+      "t": "Al Jazeera",
+      "u": "https://www.aljazeera.com/video/project-force-2/2026/11/8/after-rebel-offensive-efforts-to-push-them-back-appear-to-have-stalled?traffic_source=rss"
+     }
+    ]
+   },
+   {
+    "date": "2026-11-08",
+    "text": "Yemen's Houthis claim attack on Aramco skyscraper in Riyadh",
+    "ko": "예멘 후티 반군, 리야드 아람코 초고층건물 공격",
+    "sources": [
+     {
+      "t": "France 24",
+      "u": "https://www.france24.com/en/middle-east/20261108-yemen-s-houthis-claim-attack-on-aramco-building-in-riyadh-s-financial-district"
+     }
+    ]
+   },
+   {
+    "date": "2026-11-08",
+    "text": "Saudi Arabia intercepts Houthi missiles targeting Riyadh, Eastern province",
+    "ko": "사우디, 동부 리야드를 겨냥한 후티 미사일 요격",
+    "sources": [
+     {
+      "t": "Al Jazeera",
+      "u": "https://www.aljazeera.com/news/2026/11/8/saudi-arabia-intercepts-houthi-missiles-targeting-riyadh-eastern-province?traffic_source=rss"
+     }
+    ]
+   },
+   {
+    "date": "2026-11-08",
+    "text": "Houthis say at least 33 killed in Saudi air strike",
+    "ko": "후티 반군 \"사우디 공습으로 최소 33명 사망\"",
+    "sources": [
+     {
+      "t": "BBC",
+      "u": "https://www.bbc.co.uk/news/articles/c65yn1v99ypmo?at_medium=RSS&at_campaign=rss"
+     }
+    ]
+   },
    {
     "date": "2026-11-07",
     "text": "Yemeni gov’t forces report advances as Houthis say deadly strikes hit Sanaa",
@@ -480,64 +535,42 @@
       "u": "https://www.theguardian.com/world/2026/nov/06/friday-briefing-after-a-week-of-disruption-is-living-with-threats-our-new-normal"
      }
     ]
-   },
-   {
-    "date": "2026-11-05",
-    "text": "World News in Brief: Korea tensions mount, UN demands answers over staff death in Yemen, Guterres in Spain, Nepal alert ahead of COP31",
-    "ko": "세계 뉴스 요약: 한국의 긴장 고조, 유엔은 예멘 직원 사망에 대한 답변 요구, 스페인의 구테레스, COP31을 앞두고 네팔 경보",
-    "sources": [
-     {
-      "t": "UN News",
-      "u": "https://news.un.org/feed/view/en/story/2026/11/1168750"
-     }
-    ]
-   },
-   {
-    "date": "2026-11-05",
-    "text": "Yemen’s president sacks ministers and officers in attempt to turn tide of war",
-    "ko": "예멘 대통령, 전쟁의 흐름을 바꾸려고 장관과 장교를 해고하다",
-    "sources": [
-     {
-      "t": "The Guardian",
-      "u": "https://www.theguardian.com/world/2026/nov/05/yemen-president-sacks-ministers-and-officers-houthis"
-     }
-    ]
-   },
-   {
-    "date": "2026-11-05",
-    "text": "Houthi missiles fired at Medina intercepted, Saudi coalition says",
-    "ko": "사우디 연합군, 메디나에서 발사된 후티 미사일 요격",
-    "sources": [
-     {
-      "t": "France 24",
-      "u": "https://www.france24.com/en/middle-east/20261105-houthi-missiles-fired-at-medina-intercepted-saudi-coalition-says"
-     }
-    ]
-   },
-   {
-    "date": "2026-11-05",
-    "text": "A month after Yemen government offensive began, war of attrition takes hold",
-    "ko": "예멘 정부 공세 개시 한 달 만에 소모전 발발",
-    "sources": [
-     {
-      "t": "Al Jazeera",
-      "u": "https://www.aljazeera.com/news/2026/11/5/a-month-after-yemen-government-offensive-began-war-of-attrition-takes-hold?traffic_source=rss"
-     }
-    ]
-   },
-   {
-    "date": "2026-11-04",
-    "text": "Yemeni government forces claim control of strategic al-Jawf mountain range",
-    "ko": "예멘 정부군은 전략적인 알 자와프 산맥에 대한 통제권을 주장하고 있습니다.",
-    "sources": [
-     {
-      "t": "Al Jazeera",
-      "u": "https://www.aljazeera.com/news/2026/11/4/yemeni-government-forces-claim-control-of-strategic-al-jawf-mountain-range?traffic_source=rss"
-     }
-    ]
    }
   ],
   "gaza": [
+   {
+    "date": "2026-11-08",
+    "text": "Deadly sand cliff collapses on displaced families in Gaza",
+    "ko": "가자지구 난민 가족들에게 치명적인 모래 절벽이 무너졌습니다.",
+    "sources": [
+     {
+      "t": "Al Jazeera",
+      "u": "https://www.aljazeera.com/video/newsfeed/2026/11/8/deadly-sand-cliff-collapses-on-displaced-families-in-gaza?traffic_source=rss"
+     }
+    ]
+   },
+   {
+    "date": "2026-11-08",
+    "text": "Gaza: Heavy rain inundates thousands of tents",
+    "ko": "가자지구: 폭우로 수천 개의 텐트가 침수됨",
+    "sources": [
+     {
+      "t": "France 24",
+      "u": "https://www.france24.com/en/gaza-heavy-rain-inundates-thousands-of-tents"
+     }
+    ]
+   },
+   {
+    "date": "2026-11-08",
+    "text": "Photos: Heavy rains leave tens of thousands without shelter in Gaza",
+    "ko": "사진: 가자지구에 폭우로 수만 명이 피난처 없이 대피",
+    "sources": [
+     {
+      "t": "Al Jazeera",
+      "u": "https://www.aljazeera.com/gallery/2026/11/8/photos-heavy-rains-leave-tens-of-thousands-without-shelter-in-gaza?traffic_source=rss"
+     }
+    ]
+   },
    {
     "date": "2026-11-07",
     "text": "Buildings damaged in Israeli bombings risk collapse as rain inundates Gaza",
@@ -634,39 +667,6 @@
      {
       "t": "The Guardian",
       "u": "https://www.theguardian.com/us-news/2026/nov/03/donald-trump-usa-end-military-aid-to-israel-end-year-midterms"
-     }
-    ]
-   },
-   {
-    "date": "2026-11-03",
-    "text": "Israeli forces kill four in Gaza as fifth Palestinian dies of wounds",
-    "ko": "이스라엘군, 가자지구서 4명 사살, 다섯 번째 팔레스타인인 부상으로 사망",
-    "sources": [
-     {
-      "t": "Al Jazeera",
-      "u": "https://www.aljazeera.com/news/2026/11/3/israeli-forces-kill-four-in-gaza-as-fifth-palestinian-dies-of-wounds?traffic_source=rss"
-     }
-    ]
-   },
-   {
-    "date": "2026-11-02",
-    "text": "Israeli forces withdraw from areas around Hebron in the occupied West Bank after a multi-day operation following the killing of two Israeli soldiers at a checkpoint.",
-    "sources": [
-     {
-      "t": "AFP via RFI",
-      "u": "https://www.rfi.fr/en/international-news/20261102-israel-army-withdraws-after-hebron-operation"
-     }
-    ],
-    "ko": "이스라엘군은 검문소에서 이스라엘 군인 2명을 살해한 후 며칠간의 작전을 마친 후 점령된 서안 지구의 헤브론 주변 지역에서 철수합니다."
-   },
-   {
-    "date": "2026-11-02",
-    "text": "NSW council refuses to show world-renowned Gaza artwork over ‘unacceptable’ safety risk",
-    "ko": "NSW 의회는 '용납할 수 없는' 안전 위험 때문에 세계적으로 유명한 가자 예술 작품 전시를 거부했습니다.",
-    "sources": [
-     {
-      "t": "The Guardian",
-      "u": "https://www.theguardian.com/australia-news/2026/nov/03/shoalhaven-council-refuses-to-show-wall-of-tears-gaza-artwork-safety-risk-ntwnfb"
      }
     ]
    }
@@ -932,6 +932,17 @@
   ],
   "darfur": [
    {
+    "date": "2026-11-08",
+    "text": "Former National Congress Party politician Ahmed Haroun, who is wanted by the International Criminal Court for genocide in Sudan's Darfur region during war, is detained by the Sudanese army.",
+    "sources": [
+     {
+      "t": "Arab News",
+      "u": "https://www.arabnews.com/middle-east/sudan-detains-chairman-of-former-ruling-party-ahmed-haroun-two-party-officials-say-3010516"
+     }
+    ],
+    "ko": "전쟁 중 수단 다르푸르 지역에서 집단 학살을 저지른 혐의로 국제형사재판소에서 수배 중인 전 국민회의당 정치인 아흐메드 하룬이 수단군에 의해 구금됐다."
+   },
+   {
     "date": "2026-11-03",
     "text": "Darfur survivors vow to tell story of those killed after Sudan camp attacks",
     "ko": "다르푸르 생존자들, 수단 수용소 공격으로 사망한 사람들에 대한 이야기를 전하겠다고 다짐",
@@ -1078,6 +1089,17 @@
    }
   ],
   "haiti": [
+   {
+    "date": "2026-11-08",
+    "text": "Haitians cheer El Salvador’s Bukele amid gang war",
+    "ko": "아이티인들은 갱단 전쟁 중에 엘살바도르의 부켈레를 응원합니다",
+    "sources": [
+     {
+      "t": "Al Jazeera",
+      "u": "https://www.aljazeera.com/video/newsfeed/2026/11/8/haitians-cheer-el-salvadors-bukele-amid-gang-war?traffic_source=rss"
+     }
+    ]
+   },
    {
     "date": "2026-11-07",
     "text": "‘One less gang leader’: Haiti’s prime minister celebrates police operation",
@@ -1677,6 +1699,28 @@
    }
   ],
   "colombia": [
+   {
+    "date": "2026-11-08",
+    "text": "Drone attack on Colombian army base kills three soldiers and wounds 16",
+    "ko": "콜롬비아군 기지에 대한 드론 공격으로 군인 3명이 사망하고 16명이 부상당했습니다.",
+    "sources": [
+     {
+      "t": "Al Jazeera",
+      "u": "https://www.aljazeera.com/news/2026/11/8/drone-attack-on-colombian-army-base-kills-three-soldiers-and-wounds-16?traffic_source=rss"
+     }
+    ]
+   },
+   {
+    "date": "2026-11-07",
+    "text": "A drone strike of unknown origin is launched against a military base in Santa Rosa del Sur, Bolívar Department, Colombia, killing three soldiers and wounding 16 more.",
+    "sources": [
+     {
+      "t": "AP",
+      "u": "https://apnews.com/article/colombia-drone-attack-military-base-7eb8bd82e98900f790b6d4e35eb702ec"
+     }
+    ],
+    "ko": "출처를 알 수 없는 드론 공격이 콜롬비아 볼리바르 주의 산타로사델수르에 있는 군사 기지를 향해 발사되어 군인 3명이 사망하고 16명이 부상을 입었습니다."
+   },
    {
     "date": "2026-11-02",
     "text": "A truck bomb explodes near a military base in Planadas, Tolima Department, Colombia, killing four people, including a baby, and wounding several others.",
