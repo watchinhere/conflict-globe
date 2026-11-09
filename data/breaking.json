@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-08T23:50:13.780Z",
+ "updated": "2026-11-09T05:26:32.555Z",
  "sources": {
   "BBC": {
    "ok": true,
@@ -7,11 +7,11 @@
   },
   "Al Jazeera": {
    "ok": true,
-   "n": 4
+   "n": 5
   },
   "The Guardian": {
    "ok": true,
-   "n": 11
+   "n": 9
   },
   "DW": {
    "ok": true,
@@ -19,7 +19,7 @@
   },
   "France 24": {
    "ok": true,
-   "n": 13
+   "n": 14
   },
   "UN News": {
    "ok": true,
@@ -31,6 +31,121 @@
   }
  },
  "items": [
+  {
+   "id": "d37bdd9c471b",
+   "t": "Rubio says war on Iran unpopular but ‘necessary’ to stop nuclear threat",
+   "ko": "루비오 총리는 이란과의 전쟁은 인기가 없지만 핵 위협을 막기 위해서는 '필요하다'고 말했습니다.",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/11/9/rubio-says-war-on-iran-unpopular-but-necessary-to-stop-nuclear-threat?traffic_source=rss",
+   "at": "2026-11-09T04:02:18.000Z",
+   "ev": [
+    "iran"
+   ],
+   "cc": [
+    "Iran",
+    "United States"
+   ]
+  },
+  {
+   "id": "7e6b058b7705",
+   "t": "Trump tells 60 Minutes that deportation policy was ‘too tough’",
+   "ko": "트럼프, 60분에 \"추방 정책 너무 가혹했다\"",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/us-news/2026/nov/09/trump-tells-60-minutes-deportation-policy-too-tough-ice-immigration",
+   "at": "2026-11-09T03:59:31.000Z",
+   "ev": [],
+   "cc": [
+    "United States"
+   ]
+  },
+  {
+   "id": "e2eccdfac70e",
+   "t": "Man accused of HungryPanda delivery rider’s stabbing murder yells and exposes himself in Melbourne court",
+   "ko": "배고픈 판다 배달원을 칼로 찔러 살해한 혐의로 기소된 남성이 멜버른 법원에서 소리를 지르며 자신의 모습을 폭로했습니다.",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/australia-news/2026/nov/09/man-charged-fatal-stabbing-hungrypanda-delivery-driver-jianming-feng-melbourne-ntwnfb",
+   "at": "2026-11-09T03:47:21.000Z",
+   "ev": [],
+   "cc": []
+  },
+  {
+   "id": "5f1f35e39458",
+   "t": "Drone attack on Iraqi Kurdistan gas field triggers mass blackout",
+   "ko": "이라크 쿠르드 가스전 드론 공격으로 대규모 정전 발생",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/video/newsfeed/2026/11/9/drone-attack-on-iraqi-kurdistan-gas-field-triggers-mass-blackout?traffic_source=rss",
+   "at": "2026-11-09T02:23:11.000Z",
+   "ev": [],
+   "cc": [
+    "Iraq"
+   ]
+  },
+  {
+   "id": "c5005a0f5071",
+   "t": "Europe to press US on Ukraine peace and Iran at Paris G7 talks",
+   "ko": "유럽, 파리 G7 회담에서 우크라이나 평화와 이란 문제로 미국 압박",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/france/20261109-europa-us-ukraine-peace-iran-paris-g7-ministers",
+   "at": "2026-11-09T02:05:00.000Z",
+   "ev": [
+    "ukraine",
+    "iran"
+   ],
+   "cc": [
+    "United States",
+    "Ukraine",
+    "Iran"
+   ]
+  },
+  {
+   "id": "2b3dc2d2a90b",
+   "t": "Drone attack suspends production at Iraq’s Khor Mor gasfield",
+   "ko": "이라크 코르 모르 가스전, 드론 공격으로 생산 중단",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/11/9/drone-attack-suspends-production-at-iraqs-khor-mor-gasfield?traffic_source=rss",
+   "at": "2026-11-09T01:19:09.000Z",
+   "ev": [],
+   "cc": [
+    "Iraq"
+   ]
+  },
+  {
+   "id": "2470b025a445",
+   "t": "Trump vows comeback as parties clash over Democrat prosecution threats",
+   "ko": "트럼프, 민주당 기소 위협으로 양당 충돌로 복귀 다짐",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/americas/20261109-trump-comeback-democrats-prosecution-threats",
+   "at": "2026-11-09T01:13:10.000Z",
+   "ev": [],
+   "cc": []
+  },
+  {
+   "id": "c6f33be7013a",
+   "t": "Trump says he was ‘only kidding’ about making UFC’s Dana White next press secretary",
+   "ko": "트럼프는 UFC의 데이나 화이트를 차기 언론비서로 임명한 것에 대해 \"농담일 뿐\"이라고 말했다.",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/us-news/2026/nov/08/trump-dana-white-press-secretary",
+   "at": "2026-11-09T01:10:55.000Z",
+   "ev": [],
+   "cc": [
+    "United States"
+   ]
+  },
+  {
+   "id": "1dd415ded767",
+   "t": "Iran war live: Trump to talk to Xi, Putin about Tehran, ‘denuclearisation’",
+   "ko": "이란 전쟁 생방송: 트럼프, 시진핑·푸틴과 테헤란, '비핵화' 논의할 것",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/liveblog/2026/11/9/iran-war-live-trump-says-land-blockade-in-effect-drone-cuts-power-in-iraq?traffic_source=rss",
+   "at": "2026-11-09T00:00:34.000Z",
+   "ev": [
+    "iran"
+   ],
+   "cc": [
+    "Iran",
+    "United States"
+   ]
+  },
   {
    "id": "97b1a1785af3",
    "t": "Surgeon having lunch near Krakow shooting undoubtedly saved officer's life, colleague says",
@@ -44,7 +159,7 @@
   {
    "id": "862c8b614e8f",
    "t": "Trying to find true owners, Paris' Musee D'Orsay exhibits art looted by Nazis",
-   "ko": null,
+   "ko": "진정한 주인을 찾으려는 파리의 오르세 미술관, 나치에 의해 약탈된 미술품 전시",
    "src": "NPR",
    "u": "https://www.npr.org/2026/11/08/nx-s1-5928034/trying-to-find-true-owners-paris-musee-dorsay-exhibits-art-looted-by-nazis",
    "at": "2026-11-08T22:04:09.000Z",
@@ -54,14 +169,18 @@
    ]
   },
   {
-   "id": "e2eccdfac70e",
-   "t": "Man charged with murder over fatal stabbing of HungryPanda delivery rider in Melbourne",
-   "ko": null,
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/australia-news/2026/nov/09/man-charged-fatal-stabbing-hungrypanda-delivery-driver-jianming-feng-melbourne-ntwnfb",
-   "at": "2026-11-08T22:03:59.000Z",
-   "ev": [],
-   "cc": []
+   "id": "f17511fbf627",
+   "t": "Aramco Tower hit in heart of Saudi capital as Houthis launch fresh strikes",
+   "ko": "Houthis가 새로운 공격을 시작하면서 Aramco Tower가 사우디 수도 중심부를 공격했습니다.",
+   "src": "BBC",
+   "u": "https://www.bbc.co.uk/news/articles/c6ly3mjx958eo?at_medium=RSS&at_campaign=rss",
+   "at": "2026-11-08T21:37:36.000Z",
+   "ev": [
+    "yemen"
+   ],
+   "cc": [
+    "Saudi Arabia"
+   ]
   },
   {
    "id": "bc104d8a3148",
@@ -88,7 +207,7 @@
   {
    "id": "aa5fb32b5603",
    "t": "Israeli opposition leader Eisenkot begins the hard work of forging a coalition government",
-   "ko": null,
+   "ko": "이스라엘 야당 지도자 아이센코트가 연립정부 구성을 위한 노력을 시작하다",
    "src": "France 24",
    "u": "https://www.france24.com/en/middle-east/20261108-israeli-opposition-leader-eisenkot-begins-the-hard-work-of-forging-a-coalition-government",
    "at": "2026-11-08T21:10:13.000Z",
@@ -100,7 +219,7 @@
   {
    "id": "9148fc85193f",
    "t": "Deadly sand cliff collapses on displaced families in Gaza",
-   "ko": null,
+   "ko": "가자지구 난민 가족들에게 치명적인 모래 절벽이 무너졌습니다.",
    "src": "Al Jazeera",
    "u": "https://www.aljazeera.com/video/newsfeed/2026/11/8/deadly-sand-cliff-collapses-on-displaced-families-in-gaza?traffic_source=rss",
    "at": "2026-11-08T21:05:07.000Z",
@@ -114,7 +233,7 @@
   {
    "id": "237cb1200034",
    "t": "Migrant boat sinks off Senegal, killing at least 34 people, authorities say",
-   "ko": null,
+   "ko": "세네갈에서 이주 보트가 침몰해 최소 34명이 사망했다고 당국이 밝혔습니다.",
    "src": "France 24",
    "u": "https://www.france24.com/en/africa/20261108-migrant-boat-sinks-off-senegal-killing-at-least-34-people-authorities-say",
    "at": "2026-11-08T20:40:33.000Z",
@@ -126,7 +245,7 @@
   {
    "id": "cb8470831358",
    "t": "Iran threatens to ‘rain down hell’ if US escalates war",
-   "ko": null,
+   "ko": "이란, 미국이 전쟁 확대하면 '지옥같은 비를 내리겠다' 위협",
    "src": "Al Jazeera",
    "u": "https://www.aljazeera.com/news/2026/11/8/iran-threatens-to-rain-down-hell-if-us-escalates-war?traffic_source=rss",
    "at": "2026-11-08T20:13:39.000Z",
@@ -507,7 +626,7 @@
   {
    "id": "682a9e6d201b",
    "t": "Israeli president officially tasks Eisenkot with forming government",
-   "ko": null,
+   "ko": "이스라엘 대통령, 공식적으로 Eisenkot에게 정부 구성 위임",
    "src": "France 24",
    "u": "https://www.france24.com/en/middle-east/20261108-middle-east-live-riyadh-financial-district-targeted-deadly-strikes-yemen-israel-eisenkot-netanyahu-coalition-government-elections",
    "at": "2026-11-08T09:47:36.000Z",
@@ -1524,150 +1643,6 @@
    "ev": [],
    "cc": [
     "Paraguay"
-   ]
-  },
-  {
-   "id": "edebd58d56dc",
-   "t": "Russia launches missile attack on Kyiv, injuring residents",
-   "ko": "러시아, 키예프에 미사일 공격…주민 부상",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/news/2026/11/7/russia-launches-missile-attack-on-kyiv-injuring-residents?traffic_source=rss",
-   "at": "2026-11-07T05:11:03.000Z",
-   "ev": [
-    "ukraine"
-   ],
-   "cc": [
-    "Russia"
-   ]
-  },
-  {
-   "id": "75ebae57c2c7",
-   "t": "‘One less gang leader’: Haiti’s prime minister celebrates police operation",
-   "ko": "'갱단 두목 하나 줄이기': 아이티 총리, 경찰 작전 축하",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/news/2026/11/7/one-less-gang-leader-haitis-prime-minister-celebrates-police-operation?traffic_source=rss",
-   "at": "2026-11-07T05:02:49.000Z",
-   "ev": [
-    "haiti"
-   ],
-   "cc": [
-    "Haiti"
-   ]
-  },
-  {
-   "id": "fb30aca16f08",
-   "t": "Trump confirms new US strikes on Iran’s Qeshm island",
-   "ko": "트럼프, 이란 케심섬에 대한 미국의 추가 공습 확인",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/news/2026/11/7/trump-confirms-new-us-strikes-on-irans-qeshm-island?traffic_source=rss",
-   "at": "2026-11-07T03:53:01.000Z",
-   "ev": [
-    "iran"
-   ],
-   "cc": [
-    "United States",
-    "Iran"
-   ]
-  },
-  {
-   "id": "8acdf42e10a9",
-   "t": "US carries out another round of ‘minor’ strikes on Iran, Trump says",
-   "ko": "트럼프 \"미국, 이란에 또 다른 '사소한' 공격 감행\"",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/world/2026/nov/07/us-carries-out-another-round-of-minor-strikes-on-iran-trump-says",
-   "at": "2026-11-07T03:07:01.000Z",
-   "ev": [
-    "iran"
-   ],
-   "cc": [
-    "United States",
-    "Iran"
-   ]
-  },
-  {
-   "id": "5c1a467688bd",
-   "t": "Democrats blast Trump’s decision to make Stephen Miller his chief of staff as president defends picking loyal ‘MVP’ - as it happened",
-   "ko": "민주당은 대통령이 충성스러운 'MVP'를 뽑는 것을 옹호하면서 스티븐 밀러를 비서실장으로 임명한 트럼프의 결정을 비난했습니다.",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/us-news/live/2026/nov/06/us-midterm-elections-2026-democrats-blue-wave-congress-latest-news-updates",
-   "at": "2026-11-07T03:02:26.000Z",
-   "ev": [],
-   "cc": [
-    "United States"
-   ]
-  },
-  {
-   "id": "d94247d11890",
-   "t": "Ousted Paraguay president under house arrest after banking crisis leaves 60% of country unable to access accounts",
-   "ko": "축출된 파라과이 대통령, 은행위기로 가택연금돼 국민 60% 계좌 접근 불가",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/world/2026/nov/07/ousted-paraguay-president-under-house-arrest-after-banking-crisis-leaves-60-of-country-unable-to-access-accounts",
-   "at": "2026-11-07T01:55:11.000Z",
-   "ev": [],
-   "cc": [
-    "Paraguay"
-   ]
-  },
-  {
-   "id": "533775c3cf0a",
-   "t": "Stephen Miller, architect of Trump’s immigration crackdown, to become White House chief of staff",
-   "ko": "트럼프의 이민 단속 설계자인 스티븐 밀러가 백악관 비서실장이 된다",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/us-news/2026/nov/06/stephen-miller-chief-of-staff-trump",
-   "at": "2026-11-07T01:38:06.000Z",
-   "ev": [],
-   "cc": [
-    "United States"
-   ]
-  },
-  {
-   "id": "325e133d4c4b",
-   "t": "Stephen Miller’s appointment shows Trump hasn’t learned his lesson on immigration",
-   "ko": "스티븐 밀러의 임명은 트럼프가 이민에 대한 교훈을 배우지 못했다는 것을 보여줍니다",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/us-news/2026/nov/06/donald-trump-stephen-miller-immigration",
-   "at": "2026-11-07T01:04:52.000Z",
-   "ev": [],
-   "cc": [
-    "United States"
-   ]
-  },
-  {
-   "id": "3e7c87c95d67",
-   "t": "Ben Roberts-Smith collaborates with gym business run by influencer that sold ‘war crimes’ pre-workout supplement",
-   "ko": "벤 로버츠-스미스(Ben Roberts-Smith)는 '전쟁 범죄' 운동 전 보충제를 판매한 인플루언서가 운영하는 체육관 사업과 협력합니다.",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/australia-news/2026/nov/07/ben-roberts-smith-collaborates-gym-business-influencer-war-crimes-pre-workout-supplement-ntwnfb",
-   "at": "2026-11-07T00:58:11.000Z",
-   "ev": [],
-   "cc": [
-    "Australia"
-   ]
-  },
-  {
-   "id": "4a7e1ef8907a",
-   "t": "Russell Brand suspected to have attacked at least 10 other women",
-   "ko": "러셀 브랜드는 최소 10명의 다른 여성을 공격한 혐의를 받고 있다.",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/culture/2026/nov/06/russell-brand-trial-other-women",
-   "at": "2026-11-07T00:00:47.000Z",
-   "ev": [],
-   "cc": []
-  },
-  {
-   "id": "b763a4725b59",
-   "t": "Iran war live: Qatar says US, Iran should not wait to reach a peace deal",
-   "ko": "이란 전쟁 라이브: 카타르는 미국과 이란이 평화 협정에 도달할 때까지 기다려서는 안 된다고 말했습니다.",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/news/liveblog/2026/11/7/iran-war-live-qatar-says-us-iran-should-not-wait-to-reach-a-peace-deal?traffic_source=rss",
-   "at": "2026-11-07T00:00:00.000Z",
-   "ev": [
-    "iran"
-   ],
-   "cc": [
-    "Iran",
-    "Qatar",
-    "United States"
    ]
   }
  ]
