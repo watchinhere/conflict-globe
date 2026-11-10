@@ -1,25 +1,25 @@
 {
- "updated": "2026-11-10T04:47:36.318Z",
+ "updated": "2026-11-10T13:19:35.939Z",
  "sources": {
   "BBC": {
    "ok": true,
-   "n": 5
+   "n": 10
   },
   "Al Jazeera": {
    "ok": true,
-   "n": 10
+   "n": 7
   },
   "The Guardian": {
    "ok": true,
-   "n": 8
+   "n": 11
   },
   "DW": {
    "ok": true,
-   "n": 3
+   "n": 5
   },
   "France 24": {
    "ok": true,
-   "n": 10
+   "n": 11
   },
   "UN News": {
    "ok": true,
@@ -27,23 +27,499 @@
   },
   "NPR": {
    "ok": true,
-   "n": 2
+   "n": 3
   }
  },
  "items": [
   {
-   "id": "3ac6d44b8143",
-   "t": "Trump says more US attacks on Iran 'highly unlikely'",
-   "ko": "트럼프 \"이란에 대한 추가 공격 가능성은 거의 없다\"",
-   "src": "BBC",
-   "u": "https://www.bbc.co.uk/news/articles/cq5yny4nl2d3o?at_medium=RSS&at_campaign=rss",
-   "at": "2026-11-10T04:09:16.000Z",
+   "id": "bf15bf06a44a",
+   "t": "Russia launched deadly Ukraine attacks hours before start of Abu Dhabi talks – Europe live",
+   "ko": "러시아는 아부다비 회담이 시작되기 몇 시간 전에 치명적인 우크라이나 공격을 감행했습니다 – 유럽 라이브",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/world/live/2026/nov/10/ukraine-russia-war-us-talks-abu-dhabi-europe-latest-news-updates",
+   "at": "2026-11-10T13:15:02.000Z",
+   "ev": [
+    "ukraine",
+    "iran"
+   ],
+   "cc": [
+    "Russia",
+    "Ukraine",
+    "United States"
+   ]
+  },
+  {
+   "id": "dff338b1db31",
+   "t": "Pete Hegseth dismisses Republican’s impeachment effort against him as ‘a political spectacle’ – US politics live",
+   "ko": "Pete Hegseth는 자신에 대한 공화당의 탄핵 노력을 '정치적 광경'으로 일축했습니다 – 미국 정치 라이브",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/us-news/live/2026/nov/10/donald-trump-pete-hegseth-thomas-massie-republicans-iran-war-impeachment-midterms-latest-news-updates",
+   "at": "2026-11-10T13:13:59.000Z",
    "ev": [
     "iran"
    ],
    "cc": [
     "United States",
     "Iran"
+   ]
+  },
+  {
+   "id": "935d44ae0f76",
+   "t": "White supremacist Nick Fuentes linked to college Republican group, records show",
+   "ko": "백인 우월주의자 닉 푸엔테스가 대학 공화당 단체와 연관돼 있다는 기록이 나왔다.",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/us-news/2026/nov/10/nick-fuentes-crpc-college-republicans",
+   "at": "2026-11-10T13:00:54.000Z",
+   "ev": [],
+   "cc": []
+  },
+  {
+   "id": "1a478ad3efb3",
+   "t": "US evacuates aircraft from RAF Mildenhall over reported Iran threat",
+   "ko": "미국, 이란 위협 보도로 인해 RAF Mildenhall에서 항공기 대피",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/uk-news/2026/nov/10/us-reportedly-evacuated-aircraft-from-raf-mildenhall-over-iran-threat",
+   "at": "2026-11-10T12:57:02.000Z",
+   "ev": [
+    "iran"
+   ],
+   "cc": [
+    "United States",
+    "Iran",
+    "Germany"
+   ]
+  },
+  {
+   "id": "c1b0130d703b",
+   "t": "At least 12 people killed in motorway crash in southeastern Bulgaria",
+   "ko": "불가리아 남동부 고속도로 충돌로 최소 12명 사망",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/11/10/at-least-12-people-killed-in-motorway-crash-in-southeastern-bulgaria?traffic_source=rss",
+   "at": "2026-11-10T12:54:04.000Z",
+   "ev": [],
+   "cc": [
+    "Bulgaria"
+   ]
+  },
+  {
+   "id": "799d3791f46a",
+   "t": "US officials seek ‘final end’ to Russia-Ukraine war as Abu Dhabi talks begin",
+   "ko": "미국 관리들은 아부다비 회담이 시작되면서 러시아-우크라이나 전쟁의 '최종 종식'을 모색하고 있습니다.",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/world/2026/nov/10/us-officials-russia-ukraine-war-abu-dhabi-talks",
+   "at": "2026-11-10T12:48:32.000Z",
+   "ev": [
+    "ukraine",
+    "iran"
+   ],
+   "cc": [
+    "United States",
+    "Russia",
+    "Ukraine"
+   ]
+  },
+  {
+   "id": "fe03fc111db6",
+   "t": "Why the GCC is setting up an advanced military command base in Kuwait",
+   "ko": "GCC가 쿠웨이트에 첨단 군사 지휘 기지를 설립하는 이유",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/11/10/gcc-agrees-to-set-up-advanced-military-command-headquarters-in-kuwait?traffic_source=rss",
+   "at": "2026-11-10T12:09:54.000Z",
+   "ev": [],
+   "cc": [
+    "Kuwait"
+   ]
+  },
+  {
+   "id": "7e50011d8b8b",
+   "t": "Bulgaria highway pileup kills 12, dozens injured: PM",
+   "ko": "불가리아 고속도로 추돌사고로 12명 사망, 수십명 부상",
+   "src": "DW",
+   "u": "https://www.dw.com/en/bulgaria-highway-pileup-kills-12-dozens-injured-pm/a-79907978?maca=en-rss-en-world-4025-rdf",
+   "at": "2026-11-10T11:57:00.000Z",
+   "ev": [],
+   "cc": [
+    "Bulgaria"
+   ]
+  },
+  {
+   "id": "401b87e56588",
+   "t": "Trump says Israel, Gulf allies must repay Iran war cost: What does it mean?",
+   "ko": "트럼프는 이스라엘과 걸프 동맹국들이 이란의 전쟁 비용을 갚아야 한다고 말했습니다. 그것은 무엇을 의미합니까?",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/11/10/trump-says-israel-gulf-allies-must-repay-iran-war-cost-what-does-it-mean?traffic_source=rss",
+   "at": "2026-11-10T11:52:34.000Z",
+   "ev": [
+    "iran"
+   ],
+   "cc": [
+    "Israel",
+    "Iran"
+   ]
+  },
+  {
+   "id": "2c0f3e61a0ec",
+   "t": "Ukraine peace talks: Who is sitting at the negotiating table – and why it matters",
+   "ko": "우크라이나 평화 회담: 협상 테이블에 누가 앉아 있는지, 그리고 그것이 중요한 이유",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/video/20261110-ukraine-peace-talks-who-is-sitting-at-the-negotiating-table-%E2%80%93-and-why-it-matters",
+   "at": "2026-11-10T11:45:29.000Z",
+   "ev": [
+    "ukraine"
+   ],
+   "cc": [
+    "Ukraine",
+    "Russia",
+    "United States"
+   ]
+  },
+  {
+   "id": "504936d8e903",
+   "t": "Dana White: UFC chief declines Trump’s White House job offer",
+   "ko": "데이나 화이트: UFC 대표, 트럼프 백악관 일자리 제의 거절",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/video/20261110-dana-white-ufc-chief-declines-trump-s-white-house-job-offer",
+   "at": "2026-11-10T11:39:53.000Z",
+   "ev": [],
+   "cc": []
+  },
+  {
+   "id": "43defc4189c3",
+   "t": "Oil price relief as Trump declares US war on Iran ‘ending fairly soon’ | First Thing",
+   "ko": "트럼프, 이란과의 미국 전쟁 '곧 끝날 것' 선언에 따른 유가 완화 | 가장 중요한 것",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/us-news/2026/nov/10/first-thing-oil-price-relief-trump-us-war-iran-ending-fairly-soon",
+   "at": "2026-11-10T11:36:00.000Z",
+   "ev": [
+    "iran"
+   ],
+   "cc": [
+    "United States",
+    "Iran",
+    "Israel"
+   ]
+  },
+  {
+   "id": "5643d3d7eb9e",
+   "t": "Police officer dies and another injured after backpack explosion in Oviedo",
+   "ko": "오비에도에서 배낭 폭발로 경찰관 사망, 1명 부상",
+   "src": "BBC",
+   "u": "https://www.bbc.co.uk/news/articles/cwm262pzezy0o?at_medium=RSS&at_campaign=rss",
+   "at": "2026-11-10T11:25:46.000Z",
+   "ev": [],
+   "cc": []
+  },
+  {
+   "id": "ff6c707d6d50",
+   "t": "Israeli forces kill Palestinian boy in West Bank, health ministry says",
+   "ko": "이스라엘군, 서안지구에서 팔레스타인 소년 사살했다고 보건부 발표",
+   "src": "BBC",
+   "u": "https://www.bbc.co.uk/news/articles/cqpvgv318yyeo?at_medium=RSS&at_campaign=rss",
+   "at": "2026-11-10T11:23:18.000Z",
+   "ev": [
+    "westbank"
+   ],
+   "cc": [
+    "Israel",
+    "Palestine"
+   ]
+  },
+  {
+   "id": "1484d695cddb",
+   "t": "New Israel parliament to be sworn in as Eisenkot works to form new govt",
+   "ko": "Eisenkot가 새로운 정부를 구성하기 위해 노력함에 따라 새로운 이스라엘 의회가 선서됩니다",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/video/20261110-new-israel-parliament-to-be-sworn-in-as-eisenkot-works-to-form-new-govt",
+   "at": "2026-11-10T11:22:39.000Z",
+   "ev": [
+    "gaza"
+   ],
+   "cc": [
+    "Israel"
+   ]
+  },
+  {
+   "id": "0088f39aad6e",
+   "t": "US Hegseth faces Republican impeachment bid over abuse of power in Iran war",
+   "ko": "미국 헤그세스, 이란 전쟁에서 권력 남용 혐의로 공화당 탄핵 신청 직면",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/video/20261110-us-hegseth-faces-republican-impeachment-bid-over-abuse-of-power-in-iran-war",
+   "at": "2026-11-10T11:03:20.000Z",
+   "ev": [
+    "iran"
+   ],
+   "cc": [
+    "United States",
+    "Iran"
+   ]
+  },
+  {
+   "id": "e2a89243613b",
+   "t": "China's charm offensive pays off as foreign tourism rebounds",
+   "ko": "중국의 매력공세는 외국인 관광객의 반등으로 성과를 거두고 있다.",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/video/20261110-china-s-charm-offensive-pays-off-as-foreign-tourism-rebounds",
+   "at": "2026-11-10T10:58:28.000Z",
+   "ev": [],
+   "cc": [
+    "China",
+    "France"
+   ]
+  },
+  {
+   "id": "30a5c026a295",
+   "t": "U.S.-mediated talks on ending Russia-Ukraine war begin in Abu Dhabi",
+   "ko": "러시아-우크라이나 전쟁 종식을 위한 미국 중재 회담이 아부다비에서 시작됩니다.",
+   "src": "NPR",
+   "u": "https://www.npr.org/2026/11/10/g-s1-152773/russia-ukraine-war-talks",
+   "at": "2026-11-10T10:58:18.000Z",
+   "ev": [
+    "ukraine"
+   ],
+   "cc": [
+    "United Arab Emirates"
+   ]
+  },
+  {
+   "id": "b791ed4e8aa5",
+   "t": "Disgraced former leader Sheikh Hasina plans return to Bangladesh from exile",
+   "ko": "불명예스러운 전 지도자 셰이크 하시나(Sheikh Hasina)가 망명 생활을 마치고 방글라데시로 돌아갈 계획이다.",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/world/2026/nov/10/disgraced-former-leader-sheikh-hasina-plans-return-to-bangladesh-after-two-years-in-exile",
+   "at": "2026-11-10T10:57:51.000Z",
+   "ev": [
+    "delhi"
+   ],
+   "cc": [
+    "Bangladesh",
+    "India"
+   ]
+  },
+  {
+   "id": "ccf7be87faa6",
+   "t": "Paraguayan protesters are back on the streets despite the removal of President",
+   "ko": "파라과이 시위대, 대통령 퇴진에도 불구하고 거리로 복귀",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/video/20261110-paraguayan-protesters-are-back-on-the-streets-despite-the-removal-of-president",
+   "at": "2026-11-10T10:53:38.000Z",
+   "ev": [],
+   "cc": [
+    "Paraguay"
+   ]
+  },
+  {
+   "id": "574f3f796f85",
+   "t": "US Republican Thomas Massie launches bid to impeach Pete Hegseth",
+   "ko": "미국 공화당의 토마스 매시(Thomas Massie)가 피트 헤그세스(Pete Hegseth)를 탄핵하기 위해 노력하고 있습니다.",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/video/20261110-us-republican-thomas-massie-launches-bid-to-impeach-pete-hegseth",
+   "at": "2026-11-10T10:42:42.000Z",
+   "ev": [
+    "iran"
+   ],
+   "cc": [
+    "United States",
+    "Iran"
+   ]
+  },
+  {
+   "id": "91a82b5ad144",
+   "t": "Russia and Ukraine hold US-backed talks after Trump says broad deal is possible",
+   "ko": "트럼프가 광범위한 협상이 가능하다고 말한 후 러시아와 우크라이나는 미국이 지원하는 회담을 가졌습니다.",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/video/20261110-russia-and-ukraine-hold-us-backed-talks-after-trump-says-broad-deal-is-possible",
+   "at": "2026-11-10T10:40:40.000Z",
+   "ev": [
+    "ukraine"
+   ],
+   "cc": [
+    "Russia",
+    "Ukraine",
+    "United States"
+   ]
+  },
+  {
+   "id": "d031e7eea315",
+   "t": "Ugandan former intelligence officer exposes alleged army abuses",
+   "ko": "우간다 전 정보 장교, 군대 학대 혐의 폭로",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/video/20261110-ugandan-former-intelligence-officer-exposes-alleged-army-abuses",
+   "at": "2026-11-10T10:14:06.000Z",
+   "ev": [],
+   "cc": [
+    "Uganda"
+   ]
+  },
+  {
+   "id": "270465836b00",
+   "t": "Pakistan TV anchor allegedly shot dead at home by her husband",
+   "ko": "파키스탄 TV 앵커, 자택에서 남편 총격 사망",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/video/newsfeed/2026/11/10/pakistan-tv-anchor-allegedly-shot-dead-at-home-by-her-husband?traffic_source=rss",
+   "at": "2026-11-10T10:10:32.000Z",
+   "ev": [],
+   "cc": [
+    "Pakistan"
+   ]
+  },
+  {
+   "id": "1945b7656649",
+   "t": "Fact check: Online disinformation rife after Krakow mass shooting",
+   "ko": "사실 확인: 크라쿠프 총격 사건 이후 온라인 허위 정보 만연",
+   "src": "DW",
+   "u": "https://www.dw.com/en/fact-check-online-disinformation-rife-after-krakow-mass-shooting/a-79900620?maca=en-rss-en-world-4025-rdf",
+   "at": "2026-11-10T10:02:00.000Z",
+   "ev": [],
+   "cc": []
+  },
+  {
+   "id": "02a67351f25b",
+   "t": "What is Hasina’s game plan as she seeks a passport to return to Bangladesh?",
+   "ko": "방글라데시로 돌아가기 위해 여권을 구하는 하시나의 계획은 무엇일까?",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/11/10/what-is-hasinas-game-plan-as-she-seeks-passport-to-return-to-bangladesh?traffic_source=rss",
+   "at": "2026-11-10T09:46:43.000Z",
+   "ev": [],
+   "cc": [
+    "Bangladesh"
+   ]
+  },
+  {
+   "id": "3ac6d44b8143",
+   "t": "Trump says more US attacks on Iran 'highly unlikely'",
+   "ko": "트럼프 \"이란에 대한 추가 공격 가능성은 거의 없다\"",
+   "src": "BBC",
+   "u": "https://www.bbc.co.uk/news/articles/cq5yny4nl2d3o?at_medium=RSS&at_campaign=rss",
+   "at": "2026-11-10T09:40:31.000Z",
+   "ev": [
+    "iran"
+   ],
+   "cc": [
+    "United States",
+    "Iran"
+   ]
+  },
+  {
+   "id": "375c2c22806b",
+   "t": "Kushner and Witkoff renew peace talks to end war between Russia and Ukraine",
+   "ko": "쿠슈너와 위트코프, 러시아와 우크라이나 간 전쟁 종식을 위한 평화 회담 재개",
+   "src": "NPR",
+   "u": "https://www.npr.org/2026/11/10/nx-s1-6034616/kushner-and-witkoff-renew-peace-talks-to-end-war-between-russia-and-ukraine",
+   "at": "2026-11-10T09:38:34.000Z",
+   "ev": [
+    "ukraine"
+   ],
+   "cc": [
+    "Russia",
+    "Ukraine"
+   ]
+  },
+  {
+   "id": "323c96074019",
+   "t": "Watch: Man smashes Chinese government building with excavator",
+   "ko": "시청: 남자가 굴착기로 중국 정부 건물을 부수다",
+   "src": "BBC",
+   "u": "https://www.bbc.co.uk/news/videos/ckp8g8p4myv8o?at_medium=RSS&at_campaign=rss",
+   "at": "2026-11-10T09:37:15.000Z",
+   "ev": [],
+   "cc": [
+    "China"
+   ]
+  },
+  {
+   "id": "b017595f99ca",
+   "t": "DR Congo sentences 66 soldiers to death for being 'cowards'",
+   "ko": "콩고민주공화국, '겁쟁이' 군인 66명에 사형 선고",
+   "src": "BBC",
+   "u": "https://www.bbc.co.uk/news/articles/cmreye1q3dnjo?at_medium=RSS&at_campaign=rss",
+   "at": "2026-11-10T08:39:05.000Z",
+   "ev": [
+    "drc"
+   ],
+   "cc": [
+    "Democratic Republic of the Congo"
+   ]
+  },
+  {
+   "id": "960a5771db54",
+   "t": "Fossil fuel emissions set to fall for first time since Covid, research shows",
+   "ko": "연구에 따르면 화석연료 배출량은 코로나 이후 처음으로 감소할 것으로 나타났다",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/environment/20261110-fossil-fuel-emissions-set-to-fall-for-first-time-since-covid-research-shows",
+   "at": "2026-11-10T08:25:03.000Z",
+   "ev": [
+    "iran"
+   ],
+   "cc": [
+    "Iran"
+   ]
+  },
+  {
+   "id": "5aaf31bc68a0",
+   "t": "Grenades, grief and a deepening political divide: five takeaways from Sonia Gandhi’s new memoir",
+   "ko": "수류탄, 슬픔, 심화되는 정치적 분열: 소니아 간디의 새 회고록에서 얻을 수 있는 다섯 가지 교훈",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/world/2026/nov/09/this-is-india-sonia-gandhi-memoir-belonging",
+   "at": "2026-11-10T07:30:31.000Z",
+   "ev": [],
+   "cc": [
+    "India",
+    "Italy"
+   ]
+  },
+  {
+   "id": "f91bbf340495",
+   "t": "Palestine Weekly: West Bank on fire – and Gaza’s tents under water",
+   "ko": "팔레스타인 주간지: 서안지구에 불이 붙었고, 가자지구는 물속에 텐트를 쳤습니다.",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/11/10/palestine-weekly-west-bank-on-fire-and-gazas-tents-under?traffic_source=rss",
+   "at": "2026-11-10T06:37:13.000Z",
+   "ev": [
+    "gaza",
+    "westbank"
+   ],
+   "cc": [
+    "Palestine"
+   ]
+  },
+  {
+   "id": "df306a5985c9",
+   "t": "Khor Mor drone attack raises fears over Iraq’s energy security",
+   "ko": "코르 모르(Khor Mor) 드론 공격으로 이라크 에너지 안보에 대한 우려 커져",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news-analysis/2026/11/10/khor-mor-drone-attack-raises-fears-over-iraqs-energy-security?traffic_source=rss",
+   "at": "2026-11-10T06:22:00.000Z",
+   "ev": [],
+   "cc": [
+    "Iraq"
+   ]
+  },
+  {
+   "id": "0c5329372fc0",
+   "t": "Live: Ukraine, France welcome US efforts to revive peace talks with Russia",
+   "ko": "라이브: 우크라이나, 프랑스는 러시아와의 평화 회담을 재개하려는 미국의 노력을 환영합니다",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/europe/20261110-live-ukraine-russia-and-us-to-resume-peace-talks-in-abu-dhabi",
+   "at": "2026-11-10T06:09:26.000Z",
+   "ev": [
+    "ukraine"
+   ],
+   "cc": [
+    "Ukraine",
+    "France",
+    "United States"
+   ]
+  },
+  {
+   "id": "14c807a2c7aa",
+   "t": "Polish unity on show as thousands join silent march for Krakow shooting victims",
+   "ko": "수천 명이 크라쿠프 총격 희생자들을 위한 침묵 행진에 참여하면서 폴란드의 단결이 보여졌습니다.",
+   "src": "BBC",
+   "u": "https://www.bbc.co.uk/news/articles/cqkg5gm4nr4no?at_medium=RSS&at_campaign=rss",
+   "at": "2026-11-10T05:38:53.000Z",
+   "ev": [],
+   "cc": [
+    "Poland"
    ]
   },
   {
@@ -1502,349 +1978,6 @@
    "ev": [],
    "cc": [
     "Senegal"
-   ]
-  },
-  {
-   "id": "f34bf47aa06d",
-   "t": "WW2 veterans outnumber former PMs for possible last time at Remembrance Sunday service",
-   "ko": "2차 세계 대전 참전 용사, 추모 주일 예배에서 마지막으로 전 총리보다 많아",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/uk-news/2026/nov/08/second-world-war-veterans-outnumber-former-pms-for-possible-last-time-on-remembrance-sunday",
-   "at": "2026-11-08T13:05:13.000Z",
-   "ev": [],
-   "cc": [
-    "United Kingdom"
-   ]
-  },
-  {
-   "id": "f34c68ba918b",
-   "t": "US datacenter demand spurs increased fossil fuel pipeline projects as rules are discarded",
-   "ko": "미국 데이터 센터 수요로 인해 규칙이 폐기됨에 따라 화석 연료 파이프라인 프로젝트 증가",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/us-news/2026/nov/08/datacenters-fossil-fuel-pipelines-regulations",
-   "at": "2026-11-08T13:00:40.000Z",
-   "ev": [
-    "ukraine",
-    "iran"
-   ],
-   "cc": [
-    "United States",
-    "Ukraine",
-    "Iran"
-   ]
-  },
-  {
-   "id": "78e746cd2202",
-   "t": "Poland mourns six killed in attack as authorities launch ‘terrorism’ probe",
-   "ko": "폴란드, 당국이 '테러' 조사 개시하자 공격으로 6명 사망 애도",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/news/2026/11/8/poland-mourns-six-killed-in-attack-as-authorities-launch-terrorism-probe?traffic_source=rss",
-   "at": "2026-11-08T12:40:12.000Z",
-   "ev": [],
-   "cc": [
-    "Poland"
-   ]
-  },
-  {
-   "id": "bf3a8cb6e847",
-   "t": "Russian strikes on Ukraine leave hundreds of thousands without electricity",
-   "ko": "러시아, 우크라이나 공격으로 수십만 명 전기 공급 중단",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/news/2026/11/8/russian-strikes-on-ukraine-leave-hundreds-of-thousands-without-electricity?traffic_source=rss",
-   "at": "2026-11-08T12:20:17.000Z",
-   "ev": [
-    "ukraine"
-   ],
-   "cc": [
-    "Russia",
-    "Ukraine"
-   ]
-  },
-  {
-   "id": "eea51ddb4a07",
-   "t": "Stimulant overdoses on the rise as opioid deaths decline, but treatment is complex",
-   "ko": "오피오이드 사망률이 감소함에 따라 자극제 과다 복용이 증가하고 있지만 치료는 복잡합니다.",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/us-news/2026/nov/08/stimulant-overdoses-rise",
-   "at": "2026-11-08T12:00:40.000Z",
-   "ev": [],
-   "cc": [
-    "United States"
-   ]
-  },
-  {
-   "id": "8ed510abfa11",
-   "t": "‘10 times more painful’: Menstrual disorders fuel calls to ban tear gas at French protests",
-   "ko": "'10배 더 고통스럽다': 월경 장애로 인해 프랑스 시위에서 최루탄 금지 촉구",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/france/20261108-abnormal-menstraution-periods-fuel-calls-ban-tear-gas-french-protests-police",
-   "at": "2026-11-08T11:53:14.000Z",
-   "ev": [],
-   "cc": [
-    "France"
-   ]
-  },
-  {
-   "id": "36d1a006d1aa",
-   "t": "Polish prosecutors open terrorism investigation into Kraków shooting",
-   "ko": "폴란드 검찰, 크라쿠프 총격 테러 수사 개시",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/world/2026/nov/08/krakow-shooting-poland-terrorism-investigation",
-   "at": "2026-11-08T11:50:15.000Z",
-   "ev": [],
-   "cc": []
-  },
-  {
-   "id": "38f02fc341d5",
-   "t": "Will Eisenkot be able to form Israel’s next gov’t amid divided opposition?",
-   "ko": "아이젠코트는 분열된 반대 속에서도 이스라엘의 차기 정부를 구성할 수 있을까요?",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/news/2026/11/8/will-eisenkot-be-able-to-form-israels-next-govt-amid-divided-opposition?traffic_source=rss",
-   "at": "2026-11-08T11:34:58.000Z",
-   "ev": [],
-   "cc": [
-    "Israel"
-   ]
-  },
-  {
-   "id": "0dc5860fe5b7",
-   "t": "Diwali: Over one billion people mark victory of light over darkness",
-   "ko": "디왈리: 10억 명이 넘는 사람들이 어둠을 이긴 빛의 승리를 기념합니다",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/diwali-over-one-billion-people-mark-victory-of-light-over-darkness",
-   "at": "2026-11-08T10:46:37.000Z",
-   "ev": [],
-   "cc": [
-    "India"
-   ]
-  },
-  {
-   "id": "26553ff84cd1",
-   "t": "Paraguay: Senate impeached Peña rather than accept his offer to resign",
-   "ko": "파라과이: 상원은 페냐의 사임 제안을 받아들이지 않고 탄핵했다",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/video/20261108-paraguay-senate-impeached-pe%C3%B1a-rather-than-accept-his-offer-to-resign",
-   "at": "2026-11-08T10:42:59.000Z",
-   "ev": [],
-   "cc": [
-    "Paraguay"
-   ]
-  },
-  {
-   "id": "c6008c18da39",
-   "t": "After rebel offensive, efforts to push them back appear to have stalled",
-   "ko": "반군의 공세 이후 그들을 밀어내려는 노력은 중단된 것으로 보인다",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/video/project-force-2/2026/11/8/after-rebel-offensive-efforts-to-push-them-back-appear-to-have-stalled?traffic_source=rss",
-   "at": "2026-11-08T10:28:08.000Z",
-   "ev": [
-    "yemen"
-   ],
-   "cc": [
-    "Saudi Arabia",
-    "Yemen"
-   ]
-  },
-  {
-   "id": "682a9e6d201b",
-   "t": "Israeli president officially tasks Eisenkot with forming government",
-   "ko": "이스라엘 대통령, 공식적으로 Eisenkot에게 정부 구성 위임",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/middle-east/20261108-middle-east-live-riyadh-financial-district-targeted-deadly-strikes-yemen-israel-eisenkot-netanyahu-coalition-government-elections",
-   "at": "2026-11-08T09:47:36.000Z",
-   "ev": [],
-   "cc": [
-    "Israel"
-   ]
-  },
-  {
-   "id": "148238e3c9e6",
-   "t": "Donald Trump wants UFC fighters as assistants",
-   "ko": "도널드 트럼프는 UFC 선수를 보조자로 원한다",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/donald-trump-wants-ufc-fighters-as-assistants",
-   "at": "2026-11-08T09:44:28.000Z",
-   "ev": [],
-   "cc": [
-    "United States"
-   ]
-  },
-  {
-   "id": "f7216b033ce6",
-   "t": "Gaza: Heavy rain inundates thousands of tents",
-   "ko": "가자지구: 폭우로 수천 개의 텐트가 침수됨",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/gaza-heavy-rain-inundates-thousands-of-tents",
-   "at": "2026-11-08T09:42:03.000Z",
-   "ev": [
-    "gaza"
-   ],
-   "cc": [
-    "Palestine"
-   ]
-  },
-  {
-   "id": "f50d287e94f5",
-   "t": "Briton among six dead after gunman opens fire in Kraków market square",
-   "ko": "크라쿠프 시장 광장에서 총격범이 총격을 가해 사망한 6명 중 영국인",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/world/2026/nov/07/krakow-poland-shooting-market-square-deaths-gunman",
-   "at": "2026-11-08T09:30:22.000Z",
-   "ev": [],
-   "cc": [
-    "Poland"
-   ]
-  },
-  {
-   "id": "00b21f280e61",
-   "t": "Democrats’ congressional win could strengthen Ukraine’s hand against Russia",
-   "ko": "민주당의 의회 승리는 러시아에 대한 우크라이나의 영향력을 강화할 수 있습니다",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/news/2026/11/8/democrats-congressional-win-could-strengthen-ukraines-hand-against-russia?traffic_source=rss",
-   "at": "2026-11-08T09:30:17.000Z",
-   "ev": [
-    "ukraine"
-   ],
-   "cc": [
-    "Ukraine",
-    "Russia",
-    "United States"
-   ]
-  },
-  {
-   "id": "16842677b56a",
-   "t": "Poland launches terrorism probe into mass shooting in Krakow",
-   "ko": "폴란드, 크라쿠프에서 발생한 대량 총격 사건에 대한 테러 조사 개시",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/europe/20261108-poland-launches-terrorism-probe-into-krakow-mass-shooting",
-   "at": "2026-11-08T08:59:56.000Z",
-   "ev": [],
-   "cc": [
-    "Poland"
-   ]
-  },
-  {
-   "id": "718247ba153f",
-   "t": "US military attacks cargo ship in the Gulf of Oman",
-   "ko": "미군, 오만해에서 화물선 공격",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/video/newsfeed/2026/11/8/us-military-attacks-cargo-ship-in-the-gulf-of-oman?traffic_source=rss",
-   "at": "2026-11-08T08:24:37.000Z",
-   "ev": [],
-   "cc": [
-    "United States",
-    "Oman"
-   ]
-  },
-  {
-   "id": "6837e6991208",
-   "t": "Mapping how France’s protest wave spread across Europe",
-   "ko": "프랑스의 항의 물결이 유럽 전역으로 어떻게 확산되었는지 매핑",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/news/2026/11/8/mapping-how-frances-protest-wave-spread-across-europe?traffic_source=rss",
-   "at": "2026-11-08T08:18:38.000Z",
-   "ev": [],
-   "cc": [
-    "France"
-   ]
-  },
-  {
-   "id": "a4c834776699",
-   "t": "Yemen's Houthis claim attack on Aramco skyscraper in Riyadh",
-   "ko": "예멘 후티 반군, 리야드 아람코 초고층건물 공격",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/middle-east/20261108-yemen-s-houthis-claim-attack-on-aramco-building-in-riyadh-s-financial-district",
-   "at": "2026-11-08T08:11:54.000Z",
-   "ev": [
-    "iran",
-    "yemen"
-   ],
-   "cc": [
-    "Yemen",
-    "Saudi Arabia"
-   ]
-  },
-  {
-   "id": "00485656fad7",
-   "t": "Saudi Arabia intercepts Houthi missiles targeting Riyadh, Eastern province",
-   "ko": "사우디, 동부 리야드를 겨냥한 후티 미사일 요격",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/news/2026/11/8/saudi-arabia-intercepts-houthi-missiles-targeting-riyadh-eastern-province?traffic_source=rss",
-   "at": "2026-11-08T07:40:07.000Z",
-   "ev": [
-    "yemen"
-   ],
-   "cc": [
-    "Saudi Arabia"
-   ]
-  },
-  {
-   "id": "2a2d18a832ec",
-   "t": "Trump’s shattered ‘mirror world’: American voters roundly reject president’s alternate reality",
-   "ko": "트럼프의 산산이 부서진 '거울 세계': 미국 유권자들은 대통령의 대체 현실을 완강히 거부합니다",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/us-news/ng-interactive/2026/nov/08/trump-midterms-voters-mirror-world",
-   "at": "2026-11-08T07:00:34.000Z",
-   "ev": [
-    "iran"
-   ],
-   "cc": [
-    "United States",
-    "Iran"
-   ]
-  },
-  {
-   "id": "3080e2bfc14e",
-   "t": "Photos: Heavy rains leave tens of thousands without shelter in Gaza",
-   "ko": "사진: 가자지구에 폭우로 수만 명이 피난처 없이 대피",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/gallery/2026/11/8/photos-heavy-rains-leave-tens-of-thousands-without-shelter-in-gaza?traffic_source=rss",
-   "at": "2026-11-08T06:55:24.000Z",
-   "ev": [
-    "gaza"
-   ],
-   "cc": [
-    "Palestine",
-    "Israel"
-   ]
-  },
-  {
-   "id": "08249d244a83",
-   "t": "Hot fridges, a fake nuclear alert and a $6bn heist: are we in the foothills of a hacking epidemic?",
-   "ko": "뜨거운 냉장고, 가짜 핵 경고, 60억 달러 규모의 강도: 우리는 해킹 전염병의 산기슭에 있습니까?",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/news/ng-interactive/2026/nov/08/hot-fridges-a-fake-nuclear-alert-and-a-6bn-heist-are-we-in-the-foothills-of-a-hacking-epidemic",
-   "at": "2026-11-08T06:00:33.000Z",
-   "ev": [],
-   "cc": []
-  },
-  {
-   "id": "82f1830297af",
-   "t": "Haitians cheer El Salvador’s Bukele amid gang war",
-   "ko": "아이티인들은 갱단 전쟁 중에 엘살바도르의 부켈레를 응원합니다",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/video/newsfeed/2026/11/8/haitians-cheer-el-salvadors-bukele-amid-gang-war?traffic_source=rss",
-   "at": "2026-11-08T05:09:39.000Z",
-   "ev": [
-    "haiti"
-   ],
-   "cc": [
-    "El Salvador",
-    "Haiti"
-   ]
-  },
-  {
-   "id": "ee3d9f8f96e5",
-   "t": "Drone attack on Colombian army base kills three soldiers and wounds 16",
-   "ko": "콜롬비아군 기지에 대한 드론 공격으로 군인 3명이 사망하고 16명이 부상당했습니다.",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/news/2026/11/8/drone-attack-on-colombian-army-base-kills-three-soldiers-and-wounds-16?traffic_source=rss",
-   "at": "2026-11-08T04:56:37.000Z",
-   "ev": [
-    "colombia"
-   ],
-   "cc": [
-    "Colombia"
    ]
   }
  ]
