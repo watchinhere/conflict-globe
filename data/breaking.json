@@ -1,25 +1,25 @@
 {
- "updated": "2026-11-09T23:29:49.986Z",
+ "updated": "2026-11-10T04:47:36.318Z",
  "sources": {
   "BBC": {
    "ok": true,
-   "n": 3
+   "n": 5
   },
   "Al Jazeera": {
    "ok": true,
-   "n": 14
+   "n": 10
   },
   "The Guardian": {
    "ok": true,
-   "n": 10
+   "n": 8
   },
   "DW": {
    "ok": true,
-   "n": 2
+   "n": 3
   },
   "France 24": {
    "ok": true,
-   "n": 9
+   "n": 10
   },
   "UN News": {
    "ok": true,
@@ -27,24 +27,182 @@
   },
   "NPR": {
    "ok": true,
-   "n": 3
+   "n": 2
   }
  },
  "items": [
   {
+   "id": "3ac6d44b8143",
+   "t": "Trump says more US attacks on Iran 'highly unlikely'",
+   "ko": "트럼프 \"이란에 대한 추가 공격 가능성은 거의 없다\"",
+   "src": "BBC",
+   "u": "https://www.bbc.co.uk/news/articles/cq5yny4nl2d3o?at_medium=RSS&at_campaign=rss",
+   "at": "2026-11-10T04:09:16.000Z",
+   "ev": [
+    "iran"
+   ],
+   "cc": [
+    "United States",
+    "Iran"
+   ]
+  },
+  {
+   "id": "af48d2ce612c",
+   "t": "Todd Russell, Beaconsfield mine collapse survivor, dies aged 54 due to illness",
+   "ko": "비콘스필드 광산 붕괴 생존자 토드 러셀(Todd Russell), 질병으로 인해 54세의 나이로 사망",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/australia-news/2026/nov/10/todd-russell-dies-beaconsfield-mine-collapse-survivor-death-illness-aged-54",
+   "at": "2026-11-10T03:47:33.000Z",
+   "ev": [],
+   "cc": []
+  },
+  {
+   "id": "1e8eade9d411",
+   "t": "Saudi Arabia downs missiles fired at Riyadh after Houthi attack on pipeline",
+   "ko": "사우디아라비아, 후티 반군 파이프라인 공격 후 리야드에서 발사된 미사일 격추",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/11/10/saudi-arabia-downs-missiles-fired-at-riyadh-after-houthi-attack-on-pipeline?traffic_source=rss",
+   "at": "2026-11-10T03:17:51.000Z",
+   "ev": [
+    "yemen"
+   ],
+   "cc": [
+    "Saudi Arabia"
+   ]
+  },
+  {
    "id": "d2bc1bd42d05",
-   "t": "Donald Trump doubles down on defense of Pete Hegseth and attacks fresh effort to impeach him – live",
-   "ko": "도널드 트럼프(Donald Trump)는 피트 헤그세스(Pete Hegseth)를 옹호하고 그를 탄핵하려는 새로운 노력을 공격합니다 – 라이브",
+   "t": "Donald Trump doubles down on defense of Pete Hegseth and attacks fresh effort to impeach him – as it happened",
+   "ko": "도널드 트럼프는 피트 헤그세스를 옹호하고 그를 탄핵하려는 새로운 노력을 공격했습니다.",
    "src": "The Guardian",
    "u": "https://www.theguardian.com/us-news/live/2026/nov/09/donald-trump-stephen-miller-immigration-midterms-iran-qatar-economy-latest-news-updates",
-   "at": "2026-11-09T23:02:28.000Z",
+   "at": "2026-11-10T03:00:40.000Z",
+   "ev": [
+    "iran"
+   ],
+   "cc": [
+    "United States",
+    "China"
+   ]
+  },
+  {
+   "id": "a04fd7adeba6",
+   "t": "Russia, Ukraine and US to meet as Zelenskyy claims battlefield successes",
+   "ko": "Zelenskyy가 전장에서의 성공을 주장함에 따라 러시아, 우크라이나 및 미국이 만나다",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/11/10/russia-ukraine-and-us-to-meet-as-zelenskyy-claims-battlefield-successes?traffic_source=rss",
+   "at": "2026-11-10T02:45:14.000Z",
+   "ev": [
+    "ukraine"
+   ],
+   "cc": [
+    "Russia",
+    "Ukraine",
+    "United States"
+   ]
+  },
+  {
+   "id": "21afff549638",
+   "t": "Amnesty urges El Salvador to disclose terms of Haiti troop deployment",
+   "ko": "앰네스티, 엘살바도르에 아이티 파병 조건 공개 촉구",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/americas/20261110-amnesty-urges-el-salvador-to-disclose-terms-of-haiti-troop-deployment",
+   "at": "2026-11-10T02:24:22.000Z",
+   "ev": [
+    "haiti"
+   ],
+   "cc": [
+    "El Salvador",
+    "Haiti"
+   ]
+  },
+  {
+   "id": "b8309b7ae717",
+   "t": "Poll finds Americans less likely to back pro-war candidates by 3-1 margin",
+   "ko": "여론조사에 따르면 미국인들은 전쟁 지지 후보를 지지할 가능성이 3대 1로 낮습니다.",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/11/10/poll-finds-voters-preferred-candidates-who-opposed-iran-war-by-3-1-margin?traffic_source=rss",
+   "at": "2026-11-10T01:56:47.000Z",
+   "ev": [
+    "iran"
+   ],
+   "cc": [
+    "United States",
+    "Iran"
+   ]
+  },
+  {
+   "id": "a976a69a6b3e",
+   "t": "Trump signals ‘positive momentum’ with Iran after meeting Qatari PM",
+   "ko": "트럼프, 카타르 총리와 회담 후 이란에 '긍정적 모멘텀' 시사",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/video/newsfeed/2026/11/10/trump-signals-positive-momentum-with-iran-after-meeting-qatari-pm?traffic_source=rss",
+   "at": "2026-11-10T01:00:00.000Z",
+   "ev": [
+    "iran"
+   ],
+   "cc": [
+    "Iran",
+    "Qatar"
+   ]
+  },
+  {
+   "id": "c32ad64abc81",
+   "t": "The superpower battle over energy – and what it means for your bills",
+   "ko": "에너지를 둘러싼 초강대국 전쟁 – 이것이 청구서에 미치는 영향",
+   "src": "BBC",
+   "u": "https://www.bbc.co.uk/news/articles/cw62y2z53pg1o?at_medium=RSS&at_campaign=rss",
+   "at": "2026-11-10T00:08:28.000Z",
+   "ev": [],
+   "cc": [
+    "China",
+    "United States"
+   ]
+  },
+  {
+   "id": "e73608bde593",
+   "t": "Iran war live: Iran demands US ‘surrender’ to its conditions",
+   "ko": "이란 전쟁 라이브: 이란은 미국에게 자국의 조건에 대한 '항복'을 요구합니다.",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/liveblog/2026/11/9/iran-war-live-trump-says-war-effectively-over-iran-demands-surrender?traffic_source=rss",
+   "at": "2026-11-09T23:55:23.000Z",
    "ev": [
     "iran"
    ],
    "cc": [
     "Iran",
     "United States",
-    "China"
+    "Qatar"
+   ]
+  },
+  {
+   "id": "7aa169913aa7",
+   "t": "Trump, Rubio defend Hegseth as impeachment bid nears",
+   "ko": "탄핵 입찰이 가까워지면서 트럼프와 루비오, 헤그세스를 변호하다",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/video/newsfeed/2026/11/9/trump-rubio-defend-hegseth-as-impeachment-bid-nears?traffic_source=rss",
+   "at": "2026-11-09T23:47:11.000Z",
+   "ev": [
+    "iran"
+   ],
+   "cc": [
+    "United States",
+    "Iran"
+   ]
+  },
+  {
+   "id": "a42178199a19",
+   "t": "New trilateral talks on Ukraine war in Abu Dhabi: What to expect?",
+   "ko": "아부다비에서 열리는 우크라이나 전쟁에 관한 새로운 삼자 회담: 무엇을 기대할까요?",
+   "src": "DW",
+   "u": "https://www.dw.com/en/new-trilateral-talks-on-ukraine-war-in-abu-dhabi-what-to-expect/a-79905734?maca=en-rss-en-world-4025-rdf",
+   "at": "2026-11-09T23:46:00.000Z",
+   "ev": [
+    "ukraine"
+   ],
+   "cc": [
+    "Ukraine",
+    "Russia"
    ]
   },
   {
@@ -80,8 +238,8 @@
   },
   {
    "id": "ee6742e73a89",
-   "t": "Trump calls Iran war ‘effectively over’ after talks with Qatar PM",
-   "ko": "트럼프, 카타르 총리와 회담 후 이란 전쟁 '효과적으로 끝났다'",
+   "t": "After meeting Qatar PM, Trump calls Iran war ‘effectively over’ militarily",
+   "ko": "트럼프, 카타르 총리 만난 뒤 이란 전쟁 군사적 '효과적으로 끝났다'",
    "src": "Al Jazeera",
    "u": "https://www.aljazeera.com/news/2026/11/9/trump-calls-iran-war-effectively-over-after-talks-with-qatar-pm?traffic_source=rss",
    "at": "2026-11-09T22:31:19.000Z",
@@ -89,9 +247,8 @@
     "iran"
    ],
    "cc": [
-    "Iran",
     "Qatar",
-    "United States"
+    "Iran"
    ]
   },
   {
@@ -108,16 +265,6 @@
     "France",
     "Iran"
    ]
-  },
-  {
-   "id": "af48d2ce612c",
-   "t": "Todd Russell, Beaconsfield mine collapse survivor, dies aged 54 due to illness",
-   "ko": "비콘스필드 광산 붕괴 생존자 토드 러셀(Todd Russell), 질병으로 인해 54세의 나이로 사망",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/australia-news/2026/nov/10/todd-russell-dies-beaconsfield-mine-collapse-survivor-death-illness-aged-54",
-   "at": "2026-11-09T22:26:31.000Z",
-   "ev": [],
-   "cc": []
   },
   {
    "id": "27c4daec6738",
@@ -1698,83 +1845,6 @@
    ],
    "cc": [
     "Colombia"
-   ]
-  },
-  {
-   "id": "b3534df0c874",
-   "t": "Houthis say at least 33 killed in Saudi air strike",
-   "ko": "후티 반군 \"사우디 공습으로 최소 33명 사망\"",
-   "src": "BBC",
-   "u": "https://www.bbc.co.uk/news/articles/c65yn1v99ypmo?at_medium=RSS&at_campaign=rss",
-   "at": "2026-11-08T04:03:12.000Z",
-   "ev": [
-    "yemen"
-   ],
-   "cc": [
-    "Saudi Arabia",
-    "Yemen"
-   ]
-  },
-  {
-   "id": "b1be3b5762d7",
-   "t": "Trump asks UFC chief Dana White to be White House press secretary",
-   "ko": "트럼프, 데이나 화이트 UFC 대표에게 백악관 대변인 자리 요청",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/news/2026/11/8/trump-asks-ufc-chief-dana-white-to-be-white-house-press-secretary?traffic_source=rss",
-   "at": "2026-11-08T03:12:44.000Z",
-   "ev": [],
-   "cc": [
-    "United States"
-   ]
-  },
-  {
-   "id": "403053207322",
-   "t": "Canary Islands’ El Hierro declares emergency amid migrant, refugee influx",
-   "ko": "카나리아 제도의 엘 히에로(El Hierro), 이민자·난민 유입으로 비상사태 선포",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/news/2026/11/8/canary-islands-el-hierro-declares-emergency-amid-migrant-refugee-influx?traffic_source=rss",
-   "at": "2026-11-08T01:37:55.000Z",
-   "ev": [],
-   "cc": [
-    "Spain"
-   ]
-  },
-  {
-   "id": "ae905b2cfb5f",
-   "t": "Polish PM calls deadly Krakow shooting an act of ‘terrorism’",
-   "ko": "폴란드 총리는 치명적인 크라쿠프 총격 사건을 '테러 행위'라고 불렀습니다.",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/video/newsfeed/2026/11/8/polish-pm-calls-deadly-krakow-shooting-an-act-of?traffic_source=rss",
-   "at": "2026-11-08T00:50:28.000Z",
-   "ev": [],
-   "cc": []
-  },
-  {
-   "id": "acbc26952a99",
-   "t": "Victoria Barracks in Sydney and Melbourne to remain in public hands after partial backtrack on defence property selloff",
-   "ko": "국방 자산 매각이 부분적으로 철회된 후 시드니와 멜버른의 빅토리아 막사(Victoria Barracks)는 공공 소유로 유지됩니다",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/australia-news/2026/nov/08/victoria-barracks-sydney-and-melbourne-remain-in-public-hands-backtrack-defence-property-sale-albanese-marles",
-   "at": "2026-11-08T00:17:28.000Z",
-   "ev": [],
-   "cc": [
-    "Australia"
-   ]
-  },
-  {
-   "id": "99179248bf96",
-   "t": "Iran war live: US moves to block land supply routes; UAE rescues 22 sailors",
-   "ko": "이란 전쟁 라이브: 미국은 토지 공급 경로를 차단하려고 움직임; UAE, 선원 22명 구조",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/news/liveblog/2026/11/8/iran-war-live-explosions-hit-qeshm-us-moves-to-block-land-supply-routes?traffic_source=rss",
-   "at": "2026-11-08T00:00:56.000Z",
-   "ev": [
-    "iran"
-   ],
-   "cc": [
-    "Iran",
-    "United States",
-    "United Arab Emirates"
    ]
   }
  ]
