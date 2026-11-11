@@ -1,141 +1,171 @@
 {
- "updated": "2026-11-10",
+ "updated": "2026-11-11",
  "news": {
   "ukraine": [
    {
-    "date": "2026-11-09",
-    "text": "What to expect as Russia, Ukraine and the US hold trilateral talks in Abu Dhabi",
-    "ko": "러시아, 우크라이나, 미국이 아부다비에서 3자 회담을 가질 때 예상되는 것",
+    "date": "2026-11-10",
+    "text": "A third round of United States-mediated talks between Ukrainian and Russian delegations begins in Abu Dhabi, United Arab Emirates, focusing on the humanitarian impact of the war, prisoners of war, and security guarantees. Earlier in the day, the American and Ukrainian teams held a separate meeting with representatives of the United Kingdom, France, Germany, Italy, NATO, and the European Commission.",
+    "sources": [
+     {
+      "t": "AP",
+      "u": "https://apnews.com/article/russia-ukraine-war-putin-zelenskyy-uae-3d878a3e56d5df5bd198a6d20c824d18"
+     },
+     {
+      "t": "DW",
+      "u": "https://www.dw.com/en/us-russia-and-ukraine-start-talks-in-abu-dhabi/live-79906232"
+     },
+     {
+      "t": "The Guardian",
+      "u": "https://www.theguardian.com/world/2026/nov/10/us-officials-russia-ukraine-war-abu-dhabi-talks"
+     }
+    ],
+    "ko": null
+   },
+   {
+    "date": "2026-11-10",
+    "text": "Russia expels Moldovan diplomat in tit-for-tat move",
+    "ko": null,
+    "sources": [
+     {
+      "t": "Al Jazeera",
+      "u": "https://www.aljazeera.com/news/2026/11/10/russia-expels-moldovan-diplomat-in-tit-for-tat-move?traffic_source=rss"
+     }
+    ]
+   },
+   {
+    "date": "2026-11-10",
+    "text": "'Europe not going anywhere': G7 summit a 'signal to Russians' that Europe is standing behind Ukraine",
+    "ko": null,
     "sources": [
      {
       "t": "France 24",
-      "u": "https://www.france24.com/en/europe/20261109-what-to-expect-as-russia-ukraine-and-us-hold-trilateral-talks-in-abu-dhabi"
+      "u": "https://www.france24.com/en/europe-not-going-anywhere-g7-summit-a-signal-to-russians-that-europe-is-standing-behind-ukraine"
      }
     ]
    },
    {
-    "date": "2026-11-09",
-    "text": "South Africa detains foreigners suspected of heading to join Russian forces",
-    "ko": "남아공, 러시아군 합류 위해 향하는 외국인 억류",
+    "date": "2026-11-10",
+    "text": "Meet the Peaky Blinders, Ukraine's drone unit protecting a devastated front-line city",
+    "ko": "황폐화된 최전선 도시를 보호하는 우크라이나의 드론 유닛 Peaky Blinders를 만나보세요",
     "sources": [
      {
-      "t": "Al Jazeera",
-      "u": "https://www.aljazeera.com/news/2026/11/9/south-africa-detains-foreigners-suspected-of-heading-to-join-russian-forces?traffic_source=rss"
+      "t": "BBC",
+      "u": "https://www.bbc.co.uk/news/videos/cm2l4l59gjp7o?at_medium=RSS&at_campaign=rss"
      }
     ]
    },
    {
-    "date": "2026-11-09",
-    "text": "Russian investigative newspaper Novaya Gazeta closes citing gov’t clampdown",
-    "ko": "러시아 탐사보도인 노바야 가제타(Novaya Gazeta)는 정부의 탄압을 이유로 폐간됐다.",
-    "sources": [
-     {
-      "t": "Al Jazeera",
-      "u": "https://www.aljazeera.com/news/2026/11/9/russian-investigative-newspaper-novaya-gazeta-closes-citing-govt-clampdown?traffic_source=rss"
-     }
-    ]
-   },
-   {
-    "date": "2026-11-09",
-    "text": "Poland’s justice minister says investigation into Kraków shooting will aim to establish if the 24-year-old acted alone – Europe live",
-    "ko": "폴란드 법무장관은 크라쿠프 총격 사건에 대한 조사가 24세의 혼자 행동했는지 여부를 밝히는 것을 목표로 할 것이라고 말했습니다 – 유럽 라이브",
+    "date": "2026-11-10",
+    "text": "Russia-Ukraine talks ‘very productive,’ says US’s Rubio – as it happened",
+    "ko": "러시아-우크라이나 대화가 '매우 생산적'이라고 미국의 루비오가 말했습니다.",
     "sources": [
      {
       "t": "The Guardian",
-      "u": "https://www.theguardian.com/world/live/2026/nov/09/polands-krakow-attack-ukraine-russia-france-germany-europe-latest-news"
+      "u": "https://www.theguardian.com/world/live/2026/nov/10/ukraine-russia-war-us-talks-abu-dhabi-europe-latest-news-updates"
      }
     ]
    },
    {
-    "date": "2026-11-09",
-    "text": "Security Council LIVE: Strikes on Ukraine’s power grid, as peace talks loom",
-    "ko": "안보리 라이브: 평화 회담이 다가옴에 따라 우크라이나 전력망에 대한 파업",
+    "date": "2026-11-10",
+    "text": "Inside devastated front-line city that Russia wants Ukraine to give up",
+    "ko": "러시아가 우크라이나가 포기하길 원하는 황폐화된 최전선 도시 내부",
     "sources": [
      {
-      "t": "UN News",
-      "u": "https://news.un.org/feed/view/en/story/2026/11/1168761"
+      "t": "BBC",
+      "u": "https://www.bbc.co.uk/news/articles/cq0memrywvzro?at_medium=RSS&at_campaign=rss"
      }
     ]
    },
    {
-    "date": "2026-11-09",
-    "text": "New James Bond actor expected 'within weeks' as 'unexpected' frontrunners emerge",
-    "ko": "'예상치 못한' 선두 주자가 등장함에 따라 새로운 제임스 본드 배우는 '몇 주 안에' 예상됩니다.",
-    "sources": [
-     {
-      "t": "France 24",
-      "u": "https://www.france24.com/en/tv-shows/press-review/20261109-new-james-bond-actor-expected-within-weeks-as-unexpected-frontrunners-emerge"
-     }
-    ]
-   },
-   {
-    "date": "2026-11-09",
-    "text": "At least four people killed as Russia and Ukraine trade strikes overnight",
-    "ko": "러시아와 우크라이나가 밤새 무역 파업으로 최소 4명이 사망했다.",
-    "sources": [
-     {
-      "t": "Al Jazeera",
-      "u": "https://www.aljazeera.com/news/2026/11/9/at-least-one-person-killed-as-russia-and-ukraine-trade-strikes-overnight?traffic_source=rss"
-     }
-    ]
-   },
-   {
-    "date": "2026-11-09",
-    "text": "European troops in Poland: 'Coalition of the Willing' holds military exercises",
-    "ko": "폴란드 주둔 유럽군: '의지 연합'이 군사 훈련을 실시합니다.",
-    "sources": [
-     {
-      "t": "France 24",
-      "u": "https://www.france24.com/en/video/20261109-european-troops-in-poland-coalition-of-the-willing-holds-military-exercises"
-     }
-    ]
-   },
-   {
-    "date": "2026-11-09",
-    "text": "Europe to press US on Ukraine peace and Iran at Paris G7 talks",
-    "ko": "유럽, 파리 G7 회담에서 우크라이나 평화와 이란 문제로 미국 압박",
-    "sources": [
-     {
-      "t": "France 24",
-      "u": "https://www.france24.com/en/france/20261109-europa-us-ukraine-peace-iran-paris-g7-ministers"
-     }
-    ]
-   },
-   {
-    "date": "2026-11-08",
-    "text": "Ukraine: Russian strikes leave hundreds of thousands without power",
-    "ko": "우크라이나: 러시아의 공습으로 수십만명의 전력 공급 중단",
-    "sources": [
-     {
-      "t": "France 24",
-      "u": "https://www.france24.com/en/ukraine-russian-strikes-leave-hundreds-of-thousands-without-power"
-     }
-    ]
-   },
-   {
-    "date": "2026-11-08",
-    "text": "Europe will take part in US-mediated Ukraine talks in Abu Dhabi, French FM says",
-    "ko": "유럽은 미국이 중재하는 아부다비에서 열리는 우크라이나 회담에 참여할 것이라고 프랑스 FM이 밝혔습니다.",
-    "sources": [
-     {
-      "t": "France 24",
-      "u": "https://www.france24.com/en/europe/20261108-europe-will-take-part-us-mediated-ukraine-peace-talks-abu-dhabi-french-fm-says"
-     }
-    ]
-   },
-   {
-    "date": "2026-11-08",
-    "text": "US datacenter demand spurs increased fossil fuel pipeline projects as rules are discarded",
-    "ko": "미국 데이터 센터 수요로 인해 규칙이 폐기됨에 따라 화석 연료 파이프라인 프로젝트 증가",
+    "date": "2026-11-10",
+    "text": "US officials seek ‘final end’ to Russia-Ukraine war, as Abu Dhabi talks set to continue",
+    "ko": "미국 관리들은 아부다비 회담이 계속되는 가운데 러시아-우크라이나 전쟁의 '최종 종식'을 모색하고 있습니다.",
     "sources": [
      {
       "t": "The Guardian",
-      "u": "https://www.theguardian.com/us-news/2026/nov/08/datacenters-fossil-fuel-pipelines-regulations"
+      "u": "https://www.theguardian.com/world/2026/nov/10/us-officials-russia-ukraine-war-abu-dhabi-talks"
+     }
+    ]
+   },
+   {
+    "date": "2026-11-10",
+    "text": "G7 talks in Paris try to tackle global crises with uncertainty high over US approach",
+    "ko": "파리의 G7 회담은 미국의 접근 방식에 대한 불확실성이 높은 글로벌 위기를 해결하려고 노력합니다.",
+    "sources": [
+     {
+      "t": "France 24",
+      "u": "https://www.france24.com/en/video/20261110-g7-talks-in-paris-try-to-tackle-global-crises-with-uncertainty-high-over-us-approach"
+     }
+    ]
+   },
+   {
+    "date": "2026-11-10",
+    "text": "US-mediated talks on ending Russia-Ukraine war begin in Abu Dhabi",
+    "ko": "러시아-우크라이나 전쟁 종식을 위한 미국 중재 회담이 아부다비에서 시작됩니다",
+    "sources": [
+     {
+      "t": "France 24",
+      "u": "https://www.france24.com/en/video/20261110-us-mediated-talks-on-ending-russia-ukraine-war-begin-in-abu-dhabi"
+     }
+    ]
+   },
+   {
+    "date": "2026-11-10",
+    "text": "Ukraine peace talks: Who is sitting at the negotiating table – and why it matters",
+    "ko": "우크라이나 평화 회담: 협상 테이블에 누가 앉아 있는지, 그리고 그것이 중요한 이유",
+    "sources": [
+     {
+      "t": "France 24",
+      "u": "https://www.france24.com/en/video/20261110-ukraine-peace-talks-who-is-sitting-at-the-negotiating-table-%E2%80%93-and-why-it-matters"
+     }
+    ]
+   },
+   {
+    "date": "2026-11-10",
+    "text": "Russia and Ukraine hold nearly 4 hours of U.S.-mediated talks in Abu Dhabi",
+    "ko": "러시아와 우크라이나는 아부다비에서 미국이 중재하는 회담을 약 4시간 동안 진행했습니다.",
+    "sources": [
+     {
+      "t": "NPR",
+      "u": "https://www.npr.org/2026/11/10/g-s1-152773/russia-ukraine-war-talks"
+     }
+    ]
+   },
+   {
+    "date": "2026-11-10",
+    "text": "Russia and Ukraine hold US-backed talks after Trump says broad deal is possible",
+    "ko": "트럼프가 광범위한 협상이 가능하다고 말한 후 러시아와 우크라이나는 미국이 지원하는 회담을 가졌습니다.",
+    "sources": [
+     {
+      "t": "France 24",
+      "u": "https://www.france24.com/en/video/20261110-russia-and-ukraine-hold-us-backed-talks-after-trump-says-broad-deal-is-possible"
      }
     ]
    }
   ],
   "sudan": [
+   {
+    "date": "2026-11-11",
+    "text": "Real Madrid's Vinícius Jr sends surprise message to boy who lost his legs in Sudan's war",
+    "ko": null,
+    "sources": [
+     {
+      "t": "BBC",
+      "u": "https://www.bbc.co.uk/news/articles/cqm26mmpp2p1o?at_medium=RSS&at_campaign=rss"
+     }
+    ]
+   },
+   {
+    "date": "2026-11-10",
+    "text": "Sudan war: First ‘suicide’ drone attacks, now long-range strikes are the norm",
+    "ko": "수단 전쟁: 최초의 '자살' 드론 공격, 이제는 장거리 공격이 표준",
+    "sources": [
+     {
+      "t": "UN News",
+      "u": "https://news.un.org/feed/view/en/story/2026/11/1168771"
+     }
+    ]
+   },
    {
     "date": "2026-11-09",
     "text": "Sudan teachers go on strike over meagre salaries and dilapidated schools",
@@ -245,165 +275,165 @@
       "u": "https://www.france24.com/en/south-africans-vote-in-key-municipal-elections"
      }
     ]
-   },
-   {
-    "date": "2026-11-04",
-    "text": "Sudanese Arab refugees face hostility and distrust after fleeing to Chad",
-    "ko": "차드로 탈출한 수단 아랍 난민들은 적대감과 불신에 직면",
-    "sources": [
-     {
-      "t": "France 24",
-      "u": "https://www.france24.com/en/video/20261104-sudanese-arab-refugees-face-hostility-and-distrust-after-fleeing-to-chad"
-     }
-    ]
-   },
-   {
-    "date": "2026-11-03",
-    "text": "‘This is not about politics. This is about people’: UN warns of impact of deadly drone strikes in Sudan",
-    "ko": "'이것은 정치에 관한 것이 아닙니다. 이것은 사람에 관한 것입니다. 'UN은 수단에서 치명적인 드론 공격의 영향을 경고합니다.",
-    "sources": [
-     {
-      "t": "UN News",
-      "u": "https://news.un.org/feed/view/en/story/2026/11/1168731"
-     }
-    ]
    }
   ],
   "iran": [
    {
-    "date": "2026-11-09",
-    "text": "Donald Trump doubles down on defense of Pete Hegseth and attacks fresh effort to impeach him – live",
-    "ko": "도널드 트럼프(Donald Trump)는 피트 헤그세스(Pete Hegseth)를 옹호하고 그를 탄핵하려는 새로운 노력을 공격합니다 – 라이브",
+    "date": "2026-11-11",
+    "text": "Pentagon declares ‘total victory’ after House Republicans block effort to impeach Pete Hegseth – US politics live",
+    "ko": null,
     "sources": [
      {
       "t": "The Guardian",
-      "u": "https://www.theguardian.com/us-news/live/2026/nov/09/donald-trump-stephen-miller-immigration-midterms-iran-qatar-economy-latest-news-updates"
+      "u": "https://www.theguardian.com/us-news/live/2026/nov/10/donald-trump-pete-hegseth-thomas-massie-republicans-iran-war-impeachment-midterms-latest-news-updates"
      }
     ]
    },
    {
-    "date": "2026-11-09",
-    "text": "Trump says US war in Iran ‘effectively over’ as he plays down escalation concerns",
-    "ko": "트럼프 \"이란 전쟁은 사실상 끝났다\"",
-    "sources": [
-     {
-      "t": "The Guardian",
-      "u": "https://www.theguardian.com/us-news/2026/nov/09/trump-iran-war"
-     }
-    ]
-   },
-   {
-    "date": "2026-11-09",
-    "text": "US Defense Secretary Hegseth faces expected impeachment vote this week",
-    "ko": "헤그세스 미 국방장관, 이번 주 탄핵 표결 예상",
-    "sources": [
-     {
-      "t": "France 24",
-      "u": "https://www.france24.com/en/us-defense-secretary-hegseth-faces-expected-impeachment-vote-this-week"
-     }
-    ]
-   },
-   {
-    "date": "2026-11-09",
-    "text": "Trump calls Iran war ‘effectively over’ after talks with Qatar PM",
-    "ko": "트럼프, 카타르 총리와 회담 후 이란 전쟁 '효과적으로 끝났다'",
+    "date": "2026-11-11",
+    "text": "Iran war live: Hegseth survives impeachment bid; Iran denies US talks",
+    "ko": null,
     "sources": [
      {
       "t": "Al Jazeera",
-      "u": "https://www.aljazeera.com/news/2026/11/9/trump-calls-iran-war-effectively-over-after-talks-with-qatar-pm?traffic_source=rss"
+      "u": "https://www.aljazeera.com/news/liveblog/2026/11/11/iran-war-live-hegseth-survives-impeachment-bid-iran-denies-us-talks?traffic_source=rss"
      }
     ]
    },
    {
-    "date": "2026-11-09",
-    "text": "France accuses Iran of cyber 'sabotage' in fridge attacks",
-    "ko": "프랑스, 이란의 냉장고 공격 사이버 '사보타주' 비난",
-    "sources": [
-     {
-      "t": "NPR",
-      "u": "https://www.npr.org/2026/11/09/g-s1-152724/france-iran-cyber-sabotage-fridge-attacks"
-     }
-    ]
-   },
-   {
-    "date": "2026-11-09",
-    "text": "Paris prosecutor opens probe into IRGC cyber unit Shahid Kaveh over fridge cyberattacks",
-    "ko": "파리 검찰, 냉장고 사이버 공격과 관련하여 IRGC 사이버 부서 Shahid Kaveh에 대한 조사 시작",
-    "sources": [
-     {
-      "t": "France 24",
-      "u": "https://www.france24.com/en/paris-prosecutor-opens-probe-into-irgc-cyber-unit-shahid-kaveh-over-fridge-cyberattacks"
-     }
-    ]
-   },
-   {
-    "date": "2026-11-09",
-    "text": "Cyber-attack on French supermarket freezers has geopolitical context",
-    "ko": "프랑스 슈퍼마켓 냉동고에 대한 사이버 공격은 지정학적 맥락을 가지고 있습니다.",
+    "date": "2026-11-10",
+    "text": "House Republicans block effort to impeach Pentagon chief Pete Hegseth",
+    "ko": null,
     "sources": [
      {
       "t": "The Guardian",
-      "u": "https://www.theguardian.com/technology/2026/nov/09/cyber-attack-french-supermarket-freezers-iran-europe"
+      "u": "https://www.theguardian.com/us-news/2026/nov/10/pete-hegseth-impeachment-effort"
      }
     ]
    },
    {
-    "date": "2026-11-09",
-    "text": "'We think' the Iranians and Americans want to negotiate, Egyptian FM says",
-    "ko": "이집트 FM \"우리는 이란과 미국이 협상을 원한다고 생각한다\"",
+    "date": "2026-11-10",
+    "text": "Republicans elect Jim Jordan as House minority leader after midterm defeats",
+    "ko": null,
     "sources": [
      {
-      "t": "France 24",
-      "u": "https://www.france24.com/en/tv-shows/t%C3%AAte-%C3%A0-t%C3%AAte/20261109-we-think-the-iranians-and-americans-want-to-negotiate-egyptian-fm-says"
+      "t": "The Guardian",
+      "u": "https://www.theguardian.com/us-news/2026/nov/10/jim-jordan-house-republican-leader"
      }
     ]
    },
    {
-    "date": "2026-11-09",
-    "text": "France opens probe into Iranian cyber unit over fridge attacks",
-    "ko": "프랑스, 냉장고 공격과 관련해 이란 사이버 부대 조사 개시",
-    "sources": [
-     {
-      "t": "France 24",
-      "u": "https://www.france24.com/en/france-opens-probe-into-iranian-cyber-unit-over-fridge-attacks"
-     }
-    ]
-   },
-   {
-    "date": "2026-11-09",
-    "text": "Qatar PM meets with Trump for talks on ending war on Iran",
-    "ko": "카타르 총리, 트럼프 대통령과 만나 이란 전쟁 종식 논의",
+    "date": "2026-11-10",
+    "text": "US House Republicans block Pete Hegseth impeachment effort",
+    "ko": null,
     "sources": [
      {
       "t": "Al Jazeera",
-      "u": "https://www.aljazeera.com/video/newsfeed/2026/11/9/qatar-pm-meets-with-trump-for-talks-on-ending-war-on-iran?traffic_source=rss"
+      "u": "https://www.aljazeera.com/news/2026/11/10/us-house-begins-vote-on-motion-to-advance-impeachment-of-pete-hegseth?traffic_source=rss"
      }
     ]
    },
    {
-    "date": "2026-11-09",
-    "text": "Iran was behind cyber-attack on French supermarket freezers, Paris says",
-    "ko": "프랑스 슈퍼마켓 냉동고 사이버 공격 배후에 이란이 있었다고 파리가 밝혔습니다.",
+    "date": "2026-11-10",
+    "text": "US charges three 'Iranian operatives' over RAF Fairford terror plot",
+    "ko": null,
+    "sources": [
+     {
+      "t": "France 24",
+      "u": "https://www.france24.com/en/americas/20261110-us-iranian-operatives-raf-fairford-terror-plot"
+     }
+    ]
+   },
+   {
+    "date": "2026-11-10",
+    "text": "US prosecutors charge Iranian operative allegedly responsible for UK air force base attack",
+    "ko": null,
     "sources": [
      {
       "t": "The Guardian",
-      "u": "https://www.theguardian.com/world/2026/nov/09/france-blames-irans-revolutionary-guards-for-cyber-attacks-on-supermarket-fridges"
+      "u": "https://www.theguardian.com/us-news/2026/nov/10/prosecutors-charge-iranian-operative-uk-air-force-attack"
      }
     ]
    },
    {
-    "date": "2026-11-09",
-    "text": "Strait of Hormuz still a source of leverage for Iran",
-    "ko": "호르무즈 해협은 여전히 ​​이란의 지렛대 역할을 하고 있다.",
+    "date": "2026-11-10",
+    "text": "US voters want Democrats focused on ending Iran war, lowering costs: Poll",
+    "ko": "미국 유권자들은 민주당이이란 전쟁 종식과 비용 절감에 집중하기를 원합니다 : 여론 조사",
     "sources": [
      {
-      "t": "DW",
-      "u": "https://www.dw.com/en/strait-of-hormuz-still-a-source-of-leverage-for-iran/a-79901647?maca=en-rss-en-world-4025-rdf"
+      "t": "Al Jazeera",
+      "u": "https://www.aljazeera.com/news/2026/11/10/most-americans-want-democrats-focused-on-ending-iran-war-lowering-costs?traffic_source=rss"
+     }
+    ]
+   },
+   {
+    "date": "2026-11-10",
+    "text": "US petrol prices are down, but elevated inflation continues",
+    "ko": "미국 휘발유 가격은 하락했지만 인플레이션은 계속 상승",
+    "sources": [
+     {
+      "t": "Al Jazeera",
+      "u": "https://www.aljazeera.com/news/2026/11/10/us-petrol-prices-are-down-but-elevated-inflation-continues?traffic_source=rss"
+     }
+    ]
+   },
+   {
+    "date": "2026-11-10",
+    "text": "Iran backs nuclear treaty even as hardliners raise prospect of bomb",
+    "ko": "이란, 강경파가 폭탄 투하 가능성을 제기하는 가운데에도 핵 조약 지지",
+    "sources": [
+     {
+      "t": "Al Jazeera",
+      "u": "https://www.aljazeera.com/news/2026/11/10/iran-backs-nuclear-treaty-even-as-hardliners-raise-prospect-of-bomb?traffic_source=rss"
+     }
+    ]
+   },
+   {
+    "date": "2026-11-10",
+    "text": "Russia-Ukraine talks ‘very productive,’ says US’s Rubio – as it happened",
+    "ko": "러시아-우크라이나 대화가 '매우 생산적'이라고 미국의 루비오가 말했습니다.",
+    "sources": [
+     {
+      "t": "The Guardian",
+      "u": "https://www.theguardian.com/world/live/2026/nov/10/ukraine-russia-war-us-talks-abu-dhabi-europe-latest-news-updates"
+     }
+    ]
+   },
+   {
+    "date": "2026-11-10",
+    "text": "US officials seek ‘final end’ to Russia-Ukraine war, as Abu Dhabi talks set to continue",
+    "ko": "미국 관리들은 아부다비 회담이 계속되는 가운데 러시아-우크라이나 전쟁의 '최종 종식'을 모색하고 있습니다.",
+    "sources": [
+     {
+      "t": "The Guardian",
+      "u": "https://www.theguardian.com/world/2026/nov/10/us-officials-russia-ukraine-war-abu-dhabi-talks"
      }
     ]
    }
   ],
   "yemen": [
+   {
+    "date": "2026-11-11",
+    "text": "Pentagon declares ‘total victory’ after House Republicans block effort to impeach Pete Hegseth – US politics live",
+    "ko": null,
+    "sources": [
+     {
+      "t": "The Guardian",
+      "u": "https://www.theguardian.com/us-news/live/2026/nov/10/donald-trump-pete-hegseth-thomas-massie-republicans-iran-war-impeachment-midterms-latest-news-updates"
+     }
+    ]
+   },
+   {
+    "date": "2026-11-10",
+    "text": "Saudi Arabia downs missiles fired at Riyadh after Houthi attack on pipeline",
+    "ko": "사우디아라비아, 후티 반군 파이프라인 공격 후 리야드에서 발사된 미사일 격추",
+    "sources": [
+     {
+      "t": "Al Jazeera",
+      "u": "https://www.aljazeera.com/news/2026/11/10/saudi-arabia-downs-missiles-fired-at-riyadh-after-houthi-attack-on-pipeline?traffic_source=rss"
+     }
+    ]
+   },
    {
     "date": "2026-11-09",
     "text": "Yemen government forces claim new advances as Houthi border attacks resume",
@@ -517,31 +547,75 @@
       "u": "https://www.bbc.co.uk/news/articles/c65yn1v99ypmo?at_medium=RSS&at_campaign=rss"
      }
     ]
-   },
-   {
-    "date": "2026-11-07",
-    "text": "Yemeni gov’t forces report advances as Houthis say deadly strikes hit Sanaa",
-    "ko": "예멘 정부군, 후티 반군이 치명적인 공습으로 사나를 강타했다고 발표",
-    "sources": [
-     {
-      "t": "Al Jazeera",
-      "u": "https://www.aljazeera.com/news/2026/11/7/yemeni-govt-forces-report-advances-as-houthis-say-deadly-strikes-hit-sanaa?traffic_source=rss"
-     }
-    ]
-   },
-   {
-    "date": "2026-11-07",
-    "text": "Houthis report 25 killed in Yemen strikes",
-    "ko": "후티 반군, 예멘 공습으로 25명 사망",
-    "sources": [
-     {
-      "t": "Al Jazeera",
-      "u": "https://www.aljazeera.com/video/newsfeed/2026/11/7/houthis-report-25-killed-in-yemen-strikes?traffic_source=rss"
-     }
-    ]
    }
   ],
   "gaza": [
+   {
+    "date": "2026-11-10",
+    "text": "Eisenkot pushes October 7 inquiry as Netanyahu targets Arab parties in tense new parliament",
+    "ko": null,
+    "sources": [
+     {
+      "t": "France 24",
+      "u": "https://www.france24.com/en/middle-east/20261110-eisenkot-pushes-october-7-inquiry-as-netanyahu-targets-arab-parties-in-tense-new-parliament"
+     }
+    ]
+   },
+   {
+    "date": "2026-11-10",
+    "text": "Father, child among eight Palestinians killed in Israeli attacks on Gaza",
+    "ko": "이스라엘 가자지구 공격으로 팔레스타인인 8명 중 아버지와 자녀 사망",
+    "sources": [
+     {
+      "t": "Al Jazeera",
+      "u": "https://www.aljazeera.com/news/2026/11/10/israeli-attacks-kill-at-least-six-in-gaza-including-father-and-son?traffic_source=rss"
+     }
+    ]
+   },
+   {
+    "date": "2026-11-10",
+    "text": "Lewis Hamilton visits Egypt’s Rafah crossing and Gaza aid facilities",
+    "ko": "루이스 해밀턴, 이집트 라파 국경 및 가자 구호 시설 방문",
+    "sources": [
+     {
+      "t": "The Guardian",
+      "u": "https://www.theguardian.com/world/2026/nov/10/lewis-hamilton-egypt-rafah-crossing-gaza-aid-facilities"
+     }
+    ]
+   },
+   {
+    "date": "2026-11-10",
+    "text": "Israel live: Netanyahu bloc targets Arab lawmakers as new parliament is sworn in",
+    "ko": "이스라엘 라이브: 네타냐후 블록은 새 의회가 선서되자 아랍 국회의원들을 표적으로 삼았습니다.",
+    "sources": [
+     {
+      "t": "France 24",
+      "u": "https://www.france24.com/en/middle-east/20261110-live-new-israeli-parliament-sworn-in-eisenkot-aims-to-form-government-netanyahu-knesset"
+     }
+    ]
+   },
+   {
+    "date": "2026-11-10",
+    "text": "New Israel parliament to be sworn in as Eisenkot works to form new govt",
+    "ko": "Eisenkot가 새로운 정부를 구성하기 위해 노력함에 따라 새로운 이스라엘 의회가 선서됩니다",
+    "sources": [
+     {
+      "t": "France 24",
+      "u": "https://www.france24.com/en/video/20261110-new-israel-parliament-to-be-sworn-in-as-eisenkot-works-to-form-new-govt"
+     }
+    ]
+   },
+   {
+    "date": "2026-11-10",
+    "text": "Palestine Weekly: West Bank on fire – and Gaza’s tents under water",
+    "ko": "팔레스타인 주간지: 서안지구에 불이 붙었고, 가자지구는 물속에 텐트를 쳤습니다.",
+    "sources": [
+     {
+      "t": "Al Jazeera",
+      "u": "https://www.aljazeera.com/news/2026/11/10/palestine-weekly-west-bank-on-fire-and-gazas-tents-under?traffic_source=rss"
+     }
+    ]
+   },
    {
     "date": "2026-11-09",
     "text": "Cyber-attack on French supermarket freezers has geopolitical context",
@@ -607,75 +681,20 @@
      }
     ],
     "ko": "가자지구 데이르 엘발라에서 폭우와 홍수로 모래톱이 무너진 후 어린이 4명을 포함해 최소 5명이 사망하고 부상자 여러 명이 구조됐다."
-   },
-   {
-    "date": "2026-11-08",
-    "text": "Deadly sand cliff collapses on displaced families in Gaza",
-    "ko": "가자지구 난민 가족들에게 치명적인 모래 절벽이 무너졌습니다.",
-    "sources": [
-     {
-      "t": "Al Jazeera",
-      "u": "https://www.aljazeera.com/video/newsfeed/2026/11/8/deadly-sand-cliff-collapses-on-displaced-families-in-gaza?traffic_source=rss"
-     }
-    ]
-   },
-   {
-    "date": "2026-11-08",
-    "text": "Gaza: Heavy rain inundates thousands of tents",
-    "ko": "가자지구: 폭우로 수천 개의 텐트가 침수됨",
-    "sources": [
-     {
-      "t": "France 24",
-      "u": "https://www.france24.com/en/gaza-heavy-rain-inundates-thousands-of-tents"
-     }
-    ]
-   },
-   {
-    "date": "2026-11-08",
-    "text": "Photos: Heavy rains leave tens of thousands without shelter in Gaza",
-    "ko": "사진: 가자지구에 폭우로 수만 명이 피난처 없이 대피",
-    "sources": [
-     {
-      "t": "Al Jazeera",
-      "u": "https://www.aljazeera.com/gallery/2026/11/8/photos-heavy-rains-leave-tens-of-thousands-without-shelter-in-gaza?traffic_source=rss"
-     }
-    ]
-   },
-   {
-    "date": "2026-11-07",
-    "text": "Buildings damaged in Israeli bombings risk collapse as rain inundates Gaza",
-    "ko": "이스라엘 폭격으로 파손된 건물, 가자지구에 폭우로 인해 붕괴 위험",
-    "sources": [
-     {
-      "t": "Al Jazeera",
-      "u": "https://www.aljazeera.com/features/2026/11/7/buildings-damaged-in-israel-bombing-at-risk-of-collapse-as-rain-floods-gaza?traffic_source=rss"
-     }
-    ]
-   },
-   {
-    "date": "2026-11-06",
-    "text": "Palestinian couples tie the knot in mass wedding in Gaza",
-    "ko": "팔레스타인 커플, 가자지구에서 대규모 결혼식을 올리다",
-    "sources": [
-     {
-      "t": "Al Jazeera",
-      "u": "https://www.aljazeera.com/video/newsfeed/2026/11/6/palestinian-couples-tie-the-knot-in-mass-wedding-in-gaza?traffic_source=rss"
-     }
-    ]
-   },
-   {
-    "date": "2026-11-05",
-    "text": "Gaza holds final of tournament honouring more than 1,000 slain athletes",
-    "ko": "가자지구, 1000명 이상의 전사한 운동선수를 추모하는 토너먼트 결승전 개최",
-    "sources": [
-     {
-      "t": "Al Jazeera",
-      "u": "https://www.aljazeera.com/video/newsfeed/2026/11/5/gaza-holds-final-of-tournament-honouring-more-than-1000-slain-athletes?traffic_source=rss"
-     }
-    ]
    }
   ],
   "delhi": [
+   {
+    "date": "2026-11-10",
+    "text": "Disgraced former leader Sheikh Hasina plans return to Bangladesh from exile",
+    "ko": "불명예스러운 전 지도자 셰이크 하시나(Sheikh Hasina)가 망명 생활을 마치고 방글라데시로 돌아갈 계획이다.",
+    "sources": [
+     {
+      "t": "The Guardian",
+      "u": "https://www.theguardian.com/world/2026/nov/10/disgraced-former-leader-sheikh-hasina-plans-return-to-bangladesh-after-two-years-in-exile"
+     }
+    ]
+   },
    {
     "date": "2026-11-03",
     "text": "What's behind new India-China border tensions?",
@@ -778,6 +797,50 @@
   ],
   "westbank": [
    {
+    "date": "2026-11-10",
+    "text": "West Bank: Population and healthcare actors, such as MSF, 'still facing movement restrictions'",
+    "ko": null,
+    "sources": [
+     {
+      "t": "France 24",
+      "u": "https://www.france24.com/en/video/20261110-west-bank-population-and-healthcare-actors-such-as-msf-still-facing-movement-restrictions"
+     }
+    ]
+   },
+   {
+    "date": "2026-11-10",
+    "text": "Jerusalem Daily: 14-year-old killed in West Bank raid",
+    "ko": "예루살렘 데일리: 서안 지구 습격으로 14세 소년 사망",
+    "sources": [
+     {
+      "t": "Al Jazeera",
+      "u": "https://www.aljazeera.com/video/newsfeed/2026/11/10/jerusalem-daily-14-year-old-killed-in-west-bank-raid?traffic_source=rss"
+     }
+    ]
+   },
+   {
+    "date": "2026-11-10",
+    "text": "Israeli forces kill Palestinian boy in West Bank, health ministry says",
+    "ko": "이스라엘군, 서안지구에서 팔레스타인 소년 사살했다고 보건부 발표",
+    "sources": [
+     {
+      "t": "BBC",
+      "u": "https://www.bbc.co.uk/news/articles/cqpvgv318yyeo?at_medium=RSS&at_campaign=rss"
+     }
+    ]
+   },
+   {
+    "date": "2026-11-10",
+    "text": "Palestine Weekly: West Bank on fire – and Gaza’s tents under water",
+    "ko": "팔레스타인 주간지: 서안지구에 불이 붙었고, 가자지구는 물속에 텐트를 쳤습니다.",
+    "sources": [
+     {
+      "t": "Al Jazeera",
+      "u": "https://www.aljazeera.com/news/2026/11/10/palestine-weekly-west-bank-on-fire-and-gazas-tents-under?traffic_source=rss"
+     }
+    ]
+   },
+   {
     "date": "2026-11-05",
     "text": "Israeli demolitions displace more than 100 Palestinians in Biddu",
     "ko": "이스라엘의 폭파로 비두에서 팔레스타인인 100명 이상 이주",
@@ -862,50 +925,6 @@
      {
       "t": "Al Jazeera",
       "u": "https://www.aljazeera.com/video/newsfeed/2026/11/3/palestinian-americans-turn-to-us-flags-to-protect-west-bank-homes?traffic_source=rss"
-     }
-    ]
-   },
-   {
-    "date": "2026-11-03",
-    "text": "Israeli forces release Al Jazeera journalist in occupied West Bank",
-    "ko": "이스라엘군, 요르단강 서안지구에서 알자지라 기자 석방",
-    "sources": [
-     {
-      "t": "Al Jazeera",
-      "u": "https://www.aljazeera.com/news/2026/11/3/israeli-forces-arrest-al-jazeera-journalist-in-raid-on-his-west-bank-home?traffic_source=rss"
-     }
-    ]
-   },
-   {
-    "date": "2026-11-03",
-    "text": "Israeli soldiers arrest Al Jazeera journalist in Hebron raids",
-    "ko": "이스라엘군, 헤브론 공습에서 알자지라 기자 체포",
-    "sources": [
-     {
-      "t": "Al Jazeera",
-      "u": "https://www.aljazeera.com/video/newsfeed/2026/11/3/israeli-soldiers-arrest-al-jazeera-journalist-in-hebron-raids?traffic_source=rss"
-     }
-    ]
-   },
-   {
-    "date": "2026-11-02",
-    "text": "Jerusalem Daily: Israel’s lockdown of Hebron comes to an end",
-    "ko": "예루살렘 데일리(Jerusalem Daily): 이스라엘의 헤브론 봉쇄가 끝났습니다",
-    "sources": [
-     {
-      "t": "Al Jazeera",
-      "u": "https://www.aljazeera.com/video/newsfeed/2026/11/2/jerusalem-daily-israels-lockdown-of-hebron-comes-to-an-end?traffic_source=rss"
-     }
-    ]
-   },
-   {
-    "date": "2026-11-02",
-    "text": "Displaced in Hebron: Picking up pieces after Israeli siege",
-    "ko": "헤브론의 난민: 이스라엘의 포위 공격 후 조각을 줍는 모습",
-    "sources": [
-     {
-      "t": "Al Jazeera",
-      "u": "https://www.aljazeera.com/news/2026/11/2/displaced-in-hebron-picking-up-pieces-after-israeli-siege?traffic_source=rss"
      }
     ]
    }
@@ -1094,6 +1113,28 @@
   ],
   "haiti": [
    {
+    "date": "2026-11-10",
+    "text": "Salvadoran troops target Haitian gang, leaving 20 dead",
+    "ko": "엘살바도르군, 아이티 갱단 공격해 20명 사망",
+    "sources": [
+     {
+      "t": "Al Jazeera",
+      "u": "https://www.aljazeera.com/news/2026/11/10/salvadoran-troops-target-haitian-gang-leaving-20-dead?traffic_source=rss"
+     }
+    ]
+   },
+   {
+    "date": "2026-11-10",
+    "text": "Amnesty urges El Salvador to disclose terms of Haiti troop deployment",
+    "ko": "앰네스티, 엘살바도르에 아이티 파병 조건 공개 촉구",
+    "sources": [
+     {
+      "t": "France 24",
+      "u": "https://www.france24.com/en/americas/20261110-amnesty-urges-el-salvador-to-disclose-terms-of-haiti-troop-deployment"
+     }
+    ]
+   },
+   {
     "date": "2026-11-08",
     "text": "Haitians cheer El Salvador’s Bukele amid gang war",
     "ko": "아이티인들은 갱단 전쟁 중에 엘살바도르의 부켈레를 응원합니다",
@@ -1172,6 +1213,17 @@
    }
   ],
   "nigeria": [
+   {
+    "date": "2026-11-10",
+    "text": "Nearly 64,000 flee Nigeria for Niger where a humanitarian crisis is deepening",
+    "ko": "약 64,000명이 나이지리아를 떠나 인도주의적 위기가 심화되고 있는 니제르로 이주",
+    "sources": [
+     {
+      "t": "UN News",
+      "u": "https://news.un.org/feed/view/en/story/2026/11/1168779"
+     }
+    ]
+   },
    {
     "date": "2026-11-05",
     "text": "Nigeria court bars opposition candidate two months before election",
@@ -1502,6 +1554,32 @@
   ],
   "somalia": [
    {
+    "date": "2026-11-10",
+    "text": "At least eight people, including two police reservists, are killed by suspected al-Shabaab militants in Mandera County, Kenya, near the border with Somalia.",
+    "sources": [
+     {
+      "t": "AFP via AA",
+      "u": "https://aa.com.tr/en/africa/suspected-al-shabaab-militants-kill-8-in-northeastern-kenya-ambush/4119429"
+     },
+     {
+      "t": "Internazionale",
+      "u": "https://www.internazionale.it/ultime-notizie-reuters/2026/11/10/eight-people-killed-in-kenya-s-northeast-in-suspected-al-shabaab-attack"
+     }
+    ],
+    "ko": null
+   },
+   {
+    "date": "2026-11-10",
+    "text": "Security forces seized top court, Somalia’s ex-chief justice says",
+    "ko": "보안군이 대법원을 압수했다고 소말리아 전 대법원장이 밝혔습니다.",
+    "sources": [
+     {
+      "t": "Al Jazeera",
+      "u": "https://www.aljazeera.com/video/newsfeed/2026/11/10/security-forces-seized-top-court-somalias-ex-chief-justice-says?traffic_source=rss"
+     }
+    ]
+   },
+   {
     "date": "2026-11-02",
     "text": "Uganda begins withdrawing its troops from Somalia, planning to remove all personnel deployed under bilateral and African Union missions by the end of 2027, ending nearly two decades of operations.",
     "sources": [
@@ -1761,6 +1839,17 @@
   ],
   "niger": [
    {
+    "date": "2026-11-10",
+    "text": "Nearly 64,000 flee Nigeria for Niger where a humanitarian crisis is deepening",
+    "ko": "약 64,000명이 나이지리아를 떠나 인도주의적 위기가 심화되고 있는 니제르로 이주",
+    "sources": [
+     {
+      "t": "UN News",
+      "u": "https://news.un.org/feed/view/en/story/2026/11/1168779"
+     }
+    ]
+   },
+   {
     "date": "2026-10-27",
     "text": "Algeria to deploy army units to Niger to protect economic interests",
     "ko": "알제리, 경제적 이익 보호 위해 니제르에 군대 배치",
@@ -1818,6 +1907,17 @@
   ],
   "southsudan": [
    {
+    "date": "2026-11-10",
+    "text": "Security Council LIVE: South Sudan’s first elections loom amid rising violence",
+    "ko": "안보리 라이브: 폭력 사태가 심화되는 가운데 남수단의 첫 선거가 다가오고 있습니다.",
+    "sources": [
+     {
+      "t": "UN News",
+      "u": "https://news.un.org/feed/view/en/story/2026/11/1168774"
+     }
+    ]
+   },
+   {
     "date": "2026-10-27",
     "text": "Co-ordinated cattle raids kill at least 72 people in South Sudan",
     "ko": "남수단에서 소떼 습격으로 최소 72명 사망",
@@ -1830,6 +1930,17 @@
    }
   ],
   "drc": [
+   {
+    "date": "2026-11-10",
+    "text": "DR Congo sentences 66 soldiers to death for being 'cowards'",
+    "ko": "콩고민주공화국, '겁쟁이' 군인 66명에 사형 선고",
+    "sources": [
+     {
+      "t": "BBC",
+      "u": "https://www.bbc.co.uk/news/articles/cmreye1q3dnjo?at_medium=RSS&at_campaign=rss"
+     }
+    ]
+   },
    {
     "date": "2026-11-06",
     "text": "The death toll from an armed attack yesterday by suspected Allied Democratic Forces militants on several villages in North Kivu, eastern Democratic Republic of Congo, rises to 33.",
@@ -1920,6 +2031,17 @@
    }
   ],
   "mexico": [
+   {
+    "date": "2026-11-11",
+    "text": "Pentagon declares ‘total victory’ after House Republicans block effort to impeach Pete Hegseth – US politics live",
+    "ko": null,
+    "sources": [
+     {
+      "t": "The Guardian",
+      "u": "https://www.theguardian.com/us-news/live/2026/nov/10/donald-trump-pete-hegseth-thomas-massie-republicans-iran-war-impeachment-midterms-latest-news-updates"
+     }
+    ]
+   },
    {
     "date": "2026-11-08",
     "text": "Mexican Navy personnel, working with intelligence from the National Intelligence Center and the United States Drug Enforcement Administration, arrest Rafael Álvarez Ayala, the alleged leader of the Jalisco New Generation Cartel cell \"Los Rs\", in Zapopan, Jalisco, Mexico. He is wounded in a shootout during the operation and is wanted on a Michoacán warrant for aggravated homicide.",
@@ -2039,6 +2161,19 @@
      {
       "t": "UN News",
       "u": "https://news.un.org/feed/view/en/story/2026/11/1168729"
+     }
+    ]
+   }
+  ],
+  "benin": [
+   {
+    "date": "2026-11-10",
+    "text": "Nearly 64,000 flee Nigeria for Niger where a humanitarian crisis is deepening",
+    "ko": "약 64,000명이 나이지리아를 떠나 인도주의적 위기가 심화되고 있는 니제르로 이주",
+    "sources": [
+     {
+      "t": "UN News",
+      "u": "https://news.un.org/feed/view/en/story/2026/11/1168779"
      }
     ]
    }
