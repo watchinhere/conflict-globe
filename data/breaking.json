@@ -1,13 +1,13 @@
 {
- "updated": "2026-11-11T22:17:30.704Z",
+ "updated": "2026-11-12T03:09:12.862Z",
  "sources": {
   "BBC": {
    "ok": true,
-   "n": 12
+   "n": 13
   },
   "Al Jazeera": {
    "ok": true,
-   "n": 10
+   "n": 12
   },
   "The Guardian": {
    "ok": true,
@@ -19,18 +19,198 @@
   },
   "France 24": {
    "ok": true,
-   "n": 12
+   "n": 13
   },
   "UN News": {
    "ok": true,
-   "n": 4
+   "n": 5
   },
   "NPR": {
    "ok": true,
-   "n": 5
+   "n": 4
   }
  },
  "items": [
+  {
+   "id": "afea22f92600",
+   "t": "Oil slicks seen from space: the devastating impact of boat strikes on fragile Gulf ecosystems",
+   "ko": "우주에서 본 유막: 취약한 걸프 생태계에 대한 보트 충돌의 파괴적인 영향",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/world/2026/nov/12/oil-slicks-seen-from-space-the-devastating-impact-of-boat-strikes-on-fragile-gulf-ecosystems",
+   "at": "2026-11-12T03:00:07.000Z",
+   "ev": [
+    "iran"
+   ],
+   "cc": [
+    "United States",
+    "Iran"
+   ]
+  },
+  {
+   "id": "863ff4143909",
+   "t": "Democrat Scott Colom to be first Black senator elected in Mississippi since 1874 after narrow win – US politics live",
+   "ko": "민주당 스콧 콜롬(Scott Colom)이 아슬아슬한 승리를 거둔 후 1874년 이후 미시시피에서 선출된 최초의 흑인 상원의원이 됩니다 – 미국 정치 라이브",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/us-news/live/2026/nov/11/donald-trump-pete-hegseth-impeachment-democrats-republicans-arlington-latest-news-updates",
+   "at": "2026-11-12T02:55:49.000Z",
+   "ev": [],
+   "cc": [
+    "United States"
+   ]
+  },
+  {
+   "id": "0de3b4c908f2",
+   "t": "New York building collapse kills one person and injures 12",
+   "ko": "뉴욕 빌딩 붕괴로 1명이 사망하고 12명이 부상당했다.",
+   "src": "BBC",
+   "u": "https://www.bbc.co.uk/news/videos/c60rkwjj7x7go?at_medium=RSS&at_campaign=rss",
+   "at": "2026-11-12T02:33:12.000Z",
+   "ev": [],
+   "cc": []
+  },
+  {
+   "id": "3551fa106f2d",
+   "t": "Live: US envoys to meet Putin and Zelensky after Abu Dhabi talks",
+   "ko": "라이브: 아부다비 회담 후 미국 특사들이 푸틴과 젤렌스키를 만날 예정",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/europe/20261112-live-us-envoys-to-meet-putin-and-zelensky-after-abu-dhabi-talks",
+   "at": "2026-11-12T02:31:55.000Z",
+   "ev": [
+    "ukraine"
+   ],
+   "cc": [
+    "United States",
+    "Russia",
+    "Ukraine"
+   ]
+  },
+  {
+   "id": "7149bcf16ed5",
+   "t": "Brooklyn building collapse kills at least two people and traps others in wreckage",
+   "ko": "브루클린 건물 붕괴로 최소 2명이 사망하고 다른 사람들이 잔해에 갇혔습니다.",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/us-news/2026/nov/11/deadly-brooklyn-building-collapse",
+   "at": "2026-11-12T01:51:00.000Z",
+   "ev": [],
+   "cc": []
+  },
+  {
+   "id": "94d95ff10a91",
+   "t": "Three-storey building collapses in Brooklyn",
+   "ko": "브루클린 3층 건물 붕괴",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/video/newsfeed/2026/11/12/three-storey-building-collapses-in-brooklyn?traffic_source=rss",
+   "at": "2026-11-12T01:50:36.000Z",
+   "ev": [],
+   "cc": []
+  },
+  {
+   "id": "755f3c5ece24",
+   "t": "Israel strikes intensive care at Gaza’s Nasser Hospital",
+   "ko": "이스라엘, 가자지구 나세르 병원 집중치료 중단",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/video/newsfeed/2026/11/12/israel-strikes-intensive-care-at-gazas-nasser-hospital?traffic_source=rss",
+   "at": "2026-11-12T01:20:55.000Z",
+   "ev": [
+    "gaza"
+   ],
+   "cc": [
+    "Israel",
+    "Palestine"
+   ]
+  },
+  {
+   "id": "4ca07e8fc9a2",
+   "t": "Hegseth scolded by security at Tomb of the Unknown Soldier",
+   "ko": "무명용사의 무덤에서 보안요원에게 꾸지람을 받는 헤그세스",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/video/newsfeed/2026/11/12/hegseth-scolded-by-security-at-tomb-of-the-unknown-soldier?traffic_source=rss",
+   "at": "2026-11-12T00:18:46.000Z",
+   "ev": [],
+   "cc": []
+  },
+  {
+   "id": "daf37166e74f",
+   "t": "Iran war live: Iran warns of Europe retaliation, Israel attacks Gaza",
+   "ko": "이란 전쟁 라이브 :이란은 유럽의 보복을 경고하고 이스라엘은 가자 지구를 공격합니다",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/liveblog/2026/11/12/iran-war-live-tehran-warns-of-wider-retaliation-israel-kills-in-gaza?traffic_source=rss",
+   "at": "2026-11-12T00:00:44.000Z",
+   "ev": [
+    "iran",
+    "gaza"
+   ],
+   "cc": [
+    "Iran",
+    "Israel",
+    "Palestine"
+   ]
+  },
+  {
+   "id": "f4191914f513",
+   "t": "Barcelona erupts in violence after general strike",
+   "ko": "바르셀로나, 총파업 이후 폭력사태 발생",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/video/newsfeed/2026/11/11/barcelona-erupts-in-violence-after-general-strike?traffic_source=rss",
+   "at": "2026-11-11T23:50:01.000Z",
+   "ev": [],
+   "cc": [
+    "Spain"
+   ]
+  },
+  {
+   "id": "c7f0c9eb0077",
+   "t": "Democrats push to rein in Trump on immigration after voter backlash to ICE raids",
+   "ko": "민주당은 ICE 습격에 대한 유권자의 반발 이후 트럼프의 이민 규제를 압박",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/us-news/2026/nov/11/democrats-trump-immigration-agenda",
+   "at": "2026-11-11T23:42:08.000Z",
+   "ev": [],
+   "cc": [
+    "United States"
+   ]
+  },
+  {
+   "id": "487f359ed546",
+   "t": "Israeli strikes hit medical complex as nine killed across Gaza",
+   "ko": "이스라엘 공습으로 의료 단지 강타, 가자지구 전역에서 9명 사망",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/11/11/israeli-strikes-hit-tent-camp-as-five-killed-in-gaza?traffic_source=rss",
+   "at": "2026-11-11T22:55:37.000Z",
+   "ev": [
+    "gaza"
+   ],
+   "cc": [
+    "Israel",
+    "Palestine"
+   ]
+  },
+  {
+   "id": "e1d6e2f97a41",
+   "t": "European leaders gather in Dublin under the shadow of hybrid threats",
+   "ko": "유럽 ​​지도자들은 하이브리드 위협의 그늘 아래 더블린에 모였습니다.",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/european-leaders-gather-in-dublin-under-the-shadow-of-hybrid-threats",
+   "at": "2026-11-11T22:46:57.000Z",
+   "ev": [],
+   "cc": [
+    "Ireland"
+   ]
+  },
+  {
+   "id": "278d12273c00",
+   "t": "Gadi Eisenkot unveils agenda to reverse Netanyahu’s policies",
+   "ko": "Gadi Eisenkot는 네타냐후의 정책을 뒤집을 의제를 공개했습니다.",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/tv-shows/a-propos/20261111-gadi-eisenkot-unveils-agenda-to-reverse-netanyahu-s-policies",
+   "at": "2026-11-11T22:13:05.000Z",
+   "ev": [
+    "gaza"
+   ],
+   "cc": [
+    "Israel"
+   ]
+  },
   {
    "id": "23565797d1ba",
    "t": "Clashes erupt in Barcelona after thousands join Spain general strike",
@@ -41,21 +221,6 @@
    "ev": [],
    "cc": [
     "Spain"
-   ]
-  },
-  {
-   "id": "863ff4143909",
-   "t": "Hegseth and team reprimanded by Arlington National Cemetery guard; Trump defends his defense secretary and Iran war - live",
-   "ko": "Hegseth와 팀은 Arlington National Cemetery 경비병으로부터 질책을 받았습니다. 트럼프, 국방장관과 이란 전쟁 옹호 - 생방송",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/us-news/live/2026/nov/11/donald-trump-pete-hegseth-impeachment-democrats-republicans-arlington-latest-news-updates",
-   "at": "2026-11-11T21:56:58.000Z",
-   "ev": [
-    "iran"
-   ],
-   "cc": [
-    "Iran",
-    "United States"
    ]
   },
   {
@@ -764,6 +929,20 @@
     "United States",
     "Iran",
     "Yemen"
+   ]
+  },
+  {
+   "id": "3021701559b8",
+   "t": "Gaza winter aid: ‘No more delay’, Fletcher tells governments stalling on support",
+   "ko": "가자 겨울 지원: '더 이상 지체하지 마세요', 플레처는 정부에 지원을 지연한다고 말했습니다.",
+   "src": "UN News",
+   "u": "https://news.un.org/feed/view/en/story/2026/11/1168788",
+   "at": "2026-11-11T12:00:00.000Z",
+   "ev": [
+    "gaza"
+   ],
+   "cc": [
+    "Palestine"
    ]
   },
   {
@@ -2035,199 +2214,6 @@
    "ev": [],
    "cc": [
     "Bulgaria"
-   ]
-  },
-  {
-   "id": "fe03fc111db6",
-   "t": "Why the GCC is setting up an advanced military command base in Kuwait",
-   "ko": "GCC가 쿠웨이트에 첨단 군사 지휘 기지를 설립하는 이유",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/news/2026/11/10/gcc-agrees-to-set-up-advanced-military-command-headquarters-in-kuwait?traffic_source=rss",
-   "at": "2026-11-10T12:09:54.000Z",
-   "ev": [],
-   "cc": [
-    "Kuwait"
-   ]
-  },
-  {
-   "id": "cefe85e40ed0",
-   "t": "Nearly 64,000 flee Nigeria for Niger where a humanitarian crisis is deepening",
-   "ko": "약 64,000명이 나이지리아를 떠나 인도주의적 위기가 심화되고 있는 니제르로 이주",
-   "src": "UN News",
-   "u": "https://news.un.org/feed/view/en/story/2026/11/1168779",
-   "at": "2026-11-10T12:00:00.000Z",
-   "ev": [
-    "niger",
-    "benin",
-    "nigeria"
-   ],
-   "cc": [
-    "Nigeria",
-    "Niger",
-    "Benin"
-   ]
-  },
-  {
-   "id": "71604c5614e2",
-   "t": "Security Council LIVE: South Sudan’s first elections loom amid rising violence",
-   "ko": "안보리 라이브: 폭력 사태가 심화되는 가운데 남수단의 첫 선거가 다가오고 있습니다.",
-   "src": "UN News",
-   "u": "https://news.un.org/feed/view/en/story/2026/11/1168774",
-   "at": "2026-11-10T12:00:00.000Z",
-   "ev": [
-    "southsudan"
-   ],
-   "cc": [
-    "South Sudan"
-   ]
-  },
-  {
-   "id": "21042cdeedf2",
-   "t": "When deaths go uncounted: WHO flags dangerous blind spots in Africa’s health data",
-   "ko": "사망자가 집계되지 않을 때: WHO는 아프리카의 건강 데이터에서 위험한 사각지대를 표시합니다",
-   "src": "UN News",
-   "u": "https://news.un.org/feed/view/en/story/2026/11/1168772",
-   "at": "2026-11-10T12:00:00.000Z",
-   "ev": [],
-   "cc": []
-  },
-  {
-   "id": "bbcb2ade08c4",
-   "t": "Sudan war: First ‘suicide’ drone attacks, now long-range strikes are the norm",
-   "ko": "수단 전쟁: 최초의 '자살' 드론 공격, 이제는 장거리 공격이 표준",
-   "src": "UN News",
-   "u": "https://news.un.org/feed/view/en/story/2026/11/1168771",
-   "at": "2026-11-10T12:00:00.000Z",
-   "ev": [
-    "sudan"
-   ],
-   "cc": [
-    "Sudan"
-   ]
-  },
-  {
-   "id": "7e50011d8b8b",
-   "t": "Bulgaria highway pileup kills 12, dozens injured: PM",
-   "ko": "불가리아 고속도로 추돌사고로 12명 사망, 수십명 부상",
-   "src": "DW",
-   "u": "https://www.dw.com/en/bulgaria-highway-pileup-kills-12-dozens-injured-pm/a-79907978?maca=en-rss-en-world-4025-rdf",
-   "at": "2026-11-10T11:57:00.000Z",
-   "ev": [],
-   "cc": [
-    "Bulgaria"
-   ]
-  },
-  {
-   "id": "401b87e56588",
-   "t": "Trump says Israel, Gulf allies must repay Iran war cost: What does it mean?",
-   "ko": "트럼프는 이스라엘과 걸프 동맹국들이 이란의 전쟁 비용을 갚아야 한다고 말했습니다. 그것은 무엇을 의미합니까?",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/news/2026/11/10/trump-says-israel-gulf-allies-must-repay-iran-war-cost-what-does-it-mean?traffic_source=rss",
-   "at": "2026-11-10T11:52:34.000Z",
-   "ev": [
-    "iran"
-   ],
-   "cc": [
-    "Israel",
-    "Iran"
-   ]
-  },
-  {
-   "id": "2c0f3e61a0ec",
-   "t": "Ukraine peace talks: Who is sitting at the negotiating table – and why it matters",
-   "ko": "우크라이나 평화 회담: 협상 테이블에 누가 앉아 있는지, 그리고 그것이 중요한 이유",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/video/20261110-ukraine-peace-talks-who-is-sitting-at-the-negotiating-table-%E2%80%93-and-why-it-matters",
-   "at": "2026-11-10T11:45:29.000Z",
-   "ev": [
-    "ukraine"
-   ],
-   "cc": [
-    "Ukraine",
-    "Russia",
-    "United States"
-   ]
-  },
-  {
-   "id": "504936d8e903",
-   "t": "Dana White: UFC chief declines Trump’s White House job offer",
-   "ko": "데이나 화이트: UFC 대표, 트럼프 백악관 일자리 제의 거절",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/video/20261110-dana-white-ufc-chief-declines-trump-s-white-house-job-offer",
-   "at": "2026-11-10T11:39:53.000Z",
-   "ev": [],
-   "cc": []
-  },
-  {
-   "id": "43defc4189c3",
-   "t": "Oil price relief as Trump declares US war on Iran ‘ending fairly soon’ | First Thing",
-   "ko": "트럼프, 이란과의 미국 전쟁 '곧 끝날 것' 선언에 따른 유가 완화 | 가장 중요한 것",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/us-news/2026/nov/10/first-thing-oil-price-relief-trump-us-war-iran-ending-fairly-soon",
-   "at": "2026-11-10T11:36:00.000Z",
-   "ev": [
-    "iran"
-   ],
-   "cc": [
-    "United States",
-    "Iran",
-    "Israel"
-   ]
-  },
-  {
-   "id": "5643d3d7eb9e",
-   "t": "Police officer dies and another injured after backpack explosion in northern Spain",
-   "ko": "스페인 북부에서 배낭 폭발로 경찰관 사망, 1명 부상",
-   "src": "BBC",
-   "u": "https://www.bbc.co.uk/news/articles/cwm262pzezy0o?at_medium=RSS&at_campaign=rss",
-   "at": "2026-11-10T11:25:46.000Z",
-   "ev": [],
-   "cc": [
-    "Spain"
-   ]
-  },
-  {
-   "id": "ff6c707d6d50",
-   "t": "Israeli forces kill Palestinian boy in West Bank, health ministry says",
-   "ko": "이스라엘군, 서안지구에서 팔레스타인 소년 사살했다고 보건부 발표",
-   "src": "BBC",
-   "u": "https://www.bbc.co.uk/news/articles/cqpvgv318yyeo?at_medium=RSS&at_campaign=rss",
-   "at": "2026-11-10T11:23:18.000Z",
-   "ev": [
-    "westbank"
-   ],
-   "cc": [
-    "Israel",
-    "Palestine"
-   ]
-  },
-  {
-   "id": "1484d695cddb",
-   "t": "New Israel parliament to be sworn in as Eisenkot works to form new govt",
-   "ko": "Eisenkot가 새로운 정부를 구성하기 위해 노력함에 따라 새로운 이스라엘 의회가 선서됩니다",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/video/20261110-new-israel-parliament-to-be-sworn-in-as-eisenkot-works-to-form-new-govt",
-   "at": "2026-11-10T11:22:39.000Z",
-   "ev": [
-    "gaza"
-   ],
-   "cc": [
-    "Israel"
-   ]
-  },
-  {
-   "id": "0088f39aad6e",
-   "t": "US Hegseth faces Republican impeachment bid over abuse of power in Iran war",
-   "ko": "미국 헤그세스, 이란 전쟁에서 권력 남용 혐의로 공화당 탄핵 신청 직면",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/video/20261110-us-hegseth-faces-republican-impeachment-bid-over-abuse-of-power-in-iran-war",
-   "at": "2026-11-10T11:03:20.000Z",
-   "ev": [
-    "iran"
-   ],
-   "cc": [
-    "United States",
-    "Iran"
    ]
   }
  ]
