@@ -1,21 +1,21 @@
 {
- "updated": "2026-11-13T07:17:10.870Z",
+ "updated": "2026-11-13T15:31:15.957Z",
  "sources": {
   "BBC": {
    "ok": true,
-   "n": 13
+   "n": 6
   },
   "Al Jazeera": {
    "ok": true,
-   "n": 11
+   "n": 8
   },
   "The Guardian": {
    "ok": true,
-   "n": 15
+   "n": 14
   },
   "DW": {
    "ok": true,
-   "n": 5
+   "n": 4
   },
   "France 24": {
    "ok": true,
@@ -23,7 +23,7 @@
   },
   "UN News": {
    "ok": true,
-   "n": 5
+   "n": 4
   },
   "NPR": {
    "ok": true,
@@ -31,6 +31,452 @@
   }
  },
  "items": [
+  {
+   "id": "2dd7768783cc",
+   "t": "Haitian forces recapture national stadium after two years of gang control",
+   "ko": "아이티군, 2년간의 갱단 통제 끝에 국립경기장 탈환",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/video/20261113-haitian-forces-recapture-national-stadium-after-two-years-of-gang-control",
+   "at": "2026-11-13T15:09:35.000Z",
+   "ev": [
+    "haiti"
+   ],
+   "cc": [
+    "Haiti"
+   ]
+  },
+  {
+   "id": "92071404f33b",
+   "t": "Will Democrats try to strip US-Israel initiative from Pentagon funding?",
+   "ko": "민주당은 국방부 자금 지원에서 미국-이스라엘 주도권을 박탈하려고 시도할 것인가?",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/11/13/will-democrats-try-to-strip-us-israel-initiative-from-pentagon-funding?traffic_source=rss",
+   "at": "2026-11-13T15:02:16.000Z",
+   "ev": [],
+   "cc": []
+  },
+  {
+   "id": "388c180a1aec",
+   "t": "Microsoft scrambles to fix global outage affecting Teams and Outlook",
+   "ko": "Microsoft는 Teams 및 Outlook에 영향을 미치는 글로벌 중단 문제를 해결하기 위해 노력하고 있습니다.",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/technology/2026/nov/13/microsoft-outage-outlook-teams-word-excel-reports",
+   "at": "2026-11-13T14:56:42.000Z",
+   "ev": [],
+   "cc": [
+    "United Kingdom"
+   ]
+  },
+  {
+   "id": "c0ed8c47e08f",
+   "t": "Roger Waters launches heartfelt plea for 'an end to the genocide in Gaza'",
+   "ko": "로저 워터스, '가자지구 학살 종식'을 진심으로 호소",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/tv-shows/arts24/20261113-roger-waters-launches-heartfelt-plea-for-an-end-to-the-genocide-in-gaza",
+   "at": "2026-11-13T14:45:00.000Z",
+   "ev": [
+    "gaza"
+   ],
+   "cc": [
+    "Palestine"
+   ]
+  },
+  {
+   "id": "f5185f1d0a6b",
+   "t": "'Devastated wasteland': Haitian security forces regain control of stadium from gangs",
+   "ko": "'황폐화된 황무지': 아이티 보안군이 갱단으로부터 경기장 통제권을 되찾았습니다.",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/video/20261113-devastated-wasteland-haitian-security-forces-regain-control-of-stadium-from-gangs",
+   "at": "2026-11-13T14:37:07.000Z",
+   "ev": [
+    "haiti"
+   ],
+   "cc": [
+    "Haiti"
+   ]
+  },
+  {
+   "id": "849a1d2fc534",
+   "t": "The truth about Douma: How Syria covered up a chemical attack",
+   "ko": "두마의 진실: 시리아가 화학 공격을 은폐한 방법",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/tv-shows/reporters/20261113-the-truth-about-douma-how-syria-covered-up-a-chemical-attack",
+   "at": "2026-11-13T14:24:39.000Z",
+   "ev": [
+    "syria"
+   ],
+   "cc": [
+    "Syria",
+    "Russia"
+   ]
+  },
+  {
+   "id": "d751c02347a5",
+   "t": "Can Netanyahu launch a strike on Iran before he leaves?",
+   "ko": "네타냐후가 떠나기 전에 이란을 공격할 수 있을까?",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/11/13/can-netanyahu-launch-a-strike-on-iran-before-he-leaves?traffic_source=rss",
+   "at": "2026-11-13T14:16:20.000Z",
+   "ev": [
+    "iran"
+   ],
+   "cc": [
+    "Iran"
+   ]
+  },
+  {
+   "id": "352492b56ada",
+   "t": "Ukraine claims record 3,000 Russian casualties in one day as war drags on",
+   "ko": "우크라이나, 전쟁이 계속되면서 하루 만에 러시아인 사상자 3000명 기록",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/11/13/russias-demands-come-from-different-reality-as-war-efforts-stagnates?traffic_source=rss",
+   "at": "2026-11-13T14:15:52.000Z",
+   "ev": [
+    "ukraine"
+   ],
+   "cc": [
+    "Ukraine",
+    "Russia"
+   ]
+  },
+  {
+   "id": "c22c9f451b1a",
+   "t": "Russia is ‘setting traps’ in Ukraine talks, EU foreign policy chief warns",
+   "ko": "러시아가 우크라이나 회담에 '덫을 놓고 있다'고 유럽연합(EU) 외교장관이 경고했다.",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/world/2026/nov/13/russia-ukraine-talks-kaja-kallas-eu-foreign-policy-dublin-summit",
+   "at": "2026-11-13T14:14:44.000Z",
+   "ev": [
+    "ukraine"
+   ],
+   "cc": [
+    "Russia",
+    "Ukraine"
+   ]
+  },
+  {
+   "id": "cb759c69e686",
+   "t": "Most Ukrainians 'think there's no chance of a peace deal' with Russia",
+   "ko": "대부분의 우크라이나인들은 러시아와 평화협정을 맺을 가능성이 없다고 생각합니다.",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/video/20261113-most-ukrainians-think-there-s-no-chance-of-a-peace-deal-with-russia",
+   "at": "2026-11-13T14:14:14.000Z",
+   "ev": [
+    "ukraine"
+   ],
+   "cc": [
+    "Russia",
+    "Ukraine",
+    "France"
+   ]
+  },
+  {
+   "id": "70055af33892",
+   "t": "'A lot of emotion' as Paris marks 11 years since terror attacks",
+   "ko": "테러 11주년을 맞는 파리, '감동이 넘친다'",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/video/20261113-a-lot-of-emotion-as-paris-marks-11-years-since-terror-attacks",
+   "at": "2026-11-13T14:06:44.000Z",
+   "ev": [],
+   "cc": [
+    "France"
+   ]
+  },
+  {
+   "id": "5a4acef3f519",
+   "t": "‘Incredibly unusual’ bird migrating from Siberia found in Cumbria – killed by cat",
+   "ko": "시베리아에서 이주한 '놀랍도록 특이한' 새가 컴브리아에서 발견돼 고양이에 의해 살해됐다",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/uk-news/2026/nov/13/siberian-rubythroat-bird-migrating-siberia-cumbria-killed-by-cat",
+   "at": "2026-11-13T14:00:20.000Z",
+   "ev": [],
+   "cc": [
+    "United Kingdom"
+   ]
+  },
+  {
+   "id": "bdd0e4592905",
+   "t": "Iran says it targeted US military radar in Bahrain in retaliatory strike",
+   "ko": "이란, 보복 공격으로 바레인에 있는 미군 레이더를 목표로 삼았다고 밝혔습니다.",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/world/2026/nov/13/iran-us-radar-bahrain-sirik-hormuz",
+   "at": "2026-11-13T13:52:11.000Z",
+   "ev": [
+    "iran"
+   ],
+   "cc": [
+    "Iran",
+    "United States",
+    "Bahrain"
+   ]
+  },
+  {
+   "id": "f9c0f9731392",
+   "t": "Kenyan building collapse near Nairobi kills six people",
+   "ko": "케냐 나이로비 인근 건물 붕괴로 6명 사망",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/11/13/kenyan-building-collapse-near-nairobi-kills-six-people?traffic_source=rss",
+   "at": "2026-11-13T13:11:24.000Z",
+   "ev": [],
+   "cc": [
+    "Kenya"
+   ]
+  },
+  {
+   "id": "c7c87e7b2ab6",
+   "t": "First Thing: Global Microsoft outage chaos as tech firm says there are ‘signs of stabilisation’",
+   "ko": "첫 번째 사항: 기술 회사가 '안정화 조짐'이 있다고 말하면서 글로벌 Microsoft 중단 혼란",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/us-news/2026/nov/13/first-thing-global-microsoft-outage-chaos-signs-of-stabilisation",
+   "at": "2026-11-13T12:16:44.000Z",
+   "ev": [],
+   "cc": []
+  },
+  {
+   "id": "9b6fb02f0243",
+   "t": "Pakistan military reports it killed 74 ‘terrorists’ during raids",
+   "ko": "파키스탄군, 공습으로 '테러리스트' 74명 사살",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/11/13/pakistan-military-reports-it-killed-74-terrorists-during-raids?traffic_source=rss",
+   "at": "2026-11-13T11:59:34.000Z",
+   "ev": [],
+   "cc": [
+    "Pakistan",
+    "Afghanistan"
+   ]
+  },
+  {
+   "id": "1a07fc740179",
+   "t": "Haitian police retake national stadium after two years of gang control",
+   "ko": "아이티 경찰, 갱 단속 2년 만에 국립경기장 탈환",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/video/20261113-haitian-police-retake-national-stadium-after-two-years-of-gang-control",
+   "at": "2026-11-13T11:43:08.000Z",
+   "ev": [
+    "haiti"
+   ],
+   "cc": [
+    "Haiti",
+    "El Salvador"
+   ]
+  },
+  {
+   "id": "943b53a2aad0",
+   "t": "Nigerian university in mourning after four students die at post-exam party",
+   "ko": "시험 후 파티에서 학생 4명이 사망한 뒤 애도하는 나이지리아 대학",
+   "src": "BBC",
+   "u": "https://www.bbc.co.uk/news/articles/cmvg2dvw0355o?at_medium=RSS&at_campaign=rss",
+   "at": "2026-11-13T11:37:08.000Z",
+   "ev": [
+    "nigeria"
+   ],
+   "cc": [
+    "Nigeria"
+   ]
+  },
+  {
+   "id": "95aa27001df8",
+   "t": "Russia strikes hospital in central Kyiv after SpaceX system falters again",
+   "ko": "SpaceX 시스템이 다시 흔들리자 러시아는 키예프 중심부의 병원을 공격했습니다.",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/world/2026/nov/13/russia-strikes-hospital-central-kyiv-spacex-starshield-system-fails",
+   "at": "2026-11-13T11:24:30.000Z",
+   "ev": [
+    "ukraine"
+   ],
+   "cc": [
+    "Russia",
+    "Ukraine"
+   ]
+  },
+  {
+   "id": "78623b6de5fd",
+   "t": "US, Ukraine say Europe to join peace talks as Putin sticks to hardline stance",
+   "ko": "미국과 우크라이나는 푸틴 대통령이 강경 입장을 고수함에 따라 유럽이 평화 회담에 참여할 것이라고 말했습니다.",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/video/20261113-us-ukraine-say-europe-to-join-peace-talks-as-putin-sticks-to-hardline-stance",
+   "at": "2026-11-13T10:59:10.000Z",
+   "ev": [
+    "ukraine"
+   ],
+   "cc": [
+    "United States",
+    "Ukraine",
+    "Russia"
+   ]
+  },
+  {
+   "id": "6167e8a3fcb4",
+   "t": "Iran threatens unlimited response over Strait of Hormuz after US attack",
+   "ko": "이란, 미국 공격 후 호르무즈 해협에 무제한 대응 위협",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/video/newsfeed/2026/11/13/13-11-reported-resul-serdar-iran-basij?traffic_source=rss",
+   "at": "2026-11-13T10:54:25.000Z",
+   "ev": [
+    "iran"
+   ],
+   "cc": [
+    "Iran",
+    "United States",
+    "Bahrain"
+   ]
+  },
+  {
+   "id": "cff588134676",
+   "t": "France remembers victims of 2015 Paris terror attacks",
+   "ko": "프랑스, 2015년 파리테러 희생자 기억",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/video/20261113-france-remembers-victims-of-2015-paris-terror-attacks",
+   "at": "2026-11-13T10:52:36.000Z",
+   "ev": [],
+   "cc": [
+    "France"
+   ]
+  },
+  {
+   "id": "8b70b1228b7a",
+   "t": "Guinea opens illegal gold mining trial, 1,200 people arrested",
+   "ko": "기니, 불법 금 채굴 재판 열어 1200명 체포",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/video/20261113-guinea-opens-illegal-gold-mining-trial-1-200-people-arrested",
+   "at": "2026-11-13T10:28:40.000Z",
+   "ev": [],
+   "cc": [
+    "Guinea"
+   ]
+  },
+  {
+   "id": "3876f894a504",
+   "t": "'No war, no peace' situation between US and Iran 'cannot continue', Iraqi FM says",
+   "ko": "이라크 FM \"미국과 이란 간 '전쟁도 평화도 없다' 상황은 지속될 수 없다\"",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/tv-shows/t%C3%AAte-%C3%A0-t%C3%AAte/20261113-no-war-and-no-peace-between-the-us-and-iran-cannot-continue-iraqi-fm-says",
+   "at": "2026-11-13T10:28:30.000Z",
+   "ev": [
+    "iran"
+   ],
+   "cc": [
+    "United States",
+    "Iran",
+    "Iraq"
+   ]
+  },
+  {
+   "id": "fc7506049521",
+   "t": "Toera's homecoming: Madagascar's slain king joins his ancestors after 129 years",
+   "ko": "토에라의 귀향: 살해된 마다가스카르의 왕이 129년 만에 그의 조상들과 합류합니다",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/video/20261113-toera-s-homecoming-madagascar-s-slain-king-joins-his-ancestors-after-129-years",
+   "at": "2026-11-13T10:27:02.000Z",
+   "ev": [],
+   "cc": [
+    "Madagascar",
+    "France"
+   ]
+  },
+  {
+   "id": "4ff2860bf70c",
+   "t": "Why is Trump saying ‘no deal necessary’ with Iran as he sidelines JD Vance?",
+   "ko": "트럼프가 JD 밴스를 제외하면서 이란과 '협상이 필요하지 않다'고 말하는 이유는 무엇입니까?",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/features/2026/11/13/why-is-trump-saying-no-deal-necessary-with-iran-as-he-sidelines-jd-vance?traffic_source=rss",
+   "at": "2026-11-13T10:26:22.000Z",
+   "ev": [
+    "iran"
+   ],
+   "cc": [
+    "Iran"
+   ]
+  },
+  {
+   "id": "c0384d52c080",
+   "t": "Amnesty criticises South Sudan, UN over failure to heed massacre warnings",
+   "ko": "앰네스티, 남수단과 유엔이 학살 경고에 귀를 기울이지 않았다고 비난",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/video/20261113-amnesty-criticises-south-sudan-un-over-failure-to-heed-massacre-warnings",
+   "at": "2026-11-13T10:25:47.000Z",
+   "ev": [
+    "southsudan"
+   ],
+   "cc": [
+    "South Sudan"
+   ]
+  },
+  {
+   "id": "1ab4327dd496",
+   "t": "'Big development' in peace talks as Ukraine says Europe to join Russia negotiations",
+   "ko": "우크라이나가 유럽이 러시아 협상에 참여하겠다고 발표함에 따라 평화 회담에서 '큰 발전'",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/video/20261113-big-development-in-peace-talks-as-ukraine-says-europe-to-join-russia-negotiations",
+   "at": "2026-11-13T10:13:57.000Z",
+   "ev": [
+    "ukraine"
+   ],
+   "cc": [
+    "Ukraine",
+    "Russia",
+    "United States"
+   ]
+  },
+  {
+   "id": "2c48d65b3f01",
+   "t": "Russia and Ukraine report overnight attacks amid US diplomatic push",
+   "ko": "러시아와 우크라이나, 미국의 외교적 압력 속에 야간 공격 보고",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/11/13/russia-and-ukraine-report-overnight-attacks-amid-us-diplomatic-push?traffic_source=rss",
+   "at": "2026-11-13T10:11:38.000Z",
+   "ev": [
+    "ukraine"
+   ],
+   "cc": [
+    "Russia",
+    "Ukraine",
+    "United States"
+   ]
+  },
+  {
+   "id": "751483a8037c",
+   "t": "Humanitarian situation in Gaza worsens amid political deadlock",
+   "ko": "가자지구의 인도적 상황은 정치적 교착상태로 악화되고 있습니다.",
+   "src": "DW",
+   "u": "https://www.dw.com/en/humanitarian-situation-in-gaza-worsens-amid-political-deadlock/a-79931403?maca=en-rss-en-world-4025-rdf",
+   "at": "2026-11-13T09:30:00.000Z",
+   "ev": [
+    "gaza"
+   ],
+   "cc": [
+    "Palestine",
+    "Israel"
+   ]
+  },
+  {
+   "id": "6e0358f35b1a",
+   "t": "Czechia braces for massive protest against cuts to public media",
+   "ko": "체코, 대중매체 축소에 반대하는 대규모 항의 준비",
+   "src": "DW",
+   "u": "https://www.dw.com/en/czechia-braces-for-massive-protest-against-cuts-to-public-media/a-79933533?maca=en-rss-en-world-4025-rdf",
+   "at": "2026-11-13T08:35:00.000Z",
+   "ev": [],
+   "cc": [
+    "Czech Republic"
+   ]
+  },
+  {
+   "id": "e439cdecb874",
+   "t": "US terrorism case sheds light on RAF Fairford arrests mystery",
+   "ko": "미국 테러 사건으로 RAF 페어포드 체포 미스터리 밝혀져",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/uk-news/2026/nov/13/us-terror-case-raf-fairford-arrests",
+   "at": "2026-11-13T07:55:56.000Z",
+   "ev": [
+    "iran"
+   ],
+   "cc": [
+    "United States",
+    "United Kingdom",
+    "Iran"
+   ]
+  },
   {
    "id": "3dbe4f88fe02",
    "t": "The Gulf must build security that can outlast this war",
@@ -118,16 +564,6 @@
    "cc": [
     "Iran"
    ]
-  },
-  {
-   "id": "388c180a1aec",
-   "t": "Microsoft struggles to fix huge outage affecting Outlook and Teams",
-   "ko": "Microsoft는 Outlook과 Teams에 영향을 미치는 대규모 중단 문제를 해결하기 위해 고군분투하고 있습니다.",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/technology/2026/nov/13/microsoft-outage-outlook-teams-word-excel-reports",
-   "at": "2026-11-13T04:24:26.000Z",
-   "ev": [],
-   "cc": []
   },
   {
    "id": "1aac2beac604",
@@ -1757,416 +2193,6 @@
    "cc": [
     "Palestine",
     "Israel"
-   ]
-  },
-  {
-   "id": "f8a67f86e810",
-   "t": "RSF calls for release of French reporter Christophe Gleizes, detained in Algeria",
-   "ko": "RSF는 알제리에 구금된 프랑스 기자 크리스토프 글레이즈의 석방을 촉구합니다.",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/rsf-calls-for-release-of-french-reporter-christophe-gleizes-detained-in-algeria",
-   "at": "2026-11-11T20:44:21.000Z",
-   "ev": [
-    "sudan"
-   ],
-   "cc": [
-    "France",
-    "Algeria"
-   ]
-  },
-  {
-   "id": "ff69673c5148",
-   "t": "Trump’s White House calls Democratic plans for congressional probes ‘abuse’",
-   "ko": "트럼프 백악관, 민주당의 의회 조사 계획을 '학대'라고 비난",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/news/2026/11/11/trumps-white-house-calls-democratic-plans-for-congressional-probes-abuse?traffic_source=rss",
-   "at": "2026-11-11T20:39:50.000Z",
-   "ev": [],
-   "cc": []
-  },
-  {
-   "id": "2bb00d07749c",
-   "t": "Scenes show aftermath of horrific Israeli strike on Gaza tents",
-   "ko": "가자지구 텐트에 대한 이스라엘의 끔찍한 공격 여파를 보여주는 장면",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/video/newsfeed/2026/11/11/scenes-show-aftermath-of-horrific-israeli-strike-on-gaza-tents?traffic_source=rss",
-   "at": "2026-11-11T20:33:35.000Z",
-   "ev": [
-    "gaza"
-   ],
-   "cc": [
-    "Israel",
-    "Palestine"
-   ]
-  },
-  {
-   "id": "40a1a8406249",
-   "t": "Driver faces DUI and murder charges after three killed in LA crash, officials say",
-   "ko": "LA 충돌사고로 3명이 사망한 운전자, 음주운전 및 살인 혐의로 기소",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/us-news/2026/nov/10/los-angeles-vehicle-crash",
-   "at": "2026-11-11T20:30:56.000Z",
-   "ev": [],
-   "cc": []
-  },
-  {
-   "id": "69db2c6fdc28",
-   "t": "17-year-old charged in fatal Bronx shooting of 15-year-old boy",
-   "ko": "브롱스에서 15세 소년에게 총격을 가해 17세 소년 기소",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/us-news/2026/nov/11/bronx-fatal-shooting-teen-boy-arrest",
-   "at": "2026-11-11T20:21:14.000Z",
-   "ev": [],
-   "cc": [
-    "United States",
-    "Ghana"
-   ]
-  },
-  {
-   "id": "ccc647d43f18",
-   "t": "Three women killed in LA crash as driver arrested",
-   "ko": "LA 충돌사고, 운전자 체포로 여성 3명 사망",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/video/newsfeed/2026/11/11/three-women-killed-in-la-crash-as-driver-arrested?traffic_source=rss",
-   "at": "2026-11-11T20:03:45.000Z",
-   "ev": [],
-   "cc": []
-  },
-  {
-   "id": "2bae1a49cd84",
-   "t": "General strike over housing brings out tens of thousands in Spain",
-   "ko": "스페인, 주택 문제 총파업으로 수만명 파업",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/general-strike-over-housing-brings-out-tens-of-thousands-in-spain",
-   "at": "2026-11-11T19:37:21.000Z",
-   "ev": [],
-   "cc": [
-    "Spain"
-   ]
-  },
-  {
-   "id": "a1282d994600",
-   "t": "Schools evacuated across Italy after bomb threats",
-   "ko": "폭탄 테러 위협으로 이탈리아 전역의 학교가 대피했다",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/schools-evacuated-across-italy-after-bomb-threats",
-   "at": "2026-11-11T19:29:19.000Z",
-   "ev": [],
-   "cc": [
-    "Italy",
-    "United Kingdom",
-    "Ireland"
-   ]
-  },
-  {
-   "id": "efa89ef0f2cd",
-   "t": "British soldier charged with rape of army servicewoman in Cyprus",
-   "ko": "키프로스에서 육군 여군을 성폭행한 영국 군인 기소",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/uk-news/2026/nov/11/scots-soldier-charged-with-of-army-servicewoman-in-cyprus",
-   "at": "2026-11-11T19:06:48.000Z",
-   "ev": [],
-   "cc": [
-    "Cyprus",
-    "United Kingdom"
-   ]
-  },
-  {
-   "id": "750189664e3d",
-   "t": "Trump planning new military assault or tighter sanctions, say Iranian officials",
-   "ko": "이란 관리들은 트럼프가 새로운 군사 공격이나 더 강력한 제재를 계획하고 있다고 말했습니다.",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/world/2026/nov/11/trump-planning-military-assault-or-tighter-sanctions-iranian-officials",
-   "at": "2026-11-11T18:47:57.000Z",
-   "ev": [
-    "iran"
-   ],
-   "cc": [
-    "Iran",
-    "United States"
-   ]
-  },
-  {
-   "id": "0e5f5ac7fbc0",
-   "t": "Will Sheikh Hasina return to Bangladesh?",
-   "ko": "셰이크 하시나(Sheikh Hasina)가 방글라데시로 돌아갈 것인가?",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/video/inside-story/2026/11/11/will-sheikh-hasina-return-to-bangladesh?traffic_source=rss",
-   "at": "2026-11-11T18:43:21.000Z",
-   "ev": [],
-   "cc": [
-    "Bangladesh"
-   ]
-  },
-  {
-   "id": "c57d9b9b4f44",
-   "t": "Schools in Italy, Scotland and Northern Ireland hit by threats in suspected bomb hoax",
-   "ko": "이탈리아, 스코틀랜드, 북아일랜드의 학교가 폭탄 사기 혐의로 위협을 받았습니다.",
-   "src": "BBC",
-   "u": "https://www.bbc.co.uk/news/articles/cwz0k79pr8z2o?at_medium=RSS&at_campaign=rss",
-   "at": "2026-11-11T18:38:45.000Z",
-   "ev": [],
-   "cc": [
-    "Italy",
-    "United Kingdom",
-    "Ireland"
-   ]
-  },
-  {
-   "id": "3a270928c1cf",
-   "t": "Russia-Ukraine talks turn to post-war security but end without breakthrough",
-   "ko": "러시아-우크라이나 회담, 전후 안보 문제로 전환했지만 돌파구 없이 종료",
-   "src": "BBC",
-   "u": "https://www.bbc.co.uk/news/articles/ck792we7zrz4o?at_medium=RSS&at_campaign=rss",
-   "at": "2026-11-11T18:04:58.000Z",
-   "ev": [
-    "ukraine"
-   ],
-   "cc": [
-    "United States"
-   ]
-  },
-  {
-   "id": "099bf9c6f399",
-   "t": "Spain faces nationwide protests over soaring housing costs",
-   "ko": "스페인, 주택 비용 급증으로 전국적인 시위에 직면",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/video/newsfeed/2026/11/11/spain-faces-nationwide-protests-over-soaring-housing-costs?traffic_source=rss",
-   "at": "2026-11-11T17:49:03.000Z",
-   "ev": [],
-   "cc": [
-    "Spain"
-   ]
-  },
-  {
-   "id": "48e092b1f8af",
-   "t": "Tens of thousands join Poland’s nationalist Independence Day march",
-   "ko": "폴란드 민족주의 독립기념일 행진에 수만 명이 동참",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/news/2026/11/11/tens-of-thousands-join-polands-nationalist-independence-day-march?traffic_source=rss",
-   "at": "2026-11-11T17:38:03.000Z",
-   "ev": [],
-   "cc": [
-    "Poland"
-   ]
-  },
-  {
-   "id": "7cc6dd743277",
-   "t": "Tens of thousands attend Polish nationalist march days afer shootings",
-   "ko": "총격 사건 이후 폴란드 민족주의 행진에 수만 명이 참석",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/tens-of-thousands-attend-polish-nationalist-march-days-afer-shootings",
-   "at": "2026-11-11T17:08:32.000Z",
-   "ev": [],
-   "cc": [
-    "Russia",
-    "Austria"
-   ]
-  },
-  {
-   "id": "9d59dd53a91b",
-   "t": "Ukraine talks in Abu Dhabi bring progress on prisoners but not on peace",
-   "ko": "아부다비에서 열린 우크라이나 회담에서는 수감자들에 대한 진전이 있었지만 평화에 대해서는 진전이 없었습니다.",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/world/2026/nov/11/ukraine-talks-in-abu-dhabi-bring-progress-on-prisoners-but-not-on-peace",
-   "at": "2026-11-11T17:03:43.000Z",
-   "ev": [
-    "ukraine"
-   ],
-   "cc": [
-    "Ukraine",
-    "United States",
-    "Russia"
-   ]
-  },
-  {
-   "id": "45d5c49f84da",
-   "t": "Three Iran-backed suspects plotted attacks including RAF Fairford incident, US says",
-   "ko": "이란 지원 용의자 3명이 RAF 페어포드 사건을 포함한 공격을 계획했다고 미국이 밝혔습니다.",
-   "src": "BBC",
-   "u": "https://www.bbc.co.uk/news/articles/c3rryrryk59zo?at_medium=RSS&at_campaign=rss",
-   "at": "2026-11-11T16:59:34.000Z",
-   "ev": [
-    "iran"
-   ],
-   "cc": [
-    "United States",
-    "United Kingdom"
-   ]
-  },
-  {
-   "id": "690bc503a386",
-   "t": "Tehran will strike US bases in Europe if used to attack Iran, security chief says",
-   "ko": "이란 공격에 테헤란이 사용될 경우 유럽 내 미군 기지를 공격할 것이라고 보안 책임자가 밝혔습니다.",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/france/20261111-tehran-will-strike-us-bases-in-europe-if-used-to-attack-iran-security-chief-says",
-   "at": "2026-11-11T16:45:46.000Z",
-   "ev": [
-    "iran"
-   ],
-   "cc": [
-    "United States",
-    "Iran"
-   ]
-  },
-  {
-   "id": "9e192a2ac325",
-   "t": "US Treasury Secretary Scott Bessent relocated after alleged Iranian threats",
-   "ko": "스콧 베센트 미 재무장관, 이란 위협 의혹으로 사임",
-   "src": "BBC",
-   "u": "https://www.bbc.co.uk/news/articles/cqr7gr0010r2o?at_medium=RSS&at_campaign=rss",
-   "at": "2026-11-11T16:45:11.000Z",
-   "ev": [
-    "iran"
-   ],
-   "cc": [
-    "United States",
-    "Iran"
-   ]
-  },
-  {
-   "id": "7b07678ab79a",
-   "t": "Violent incidents in schools as French students vow to maintain protest pressure",
-   "ko": "프랑스 학생들이 항의 압력을 유지하겠다고 다짐하면서 학교에서 폭력 사건이 발생했습니다.",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/violent-incidents-in-schools-as-french-students-vow-to-maintain-protest-pressure",
-   "at": "2026-11-11T16:35:05.000Z",
-   "ev": [],
-   "cc": [
-    "France"
-   ]
-  },
-  {
-   "id": "adef82c37668",
-   "t": "US envoys to meet Putin and Zelenskyy separately - as it happened",
-   "ko": "미국 특사, 푸틴과 젤렌스키를 따로 만날 예정 - 공교롭게도",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/world/live/2026/nov/11/europe-ukraine-russia-us-talks-abu-dhabi-zelenskyy-latest-news-updates",
-   "at": "2026-11-11T16:08:20.000Z",
-   "ev": [
-    "ukraine"
-   ],
-   "cc": [
-    "United States",
-    "Italy"
-   ]
-  },
-  {
-   "id": "0d9264448014",
-   "t": "Armistice Day in France: Macron honors the End of World War I",
-   "ko": "프랑스 휴전일: 마크롱은 제1차 세계대전 종전을 기념합니다.",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/video/20261111-armistice-day-in-france-commemorating-the-end-of-world-war-i",
-   "at": "2026-11-11T15:57:54.000Z",
-   "ev": [],
-   "cc": [
-    "France"
-   ]
-  },
-  {
-   "id": "52bd891b056e",
-   "t": "Spain: General strike over housing costs before national election",
-   "ko": "스페인: 총선 전 주택 비용 문제로 총파업",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/spain-general-strike-over-housing-costs-before-national-election",
-   "at": "2026-11-11T15:54:40.000Z",
-   "ev": [],
-   "cc": [
-    "Spain"
-   ]
-  },
-  {
-   "id": "263f7a45ce67",
-   "t": "Is the US blue wave a turning point for Europe, too?",
-   "ko": "미국의 블루웨이브가 유럽에도 전환점이 되는 걸까.",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/world/2026/nov/11/is-the-us-blue-wave-a-turning-point-for-europe-too",
-   "at": "2026-11-11T15:40:52.000Z",
-   "ev": [
-    "ukraine",
-    "iran"
-   ],
-   "cc": [
-    "United States",
-    "Switzerland",
-    "Greenland"
-   ]
-  },
-  {
-   "id": "92d201c11859",
-   "t": "Exclusive: EU's Kallas says US 'can't negotiate on our behalf' on lifting Russia sanctions",
-   "ko": "독점 : EU의 Kallas는 러시아 제재 해제에 대해 미국이 '우리를 대신하여 협상할 수 없다'고 말했습니다.",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/tv-shows/talking-europe/20261111-exclusive-eu-s-kallas-says-us-can-t-negotiate-on-our-behalf-on-lifting-russia-sanctions",
-   "at": "2026-11-11T15:15:40.000Z",
-   "ev": [
-    "ukraine"
-   ],
-   "cc": [
-    "United States",
-    "Russia",
-    "Ukraine"
-   ]
-  },
-  {
-   "id": "6d79df247cc1",
-   "t": "Virginia man convicted of murder says he did not kill wife before dismembering her body",
-   "ko": "살인 혐의로 유죄 판결을 받은 버지니아 남성은 아내의 시신을 절단하기 전에 아내를 살해하지 않았다고 말했습니다.",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/us-news/2026/nov/11/virginia-murder-dismembering",
-   "at": "2026-11-11T14:40:16.000Z",
-   "ev": [],
-   "cc": []
-  },
-  {
-   "id": "d04de3dbce54",
-   "t": "Consultant doctors in England call off two-day pay strike",
-   "ko": "영국의 컨설턴트 의사들이 이틀간의 임금 파업을 취소했습니다",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/society/2026/nov/11/consultant-doctors-in-england-call-off-nhs-strike",
-   "at": "2026-11-11T14:33:44.000Z",
-   "ev": [],
-   "cc": [
-    "United Kingdom"
-   ]
-  },
-  {
-   "id": "1210327ea4b0",
-   "t": "Rubio backs blockade, Vance wants deal: Is Trump’s team split on Iran war?",
-   "ko": "루비오는 봉쇄를 지지하고 밴스는 거래를 원합니다: 트럼프 팀은 이란 전쟁으로 분열되어 있습니까?",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/news/2026/11/11/is-trump-team-split-on-iran?traffic_source=rss",
-   "at": "2026-11-11T14:10:47.000Z",
-   "ev": [
-    "iran"
-   ],
-   "cc": [
-    "Iran",
-    "United States"
-   ]
-  },
-  {
-   "id": "ef9e27d31c2b",
-   "t": "Killing of journalist underscores deteriorating conditions in Ecuador",
-   "ko": "언론인 살해로 에콰도르 상황 악화",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/world/2026/nov/11/ecuador-journalist-killing",
-   "at": "2026-11-11T14:00:52.000Z",
-   "ev": [],
-   "cc": [
-    "Ecuador"
-   ]
-  },
-  {
-   "id": "6f3f5efb77a8",
-   "t": "Tundu Lissu: After escaping the death penalty, what does his guilty verdict mean for Tanzania's democracy?",
-   "ko": "Tundu Lissu: 사형을 면한 후 그의 유죄 판결은 탄자니아의 민주주의에 어떤 의미가 있습니까?",
-   "src": "DW",
-   "u": "https://www.dw.com/en/tundu-lissu-after-escaping-the-death-penalty-what-does-his-guilty-verdict-mean-for-tanzania-s-democracy/a-79908512?maca=en-rss-en-world-4025-rdf",
-   "at": "2026-11-11T13:33:00.000Z",
-   "ev": [],
-   "cc": [
-    "Tanzania"
    ]
   }
  ]
