@@ -1,17 +1,17 @@
 {
- "updated": "2026-11-12T19:08:16.831Z",
+ "updated": "2026-11-13T00:34:17.316Z",
  "sources": {
   "BBC": {
    "ok": true,
-   "n": 11
+   "n": 12
   },
   "Al Jazeera": {
    "ok": true,
-   "n": 11
+   "n": 6
   },
   "The Guardian": {
    "ok": true,
-   "n": 14
+   "n": 16
   },
   "DW": {
    "ok": true,
@@ -19,11 +19,11 @@
   },
   "France 24": {
    "ok": true,
-   "n": 10
+   "n": 15
   },
   "UN News": {
    "ok": true,
-   "n": 2
+   "n": 4
   },
   "NPR": {
    "ok": true,
@@ -32,17 +32,288 @@
  },
  "items": [
   {
+   "id": "0b8313c2139d",
+   "t": "Neither war nor peace in Tigray - is Ethiopia's latest conflict really over?",
+   "ko": "티그라이의 전쟁도 평화도 아닌 에티오피아의 최근 분쟁은 정말로 끝난 것인가?",
+   "src": "BBC",
+   "u": "https://www.bbc.co.uk/news/articles/cm3egjgvp794o?at_medium=RSS&at_campaign=rss",
+   "at": "2026-11-13T00:20:24.000Z",
+   "ev": [
+    "ethiopia"
+   ],
+   "cc": [
+    "Ethiopia"
+   ]
+  },
+  {
    "id": "dc29cf3a466c",
    "t": "Hegseth gives medal to guard who reprimanded him at Arlington national cemetery – US politics live",
    "ko": "헤그세스, 알링턴 국립묘지에서 자신을 질책한 경호원에게 메달 수여 - 미국 정치 생방송",
    "src": "The Guardian",
    "u": "https://www.theguardian.com/us-news/live/2026/nov/12/mississippi-scott-colom-ukraine-donald-trump",
-   "at": "2026-11-12T18:59:53.000Z",
+   "at": "2026-11-13T00:19:48.000Z",
    "ev": [
     "ukraine"
    ],
    "cc": [
     "United States"
+   ]
+  },
+  {
+   "id": "e780ce5da452",
+   "t": "Second world war ‘brain’ bunker in cliffs of Dover opens to public",
+   "ko": "도버 절벽에 있는 제2차 세계대전 '브레인' 벙커가 대중에게 공개됐다.",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/world/2026/nov/13/fan-bay-plotting-room-national-trust-white-cliffs-dover",
+   "at": "2026-11-13T00:01:03.000Z",
+   "ev": [],
+   "cc": [
+    "Germany"
+   ]
+  },
+  {
+   "id": "5d21b1e6d150",
+   "t": "Iran war live: Riyadh, China discuss Houthis as group claims Aramco attacks",
+   "ko": "이란 전쟁 라이브: 리야드, 중국, 그룹이 아람코 공격을 주장하면서 후티 반군에 대해 논의",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/liveblog/2026/11/13/iran-war-live-riyadh-china-discuss-houthis-as-group-claims-aramco-attacks?traffic_source=rss",
+   "at": "2026-11-13T00:00:26.000Z",
+   "ev": [
+    "iran",
+    "yemen"
+   ],
+   "cc": [
+    "Iran",
+    "China"
+   ]
+  },
+  {
+   "id": "d2e11db3e954",
+   "t": "Yemen’s Houthis renew strikes on Saudi Arabia as UNSC extends sanctions",
+   "ko": "UNSC의 제재 연장에 따라 예멘 후티 반군, 사우디아라비아에 대한 공습 재개",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/11/12/yemens-houthis-renew-strikes-on-saudi-arabia-as-unsc-extends-sanctions?traffic_source=rss",
+   "at": "2026-11-12T23:52:38.000Z",
+   "ev": [
+    "yemen"
+   ],
+   "cc": [
+    "Yemen",
+    "Saudi Arabia"
+   ]
+  },
+  {
+   "id": "2f056bf8a423",
+   "t": "Police identify suspect and victim in Washington DC gym shooting that also injured four",
+   "ko": "경찰, 워싱턴 DC 체육관 총격 사건 용의자와 피해자 신원 확인",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/us-news/2026/nov/12/dc-shooting-logan-circle",
+   "at": "2026-11-12T23:43:42.000Z",
+   "ev": [],
+   "cc": []
+  },
+  {
+   "id": "710214022f76",
+   "t": "Eight killed, including two children, in New York building collapse",
+   "ko": "뉴욕 빌딩 붕괴로 어린이 2명 포함 8명 사망",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/americas/20261112-eight-killed-including-two-children-in-new-york-building-collapse",
+   "at": "2026-11-12T22:58:23.000Z",
+   "ev": [],
+   "cc": []
+  },
+  {
+   "id": "e58ef6dc8ab5",
+   "t": "Washington DC shooting: police identify victim and suspect – as it happened",
+   "ko": "워싱턴 DC 총격 사건: 경찰이 피해자와 용의자를 식별했습니다.",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/us-news/live/2026/nov/12/washington-dc-shooting-logan-circle-latest-updates",
+   "at": "2026-11-12T22:54:05.000Z",
+   "ev": [],
+   "cc": []
+  },
+  {
+   "id": "4222657b9900",
+   "t": "Putin takes hard line in US talks as Ukraine says Starlink disrupted again",
+   "ko": "푸틴 대통령은 우크라이나가 스타링크가 다시 중단되었다고 말하자 미국 회담에서 강경 입장을 취했습니다.",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/world/2026/nov/12/vladimir-putin-russia-target-foreign-troops-ukraine-elon-musk-starlink",
+   "at": "2026-11-12T22:26:37.000Z",
+   "ev": [
+    "ukraine"
+   ],
+   "cc": [
+    "United States",
+    "Ukraine",
+    "Russia"
+   ]
+  },
+  {
+   "id": "086093dcba5c",
+   "t": "Russia using 'illegal and unethical means, knows Europe won't use same means back', expert says",
+   "ko": "전문가 \"러시아, 불법적이고 비윤리적 수단 사용, 유럽도 같은 수단 사용하지 않을 것 알고 있다\"",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/tv-shows/a-propos/20261112-russia-using-illegal-and-unethical-means-knows-europe-won-t-use-same-means-back-expert-says",
+   "at": "2026-11-12T22:19:34.000Z",
+   "ev": [],
+   "cc": [
+    "Russia"
+   ]
+  },
+  {
+   "id": "4fdcef949d9c",
+   "t": "Across Africa: Tunisians drawn into Russia's war with Ukraine",
+   "ko": "아프리카 전역: 러시아와 우크라이나의 전쟁에 참여하는 튀니지인",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/across-africa-tunisians-drawn-into-russia-s-war-with-ukraine",
+   "at": "2026-11-12T21:26:17.000Z",
+   "ev": [
+    "ukraine"
+   ],
+   "cc": [
+    "Russia",
+    "Ukraine",
+    "South Africa"
+   ]
+  },
+  {
+   "id": "9ddce2c87e30",
+   "t": "Ngo criticizes UN's response to massacre in South Sudan",
+   "ko": "Ngo, 남수단 학살에 대한 유엔의 대응 비판",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/ngo-criticizes-un-s-response-to-massacre-in-south-sudan",
+   "at": "2026-11-12T21:20:52.000Z",
+   "ev": [
+    "southsudan"
+   ],
+   "cc": [
+    "South Sudan",
+    "Guinea",
+    "France"
+   ]
+  },
+  {
+   "id": "82deb12ddacb",
+   "t": "Deadly shooting in Washington DC",
+   "ko": "워싱턴 DC에서 총격 사건 발생",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/video/newsfeed/2026/11/12/deadly-shooting-in-washington-dc?traffic_source=rss",
+   "at": "2026-11-12T21:18:24.000Z",
+   "ev": [],
+   "cc": [
+    "United States"
+   ]
+  },
+  {
+   "id": "63cf3339d447",
+   "t": "'There's no such thing as safe' in contact sports, brain injury expert says",
+   "ko": "뇌손상 전문가 “접촉 스포츠에 안전이란 없다”",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/there-s-no-such-thing-as-safe-in-contact-sports-brain-injury-expert-says",
+   "at": "2026-11-12T21:09:43.000Z",
+   "ev": [],
+   "cc": [
+    "France"
+   ]
+  },
+  {
+   "id": "0752b83f5acd",
+   "t": "Norway follows Finland in barring Russian athletes from entering country over Ukraine war",
+   "ko": "노르웨이, 핀란드에 이어 우크라이나 전쟁으로 러시아 선수단 입국 금지",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/sport/2026/nov/12/finland-bars-russian-athletes-ukraine",
+   "at": "2026-11-12T21:00:12.000Z",
+   "ev": [
+    "ukraine"
+   ],
+   "cc": [
+    "Norway",
+    "Finland",
+    "Russia"
+   ]
+  },
+  {
+   "id": "8686ec50a7cc",
+   "t": "Leeds woman, 18, admits knife murder of 16-year-old love rival",
+   "ko": "18세 리즈 여성, 16세 연인 칼로 살해한 사실 인정",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/uk-news/2026/nov/12/woman-18-admits-murdering-girl-16-in-leeds",
+   "at": "2026-11-12T20:57:07.000Z",
+   "ev": [],
+   "cc": []
+  },
+  {
+   "id": "235130676e9e",
+   "t": "Regional security dominates European talks in Dublin amid hybrid attacks",
+   "ko": "하이브리드 공격 속에서 지역 안보가 더블린에서 열린 유럽 회담을 장악했습니다.",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/11/12/regional-security-dominates-european-talks-in-dublin-amid-hybrid-attacks?traffic_source=rss",
+   "at": "2026-11-12T20:12:21.000Z",
+   "ev": [
+    "ukraine"
+   ],
+   "cc": [
+    "Ukraine",
+    "Ireland"
+   ]
+  },
+  {
+   "id": "e264e53e674a",
+   "t": "Russian warship hit by Ukrainian drone in Gulf of Finland",
+   "ko": "핀란드 만에서 우크라이나 드론이 러시아 군함을 공격했다",
+   "src": "BBC",
+   "u": "https://www.bbc.co.uk/news/articles/cmn0d33zz34zo?at_medium=RSS&at_campaign=rss",
+   "at": "2026-11-12T20:09:16.000Z",
+   "ev": [
+    "ukraine"
+   ],
+   "cc": [
+    "Russia",
+    "Ukraine",
+    "Finland"
+   ]
+  },
+  {
+   "id": "cafcfcf76e17",
+   "t": "Israeli strike on Gaza hospital kills six, including surgeon, medics say",
+   "ko": "이스라엘, 가자지구 병원 공습으로 외과의사 등 6명 사망",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/israeli-strike-on-gaza-hospital-kills-six-including-surgeon-medics-say",
+   "at": "2026-11-12T20:03:55.000Z",
+   "ev": [
+    "gaza"
+   ],
+   "cc": [
+    "Israel",
+    "Palestine"
+   ]
+  },
+  {
+   "id": "a3949491986e",
+   "t": "Zelensky warns Europe over US-Russia talks on broader security arrangements",
+   "ko": "Zelensky는 광범위한 안보 조치에 대한 미-러 회담에 대해 유럽에 경고했습니다.",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/zelensky-warns-europe-over-us-russia-talks-on-broader-security-arrangements",
+   "at": "2026-11-12T19:53:15.000Z",
+   "ev": [
+    "ukraine"
+   ],
+   "cc": [
+    "Ukraine",
+    "United States",
+    "Russia"
+   ]
+  },
+  {
+   "id": "f532866572ca",
+   "t": "Suspected bomb hoax threats force fresh evacuations of Italian schools",
+   "ko": "폭탄 사기 위협으로 의심되는 이탈리아 학교에서 다시 대피",
+   "src": "BBC",
+   "u": "https://www.bbc.co.uk/news/articles/cr894w453e90o?at_medium=RSS&at_campaign=rss",
+   "at": "2026-11-12T19:23:02.000Z",
+   "ev": [],
+   "cc": [
+    "Italy"
    ]
   },
   {
@@ -68,14 +339,19 @@
    "cc": []
   },
   {
-   "id": "e58ef6dc8ab5",
-   "t": "Washington DC shooting: suspect confirmed dead after one person is killed and four injured – latest updates",
-   "ko": "워싱턴 DC 총격 사건: 1명이 사망하고 4명이 부상한 후 용의자가 사망한 것으로 확인됨 – 최신 업데이트",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/us-news/live/2026/nov/12/washington-dc-shooting-logan-circle-latest-updates",
-   "at": "2026-11-12T18:31:45.000Z",
-   "ev": [],
-   "cc": []
+   "id": "3f90b868c268",
+   "t": "Winter is coming: Putin seeks to 'hammer Ukrainians, their power grid, their water supplies'",
+   "ko": "겨울이 다가오고 있다: 푸틴 대통령은 '우크라이나 국민과 그들의 전력망, 물 공급을 망치려고' 하고 있다.",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/video/20261112-winter-is-coming-putin-seeks-to-hammer-ukrainians-their-power-grid-their-water-supplies",
+   "at": "2026-11-12T18:45:44.000Z",
+   "ev": [
+    "ukraine"
+   ],
+   "cc": [
+    "Russia",
+    "Ukraine"
+   ]
   },
   {
    "id": "1070d7e856ad",
@@ -157,38 +433,6 @@
    "ev": [],
    "cc": [
     "France"
-   ]
-  },
-  {
-   "id": "4222657b9900",
-   "t": "Putin takes hard line in US talks as Ukraine says Starlink disrupted again",
-   "ko": "푸틴 대통령은 우크라이나가 스타링크가 다시 중단되었다고 말하자 미국 회담에서 강경 입장을 취했습니다.",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/world/2026/nov/12/vladimir-putin-russia-target-foreign-troops-ukraine-elon-musk-starlink",
-   "at": "2026-11-12T17:26:51.000Z",
-   "ev": [
-    "ukraine"
-   ],
-   "cc": [
-    "United States",
-    "Ukraine",
-    "Russia"
-   ]
-  },
-  {
-   "id": "0752b83f5acd",
-   "t": "Finland bars Russian athletes from entering country over Ukraine war",
-   "ko": "핀란드는 우크라이나 전쟁으로 러시아 선수들의 입국을 금지했다.",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/sport/2026/nov/12/finland-bars-russian-athletes-ukraine",
-   "at": "2026-11-12T17:23:51.000Z",
-   "ev": [
-    "ukraine"
-   ],
-   "cc": [
-    "Finland",
-    "Russia",
-    "Ukraine"
    ]
   },
   {
@@ -535,18 +779,6 @@
    ]
   },
   {
-   "id": "f532866572ca",
-   "t": "Suspected bomb hoax threats force fresh evacuations of Italian schools",
-   "ko": "폭탄 사기 위협으로 의심되는 이탈리아 학교에서 다시 대피",
-   "src": "BBC",
-   "u": "https://www.bbc.co.uk/news/articles/cr894w453e90o?at_medium=RSS&at_campaign=rss",
-   "at": "2026-11-12T12:39:39.000Z",
-   "ev": [],
-   "cc": [
-    "Italy"
-   ]
-  },
-  {
    "id": "7cf80c14f947",
    "t": "Israeli airstrike on Nasser hospital in Gaza kills surgeon and five others",
    "ko": "이스라엘, 가자지구 나세르 병원 공습으로 외과의사 외 5명 사망",
@@ -573,6 +805,32 @@
    ],
    "cc": [
     "Haiti"
+   ]
+  },
+  {
+   "id": "ff8180ddaf74",
+   "t": "Aid is the ‘only hope’ for millions in Sudan, WFP chief warns, as funding cuts deepen hunger crisis",
+   "ko": "자금 삭감으로 기아 위기가 심화됨에 따라 WFP 사무총장은 수단 수백만 명에게 '유일한 희망'이라고 경고했습니다.",
+   "src": "UN News",
+   "u": "https://news.un.org/feed/view/en/story/2026/11/1168793",
+   "at": "2026-11-12T12:00:00.000Z",
+   "ev": [
+    "sudan"
+   ],
+   "cc": [
+    "Sudan"
+   ]
+  },
+  {
+   "id": "6307c8deb173",
+   "t": "New platform aims to get money moving before disaster strikes",
+   "ko": "재난이 닥치기 전에 자금을 이동시키는 것을 목표로 하는 새로운 플랫폼",
+   "src": "UN News",
+   "u": "https://news.un.org/feed/view/en/story/2026/11/1168794",
+   "at": "2026-11-12T12:00:00.000Z",
+   "ev": [],
+   "cc": [
+    "Turkey"
    ]
   },
   {
@@ -800,8 +1058,8 @@
   },
   {
    "id": "39b7babe27ba",
-   "t": "Israeli strike on a Gaza hospital kills 6 people, health authorities say",
-   "ko": "이스라엘 가자지구 병원 공습으로 6명 사망, 보건당국 발표",
+   "t": "An Israeli strike on a Gaza hospital kills 6 people, including a doctor and a child",
+   "ko": "이스라엘, 가자지구 병원 공습으로 의사와 어린이 등 6명 사망",
    "src": "NPR",
    "u": "https://www.npr.org/2026/11/12/nx-s1-6038339/israeli-strike-gaza-hospital",
    "at": "2026-11-12T09:29:30.000Z",
@@ -1909,269 +2167,6 @@
    ],
    "cc": [
     "Israel",
-    "Palestine"
-   ]
-  },
-  {
-   "id": "6031cdb16932",
-   "t": "Wave of hoax bomb threats sent to schools in UK, Ireland and Italy",
-   "ko": "영국, 아일랜드, 이탈리아의 학교에 가짜 폭탄 위협이 급증",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/europe/20261111-hundreds-of-schools-in-italy-evacuated-after-receiving-bomb-threats",
-   "at": "2026-11-11T10:57:35.000Z",
-   "ev": [],
-   "cc": [
-    "United Kingdom",
-    "Ireland",
-    "Italy"
-   ]
-  },
-  {
-   "id": "35d7c2b01e2a",
-   "t": "Spain's first general strike in 14 years, 3 weeks before national polls",
-   "ko": "스페인, 총선 3주 앞두고 14년 만에 첫 총파업",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/spain-s-first-general-strike-in-14-years-3-weeks-before-national-polls",
-   "at": "2026-11-11T10:30:07.000Z",
-   "ev": [],
-   "cc": [
-    "Spain"
-   ]
-  },
-  {
-   "id": "4e6fd8c5cba0",
-   "t": "Workers across Spain stage first general strike in 14 years",
-   "ko": "스페인 전역 노동자, 14년 만에 첫 총파업",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/news/2026/11/11/spains-first-general-strike-in-14-years-begins?traffic_source=rss",
-   "at": "2026-11-11T10:18:28.000Z",
-   "ev": [],
-   "cc": [
-    "Spain"
-   ]
-  },
-  {
-   "id": "19ede4959bdf",
-   "t": "US Treasury chief Bessent moved to military base after ‘Iranian threats’",
-   "ko": "베센트 미 재무장관, '이란 위협' 이후 군사기지로 이동",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/news/2026/11/11/us-treasury-chief-bessent-moved-to-military-base-after-iranian-threats?traffic_source=rss",
-   "at": "2026-11-11T10:16:38.000Z",
-   "ev": [
-    "iran"
-   ],
-   "cc": [
-    "United States",
-    "Iran"
-   ]
-  },
-  {
-   "id": "3a7d9d7f9f45",
-   "t": "One Nation Victoria candidate apologises for slew of offensive comments about lesbians, Indians and Julia Gillard",
-   "ko": "One Nation Victoria 후보는 레즈비언, 인디언, Julia Gillard에 대한 수많은 공격적인 발언에 대해 사과합니다.",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/australia-news/2026/nov/11/one-nation-candidate-apologises-offensive-comments-ntwnfb",
-   "at": "2026-11-11T10:12:42.000Z",
-   "ev": [],
-   "cc": [
-    "Australia"
-   ]
-  },
-  {
-   "id": "8f76ea099942",
-   "t": "An Iran-backed trio is accused of plotting attacks on a U.K. base hosting U.S. jets",
-   "ko": "이란의 지원을 받는 3인조가 미국 전투기가 주둔하고 있는 영국 기지에 대한 공격을 모의한 혐의로 기소됐다.",
-   "src": "NPR",
-   "u": "https://www.npr.org/2026/11/10/nx-s1-6036786/uk-iran-airbase-russia-spy",
-   "at": "2026-11-11T10:02:54.000Z",
-   "ev": [
-    "iran"
-   ],
-   "cc": [
-    "United States",
-    "Russia"
-   ]
-  },
-  {
-   "id": "090d6bdb7bd3",
-   "t": "Nayib Bukele says Salvadoran troops destroyed gang HQ in Haiti",
-   "ko": "Nayib Bukele는 엘살바도르 군대가 아이티의 갱단 본부를 파괴했다고 말했습니다.",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/nayib-bukele-says-salvadoran-troops-destroyed-gang-hq-in-haiti",
-   "at": "2026-11-11T09:58:42.000Z",
-   "ev": [
-    "haiti"
-   ],
-   "cc": [
-    "Haiti"
-   ]
-  },
-  {
-   "id": "0434155b7b85",
-   "t": "Spain's workers hold a general strike over housing costs before national election",
-   "ko": "스페인 노동자, 총선 앞두고 주택비용 문제로 총파업",
-   "src": "NPR",
-   "u": "https://www.npr.org/2026/11/11/nx-s1-6037314/spain-general-strike",
-   "at": "2026-11-11T09:54:54.000Z",
-   "ev": [],
-   "cc": [
-    "Spain"
-   ]
-  },
-  {
-   "id": "cfde248311d8",
-   "t": "Watch: Vinícius Jr's surprise message to boy who received prosthetic legs after Sudan drone strike",
-   "ko": "보기: 수단 드론 공격 후 의족을 받은 소년에게 보내는 비니시우스 주니어의 깜짝 메시지",
-   "src": "BBC",
-   "u": "https://www.bbc.co.uk/news/videos/cm894wg251pzo?at_medium=RSS&at_campaign=rss",
-   "at": "2026-11-11T09:28:36.000Z",
-   "ev": [
-    "sudan"
-   ],
-   "cc": [
-    "Sudan"
-   ]
-  },
-  {
-   "id": "028185b6b4fe",
-   "t": "US Treasury chief Scott Bessent is reportedly latest Trump official to move to military base",
-   "ko": "스콧 베센트 미국 재무장관이 최근 트럼프 대통령의 군사기지로 이동한 것으로 알려졌습니다.",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/us-news/2026/nov/11/us-treasury-chief-scott-bessent-moves-military-base-iran-threats",
-   "at": "2026-11-11T09:11:30.000Z",
-   "ev": [
-    "iran"
-   ],
-   "cc": [
-    "United States",
-    "Iran"
-   ]
-  },
-  {
-   "id": "88717cd980a5",
-   "t": "US warns Madagascar over growing military ties with Russia",
-   "ko": "미국, 마다가스카르에 러시아와의 군사적 관계 확대 경고",
-   "src": "BBC",
-   "u": "https://www.bbc.co.uk/news/articles/crkgv58pknyeo?at_medium=RSS&at_campaign=rss",
-   "at": "2026-11-11T07:30:15.000Z",
-   "ev": [
-    "sahel"
-   ],
-   "cc": [
-    "United States",
-    "Madagascar",
-    "Russia"
-   ]
-  },
-  {
-   "id": "81c38962384c",
-   "t": "Yemeni forces, Houthis exchange attacks, claim to inflict heavy losses",
-   "ko": "예멘군, 후티 반군 공격, 막대한 손실 주장",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/news/2026/11/11/yemeni-forces-houthis-exchange-attacks-claim-to-inflict-heavy-losses?traffic_source=rss",
-   "at": "2026-11-11T05:39:26.000Z",
-   "ev": [
-    "yemen"
-   ],
-   "cc": [
-    "Yemen"
-   ]
-  },
-  {
-   "id": "6c235661bd82",
-   "t": "Ukraine captures first Indonesian prisoner of war amid surge in Russian recruitment",
-   "ko": "우크라이나, 러시아 포로 모집 급증 속에 첫 인도네시아 전쟁 포로 체포",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/world/2026/nov/11/ukraine-indonesian-pow-prisoner-of-war-russia",
-   "at": "2026-11-11T05:33:27.000Z",
-   "ev": [
-    "ukraine"
-   ],
-   "cc": [
-    "Ukraine",
-    "Indonesia",
-    "Russia"
-   ]
-  },
-  {
-   "id": "92a0a78d8ebb",
-   "t": "‘I pay $500 for 5 square metres’: Spain’s protesters, in their own words",
-   "ko": "'나는 5평방미터에 500달러를 지불한다': 스페인 시위대, 그들 자신의 말",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/news/2026/11/11/i-pay-500-for-5-square-metres-spains-protesters-in-their-own-words?traffic_source=rss",
-   "at": "2026-11-11T05:16:57.000Z",
-   "ev": [],
-   "cc": [
-    "Spain"
-   ]
-  },
-  {
-   "id": "82fd68db9e99",
-   "t": "US charges three men for allegedly plotting attack on UK base",
-   "ko": "미국, 영국 기지 공격 모의 혐의로 남성 3명 기소",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/video/newsfeed/2026/11/11/us-charges-three-men-for-allegedly-plotting-attack-on-uk-base?traffic_source=rss",
-   "at": "2026-11-11T05:01:47.000Z",
-   "ev": [],
-   "cc": [
-    "United States",
-    "United Kingdom"
-   ]
-  },
-  {
-   "id": "ba2e02794cff",
-   "t": "Russia claims interception of 146 drones in Leningrad region",
-   "ko": "러시아는 레닌그라드 지역에서 드론 146대를 요격했다고 주장했다.",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/news/2026/11/11/russia-claims-interception-of-146-drones-in-leningrad-region?traffic_source=rss",
-   "at": "2026-11-11T04:34:47.000Z",
-   "ev": [
-    "ukraine"
-   ],
-   "cc": [
-    "Russia",
-    "Ukraine"
-   ]
-  },
-  {
-   "id": "a7dce117f838",
-   "t": "Section 219: the future of US-Israeli defence partnership",
-   "ko": "섹션 219: 미국-이스라엘 국방 파트너십의 미래",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/video/newsfeed/2026/11/11/aje-onl-nf_the-future-of-us-israeli-defence-partnership-101126?traffic_source=rss",
-   "at": "2026-11-11T03:48:58.000Z",
-   "ev": [],
-   "cc": [
-    "United States",
-    "Israel"
-   ]
-  },
-  {
-   "id": "4e22e3f1ddbe",
-   "t": "Iran opens training camp for women in readiness for war",
-   "ko": "이란, 전쟁 준비 중인 여성들을 위한 훈련 캠프 개설",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/video/newsfeed/2026/11/11/aje-onl-nf_iran-opens-training-camp-for-women-101126?traffic_source=rss",
-   "at": "2026-11-11T03:21:32.000Z",
-   "ev": [
-    "iran"
-   ],
-   "cc": [
-    "Iran",
-    "United States"
-   ]
-  },
-  {
-   "id": "a811fef19efc",
-   "t": "Labor won’t scrap ABC and SBS ombudsmen in favour of external body as suggested by antisemitism envoy",
-   "ko": "노동당은 반유대주의 특사가 제안한 대로 외부 기관을 위해 ABC와 SBS 옴부즈맨을 폐기하지 않을 것입니다.",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/media/2026/nov/11/labor-abc-sbs-ombudsmen-antisemitism-envoy-gaza-coverage-ntwnfb",
-   "at": "2026-11-11T03:10:37.000Z",
-   "ev": [
-    "gaza"
-   ],
-   "cc": [
     "Palestine"
    ]
   }
