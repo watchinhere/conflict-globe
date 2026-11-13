@@ -1,17 +1,17 @@
 {
- "updated": "2026-11-13T00:34:17.316Z",
+ "updated": "2026-11-13T07:17:10.870Z",
  "sources": {
   "BBC": {
    "ok": true,
-   "n": 12
+   "n": 13
   },
   "Al Jazeera": {
    "ok": true,
-   "n": 6
+   "n": 11
   },
   "The Guardian": {
    "ok": true,
-   "n": 16
+   "n": 15
   },
   "DW": {
    "ok": true,
@@ -19,11 +19,11 @@
   },
   "France 24": {
    "ok": true,
-   "n": 15
+   "n": 14
   },
   "UN News": {
    "ok": true,
-   "n": 4
+   "n": 5
   },
   "NPR": {
    "ok": true,
@@ -31,6 +31,222 @@
   }
  },
  "items": [
+  {
+   "id": "3dbe4f88fe02",
+   "t": "The Gulf must build security that can outlast this war",
+   "ko": "걸프만은 이 전쟁에서도 지속될 수 있는 안보를 구축해야 합니다.",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/opinions/2026/11/13/the-gulf-must-build-security-that-can-outlast-this-war?traffic_source=rss",
+   "at": "2026-11-13T07:08:01.000Z",
+   "ev": [],
+   "cc": []
+  },
+  {
+   "id": "f4e83571e3a8",
+   "t": "Calls for crackdown on China chip exports – as it happened",
+   "ko": "중국 칩 수출에 대한 단속 촉구 – 실제로 일어난 일",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/technology/live/2026/nov/13/nvidia-jensen-huang-to-testify-before-congress-live-latest-updates",
+   "at": "2026-11-13T06:50:49.000Z",
+   "ev": [],
+   "cc": [
+    "China"
+   ]
+  },
+  {
+   "id": "f0ede4ad34ec",
+   "t": "Victoria election 2026: Labor and Greens trade accusations of ‘dodgy deals’ as preference fight puts key seats at risk",
+   "ko": "2026년 빅토리아 선거: 노동당과 녹색당은 우선권 싸움으로 주요 의석을 위험에 빠뜨리는 '위협적인 거래'에 대한 비난",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/australia-news/2026/nov/13/victoria-state-election-2026-labor-greens-preference-deals-seats",
+   "at": "2026-11-13T06:16:06.000Z",
+   "ev": [],
+   "cc": []
+  },
+  {
+   "id": "8e5d3db34286",
+   "t": "Boxer on death row in Iran vows ‘not to bow before oppression’ after winning rights prize",
+   "ko": "이란 복서, 인권상 수상 후 '탄압 앞에 고개 숙이지 않겠다' 다짐",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/global-development/2026/nov/13/mohammad-javad-vafaei-sani-iran-boxer-death-row-magnitsky-award",
+   "at": "2026-11-13T06:00:11.000Z",
+   "ev": [
+    "iran"
+   ],
+   "cc": [
+    "Iran"
+   ]
+  },
+  {
+   "id": "32abfda572c1",
+   "t": "More than 60% of Germany’s female soldiers report harassment or abuse",
+   "ko": "독일 여군 중 60% 이상이 괴롭힘이나 학대를 신고했습니다.",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/world/2026/nov/13/more-than-60-of-germanys-female-soldiers-report-harassment-or-abuse",
+   "at": "2026-11-13T05:00:09.000Z",
+   "ev": [],
+   "cc": [
+    "Germany"
+   ]
+  },
+  {
+   "id": "9b4e43af3f13",
+   "t": "UNRWA funding cuts deepen hardship for Palestinian refugees in Lebanon",
+   "ko": "UNRWA 자금 삭감으로 레바논 내 팔레스타인 난민의 어려움이 가중됨",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/features/2026/11/13/unrwa-funding-cuts-deepen-hardship-for-palestinian-refugees-in-lebanon?traffic_source=rss",
+   "at": "2026-11-13T04:51:56.000Z",
+   "ev": [
+    "lebanon"
+   ],
+   "cc": [
+    "Palestine",
+    "Lebanon",
+    "Israel"
+   ]
+  },
+  {
+   "id": "ec73f916010d",
+   "t": "Iranophobia: Netanyahu’s bid to transform fear into political survival",
+   "ko": "이란 공포증: 두려움을 정치적 생존으로 바꾸려는 네타냐후의 시도",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/11/13/iranophobia-netanyahus-bid-to-transform-fear-into-political-survival?traffic_source=rss",
+   "at": "2026-11-13T04:48:40.000Z",
+   "ev": [
+    "iran"
+   ],
+   "cc": [
+    "Iran"
+   ]
+  },
+  {
+   "id": "388c180a1aec",
+   "t": "Microsoft struggles to fix huge outage affecting Outlook and Teams",
+   "ko": "Microsoft는 Outlook과 Teams에 영향을 미치는 대규모 중단 문제를 해결하기 위해 고군분투하고 있습니다.",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/technology/2026/nov/13/microsoft-outage-outlook-teams-word-excel-reports",
+   "at": "2026-11-13T04:24:26.000Z",
+   "ev": [],
+   "cc": []
+  },
+  {
+   "id": "1aac2beac604",
+   "t": "Iran says it targeted US radar site in Bahrain",
+   "ko": "이란, 바레인에 있는 미국 레이더 기지를 공격했다고 밝혔습니다.",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/11/13/iran-says-it-struck-us-radar-site-in-bahrain?traffic_source=rss",
+   "at": "2026-11-13T03:17:27.000Z",
+   "ev": [
+    "iran"
+   ],
+   "cc": [
+    "Iran",
+    "United States",
+    "Bahrain"
+   ]
+  },
+  {
+   "id": "c933d296024f",
+   "t": "Gaza surgeon films aftermath of Israeli strike",
+   "ko": "가자지구 외과의사가 이스라엘 공습의 여파를 촬영하다",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/video/newsfeed/2026/11/13/gaza-surgeon-films-aftermath-of-israeli-strike?traffic_source=rss",
+   "at": "2026-11-13T03:11:43.000Z",
+   "ev": [
+    "gaza"
+   ],
+   "cc": [
+    "Palestine",
+    "Israel"
+   ]
+  },
+  {
+   "id": "90f252d740f2",
+   "t": "Teen prodigy, Netflix star, prisoner: the story of Hong Kong dissident Joshua Wong – podcast",
+   "ko": "10대 신동, 넷플릭스 스타, 죄수: 홍콩 반체제 인사 조슈아 웡의 이야기 – 팟캐스트",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/news/audio/2026/nov/13/teen-prodigy-netflix-star-prisoner-the-story-of-hong-kong-dissident-joshua-wong-podcast",
+   "at": "2026-11-13T03:00:06.000Z",
+   "ev": [],
+   "cc": [
+    "Hong Kong",
+    "China"
+   ]
+  },
+  {
+   "id": "d4a4eb02dd60",
+   "t": "Finland detects strike on Russian warship as Zelenskyy meets US envoys",
+   "ko": "Zelenskyy가 미국 특사를 만나는 동안 핀란드는 러시아 군함에 대한 공격을 감지했습니다.",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/11/13/finland-detects-strike-on-russian-warship-as-zelenskyy-meets-us-envoys?traffic_source=rss",
+   "at": "2026-11-13T02:35:21.000Z",
+   "ev": [
+    "ukraine"
+   ],
+   "cc": [
+    "Finland",
+    "Russia",
+    "United States"
+   ]
+  },
+  {
+   "id": "5ac71e580a45",
+   "t": "Trump moots toppling Cuba authorities before leaving office",
+   "ko": "트럼프, 퇴임 전 쿠바 당국 축출에 대해 논란",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/11/13/trump-moots-toppling-cuba-authorities-before-leaving-office?traffic_source=rss",
+   "at": "2026-11-13T02:33:28.000Z",
+   "ev": [],
+   "cc": [
+    "Cuba",
+    "United States"
+   ]
+  },
+  {
+   "id": "5564dd6af202",
+   "t": "Haitian police retake national stadium from gangs after two years",
+   "ko": "아이티 경찰, 갱단으로부터 2년 만에 국립경기장 탈환",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/americas/20261113-haitian-police-retake-national-stadium-from-gangs-after-two-years",
+   "at": "2026-11-13T02:01:26.000Z",
+   "ev": [
+    "haiti"
+   ],
+   "cc": [
+    "Haiti",
+    "El Salvador"
+   ]
+  },
+  {
+   "id": "b1f9bb88b0aa",
+   "t": "After Iraq ex-MP’s killing, Lebanon asks Syria to extradite suspects",
+   "ko": "이라크 전 의원 살해 후 레바논, 시리아에 용의자 인도 요청",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/11/13/after-iraq-ex-mps-killing-lebanon-asks-syria-to-extradite-suspects?traffic_source=rss",
+   "at": "2026-11-13T01:44:55.000Z",
+   "ev": [
+    "iran",
+    "lebanon",
+    "syria"
+   ],
+   "cc": [
+    "Iraq",
+    "Lebanon",
+    "Syria"
+   ]
+  },
+  {
+   "id": "95eec5a25c1c",
+   "t": "Albania’s PM says 2027 NATO summit will not be held in Tirana",
+   "ko": "알바니아 총리는 2027년 NATO 정상회담이 티라나에서 열리지 않을 것이라고 말했습니다.",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/11/13/albanias-pm-says-2027-nato-summit-will-not-be-held-in-tirana?traffic_source=rss",
+   "at": "2026-11-13T01:43:17.000Z",
+   "ev": [],
+   "cc": [
+    "Albania"
+   ]
+  },
   {
    "id": "0b8313c2139d",
    "t": "Neither war nor peace in Tigray - is Ethiopia's latest conflict really over?",
@@ -73,18 +289,18 @@
   },
   {
    "id": "5d21b1e6d150",
-   "t": "Iran war live: Riyadh, China discuss Houthis as group claims Aramco attacks",
-   "ko": "이란 전쟁 라이브: 리야드, 중국, 그룹이 아람코 공격을 주장하면서 후티 반군에 대해 논의",
+   "t": "Iran war live: Trump says Gulf allies urged pause in Iran strikes",
+   "ko": "이란 전쟁 생중계: 트럼프, 걸프 동맹국들에 이란 공격 중단 촉구",
    "src": "Al Jazeera",
    "u": "https://www.aljazeera.com/news/liveblog/2026/11/13/iran-war-live-riyadh-china-discuss-houthis-as-group-claims-aramco-attacks?traffic_source=rss",
    "at": "2026-11-13T00:00:26.000Z",
    "ev": [
-    "iran",
-    "yemen"
+    "iran"
    ],
    "cc": [
     "Iran",
-    "China"
+    "United States",
+    "Bahrain"
    ]
   },
   {
@@ -109,6 +325,16 @@
    "src": "The Guardian",
    "u": "https://www.theguardian.com/us-news/2026/nov/12/dc-shooting-logan-circle",
    "at": "2026-11-12T23:43:42.000Z",
+   "ev": [],
+   "cc": []
+  },
+  {
+   "id": "a265b02155d5",
+   "t": "Military cemetery decorum: The tradition behind Hegseth's Veterans Day reprimand",
+   "ko": "군사 묘지 예절: Hegseth의 재향군인의 날 질책 뒤에 숨은 전통",
+   "src": "BBC",
+   "u": "https://www.bbc.co.uk/news/videos/cv5y1309dg3go?at_medium=RSS&at_campaign=rss",
+   "at": "2026-11-12T23:42:52.000Z",
    "ev": [],
    "cc": []
   },
@@ -831,6 +1057,21 @@
    "ev": [],
    "cc": [
     "Turkey"
+   ]
+  },
+  {
+   "id": "df288b099f8e",
+   "t": "Six killed in Israeli airstrike on Gaza’s Nasser Hospital",
+   "ko": "이스라엘 가자지구 나세르병원 공습으로 6명 사망",
+   "src": "UN News",
+   "u": "https://news.un.org/feed/view/en/story/2026/11/1168796",
+   "at": "2026-11-12T12:00:00.000Z",
+   "ev": [
+    "gaza"
+   ],
+   "cc": [
+    "Israel",
+    "Palestine"
    ]
   },
   {
@@ -1926,248 +2167,6 @@
    "ev": [],
    "cc": [
     "Tanzania"
-   ]
-  },
-  {
-   "id": "16acc59220e3",
-   "t": "Russia and Ukraine agree to a prisoner exchange as talks end with no big breakthrough",
-   "ko": "러시아와 우크라이나가 큰 진전 없이 회담이 끝나자 포로 교환에 합의했습니다.",
-   "src": "NPR",
-   "u": "https://www.npr.org/2026/11/11/g-s1-152954/russia-ukraine-war-talks",
-   "at": "2026-11-11T13:30:00.000Z",
-   "ev": [
-    "ukraine"
-   ],
-   "cc": [
-    "Russia",
-    "Ukraine"
-   ]
-  },
-  {
-   "id": "c7c5ecc65616",
-   "t": "Four grizzly bears killed in Canada after fatal attack on mother and daughter",
-   "ko": "캐나다에서 엄마와 딸을 공격한 회색곰 4마리가 사망했다",
-   "src": "BBC",
-   "u": "https://www.bbc.co.uk/news/articles/cwg5r8zrm11mo?at_medium=RSS&at_campaign=rss",
-   "at": "2026-11-11T13:24:29.000Z",
-   "ev": [],
-   "cc": [
-    "Canada"
-   ]
-  },
-  {
-   "id": "2378adacf44f",
-   "t": "Schools across Italy evacuated after receiving email bomb alerts",
-   "ko": "이탈리아 전역의 학교는 이메일 폭탄 경고를 받고 대피했습니다",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/news/2026/11/11/at-least-300-italian-schools-evacuated-after-email-bomb-alerts?traffic_source=rss",
-   "at": "2026-11-11T13:18:36.000Z",
-   "ev": [],
-   "cc": [
-    "Italy",
-    "United Kingdom",
-    "Ireland"
-   ]
-  },
-  {
-   "id": "9ac47fc2bd37",
-   "t": "Nissan reduces petrol car production as EV sales boom in China",
-   "ko": "닛산, 중국 전기차 판매 호황에 휘발유차 생산 줄인다",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/business/2026/nov/11/nissan-reduces-petrol-car-production-as-ev-sales-boom-in-china",
-   "at": "2026-11-11T13:11:58.000Z",
-   "ev": [],
-   "cc": [
-    "China",
-    "Japan"
-   ]
-  },
-  {
-   "id": "9c3b303dafbe",
-   "t": "US man convicted after admitting he dismembered wife but denies killing her",
-   "ko": "아내를 살해했다는 사실은 인정했지만 아내를 죽였다는 사실을 부인한 미국 남성이 유죄 판결을 받았습니다.",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/video/newsfeed/2026/11/11/us-man-convicted-after-admitting-he-dismembered-wife-but-denies-killing-her?traffic_source=rss",
-   "at": "2026-11-11T13:09:39.000Z",
-   "ev": [],
-   "cc": [
-    "United States"
-   ]
-  },
-  {
-   "id": "7635ba664e7b",
-   "t": "Mbappe misses France training before Nations League clash with Italy",
-   "ko": "음바페, 네이션스리그 이탈리아전 앞두고 프랑스 훈련 불참",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/sports/2026/11/11/kylian-mbappe-france-training-italy-uefa-nations-league?traffic_source=rss",
-   "at": "2026-11-11T12:38:46.000Z",
-   "ev": [],
-   "cc": [
-    "France",
-    "Italy"
-   ]
-  },
-  {
-   "id": "9ee850afc7c6",
-   "t": "Patrick Bury: 'It’s going to cost a lot of money to repair the systems.'",
-   "ko": "Patrick Bury: '시스템을 수리하려면 많은 비용이 들 것입니다.'",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/europe-how-prepared-is-the-continent-to-face-a-futur-conflict",
-   "at": "2026-11-11T12:32:17.000Z",
-   "ev": [],
-   "cc": []
-  },
-  {
-   "id": "9d9f5b88df97",
-   "t": "House effectively ends Hegseth impeachment. And, 3 men accused of plotting U.K. attacks",
-   "ko": "하원은 Hegseth 탄핵을 효과적으로 종료합니다. 그리고 영국 공격을 모의한 혐의로 기소된 3명의 남성",
-   "src": "NPR",
-   "u": "https://www.npr.org/2026/11/11/g-s1-152949/up-first-newsletter-pete-hegseth-jim-jordan-iran-backed-trio-us-bases",
-   "at": "2026-11-11T12:21:59.000Z",
-   "ev": [
-    "iran"
-   ],
-   "cc": []
-  },
-  {
-   "id": "9a43c86cef7e",
-   "t": "Haitian PM praises El Salvador after joint strike on alleged home of gang leader",
-   "ko": "아이티 총리, 갱단 지도자의 자택에 대한 합동 공격 후 엘살바도르 칭찬",
-   "src": "BBC",
-   "u": "https://www.bbc.co.uk/news/articles/cmvg2xdwnwezo?at_medium=RSS&at_campaign=rss",
-   "at": "2026-11-11T12:14:12.000Z",
-   "ev": [
-    "haiti"
-   ],
-   "cc": [
-    "Haiti",
-    "El Salvador"
-   ]
-  },
-  {
-   "id": "1ea385862a2f",
-   "t": "What is northern Europe’s new drone and warship plan to counter Russia?",
-   "ko": "러시아에 맞서기 위한 북유럽의 새로운 드론과 전함 계획은 무엇인가?",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/news/2026/11/11/whats-northern-europes-new-drones-and-warships-plan-to-counter-russia?traffic_source=rss",
-   "at": "2026-11-11T12:13:52.000Z",
-   "ev": [],
-   "cc": [
-    "Russia"
-   ]
-  },
-  {
-   "id": "f89fb97b77a9",
-   "t": "Violent clashes near the Sudanese border: At least 65 dead in western Ethiopia",
-   "ko": "수단 국경 근처에서 폭력 충돌: 에티오피아 서부에서 최소 65명 사망",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/violent-clashes-near-the-sudanese-border-at-least-65-dead-in-western-ethiopia",
-   "at": "2026-11-11T12:07:35.000Z",
-   "ev": [
-    "sudan",
-    "ethiopia"
-   ],
-   "cc": [
-    "Sudan",
-    "Ethiopia"
-   ]
-  },
-  {
-   "id": "01eabd65288e",
-   "t": "Rights group raises concerns about jailed Dr Abu Safia amid strikes on Gaza",
-   "ko": "인권단체, 가자지구 파업으로 투옥된 아부 사피아 박사에 대한 우려 제기",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/news/2026/11/11/rights-group-raises-concerns-about-jailed-dr-abu-safia-amid-strikes-on-gaza?traffic_source=rss",
-   "at": "2026-11-11T12:05:51.000Z",
-   "ev": [
-    "gaza"
-   ],
-   "cc": [
-    "Palestine"
-   ]
-  },
-  {
-   "id": "e17a92b1cbc6",
-   "t": "Pete Hegseth survives effort to impeach him | First Thing",
-   "ko": "Pete Hegseth, 탄핵 시도에서 살아남다 | 가장 중요한 것",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/us-news/2026/nov/11/first-thing-pete-hegseth-survives-effort-to-impeach-him",
-   "at": "2026-11-11T12:04:36.000Z",
-   "ev": [
-    "iran",
-    "yemen"
-   ],
-   "cc": [
-    "United States",
-    "Iran",
-    "Yemen"
-   ]
-  },
-  {
-   "id": "3021701559b8",
-   "t": "Gaza winter aid: ‘No more delay’, Fletcher tells governments stalling on support",
-   "ko": "가자 겨울 지원: '더 이상 지체하지 마세요', 플레처는 정부에 지원을 지연한다고 말했습니다.",
-   "src": "UN News",
-   "u": "https://news.un.org/feed/view/en/story/2026/11/1168788",
-   "at": "2026-11-11T12:00:00.000Z",
-   "ev": [
-    "gaza"
-   ],
-   "cc": [
-    "Palestine"
-   ]
-  },
-  {
-   "id": "fc3dc78cf8b7",
-   "t": "UK comedian David Walliams accused of grooming and sexual harassment",
-   "ko": "영국 코미디언 데이비드 월리엄스(David Walliams)가 몸단장 및 성희롱 혐의로 기소됐다.",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/tv-shows/press-review/20261111-uk-comedian-david-walliams-accused-of-grooming-and-sexual-harassment",
-   "at": "2026-11-11T11:56:59.000Z",
-   "ev": [],
-   "cc": [
-    "United Kingdom",
-    "Spain",
-    "France"
-   ]
-  },
-  {
-   "id": "60389a017f23",
-   "t": "Transport workers in Chile block highways in protest over surging fuel prices",
-   "ko": "칠레 운수노동자들, 휘발유 가격 급등에 항의하며 고속도로 봉쇄",
-   "src": "BBC",
-   "u": "https://www.bbc.co.uk/news/articles/c6e3d895zne7o?at_medium=RSS&at_campaign=rss",
-   "at": "2026-11-11T11:34:50.000Z",
-   "ev": [],
-   "cc": [
-    "Chile"
-   ]
-  },
-  {
-   "id": "c1accc149e40",
-   "t": "Eisenkot quickly targets Netanyahu's legacy in new Israeli parliament",
-   "ko": "Eisenkot는 새로운 이스라엘 의회에서 네타냐후의 유산을 신속하게 표적으로 삼았습니다.",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/eisenkot-quickly-targets-netanyahu-s-legacy-in-new-israeli-parliament",
-   "at": "2026-11-11T11:29:28.000Z",
-   "ev": [],
-   "cc": [
-    "Israel"
-   ]
-  },
-  {
-   "id": "cb87e1a14f18",
-   "t": "Israel kills Gaza goalkeeper days after playing in cup for slain athletes",
-   "ko": "이스라엘, 살해된 선수들을 위한 컵대회 참가 며칠 만에 가자지구 골키퍼 사살",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/video/newsfeed/2026/11/11/israel-kills-gaza-goalkeeper-days-after-playing-in-cup-for-slain-athletes?traffic_source=rss",
-   "at": "2026-11-11T10:57:39.000Z",
-   "ev": [
-    "gaza"
-   ],
-   "cc": [
-    "Israel",
-    "Palestine"
    ]
   }
  ]
