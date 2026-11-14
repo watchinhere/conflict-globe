@@ -1,25 +1,25 @@
 {
- "updated": "2026-11-14T15:39:34.004Z",
+ "updated": "2026-11-14T20:05:56.918Z",
  "sources": {
   "BBC": {
    "ok": true,
-   "n": 8
+   "n": 6
   },
   "Al Jazeera": {
    "ok": true,
-   "n": 6
+   "n": 9
   },
   "The Guardian": {
    "ok": true,
-   "n": 11
+   "n": 8
   },
   "DW": {
    "ok": true,
-   "n": 6
+   "n": 7
   },
   "France 24": {
    "ok": true,
-   "n": 11
+   "n": 9
   },
   "UN News": {
    "ok": true,
@@ -27,17 +27,67 @@
   },
   "NPR": {
    "ok": true,
-   "n": 1
+   "n": 2
   }
  },
  "items": [
+  {
+   "id": "fb9303c76708",
+   "t": "How telecoms upgrade work sparked US flight chaos",
+   "ko": "통신 업그레이드 작업이 미국 항공 혼란을 촉발한 방법",
+   "src": "BBC",
+   "u": "https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo?at_medium=RSS&at_campaign=rss",
+   "at": "2026-11-14T20:03:48.000Z",
+   "ev": [],
+   "cc": [
+    "United States"
+   ]
+  },
+  {
+   "id": "8ded58a7f4bd",
+   "t": "Deadly car bomb blast kills two near Syria’s capital",
+   "ko": "시리아 수도 근처에서 치명적인 차량 폭탄 폭발로 2명이 사망",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/video/newsfeed/2026/11/14/deadly-car-bomb-blast-kills-two-near-syrias-capital?traffic_source=rss",
+   "at": "2026-11-14T19:46:36.000Z",
+   "ev": [
+    "syria"
+   ],
+   "cc": [
+    "Syria"
+   ]
+  },
+  {
+   "id": "1295f8e2f3d3",
+   "t": "More than 100,000 rally across France in new Yellow Vest protests",
+   "ko": "프랑스 전역에서 새로운 노란조끼 시위에 10만 명이 넘는 집회가 열렸습니다.",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/11/14/more-than-100000-rally-across-france-in-new-yellow-vest-protests?traffic_source=rss",
+   "at": "2026-11-14T19:46:24.000Z",
+   "ev": [],
+   "cc": [
+    "France"
+   ]
+  },
+  {
+   "id": "a09ae30406ac",
+   "t": "Tens of thousands march in latest Portugal housing protests",
+   "ko": "최근 포르투갈 주택 시위에서 수만 명이 행진",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/11/14/tens-of-thousands-march-in-latest-portugal-housing-protests?traffic_source=rss",
+   "at": "2026-11-14T19:27:55.000Z",
+   "ev": [],
+   "cc": [
+    "Portugal"
+   ]
+  },
   {
    "id": "1476d670af2a",
    "t": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
    "ko": "미국은 나토 회원을 위해 Donbas를 우크라이나에 양도했다고 Zelensky는 말했습니다.",
    "src": "BBC",
    "u": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
-   "at": "2026-11-14T15:15:57.000Z",
+   "at": "2026-11-14T19:21:10.000Z",
    "ev": [
     "ukraine"
    ],
@@ -45,6 +95,124 @@
     "United States",
     "Ukraine",
     "Russia"
+   ]
+  },
+  {
+   "id": "63cd9ca8b484",
+   "t": "Family of Watford woman set alight ‘desperate for answers’ after attack",
+   "ko": "왓포드 여성 가족, 공격 후 '답 찾기 위해' 하차",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/uk-news/2026/nov/14/family-of-watford-woman-set-alight-desperate-for-answers-after-attack",
+   "at": "2026-11-14T17:59:12.000Z",
+   "ev": [],
+   "cc": []
+  },
+  {
+   "id": "592620f6fb06",
+   "t": "Rising costs and arrests fuel protests in Central African Republic",
+   "ko": "중앙아프리카공화국의 비용 상승 및 연료 시위 체포",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/video/newsfeed/2026/11/14/rising-costs-and-arrests-fuel-protests-in-central-african-republic?traffic_source=rss",
+   "at": "2026-11-14T17:50:28.000Z",
+   "ev": [],
+   "cc": [
+    "Central African Republic"
+   ]
+  },
+  {
+   "id": "ccb835dd27d1",
+   "t": "Elon Musk's SpaceX aborts booster recovery due to technical issues",
+   "ko": "Elon Musk의 SpaceX는 기술적 문제로 인해 부스터 복구를 중단합니다.",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/elon-musk-s-spacex-aborts-booster-recovery-due-to-technical-issues",
+   "at": "2026-11-14T17:33:37.000Z",
+   "ev": [
+    "mexico"
+   ],
+   "cc": [
+    "Mexico",
+    "United States"
+   ]
+  },
+  {
+   "id": "475f1fc5b393",
+   "t": "COP31: Protesters, UN urge swift climate deal",
+   "ko": "COP31: 시위대, UN, 신속한 기후 협약 촉구",
+   "src": "DW",
+   "u": "https://www.dw.com/en/cop31-protesters-un-urge-swift-climate-deal/a-79948501?maca=en-rss-en-world-4025-rdf",
+   "at": "2026-11-14T17:19:00.000Z",
+   "ev": [],
+   "cc": [
+    "Turkey"
+   ]
+  },
+  {
+   "id": "0585c9950330",
+   "t": "Portugal vs Denmark LIVE: UEFA Nations League",
+   "ko": "포르투갈 대 덴마크 LIVE: UEFA 네이션스 리그",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/sports/liveblog/2026/11/14/portugal-vs-denmark-live-uefa-nations-league?traffic_source=rss",
+   "at": "2026-11-14T16:45:00.000Z",
+   "ev": [],
+   "cc": [
+    "Portugal",
+    "Denmark"
+   ]
+  },
+  {
+   "id": "76a9ec4bdeba",
+   "t": "Myanmar airstrike kills 12 at displacement camp in Rakhine state",
+   "ko": "미얀마 라카인주 강제수용소 공습으로 12명 사망",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/video/newsfeed/2026/11/14/myanmar-airstrike-displacement-camp-rakhine?traffic_source=rss",
+   "at": "2026-11-14T16:13:43.000Z",
+   "ev": [
+    "myanmar"
+   ],
+   "cc": [
+    "Myanmar"
+   ]
+  },
+  {
+   "id": "86cee693d648",
+   "t": "Fuel crisis and protests pressure Chile's far-right president",
+   "ko": "연료 위기와 시위로 칠레 극우 대통령 압박",
+   "src": "NPR",
+   "u": "https://www.npr.org/2026/11/14/nx-s1-6040144/chile-protests-fuel-kast-students",
+   "at": "2026-11-14T16:05:12.000Z",
+   "ev": [],
+   "cc": [
+    "Chile"
+   ]
+  },
+  {
+   "id": "aba212013333",
+   "t": "EU calls for immediate humanitarian access to Gaza",
+   "ko": "EU는 가자 지구에 대한 즉각적인 인도주의적 접근을 촉구합니다.",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/11/14/eu-calls-for-immediate-humanitarian-access-to-gaza?traffic_source=rss",
+   "at": "2026-11-14T15:57:22.000Z",
+   "ev": [
+    "gaza"
+   ],
+   "cc": [
+    "Palestine",
+    "Israel"
+   ]
+  },
+  {
+   "id": "c5c97682f131",
+   "t": "Jerusalem Daily: Israeli forces occupy Palestinian-American’s home",
+   "ko": "예루살렘 데일리: 이스라엘군이 팔레스타인계 미국인의 집을 점령했습니다.",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/video/newsfeed/2026/11/14/jerusalem-daily-israeli-forces-occupy-palestinian-americans-home?traffic_source=rss",
+   "at": "2026-11-14T15:36:37.000Z",
+   "ev": [
+    "westbank"
+   ],
+   "cc": [
+    "Israel",
+    "Palestine"
    ]
   },
   {
@@ -72,18 +240,6 @@
    "at": "2026-11-14T14:38:36.000Z",
    "ev": [],
    "cc": []
-  },
-  {
-   "id": "fb9303c76708",
-   "t": "What we know about the ground stop and what to do if you're affected",
-   "ko": "지상 정지에 대해 우리가 알고 있는 것과 영향을 받은 경우 취해야 할 조치",
-   "src": "BBC",
-   "u": "https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo?at_medium=RSS&at_campaign=rss",
-   "at": "2026-11-14T14:20:57.000Z",
-   "ev": [],
-   "cc": [
-    "United States"
-   ]
   },
   {
    "id": "713a48e07b7f",
@@ -1906,311 +2062,6 @@
     "Russia",
     "Ukraine",
     "Finland"
-   ]
-  },
-  {
-   "id": "cafcfcf76e17",
-   "t": "Israeli strike on Gaza hospital kills six, including surgeon, medics say",
-   "ko": "이스라엘, 가자지구 병원 공습으로 외과의사 등 6명 사망",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/israeli-strike-on-gaza-hospital-kills-six-including-surgeon-medics-say",
-   "at": "2026-11-12T20:03:55.000Z",
-   "ev": [
-    "gaza"
-   ],
-   "cc": [
-    "Israel",
-    "Palestine"
-   ]
-  },
-  {
-   "id": "a3949491986e",
-   "t": "Zelensky warns Europe over US-Russia talks on broader security arrangements",
-   "ko": "Zelensky는 광범위한 안보 조치에 대한 미-러 회담에 대해 유럽에 경고했습니다.",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/zelensky-warns-europe-over-us-russia-talks-on-broader-security-arrangements",
-   "at": "2026-11-12T19:53:15.000Z",
-   "ev": [
-    "ukraine"
-   ],
-   "cc": [
-    "Ukraine",
-    "United States",
-    "Russia"
-   ]
-  },
-  {
-   "id": "f532866572ca",
-   "t": "Suspected bomb hoax threats force fresh evacuations of Italian schools",
-   "ko": "폭탄 사기 위협으로 의심되는 이탈리아 학교에서 다시 대피",
-   "src": "BBC",
-   "u": "https://www.bbc.co.uk/news/articles/cr894w453e90o?at_medium=RSS&at_campaign=rss",
-   "at": "2026-11-12T19:23:02.000Z",
-   "ev": [],
-   "cc": [
-    "Italy"
-   ]
-  },
-  {
-   "id": "bdd6ff2e3ac8",
-   "t": "Former death row prisoners call Byron Donalds to halt future Florida executions",
-   "ko": "전직 사형수들이 바이런 도널드에게 앞으로 플로리다에서 사형 집행을 중단하라고 촉구하다",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/us-news/2026/nov/12/byron-donalds-florida-executions",
-   "at": "2026-11-12T18:58:44.000Z",
-   "ev": [],
-   "cc": [
-    "United States"
-   ]
-  },
-  {
-   "id": "b2a849cb1710",
-   "t": "Hegseth awards medal to war memorial guard who reprimanded him and group",
-   "ko": "헤그세스는 자신을 질책한 전쟁 추도원에게 메달을 수여하고 그룹은",
-   "src": "BBC",
-   "u": "https://www.bbc.co.uk/news/articles/cmvg2r3dq7xno?at_medium=RSS&at_campaign=rss",
-   "at": "2026-11-12T18:47:35.000Z",
-   "ev": [],
-   "cc": []
-  },
-  {
-   "id": "3f90b868c268",
-   "t": "Winter is coming: Putin seeks to 'hammer Ukrainians, their power grid, their water supplies'",
-   "ko": "겨울이 다가오고 있다: 푸틴 대통령은 '우크라이나 국민과 그들의 전력망, 물 공급을 망치려고' 하고 있다.",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/video/20261112-winter-is-coming-putin-seeks-to-hammer-ukrainians-their-power-grid-their-water-supplies",
-   "at": "2026-11-12T18:45:44.000Z",
-   "ev": [
-    "ukraine"
-   ],
-   "cc": [
-    "Russia",
-    "Ukraine"
-   ]
-  },
-  {
-   "id": "1070d7e856ad",
-   "t": "Czechia braces for massive protest as anger over government's public media reform plans boils",
-   "ko": "체코, 정부의 대중 매체 개혁 계획에 대한 분노가 끓어오르자 대규모 시위 준비",
-   "src": "DW",
-   "u": "https://www.dw.com/en/czechia-braces-for-massive-protest-as-anger-over-government-s-public-media-reform-plans-boils/a-79933533?maca=en-rss-en-world-4025-rdf",
-   "at": "2026-11-12T18:26:00.000Z",
-   "ev": [],
-   "cc": [
-    "Czech Republic"
-   ]
-  },
-  {
-   "id": "80aabde9b327",
-   "t": "Al Jazeera reports from Gaza hospital attacked by Israel",
-   "ko": "알자지라, 이스라엘 가자지구 병원 공격 보도",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/video/newsfeed/2026/11/12/al-jazeera-reports-from-gaza-hospital-attacked-by-israel?traffic_source=rss",
-   "at": "2026-11-12T18:03:02.000Z",
-   "ev": [
-    "gaza"
-   ],
-   "cc": [
-    "Palestine",
-    "Israel"
-   ]
-  },
-  {
-   "id": "ef6d0c785398",
-   "t": "Suspect turns gun on himself after deadly shooting in Washington DC",
-   "ko": "워싱턴 DC에서 총격을 가한 용의자가 스스로 총을 쏜다",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/video/newsfeed/2026/11/12/suspect-turns-gun-on-himself-after-deadly-shooting-in-washington-dc?traffic_source=rss",
-   "at": "2026-11-12T18:02:32.000Z",
-   "ev": [],
-   "cc": []
-  },
-  {
-   "id": "ea6dde997f9d",
-   "t": "Lewis Hamilton says ‘Israel’s genocide in Gaza is appalling’ after Rafah visit",
-   "ko": "루이스 해밀턴, 라파 방문 후 '가자지구에서 이스라엘의 집단 학살은 끔찍하다'",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/sport/2026/nov/12/lewis-hamilton-gaza-visit-rafah-israel",
-   "at": "2026-11-12T18:00:50.000Z",
-   "ev": [
-    "gaza"
-   ],
-   "cc": [
-    "Israel",
-    "Palestine",
-    "Egypt"
-   ]
-  },
-  {
-   "id": "4d8ff38b773e",
-   "t": "Israel to ban far-left French politician Jean-Luc Mélenchon from entry",
-   "ko": "이스라엘, 프랑스 극좌 정치인 장 뤽 멜렌숑 입국 금지",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/middle-east/20261112-israel-to-ban-far-left-french-politician-jean-luc-m%C3%A9lenchon-from-entry",
-   "at": "2026-11-12T17:43:03.000Z",
-   "ev": [
-    "gaza",
-    "westbank"
-   ],
-   "cc": [
-    "Israel",
-    "France",
-    "Palestine"
-   ]
-  },
-  {
-   "id": "cd3898fd292a",
-   "t": "‘Labelled terrorists’: How France is using anti-terror powers to deter protests",
-   "ko": "'테러리스트'로 분류됨: 프랑스가 시위를 억제하기 위해 테러 방지 권한을 사용하는 방법",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/france/20261112-labelled-terrorists-france-authorities-used-anti-terrorism-powers-to-deter-protests",
-   "at": "2026-11-12T17:32:06.000Z",
-   "ev": [],
-   "cc": [
-    "France"
-   ]
-  },
-  {
-   "id": "6703ae356b80",
-   "t": "New talks with Russia, Ukraine and European countries agreed, US says - as it happened",
-   "ko": "미국은 러시아, 우크라이나, 유럽 국가들과의 새로운 회담에 합의했다고 밝혔습니다.",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/world/live/2026/nov/12/us-envoys-in-moscow-meeting-putin-abu-dhabi-trilateral-ukraine-ceasefire-talks-latest-news-updates",
-   "at": "2026-11-12T17:17:55.000Z",
-   "ev": [
-    "ukraine"
-   ],
-   "cc": [
-    "Russia",
-    "Ukraine",
-    "United States"
-   ]
-  },
-  {
-   "id": "6d7a7fcb4733",
-   "t": "Jerusalem Daily: Gaza’s Nasser Hospital hit by Israeli air strike",
-   "ko": "예루살렘 데일리: 이스라엘 공습으로 피해를 입은 가자지구의 나세르 병원",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/video/newsfeed/2026/11/12/jerusalem-daily-gazas-nasser-hospital-hit-by-israeli-air-strike?traffic_source=rss",
-   "at": "2026-11-12T16:55:10.000Z",
-   "ev": [
-    "gaza"
-   ],
-   "cc": [
-    "Palestine",
-    "Israel"
-   ]
-  },
-  {
-   "id": "b8bb9c4cdad0",
-   "t": "Israeli strike on Gaza hospital kills six Palestinians, health ministry says",
-   "ko": "이스라엘 가자지구 병원 공습으로 팔레스타인인 6명 사망, 보건부 발표",
-   "src": "BBC",
-   "u": "https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo?at_medium=RSS&at_campaign=rss",
-   "at": "2026-11-12T16:54:12.000Z",
-   "ev": [
-    "gaza"
-   ],
-   "cc": [
-    "Israel",
-    "Palestine"
-   ]
-  },
-  {
-   "id": "b53f615474ad",
-   "t": "Russia's Vladimir Putin suggests no Ukraine compromise in meeting with US envoys",
-   "ko": "블라디미르 푸틴 러시아 대통령, 미국 대사들과의 만남에서 우크라이나는 타협하지 않을 것이라고 제안",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/video/20261112-russia-s-vladimir-putin-suggests-no-ukraine-compromise-in-meeting-with-us-envoys",
-   "at": "2026-11-12T16:46:14.000Z",
-   "ev": [
-    "ukraine"
-   ],
-   "cc": [
-    "Russia",
-    "Ukraine",
-    "United States"
-   ]
-  },
-  {
-   "id": "fb0fde5fbe18",
-   "t": "Italy vs France LIVE: UEFA Nations League",
-   "ko": "이탈리아 vs 프랑스 LIVE: UEFA 네이션스 리그",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/sports/liveblog/2026/11/12/italy-vs-france-live-uefa-nations-league?traffic_source=rss",
-   "at": "2026-11-12T16:45:00.000Z",
-   "ev": [],
-   "cc": [
-    "Italy",
-    "France"
-   ]
-  },
-  {
-   "id": "64a4da9c56d6",
-   "t": "The planet ‘is being killed’, Greta Thunberg tells Cop31 climate summit",
-   "ko": "그레타 툰베리가 Cop31 기후 정상회담에서 말하는 지구는 '죽어가고 있다'",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/environment/2026/nov/12/greta-thunberg-cop31-climate-summit",
-   "at": "2026-11-12T16:39:47.000Z",
-   "ev": [],
-   "cc": [
-    "Turkey"
-   ]
-  },
-  {
-   "id": "ba5051daf5e0",
-   "t": "UAE says 14 killed, 30 injured in Fujairah traffic accident",
-   "ko": "UAE, 푸자이라 교통사고로 14명 사망, 30명 부상",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/news/2026/11/12/uae-says-14-killed-30-injured-in-fujairah-traffic-accident?traffic_source=rss",
-   "at": "2026-11-12T16:23:29.000Z",
-   "ev": [],
-   "cc": [
-    "United Arab Emirates"
-   ]
-  },
-  {
-   "id": "45408cecfc14",
-   "t": "Israel kills six in Gaza hospital strike as 9-month-old baby freezes to death",
-   "ko": "이스라엘, 가자지구 병원 파업으로 9개월 아기 얼어죽어 6명 사망",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/middle-east/20261112-israel-kills-six-in-gaza-hospital-strike-as-9-month-old-baby-freezes-to-death",
-   "at": "2026-11-12T16:18:24.000Z",
-   "ev": [
-    "gaza"
-   ],
-   "cc": [
-    "Israel",
-    "Palestine"
-   ]
-  },
-  {
-   "id": "7ad447040192",
-   "t": "How FRANCE 24 traced Tehran-backed Afghan fighters from Syria to southeastern Iran",
-   "ko": "FRANCE 24가 시리아에서 이란 남동부까지 테헤란의 지원을 받는 아프가니스탄 전투기를 추적한 방법",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/middle-east/20261112-iran-afghan-fatemiyoun-fighters-syria-baluchistan",
-   "at": "2026-11-12T16:03:26.000Z",
-   "ev": [
-    "iran",
-    "syria"
-   ],
-   "cc": [
-    "Afghanistan",
-    "Syria",
-    "Iran"
-   ]
-  },
-  {
-   "id": "644709ba36cb",
-   "t": "US Defence Secretary Pete Hegseth reprimanded at war memorial",
-   "ko": "피트 헤그세스 미 국방장관, 전쟁기념관에서 질책",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/us-defense-secretary-pete-hegseth-reprimanded-at-war-memorial",
-   "at": "2026-11-12T15:51:49.000Z",
-   "ev": [],
-   "cc": [
-    "United States"
    ]
   }
  ]
