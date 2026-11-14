@@ -1,29 +1,29 @@
 {
- "updated": "2026-11-14T01:47:24.691Z",
+ "updated": "2026-11-14T08:45:32.710Z",
  "sources": {
   "BBC": {
    "ok": true,
-   "n": 7
+   "n": 8
   },
   "Al Jazeera": {
    "ok": true,
-   "n": 4
+   "n": 8
   },
   "The Guardian": {
    "ok": true,
-   "n": 13
+   "n": 10
   },
   "DW": {
    "ok": true,
-   "n": 4
+   "n": 6
   },
   "France 24": {
    "ok": true,
-   "n": 15
+   "n": 12
   },
   "UN News": {
    "ok": true,
-   "n": 5
+   "n": 6
   },
   "NPR": {
    "ok": true,
@@ -32,14 +32,183 @@
  },
  "items": [
   {
+   "id": "aac871b3080f",
+   "t": "Sudan: Misery worsens amid plummeting aid for displaced people",
+   "ko": "수단: 실향민에 대한 지원이 급감하면서 상황이 더욱 악화되고 있습니다",
+   "src": "DW",
+   "u": "https://www.dw.com/en/sudan-misery-worsens-amid-plummeting-aid-for-displaced-people/a-79938864?maca=en-rss-en-world-4025-rdf",
+   "at": "2026-11-14T08:31:00.000Z",
+   "ev": [
+    "sudan"
+   ],
+   "cc": [
+    "Sudan"
+   ]
+  },
+  {
+   "id": "1ff1864b46f8",
+   "t": "UN says 25 seafarers killed in, around Hormuz since US-Israel war on Iran",
+   "ko": "유엔 \"미-이스라엘, 이란 전쟁 이후 호르무즈 인근에서 선원 25명 사망\"",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/11/14/un-says-25-seafarers-killed-in-around-hormuz-since-february?traffic_source=rss",
+   "at": "2026-11-14T07:46:36.000Z",
+   "ev": [
+    "iran"
+   ],
+   "cc": [
+    "Iran"
+   ]
+  },
+  {
+   "id": "fb9303c76708",
+   "t": "What we know about the longest ground stop since 9/11",
+   "ko": "9/11 이후 가장 긴 지상 정지에 대해 우리가 알고 있는 것",
+   "src": "BBC",
+   "u": "https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo?at_medium=RSS&at_campaign=rss",
+   "at": "2026-11-14T07:42:11.000Z",
+   "ev": [],
+   "cc": [
+    "United States"
+   ]
+  },
+  {
+   "id": "aa86b4b3ba94",
+   "t": "Protesters heckle Hakeem Jeffries at Democratic conference",
+   "ko": "시위자들은 민주당 회의에서 하킴 제프리스를 야유한다",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/video/newsfeed/2026/11/14/protesters-heckle-hakeem-jeffries-at-democratic-conference?traffic_source=rss",
+   "at": "2026-11-14T07:18:53.000Z",
+   "ev": [],
+   "cc": [
+    "United States"
+   ]
+  },
+  {
+   "id": "98d5197bc329",
+   "t": "Live: France mobilises in fifth wave of student protests",
+   "ko": "라이브: 프랑스, ​​다섯 번째 학생 시위 물결에 동원",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/france/20261114-live-france-mobilises-in-fifth-wave-of-student-protests",
+   "at": "2026-11-14T07:09:32.000Z",
+   "ev": [],
+   "cc": [
+    "France"
+   ]
+  },
+  {
+   "id": "15e79e3a2d75",
+   "t": "Siege fuels disease fears in Yemen’s Taiz",
+   "ko": "예멘 타이즈의 포위 공격으로 질병 공포 증폭",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/11/14/siege-fuels-disease-fears-in-yemens-besieged-taiz?traffic_source=rss",
+   "at": "2026-11-14T06:17:27.000Z",
+   "ev": [
+    "yemen"
+   ],
+   "cc": [
+    "Yemen"
+   ]
+  },
+  {
+   "id": "015967ad9edb",
+   "t": "Gen Z protests: Do Baby Boomers really have it better than young people?",
+   "ko": "Z세대의 항의: 베이비붐 세대가 정말로 젊은이들보다 더 나은 삶을 살고 있습니까?",
+   "src": "DW",
+   "u": "https://www.dw.com/en/gen-z-protests-do-baby-boomers-really-have-it-better-than-young-people/a-79918854?maca=en-rss-en-world-4025-rdf",
+   "at": "2026-11-14T06:09:00.000Z",
+   "ev": [],
+   "cc": [
+    "Germany"
+   ]
+  },
+  {
+   "id": "caabb547847b",
+   "t": "Goalkeeper Owono handed 12-match ban after De Miguel death",
+   "ko": "골키퍼 오워노, 데 미구엘 사망 후 12경기 출장 정지 처분",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/sports/2026/11/14/jesus-de-miguel-death-goalkeeper-owono-12-match-ban-collision-tenerife-andorra?traffic_source=rss",
+   "at": "2026-11-14T05:59:49.000Z",
+   "ev": [],
+   "cc": [
+    "Spain"
+   ]
+  },
+  {
+   "id": "f4962b7c6f76",
+   "t": "Trump, Xi and Putin to hold first three-way summit in China",
+   "ko": "트럼프-시진핑-푸틴, 중국에서 첫 3자 정상회담 개최",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/11/14/trump-xi-and-putin-to-hold-first-three-way-summit-in-china?traffic_source=rss",
+   "at": "2026-11-14T04:55:58.000Z",
+   "ev": [
+    "iran"
+   ],
+   "cc": [
+    "China",
+    "Iran"
+   ]
+  },
+  {
+   "id": "0ad18a04d3b6",
+   "t": "German spies granted sweeping new powers",
+   "ko": "독일 스파이에게 새로운 권한 부여",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/11/14/german-spies-granted-sweeping-new-powers?traffic_source=rss",
+   "at": "2026-11-14T04:41:11.000Z",
+   "ev": [],
+   "cc": [
+    "Germany",
+    "Russia"
+   ]
+  },
+  {
+   "id": "e4ebfb404985",
+   "t": "ICC stops probe into alleged crimes by US troops in Afghanistan",
+   "ko": "ICC, 아프가니스탄 주둔 미군 범죄 혐의 조사 중단",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/11/14/icc-stops-probe-into-alleged-crimes-by-us-troops-in-afghanistan?traffic_source=rss",
+   "at": "2026-11-14T04:03:49.000Z",
+   "ev": [],
+   "cc": [
+    "United States",
+    "Afghanistan"
+   ]
+  },
+  {
    "id": "e210b3aa241a",
    "t": "All passengers and crew accounted for after New Orleans boat crash in ‘miracle on the Mississippi’",
    "ko": "'미시시피강의 기적' 뉴올리언스 보트 추락 사고로 승객과 승무원 전원 사망",
    "src": "The Guardian",
    "u": "https://www.theguardian.com/us-news/2026/nov/13/mississippi-river-crash-new-orleans",
-   "at": "2026-11-14T01:29:11.000Z",
+   "at": "2026-11-14T03:11:28.000Z",
    "ev": [],
    "cc": []
+  },
+  {
+   "id": "d3681030415b",
+   "t": "Measles-associated deaths reach 10 in US after two more deaths reported",
+   "ko": "미국에서 홍역 관련 사망자가 2명 더 발생해 10명에 이르렀습니다.",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/11/14/measles-associated-deaths-reach-10-in-us-after-two-more-deaths-reported?traffic_source=rss",
+   "at": "2026-11-14T02:34:50.000Z",
+   "ev": [],
+   "cc": [
+    "United States"
+   ]
+  },
+  {
+   "id": "35e78aae0299",
+   "t": "SpaceX launches Starship rocket, fails to recover booster",
+   "ko": "SpaceX가 스타쉽 로켓을 발사했지만 부스터를 복구하지 못했습니다.",
+   "src": "DW",
+   "u": "https://www.dw.com/en/spacex-launches-starship-rocket-fails-to-recover-booster/a-79946091?maca=en-rss-en-world-4025-rdf",
+   "at": "2026-11-14T02:24:00.000Z",
+   "ev": [
+    "mexico"
+   ],
+   "cc": [
+    "Mexico"
+   ]
   },
   {
    "id": "9737ca003118",
@@ -112,6 +281,18 @@
    "ev": [],
    "cc": [
     "India"
+   ]
+  },
+  {
+   "id": "82b3cf387607",
+   "t": "US flights resume gradually amid further cancellations",
+   "ko": "추가 결항 속에 미국 항공편 점차 재개",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/americas/20261113-us-air-travel-resumption-will-take-time-after-hours-long-stop",
+   "at": "2026-11-13T22:43:22.000Z",
+   "ev": [],
+   "cc": [
+    "United States"
    ]
   },
   {
@@ -679,6 +860,20 @@
     "Israel",
     "United States",
     "Iran"
+   ]
+  },
+  {
+   "id": "4f3c8df85ee9",
+   "t": "‘Here, you can eat until you’re full’: Oleshky evacuees savour first proper meals in years",
+   "ko": "'여기에서는 배부르게 먹을 수 있습니다': 올레쉬키(Oleshky) 난민들은 몇 년 만에 처음으로 제대로 된 식사를 맛봅니다.",
+   "src": "UN News",
+   "u": "https://news.un.org/feed/view/en/story/2026/11/1168803",
+   "at": "2026-11-13T12:00:00.000Z",
+   "ev": [
+    "ukraine"
+   ],
+   "cc": [
+    "Ukraine"
    ]
   },
   {
@@ -2006,207 +2201,6 @@
    "ev": [],
    "cc": [
     "Italy"
-   ]
-  },
-  {
-   "id": "2c28b5b45c89",
-   "t": "COP31: Climate disruption puts farmers and global food supplies under pressure",
-   "ko": "COP31: 기후 변화로 인해 농민과 전 세계 식량 공급이 압박을 받고 있습니다.",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/video/20261112-cop31-climate-disruption-puts-farmers-and-global-food-supplies-under-pressure",
-   "at": "2026-11-12T11:04:13.000Z",
-   "ev": [],
-   "cc": [
-    "Turkey"
-   ]
-  },
-  {
-   "id": "605d772f41b7",
-   "t": "College students rally in support of Starbucks baristas urging boycott over contract impasse",
-   "ko": "계약 난항에 대한 보이콧을 촉구하는 스타벅스 바리스타를 지지하는 대학생 집회",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/us-news/2026/nov/12/starbucks-workers-campus-rally-contract-talks",
-   "at": "2026-11-12T11:00:48.000Z",
-   "ev": [],
-   "cc": [
-    "United States"
-   ]
-  },
-  {
-   "id": "531a15e9bc00",
-   "t": "Scott Colom makes history in Mississippi as first Black senator in more than 140 years",
-   "ko": "Scott Colom은 140년 만에 최초의 흑인 상원의원으로 미시시피 주에서 역사를 만들었습니다.",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/tv-shows/press-review/20261112-scott-colom-makes-history-in-mississippi-as-first-black-senator-in-more-than-140-years",
-   "at": "2026-11-12T10:50:31.000Z",
-   "ev": [],
-   "cc": [
-    "Spain"
-   ]
-  },
-  {
-   "id": "f54eab20ad43",
-   "t": "Millions join Spain's first general strike in 14 years as anger over housing leads to clashes",
-   "ko": "주택 문제에 대한 분노가 충돌로 이어지면서 스페인이 14년 만에 처음으로 총파업에 수백만 명이 참여했습니다.",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/video/20261112-millions-join-spain-s-first-general-strike-in-14-years-as-anger-over-housing-leads-to-clashes",
-   "at": "2026-11-12T10:33:28.000Z",
-   "ev": [],
-   "cc": [
-    "Spain"
-   ]
-  },
-  {
-   "id": "b3f30eed137a",
-   "t": "UK drone maker founded by Ukrainians hits £4.5bn value after raising £500m",
-   "ko": "우크라이나인이 설립한 영국 드론 제조업체는 5억 파운드를 모금한 후 45억 파운드의 가치를 기록했습니다.",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/business/2026/nov/12/uk-drone-maker-ukraine-value-uforce",
-   "at": "2026-11-12T10:31:50.000Z",
-   "ev": [
-    "ukraine"
-   ],
-   "cc": [
-    "United Kingdom",
-    "Russia",
-    "Ukraine"
-   ]
-  },
-  {
-   "id": "9d532f442161",
-   "t": "Mississippi elects Democrat Colom as state's first post-Civil War Black senator",
-   "ko": "미시시피주, 남북전쟁 후 최초의 흑인 상원의원으로 민주당 콜롬 선출",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/video/20261112-mississippi-elects-democrat-colom-as-state-s-first-post-civil-war-black-senator",
-   "at": "2026-11-12T10:26:54.000Z",
-   "ev": [],
-   "cc": [
-    "United States"
-   ]
-  },
-  {
-   "id": "de30b93eeb75",
-   "t": "Two dead, several injured after New York building collapses",
-   "ko": "뉴욕 빌딩 붕괴로 2명 사망, 다수 부상",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/video/20261112-two-dead-several-injured-after-new-york-building-collapses",
-   "at": "2026-11-12T10:21:43.000Z",
-   "ev": [],
-   "cc": []
-  },
-  {
-   "id": "5990d85a39a9",
-   "t": "‘Like priests who don’t believe in God’: Italy’s anti-vax medics eye return to frontline duty",
-   "ko": "'신을 믿지 않는 신부들처럼': 이탈리아의 백신 반대 의료진이 최전선 임무로 복귀",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/world/2026/nov/12/italy-anti-vax-medics-return-vote-meloni",
-   "at": "2026-11-12T10:20:09.000Z",
-   "ev": [],
-   "cc": [
-    "Italy"
-   ]
-  },
-  {
-   "id": "60cc588aa463",
-   "t": "Hybrid warfare: Hoax bomb alerts sent to schools in Italy, UK in latest disruption",
-   "ko": "하이브리드 전쟁: 최근 혼란으로 인해 이탈리아와 영국의 학교에 가짜 폭탄 경고가 전송되었습니다.",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/video/20261112-hybrid-warfare-hoax-bomb-alerts-sent-to-schools-in-italy-uk-in-latest-disruption",
-   "at": "2026-11-12T10:20:02.000Z",
-   "ev": [],
-   "cc": [
-    "Italy",
-    "United Kingdom",
-    "Ireland"
-   ]
-  },
-  {
-   "id": "cbd93562f963",
-   "t": "Kylian Mbappé to miss Thursday's Nations League clash against Italy",
-   "ko": "킬리안 음바페, 목요일 이탈리아와의 네이션스리그 경기 결장",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/tv-shows/sports/20261112-kylian-mbapp%C3%A9-miss-thursday-nations-league-clash-against-italy",
-   "at": "2026-11-12T10:19:15.000Z",
-   "ev": [],
-   "cc": [
-    "Italy",
-    "France",
-    "Turkey"
-   ]
-  },
-  {
-   "id": "21ebcc86fa17",
-   "t": "New restrictions to Starshield network 'kill more Ukrainians', Zelensky says",
-   "ko": "Starshield 네트워크에 대한 새로운 제한은 '더 많은 우크라이나인을 죽인다'고 Zelensky는 말합니다",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/europe/20261112-new-systematic-restrictions-starshield-network-kill-more-ukrainians-zelensky-says",
-   "at": "2026-11-12T10:06:26.000Z",
-   "ev": [
-    "ukraine"
-   ],
-   "cc": [
-    "Ukraine"
-   ]
-  },
-  {
-   "id": "9c4ef42ffa05",
-   "t": "Ukraine's ex foreign minister Kuleba on prospects for peace in Russia-Ukraine war",
-   "ko": "쿨레바 전 우크라이나 외무장관이 러시아-우크라이나 전쟁의 평화 전망에 대해 말했다.",
-   "src": "NPR",
-   "u": "https://www.npr.org/2026/11/12/nx-s1-6037759/ukraines-ex-foreign-minister-kuleba-on-prospects-for-peace-in-russia-ukraine-war",
-   "at": "2026-11-12T09:40:31.000Z",
-   "ev": [
-    "ukraine"
-   ],
-   "cc": [
-    "Ukraine",
-    "Russia"
-   ]
-  },
-  {
-   "id": "dd1cb466126b",
-   "t": "From the UK to the Gulf, are US overseas bases becoming liabilities?",
-   "ko": "영국에서 걸프만까지, 미국의 해외 기지가 부채가 되고 있습니까?",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/news-analysis/2026/11/12/from-the-uk-to-the-gulf-are-us-overseas-bases-becoming-liabilities?traffic_source=rss",
-   "at": "2026-11-12T09:38:00.000Z",
-   "ev": [
-    "iran"
-   ],
-   "cc": [
-    "United Kingdom",
-    "United States",
-    "Iran"
-   ]
-  },
-  {
-   "id": "b5b56f9a8d21",
-   "t": "Aid groups call on Israel to allow shelters in Gaza amid a humanitarian emergency",
-   "ko": "구호단체들은 이스라엘에 인도주의적 비상상황 속에서 가자지구에 대피소를 허용할 것을 촉구했습니다.",
-   "src": "NPR",
-   "u": "https://www.npr.org/2026/11/12/nx-s1-6035686/aid-groups-call-on-israel-to-allow-shelters-in-gaza-amid-a-humanitarian-emergency",
-   "at": "2026-11-12T09:29:50.000Z",
-   "ev": [
-    "gaza"
-   ],
-   "cc": [
-    "Israel",
-    "Palestine"
-   ]
-  },
-  {
-   "id": "39b7babe27ba",
-   "t": "An Israeli strike on a Gaza hospital kills 6 people, including a doctor and a child",
-   "ko": "이스라엘, 가자지구 병원 공습으로 의사와 어린이 등 6명 사망",
-   "src": "NPR",
-   "u": "https://www.npr.org/2026/11/12/nx-s1-6038339/israeli-strike-gaza-hospital",
-   "at": "2026-11-12T09:29:30.000Z",
-   "ev": [
-    "gaza"
-   ],
-   "cc": [
-    "Israel",
-    "Palestine"
    ]
   }
  ]
