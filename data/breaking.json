@@ -1,17 +1,17 @@
 {
- "updated": "2026-11-13T21:36:42.262Z",
+ "updated": "2026-11-14T01:47:24.691Z",
  "sources": {
   "BBC": {
    "ok": true,
-   "n": 6
+   "n": 7
   },
   "Al Jazeera": {
    "ok": true,
-   "n": 7
+   "n": 4
   },
   "The Guardian": {
    "ok": true,
-   "n": 12
+   "n": 13
   },
   "DW": {
    "ok": true,
@@ -19,7 +19,7 @@
   },
   "France 24": {
    "ok": true,
-   "n": 17
+   "n": 15
   },
   "UN News": {
    "ok": true,
@@ -32,12 +32,95 @@
  },
  "items": [
   {
+   "id": "e210b3aa241a",
+   "t": "All passengers and crew accounted for after New Orleans boat crash in ‘miracle on the Mississippi’",
+   "ko": "'미시시피강의 기적' 뉴올리언스 보트 추락 사고로 승객과 승무원 전원 사망",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/us-news/2026/nov/13/mississippi-river-crash-new-orleans",
+   "at": "2026-11-14T01:29:11.000Z",
+   "ev": [],
+   "cc": []
+  },
+  {
+   "id": "9737ca003118",
+   "t": "Nationwide FAA ground stop: nearly 11,000 flights delayed or canceled at airports across the US",
+   "ko": "전국 FAA 지상 정지: 미국 전역 공항에서 약 11,000편의 항공편이 지연되거나 취소되었습니다.",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/world/2026/nov/13/faa-nationwide-ground-stop-flights",
+   "at": "2026-11-14T01:01:12.000Z",
+   "ev": [],
+   "cc": [
+    "United States"
+   ]
+  },
+  {
+   "id": "89d13a43c42e",
+   "t": "SpaceX Starship megarocket blasts off before expected return for reuse",
+   "ko": "SpaceX Starship 메가 로켓은 재사용을 위해 예상되는 복귀 전에 폭발합니다",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/science/2026/nov/13/spacex-starship-megarocket-blasts-off-earth-orbit",
+   "at": "2026-11-14T00:53:52.000Z",
+   "ev": [],
+   "cc": [
+    "United States"
+   ]
+  },
+  {
+   "id": "90ede25c95fa",
+   "t": "Arrested generals and a threatened VP: President's son fuels Ugandan succession fever",
+   "ko": "체포된 장군들과 위협받는 부통령: 대통령의 아들이 우간다 후계열을 부채질하다",
+   "src": "BBC",
+   "u": "https://www.bbc.co.uk/news/articles/cmlydy0xw45wo?at_medium=RSS&at_campaign=rss",
+   "at": "2026-11-14T00:03:52.000Z",
+   "ev": [],
+   "cc": []
+  },
+  {
+   "id": "713a48e07b7f",
+   "t": "Setback for SpaceX Starship rocket's double-catch test",
+   "ko": "SpaceX Starship 로켓의 이중 캐치 테스트에 대한 좌절",
+   "src": "BBC",
+   "u": "https://www.bbc.co.uk/news/articles/ckregdgnl0xpo?at_medium=RSS&at_campaign=rss",
+   "at": "2026-11-14T00:01:01.000Z",
+   "ev": [],
+   "cc": []
+  },
+  {
+   "id": "a460993f867d",
+   "t": "Iran war live: Fighting grips Yemen as Qatar, Turkiye sign defence deal",
+   "ko": "이란 전쟁 라이브: 카타르, 투르키예가 방위 계약에 서명함에 따라 예멘의 싸움이 치열해졌습니다.",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/liveblog/2026/11/14/iran-war-live-fighting-grips-yemen-as-qatar-turkiye-sign-defence-deal?traffic_source=rss",
+   "at": "2026-11-14T00:00:25.000Z",
+   "ev": [
+    "iran",
+    "yemen"
+   ],
+   "cc": [
+    "Iran",
+    "Yemen",
+    "Qatar"
+   ]
+  },
+  {
+   "id": "64d4544b04eb",
+   "t": "After a summer win, India's Gen Z protesters face a winter of uncertainty",
+   "ko": "여름 승리 이후 인도의 Z세대 시위자들은 불확실성의 겨울에 직면해 있습니다.",
+   "src": "BBC",
+   "u": "https://www.bbc.co.uk/news/articles/cq99e0z4vg1eo?at_medium=RSS&at_campaign=rss",
+   "at": "2026-11-13T23:11:51.000Z",
+   "ev": [],
+   "cc": [
+    "India"
+   ]
+  },
+  {
    "id": "50e52ce090e6",
-   "t": "US air force responds to suspected drone activity at RAF Lakenheath",
+   "t": "US Air Force responds to suspected drone activity at RAF Lakenheath",
    "ko": "미 공군, RAF Lakenheath에서 의심되는 드론 활동에 대응",
    "src": "The Guardian",
    "u": "https://www.theguardian.com/uk-news/2026/nov/13/us-air-force-responds-to-suspected-drone-activity-at-raf-lakenheath",
-   "at": "2026-11-13T21:01:40.000Z",
+   "at": "2026-11-13T22:31:05.000Z",
    "ev": [],
    "cc": [
     "United States",
@@ -46,8 +129,8 @@
   },
   {
    "id": "1ce49df085e4",
-   "t": "Probation officers in England and Wales vote for strike action over pay and workloads",
-   "ko": "잉글랜드와 웨일스의 보호관찰관, 급여와 업무량에 대한 파업 조치에 투표",
+   "t": "Probation officers in England and Wales vote to strike over pay and workloads",
+   "ko": "잉글랜드와 웨일스의 보호관찰관, 임금과 업무량 문제로 파업 투표",
    "src": "The Guardian",
    "u": "https://www.theguardian.com/society/2026/nov/13/probation-officers-in-england-and-wales-vote-for-strike-action-over-pay-and-workloads",
    "at": "2026-11-13T20:51:01.000Z",
@@ -172,8 +255,8 @@
   },
   {
    "id": "388c180a1aec",
-   "t": "Microsoft scrambles to fix global outage affecting Teams and Outlook",
-   "ko": "Microsoft는 Teams 및 Outlook에 영향을 미치는 글로벌 중단 문제를 해결하기 위해 노력하고 있습니다.",
+   "t": "Microsoft outage: company scrambles to fix global issue that took down Outlook and Teams",
+   "ko": "Microsoft 중단: 회사는 Outlook 및 Teams를 중단시키는 글로벌 문제를 해결하기 위해 출격합니다.",
    "src": "The Guardian",
    "u": "https://www.theguardian.com/technology/2026/nov/13/microsoft-outage-outlook-teams-word-excel-reports",
    "at": "2026-11-13T17:41:15.000Z",
@@ -2124,99 +2207,6 @@
    "cc": [
     "Israel",
     "Palestine"
-   ]
-  },
-  {
-   "id": "b0a8093170fa",
-   "t": "Ten police officers, 18 fighters killed in northwest Pakistan attack",
-   "ko": "파키스탄 북서부 공격으로 경찰 10명, 전사 18명 사망",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/news/2026/11/12/ten-police-officers-18-fighters-killed-in-northwest-pakistan-attack?traffic_source=rss",
-   "at": "2026-11-12T08:35:20.000Z",
-   "ev": [],
-   "cc": [
-    "Pakistan"
-   ]
-  },
-  {
-   "id": "40129c97ba82",
-   "t": "Photos: Protesters clash with police after housing cost rallies in Spain",
-   "ko": "사진: 스페인 주택 비용 집회 후 시위대와 경찰이 충돌",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/gallery/2026/11/12/photos-protesters-clash-with-police-after-housing-cost-rallies-in-spain?traffic_source=rss",
-   "at": "2026-11-12T08:01:29.000Z",
-   "ev": [],
-   "cc": [
-    "Spain"
-   ]
-  },
-  {
-   "id": "8ea6130c7c0a",
-   "t": "Russia's 'hidden mobilization': The 'expendable' lives fueling Putin's war on Ukraine",
-   "ko": "러시아의 '숨겨진 동원': 푸틴의 우크라이나 전쟁을 부채질하는 '소모품' 생명",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/russia-s-hidden-mobilization-the-expendable-lives-fueling-putin-s-war-on-ukraine",
-   "at": "2026-11-12T07:39:55.000Z",
-   "ev": [
-    "ukraine"
-   ],
-   "cc": [
-    "Russia",
-    "Ukraine"
-   ]
-  },
-  {
-   "id": "0d077978dfd2",
-   "t": "Suspect in Trappes racist attack says he acted 'on behalf of France'",
-   "ko": "트라페스 인종차별 공격 용의자 \"프랑스를 대신해 행동했다\"",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/france/20261112-trappes-racist-attack-suspect-says-he-acted-behalf-france",
-   "at": "2026-11-12T07:08:48.000Z",
-   "ev": [],
-   "cc": [
-    "France"
-   ]
-  },
-  {
-   "id": "2d88c88109c5",
-   "t": "Thursday briefing: What we do (and don’t) know about Alice Huang and the Nvidia affair",
-   "ko": "목요일 브리핑: Alice Huang과 Nvidia 사건에 대해 우리가 아는 것과 모르는 것",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/world/2026/nov/12/thursday-briefing-what-we-do-and-dont-know-about-alice-huang-and-the-nvidia-affair",
-   "at": "2026-11-12T06:43:31.000Z",
-   "ev": [],
-   "cc": [
-    "United States",
-    "China",
-    "United Kingdom"
-   ]
-  },
-  {
-   "id": "fc7dbdd5e16f",
-   "t": "Fighting intensifies in Yemen as Houthis deny targeting Mecca",
-   "ko": "후티 반군이 메카 공격을 거부함에 따라 예멘에서 전투가 격화",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/news/2026/11/12/fighting-intensifies-in-yemen-as-houthis-deny-targeting-mecca?traffic_source=rss",
-   "at": "2026-11-12T04:41:17.000Z",
-   "ev": [
-    "yemen"
-   ],
-   "cc": [
-    "Yemen"
-   ]
-  },
-  {
-   "id": "32b2f5deec8f",
-   "t": "Bolivia arrests former judge on suspicion of drug trafficking",
-   "ko": "볼리비아, 마약 밀매 혐의로 전 판사 체포",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/news/2026/11/12/bolivia-arrests-former-judge-on-suspicion-of-drug-trafficking?traffic_source=rss",
-   "at": "2026-11-12T04:40:25.000Z",
-   "ev": [
-    "mexico"
-   ],
-   "cc": [
-    "Bolivia"
    ]
   }
  ]
