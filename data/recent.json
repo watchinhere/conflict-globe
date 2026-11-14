@@ -1,141 +1,152 @@
 {
- "updated": "2026-11-13",
+ "updated": "2026-11-14",
  "news": {
   "ukraine": [
    {
     "date": "2026-11-13",
-    "text": "Hegseth gives medal to guard who reprimanded him at Arlington national cemetery – US politics live",
-    "ko": "헤그세스, 알링턴 국립묘지에서 자신을 질책한 경호원에게 메달 수여 - 미국 정치 생방송",
+    "text": "Russia is ‘setting traps’ in Ukraine talks, EU foreign policy chief warns",
+    "ko": "러시아가 우크라이나 회담에 '덫을 놓고 있다'고 유럽연합(EU) 외교장관이 경고했다.",
     "sources": [
      {
       "t": "The Guardian",
-      "u": "https://www.theguardian.com/us-news/live/2026/nov/12/mississippi-scott-colom-ukraine-donald-trump"
+      "u": "https://www.theguardian.com/world/2026/nov/13/russia-ukraine-talks-kaja-kallas-eu-foreign-policy-dublin-summit"
      }
     ]
    },
    {
-    "date": "2026-11-12",
-    "text": "Putin takes hard line in US talks as Ukraine says Starlink disrupted again",
-    "ko": "푸틴 대통령은 우크라이나가 스타링크가 다시 중단되었다고 말하자 미국 회담에서 강경 입장을 취했습니다.",
-    "sources": [
-     {
-      "t": "The Guardian",
-      "u": "https://www.theguardian.com/world/2026/nov/12/vladimir-putin-russia-target-foreign-troops-ukraine-elon-musk-starlink"
-     }
-    ]
-   },
-   {
-    "date": "2026-11-12",
-    "text": "Across Africa: Tunisians drawn into Russia's war with Ukraine",
-    "ko": "아프리카 전역: 러시아와 우크라이나의 전쟁에 참여하는 튀니지인",
+    "date": "2026-11-13",
+    "text": "The Downfall of AI’s ‘Rock Star’ Boss, Ukraine: Who speaks for Europe? Protests & Presidents",
+    "ko": "AI '록스타' 보스의 몰락, 우크라이나: 유럽을 대표하는 사람은 누구인가? 시위와 대통령",
     "sources": [
      {
       "t": "France 24",
-      "u": "https://www.france24.com/en/across-africa-tunisians-drawn-into-russia-s-war-with-ukraine"
+      "u": "https://www.france24.com/en/tv-shows/the-world-this-week/20261113-the-downfall-of-ai-s-rock-star-boss-ukraine-who-speak-for-europe-protests-presidents"
      }
     ]
    },
    {
-    "date": "2026-11-12",
-    "text": "Norway follows Finland in barring Russian athletes from entering country over Ukraine war",
-    "ko": "노르웨이, 핀란드에 이어 우크라이나 전쟁으로 러시아 선수단 입국 금지",
+    "date": "2026-11-13",
+    "text": "Hurry up and wait: Europe wants a place at the table, ‘must make up its mind’ over Ukraine",
+    "ko": "서둘러 기다려라: 유럽은 협상 테이블에 앉기를 원하며 우크라이나 문제에 대해 '결심해야 한다'",
     "sources": [
      {
-      "t": "The Guardian",
-      "u": "https://www.theguardian.com/sport/2026/nov/12/finland-bars-russian-athletes-ukraine"
+      "t": "France 24",
+      "u": "https://www.france24.com/en/tv-shows/spotlight/20261113-hurry-up-and-wait-europe-wants-a-place-at-the-table-must-make-up-its-mind-over-ukraine"
      }
     ]
    },
    {
-    "date": "2026-11-12",
-    "text": "Regional security dominates European talks in Dublin amid hybrid attacks",
-    "ko": "하이브리드 공격 속에서 지역 안보가 더블린에서 열린 유럽 회담을 장악했습니다.",
+    "date": "2026-11-13",
+    "text": "As EU grapples with fierce AI competition, summit overshadowed by elusive Ukraine-Russia peace deal",
+    "ko": "EU가 치열한 AI 경쟁에 맞서고 있는 가운데, 정상회담은 어려운 우크라이나-러시아 평화 협정으로 가려졌습니다.",
+    "sources": [
+     {
+      "t": "France 24",
+      "u": "https://www.france24.com/en/video/20261113-as-eu-grapples-with-fierce-ai-competition-summit-overshadowed-by-elusive-ukraine-russia-peace-deal-1"
+     }
+    ]
+   },
+   {
+    "date": "2026-11-13",
+    "text": "Car bombings in Russia kill military officer, injure ex-Ukraine PM adviser",
+    "ko": "러시아에서 차량 폭탄 테러로 군 장교 사망, 전 우크라이나 총리 고문 부상",
     "sources": [
      {
       "t": "Al Jazeera",
-      "u": "https://www.aljazeera.com/news/2026/11/12/regional-security-dominates-european-talks-in-dublin-amid-hybrid-attacks?traffic_source=rss"
+      "u": "https://www.aljazeera.com/news/2026/11/13/car-bombings-in-russia-kill-military-officer-injure-ex-ukraine-pm-adviser?traffic_source=rss"
      }
     ]
    },
    {
-    "date": "2026-11-12",
-    "text": "Russian warship hit by Ukrainian drone in Gulf of Finland",
-    "ko": "핀란드 만에서 우크라이나 드론이 러시아 군함을 공격했다",
+    "date": "2026-11-13",
+    "text": "Russia strikes targets across Ukraine as Kyiv launches nearly 1,200 drones",
+    "ko": "러시아, 키예프가 거의 1,200대의 드론을 발사함에 따라 우크라이나 전역의 목표물을 공격",
+    "sources": [
+     {
+      "t": "France 24",
+      "u": "https://www.france24.com/en/video/20261113-russian-airstrikes-continue-ukraine-launches-nearly-1-200-drones"
+     }
+    ]
+   },
+   {
+    "date": "2026-11-13",
+    "text": "Ukraine claims record 3,000 Russian casualties in one day as war drags on",
+    "ko": "우크라이나, 전쟁이 계속되면서 하루 만에 러시아인 사상자 3000명 기록",
+    "sources": [
+     {
+      "t": "Al Jazeera",
+      "u": "https://www.aljazeera.com/news/2026/11/13/russias-demands-come-from-different-reality-as-war-efforts-stagnates?traffic_source=rss"
+     }
+    ]
+   },
+   {
+    "date": "2026-11-13",
+    "text": "Most Ukrainians 'think there's no chance of a peace deal' with Russia",
+    "ko": "대부분의 우크라이나인들은 러시아와 평화협정을 맺을 가능성이 없다고 생각합니다.",
+    "sources": [
+     {
+      "t": "France 24",
+      "u": "https://www.france24.com/en/video/20261113-most-ukrainians-think-there-s-no-chance-of-a-peace-deal-with-russia"
+     }
+    ]
+   },
+   {
+    "date": "2026-11-13",
+    "text": "Aide to fugitive Ukrainian ex-PM wounded in latest Moscow car bombing",
+    "ko": "최근 모스크바 차량 폭탄 테러로 부상을 입은 도망자 우크라이나 전 총리의 보좌관",
     "sources": [
      {
       "t": "BBC",
-      "u": "https://www.bbc.co.uk/news/articles/cmn0d33zz34zo?at_medium=RSS&at_campaign=rss"
+      "u": "https://www.bbc.co.uk/news/articles/c5gm3gnwl42eo?at_medium=RSS&at_campaign=rss"
      }
     ]
    },
    {
-    "date": "2026-11-12",
-    "text": "Zelensky warns Europe over US-Russia talks on broader security arrangements",
-    "ko": "Zelensky는 광범위한 안보 조치에 대한 미-러 회담에 대해 유럽에 경고했습니다.",
-    "sources": [
-     {
-      "t": "France 24",
-      "u": "https://www.france24.com/en/zelensky-warns-europe-over-us-russia-talks-on-broader-security-arrangements"
-     }
-    ]
-   },
-   {
-    "date": "2026-11-12",
-    "text": "Winter is coming: Putin seeks to 'hammer Ukrainians, their power grid, their water supplies'",
-    "ko": "겨울이 다가오고 있다: 푸틴 대통령은 '우크라이나 국민과 그들의 전력망, 물 공급을 망치려고' 하고 있다.",
-    "sources": [
-     {
-      "t": "France 24",
-      "u": "https://www.france24.com/en/video/20261112-winter-is-coming-putin-seeks-to-hammer-ukrainians-their-power-grid-their-water-supplies"
-     }
-    ]
-   },
-   {
-    "date": "2026-11-12",
-    "text": "New talks with Russia, Ukraine and European countries agreed, US says - as it happened",
-    "ko": "미국은 러시아, 우크라이나, 유럽 국가들과의 새로운 회담에 합의했다고 밝혔습니다.",
+    "date": "2026-11-13",
+    "text": "Russia strikes hospital in central Kyiv after SpaceX system falters again",
+    "ko": "SpaceX 시스템이 다시 흔들리자 러시아는 키예프 중심부의 병원을 공격했습니다.",
     "sources": [
      {
       "t": "The Guardian",
-      "u": "https://www.theguardian.com/world/live/2026/nov/12/us-envoys-in-moscow-meeting-putin-abu-dhabi-trilateral-ukraine-ceasefire-talks-latest-news-updates"
+      "u": "https://www.theguardian.com/world/2026/nov/13/russia-strikes-hospital-central-kyiv-spacex-starshield-system-fails"
      }
     ]
    },
    {
-    "date": "2026-11-12",
-    "text": "Russia's Vladimir Putin suggests no Ukraine compromise in meeting with US envoys",
-    "ko": "블라디미르 푸틴 러시아 대통령, 미국 대사들과의 만남에서 우크라이나는 타협하지 않을 것이라고 제안",
+    "date": "2026-11-13",
+    "text": "US, Ukraine say Europe to join peace talks as Putin sticks to hardline stance",
+    "ko": "미국과 우크라이나는 푸틴 대통령이 강경 입장을 고수함에 따라 유럽이 평화 회담에 참여할 것이라고 말했습니다.",
     "sources": [
      {
       "t": "France 24",
-      "u": "https://www.france24.com/en/video/20261112-russia-s-vladimir-putin-suggests-no-ukraine-compromise-in-meeting-with-us-envoys"
+      "u": "https://www.france24.com/en/video/20261113-us-ukraine-say-europe-to-join-peace-talks-as-putin-sticks-to-hardline-stance"
      }
     ]
    },
    {
-    "date": "2026-11-12",
-    "text": "European security and Ukraine talks top agenda at Dublin summit",
-    "ko": "유럽 ​​안보와 우크라이나, 더블린 정상회담에서 주요 의제 논의",
+    "date": "2026-11-13",
+    "text": "'Big development' in peace talks as Ukraine says Europe to join Russia negotiations",
+    "ko": "우크라이나가 유럽이 러시아 협상에 참여하겠다고 발표함에 따라 평화 회담에서 '큰 발전'",
     "sources": [
      {
       "t": "France 24",
-      "u": "https://www.france24.com/en/video/20261112-european-security-and-ukraine-talks-top-agenda-at-dublin-summit"
-     }
-    ]
-   },
-   {
-    "date": "2026-11-12",
-    "text": "'We've got to run': Inside ruined Ukraine power plant under constant drone threat",
-    "ko": "'우리는 달려야 한다': 지속적인 드론 위협을 받고 있는 폐허가 된 우크라이나 발전소 내부",
-    "sources": [
-     {
-      "t": "BBC",
-      "u": "https://www.bbc.co.uk/news/videos/cm93rp3gxn6qo?at_medium=RSS&at_campaign=rss"
+      "u": "https://www.france24.com/en/video/20261113-big-development-in-peace-talks-as-ukraine-says-europe-to-join-russia-negotiations"
      }
     ]
    }
   ],
   "sudan": [
+   {
+    "date": "2026-11-13",
+    "text": "UN refugee chief Barham Salih slams 'shameful' war in Sudan, urges 'political solution'",
+    "ko": "바르함 살리 유엔난민기구 사무총장, 수단 내전 '부끄러운' 비난하며 '정치적 해결' 촉구",
+    "sources": [
+     {
+      "t": "France 24",
+      "u": "https://www.france24.com/en/tv-shows/t%C3%AAte-%C3%A0-t%C3%AAte/20261113-un-refugee-chief-barham-salih-slams-shameful-war-in-sudan-urges-political-solution"
+     }
+    ]
+   },
    {
     "date": "2026-11-12",
     "text": "Aid is the ‘only hope’ for millions in Sudan, WFP chief warns, as funding cuts deepen hunger crisis",
@@ -256,149 +267,138 @@
      }
     ],
     "ko": "수단군은 서부 코르도판 마을인 이얄 바키트(Iyal Bakhit)를 탈환했다고 밝혔습니다. 또한 SAF는 Rapid Support Forces 드론을 격추했다고 밝혔습니다."
-   },
-   {
-    "date": "2026-11-07",
-    "text": "Sudan war and climate change see parents struggle to feed their children",
-    "ko": "수단 전쟁과 기후 변화로 인해 부모들은 자녀를 먹이기 위해 고군분투하고 있습니다.",
-    "sources": [
-     {
-      "t": "Al Jazeera",
-      "u": "https://www.aljazeera.com/features/2026/11/7/sudan-war-and-climate-change-sees-parents-struggle-to-feed-their-children?traffic_source=rss"
-     }
-    ]
    }
   ],
   "iran": [
    {
     "date": "2026-11-13",
-    "text": "Iran war live: Riyadh, China discuss Houthis as group claims Aramco attacks",
-    "ko": "이란 전쟁 라이브: 리야드, 중국, 그룹이 아람코 공격을 주장하면서 후티 반군에 대해 논의",
+    "text": "Iran claims it has destroyed an early-warning radar in Bahrain as a retaliation for a US strike on telecommunication infrastructure on Sirik.",
+    "sources": [
+     {
+      "t": "Türkiye Today",
+      "u": "https://www.turkiyetoday.com/region/irgc-claims-strike-on-us-early-warning-radar-in-bahrain-after-sirik-attack-3232293?s=1"
+     }
+    ],
+    "ko": "이란은 미국이 시리크의 통신 인프라를 공격한 것에 대한 보복으로 바레인의 조기 경보 레이더를 파괴했다고 주장했습니다."
+   },
+   {
+    "date": "2026-11-13",
+    "text": "What's Trump's strategy now with Iran? To keep things as they are",
+    "ko": "지금 이란에 대한 트럼프의 전략은 무엇인가? 물건을 있는 그대로 유지하려면",
+    "sources": [
+     {
+      "t": "NPR",
+      "u": "https://www.npr.org/2026/11/13/g-s1-153578/whats-trumps-strategy-now-with-iran-to-keep-things-as-they-are"
+     }
+    ]
+   },
+   {
+    "date": "2026-11-13",
+    "text": "Iran honours fallen soldiers in Iran-Iraq war with missile display",
+    "ko": "이란, 이란-이라크 전쟁에서 전사한 군인들을 미사일 전시로 추모",
     "sources": [
      {
       "t": "Al Jazeera",
-      "u": "https://www.aljazeera.com/news/liveblog/2026/11/13/iran-war-live-riyadh-china-discuss-houthis-as-group-claims-aramco-attacks?traffic_source=rss"
+      "u": "https://www.aljazeera.com/video/newsfeed/2026/11/13/iran-honours-fallen-soldiers-in-iran-iraq-war-with-missile-display?traffic_source=rss"
      }
     ]
    },
    {
-    "date": "2026-11-12",
-    "text": "How FRANCE 24 traced Tehran-backed Afghan fighters from Syria to southeastern Iran",
-    "ko": "FRANCE 24가 시리아에서 이란 남동부까지 테헤란의 지원을 받는 아프가니스탄 전투기를 추적한 방법",
+    "date": "2026-11-13",
+    "text": "US Treasury warns against rate hikes during US-Iran war energy ‘shock’",
+    "ko": "미국 재무부, 미국-이란 전쟁 중 에너지 '충격'으로 금리 인상 경고",
     "sources": [
      {
-      "t": "France 24",
-      "u": "https://www.france24.com/en/middle-east/20261112-iran-afghan-fatemiyoun-fighters-syria-baluchistan"
+      "t": "Al Jazeera",
+      "u": "https://www.aljazeera.com/economy/2026/11/13/us-treasury-warns-against-rate-hikes-during-us-iran-war-energy-shock?traffic_source=rss"
      }
     ]
    },
    {
-    "date": "2026-11-12",
-    "text": "UK court convicts 2 Iranian men of spying on journalists",
-    "ko": "영국 법원, 언론인 염탐 혐의로 이란 남성 2명에 유죄 판결",
+    "date": "2026-11-13",
+    "text": "Iran targeted US radar system in Bahrain",
+    "ko": "이란은 바레인에 있는 미국 레이더 시스템을 공격했다.",
     "sources": [
      {
       "t": "DW",
-      "u": "https://www.dw.com/en/uk-court-convicts-2-iranian-men-of-spying-on-journalists/a-79931583?maca=en-rss-en-world-4025-rdf"
+      "u": "https://www.dw.com/en/iran-targeted-us-radar-system-in-bahrain/a-79942640?maca=en-rss-en-world-4025-rdf"
      }
     ]
    },
    {
-    "date": "2026-11-12",
-    "text": "UK court finds two Iranian men guilty of spying for Iran",
-    "ko": "영국 법원, 이란 간첩 혐의로 이란 남성 2명 유죄 판결",
+    "date": "2026-11-13",
+    "text": "Can Netanyahu launch a strike on Iran before he leaves?",
+    "ko": "네타냐후가 떠나기 전에 이란을 공격할 수 있을까?",
     "sources": [
      {
       "t": "Al Jazeera",
-      "u": "https://www.aljazeera.com/news/2026/11/12/uk-court-finds-two-iranian-men-guilty-of-spying-for-iran?traffic_source=rss"
+      "u": "https://www.aljazeera.com/news/2026/11/13/can-netanyahu-launch-a-strike-on-iran-before-he-leaves?traffic_source=rss"
      }
     ]
    },
    {
-    "date": "2026-11-12",
-    "text": "‘No war, no peace’: Can Iran break the deadlock with the US?",
-    "ko": "'전쟁도 없고 평화도 없다': 이란이 미국과의 교착상태를 풀 수 있을까?",
-    "sources": [
-     {
-      "t": "Al Jazeera",
-      "u": "https://www.aljazeera.com/news/2026/11/12/no-war-no-peace-can-iran-break-the-deadlock-with-the-us?traffic_source=rss"
-     }
-    ]
-   },
-   {
-    "date": "2026-11-12",
-    "text": "From the UK to the Gulf, are US overseas bases becoming liabilities?",
-    "ko": "영국에서 걸프만까지, 미국의 해외 기지가 부채가 되고 있습니까?",
-    "sources": [
-     {
-      "t": "Al Jazeera",
-      "u": "https://www.aljazeera.com/news-analysis/2026/11/12/from-the-uk-to-the-gulf-are-us-overseas-bases-becoming-liabilities?traffic_source=rss"
-     }
-    ]
-   },
-   {
-    "date": "2026-11-12",
-    "text": "Iran warns of expanded retaliation as Israel reportedly readies to attack",
-    "ko": "이란, 이스라엘 공격 준비에 보복 확대 경고",
-    "sources": [
-     {
-      "t": "Al Jazeera",
-      "u": "https://www.aljazeera.com/news/2026/11/12/iran-warns-of-expanded-retaliation-as-israel-reportedly-readies-to-attack?traffic_source=rss"
-     }
-    ]
-   },
-   {
-    "date": "2026-11-12",
-    "text": "Oil slicks seen from space: the devastating impact of boat strikes on fragile Gulf ecosystems",
-    "ko": "우주에서 본 유막: 취약한 걸프 생태계에 대한 보트 충돌의 파괴적인 영향",
+    "date": "2026-11-13",
+    "text": "Iran says it targeted US military radar in Bahrain in retaliatory strike",
+    "ko": "이란, 보복 공격으로 바레인에 있는 미군 레이더를 목표로 삼았다고 밝혔습니다.",
     "sources": [
      {
       "t": "The Guardian",
-      "u": "https://www.theguardian.com/world/2026/nov/12/oil-slicks-seen-from-space-the-devastating-impact-of-boat-strikes-on-fragile-gulf-ecosystems"
+      "u": "https://www.theguardian.com/world/2026/nov/13/iran-us-radar-bahrain-sirik-hormuz"
      }
     ]
    },
    {
-    "date": "2026-11-12",
-    "text": "Iran war live: Iran warns of Europe retaliation, Israel attacks Gaza",
-    "ko": "이란 전쟁 라이브 :이란은 유럽의 보복을 경고하고 이스라엘은 가자 지구를 공격합니다",
+    "date": "2026-11-13",
+    "text": "Security Council LIVE: Fragile Gulf calm tested as threats to Hormuz shipping mount",
+    "ko": "안보리 라이브: 깨지기 쉬운 걸프만은 호르무즈 선박에 대한 위협으로 테스트되었습니다.",
+    "sources": [
+     {
+      "t": "UN News",
+      "u": "https://news.un.org/feed/view/en/story/2026/11/1168804"
+     }
+    ]
+   },
+   {
+    "date": "2026-11-13",
+    "text": "Iran threatens unlimited response over Strait of Hormuz after US attack",
+    "ko": "이란, 미국 공격 후 호르무즈 해협에 무제한 대응 위협",
     "sources": [
      {
       "t": "Al Jazeera",
-      "u": "https://www.aljazeera.com/news/liveblog/2026/11/12/iran-war-live-tehran-warns-of-wider-retaliation-israel-kills-in-gaza?traffic_source=rss"
+      "u": "https://www.aljazeera.com/video/newsfeed/2026/11/13/13-11-reported-resul-serdar-iran-basij?traffic_source=rss"
      }
     ]
    },
    {
-    "date": "2026-11-11",
-    "text": "Iran attacks ship navigation systems on Didamar Island, Oman. Unknown damage is caused.",
+    "date": "2026-11-13",
+    "text": "'No war, no peace' situation between US and Iran 'cannot continue', Iraqi FM says",
+    "ko": "이라크 FM \"미국과 이란 간 '전쟁도 평화도 없다' 상황은 지속될 수 없다\"",
     "sources": [
      {
-      "t": "Reuters",
-      "u": "https://www.reuters.com/world/middle-east/iran-attacks-shipping-navigation-systems-omans-didamar-island-sources-say-2026-11-11/"
+      "t": "France 24",
+      "u": "https://www.france24.com/en/tv-shows/t%C3%AAte-%C3%A0-t%C3%AAte/20261113-no-war-and-no-peace-between-the-us-and-iran-cannot-continue-iraqi-fm-says"
      }
-    ],
-    "ko": "이란이 오만 디다마르 섬의 선박 항법 시스템을 공격했다. 알 수 없는 피해가 발생했습니다."
+    ]
    },
    {
-    "date": "2026-11-11",
-    "text": "Hegseth and team reprimanded by Arlington National Cemetery guard; Trump defends his defense secretary and Iran war - live",
-    "ko": "Hegseth와 팀은 Arlington National Cemetery 경비병으로부터 질책을 받았습니다. 트럼프, 국방장관과 이란 전쟁 옹호 - 생방송",
+    "date": "2026-11-13",
+    "text": "Why is Trump saying ‘no deal necessary’ with Iran as he sidelines JD Vance?",
+    "ko": "트럼프가 JD 밴스를 제외하면서 이란과 '협상이 필요하지 않다'고 말하는 이유는 무엇입니까?",
+    "sources": [
+     {
+      "t": "Al Jazeera",
+      "u": "https://www.aljazeera.com/features/2026/11/13/why-is-trump-saying-no-deal-necessary-with-iran-as-he-sidelines-jd-vance?traffic_source=rss"
+     }
+    ]
+   },
+   {
+    "date": "2026-11-13",
+    "text": "US terrorism case sheds light on RAF Fairford arrests mystery",
+    "ko": "미국 테러 사건으로 RAF 페어포드 체포 미스터리 밝혀져",
     "sources": [
      {
       "t": "The Guardian",
-      "u": "https://www.theguardian.com/us-news/live/2026/nov/11/donald-trump-pete-hegseth-impeachment-democrats-republicans-arlington-latest-news-updates"
-     }
-    ]
-   },
-   {
-    "date": "2026-11-11",
-    "text": "Hormuz Strait will ‘never return’ to pre-war status, Iran’s Ghalibaf says",
-    "ko": "이란 갈리바프 \"호르무즈 해협은 결코 전쟁 전 상태로 돌아가지 않을 것\"",
-    "sources": [
-     {
-      "t": "Al Jazeera",
-      "u": "https://www.aljazeera.com/news/2026/11/11/strait-of-hormuz-will-never-return-to-pre-war-status-ghalibaf?traffic_source=rss"
+      "u": "https://www.theguardian.com/uk-news/2026/nov/13/us-terror-case-raf-fairford-arrests"
      }
     ]
    }
@@ -543,6 +543,72 @@
   ],
   "gaza": [
    {
+    "date": "2026-11-13",
+    "text": "Former Hamas bodyguard convicted of Birmingham knife crime also wanted in Germany",
+    "ko": "버밍엄 칼부림 혐의로 유죄 판결을 받은 전직 하마스 경호원도 독일에서 수배 중",
+    "sources": [
+     {
+      "t": "The Guardian",
+      "u": "https://www.theguardian.com/uk-news/2026/nov/13/former-hamas-bodyguard-convicted-of-birmingham-knife-also-wanted-in-germany"
+     }
+    ]
+   },
+   {
+    "date": "2026-11-13",
+    "text": "Roger Waters launches heartfelt plea for 'an end to the genocide in Gaza'",
+    "ko": "로저 워터스, '가자지구 학살 종식'을 진심으로 호소",
+    "sources": [
+     {
+      "t": "France 24",
+      "u": "https://www.france24.com/en/tv-shows/arts24/20261113-roger-waters-launches-heartfelt-plea-for-an-end-to-the-genocide-in-gaza"
+     }
+    ]
+   },
+   {
+    "date": "2026-11-13",
+    "text": "Humanitarian situation in Gaza worsens amid political deadlock",
+    "ko": "가자지구의 인도적 상황은 정치적 교착상태로 악화되고 있습니다.",
+    "sources": [
+     {
+      "t": "DW",
+      "u": "https://www.dw.com/en/humanitarian-situation-in-gaza-worsens-amid-political-deadlock/a-79931403?maca=en-rss-en-world-4025-rdf"
+     }
+    ]
+   },
+   {
+    "date": "2026-11-13",
+    "text": "Gaza surgeon films aftermath of Israeli strike",
+    "ko": "가자지구 외과의사가 이스라엘 공습의 여파를 촬영하다",
+    "sources": [
+     {
+      "t": "Al Jazeera",
+      "u": "https://www.aljazeera.com/video/newsfeed/2026/11/13/gaza-surgeon-films-aftermath-of-israeli-strike?traffic_source=rss"
+     }
+    ]
+   },
+   {
+    "date": "2026-11-12",
+    "text": "Six killed in Israeli airstrike on Gaza’s Nasser Hospital",
+    "ko": "이스라엘 가자지구 나세르병원 공습으로 6명 사망",
+    "sources": [
+     {
+      "t": "UN News",
+      "u": "https://news.un.org/feed/view/en/story/2026/11/1168796"
+     }
+    ]
+   },
+   {
+    "date": "2026-11-12",
+    "text": "An Israeli strike on a Gaza hospital kills 6 people, including a doctor and a child",
+    "ko": "이스라엘, 가자지구 병원 공습으로 의사와 어린이 등 6명 사망",
+    "sources": [
+     {
+      "t": "NPR",
+      "u": "https://www.npr.org/2026/11/12/nx-s1-6038339/israeli-strike-gaza-hospital"
+     }
+    ]
+   },
+   {
     "date": "2026-11-12",
     "text": "Israeli strike on Gaza hospital kills six, including surgeon, medics say",
     "ko": "이스라엘, 가자지구 병원 공습으로 외과의사 등 6명 사망",
@@ -605,72 +671,6 @@
      {
       "t": "BBC",
       "u": "https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo?at_medium=RSS&at_campaign=rss"
-     }
-    ]
-   },
-   {
-    "date": "2026-11-12",
-    "text": "Israel kills six in Gaza hospital strike as 9-month-old baby freezes to death",
-    "ko": "이스라엘, 가자지구 병원 파업으로 9개월 아기 얼어죽어 6명 사망",
-    "sources": [
-     {
-      "t": "France 24",
-      "u": "https://www.france24.com/en/middle-east/20261112-israel-kills-six-in-gaza-hospital-strike-as-9-month-old-baby-freezes-to-death"
-     }
-    ]
-   },
-   {
-    "date": "2026-11-12",
-    "text": "NAZA: how and where to watch the Guardian’s acclaimed Gaza documentary",
-    "ko": "NAZA: Guardian의 호평을 받은 가자 다큐멘터리를 시청하는 방법과 장소",
-    "sources": [
-     {
-      "t": "The Guardian",
-      "u": "https://www.theguardian.com/global/2026/nov/12/naza-how-to-watch-guardian-acclaimed-gaza-documentary"
-     }
-    ]
-   },
-   {
-    "date": "2026-11-12",
-    "text": "‘Horrific crime’: Gaza doctor killed as Israel expands war on healthcare",
-    "ko": "'끔찍한 범죄': 이스라엘이 의료와의 전쟁을 확대하면서 가자 의사가 사망",
-    "sources": [
-     {
-      "t": "Al Jazeera",
-      "u": "https://www.aljazeera.com/news/2026/11/12/horrific-crime-gaza-doctor-killed-as-israel-expands-war-on-healthcare?traffic_source=rss"
-     }
-    ]
-   },
-   {
-    "date": "2026-11-12",
-    "text": "Israeli airstrike on Nasser hospital in Gaza kills surgeon and five others",
-    "ko": "이스라엘, 가자지구 나세르 병원 공습으로 외과의사 외 5명 사망",
-    "sources": [
-     {
-      "t": "The Guardian",
-      "u": "https://www.theguardian.com/world/2026/nov/12/israeli-airstrike-nasser-hospital-gaza-kills-surgeon"
-     }
-    ]
-   },
-   {
-    "date": "2026-11-12",
-    "text": "Israel strikes Gaza hospital, says Hamas senior figure inside",
-    "ko": "이스라엘, 가자 병원 공격했다고 하마스 고위 인사가 내부에 밝혔다",
-    "sources": [
-     {
-      "t": "DW",
-      "u": "https://www.dw.com/en/israel-strikes-gaza-hospital-says-hamas-senior-figure-inside/a-79927645?maca=en-rss-en-world-4025-rdf"
-     }
-    ]
-   },
-   {
-    "date": "2026-11-12",
-    "text": "Aid groups call on Israel to allow shelters in Gaza amid a humanitarian emergency",
-    "ko": "구호단체들은 이스라엘에 인도주의적 비상상황 속에서 가자지구에 대피소를 허용할 것을 촉구했습니다.",
-    "sources": [
-     {
-      "t": "NPR",
-      "u": "https://www.npr.org/2026/11/12/nx-s1-6035686/aid-groups-call-on-israel-to-allow-shelters-in-gaza-amid-a-humanitarian-emergency"
      }
     ]
    }
@@ -789,6 +789,17 @@
   ],
   "westbank": [
    {
+    "date": "2026-11-13",
+    "text": "West Bank: ‘Without international trade and financial support, large settlements would not exist’",
+    "ko": "서안지구: '국제 무역과 금융 지원이 없었다면 대규모 정착지는 존재하지 않았을 것'",
+    "sources": [
+     {
+      "t": "France 24",
+      "u": "https://www.france24.com/en/video/20261113-west-bank-without-international-trade-and-financial-support-large-settlements-would-not-exist-1"
+     }
+    ]
+   },
+   {
     "date": "2026-11-12",
     "text": "Israel to ban far-left French politician Jean-Luc Mélenchon from entry",
     "ko": "이스라엘, 프랑스 극좌 정치인 장 뤽 멜렌숑 입국 금지",
@@ -906,17 +917,6 @@
      {
       "t": "Al Jazeera",
       "u": "https://www.aljazeera.com/video/newsfeed/2026/11/5/former-israeli-generals-help-palestinian-olive-farmers?traffic_source=rss"
-     }
-    ]
-   },
-   {
-    "date": "2026-11-04",
-    "text": "Food grown in illegal West Bank settlements being sold in Australia as ‘produce of Israel’",
-    "ko": "서안지구 불법 정착촌에서 재배한 식품, 호주에서 '이스라엘산'으로 판매",
-    "sources": [
-     {
-      "t": "The Guardian",
-      "u": "https://www.theguardian.com/australia-news/2026/nov/04/food-grown-in-settlements-west-bank-sold-in-australia-produce-of-israel-ntwnfb"
      }
     ]
    }
@@ -1048,6 +1048,17 @@
   ],
   "myanmar": [
    {
+    "date": "2026-11-13",
+    "text": "Myanmar: Junta carries out double-tap airstrikes targeting civilians",
+    "ko": "미얀마: 군부, 민간인을 대상으로 두 번 탭 공습 실시",
+    "sources": [
+     {
+      "t": "France 24",
+      "u": "https://www.france24.com/en/tv-shows/the-observers/20261113-myanmar-junta-airstrikes-civilians"
+     }
+    ]
+   },
+   {
     "date": "2026-11-05",
     "text": "Myanmar: Civilians under fire from military junta",
     "ko": "미얀마: 군사 정권의 총격을 받는 민간인",
@@ -1104,6 +1115,61 @@
    }
   ],
   "haiti": [
+   {
+    "date": "2026-11-13",
+    "text": "Why does El Salvador's Bukele have troops in Haiti?",
+    "ko": "엘살바도르의 부켈레가 아이티에 군대를 파견한 이유는 무엇입니까?",
+    "sources": [
+     {
+      "t": "DW",
+      "u": "https://www.dw.com/en/why-does-el-salvador-s-bukele-have-troops-in-haiti/a-79940771?maca=en-rss-en-world-4025-rdf"
+     }
+    ]
+   },
+   {
+    "date": "2026-11-13",
+    "text": "Haitian forces recapture national stadium after two years of gang control",
+    "ko": "아이티군, 2년간의 갱단 통제 끝에 국립경기장 탈환",
+    "sources": [
+     {
+      "t": "France 24",
+      "u": "https://www.france24.com/en/video/20261113-haitian-forces-recapture-national-stadium-after-two-years-of-gang-control"
+     }
+    ]
+   },
+   {
+    "date": "2026-11-13",
+    "text": "'Devastated wasteland': Haitian security forces regain control of stadium from gangs",
+    "ko": "'황폐화된 황무지': 아이티 보안군이 갱단으로부터 경기장 통제권을 되찾았습니다.",
+    "sources": [
+     {
+      "t": "France 24",
+      "u": "https://www.france24.com/en/video/20261113-devastated-wasteland-haitian-security-forces-regain-control-of-stadium-from-gangs"
+     }
+    ]
+   },
+   {
+    "date": "2026-11-13",
+    "text": "Haitian police retake national stadium after two years of gang control",
+    "ko": "아이티 경찰, 갱 단속 2년 만에 국립경기장 탈환",
+    "sources": [
+     {
+      "t": "France 24",
+      "u": "https://www.france24.com/en/video/20261113-haitian-police-retake-national-stadium-after-two-years-of-gang-control"
+     }
+    ]
+   },
+   {
+    "date": "2026-11-13",
+    "text": "Haitian police retake national stadium from gangs after two years",
+    "ko": "아이티 경찰, 갱단으로부터 2년 만에 국립경기장 탈환",
+    "sources": [
+     {
+      "t": "France 24",
+      "u": "https://www.france24.com/en/americas/20261113-haitian-police-retake-national-stadium-from-gangs-after-two-years"
+     }
+    ]
+   },
    {
     "date": "2026-11-12",
     "text": "Haiti: More than 1,000 killed between July and September, UN report reveals",
@@ -1180,64 +1246,20 @@
       "u": "https://www.france24.com/en/americas/20261110-amnesty-urges-el-salvador-to-disclose-terms-of-haiti-troop-deployment"
      }
     ]
-   },
-   {
-    "date": "2026-11-08",
-    "text": "Haitians cheer El Salvador’s Bukele amid gang war",
-    "ko": "아이티인들은 갱단 전쟁 중에 엘살바도르의 부켈레를 응원합니다",
-    "sources": [
-     {
-      "t": "Al Jazeera",
-      "u": "https://www.aljazeera.com/video/newsfeed/2026/11/8/haitians-cheer-el-salvadors-bukele-amid-gang-war?traffic_source=rss"
-     }
-    ]
-   },
-   {
-    "date": "2026-11-07",
-    "text": "‘One less gang leader’: Haiti’s prime minister celebrates police operation",
-    "ko": "'갱단 두목 하나 줄이기': 아이티 총리, 경찰 작전 축하",
-    "sources": [
-     {
-      "t": "Al Jazeera",
-      "u": "https://www.aljazeera.com/news/2026/11/7/one-less-gang-leader-haitis-prime-minister-celebrates-police-operation?traffic_source=rss"
-     }
-    ]
-   },
-   {
-    "date": "2026-11-05",
-    "text": "El Salvador’s Bukele touts military intervention in Haiti",
-    "ko": "엘살바도르의 부켈레, 아이티에 대한 군사개입 주장",
-    "sources": [
-     {
-      "t": "Al Jazeera",
-      "u": "https://www.aljazeera.com/news/2026/11/5/el-salvadors-bukele-touts-military-intervention-in-haiti?traffic_source=rss"
-     }
-    ]
-   },
-   {
-    "date": "2026-11-03",
-    "text": "Haiti gang leader seeks UN talks as El Salvador sends 2,000 troops to hunt for missing soldiers",
-    "ko": "엘살바도르가 실종 군인 수색을 위해 2000명의 병력을 파견하자 아이티 갱단 지도자, 유엔 회담 모색",
-    "sources": [
-     {
-      "t": "UN News",
-      "u": "https://news.un.org/feed/view/en/story/2026/11/1168728"
-     }
-    ]
-   },
-   {
-    "date": "2026-10-29",
-    "text": "World News in Brief: 5 children killed in Sudan, Haiti hunger emergency, Yemen war update",
-    "ko": "세계 뉴스 요약: 수단에서 어린이 5명 사망, 아이티 기아 긴급 상황, 예멘 전쟁 업데이트",
-    "sources": [
-     {
-      "t": "UN News",
-      "u": "https://news.un.org/feed/view/en/story/2026/10/1168703"
-     }
-    ]
    }
   ],
   "nigeria": [
+   {
+    "date": "2026-11-13",
+    "text": "Nigerian university in mourning after four students die at post-exam party",
+    "ko": "시험 후 파티에서 학생 4명이 사망한 뒤 애도하는 나이지리아 대학",
+    "sources": [
+     {
+      "t": "BBC",
+      "u": "https://www.bbc.co.uk/news/articles/cmvg2dvw0355o?at_medium=RSS&at_campaign=rss"
+     }
+    ]
+   },
    {
     "date": "2026-11-10",
     "text": "Nearly 64,000 flee Nigeria for Niger where a humanitarian crisis is deepening",
@@ -1498,6 +1520,28 @@
   ],
   "lebanon": [
    {
+    "date": "2026-11-13",
+    "text": "UNRWA funding cuts deepen hardship for Palestinian refugees in Lebanon",
+    "ko": "UNRWA 자금 삭감으로 레바논 내 팔레스타인 난민의 어려움이 가중됨",
+    "sources": [
+     {
+      "t": "Al Jazeera",
+      "u": "https://www.aljazeera.com/features/2026/11/13/unrwa-funding-cuts-deepen-hardship-for-palestinian-refugees-in-lebanon?traffic_source=rss"
+     }
+    ]
+   },
+   {
+    "date": "2026-11-13",
+    "text": "After Iraq ex-MP’s killing, Lebanon asks Syria to extradite suspects",
+    "ko": "이라크 전 의원 살해 후 레바논, 시리아에 용의자 인도 요청",
+    "sources": [
+     {
+      "t": "Al Jazeera",
+      "u": "https://www.aljazeera.com/news/2026/11/13/after-iraq-ex-mps-killing-lebanon-asks-syria-to-extradite-suspects?traffic_source=rss"
+     }
+    ]
+   },
+   {
     "date": "2026-11-11",
     "text": "Former Iraqi lawmaker Ahmed al-Alwani found dead in Beirut",
     "ko": "이라크 전 의원 아메드 알 알와니 베이루트에서 숨진 채 발견",
@@ -1710,6 +1754,28 @@
   ],
   "syria": [
    {
+    "date": "2026-11-13",
+    "text": "The truth about Douma: How Syria covered up a chemical attack",
+    "ko": "두마의 진실: 시리아가 화학 공격을 은폐한 방법",
+    "sources": [
+     {
+      "t": "France 24",
+      "u": "https://www.france24.com/en/tv-shows/reporters/20261113-the-truth-about-douma-how-syria-covered-up-a-chemical-attack"
+     }
+    ]
+   },
+   {
+    "date": "2026-11-13",
+    "text": "After Iraq ex-MP’s killing, Lebanon asks Syria to extradite suspects",
+    "ko": "이라크 전 의원 살해 후 레바논, 시리아에 용의자 인도 요청",
+    "sources": [
+     {
+      "t": "Al Jazeera",
+      "u": "https://www.aljazeera.com/news/2026/11/13/after-iraq-ex-mps-killing-lebanon-asks-syria-to-extradite-suspects?traffic_source=rss"
+     }
+    ]
+   },
+   {
     "date": "2026-11-12",
     "text": "How FRANCE 24 traced Tehran-backed Afghan fighters from Syria to southeastern Iran",
     "ko": "FRANCE 24가 시리아에서 이란 남동부까지 테헤란의 지원을 받는 아프가니스탄 전투기를 추적한 방법",
@@ -1816,28 +1882,6 @@
      {
       "t": "Al Jazeera",
       "u": "https://www.aljazeera.com/video/newsfeed/2026/10/27/funeral-held-for-family-killed-in-jordanian-airstrikes-in-syria?traffic_source=rss"
-     }
-    ]
-   },
-   {
-    "date": "2026-10-27",
-    "text": "Syria slams deadly Jordan strikes as ‘unacceptable’ breach of airspace",
-    "ko": "시리아, 요르단의 치명적인 공습은 '용납할 수 없는' 영공 침해라고 비난",
-    "sources": [
-     {
-      "t": "France 24",
-      "u": "https://www.france24.com/en/middle-east/20261027-syria-slams-deadly-jordan-strikes-as-unacceptable-breach-of-airspace"
-     }
-    ]
-   },
-   {
-    "date": "2026-10-27",
-    "text": "Jordan launches airstrikes in Syria after church attack",
-    "ko": "요르단, 교회 공격 후 시리아 공습 개시",
-    "sources": [
-     {
-      "t": "France 24",
-      "u": "https://www.france24.com/en/jordan-launches-airstrikes-in-syria-after-church-attack"
      }
     ]
    }
@@ -1990,6 +2034,17 @@
    }
   ],
   "southsudan": [
+   {
+    "date": "2026-11-13",
+    "text": "Amnesty criticises South Sudan, UN over failure to heed massacre warnings",
+    "ko": "앰네스티, 남수단과 유엔이 학살 경고에 귀를 기울이지 않았다고 비난",
+    "sources": [
+     {
+      "t": "France 24",
+      "u": "https://www.france24.com/en/video/20261113-amnesty-criticises-south-sudan-un-over-failure-to-heed-massacre-warnings"
+     }
+    ]
+   },
    {
     "date": "2026-11-12",
     "text": "Ngo criticizes UN's response to massacre in South Sudan",
@@ -2257,6 +2312,17 @@
    }
   ],
   "afpak": [
+   {
+    "date": "2026-11-13",
+    "text": "Crossing Afghanistan along the 'highway of death'",
+    "ko": "'죽음의 고속도로' 아프가니스탄 횡단",
+    "sources": [
+     {
+      "t": "France 24",
+      "u": "https://www.france24.com/en/tv-shows/revisited/20261113-crossing-afghanistan-along-the-highway-of-death"
+     }
+    ]
+   },
    {
     "date": "2026-11-11",
     "text": "Pakistani Taliban carries out an ambush against police personnel in Kohat District, Khyber Pakhtunkhwa, Pakistan, killing ten officers. Eighteen gunmen are also killed in the ensuing shootout.",
