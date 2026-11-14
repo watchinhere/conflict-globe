@@ -1,17 +1,17 @@
 {
- "updated": "2026-11-14T20:05:56.918Z",
+ "updated": "2026-11-14T23:58:57.950Z",
  "sources": {
   "BBC": {
    "ok": true,
-   "n": 6
+   "n": 4
   },
   "Al Jazeera": {
    "ok": true,
-   "n": 9
+   "n": 10
   },
   "The Guardian": {
    "ok": true,
-   "n": 8
+   "n": 7
   },
   "DW": {
    "ok": true,
@@ -19,7 +19,7 @@
   },
   "France 24": {
    "ok": true,
-   "n": 9
+   "n": 7
   },
   "UN News": {
    "ok": true,
@@ -32,16 +32,92 @@
  },
  "items": [
   {
+   "id": "eb45c1d8c37c",
+   "t": "Iraq PM targets powerful militia stronghold in $30m oil smuggling probe",
+   "ko": "이라크 총리, 3천만 달러 규모 석유 밀수 수사로 강력한 민병대 본거지 겨냥",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/video/newsfeed/2026/11/14/aje-onl-nf_iraq-pm-targets-militia-stronghold-in-oil-smuggling-141126?traffic_source=rss",
+   "at": "2026-11-14T23:34:37.000Z",
+   "ev": [],
+   "cc": [
+    "Iraq"
+   ]
+  },
+  {
    "id": "fb9303c76708",
    "t": "How telecoms upgrade work sparked US flight chaos",
    "ko": "통신 업그레이드 작업이 미국 항공 혼란을 촉발한 방법",
    "src": "BBC",
    "u": "https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo?at_medium=RSS&at_campaign=rss",
-   "at": "2026-11-14T20:03:48.000Z",
+   "at": "2026-11-14T23:11:27.000Z",
    "ev": [],
    "cc": [
     "United States"
    ]
+  },
+  {
+   "id": "2e3019a6a5b0",
+   "t": "Explosion near Syria’s capital kills father and child",
+   "ko": "시리아 수도 근처에서 폭발이 일어나 아버지와 아이가 사망",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/11/14/explosion-near-syrias-capital-kills-father-and-child?traffic_source=rss",
+   "at": "2026-11-14T22:43:12.000Z",
+   "ev": [
+    "syria"
+   ],
+   "cc": [
+    "Syria"
+   ]
+  },
+  {
+   "id": "06a1e4f4652e",
+   "t": "'Can you believe it?': SpaceX catches part of its Starship rocket on return to Earth",
+   "ko": "'믿을 수 있나요?': SpaceX가 지구로 돌아올 때 우주선 로켓의 일부를 포착합니다",
+   "src": "BBC",
+   "u": "https://www.bbc.co.uk/news/videos/cwlym2gy3y3eo?at_medium=RSS&at_campaign=rss",
+   "at": "2026-11-14T22:09:40.000Z",
+   "ev": [],
+   "cc": []
+  },
+  {
+   "id": "60e778bfd3a4",
+   "t": "Fact check: 'Iranian' content farms reach millions",
+   "ko": "사실 확인: '이란' 콘텐츠 팜이 수백만 명에 도달",
+   "src": "DW",
+   "u": "https://www.dw.com/en/fact-check-iranian-content-farms-reach-millions/a-79934190?maca=en-rss-en-world-4025-rdf",
+   "at": "2026-11-14T20:26:00.000Z",
+   "ev": [
+    "iran"
+   ],
+   "cc": [
+    "Iran"
+   ]
+  },
+  {
+   "id": "acb70b6e3dfa",
+   "t": "Macron says limiting Ukraine aid would pave way to 'another war'",
+   "ko": "마크롱 \"우크라이나 원조 제한하면 또 다른 전쟁\"",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/europe/20261114-macron-says-limiting-ukraine-aid-would-pave-way-to-another-war",
+   "at": "2026-11-14T20:15:43.000Z",
+   "ev": [
+    "ukraine"
+   ],
+   "cc": [
+    "Ukraine",
+    "France",
+    "United States"
+   ]
+  },
+  {
+   "id": "6ad0548d5e7b",
+   "t": "Evacuation zone lifted after bomb found at Illinois ethanol plant",
+   "ko": "일리노이주 에탄올 공장에서 폭탄 발견 후 대피구역 해제",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/us-news/2026/nov/14/peoria-illinois-evacuation-bomb",
+   "at": "2026-11-14T20:14:27.000Z",
+   "ev": [],
+   "cc": []
   },
   {
    "id": "8ded58a7f4bd",
@@ -148,8 +224,8 @@
   },
   {
    "id": "0585c9950330",
-   "t": "Portugal vs Denmark LIVE: UEFA Nations League",
-   "ko": "포르투갈 대 덴마크 LIVE: UEFA 네이션스 리그",
+   "t": "Portugal 1-4 Denmark: UEFA Nations League – as it happened",
+   "ko": "포르투갈 1-4 덴마크: UEFA 네이션스 리그 – 공교롭게도",
    "src": "Al Jazeera",
    "u": "https://www.aljazeera.com/sports/liveblog/2026/11/14/portugal-vs-denmark-live-uefa-nations-league?traffic_source=rss",
    "at": "2026-11-14T16:45:00.000Z",
@@ -248,16 +324,6 @@
    "src": "BBC",
    "u": "https://www.bbc.co.uk/news/articles/ckregdgnl0xpo?at_medium=RSS&at_campaign=rss",
    "at": "2026-11-14T14:18:41.000Z",
-   "ev": [],
-   "cc": []
-  },
-  {
-   "id": "6ad0548d5e7b",
-   "t": "Bomb found at Illinois ethanol plant, prompting evacuations",
-   "ko": "일리노이주 에탄올 공장에서 폭탄 발견돼 대피 촉구",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/us-news/2026/nov/14/peoria-illinois-evacuation-bomb",
-   "at": "2026-11-14T14:13:49.000Z",
    "ev": [],
    "cc": []
   },
@@ -1866,202 +1932,6 @@
     "Iran",
     "United States",
     "Bahrain"
-   ]
-  },
-  {
-   "id": "d2e11db3e954",
-   "t": "Yemen’s Houthis renew strikes on Saudi Arabia as UNSC extends sanctions",
-   "ko": "UNSC의 제재 연장에 따라 예멘 후티 반군, 사우디아라비아에 대한 공습 재개",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/news/2026/11/12/yemens-houthis-renew-strikes-on-saudi-arabia-as-unsc-extends-sanctions?traffic_source=rss",
-   "at": "2026-11-12T23:52:38.000Z",
-   "ev": [
-    "yemen"
-   ],
-   "cc": [
-    "Yemen",
-    "Saudi Arabia"
-   ]
-  },
-  {
-   "id": "2f056bf8a423",
-   "t": "Police identify suspect and victim in Washington DC gym shooting that also injured four",
-   "ko": "경찰, 워싱턴 DC 체육관 총격 사건 용의자와 피해자 신원 확인",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/us-news/2026/nov/12/dc-shooting-logan-circle",
-   "at": "2026-11-12T23:43:42.000Z",
-   "ev": [],
-   "cc": []
-  },
-  {
-   "id": "a265b02155d5",
-   "t": "Military cemetery decorum: The tradition behind Hegseth's Veterans Day reprimand",
-   "ko": "군사 묘지 예절: Hegseth의 재향군인의 날 질책 뒤에 숨은 전통",
-   "src": "BBC",
-   "u": "https://www.bbc.co.uk/news/videos/cv5y1309dg3go?at_medium=RSS&at_campaign=rss",
-   "at": "2026-11-12T23:42:52.000Z",
-   "ev": [],
-   "cc": []
-  },
-  {
-   "id": "710214022f76",
-   "t": "Eight killed, including two children, in New York building collapse",
-   "ko": "뉴욕 빌딩 붕괴로 어린이 2명 포함 8명 사망",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/americas/20261112-eight-killed-including-two-children-in-new-york-building-collapse",
-   "at": "2026-11-12T22:58:23.000Z",
-   "ev": [],
-   "cc": []
-  },
-  {
-   "id": "e58ef6dc8ab5",
-   "t": "Washington DC shooting: police identify victim and suspect – as it happened",
-   "ko": "워싱턴 DC 총격 사건: 경찰이 피해자와 용의자를 식별했습니다.",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/us-news/live/2026/nov/12/washington-dc-shooting-logan-circle-latest-updates",
-   "at": "2026-11-12T22:54:05.000Z",
-   "ev": [],
-   "cc": []
-  },
-  {
-   "id": "4222657b9900",
-   "t": "Putin takes hard line in US talks as Ukraine says Starlink disrupted again",
-   "ko": "푸틴 대통령은 우크라이나가 스타링크가 다시 중단되었다고 말하자 미국 회담에서 강경 입장을 취했습니다.",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/world/2026/nov/12/vladimir-putin-russia-target-foreign-troops-ukraine-elon-musk-starlink",
-   "at": "2026-11-12T22:26:37.000Z",
-   "ev": [
-    "ukraine"
-   ],
-   "cc": [
-    "United States",
-    "Ukraine",
-    "Russia"
-   ]
-  },
-  {
-   "id": "086093dcba5c",
-   "t": "Russia using 'illegal and unethical means, knows Europe won't use same means back', expert says",
-   "ko": "전문가 \"러시아, 불법적이고 비윤리적 수단 사용, 유럽도 같은 수단 사용하지 않을 것 알고 있다\"",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/tv-shows/a-propos/20261112-russia-using-illegal-and-unethical-means-knows-europe-won-t-use-same-means-back-expert-says",
-   "at": "2026-11-12T22:19:34.000Z",
-   "ev": [],
-   "cc": [
-    "Russia"
-   ]
-  },
-  {
-   "id": "4fdcef949d9c",
-   "t": "Across Africa: Tunisians drawn into Russia's war with Ukraine",
-   "ko": "아프리카 전역: 러시아와 우크라이나의 전쟁에 참여하는 튀니지인",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/across-africa-tunisians-drawn-into-russia-s-war-with-ukraine",
-   "at": "2026-11-12T21:26:17.000Z",
-   "ev": [
-    "ukraine"
-   ],
-   "cc": [
-    "Russia",
-    "Ukraine",
-    "South Africa"
-   ]
-  },
-  {
-   "id": "9ddce2c87e30",
-   "t": "Ngo criticizes UN's response to massacre in South Sudan",
-   "ko": "Ngo, 남수단 학살에 대한 유엔의 대응 비판",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/ngo-criticizes-un-s-response-to-massacre-in-south-sudan",
-   "at": "2026-11-12T21:20:52.000Z",
-   "ev": [
-    "southsudan"
-   ],
-   "cc": [
-    "South Sudan",
-    "Guinea",
-    "France"
-   ]
-  },
-  {
-   "id": "82deb12ddacb",
-   "t": "Deadly shooting in Washington DC",
-   "ko": "워싱턴 DC에서 총격 사건 발생",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/video/newsfeed/2026/11/12/deadly-shooting-in-washington-dc?traffic_source=rss",
-   "at": "2026-11-12T21:18:24.000Z",
-   "ev": [],
-   "cc": [
-    "United States"
-   ]
-  },
-  {
-   "id": "63cf3339d447",
-   "t": "'There's no such thing as safe' in contact sports, brain injury expert says",
-   "ko": "뇌손상 전문가 “접촉 스포츠에 안전이란 없다”",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/there-s-no-such-thing-as-safe-in-contact-sports-brain-injury-expert-says",
-   "at": "2026-11-12T21:09:43.000Z",
-   "ev": [],
-   "cc": [
-    "France"
-   ]
-  },
-  {
-   "id": "0752b83f5acd",
-   "t": "Norway follows Finland in barring Russian athletes from entering country over Ukraine war",
-   "ko": "노르웨이, 핀란드에 이어 우크라이나 전쟁으로 러시아 선수단 입국 금지",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/sport/2026/nov/12/finland-bars-russian-athletes-ukraine",
-   "at": "2026-11-12T21:00:12.000Z",
-   "ev": [
-    "ukraine"
-   ],
-   "cc": [
-    "Norway",
-    "Finland",
-    "Russia"
-   ]
-  },
-  {
-   "id": "8686ec50a7cc",
-   "t": "Leeds woman, 18, admits knife murder of 16-year-old love rival",
-   "ko": "18세 리즈 여성, 16세 연인 칼로 살해한 사실 인정",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/uk-news/2026/nov/12/woman-18-admits-murdering-girl-16-in-leeds",
-   "at": "2026-11-12T20:57:07.000Z",
-   "ev": [],
-   "cc": []
-  },
-  {
-   "id": "235130676e9e",
-   "t": "Regional security dominates European talks in Dublin amid hybrid attacks",
-   "ko": "하이브리드 공격 속에서 지역 안보가 더블린에서 열린 유럽 회담을 장악했습니다.",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/news/2026/11/12/regional-security-dominates-european-talks-in-dublin-amid-hybrid-attacks?traffic_source=rss",
-   "at": "2026-11-12T20:12:21.000Z",
-   "ev": [
-    "ukraine"
-   ],
-   "cc": [
-    "Ukraine",
-    "Ireland"
-   ]
-  },
-  {
-   "id": "e264e53e674a",
-   "t": "Russian warship hit by Ukrainian drone in Gulf of Finland",
-   "ko": "핀란드 만에서 우크라이나 드론이 러시아 군함을 공격했다",
-   "src": "BBC",
-   "u": "https://www.bbc.co.uk/news/articles/cmn0d33zz34zo?at_medium=RSS&at_campaign=rss",
-   "at": "2026-11-12T20:09:16.000Z",
-   "ev": [
-    "ukraine"
-   ],
-   "cc": [
-    "Russia",
-    "Ukraine",
-    "Finland"
    ]
   }
  ]
