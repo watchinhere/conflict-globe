@@ -1,17 +1,17 @@
 {
- "updated": "2026-11-15T19:50:36.010Z",
+ "updated": "2026-11-15T23:51:55.444Z",
  "sources": {
   "BBC": {
    "ok": true,
-   "n": 9
+   "n": 8
   },
   "Al Jazeera": {
    "ok": true,
-   "n": 6
+   "n": 9
   },
   "The Guardian": {
    "ok": true,
-   "n": 12
+   "n": 13
   },
   "DW": {
    "ok": true,
@@ -31,6 +31,185 @@
   }
  },
  "items": [
+  {
+   "id": "d96cf92301fd",
+   "t": "US officials recover audio from ‘Mississippi miracle’ cruise ship and tanker crash",
+   "ko": "미국 관리들은 '미시시피 기적' 유람선과 유조선 추락 사고에서 오디오를 복구했습니다.",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/us-news/2026/nov/15/audio-new-orleans-mississippi-river-cruise-tanker-crash",
+   "at": "2026-11-15T23:20:59.000Z",
+   "ev": [],
+   "cc": [
+    "United States"
+   ]
+  },
+  {
+   "id": "a198c7b6263b",
+   "t": "Miguel Angel Felix Gallardo, architect of Mexico’s drug trade, dies aged 80",
+   "ko": "멕시코 마약 거래의 창시자인 미구엘 앙헬 펠릭스 가야르도(Miguel Angel Felix Gallardo)가 80세의 나이로 사망했습니다.",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/americas/20261115-miguel-angel-felix-gallardo-mexican-drug-lord-dies",
+   "at": "2026-11-15T22:48:31.000Z",
+   "ev": [
+    "mexico"
+   ],
+   "cc": [
+    "Mexico"
+   ]
+  },
+  {
+   "id": "ddaa095629ad",
+   "t": "Police ban protests near 10 schools and five universities in Paris",
+   "ko": "경찰, 파리 10개 학교와 5개 대학 인근 시위 금지",
+   "src": "BBC",
+   "u": "https://www.bbc.co.uk/news/articles/cqm2j0jvep4eo?at_medium=RSS&at_campaign=rss",
+   "at": "2026-11-15T22:28:54.000Z",
+   "ev": [],
+   "cc": []
+  },
+  {
+   "id": "ef2717616441",
+   "t": "Australia, UK, Canada and Italy urge Israel to allow critical aid to Gaza ahead of winter",
+   "ko": "호주, 영국, 캐나다, 이탈리아는 이스라엘에게 겨울이 오기 전에 가자 지구에 대한 중요한 지원을 허용할 것을 촉구합니다.",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/australia-news/2026/nov/16/australia-uk-canada-italy-urge-israel-critical-aid-gaza-winter-ntwnfb",
+   "at": "2026-11-15T22:28:02.000Z",
+   "ev": [
+    "gaza"
+   ],
+   "cc": [
+    "Australia",
+    "United Kingdom",
+    "Canada"
+   ]
+  },
+  {
+   "id": "e56b32999ec6",
+   "t": "Estonia to close all border crossings with Russia after attack on drone maker",
+   "ko": "에스토니아, 드론 제조사 공격 후 러시아와의 모든 국경 통과 폐쇄",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/world/2026/nov/15/estonia-to-close-all-border-crossings-with-russia-after-attack-on-drone-maker",
+   "at": "2026-11-15T22:17:09.000Z",
+   "ev": [
+    "ukraine"
+   ],
+   "cc": [
+    "Estonia",
+    "Russia",
+    "Ukraine"
+   ]
+  },
+  {
+   "id": "735bc3150eb4",
+   "t": "Australia, Canada, Italy and the UK urge Israel to allow aid into Gaza",
+   "ko": "호주, 캐나다, 이탈리아, 영국은 이스라엘에 가자 지구에 대한 지원을 허용할 것을 촉구합니다.",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/11/15/australia-canada-italy-and-the-uk-urge-israel-to-allow-aid-into-gaza?traffic_source=rss",
+   "at": "2026-11-15T22:06:38.000Z",
+   "ev": [
+    "gaza"
+   ],
+   "cc": [
+    "Australia",
+    "Canada",
+    "Italy"
+   ]
+  },
+  {
+   "id": "c66d5c11acd4",
+   "t": "Prince Harry tells Ukrainians they are ‘going to win war’ on surprise trip to Lviv",
+   "ko": "해리 왕자, 리비우 깜짝 방문…우크라이나인들에게 '전쟁에서 승리할 것'",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/uk-news/2026/nov/15/prince-harry-ukraine-war-surprise-trip-invictus-games",
+   "at": "2026-11-15T22:00:24.000Z",
+   "ev": [
+    "ukraine"
+   ],
+   "cc": [
+    "Ukraine",
+    "Russia"
+   ]
+  },
+  {
+   "id": "fa08c44f5565",
+   "t": "Yemen’s Houthis unilaterally release 600 war detainees",
+   "ko": "예멘 후티 반군, 전쟁 억류자 600명 일방 석방",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/video/newsfeed/2026/11/15/yemens-houthis-unilaterally-release-600-war-detainees?traffic_source=rss",
+   "at": "2026-11-15T21:19:08.000Z",
+   "ev": [
+    "yemen"
+   ],
+   "cc": [
+    "Yemen"
+   ]
+  },
+  {
+   "id": "a35a0806b5dc",
+   "t": "Somali-American Uber driver brutally assaulted in alleged hate crime in Minnesota",
+   "ko": "미네소타주에서 소말리아계 미국인 우버 운전기사가 증오 범죄 혐의로 잔혹하게 폭행당했습니다.",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/us-news/2026/nov/15/somali-american-uber-driver-attack-minnesota",
+   "at": "2026-11-15T21:10:38.000Z",
+   "ev": [
+    "somalia"
+   ],
+   "cc": [
+    "Somalia"
+   ]
+  },
+  {
+   "id": "80dade9f7fc4",
+   "t": "Czechs rally against plan to switch funding of public media",
+   "ko": "체코인들은 공공 미디어에 대한 자금 지원을 전환하려는 계획에 반대 집회를 가졌습니다.",
+   "src": "BBC",
+   "u": "https://www.bbc.co.uk/news/articles/cm8e0knr7604o?at_medium=RSS&at_campaign=rss",
+   "at": "2026-11-15T21:03:40.000Z",
+   "ev": [],
+   "cc": []
+  },
+  {
+   "id": "5b6c76598929",
+   "t": "Who can force Israel to implement Gaza ceasefire deal?",
+   "ko": "누가 이스라엘에게 가자 휴전 협정을 이행하도록 강요할 수 있습니까?",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/video/inside-story/2026/11/15/who-can-force-israel-to-implement-gaza-ceasefire-deal?traffic_source=rss",
+   "at": "2026-11-15T20:37:43.000Z",
+   "ev": [
+    "gaza"
+   ],
+   "cc": [
+    "Israel",
+    "Palestine"
+   ]
+  },
+  {
+   "id": "5f695e82cc55",
+   "t": "Estonia to close border crossings with Russia after alleged arson attack",
+   "ko": "에스토니아, 방화 혐의로 러시아와의 국경 통과 폐쇄",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/video/newsfeed/2026/11/15/estonia-to-close-border-crossings-with-russia-after-alleged-arson-attack?traffic_source=rss",
+   "at": "2026-11-15T20:31:18.000Z",
+   "ev": [
+    "ukraine"
+   ],
+   "cc": [
+    "Estonia",
+    "Russia"
+   ]
+  },
+  {
+   "id": "7b78ef33dea0",
+   "t": "Jordan sentences three men to death over deadly church attack in Karak",
+   "ko": "요르단, 카라크 교회 공격으로 남성 3명에 사형 선고",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/video/newsfeed/2026/11/15/jordan-sentences-three-men-to-death-over-deadly-church-attack-in-karak?traffic_source=rss",
+   "at": "2026-11-15T20:12:38.000Z",
+   "ev": [],
+   "cc": [
+    "Jordan"
+   ]
+  },
   {
    "id": "a29c233ccd9a",
    "t": "Zelensky urges US and Musk to lift Starlink restrictions and be on 'right side of history'",
@@ -131,22 +310,6 @@
    ]
   },
   {
-   "id": "e56b32999ec6",
-   "t": "Estonia to close all border crossings with Russia after attack on drone maker",
-   "ko": "에스토니아, 드론 제조사 공격 후 러시아와의 모든 국경 통과 폐쇄",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/world/2026/nov/15/estonia-to-close-all-border-crossings-with-russia-after-attack-on-drone-maker",
-   "at": "2026-11-15T18:23:12.000Z",
-   "ev": [
-    "ukraine"
-   ],
-   "cc": [
-    "Estonia",
-    "Russia",
-    "Ukraine"
-   ]
-  },
-  {
    "id": "82d719e9a8ce",
    "t": "Hundreds of thousands of Czechs protest in Prague over media freedom",
    "ko": "프라하에서 수십만 명의 체코인이 언론 자유를 요구하는 시위를 벌였습니다.",
@@ -156,21 +319,6 @@
    "ev": [],
    "cc": [
     "Czech Republic"
-   ]
-  },
-  {
-   "id": "2a2cc2900ebf",
-   "t": "Estonia to close border crossings with Russia after attack on drone maker",
-   "ko": "에스토니아, 드론 제조사 공격 후 러시아와의 국경 통과 폐쇄",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/news/2026/11/15/estonia-to-close-border-crossings-with-russia-after-attack-on-drone-maker?traffic_source=rss",
-   "at": "2026-11-15T18:07:02.000Z",
-   "ev": [
-    "ukraine"
-   ],
-   "cc": [
-    "Estonia",
-    "Russia"
    ]
   },
   {
@@ -188,16 +336,6 @@
     "United States",
     "Bahrain"
    ]
-  },
-  {
-   "id": "80dade9f7fc4",
-   "t": "Czechs rally against plan to switch funding of public media",
-   "ko": "체코인들은 공공 미디어에 대한 자금 지원을 전환하려는 계획에 반대 집회를 가졌습니다.",
-   "src": "BBC",
-   "u": "https://www.bbc.co.uk/news/articles/cm8e0knr7604o?at_medium=RSS&at_campaign=rss",
-   "at": "2026-11-15T17:23:40.000Z",
-   "ev": [],
-   "cc": []
   },
   {
    "id": "a196be0119f8",
@@ -225,6 +363,18 @@
    "cc": [
     "Israel",
     "Palestine"
+   ]
+  },
+  {
+   "id": "64178a3da0a5",
+   "t": "Clothing factories shut in Bangladesh as workers strike over pay",
+   "ko": "노동자들이 임금을 놓고 파업을 벌이면서 방글라데시 의류공장이 문을 닫았다",
+   "src": "BBC",
+   "u": "https://www.bbc.co.uk/news/articles/cx5y1pzr9604o?at_medium=RSS&at_campaign=rss",
+   "at": "2026-11-15T16:15:20.000Z",
+   "ev": [],
+   "cc": [
+    "Bangladesh"
    ]
   },
   {
@@ -1566,84 +1716,6 @@
     "Iran",
     "Yemen",
     "Qatar"
-   ]
-  },
-  {
-   "id": "64d4544b04eb",
-   "t": "After a summer win, India's Gen Z protesters face a winter of uncertainty",
-   "ko": "여름 승리 이후 인도의 Z세대 시위자들은 불확실성의 겨울에 직면해 있습니다.",
-   "src": "BBC",
-   "u": "https://www.bbc.co.uk/news/articles/cq99e0z4vg1eo?at_medium=RSS&at_campaign=rss",
-   "at": "2026-11-13T23:11:51.000Z",
-   "ev": [],
-   "cc": [
-    "India"
-   ]
-  },
-  {
-   "id": "82b3cf387607",
-   "t": "Passengers face further disruption as US flights slowly resume after ground stop",
-   "ko": "미국 항공편이 지상 정지 후 천천히 재개되면서 승객들은 추가 혼란에 직면",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/americas/20261113-us-air-travel-resumption-will-take-time-after-hours-long-stop",
-   "at": "2026-11-13T22:43:22.000Z",
-   "ev": [],
-   "cc": [
-    "United States"
-   ]
-  },
-  {
-   "id": "50e52ce090e6",
-   "t": "US Air Force responds to suspected drone activity at RAF Lakenheath",
-   "ko": "미 공군, RAF Lakenheath에서 의심되는 드론 활동에 대응",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/uk-news/2026/nov/13/us-air-force-responds-to-suspected-drone-activity-at-raf-lakenheath",
-   "at": "2026-11-13T22:31:05.000Z",
-   "ev": [],
-   "cc": [
-    "United States",
-    "United Kingdom"
-   ]
-  },
-  {
-   "id": "1ce49df085e4",
-   "t": "Probation officers in England and Wales vote to strike over pay and workloads",
-   "ko": "잉글랜드와 웨일스의 보호관찰관, 임금과 업무량 문제로 파업 투표",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/society/2026/nov/13/probation-officers-in-england-and-wales-vote-for-strike-action-over-pay-and-workloads",
-   "at": "2026-11-13T20:51:01.000Z",
-   "ev": [],
-   "cc": [
-    "United Kingdom"
-   ]
-  },
-  {
-   "id": "c22c9f451b1a",
-   "t": "Russia is ‘setting traps’ in Ukraine talks, EU foreign policy chief warns",
-   "ko": "러시아가 우크라이나 회담에 '덫을 놓고 있다'고 유럽연합(EU) 외교장관이 경고했다.",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/world/2026/nov/13/russia-ukraine-talks-kaja-kallas-eu-foreign-policy-dublin-summit",
-   "at": "2026-11-13T20:38:25.000Z",
-   "ev": [
-    "ukraine"
-   ],
-   "cc": [
-    "Russia",
-    "Ukraine"
-   ]
-  },
-  {
-   "id": "fe5a1dee854c",
-   "t": "Turkey and Qatar pledge unified stance against attacks in mutual defence pact",
-   "ko": "터키와 카타르, 상호방위협정 체결로 공격에 대해 통일된 입장 약속",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/middle-east/20261113-turkey-and-qatar-pledge-unified-stance-against-attacks-in-mutual-defence-pact",
-   "at": "2026-11-13T20:06:40.000Z",
-   "ev": [],
-   "cc": [
-    "Turkey",
-    "Qatar",
-    "Pakistan"
    ]
   }
  ]
