@@ -1,7 +1,106 @@
 {
- "updated": "2026-11-15",
+ "updated": "2026-11-16",
  "news": {
   "ukraine": [
+   {
+    "date": "2026-11-15",
+    "text": "Estonia to close all border crossings with Russia after attack on drone maker",
+    "ko": "에스토니아, 드론 제조사 공격 후 러시아와의 모든 국경 통과 폐쇄",
+    "sources": [
+     {
+      "t": "The Guardian",
+      "u": "https://www.theguardian.com/world/2026/nov/15/estonia-to-close-all-border-crossings-with-russia-after-attack-on-drone-maker"
+     }
+    ]
+   },
+   {
+    "date": "2026-11-15",
+    "text": "Prince Harry tells Ukrainians they are ‘going to win war’ on surprise trip to Lviv",
+    "ko": "해리 왕자, 리비우 깜짝 방문…우크라이나인들에게 '전쟁에서 승리할 것'",
+    "sources": [
+     {
+      "t": "The Guardian",
+      "u": "https://www.theguardian.com/uk-news/2026/nov/15/prince-harry-ukraine-war-surprise-trip-invictus-games"
+     }
+    ]
+   },
+   {
+    "date": "2026-11-15",
+    "text": "Estonia to close border crossings with Russia after alleged arson attack",
+    "ko": "에스토니아, 방화 혐의로 러시아와의 국경 통과 폐쇄",
+    "sources": [
+     {
+      "t": "Al Jazeera",
+      "u": "https://www.aljazeera.com/video/newsfeed/2026/11/15/estonia-to-close-border-crossings-with-russia-after-alleged-arson-attack?traffic_source=rss"
+     }
+    ]
+   },
+   {
+    "date": "2026-11-15",
+    "text": "Zelensky urges US and Musk to lift Starlink restrictions and be on 'right side of history'",
+    "ko": "Zelensky는 미국과 Musk에게 Starlink 제한을 해제하고 '역사의 올바른 편'에 서도록 촉구",
+    "sources": [
+     {
+      "t": "BBC",
+      "u": "https://www.bbc.co.uk/news/articles/c6m25zg88k45o?at_medium=RSS&at_campaign=rss"
+     }
+    ]
+   },
+   {
+    "date": "2026-11-15",
+    "text": "Prince Harry in Ukraine meeting Invictus 2027 hopefuls",
+    "ko": "우크라이나의 해리 왕자가 Invictus 2027 희망자들을 만났습니다.",
+    "sources": [
+     {
+      "t": "Al Jazeera",
+      "u": "https://www.aljazeera.com/news/2026/11/15/prince-harry-in-ukraine-meeting-invictus-2027-hopefuls?traffic_source=rss"
+     }
+    ]
+   },
+   {
+    "date": "2026-11-15",
+    "text": "Starshield restrictions help Russia’s energy attacks on Ukraine: Zelenskyy",
+    "ko": "Starshield 제한은 우크라이나에 대한 러시아의 에너지 공격에 도움이 됩니다: Zelenskyy",
+    "sources": [
+     {
+      "t": "Al Jazeera",
+      "u": "https://www.aljazeera.com/news/2026/11/15/starshield-restrictions-help-russias-energy-attacks-on-ukraine-zelenskyy?traffic_source=rss"
+     }
+    ]
+   },
+   {
+    "date": "2026-11-15",
+    "text": "Ukrainian drones strike Russia's petrochemical capital in overnight assault",
+    "ko": "우크라이나 드론, 밤새 러시아 석유화학 중심지 공격",
+    "sources": [
+     {
+      "t": "France 24",
+      "u": "https://www.france24.com/en/europe/20261115-ukrainian-drones-strike-russia-s-petrochemical-capital-in-overnight-assault"
+     }
+    ]
+   },
+   {
+    "date": "2026-11-15",
+    "text": "Will Ukraine make territorial concessions for NATO membership?",
+    "ko": "우크라이나는 NATO 가입을 위해 영토를 양보할 것인가?",
+    "sources": [
+     {
+      "t": "France 24",
+      "u": "https://www.france24.com/en/will-ukraine-make-territorial-concessions-for-nato-membership"
+     }
+    ]
+   },
+   {
+    "date": "2026-11-15",
+    "text": "Anthony Albanese welcomes Trump-Xi-Putin summit – even as European leaders express reservations",
+    "ko": "Anthony Albanese는 트럼프-시-푸틴 정상회담을 환영합니다 – 유럽 지도자들이 의구심을 표명했음에도 불구하고",
+    "sources": [
+     {
+      "t": "The Guardian",
+      "u": "https://www.theguardian.com/australia-news/2026/nov/15/anthony-albanese-welcomes-trump-xi-putin-summit-even-as-european-leaders-express-reservations"
+     }
+    ]
+   },
    {
     "date": "2026-11-14",
     "text": "Macron says limiting Ukraine aid would pave way to 'another war'",
@@ -34,108 +133,31 @@
       "u": "https://www.aljazeera.com/news/2026/11/14/russian-casualties-reach-450000-what-that-means-for-the-ukraine-war?traffic_source=rss"
      }
     ]
-   },
-   {
-    "date": "2026-11-14",
-    "text": "Three killed in Russia as Ukraine claims US floated NATO membership option",
-    "ko": "우크라이나가 미국이 NATO 가입 옵션을 제시했다고 주장하면서 러시아에서 3명이 사망했습니다.",
-    "sources": [
-     {
-      "t": "Al Jazeera",
-      "u": "https://www.aljazeera.com/news/2026/11/14/three-killed-in-russia-as-ukraine-claims-us-floated-nato-membership-option?traffic_source=rss"
-     }
-    ]
-   },
-   {
-    "date": "2026-11-14",
-    "text": "Ukraine, Russia race to build military satellite networks as war rages on",
-    "ko": "우크라이나와 러시아, 전쟁이 격화됨에 따라 군사 위성 네트워크 구축 경쟁",
-    "sources": [
-     {
-      "t": "Al Jazeera",
-      "u": "https://www.aljazeera.com/news/2026/11/14/ukraine-russia-race-to-build-military-satellite-networks-as-war-rages-on?traffic_source=rss"
-     }
-    ]
-   },
-   {
-    "date": "2026-11-14",
-    "text": "US proposed Ukraine cedes Donbas in exchange for joining NATO, Zelensky says",
-    "ko": "미국은 우크라이나가 NATO에 가입하는 대가로 Donbas를 양도할 것을 제안했다고 Zelensky는 말했습니다.",
-    "sources": [
-     {
-      "t": "France 24",
-      "u": "https://www.france24.com/en/europe/20261114-us-negotiators-suggest-ukraine-cedes-territory-in-exchange-for-nato-membership"
-     }
-    ]
-   },
-   {
-    "date": "2026-11-14",
-    "text": "China to host first-ever trilateral meeting between Trump, Xi and Putin next week",
-    "ko": "중국, 다음주 사상 첫 트럼프-시진핑-푸틴 3자 회담 개최",
-    "sources": [
-     {
-      "t": "France 24",
-      "u": "https://www.france24.com/en/asia-pacific/20261114-china-to-host-first-ever-trilateral-meeting-between-trump-xi-and-putin-next-week-us-says"
-     }
-    ]
-   },
-   {
-    "date": "2026-11-13",
-    "text": "Estonia bans Russian athletes as backlash intensifies",
-    "ko": "에스토니아, 반발 심화로 러시아 선수 출전 금지",
-    "sources": [
-     {
-      "t": "BBC",
-      "u": "https://www.bbc.co.uk/sport/articles/cm4gn9lvlgy2o?at_medium=RSS&at_campaign=rss"
-     }
-    ]
-   },
-   {
-    "date": "2026-11-13",
-    "text": "‘Here, you can eat until you’re full’: Oleshky evacuees savour first proper meals in years",
-    "ko": "'여기에서는 배부르게 먹을 수 있습니다': 올레쉬키(Oleshky) 난민들은 몇 년 만에 처음으로 제대로 된 식사를 맛봅니다.",
-    "sources": [
-     {
-      "t": "UN News",
-      "u": "https://news.un.org/feed/view/en/story/2026/11/1168803"
-     }
-    ]
-   },
-   {
-    "date": "2026-11-13",
-    "text": "Russia and Ukraine report overnight attacks amid US diplomatic push",
-    "ko": "러시아와 우크라이나, 미국의 외교적 압력 속에 야간 공격 보고",
-    "sources": [
-     {
-      "t": "Al Jazeera",
-      "u": "https://www.aljazeera.com/news/2026/11/13/russia-and-ukraine-report-overnight-attacks-amid-us-diplomatic-push?traffic_source=rss"
-     }
-    ]
-   },
-   {
-    "date": "2026-11-13",
-    "text": "Finland detects strike on Russian warship as Zelenskyy meets US envoys",
-    "ko": "Zelenskyy가 미국 특사를 만나는 동안 핀란드는 러시아 군함에 대한 공격을 감지했습니다.",
-    "sources": [
-     {
-      "t": "Al Jazeera",
-      "u": "https://www.aljazeera.com/news/2026/11/13/finland-detects-strike-on-russian-warship-as-zelenskyy-meets-us-envoys?traffic_source=rss"
-     }
-    ]
-   },
-   {
-    "date": "2026-11-13",
-    "text": "Hegseth gives medal to guard who reprimanded him at Arlington national cemetery – US politics live",
-    "ko": "헤그세스, 알링턴 국립묘지에서 자신을 질책한 경호원에게 메달 수여 - 미국 정치 생방송",
-    "sources": [
-     {
-      "t": "The Guardian",
-      "u": "https://www.theguardian.com/us-news/live/2026/nov/12/mississippi-scott-colom-ukraine-donald-trump"
-     }
-    ]
    }
   ],
   "sudan": [
+   {
+    "date": "2026-11-15",
+    "text": "Drone attacks on power stations plunge Sudan’s cities into darkness",
+    "ko": "발전소에 대한 드론 공격으로 수단의 도시가 어둠에 빠졌습니다.",
+    "sources": [
+     {
+      "t": "Al Jazeera",
+      "u": "https://www.aljazeera.com/features/2026/11/15/drone-strikes-on-power-stations-plunges-sudans-cities-into-darkness?traffic_source=rss"
+     }
+    ]
+   },
+   {
+    "date": "2026-11-14",
+    "text": "Ahmed Abdallah Bishr, the general chief of staff for the Gathering of Sudan Liberation Forces (GSLF), is killed in a drone strike on his home in Nyala in Sudan's South Darfur state.",
+    "sources": [
+     {
+      "t": "Sudan Tribune",
+      "u": "https://sudantribune.com/article/321241"
+     }
+    ],
+    "ko": "수단해방군(GSLF) 총사령관 아메드 압달라 비시르(Ahmed Abdallah Bishr)가 수단 남부 다르푸르(Darfur)주 니알라(Nyala)에 있는 자신의 자택에서 드론 공격으로 사망했다."
+   },
    {
     "date": "2026-11-14",
     "text": "Sudan: Misery worsens amid plummeting aid for displaced people",
@@ -245,165 +267,198 @@
       "u": "https://www.aljazeera.com/economy/2026/11/9/sudan-teachers-go-on-strike-over-meagre-salaries-and-dilapidated-schools?traffic_source=rss"
      }
     ]
-   },
-   {
-    "date": "2026-11-07",
-    "text": "Sudanese Armed Forces (SAF) says that they have recaptured the town of Iyal Bakhit in West Kordofan, Sudan. The SAF also reportedly downs a Rapid Support Forces drone.",
-    "sources": [
-     {
-      "t": "Sudan Tribune",
-      "u": "https://sudantribune.com/article/320981"
-     }
-    ],
-    "ko": "수단군(SAF)은 수단 서부 코르도판(West Kordofan)의 이얄 바키트(Iyal Bakhit) 마을을 탈환했다고 밝혔습니다. SAF는 또한 신속지원군(Rapid Support Forces) 드론을 격추한 것으로 알려졌습니다."
-   },
-   {
-    "date": "2026-11-07",
-    "text": "Sudan's armed forces (SAF) says that they have recaptured the West Kordofan town of Iyal Bakhit. Additionally, the SAF also says that they have downed a Rapid Support Forces drone.",
-    "sources": [
-     {
-      "t": "Sudan Tribune",
-      "u": "https://sudantribune.com/article/320981"
-     }
-    ],
-    "ko": "수단군(SAF)은 서부 코르도판 마을인 이얄 바키트(Iyal Bakhit)를 탈환했다고 밝혔습니다. 또한 SAF는 Rapid Support Forces 드론을 격추했다고 밝혔습니다."
    }
   ],
   "iran": [
    {
-    "date": "2026-11-14",
-    "text": "Fact check: 'Iranian' content farms reach millions",
-    "ko": "사실 확인: '이란' 콘텐츠 팜이 수백만 명에 도달",
+    "date": "2026-11-15",
+    "text": "Iran's Islamic Revolutionary Guard Corps says that a supertanker carrying two million barrels of oil has sunk in the Strait of Hormuz after striking a mine.",
     "sources": [
      {
-      "t": "DW",
-      "u": "https://www.dw.com/en/fact-check-iranian-content-farms-reach-millions/a-79934190?maca=en-rss-en-world-4025-rdf"
-     }
-    ]
-   },
-   {
-    "date": "2026-11-14",
-    "text": "Trump-Xi-Putin trilateral meeting at APEC: What to expect",
-    "ko": "APEC에서 트럼프-시-푸틴 3자 회담: 무엇을 기대할 것인가",
-    "sources": [
-     {
-      "t": "Al Jazeera",
-      "u": "https://www.aljazeera.com/news/2026/11/14/trump-xi-putin-trilateral-meeting-at-apec-what-to-expect?traffic_source=rss"
-     }
-    ]
-   },
-   {
-    "date": "2026-11-14",
-    "text": "Qatar and Turkiye sign a mutual defence pact: What do we know?",
-    "ko": "카타르와 투르키예가 상호방위 협정을 체결했습니다. 우리는 무엇을 알고 있나요?",
-    "sources": [
-     {
-      "t": "Al Jazeera",
-      "u": "https://www.aljazeera.com/news/2026/11/14/qatar-and-turkiye-sign-a-mutual-defence-pact-what-do-we-know?traffic_source=rss"
-     }
-    ]
-   },
-   {
-    "date": "2026-11-14",
-    "text": "UN says 25 seafarers killed in, around Hormuz since US-Israel war on Iran",
-    "ko": "유엔 \"미-이스라엘, 이란 전쟁 이후 호르무즈 인근에서 선원 25명 사망\"",
-    "sources": [
-     {
-      "t": "Al Jazeera",
-      "u": "https://www.aljazeera.com/news/2026/11/14/un-says-25-seafarers-killed-in-around-hormuz-since-february?traffic_source=rss"
-     }
-    ]
-   },
-   {
-    "date": "2026-11-14",
-    "text": "China to host first-ever trilateral meeting between Trump, Xi and Putin next week",
-    "ko": "중국, 다음주 사상 첫 트럼프-시진핑-푸틴 3자 회담 개최",
-    "sources": [
-     {
-      "t": "France 24",
-      "u": "https://www.france24.com/en/asia-pacific/20261114-china-to-host-first-ever-trilateral-meeting-between-trump-xi-and-putin-next-week-us-says"
-     }
-    ]
-   },
-   {
-    "date": "2026-11-14",
-    "text": "Trump, Xi and Putin to hold first three-way summit in China",
-    "ko": "트럼프-시진핑-푸틴, 중국에서 첫 3자 정상회담 개최",
-    "sources": [
-     {
-      "t": "Al Jazeera",
-      "u": "https://www.aljazeera.com/news/2026/11/14/trump-xi-and-putin-to-hold-first-three-way-summit-in-china?traffic_source=rss"
-     }
-    ]
-   },
-   {
-    "date": "2026-11-14",
-    "text": "Iran war live: Fighting grips Yemen as Qatar, Turkiye sign defence deal",
-    "ko": "이란 전쟁 라이브: 카타르, 투르키예가 방위 계약에 서명함에 따라 예멘의 싸움이 치열해졌습니다.",
-    "sources": [
-     {
-      "t": "Al Jazeera",
-      "u": "https://www.aljazeera.com/news/liveblog/2026/11/14/iran-war-live-fighting-grips-yemen-as-qatar-turkiye-sign-defence-deal?traffic_source=rss"
-     }
-    ]
-   },
-   {
-    "date": "2026-11-13",
-    "text": "Iran says it has destroyed an early-warning radar in Bahrain as a retaliation for a United States strike on telecommunication infrastructure on Sirik.",
-    "sources": [
-     {
-      "t": "Türkiye",
-      "u": "https://www.turkiyetoday.com/region/irgc-claims-strike-on-us-early-warning-radar-in-bahrain-after-sirik-attack-3232293?s=1"
+      "t": "Arab News",
+      "u": "https://www.arabnews.com/middle-east/iran-says-supertanker-with-2-million-barrels-of-oil-sank-in-gulf-3012053"
      }
     ],
-    "ko": "이란은 미국이 시리크의 통신 인프라를 공격한 것에 대한 보복으로 바레인의 조기 경보 레이더를 파괴했다고 밝혔습니다."
+    "ko": "이란 이슬람 혁명수비대는 200만 배럴의 원유를 싣고 있던 초대형 유조선이 호르무즈 해협에서 지뢰를 공격한 뒤 침몰했다고 밝혔습니다."
    },
    {
-    "date": "2026-11-13",
-    "text": "Boxer on death row in Iran vows ‘not to bow before oppression’ after winning rights prize",
-    "ko": "이란 복서, 인권상 수상 후 '탄압 앞에 고개 숙이지 않겠다' 다짐",
+    "date": "2026-11-15",
+    "text": "Iran launches drone attacks against US military base in Bahrain",
+    "ko": "이란, 바레인 미군기지에 드론 공격…",
     "sources": [
      {
       "t": "The Guardian",
-      "u": "https://www.theguardian.com/global-development/2026/nov/13/mohammad-javad-vafaei-sani-iran-boxer-death-row-magnitsky-award"
+      "u": "https://www.theguardian.com/world/2026/nov/15/iran-launches-drone-attacks-against-us-military-base-in-bahrain"
      }
     ]
    },
    {
-    "date": "2026-11-13",
-    "text": "Iranophobia: Netanyahu’s bid to transform fear into political survival",
-    "ko": "이란 공포증: 두려움을 정치적 생존으로 바꾸려는 네타냐후의 시도",
+    "date": "2026-11-15",
+    "text": "Saudi Arabia, Qatar, Jordan, Egypt condemn Iranian attack on Bahrain - as it happened",
+    "ko": "사우디아라비아, 카타르, 요르단, 이집트는 이란의 바레인 공격을 규탄한다.",
     "sources": [
      {
-      "t": "Al Jazeera",
-      "u": "https://www.aljazeera.com/news/2026/11/13/iranophobia-netanyahus-bid-to-transform-fear-into-political-survival?traffic_source=rss"
+      "t": "The Guardian",
+      "u": "https://www.theguardian.com/world/live/2026/nov/15/middle-east-crisis-live-iran-bahrain-strikes-gulf-donald-trump-us-israel-yemen-houthis"
      }
     ]
    },
    {
-    "date": "2026-11-13",
-    "text": "Iran says it targeted US radar site in Bahrain",
-    "ko": "이란, 바레인에 있는 미국 레이더 기지를 공격했다고 밝혔습니다.",
+    "date": "2026-11-15",
+    "text": "Iran claims drone attack on US military base in Bahrain",
+    "ko": "이란, 바레인 미군기지 드론 공격 주장",
     "sources": [
      {
-      "t": "Al Jazeera",
-      "u": "https://www.aljazeera.com/news/2026/11/13/iran-says-it-struck-us-radar-site-in-bahrain?traffic_source=rss"
+      "t": "France 24",
+      "u": "https://www.france24.com/en/iran-claims-drone-attack-on-us-military-base-in-bahrain"
      }
     ]
    },
    {
-    "date": "2026-11-13",
-    "text": "After Iraq ex-MP’s killing, Lebanon asks Syria to extradite suspects",
-    "ko": "이라크 전 의원 살해 후 레바논, 시리아에 용의자 인도 요청",
+    "date": "2026-11-15",
+    "text": "Bahrain says air defences destroyed several Iranian drones attacking US base",
+    "ko": "바레인은 대공방어가 미군 기지를 공격한 이란 드론 여러 대를 파괴했다고 밝혔습니다.",
+    "sources": [
+     {
+      "t": "France 24",
+      "u": "https://www.france24.com/en/bahrain-says-air-defences-destroyed-several-iranian-drones-attacking-us-base"
+     }
+    ]
+   },
+   {
+    "date": "2026-11-15",
+    "text": "Iran targets US military base in Bahrain with drone attack",
+    "ko": "이란, 드론 공격으로 바레인 미군기지 공습",
+    "sources": [
+     {
+      "t": "BBC",
+      "u": "https://www.bbc.co.uk/news/articles/cqn4e2py48kwo?at_medium=RSS&at_campaign=rss"
+     }
+    ]
+   },
+   {
+    "date": "2026-11-15",
+    "text": "Bahrain accuses Iran of attacking its territory to ‘settle’ score with US",
+    "ko": "바레인은 이란이 미국과의 합의를 위해 자국 영토를 공격했다고 비난했다.",
     "sources": [
      {
       "t": "Al Jazeera",
-      "u": "https://www.aljazeera.com/news/2026/11/13/after-iraq-ex-mps-killing-lebanon-asks-syria-to-extradite-suspects?traffic_source=rss"
+      "u": "https://www.aljazeera.com/news/2026/11/15/bahrain-accuses-iran-of-attacking-its-territory-to-settle-score-with-us?traffic_source=rss"
+     }
+    ]
+   },
+   {
+    "date": "2026-11-15",
+    "text": "The Philippines and Australia strengthen joint military deterrence at ASEAN summit",
+    "ko": "필리핀과 호주, 아세안(ASEAN) 정상회담에서 공동 군사억제 강화",
+    "sources": [
+     {
+      "t": "France 24",
+      "u": "https://www.france24.com/en/the-philippines-and-australia-strengthen-joint-military-deterrence-at-asean-summit"
+     }
+    ]
+   },
+   {
+    "date": "2026-11-15",
+    "text": "Iran targets US military radar in Bahrain in ‘retaliatory’ drone strikes",
+    "ko": "이란, 바레인 주둔 미군 레이더 겨냥 '보복' 드론 공격",
+    "sources": [
+     {
+      "t": "Al Jazeera",
+      "u": "https://www.aljazeera.com/video/newsfeed/2026/11/15/iran-targets-us-military-radar-in-bahrain-in-retaliatory-drone-strikes?traffic_source=rss"
+     }
+    ]
+   },
+   {
+    "date": "2026-11-15",
+    "text": "Global diesel prices ease as winter approaches",
+    "ko": "겨울이 다가옴에 따라 세계 디젤 가격은 하락세를 보이고 있습니다.",
+    "sources": [
+     {
+      "t": "France 24",
+      "u": "https://www.france24.com/en/global-diesel-prices-ease-as-winter-approaches"
+     }
+    ]
+   },
+   {
+    "date": "2026-11-15",
+    "text": "Iran claims attack on US military airbase in Bahrain",
+    "ko": "이란, 바레인 미군 공군기지 공격 주장",
+    "sources": [
+     {
+      "t": "France 24",
+      "u": "https://www.france24.com/en/middle-east/20261115-iran-claims-attack-on-us-military-airbase-in-bahrain"
+     }
+    ]
+   },
+   {
+    "date": "2026-11-15",
+    "text": "Iran says it targets US radar in Bahrain. What do we know?",
+    "ko": "이란은 바레인에 있는 미국 레이더를 목표로 삼고 있다고 밝혔습니다. 우리는 무엇을 알고 있나요?",
+    "sources": [
+     {
+      "t": "Al Jazeera",
+      "u": "https://www.aljazeera.com/news/2026/11/15/iran-says-it-targets-us-radar-in-bahrain-what-do-we-know?traffic_source=rss"
      }
     ]
    }
   ],
   "yemen": [
+   {
+    "date": "2026-11-15",
+    "text": "Yemen’s Houthis unilaterally release 600 war detainees",
+    "ko": "예멘 후티 반군, 전쟁 억류자 600명 일방 석방",
+    "sources": [
+     {
+      "t": "Al Jazeera",
+      "u": "https://www.aljazeera.com/video/newsfeed/2026/11/15/yemens-houthis-unilaterally-release-600-war-detainees?traffic_source=rss"
+     }
+    ]
+   },
+   {
+    "date": "2026-11-15",
+    "text": "Yemen's Houthis advance on Aden as government forces retreat to defend their capital",
+    "ko": "정부군이 수도를 방어하기 위해 후퇴하는 동안 예멘 후티 반군이 아덴으로 진격",
+    "sources": [
+     {
+      "t": "France 24",
+      "u": "https://www.france24.com/en/middle-east/20261115-yemen-houthis-advance-to-within-60-kilometres-of-aden-military-sources-say"
+     }
+    ]
+   },
+   {
+    "date": "2026-11-15",
+    "text": "Saudi Arabia, Qatar, Jordan, Egypt condemn Iranian attack on Bahrain - as it happened",
+    "ko": "사우디아라비아, 카타르, 요르단, 이집트는 이란의 바레인 공격을 규탄한다.",
+    "sources": [
+     {
+      "t": "The Guardian",
+      "u": "https://www.theguardian.com/world/live/2026/nov/15/middle-east-crisis-live-iran-bahrain-strikes-gulf-donald-trump-us-israel-yemen-houthis"
+     }
+    ]
+   },
+   {
+    "date": "2026-11-15",
+    "text": "Saudi-led coalition intercepts suspected Houthi missiles and drones",
+    "ko": "사우디 주도 연합군, 후티 반군 미사일과 드론으로 의심되는 요격",
+    "sources": [
+     {
+      "t": "Al Jazeera",
+      "u": "https://www.aljazeera.com/news/2026/11/15/saudi-led-coalition-intercepts-two-missiles-two-drones-in-riyadh?traffic_source=rss"
+     }
+    ]
+   },
+   {
+    "date": "2026-11-15",
+    "text": "Iran war live: Saudi-led coalition strikes down 3 drones",
+    "ko": "이란 전쟁 생중계: 사우디 주도 연합군, 드론 3대 격추",
+    "sources": [
+     {
+      "t": "Al Jazeera",
+      "u": "https://www.aljazeera.com/news/liveblog/2026/11/15/iran-war-live-israel-vows-gaza-offensive-policy-despite-caretaker-status?traffic_source=rss"
+     }
+    ]
+   },
    {
     "date": "2026-11-14",
     "text": "Siege fuels disease fears in Yemen’s Taiz",
@@ -480,64 +535,75 @@
       "u": "https://www.aljazeera.com/news/2026/11/11/yemeni-forces-houthis-exchange-attacks-claim-to-inflict-heavy-losses?traffic_source=rss"
      }
     ]
-   },
-   {
-    "date": "2026-11-11",
-    "text": "Pentagon declares ‘total victory’ after House Republicans block effort to impeach Pete Hegseth – as it happened",
-    "ko": "미 국방부는 하원 공화당이 피트 헤그세스 탄핵 노력을 막은 후 '완전한 승리'를 선언했습니다.",
-    "sources": [
-     {
-      "t": "The Guardian",
-      "u": "https://www.theguardian.com/us-news/live/2026/nov/10/donald-trump-pete-hegseth-thomas-massie-republicans-iran-war-impeachment-midterms-latest-news-updates"
-     }
-    ]
-   },
-   {
-    "date": "2026-11-11",
-    "text": "Pentagon declares ‘total victory’ after House Republicans block effort to impeach Pete Hegseth – US politics live",
-    "ko": "미 국방부는 하원 공화당이 피트 헤그세스 탄핵 노력을 막은 후 '완전한 승리'를 선언했습니다.",
-    "sources": [
-     {
-      "t": "The Guardian",
-      "u": "https://www.theguardian.com/us-news/live/2026/nov/10/donald-trump-pete-hegseth-thomas-massie-republicans-iran-war-impeachment-midterms-latest-news-updates"
-     }
-    ]
-   },
-   {
-    "date": "2026-11-10",
-    "text": "Saudi Arabia downs missiles fired at Riyadh after Houthi attack on pipeline",
-    "ko": "사우디아라비아, 후티 반군 파이프라인 공격 후 리야드에서 발사된 미사일 격추",
-    "sources": [
-     {
-      "t": "Al Jazeera",
-      "u": "https://www.aljazeera.com/news/2026/11/10/saudi-arabia-downs-missiles-fired-at-riyadh-after-houthi-attack-on-pipeline?traffic_source=rss"
-     }
-    ]
-   },
-   {
-    "date": "2026-11-09",
-    "text": "Yemen government forces claim new advances as Houthi border attacks resume",
-    "ko": "예멘 정부군, 후티 국경 공격 재개로 새로운 진전 주장",
-    "sources": [
-     {
-      "t": "Al Jazeera",
-      "u": "https://www.aljazeera.com/news/2026/11/9/yemen-government-forces-claim-new-advances-as-houthi-border-attacks-resume?traffic_source=rss"
-     }
-    ]
-   },
-   {
-    "date": "2026-11-09",
-    "text": "Syria confirms sending troops to Saudi Arabia amid battle against Houthis",
-    "ko": "시리아, 후티 반군과의 전투 중 사우디아라비아에 군대 파병 확인",
-    "sources": [
-     {
-      "t": "Al Jazeera",
-      "u": "https://www.aljazeera.com/features/2026/11/9/syria-confirms-sending-troops-to-saudi-arabia-amid-battle-against-houthis?traffic_source=rss"
-     }
-    ]
    }
   ],
   "gaza": [
+   {
+    "date": "2026-11-15",
+    "text": "Australia, UK, Canada and Italy urge Israel to allow critical aid to Gaza ahead of winter",
+    "ko": "호주, 영국, 캐나다, 이탈리아는 이스라엘에게 겨울이 오기 전에 가자 지구에 대한 중요한 지원을 허용할 것을 촉구합니다.",
+    "sources": [
+     {
+      "t": "The Guardian",
+      "u": "https://www.theguardian.com/australia-news/2026/nov/16/australia-uk-canada-italy-urge-israel-critical-aid-gaza-winter-ntwnfb"
+     }
+    ]
+   },
+   {
+    "date": "2026-11-15",
+    "text": "Australia, Canada, Italy and the UK urge Israel to allow aid into Gaza",
+    "ko": "호주, 캐나다, 이탈리아, 영국은 이스라엘에 가자 지구에 대한 지원을 허용할 것을 촉구합니다.",
+    "sources": [
+     {
+      "t": "Al Jazeera",
+      "u": "https://www.aljazeera.com/news/2026/11/15/australia-canada-italy-and-the-uk-urge-israel-to-allow-aid-into-gaza?traffic_source=rss"
+     }
+    ]
+   },
+   {
+    "date": "2026-11-15",
+    "text": "Who can force Israel to implement Gaza ceasefire deal?",
+    "ko": "누가 이스라엘에게 가자 휴전 협정을 이행하도록 강요할 수 있습니까?",
+    "sources": [
+     {
+      "t": "Al Jazeera",
+      "u": "https://www.aljazeera.com/video/inside-story/2026/11/15/who-can-force-israel-to-implement-gaza-ceasefire-deal?traffic_source=rss"
+     }
+    ]
+   },
+   {
+    "date": "2026-11-15",
+    "text": "Israel kills senior member of Hamas's military wing in Gaza strike",
+    "ko": "이스라엘, 가자지구 공습으로 하마스 군부 고위 간부 사살",
+    "sources": [
+     {
+      "t": "France 24",
+      "u": "https://www.france24.com/en/middle-east/20261115-israel-kills-senior-member-of-hamas-s-military-wing-in-gaza-strike"
+     }
+    ]
+   },
+   {
+    "date": "2026-11-15",
+    "text": "Israel kills Hamas commander in strike on Gaza camp, officials say",
+    "ko": "이스라엘, 가자지구 공습으로 하마스 사령관 사살",
+    "sources": [
+     {
+      "t": "BBC",
+      "u": "https://www.bbc.co.uk/news/articles/cqrkg4r6mg7xo?at_medium=RSS&at_campaign=rss"
+     }
+    ]
+   },
+   {
+    "date": "2026-11-15",
+    "text": "Israeli air strike kills senior Hamas commander in Gaza",
+    "ko": "이스라엘 공습, 가자지구 하마스 고위사령관 사망",
+    "sources": [
+     {
+      "t": "Al Jazeera",
+      "u": "https://www.aljazeera.com/news/2026/11/15/israeli-air-strike-kills-senior-hamas-commander-in-gaza?traffic_source=rss"
+     }
+    ]
+   },
    {
     "date": "2026-11-14",
     "text": "EU calls for immediate humanitarian access to Gaza",
@@ -601,72 +667,6 @@
      {
       "t": "UN News",
       "u": "https://news.un.org/feed/view/en/story/2026/11/1168796"
-     }
-    ]
-   },
-   {
-    "date": "2026-11-12",
-    "text": "An Israeli strike on a Gaza hospital kills 6 people, including a doctor and a child",
-    "ko": "이스라엘, 가자지구 병원 공습으로 의사와 어린이 등 6명 사망",
-    "sources": [
-     {
-      "t": "NPR",
-      "u": "https://www.npr.org/2026/11/12/nx-s1-6038339/israeli-strike-gaza-hospital"
-     }
-    ]
-   },
-   {
-    "date": "2026-11-12",
-    "text": "Israeli strike on Gaza hospital kills six, including surgeon, medics say",
-    "ko": "이스라엘, 가자지구 병원 공습으로 외과의사 등 6명 사망",
-    "sources": [
-     {
-      "t": "France 24",
-      "u": "https://www.france24.com/en/israeli-strike-on-gaza-hospital-kills-six-including-surgeon-medics-say"
-     }
-    ]
-   },
-   {
-    "date": "2026-11-12",
-    "text": "Al Jazeera reports from Gaza hospital attacked by Israel",
-    "ko": "알자지라, 이스라엘 가자지구 병원 공격 보도",
-    "sources": [
-     {
-      "t": "Al Jazeera",
-      "u": "https://www.aljazeera.com/video/newsfeed/2026/11/12/al-jazeera-reports-from-gaza-hospital-attacked-by-israel?traffic_source=rss"
-     }
-    ]
-   },
-   {
-    "date": "2026-11-12",
-    "text": "Lewis Hamilton says ‘Israel’s genocide in Gaza is appalling’ after Rafah visit",
-    "ko": "루이스 해밀턴, 라파 방문 후 '가자지구에서 이스라엘의 집단 학살은 끔찍하다'",
-    "sources": [
-     {
-      "t": "The Guardian",
-      "u": "https://www.theguardian.com/sport/2026/nov/12/lewis-hamilton-gaza-visit-rafah-israel"
-     }
-    ]
-   },
-   {
-    "date": "2026-11-12",
-    "text": "Israel to ban far-left French politician Jean-Luc Mélenchon from entry",
-    "ko": "이스라엘, 프랑스 극좌 정치인 장 뤽 멜렌숑 입국 금지",
-    "sources": [
-     {
-      "t": "France 24",
-      "u": "https://www.france24.com/en/middle-east/20261112-israel-to-ban-far-left-french-politician-jean-luc-m%C3%A9lenchon-from-entry"
-     }
-    ]
-   },
-   {
-    "date": "2026-11-12",
-    "text": "Jerusalem Daily: Gaza’s Nasser Hospital hit by Israeli air strike",
-    "ko": "예루살렘 데일리: 이스라엘 공습으로 피해를 입은 가자지구의 나세르 병원",
-    "sources": [
-     {
-      "t": "Al Jazeera",
-      "u": "https://www.aljazeera.com/video/newsfeed/2026/11/12/jerusalem-daily-gazas-nasser-hospital-hit-by-israeli-air-strike?traffic_source=rss"
      }
     ]
    }
@@ -785,6 +785,17 @@
   ],
   "westbank": [
    {
+    "date": "2026-11-15",
+    "text": "Siege on Hebron’s Beit Ula industrial zone threatens Palestinian economy",
+    "ko": "헤브론 베이트울라 산업지대 포위로 팔레스타인 경제 위협",
+    "sources": [
+     {
+      "t": "Al Jazeera",
+      "u": "https://www.aljazeera.com/economy/2026/11/15/siege-on-hebrons-beit-ula-industrial-zone-threatens-palestinian-economy?traffic_source=rss"
+     }
+    ]
+   },
+   {
     "date": "2026-11-14",
     "text": "Jerusalem Daily: Israeli forces occupy Palestinian-American’s home",
     "ko": "예루살렘 데일리: 이스라엘군이 팔레스타인계 미국인의 집을 점령했습니다.",
@@ -902,17 +913,6 @@
      {
       "t": "Al Jazeera",
       "u": "https://www.aljazeera.com/video/newsfeed/2026/11/5/aje-onl-nf_israeli-demolitions-displace-palestinians-in-biddu-051126?traffic_source=rss"
-     }
-    ]
-   },
-   {
-    "date": "2026-11-05",
-    "text": "Jerusalem Daily: Settler pogroms in Hebron",
-    "ko": "예루살렘 데일리: 헤브론의 정착민 포그롬",
-    "sources": [
-     {
-      "t": "Al Jazeera",
-      "u": "https://www.aljazeera.com/video/newsfeed/2026/11/5/jerusalem-daily-settler-pogroms-in-hebron?traffic_source=rss"
      }
     ]
    }
@@ -1043,6 +1043,17 @@
    }
   ],
   "myanmar": [
+   {
+    "date": "2026-11-15",
+    "text": "World’s top court to rule if Myanmar committed genocide against Rohingya",
+    "ko": "미얀마가 로힝야족에 대한 대량 학살을 저질렀다면 세계 최고 법원이 판결할 것",
+    "sources": [
+     {
+      "t": "The Guardian",
+      "u": "https://www.theguardian.com/world/2026/nov/15/myanmar-rohingya-genocide-icj"
+     }
+    ]
+   },
    {
     "date": "2026-11-14",
     "text": "Myanmar airstrike kills 12 at displacement camp in Rakhine state",
@@ -1257,6 +1268,28 @@
   ],
   "nigeria": [
    {
+    "date": "2026-11-15",
+    "text": "The Nigerian Defence Headquarters announces that the Nigerian Army killed eight terrorists, arrested 22 additional terrorists, logistical personnel and their families, and rescued 125 kidnapping victims in various raids in the states of Adamawa, Bauchi, Yobe, and Borno between November 6 and 12.",
+    "sources": [
+     {
+      "t": "The Vanguard",
+      "u": "https://www.vanguardngr.com/2026/11/military-rescues-125-kidnap-victims-neutralises-eight-terrorists/"
+     }
+    ],
+    "ko": "나이지리아 국방부 본부는 나이지리아군이 11월 6일부터 12일까지 아다마와(Adamawa), 바우치(Bauchi), 요베(Yobe), 보르노(Borno) 주에서 다양한 공습을 통해 테러리스트 8명을 사살하고 테러리스트, 병참요원 및 그 가족 22명을 추가로 체포했으며 납치 피해자 125명을 구출했다고 발표했습니다."
+   },
+   {
+    "date": "2026-11-15",
+    "text": "Three people are killed and several others are abducted in a cattle raid in Rabah, Sokoto State, Nigeria.",
+    "sources": [
+     {
+      "t": "The Punch",
+      "u": "https://punchng.com/bandits-kill-three-abduct-residents-in-sokoto/"
+     }
+    ],
+    "ko": "나이지리아 소코토주 라바에서 소떼 습격으로 3명이 숨지고 여러 명이 납치됐다."
+   },
+   {
     "date": "2026-11-13",
     "text": "Nigerian university in mourning after four students die at post-exam party",
     "ko": "시험 후 파티에서 학생 4명이 사망한 뒤 애도하는 나이지리아 대학",
@@ -1368,6 +1401,17 @@
    }
   ],
   "ethiopia": [
+   {
+    "date": "2026-11-15",
+    "text": "Aid agencies struggle to help more than 50,000 Ethiopian refugees in Kenya",
+    "ko": "구호단체들은 케냐에 있는 5만 명 이상의 에티오피아 난민들을 돕기 위해 고군분투하고 있습니다.",
+    "sources": [
+     {
+      "t": "Al Jazeera",
+      "u": "https://www.aljazeera.com/video/newsfeed/2026/11/15/aid-agencies-struggle-to-help-more-than-50000-ethiopian-refugees-in-kenya?traffic_source=rss"
+     }
+    ]
+   },
    {
     "date": "2026-11-14",
     "text": "Ethiopia blames Egypt, Eritrea for Tigray attacks",
@@ -1488,17 +1532,6 @@
       "u": "https://www.france24.com/en/video/20261105-ethiopian-families-fleeing-conflict-face-difficulties-with-food-access"
      }
     ]
-   },
-   {
-    "date": "2026-11-04",
-    "text": "South Africans vote in key municipal elections",
-    "ko": "남아프리카공화국 주요 지방선거에서 투표",
-    "sources": [
-     {
-      "t": "France 24",
-      "u": "https://www.france24.com/en/south-africans-vote-in-key-municipal-elections"
-     }
-    ]
    }
   ],
   "sahel": [
@@ -1526,6 +1559,28 @@
    }
   ],
   "lebanon": [
+   {
+    "date": "2026-11-15",
+    "text": "Israeli drone filmed flying low outside homes in southern Lebanon",
+    "ko": "이스라엘 드론이 레바논 남부의 집 밖에서 낮게 비행하는 모습을 촬영했습니다.",
+    "sources": [
+     {
+      "t": "Al Jazeera",
+      "u": "https://www.aljazeera.com/video/newsfeed/2026/11/15/israeli-drone-filmed-flying-low-outside-homes-in-southern-lebanon?traffic_source=rss"
+     }
+    ]
+   },
+   {
+    "date": "2026-11-15",
+    "text": "Flames engulf Syrian refugee camp in eastern Lebanon",
+    "ko": "레바논 동부 시리아 난민캠프에 불길이 휩싸였습니다.",
+    "sources": [
+     {
+      "t": "Al Jazeera",
+      "u": "https://www.aljazeera.com/video/newsfeed/2026/11/15/flames-engulf-syrian-refugee-camp-in-eastern-lebanon?traffic_source=rss"
+     }
+    ]
+   },
    {
     "date": "2026-11-13",
     "text": "UNRWA funding cuts deepen hardship for Palestinian refugees in Lebanon",
@@ -1639,6 +1694,17 @@
   ],
   "rohingya": [
    {
+    "date": "2026-11-15",
+    "text": "World’s top court to rule if Myanmar committed genocide against Rohingya",
+    "ko": "미얀마가 로힝야족에 대한 대량 학살을 저질렀다면 세계 최고 법원이 판결할 것",
+    "sources": [
+     {
+      "t": "The Guardian",
+      "u": "https://www.theguardian.com/world/2026/nov/15/myanmar-rohingya-genocide-icj"
+     }
+    ]
+   },
+   {
     "date": "2026-10-26",
     "text": "Rohingya dismantle homes amid eviction threat in disputed Kashmir region",
     "ko": "로힝야족, 분쟁 지역 카슈미르 지역에서 퇴거 위협 속에 주택 철거",
@@ -1651,6 +1717,17 @@
    }
   ],
   "somalia": [
+   {
+    "date": "2026-11-15",
+    "text": "Somali-American Uber driver brutally assaulted in alleged hate crime in Minnesota",
+    "ko": "미네소타주에서 소말리아계 미국인 우버 운전기사가 증오 범죄 혐의로 잔혹하게 폭행당했습니다.",
+    "sources": [
+     {
+      "t": "The Guardian",
+      "u": "https://www.theguardian.com/us-news/2026/nov/15/somali-american-uber-driver-attack-minnesota"
+     }
+    ]
+   },
    {
     "date": "2026-11-10",
     "text": "Eight people, including five workers and two police reservists, are killed by suspected al-Shabaab militants in Mandera County, Kenya, near the border with Somalia, during an ambush against a vehicle.",
@@ -1761,6 +1838,28 @@
   ],
   "syria": [
    {
+    "date": "2026-11-15",
+    "text": "Flames engulf Syrian refugee camp in eastern Lebanon",
+    "ko": "레바논 동부 시리아 난민캠프에 불길이 휩싸였습니다.",
+    "sources": [
+     {
+      "t": "Al Jazeera",
+      "u": "https://www.aljazeera.com/video/newsfeed/2026/11/15/flames-engulf-syrian-refugee-camp-in-eastern-lebanon?traffic_source=rss"
+     }
+    ]
+   },
+   {
+    "date": "2026-11-15",
+    "text": "Three sentenced to death over Jordan church attack",
+    "ko": "요르단 교회 공격으로 3명에 사형 선고",
+    "sources": [
+     {
+      "t": "France 24",
+      "u": "https://www.france24.com/en/middle-east/20261115-three-sentenced-to-death-over-jordan-church-attack"
+     }
+    ]
+   },
+   {
     "date": "2026-11-14",
     "text": "Explosion near Syria’s capital kills father and child",
     "ko": "시리아 수도 근처에서 폭발이 일어나 아버지와 아이가 사망",
@@ -1867,28 +1966,6 @@
      {
       "t": "DW",
       "u": "https://www.dw.com/en/what-would-a-new-israeli-government-mean-for-arab-neighbors-more-of-the-same-is-expected-with-some-small-positives-predicted/a-79788174?maca=en-rss-en-world-4025-rdf"
-     }
-    ]
-   },
-   {
-    "date": "2026-10-28",
-    "text": "US teen whose father arranged her marriage to Islamic State fighter convicted for weapons training",
-    "ko": "무기 훈련 혐의로 유죄 판결을 받은 IS 전사와 결혼 주선한 아버지를 둔 미국 10대",
-    "sources": [
-     {
-      "t": "The Guardian",
-      "u": "https://www.theguardian.com/us-news/2026/oct/28/teen-marriage-convicted-islamic-state"
-     }
-    ]
-   },
-   {
-    "date": "2026-10-28",
-    "text": "Victims of Jordan’s air strikes in Syria",
-    "ko": "요르단의 시리아 공습 피해자들",
-    "sources": [
-     {
-      "t": "Al Jazeera",
-      "u": "https://www.aljazeera.com/video/newsfeed/2026/10/28/victims-of-jordans-air-strikes-in-syria?traffic_source=rss"
      }
     ]
    }
@@ -2099,6 +2176,17 @@
   ],
   "drc": [
    {
+    "date": "2026-11-15",
+    "text": "Francophone summit opens in Cambodia amid Rwanda-DR Congo rift",
+    "ko": "르완다-DR 콩고 균열 속에서 프랑스어권 정상회담이 캄보디아에서 열립니다",
+    "sources": [
+     {
+      "t": "Al Jazeera",
+      "u": "https://www.aljazeera.com/news/2026/11/15/francophone-summit-opens-in-cambodia-amid-rwanda-dr-congo-rift?traffic_source=rss"
+     }
+    ]
+   },
+   {
     "date": "2026-11-14",
     "text": "DR Congo, Rwanda clash over Francophonie leadership as Macron seeks compromise",
     "ko": "마크롱이 타협을 추구하면서 콩고민주공화국과 르완다, 프랑코포니 리더십을 둘러싸고 충돌",
@@ -2210,6 +2298,28 @@
    }
   ],
   "mexico": [
+   {
+    "date": "2026-11-15",
+    "text": "Miguel Angel Felix Gallardo, architect of Mexico’s drug trade, dies aged 80",
+    "ko": "멕시코 마약 거래의 창시자인 미구엘 앙헬 펠릭스 가야르도(Miguel Angel Felix Gallardo)가 80세의 나이로 사망했습니다.",
+    "sources": [
+     {
+      "t": "France 24",
+      "u": "https://www.france24.com/en/americas/20261115-miguel-angel-felix-gallardo-mexican-drug-lord-dies"
+     }
+    ]
+   },
+   {
+    "date": "2026-11-15",
+    "text": "Texas puts to death man who beheaded three children, hours after Oklahoma execution",
+    "ko": "오클라호마주에서 사형이 집행된 지 몇 시간 만에 텍사스주에서 세 자녀를 참수한 남성이 사형에 처해졌습니다.",
+    "sources": [
+     {
+      "t": "The Guardian",
+      "u": "https://www.theguardian.com/us-news/2026/nov/15/texas-execution-john-allen-rubio-oklahoma-james-pavatt"
+     }
+    ]
+   },
    {
     "date": "2026-11-14",
     "text": "Elon Musk's SpaceX aborts booster recovery due to technical issues",
@@ -2327,28 +2437,6 @@
      }
     ],
     "ko": "누에보 임페리오 카르텔의 창립자이자 지도자인 에드가 아론 바스케스(Edgar Aarón Vázquez)가 멕시코 주 나우칼판에서 작전 중에 사망했습니다. 그는 연방 요원 살해는 물론 납치, 강탈, 살인, 재산 몰수, 돈세탁, 연료 절도, 미국과 캐나다로의 마약 밀매 등에 연루되었습니다."
-   },
-   {
-    "date": "2026-11-02",
-    "text": "Three people are killed and five more injured in two separated mass shootings at two drug rehabilitation centers in Mazatlán, Sinaloa, Mexico.",
-    "sources": [
-     {
-      "t": "La Jornada in Spanish",
-      "u": "https://www.jornada.com.mx/noticia/2026/11/01/estados/atacan-centros-de-rehabilitacion-en-mazatlan-y-matan-a-3-personas"
-     }
-    ],
-    "ko": "멕시코 시날로아주 마사틀란에 있는 마약 재활 센터 2곳에서 두 건의 집단 총격 사건이 발생해 3명이 숨지고 5명이 부상당했습니다."
-   },
-   {
-    "date": "2026-11-02",
-    "text": "A double attack against against two Drug rehabilitation centers left three people killed and five wounded in Mazatlán, Sinaloa, México.",
-    "sources": [
-     {
-      "t": "La Jornada",
-      "u": "https://www.jornada.com.mx/noticia/2026/11/01/estados/atacan-centros-de-rehabilitacion-en-mazatlan-y-matan-a-3-personas"
-     }
-    ],
-    "ko": "멕시코 시날로아주 마사틀란에서 두 곳의 약물 재활 센터에 대한 이중 공격으로 3명이 사망하고 5명이 부상을 입었습니다."
    }
   ],
   "afpak": [
