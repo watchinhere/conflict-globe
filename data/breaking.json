@@ -1,13 +1,13 @@
 {
- "updated": "2026-11-15T23:51:55.444Z",
+ "updated": "2026-11-16T05:39:02.786Z",
  "sources": {
   "BBC": {
    "ok": true,
-   "n": 8
+   "n": 9
   },
   "Al Jazeera": {
    "ok": true,
-   "n": 9
+   "n": 8
   },
   "The Guardian": {
    "ok": true,
@@ -15,7 +15,7 @@
   },
   "DW": {
    "ok": true,
-   "n": 6
+   "n": 5
   },
   "France 24": {
    "ok": true,
@@ -32,6 +32,159 @@
  },
  "items": [
   {
+   "id": "396caf8bcd37",
+   "t": "Wife of assassinated ex-Haitian leader registers for presidential election",
+   "ko": null,
+   "src": "BBC",
+   "u": "https://www.bbc.co.uk/news/articles/cmwy83432q1jo?at_medium=RSS&at_campaign=rss",
+   "at": "2026-11-16T05:06:59.000Z",
+   "ev": [
+    "haiti"
+   ],
+   "cc": [
+    "Haiti"
+   ]
+  },
+  {
+   "id": "2433ebd30507",
+   "t": "MP Helen Haines’s first words since leaving hospital after alleged attack led to double amputation",
+   "ko": null,
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/australia-news/2026/nov/16/mp-helen-haines-out-of-hospital-after-attack-leg-amputation-ntwnfb",
+   "at": "2026-11-16T05:05:07.000Z",
+   "ev": [],
+   "cc": []
+  },
+  {
+   "id": "24020b21010e",
+   "t": "Will Spain’s snap election in November bring a far-right party into government?",
+   "ko": null,
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/world/2026/nov/16/will-spains-snap-election-in-november-bring-a-far-right-party-into-government",
+   "at": "2026-11-16T05:00:33.000Z",
+   "ev": [],
+   "cc": [
+    "Spain"
+   ]
+  },
+  {
+   "id": "e5f18ed0c980",
+   "t": "Coles investigates cyber-attack and apologises to customers",
+   "ko": null,
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/business/2026/nov/16/coles-cyber-attack-incident-data",
+   "at": "2026-11-16T04:04:37.000Z",
+   "ev": [],
+   "cc": [
+    "Australia"
+   ]
+  },
+  {
+   "id": "79dff445f288",
+   "t": "Pope Leo flies to mass in the Papacoptero",
+   "ko": null,
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/video/newsfeed/2026/11/16/pope-leo-flies-to-mass-in-the-papacoptero?traffic_source=rss",
+   "at": "2026-11-16T03:54:04.000Z",
+   "ev": [],
+   "cc": []
+  },
+  {
+   "id": "d146d9c58811",
+   "t": "Shophouse fire kills at least 11 in Phuket",
+   "ko": null,
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/video/newsfeed/2026/11/16/shophouse-fire-kills-at-least-11-in-phuket?traffic_source=rss",
+   "at": "2026-11-16T03:51:43.000Z",
+   "ev": [],
+   "cc": [
+    "Thailand"
+   ]
+  },
+  {
+   "id": "5fbd9b66b7b6",
+   "t": "Eisenkot says Netanyahu ‘cannot remain’ after alleged election interference by aide",
+   "ko": null,
+   "src": "France 24",
+   "u": "https://www.france24.com/en/middle-east/20261116-eisenkot-netanyahu-cannot-stay-in-office",
+   "at": "2026-11-16T03:47:28.000Z",
+   "ev": [],
+   "cc": [
+    "Israel"
+   ]
+  },
+  {
+   "id": "60504510472a",
+   "t": "Australian MP 'full of gratitude' upon leaving hospital after alleged car attack",
+   "ko": null,
+   "src": "BBC",
+   "u": "https://www.bbc.co.uk/news/articles/cmpqr9j81888o?at_medium=RSS&at_campaign=rss",
+   "at": "2026-11-16T03:09:49.000Z",
+   "ev": [],
+   "cc": []
+  },
+  {
+   "id": "7162fe110878",
+   "t": "Yemeni forces' retreat leaves Houthis in control of key Red Sea waterway",
+   "ko": null,
+   "src": "BBC",
+   "u": "https://www.bbc.co.uk/news/articles/cqvg2xgyvnjpo?at_medium=RSS&at_campaign=rss",
+   "at": "2026-11-16T03:08:31.000Z",
+   "ev": [
+    "yemen"
+   ],
+   "cc": [
+    "Yemen"
+   ]
+  },
+  {
+   "id": "720d92e1978d",
+   "t": "Senior Hells Angels bikie charged with threatening to kill investigative reporter Nick McKenzie",
+   "ko": null,
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/australia-news/2026/nov/16/hells-angels-bikie-charged-threats-to-kill-journalist-nick-mckenzie-ntwnfb",
+   "at": "2026-11-16T03:01:43.000Z",
+   "ev": [],
+   "cc": []
+  },
+  {
+   "id": "4f2e859acfa6",
+   "t": "Hundreds of thousands of Czechs protest in Prague over public media funding plan",
+   "ko": null,
+   "src": "France 24",
+   "u": "https://www.france24.com/en/europe/20261116-czechs-protest-prague-public-media-funding-plan",
+   "at": "2026-11-16T02:28:13.000Z",
+   "ev": [],
+   "cc": []
+  },
+  {
+   "id": "81e7758ea71c",
+   "t": "‘The blood of these brothers cries out’: Pope Leo demands justice for people killed protecting the Amazon",
+   "ko": null,
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/world/2026/nov/16/pope-leo-speech-peru-justice-for-amazon-activists-environment",
+   "at": "2026-11-16T01:13:44.000Z",
+   "ev": [],
+   "cc": [
+    "Peru"
+   ]
+  },
+  {
+   "id": "90c74670e565",
+   "t": "Iran war live: Third US carrier arrives, Iran warns it could strike first",
+   "ko": null,
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/liveblog/2026/11/16/iran-war-live-tehran-warns-it-may-strike-first-before-another-us-attack?traffic_source=rss",
+   "at": "2026-11-16T00:00:00.000Z",
+   "ev": [
+    "iran"
+   ],
+   "cc": [
+    "Iran",
+    "United States"
+   ]
+  },
+  {
    "id": "d96cf92301fd",
    "t": "US officials recover audio from ‘Mississippi miracle’ cruise ship and tanker crash",
    "ko": "미국 관리들은 '미시시피 기적' 유람선과 유조선 추락 사고에서 오디오를 복구했습니다.",
@@ -45,8 +198,8 @@
   },
   {
    "id": "a198c7b6263b",
-   "t": "Miguel Angel Felix Gallardo, architect of Mexico’s drug trade, dies aged 80",
-   "ko": "멕시코 마약 거래의 창시자인 미구엘 앙헬 펠릭스 가야르도(Miguel Angel Felix Gallardo)가 80세의 나이로 사망했습니다.",
+   "t": "Miguel Angel Felix Gallardo, architect of Mexico’s drug trade, dies age 80",
+   "ko": null,
    "src": "France 24",
    "u": "https://www.france24.com/en/americas/20261115-miguel-angel-felix-gallardo-mexican-drug-lord-dies",
    "at": "2026-11-15T22:48:31.000Z",
@@ -116,6 +269,22 @@
    ]
   },
   {
+   "id": "17e4ee8ba1e7",
+   "t": "Canada bars Russia from Junior World Championships",
+   "ko": null,
+   "src": "BBC",
+   "u": "https://www.bbc.co.uk/sport/ice-hockey/articles/cqkgm0jgv4mdo?at_medium=RSS&at_campaign=rss",
+   "at": "2026-11-15T22:01:16.000Z",
+   "ev": [
+    "ukraine"
+   ],
+   "cc": [
+    "Canada",
+    "Russia",
+    "Ukraine"
+   ]
+  },
+  {
    "id": "c66d5c11acd4",
    "t": "Prince Harry tells Ukrainians they are ‘going to win war’ on surprise trip to Lviv",
    "ko": "해리 왕자, 리비우 깜짝 방문…우크라이나인들에게 '전쟁에서 승리할 것'",
@@ -128,6 +297,20 @@
    "cc": [
     "Ukraine",
     "Russia"
+   ]
+  },
+  {
+   "id": "5b9aec90bcd5",
+   "t": "Prince Harry praises war veterans on surprise visit to Ukraine",
+   "ko": null,
+   "src": "BBC",
+   "u": "https://www.bbc.co.uk/news/articles/c60evn992jq8o?at_medium=RSS&at_campaign=rss",
+   "at": "2026-11-15T22:00:13.000Z",
+   "ev": [
+    "ukraine"
+   ],
+   "cc": [
+    "Ukraine"
    ]
   },
   {
@@ -307,18 +490,6 @@
    ],
    "cc": [
     "Ukraine"
-   ]
-  },
-  {
-   "id": "82d719e9a8ce",
-   "t": "Hundreds of thousands of Czechs protest in Prague over media freedom",
-   "ko": "프라하에서 수십만 명의 체코인이 언론 자유를 요구하는 시위를 벌였습니다.",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/world/2026/nov/15/czechia-protest-prague-media-freedom",
-   "at": "2026-11-15T18:20:36.000Z",
-   "ev": [],
-   "cc": [
-    "Czech Republic"
    ]
   },
   {
@@ -1571,151 +1742,6 @@
    "ev": [],
    "cc": [
     "Spain"
-   ]
-  },
-  {
-   "id": "ce2a35d9b8c2",
-   "t": "China to host first-ever trilateral meeting between Trump, Xi and Putin next week",
-   "ko": "중국, 다음주 사상 첫 트럼프-시진핑-푸틴 3자 회담 개최",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/asia-pacific/20261114-china-to-host-first-ever-trilateral-meeting-between-trump-xi-and-putin-next-week-us-says",
-   "at": "2026-11-14T05:09:23.000Z",
-   "ev": [
-    "ukraine",
-    "iran"
-   ],
-   "cc": [
-    "China",
-    "United States",
-    "Iran"
-   ]
-  },
-  {
-   "id": "f4962b7c6f76",
-   "t": "Trump, Xi and Putin to hold first three-way summit in China",
-   "ko": "트럼프-시진핑-푸틴, 중국에서 첫 3자 정상회담 개최",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/news/2026/11/14/trump-xi-and-putin-to-hold-first-three-way-summit-in-china?traffic_source=rss",
-   "at": "2026-11-14T04:55:58.000Z",
-   "ev": [
-    "iran"
-   ],
-   "cc": [
-    "China",
-    "Iran"
-   ]
-  },
-  {
-   "id": "0ad18a04d3b6",
-   "t": "German spies granted sweeping new powers",
-   "ko": "독일 스파이에게 새로운 권한 부여",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/news/2026/11/14/german-spies-granted-sweeping-new-powers?traffic_source=rss",
-   "at": "2026-11-14T04:41:11.000Z",
-   "ev": [],
-   "cc": [
-    "Germany",
-    "Russia"
-   ]
-  },
-  {
-   "id": "e4ebfb404985",
-   "t": "ICC stops probe into alleged crimes by US troops in Afghanistan",
-   "ko": "ICC, 아프가니스탄 주둔 미군 범죄 혐의 조사 중단",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/news/2026/11/14/icc-stops-probe-into-alleged-crimes-by-us-troops-in-afghanistan?traffic_source=rss",
-   "at": "2026-11-14T04:03:49.000Z",
-   "ev": [],
-   "cc": [
-    "United States",
-    "Afghanistan"
-   ]
-  },
-  {
-   "id": "e210b3aa241a",
-   "t": "All passengers and crew accounted for after New Orleans boat crash in ‘miracle on the Mississippi’",
-   "ko": "'미시시피강의 기적' 뉴올리언스 보트 추락 사고로 승객과 승무원 전원 사망",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/us-news/2026/nov/13/mississippi-river-crash-new-orleans",
-   "at": "2026-11-14T03:11:28.000Z",
-   "ev": [],
-   "cc": []
-  },
-  {
-   "id": "d3681030415b",
-   "t": "Measles-associated deaths reach 10 in US after two more deaths reported",
-   "ko": "미국에서 홍역 관련 사망자가 2명 더 발생해 10명에 이르렀습니다.",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/news/2026/11/14/measles-associated-deaths-reach-10-in-us-after-two-more-deaths-reported?traffic_source=rss",
-   "at": "2026-11-14T02:34:50.000Z",
-   "ev": [],
-   "cc": [
-    "United States"
-   ]
-  },
-  {
-   "id": "35e78aae0299",
-   "t": "SpaceX launches Starship rocket, fails to recover booster",
-   "ko": "SpaceX가 스타쉽 로켓을 발사했지만 부스터를 복구하지 못했습니다.",
-   "src": "DW",
-   "u": "https://www.dw.com/en/spacex-launches-starship-rocket-fails-to-recover-booster/a-79946091?maca=en-rss-en-world-4025-rdf",
-   "at": "2026-11-14T02:24:00.000Z",
-   "ev": [
-    "mexico"
-   ],
-   "cc": [
-    "Mexico"
-   ]
-  },
-  {
-   "id": "9737ca003118",
-   "t": "Nationwide FAA ground stop: nearly 11,000 flights delayed or canceled at airports across the US",
-   "ko": "전국 FAA 지상 정지: 미국 전역 공항에서 약 11,000편의 항공편이 지연되거나 취소되었습니다.",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/world/2026/nov/13/faa-nationwide-ground-stop-flights",
-   "at": "2026-11-14T01:01:12.000Z",
-   "ev": [],
-   "cc": [
-    "United States"
-   ]
-  },
-  {
-   "id": "89d13a43c42e",
-   "t": "SpaceX Starship megarocket blasts off before expected return for reuse",
-   "ko": "SpaceX Starship 메가 로켓은 재사용을 위해 예상되는 복귀 전에 폭발합니다",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/science/2026/nov/13/spacex-starship-megarocket-blasts-off-earth-orbit",
-   "at": "2026-11-14T00:53:52.000Z",
-   "ev": [],
-   "cc": [
-    "United States"
-   ]
-  },
-  {
-   "id": "90ede25c95fa",
-   "t": "Arrested generals and a threatened VP: President's son fuels Ugandan succession fever",
-   "ko": "체포된 장군들과 위협받는 부통령: 대통령의 아들이 우간다 후계열을 부채질하다",
-   "src": "BBC",
-   "u": "https://www.bbc.co.uk/news/articles/cmlydy0xw45wo?at_medium=RSS&at_campaign=rss",
-   "at": "2026-11-14T00:03:52.000Z",
-   "ev": [],
-   "cc": []
-  },
-  {
-   "id": "a460993f867d",
-   "t": "Iran war live: Fighting grips Yemen as Qatar, Turkiye sign defence deal",
-   "ko": "이란 전쟁 라이브: 카타르, 투르키예가 방위 계약에 서명함에 따라 예멘의 싸움이 치열해졌습니다.",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/news/liveblog/2026/11/14/iran-war-live-fighting-grips-yemen-as-qatar-turkiye-sign-defence-deal?traffic_source=rss",
-   "at": "2026-11-14T00:00:25.000Z",
-   "ev": [
-    "iran",
-    "yemen"
-   ],
-   "cc": [
-    "Iran",
-    "Yemen",
-    "Qatar"
    ]
   }
  ]
