@@ -1,13 +1,13 @@
 {
- "updated": "2026-11-16T05:39:02.786Z",
+ "updated": "2026-11-16T14:00:06.865Z",
  "sources": {
   "BBC": {
    "ok": true,
-   "n": 9
+   "n": 8
   },
   "Al Jazeera": {
    "ok": true,
-   "n": 8
+   "n": 7
   },
   "The Guardian": {
    "ok": true,
@@ -15,15 +15,15 @@
   },
   "DW": {
    "ok": true,
-   "n": 5
+   "n": 3
   },
   "France 24": {
    "ok": true,
-   "n": 10
+   "n": 11
   },
   "UN News": {
    "ok": true,
-   "n": 1
+   "n": 2
   },
   "NPR": {
    "ok": true,
@@ -32,9 +32,375 @@
  },
  "items": [
   {
+   "id": "6a7cec6eaca4",
+   "t": "Iran blocks UN nuclear site visits until war ends",
+   "ko": "이란, 전쟁이 끝날 때까지 유엔 핵시설 방문 차단",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/asia-pacific/20261116-iran-blocks-un-nuclear-site-visits-until-war-ends",
+   "at": "2026-11-16T13:46:55.000Z",
+   "ev": [
+    "iran"
+   ],
+   "cc": [
+    "Iran",
+    "United States",
+    "Israel"
+   ]
+  },
+  {
+   "id": "495610e1e9d7",
+   "t": "Russian attacks kill three in Ukraine, EU accuses Moscow of prolonging war",
+   "ko": "러시아, 우크라이나 공격으로 3명 사망, EU는 모스크바가 전쟁을 연장하고 있다고 비난",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/11/16/russian-attacks-kill-three-in-ukraine-eu-accuses-moscow-of-prolonging-war?traffic_source=rss",
+   "at": "2026-11-16T13:28:23.000Z",
+   "ev": [
+    "ukraine"
+   ],
+   "cc": [
+    "Russia",
+    "Ukraine"
+   ]
+  },
+  {
+   "id": "a05d3e856ef8",
+   "t": "Hundreds of thousands protest Czech government's media funding plan",
+   "ko": "수십만 명이 체코 정부의 미디어 자금 지원 계획에 항의",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/video/20261116-hundreds-of-thousands-protest-czech-government-s-media-funding-plan",
+   "at": "2026-11-16T13:09:59.000Z",
+   "ev": [],
+   "cc": []
+  },
+  {
+   "id": "9d990a16befd",
+   "t": "Ukraine hits Kerch bridge between Russia and occupied Crimea",
+   "ko": "우크라이나, 러시아와 크림 반도 사이 케르치 다리 충돌",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/world/2026/nov/16/ukraine-drone-kerch-bridge-russia-occupied-crimea",
+   "at": "2026-11-16T12:45:09.000Z",
+   "ev": [
+    "ukraine"
+   ],
+   "cc": [
+    "Ukraine",
+    "Russia"
+   ]
+  },
+  {
+   "id": "541742455b07",
+   "t": "Francophonie summit avoids 'major disaster' after clash over leadership",
+   "ko": "프랑코포니 정상회담, 지도부 충돌 후 '큰 재앙' 피하다",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/video/20261116-francophonie-summit-avoids-major-disaster-after-clash-over-leadership",
+   "at": "2026-11-16T12:13:08.000Z",
+   "ev": [
+    "drc"
+   ],
+   "cc": [
+    "France",
+    "Democratic Republic of the Congo",
+    "Rwanda"
+   ]
+  },
+  {
+   "id": "db6cded58baa",
+   "t": "Flying blind: inside the decline of the EPA’s chemical-detection plane",
+   "ko": "플라잉 블라인드: EPA의 화학 탐지 비행기 쇠퇴 내부",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/environment/2026/nov/16/epa-chemical-detection-plane",
+   "at": "2026-11-16T12:00:58.000Z",
+   "ev": [],
+   "cc": [
+    "United States"
+   ]
+  },
+  {
+   "id": "3c4928b676b2",
+   "t": "Estonia to close Russian border crossings after attempted arson attack on drone ‌maker",
+   "ko": "에스토니아, 드론 제조사에 대한 방화 공격 시도 후 러시아 국경 통과 폐쇄",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/video/20261116-estonia-to-close-russian-border-crossings-after-attempted-arson-attack-on-drone-maker",
+   "at": "2026-11-16T11:43:54.000Z",
+   "ev": [
+    "ukraine"
+   ],
+   "cc": [
+    "Estonia",
+    "Russia"
+   ]
+  },
+  {
+   "id": "b733bba8e13d",
+   "t": "Yemen's Houthis advance on Aden as govt bolsters defences",
+   "ko": "정부가 방어력을 강화하자 예멘 후티 반군이 아덴으로 진격",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/video/20261116-yemen-s-houthis-advance-on-aden-as-govt-bolsters-defences",
+   "at": "2026-11-16T11:36:38.000Z",
+   "ev": [
+    "yemen"
+   ],
+   "cc": [
+    "Yemen"
+   ]
+  },
+  {
+   "id": "3a41398a039c",
+   "t": "As homes seized, Jericho’s Palestinian residents fear settler takeover",
+   "ko": "주택이 압수되자 예리코의 팔레스타인 주민들은 정착민의 장악을 두려워합니다.",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/11/16/jerichos-palestinian-residents-lay-in-wait-of-an-israeli-settler-takeover?traffic_source=rss",
+   "at": "2026-11-16T11:23:43.000Z",
+   "ev": [
+    "westbank"
+   ],
+   "cc": [
+    "Palestine"
+   ]
+  },
+  {
+   "id": "4b2202df9e04",
+   "t": "Ukraine strikes Crimea bridge as Zelensky says Starshield caps helping Russian attacks",
+   "ko": "Zelensky가 Starshield 모자가 러시아 공격을 돕는다고 말하자 우크라이나는 크리미아 다리를 공격했습니다.",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/video/20261116-ukraine-strikes-crimea-bridge-as-zelensky-says-starshield-caps-helping-russian-attacks",
+   "at": "2026-11-16T11:18:47.000Z",
+   "ev": [
+    "ukraine"
+   ],
+   "cc": [
+    "Ukraine",
+    "Russia"
+   ]
+  },
+  {
+   "id": "7162fe110878",
+   "t": "Yemeni forces retreat to defend port city from Houthis",
+   "ko": "예멘군은 후티로부터 항구 도시를 방어하기 위해 후퇴한다",
+   "src": "BBC",
+   "u": "https://www.bbc.co.uk/news/articles/cqvg2xgyvnjpo?at_medium=RSS&at_campaign=rss",
+   "at": "2026-11-16T11:09:38.000Z",
+   "ev": [
+    "yemen"
+   ],
+   "cc": [
+    "Yemen"
+   ]
+  },
+  {
+   "id": "d686c1c7ce7a",
+   "t": "Revealed: Israel uploaded millions of photos to Amazon’s facial recognition platform to track Palestinians",
+   "ko": "공개: 이스라엘은 팔레스타인인을 추적하기 위해 아마존의 안면 인식 플랫폼에 수백만 장의 사진을 업로드했습니다.",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/world/2026/nov/16/israel-amazon-facial-recognition-palestinians",
+   "at": "2026-11-16T11:00:56.000Z",
+   "ev": [
+    "gaza"
+   ],
+   "cc": [
+    "Israel",
+    "Palestine",
+    "United States"
+   ]
+  },
+  {
+   "id": "745d5e7a5c50",
+   "t": "Two mass shootings in South Africa leave 17 dead",
+   "ko": "남아프리카공화국에서 두 차례 총격 사건이 발생해 17명이 사망했다.",
+   "src": "BBC",
+   "u": "https://www.bbc.co.uk/news/articles/c8y5x3n4kywpo?at_medium=RSS&at_campaign=rss",
+   "at": "2026-11-16T10:57:48.000Z",
+   "ev": [],
+   "cc": [
+    "South Africa"
+   ]
+  },
+  {
+   "id": "206a4d40733d",
+   "t": "Birth keeper told mother of baby who later died to ‘go home and rest’, NSW inquest hears",
+   "ko": "NSW 조사에서 산모가 나중에 사망한 아기의 어머니에게 '집에 가서 쉬라'고 말했다",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/australia-news/2026/nov/16/nsw-inquest-four-babies-freebirth-home-birth-northern-rivers-ntwnfb",
+   "at": "2026-11-16T10:41:38.000Z",
+   "ev": [],
+   "cc": []
+  },
+  {
+   "id": "1f769fc5f645",
+   "t": "Lebanon’s second airport could provide economic and political benefits",
+   "ko": "레바논의 두 번째 공항은 경제적, 정치적 이익을 제공할 수 있습니다",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/features/2026/11/16/lebanons-second-airport-could-provide-economic-and-political-benefits?traffic_source=rss",
+   "at": "2026-11-16T10:28:22.000Z",
+   "ev": [
+    "lebanon"
+   ],
+   "cc": [
+    "Lebanon"
+   ]
+  },
+  {
+   "id": "fa56287cab09",
+   "t": "Jordan bans Telegram app over 'radicalisation' claims",
+   "ko": "요르단, '급진화' 주장으로 텔레그램 앱 금지",
+   "src": "DW",
+   "u": "https://www.dw.com/en/jordan-bans-telegram-app-over-radicalisation-claims/a-79956706?maca=en-rss-en-world-4025-rdf",
+   "at": "2026-11-16T10:22:00.000Z",
+   "ev": [],
+   "cc": [
+    "Jordan"
+   ]
+  },
+  {
+   "id": "866c571fc6c7",
+   "t": "Relocation of Cape Town baboons to sanctuary ignites heated protests",
+   "ko": "케이프타운 개코원숭이 보호구역으로 이주, 뜨거운 시위 촉발",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/world/2026/nov/16/cape-town-baboons-relocation-protests",
+   "at": "2026-11-16T10:19:08.000Z",
+   "ev": [],
+   "cc": []
+  },
+  {
+   "id": "26bb3d253964",
+   "t": "USS Roosevelt arrives in Middle East: Is the US-Iran war about to resume?",
+   "ko": "USS 루즈벨트(USS Roosevelt) 중동 도착: 미-이란 전쟁이 곧 재개될 것인가?",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/11/16/uss-roosevelt-arrives-in-middle-east-is-the-us-iran-war-about-to-resume?traffic_source=rss",
+   "at": "2026-11-16T10:14:27.000Z",
+   "ev": [
+    "iran"
+   ],
+   "cc": [
+    "United States"
+   ]
+  },
+  {
+   "id": "44fa52e903c8",
+   "t": "Jordan bans Telegram over national security concerns",
+   "ko": "요르단, 국가안보 우려로 텔레그램 금지",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/11/16/jordan-bans-telegram-messing-app-over-national-security-concerns?traffic_source=rss",
+   "at": "2026-11-16T10:12:28.000Z",
+   "ev": [],
+   "cc": [
+    "Jordan",
+    "Greece"
+   ]
+  },
+  {
+   "id": "376e33174d8e",
+   "t": "Verdict week in the Myanmar genocide case",
+   "ko": "미얀마 대량 학살 사건 판결 주간",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/tv-shows/press-review/20261116-verdict-week-in-the-myanmar-genocide-case",
+   "at": "2026-11-16T10:01:18.000Z",
+   "ev": [
+    "myanmar",
+    "rohingya"
+   ],
+   "cc": [
+    "Myanmar",
+    "France",
+    "Ireland"
+   ]
+  },
+  {
+   "id": "db43089f31ad",
+   "t": "Albanese treads tightrope in upcoming Trump meeting, wanting Indo-Pacific engagement and end to Iran and Ukraine wars",
+   "ko": "알바인들은 다가오는 트럼프 회담에서 인도-태평양 참여와 이란과 우크라이나 전쟁의 종식을 원하며 줄타기",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/australia-news/2026/nov/16/albanese-treads-tightrope-in-upcoming-trump-meeting-wanting-indo-pacific-engagement-and-end-to-iran-and-ukraine-wars",
+   "at": "2026-11-16T09:40:29.000Z",
+   "ev": [
+    "ukraine",
+    "iran"
+   ],
+   "cc": [
+    "Iran",
+    "Ukraine",
+    "Philippines"
+   ]
+  },
+  {
+   "id": "4a772042ac96",
+   "t": "Third US aircraft carrier arrives in Middle East amid tensions with Iran",
+   "ko": "미 세 번째 항공모함이 이란과의 긴장 속에서 중동에 도착했다.",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/video/newsfeed/2026/11/16/third-us-aircraft-carrier-arrives-in-middle-east-amid-tensions-with-iran?traffic_source=rss",
+   "at": "2026-11-16T09:31:36.000Z",
+   "ev": [
+    "iran"
+   ],
+   "cc": [
+    "United States",
+    "Iran"
+   ]
+  },
+  {
+   "id": "a50a2c56e09e",
+   "t": "UK and allies call on Israel to allow rapid humanitarian access to Gaza",
+   "ko": "영국과 동맹국, 이스라엘에 가자지구에 대한 신속한 인도주의적 접근 허용 촉구",
+   "src": "BBC",
+   "u": "https://www.bbc.co.uk/news/articles/cwm2mllj1pp8o?at_medium=RSS&at_campaign=rss",
+   "at": "2026-11-16T08:56:04.000Z",
+   "ev": [
+    "gaza"
+   ],
+   "cc": [
+    "United Kingdom",
+    "Israel",
+    "Palestine"
+   ]
+  },
+  {
+   "id": "d585484ac43e",
+   "t": "Ecuador’s president denies existence of US military base",
+   "ko": "에콰도르 대통령, 미군기지 존재 부인",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/11/16/ecuadors-president-denies-us-has-military-base-in-country?traffic_source=rss",
+   "at": "2026-11-16T08:14:48.000Z",
+   "ev": [],
+   "cc": [
+    "Ecuador",
+    "United States"
+   ]
+  },
+  {
+   "id": "95498e833685",
+   "t": "Live: 600 Ukrainian drones target Moscow, Crimea bridge strike halts traffic",
+   "ko": "라이브: 600대의 우크라이나 드론이 모스크바를 목표로 하고, 크리미아 교량 공격으로 교통이 중단되었습니다.",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/europe/20261116-live-600-ukrainian-drones-target-moscow-strike-crimea-bridge-halts-traffic",
+   "at": "2026-11-16T06:52:27.000Z",
+   "ev": [
+    "ukraine"
+   ],
+   "cc": [
+    "Ukraine",
+    "Russia"
+   ]
+  },
+  {
+   "id": "5e2ee5839e26",
+   "t": "Monday briefing: The many stages of the UK-EU relationship – and what’s next",
+   "ko": "월요일 브리핑: 영국-EU 관계의 여러 단계와 다음 단계",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/world/2026/nov/16/monday-briefing-the-many-stages-of-the-uk-eu-relationship-and-whats-next",
+   "at": "2026-11-16T06:46:27.000Z",
+   "ev": [
+    "ukraine"
+   ],
+   "cc": [
+    "United Kingdom",
+    "Turkey",
+    "United States"
+   ]
+  },
+  {
    "id": "396caf8bcd37",
    "t": "Wife of assassinated ex-Haitian leader registers for presidential election",
-   "ko": null,
+   "ko": "암살된 전 아이티 지도자 부인, 대선 출마",
    "src": "BBC",
    "u": "https://www.bbc.co.uk/news/articles/cmwy83432q1jo?at_medium=RSS&at_campaign=rss",
    "at": "2026-11-16T05:06:59.000Z",
@@ -48,7 +414,7 @@
   {
    "id": "2433ebd30507",
    "t": "MP Helen Haines’s first words since leaving hospital after alleged attack led to double amputation",
-   "ko": null,
+   "ko": "공격 혐의로 병원을 떠난 후 헬렌 헤인즈 의원의 첫 마디는 이중 절단으로 이어졌습니다.",
    "src": "The Guardian",
    "u": "https://www.theguardian.com/australia-news/2026/nov/16/mp-helen-haines-out-of-hospital-after-attack-leg-amputation-ntwnfb",
    "at": "2026-11-16T05:05:07.000Z",
@@ -58,7 +424,7 @@
   {
    "id": "24020b21010e",
    "t": "Will Spain’s snap election in November bring a far-right party into government?",
-   "ko": null,
+   "ko": "11월 스페인의 임시 선거에서 극우 정당이 정부에 합류하게 될까요?",
    "src": "The Guardian",
    "u": "https://www.theguardian.com/world/2026/nov/16/will-spains-snap-election-in-november-bring-a-far-right-party-into-government",
    "at": "2026-11-16T05:00:33.000Z",
@@ -70,7 +436,7 @@
   {
    "id": "e5f18ed0c980",
    "t": "Coles investigates cyber-attack and apologises to customers",
-   "ko": null,
+   "ko": "콜스, 사이버 공격 조사하고 고객에게 사과",
    "src": "The Guardian",
    "u": "https://www.theguardian.com/business/2026/nov/16/coles-cyber-attack-incident-data",
    "at": "2026-11-16T04:04:37.000Z",
@@ -82,7 +448,7 @@
   {
    "id": "79dff445f288",
    "t": "Pope Leo flies to mass in the Papacoptero",
-   "ko": null,
+   "ko": "교황 레오가 파파콥터로 미사에 참석하고 있다.",
    "src": "Al Jazeera",
    "u": "https://www.aljazeera.com/video/newsfeed/2026/11/16/pope-leo-flies-to-mass-in-the-papacoptero?traffic_source=rss",
    "at": "2026-11-16T03:54:04.000Z",
@@ -92,7 +458,7 @@
   {
    "id": "d146d9c58811",
    "t": "Shophouse fire kills at least 11 in Phuket",
-   "ko": null,
+   "ko": "푸켓 상점 화재로 최소 11명 사망",
    "src": "Al Jazeera",
    "u": "https://www.aljazeera.com/video/newsfeed/2026/11/16/shophouse-fire-kills-at-least-11-in-phuket?traffic_source=rss",
    "at": "2026-11-16T03:51:43.000Z",
@@ -104,7 +470,7 @@
   {
    "id": "5fbd9b66b7b6",
    "t": "Eisenkot says Netanyahu ‘cannot remain’ after alleged election interference by aide",
-   "ko": null,
+   "ko": "아이젠코트는 보좌관의 선거 간섭 혐의로 네타냐후가 '남을 수 없다'고 말했다",
    "src": "France 24",
    "u": "https://www.france24.com/en/middle-east/20261116-eisenkot-netanyahu-cannot-stay-in-office",
    "at": "2026-11-16T03:47:28.000Z",
@@ -116,7 +482,7 @@
   {
    "id": "60504510472a",
    "t": "Australian MP 'full of gratitude' upon leaving hospital after alleged car attack",
-   "ko": null,
+   "ko": "호주 의원, 차량 공격 혐의로 퇴원 후 '감사 가득'",
    "src": "BBC",
    "u": "https://www.bbc.co.uk/news/articles/cmpqr9j81888o?at_medium=RSS&at_campaign=rss",
    "at": "2026-11-16T03:09:49.000Z",
@@ -124,23 +490,9 @@
    "cc": []
   },
   {
-   "id": "7162fe110878",
-   "t": "Yemeni forces' retreat leaves Houthis in control of key Red Sea waterway",
-   "ko": null,
-   "src": "BBC",
-   "u": "https://www.bbc.co.uk/news/articles/cqvg2xgyvnjpo?at_medium=RSS&at_campaign=rss",
-   "at": "2026-11-16T03:08:31.000Z",
-   "ev": [
-    "yemen"
-   ],
-   "cc": [
-    "Yemen"
-   ]
-  },
-  {
    "id": "720d92e1978d",
    "t": "Senior Hells Angels bikie charged with threatening to kill investigative reporter Nick McKenzie",
-   "ko": null,
+   "ko": "Hells Angels 수석 바이키, 조사 기자 Nick McKenzie를 살해하겠다고 위협한 혐의로 기소",
    "src": "The Guardian",
    "u": "https://www.theguardian.com/australia-news/2026/nov/16/hells-angels-bikie-charged-threats-to-kill-journalist-nick-mckenzie-ntwnfb",
    "at": "2026-11-16T03:01:43.000Z",
@@ -150,7 +502,7 @@
   {
    "id": "4f2e859acfa6",
    "t": "Hundreds of thousands of Czechs protest in Prague over public media funding plan",
-   "ko": null,
+   "ko": "프라하에서 수십만 명의 체코인이 공공 미디어 자금 지원 계획에 대해 항의",
    "src": "France 24",
    "u": "https://www.france24.com/en/europe/20261116-czechs-protest-prague-public-media-funding-plan",
    "at": "2026-11-16T02:28:13.000Z",
@@ -160,7 +512,7 @@
   {
    "id": "81e7758ea71c",
    "t": "‘The blood of these brothers cries out’: Pope Leo demands justice for people killed protecting the Amazon",
-   "ko": null,
+   "ko": "'이 형제들의 피가 소리친다': 교황 레오, 아마존 보호를 위해 목숨을 잃은 사람들에 대한 정의 요구",
    "src": "The Guardian",
    "u": "https://www.theguardian.com/world/2026/nov/16/pope-leo-speech-peru-justice-for-amazon-activists-environment",
    "at": "2026-11-16T01:13:44.000Z",
@@ -170,9 +522,21 @@
    ]
   },
   {
+   "id": "64178a3da0a5",
+   "t": "Clothing factories shut in Bangladesh as workers strike over pay",
+   "ko": "노동자들이 임금을 놓고 파업을 벌이면서 방글라데시 의류공장이 문을 닫았다",
+   "src": "BBC",
+   "u": "https://www.bbc.co.uk/news/articles/cx5y1pzr9604o?at_medium=RSS&at_campaign=rss",
+   "at": "2026-11-16T01:05:44.000Z",
+   "ev": [],
+   "cc": [
+    "Bangladesh"
+   ]
+  },
+  {
    "id": "90c74670e565",
    "t": "Iran war live: Third US carrier arrives, Iran warns it could strike first",
-   "ko": null,
+   "ko": "이란 전쟁 생중계: 세 번째 미국 항공모함 도착, 이란이 먼저 공격할 수 있다고 경고",
    "src": "Al Jazeera",
    "u": "https://www.aljazeera.com/news/liveblog/2026/11/16/iran-war-live-tehran-warns-it-may-strike-first-before-another-us-attack?traffic_source=rss",
    "at": "2026-11-16T00:00:00.000Z",
@@ -199,7 +563,7 @@
   {
    "id": "a198c7b6263b",
    "t": "Miguel Angel Felix Gallardo, architect of Mexico’s drug trade, dies age 80",
-   "ko": null,
+   "ko": "멕시코 마약 거래의 창시자인 미구엘 앙헬 펠릭스 가야르도(Miguel Angel Felix Gallardo)가 80세의 나이로 사망했습니다.",
    "src": "France 24",
    "u": "https://www.france24.com/en/americas/20261115-miguel-angel-felix-gallardo-mexican-drug-lord-dies",
    "at": "2026-11-15T22:48:31.000Z",
@@ -271,7 +635,7 @@
   {
    "id": "17e4ee8ba1e7",
    "t": "Canada bars Russia from Junior World Championships",
-   "ko": null,
+   "ko": "캐나다는 주니어 세계 선수권 대회에서 러시아를 제지했습니다.",
    "src": "BBC",
    "u": "https://www.bbc.co.uk/sport/ice-hockey/articles/cqkgm0jgv4mdo?at_medium=RSS&at_campaign=rss",
    "at": "2026-11-15T22:01:16.000Z",
@@ -302,7 +666,7 @@
   {
    "id": "5b9aec90bcd5",
    "t": "Prince Harry praises war veterans on surprise visit to Ukraine",
-   "ko": null,
+   "ko": "해리왕자, 우크라이나 깜짝 방문 참전용사들 칭찬",
    "src": "BBC",
    "u": "https://www.bbc.co.uk/news/articles/c60evn992jq8o?at_medium=RSS&at_campaign=rss",
    "at": "2026-11-15T22:00:13.000Z",
@@ -534,18 +898,6 @@
    "cc": [
     "Israel",
     "Palestine"
-   ]
-  },
-  {
-   "id": "64178a3da0a5",
-   "t": "Clothing factories shut in Bangladesh as workers strike over pay",
-   "ko": "노동자들이 임금을 놓고 파업을 벌이면서 방글라데시 의류공장이 문을 닫았다",
-   "src": "BBC",
-   "u": "https://www.bbc.co.uk/news/articles/cx5y1pzr9604o?at_medium=RSS&at_campaign=rss",
-   "at": "2026-11-15T16:15:20.000Z",
-   "ev": [],
-   "cc": [
-    "Bangladesh"
    ]
   },
   {
@@ -845,6 +1197,21 @@
    "at": "2026-11-15T12:00:00.000Z",
    "ev": [],
    "cc": []
+  },
+  {
+   "id": "7847f1dc76db",
+   "t": "First Person: Managing risk on Ukraine’s frontline",
+   "ko": "1인칭: 우크라이나 최전선의 위험 관리",
+   "src": "UN News",
+   "u": "https://news.un.org/feed/view/en/story/2026/11/1168807",
+   "at": "2026-11-15T12:00:00.000Z",
+   "ev": [
+    "ukraine"
+   ],
+   "cc": [
+    "Ukraine",
+    "Russia"
+   ]
   },
   {
    "id": "cedd4c64ea04",
@@ -1431,318 +1798,6 @@
    "at": "2026-11-14T14:07:47.000Z",
    "ev": [],
    "cc": []
-  },
-  {
-   "id": "60ee7f0602da",
-   "t": "Trump ‘whiplash’ on deportations putting Afghans in turmoil: ‘People already survived a war’",
-   "ko": "아프간인들을 혼란에 빠뜨리는 추방에 트럼프 '채찍질': '사람들은 이미 전쟁에서 살아 남았습니다'",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/us-news/2026/nov/14/afghan-deportations-trump-administration",
-   "at": "2026-11-14T13:00:47.000Z",
-   "ev": [
-    "afpak"
-   ],
-   "cc": [
-    "United States",
-    "Afghanistan"
-   ]
-  },
-  {
-   "id": "855ba49d7369",
-   "t": "Russian casualties ‘reach 450,000’: What that means for the Ukraine war",
-   "ko": "러시아 사상자 45만 명 돌파: 우크라이나 전쟁의 의미",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/news/2026/11/14/russian-casualties-reach-450000-what-that-means-for-the-ukraine-war?traffic_source=rss",
-   "at": "2026-11-14T12:57:36.000Z",
-   "ev": [
-    "ukraine"
-   ],
-   "cc": [
-    "Russia",
-    "Ukraine"
-   ]
-  },
-  {
-   "id": "7d22ef75523a",
-   "t": "Ethiopia blames Egypt, Eritrea for Tigray attacks",
-   "ko": "에티오피아, 티그레이 공격 배후로 이집트와 에리트레아 비난",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/video/newsfeed/2026/11/14/ethiopia-blames-egypt-eritrea-for-tigray-attacks?traffic_source=rss",
-   "at": "2026-11-14T12:28:19.000Z",
-   "ev": [
-    "ethiopia"
-   ],
-   "cc": [
-    "Ethiopia",
-    "Egypt",
-    "Eritrea"
-   ]
-  },
-  {
-   "id": "064f73616b75",
-   "t": "Inside Ethiopia's war: Rare access to a hospital treating victims of renewed fighting",
-   "ko": "에티오피아 전쟁 속: 다시 전쟁의 희생자들을 치료하는 병원에 대한 접근이 거의 불가능함",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/inside-ethiopia-s-war-rare-access-to-a-hospital-treating-victims-of-renewed-fighting",
-   "at": "2026-11-14T12:23:32.000Z",
-   "ev": [
-    "ethiopia"
-   ],
-   "cc": [
-    "Ethiopia"
-   ]
-  },
-  {
-   "id": "670e871b9a9b",
-   "t": "Who are the 'street medics' showing up at protests around the world?",
-   "ko": "전 세계 시위에 등장하는 '거리의 의료진'은 누구일까요?",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/who-are-the-street-medics-showing-up-at-protests-around-the-world",
-   "at": "2026-11-14T12:19:19.000Z",
-   "ev": [],
-   "cc": []
-  },
-  {
-   "id": "00dd2a5a467d",
-   "t": "Trump-Xi-Putin trilateral meeting at APEC: What to expect",
-   "ko": "APEC에서 트럼프-시-푸틴 3자 회담: 무엇을 기대할 것인가",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/news/2026/11/14/trump-xi-putin-trilateral-meeting-at-apec-what-to-expect?traffic_source=rss",
-   "at": "2026-11-14T12:14:14.000Z",
-   "ev": [
-    "iran"
-   ],
-   "cc": [
-    "United States",
-    "Iran",
-    "China"
-   ]
-  },
-  {
-   "id": "358064c0394c",
-   "t": "Three killed in Russia as Ukraine claims US floated NATO membership option",
-   "ko": "우크라이나가 미국이 NATO 가입 옵션을 제시했다고 주장하면서 러시아에서 3명이 사망했습니다.",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/news/2026/11/14/three-killed-in-russia-as-ukraine-claims-us-floated-nato-membership-option?traffic_source=rss",
-   "at": "2026-11-14T11:43:06.000Z",
-   "ev": [
-    "ukraine"
-   ],
-   "cc": [
-    "Russia",
-    "Ukraine",
-    "United States"
-   ]
-  },
-  {
-   "id": "858ac96aaa93",
-   "t": "New facilities in Laos and Cambodia: Is China expanding its military presence in Southeast Asia?",
-   "ko": "라오스와 캄보디아의 새로운 시설: 중국이 동남아시아에서 군사력을 확대하고 있습니까?",
-   "src": "DW",
-   "u": "https://www.dw.com/en/new-facilities-in-laos-and-cambodia-is-china-expanding-its-military-presence-in-southeast-asia/a-79944798?maca=en-rss-en-world-4025-rdf",
-   "at": "2026-11-14T11:24:00.000Z",
-   "ev": [],
-   "cc": [
-    "Laos",
-    "Cambodia",
-    "China"
-   ]
-  },
-  {
-   "id": "f40368461e04",
-   "t": "Greenpeace boulders may delay building of £12bn windfarms in North Sea",
-   "ko": "그린피스의 바위로 인해 북해에 120억 파운드 규모의 풍력 발전소 건설이 지연될 수도 있습니다",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/environment/2026/nov/14/greenpeace-boulders-norfolk-vanguard-windfarms",
-   "at": "2026-11-14T11:00:43.000Z",
-   "ev": [],
-   "cc": []
-  },
-  {
-   "id": "56cd3b0454c3",
-   "t": "Ukraine, Russia race to build military satellite networks as war rages on",
-   "ko": "우크라이나와 러시아, 전쟁이 격화됨에 따라 군사 위성 네트워크 구축 경쟁",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/news/2026/11/14/ukraine-russia-race-to-build-military-satellite-networks-as-war-rages-on?traffic_source=rss",
-   "at": "2026-11-14T11:00:39.000Z",
-   "ev": [
-    "ukraine"
-   ],
-   "cc": [
-    "Ukraine",
-    "Russia"
-   ]
-  },
-  {
-   "id": "8d01153a3f27",
-   "t": "US proposed Ukraine cedes Donbas in exchange for joining NATO, Zelensky says",
-   "ko": "미국은 우크라이나가 NATO에 가입하는 대가로 Donbas를 양도할 것을 제안했다고 Zelensky는 말했습니다.",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/europe/20261114-us-negotiators-suggest-ukraine-cedes-territory-in-exchange-for-nato-membership",
-   "at": "2026-11-14T10:30:04.000Z",
-   "ev": [
-    "ukraine"
-   ],
-   "cc": [
-    "United States",
-    "Ukraine",
-    "Russia"
-   ]
-  },
-  {
-   "id": "fb1919ae8fab",
-   "t": "SpaceX's Starship encounters problems during 15th test flight",
-   "ko": "스페이스X의 스타십, 15차 시험비행 중 문제 발생",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/spacex-s-starship-encounters-problems-during-15th-test-flight",
-   "at": "2026-11-14T10:21:09.000Z",
-   "ev": [
-    "mexico"
-   ],
-   "cc": [
-    "Mexico"
-   ]
-  },
-  {
-   "id": "54c8b58a3e5b",
-   "t": "France's school principals say threats and violence have become unbearable",
-   "ko": "프랑스 학교 교장 “협박과 폭력은 견딜 수 없게 됐다”",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/france-s-school-principals-say-threats-and-violence-have-become-unbearable",
-   "at": "2026-11-14T10:17:21.000Z",
-   "ev": [],
-   "cc": [
-    "France"
-   ]
-  },
-  {
-   "id": "7f19874c867b",
-   "t": "France protests for fifth Saturday against living costs and heavy-handed policing",
-   "ko": "프랑스, 다섯 번째 토요일에 생활비와 강압적인 경찰에 항의 시위",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/france-protests-for-fifth-saturday-against-living-costs-and-heavy-handed-policing",
-   "at": "2026-11-14T10:15:42.000Z",
-   "ev": [],
-   "cc": [
-    "France"
-   ]
-  },
-  {
-   "id": "b589bf5bb7e6",
-   "t": "US nationwide flight ground stop: \"Our routers got overloaded with data\"",
-   "ko": "미국 전국 비행장: \"우리 라우터에 데이터가 과부하되었습니다\"",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/us-nationwide-flight-ground-stop-our-routers-got-overloaded-with-data",
-   "at": "2026-11-14T10:14:09.000Z",
-   "ev": [],
-   "cc": [
-    "United States"
-   ]
-  },
-  {
-   "id": "77bc0d5b3703",
-   "t": "Qatar and Turkiye sign a mutual defence pact: What do we know?",
-   "ko": "카타르와 투르키예가 상호방위 협정을 체결했습니다. 우리는 무엇을 알고 있나요?",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/news/2026/11/14/qatar-and-turkiye-sign-a-mutual-defence-pact-what-do-we-know?traffic_source=rss",
-   "at": "2026-11-14T09:19:43.000Z",
-   "ev": [
-    "iran"
-   ],
-   "cc": [
-    "Qatar",
-    "Turkey"
-   ]
-  },
-  {
-   "id": "aac871b3080f",
-   "t": "Sudan: Misery worsens amid plummeting aid for displaced people",
-   "ko": "수단: 실향민에 대한 지원이 급감하면서 상황이 더욱 악화되고 있습니다",
-   "src": "DW",
-   "u": "https://www.dw.com/en/sudan-misery-worsens-amid-plummeting-aid-for-displaced-people/a-79938864?maca=en-rss-en-world-4025-rdf",
-   "at": "2026-11-14T08:31:00.000Z",
-   "ev": [
-    "sudan"
-   ],
-   "cc": [
-    "Sudan"
-   ]
-  },
-  {
-   "id": "1ff1864b46f8",
-   "t": "UN says 25 seafarers killed in, around Hormuz since US-Israel war on Iran",
-   "ko": "유엔 \"미-이스라엘, 이란 전쟁 이후 호르무즈 인근에서 선원 25명 사망\"",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/news/2026/11/14/un-says-25-seafarers-killed-in-around-hormuz-since-february?traffic_source=rss",
-   "at": "2026-11-14T07:46:36.000Z",
-   "ev": [
-    "iran"
-   ],
-   "cc": [
-    "Iran"
-   ]
-  },
-  {
-   "id": "aa86b4b3ba94",
-   "t": "Protesters heckle Hakeem Jeffries at Democratic conference",
-   "ko": "시위자들은 민주당 회의에서 하킴 제프리스를 야유한다",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/video/newsfeed/2026/11/14/protesters-heckle-hakeem-jeffries-at-democratic-conference?traffic_source=rss",
-   "at": "2026-11-14T07:18:53.000Z",
-   "ev": [],
-   "cc": [
-    "United States"
-   ]
-  },
-  {
-   "id": "98d5197bc329",
-   "t": "Live: France deploys 70,000 police for new wave of anti-government protests",
-   "ko": "라이브: 프랑스, ​​새로운 반정부 시위를 위해 경찰 7만 명 배치",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/france/20261114-live-france-mobilises-in-fifth-wave-of-student-protests",
-   "at": "2026-11-14T07:09:32.000Z",
-   "ev": [],
-   "cc": [
-    "France"
-   ]
-  },
-  {
-   "id": "15e79e3a2d75",
-   "t": "Siege fuels disease fears in Yemen’s Taiz",
-   "ko": "예멘 타이즈의 포위 공격으로 질병 공포 증폭",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/news/2026/11/14/siege-fuels-disease-fears-in-yemens-besieged-taiz?traffic_source=rss",
-   "at": "2026-11-14T06:17:27.000Z",
-   "ev": [
-    "yemen"
-   ],
-   "cc": [
-    "Yemen"
-   ]
-  },
-  {
-   "id": "015967ad9edb",
-   "t": "Gen Z protests: Do Baby Boomers really have it better than young people?",
-   "ko": "Z세대의 항의: 베이비붐 세대가 정말로 젊은이들보다 더 나은 삶을 살고 있습니까?",
-   "src": "DW",
-   "u": "https://www.dw.com/en/gen-z-protests-do-baby-boomers-really-have-it-better-than-young-people/a-79918854?maca=en-rss-en-world-4025-rdf",
-   "at": "2026-11-14T06:09:00.000Z",
-   "ev": [],
-   "cc": [
-    "Germany"
-   ]
-  },
-  {
-   "id": "caabb547847b",
-   "t": "Goalkeeper Owono handed 12-match ban after De Miguel death",
-   "ko": "골키퍼 오워노, 데 미구엘 사망 후 12경기 출장 정지 처분",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/sports/2026/11/14/jesus-de-miguel-death-goalkeeper-owono-12-match-ban-collision-tenerife-andorra?traffic_source=rss",
-   "at": "2026-11-14T05:59:49.000Z",
-   "ev": [],
-   "cc": [
-    "Spain"
-   ]
   }
  ]
 }
