@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T23:20:25.916Z",
+ "updated": "2026-11-17T05:09:22.439Z",
  "sources": {
   "BBC": {
    "ok": true,
@@ -7,7 +7,7 @@
   },
   "Al Jazeera": {
    "ok": true,
-   "n": 8
+   "n": 12
   },
   "The Guardian": {
    "ok": true,
@@ -19,7 +19,7 @@
   },
   "France 24": {
    "ok": true,
-   "n": 7
+   "n": 9
   },
   "UN News": {
    "ok": true,
@@ -31,6 +31,186 @@
   }
  },
  "items": [
+  {
+   "id": "dba39abea45c",
+   "t": "Gunfire erupts in occupied West Bank settler attack",
+   "ko": "점령된 서안지구 정착민 공격에 총격 발생",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/video/newsfeed/2026/11/17/gunfire-erupts-in-occupied-west-bank-settler-attack?traffic_source=rss",
+   "at": "2026-11-17T04:00:08.000Z",
+   "ev": [
+    "westbank"
+   ],
+   "cc": [
+    "Palestine",
+    "Israel"
+   ]
+  },
+  {
+   "id": "18f77c5f2bf9",
+   "t": "CFMEU pushed to get notorious Bandidos member hired on construction project, Big Build royal commission hears",
+   "ko": "CFMEU는 건설 프로젝트에 악명 높은 Bandidos 멤버를 고용하기 위해 추진했으며 Big Build 왕실위원회는 듣습니다.",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/australia-news/2026/nov/17/cfmeu-bandidos-bikie-joel-leavitt-big-build-royal-commission-ntwnfb",
+   "at": "2026-11-17T03:51:23.000Z",
+   "ev": [],
+   "cc": []
+  },
+  {
+   "id": "78f74af01219",
+   "t": "Tankers hit in Strait of Hormuz as drone raises alarm at Iraq gas field",
+   "ko": "호르무즈 해협에서 유조선이 공격을 받고 이라크 가스전에서 드론이 경보를 울렸습니다.",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/11/17/tankers-hit-in-strait-of-hormuz-as-drone-raises-alarm-at-iraq-gas-field?traffic_source=rss",
+   "at": "2026-11-17T03:12:54.000Z",
+   "ev": [
+    "iran"
+   ],
+   "cc": [
+    "Iraq",
+    "Iran",
+    "United States"
+   ]
+  },
+  {
+   "id": "b4bc0dc8d6e0",
+   "t": "Trump heads to Asia for historic nuclear talks with China and Russia",
+   "ko": "트럼프, 중국, 러시아와 역사적인 핵 협상을 위해 아시아로 향하다",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/asia-pacific/20261117-trump-asia-nuclear-talks-china-russia",
+   "at": "2026-11-17T03:07:59.000Z",
+   "ev": [
+    "ukraine"
+   ],
+   "cc": [
+    "China",
+    "Russia",
+    "United States"
+   ]
+  },
+  {
+   "id": "256003303893",
+   "t": "Rio Tinto agrees to pay US$250m to begin repairing ‘devastation’ left by Panguna mine",
+   "ko": "리오 틴토(Rio Tinto)는 판구나(Panguna) 광산이 남긴 '황폐화'를 복구하기 위해 2억 5천만 달러를 지불하기로 합의했습니다.",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/world/2026/nov/17/rio-tinto-250m-panguna-mine-clean-up-bougainville-png",
+   "at": "2026-11-17T02:02:30.000Z",
+   "ev": [],
+   "cc": [
+    "United States"
+   ]
+  },
+  {
+   "id": "8106e514c2b3",
+   "t": "Live: Russian attacks target bridges in Kyiv, knocking out heating and water",
+   "ko": "라이브: 러시아가 키예프의 교량을 공격하여 난방과 물을 끊었습니다.",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/europe/20261117-live-russian-attacks-target-bridges-in-kyiv-knocking-out-heating-and-water-ukraine",
+   "at": "2026-11-17T01:38:38.000Z",
+   "ev": [
+    "ukraine"
+   ],
+   "cc": [
+    "Russia",
+    "Ukraine",
+    "United States"
+   ]
+  },
+  {
+   "id": "899257ebfc02",
+   "t": "Yemeni army reports 661 attacks on Houthis as group advances towards Aden",
+   "ko": "예멘군, 아덴으로 진군하는 동안 후티 반군에 대한 661차례 공격 보고",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/11/17/yemen-army-reports-661-attacks-on-houthis-amid-houthi-push-towards-aden?traffic_source=rss",
+   "at": "2026-11-17T01:38:13.000Z",
+   "ev": [
+    "yemen"
+   ],
+   "cc": [
+    "Yemen"
+   ]
+  },
+  {
+   "id": "4ba609ef4470",
+   "t": "Truck driver fired for ‘unsafe’ use of smartglasses in first reported sacking over device in Australia",
+   "ko": "호주에서 스마트글래스를 '안전하지 않게' 사용했다는 이유로 해고된 트럭 운전사",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/technology/2026/nov/17/toll-truck-driver-fired-sacked-smartglasses-australia-ntwnfb",
+   "at": "2026-11-17T01:25:08.000Z",
+   "ev": [],
+   "cc": [
+    "Australia"
+   ]
+  },
+  {
+   "id": "02b6262a7355",
+   "t": "Irish court jails man for life over Dublin knife attack that sparked riots",
+   "ko": "아일랜드 법원, 폭동 촉발한 더블린 흉기 공격 남성에 종신형 선고",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/11/17/irish-court-jails-man-for-life-over-dublin-knife-attack-that-sparked-riots?traffic_source=rss",
+   "at": "2026-11-17T01:19:56.000Z",
+   "ev": [],
+   "cc": []
+  },
+  {
+   "id": "4123b6beea67",
+   "t": "Russian strikes hit two key bridges in Kyiv, disrupting water and power supplies",
+   "ko": "러시아의 공격으로 키예프의 주요 교량 2개가 공격을 받아 물과 전력 공급이 중단되었습니다.",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/europe/20261117-russian-strikes-hit-two-key-bridges-in-kyiv-disrupting-water-and-power-supplies-ukraine",
+   "at": "2026-11-17T00:58:33.000Z",
+   "ev": [
+    "ukraine"
+   ],
+   "cc": [
+    "Russia",
+    "Ukraine"
+   ]
+  },
+  {
+   "id": "52301871255b",
+   "t": "Ethiopia Moyale clashes disrupt livelihoods as territorial dispute deepens",
+   "ko": "에티오피아 모얄레 충돌로 영토 분쟁이 심화되면서 생계가 중단되었습니다.",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/11/17/ethiopia-moyale-clashes-disrupt-livelihoods-as-territorial-dispute-deepens?traffic_source=rss",
+   "at": "2026-11-17T00:21:19.000Z",
+   "ev": [
+    "ethiopia",
+    "somalia"
+   ],
+   "cc": [
+    "Ethiopia"
+   ]
+  },
+  {
+   "id": "4e56eb2b5b97",
+   "t": "Iran war live: Houthis advance in Yemen as Vance rejects ‘forever war’",
+   "ko": "이란 전쟁 라이브: 밴스가 '영원한 전쟁'을 거부함에 따라 예멘에서 후티의 진격",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/liveblog/2026/11/16/live-houthis-advance-in-yemen-as-tankers-hit-sea-mines-in-strait-of-hormuz?traffic_source=rss",
+   "at": "2026-11-16T23:57:49.000Z",
+   "ev": [
+    "iran",
+    "yemen"
+   ],
+   "cc": [
+    "Iran",
+    "Yemen",
+    "United States"
+   ]
+  },
+  {
+   "id": "5af00c545ae7",
+   "t": "Paraguay ex-president moved to military jail amid special treatment reports",
+   "ko": "파라과이 전 대통령, 특별 대우 보고로 군 교도소로 이송",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/11/16/paraguay-ex-president-moved-to-military-jail-amid-special-treatment-reports?traffic_source=rss",
+   "at": "2026-11-16T23:44:32.000Z",
+   "ev": [],
+   "cc": [
+    "Paraguay"
+   ]
+  },
   {
    "id": "751fbcc66c3a",
    "t": "Freeman Johnson, oldest survivor of Pearl Harbor attack, dies aged 106",
@@ -75,6 +255,18 @@
    "src": "Al Jazeera",
    "u": "https://www.aljazeera.com/news/2026/11/16/california-files-lawsuit-against-openai-alleging-lack-of-proper-safeguards?traffic_source=rss",
    "at": "2026-11-16T21:35:51.000Z",
+   "ev": [],
+   "cc": [
+    "United States"
+   ]
+  },
+  {
+   "id": "b56bd5b2f204",
+   "t": "US judge strikes down Trump visa restrictions on foreign students, journalists",
+   "ko": "미국 판사, 외국인 학생과 언론인에 대한 트럼프 비자 제한을 파기",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/americas/20261116-us-judge-strikes-down-trump-visa-restrictions-on-foreign-students-journalists",
+   "at": "2026-11-16T21:23:21.000Z",
    "ev": [],
    "cc": [
     "United States"
@@ -1773,114 +1965,6 @@
    "cc": [
     "Myanmar",
     "Israel"
-   ]
-  },
-  {
-   "id": "6b6054b17b50",
-   "t": "Francophone summit opens in Cambodia amid Rwanda-DR Congo rift",
-   "ko": "르완다-DR 콩고 균열 속에서 프랑스어권 정상회담이 캄보디아에서 열립니다",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/news/2026/11/15/francophone-summit-opens-in-cambodia-amid-rwanda-dr-congo-rift?traffic_source=rss",
-   "at": "2026-11-15T05:05:02.000Z",
-   "ev": [
-    "drc"
-   ],
-   "cc": [
-    "Cambodia",
-    "Democratic Republic of the Congo",
-    "Rwanda"
-   ]
-  },
-  {
-   "id": "135f92873339",
-   "t": "Monkey attacks woman inside residential complex in India",
-   "ko": "원숭이가 인도 주거단지에서 여성을 공격하다",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/video/newsfeed/2026/11/15/monkey-attacks-woman-inside-residential-complex-in-india?traffic_source=rss",
-   "at": "2026-11-15T03:39:39.000Z",
-   "ev": [],
-   "cc": [
-    "India"
-   ]
-  },
-  {
-   "id": "37af75b55472",
-   "t": "Saudi-led coalition intercepts suspected Houthi missiles and drones",
-   "ko": "사우디 주도 연합군, 후티 반군 미사일과 드론으로 의심되는 요격",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/news/2026/11/15/saudi-led-coalition-intercepts-two-missiles-two-drones-in-riyadh?traffic_source=rss",
-   "at": "2026-11-15T02:59:06.000Z",
-   "ev": [
-    "yemen"
-   ],
-   "cc": [
-    "Yemen"
-   ]
-  },
-  {
-   "id": "3563a1720b74",
-   "t": "Thunderstorms, giant hail and powerful winds forecast for NSW as wild weather hits east coast",
-   "ko": "야생 날씨가 동부 해안을 강타함에 따라 NSW에 뇌우, 거대한 우박 및 강력한 바람이 예상됨",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/australia-news/2026/nov/15/australia-weather-east-coast-thunderstorms-giant-hail-and-powerful-winds-ettalong-beach-swimmer-lightning-strike",
-   "at": "2026-11-15T01:52:37.000Z",
-   "ev": [],
-   "cc": []
-  },
-  {
-   "id": "02c39fc80528",
-   "t": "Israeli air strike kills senior Hamas commander in Gaza",
-   "ko": "이스라엘 공습, 가자지구 하마스 고위사령관 사망",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/news/2026/11/15/israeli-air-strike-kills-senior-hamas-commander-in-gaza?traffic_source=rss",
-   "at": "2026-11-15T01:00:42.000Z",
-   "ev": [
-    "gaza"
-   ],
-   "cc": [
-    "Israel",
-    "Palestine"
-   ]
-  },
-  {
-   "id": "46cd3992f87e",
-   "t": "Hundreds of men march in Switzerland to protest violence against women",
-   "ko": "스위스 남성 수백명, 여성 폭력에 항의하며 행진",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/news/2026/11/15/hundreds-of-men-march-in-switzerland-to-protest-violence-against-women?traffic_source=rss",
-   "at": "2026-11-15T00:27:14.000Z",
-   "ev": [],
-   "cc": [
-    "Switzerland"
-   ]
-  },
-  {
-   "id": "5fb9e15e525b",
-   "t": "Iran war live: Saudi-led coalition strikes down 3 drones",
-   "ko": "이란 전쟁 생중계: 사우디 주도 연합군, 드론 3대 격추",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/news/liveblog/2026/11/15/iran-war-live-israel-vows-gaza-offensive-policy-despite-caretaker-status?traffic_source=rss",
-   "at": "2026-11-15T00:00:08.000Z",
-   "ev": [
-    "iran",
-    "yemen"
-   ],
-   "cc": [
-    "Iran",
-    "United States",
-    "Bahrain"
-   ]
-  },
-  {
-   "id": "eb45c1d8c37c",
-   "t": "Iraq PM targets powerful militia stronghold in $30m oil smuggling probe",
-   "ko": "이라크 총리, 3천만 달러 규모 석유 밀수 수사로 강력한 민병대 본거지 겨냥",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/video/newsfeed/2026/11/14/aje-onl-nf_iraq-pm-targets-militia-stronghold-in-oil-smuggling-141126?traffic_source=rss",
-   "at": "2026-11-14T23:34:37.000Z",
-   "ev": [],
-   "cc": [
-    "Iraq"
    ]
   }
  ]
