@@ -1,9 +1,9 @@
 {
- "updated": "2026-11-17T14:39:43.507Z",
+ "updated": "2026-11-17T22:40:18.763Z",
  "sources": {
   "BBC": {
    "ok": true,
-   "n": 6
+   "n": 10
   },
   "Al Jazeera": {
    "ok": true,
@@ -11,26 +11,568 @@
   },
   "The Guardian": {
    "ok": true,
-   "n": 16
+   "n": 15
   },
   "DW": {
    "ok": true,
-   "n": 2
+   "n": 5
   },
   "France 24": {
    "ok": true,
-   "n": 12
+   "n": 10
   },
   "UN News": {
    "ok": true,
-   "n": 3
+   "n": 5
   },
   "NPR": {
    "ok": true,
-   "n": 1
+   "n": 2
   }
  },
  "items": [
+  {
+   "id": "22ace48cde23",
+   "t": "ICE agents pepper spray pregnant US citizen in California, video shows",
+   "ko": "ICE 요원이 캘리포니아에 있는 임신한 미국 시민에게 후추 스프레이를 뿌리는 영상",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/us-news/2026/nov/16/ice-agents-pepper-spray-pregnant-california-citizen",
+   "at": "2026-11-17T22:24:46.000Z",
+   "ev": [],
+   "cc": [
+    "United States"
+   ]
+  },
+  {
+   "id": "4e3deff57ab2",
+   "t": "Trump nominates Chris LaNeve as army chief after Hegseth fired predecessor",
+   "ko": "트럼프, 헤그세스 전임자 해임 후 크리스 라네브를 육군 참모총장으로 지명",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/us-news/2026/nov/17/chris-laneve-army-chief-staff",
+   "at": "2026-11-17T21:55:40.000Z",
+   "ev": [],
+   "cc": [
+    "United States"
+   ]
+  },
+  {
+   "id": "6d887e6fa58b",
+   "t": "UK hands NATO-assigned US soldier accused of Russia spying to US military",
+   "ko": "영국, 러시아 스파이 혐의로 기소된 NATO 소속 미군을 미군에 인도",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/11/17/uk-hands-nato-assigned-us-soldier-accused-of-russia-spying-to-us-military?traffic_source=rss",
+   "at": "2026-11-17T21:35:24.000Z",
+   "ev": [],
+   "cc": [
+    "United Kingdom",
+    "United States",
+    "Russia"
+   ]
+  },
+  {
+   "id": "0bf4639870be",
+   "t": "US, Mexico and Bolivia lose measles-free status as deaths mount",
+   "ko": "미국, 멕시코, 볼리비아, 사망자 증가로 홍역 퇴치 자격 상실",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/americas/20261117-us-mexico-and-bolivia-lose-measles-free-status-as-deaths-mount",
+   "at": "2026-11-17T21:30:23.000Z",
+   "ev": [
+    "mexico"
+   ],
+   "cc": [
+    "United States",
+    "Mexico",
+    "Bolivia"
+   ]
+  },
+  {
+   "id": "623f8bca7332",
+   "t": "UK sanctions Israeli settlement firms to protect two-state solution",
+   "ko": "영국, 두 국가 해법 보호를 위해 이스라엘 결제 회사에 제재",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/video/newsfeed/2026/11/17/aje-onl-nf_uk-sanctions-eight-israeli-settlement-firms-171126?traffic_source=rss",
+   "at": "2026-11-17T21:28:31.000Z",
+   "ev": [
+    "westbank"
+   ],
+   "cc": [
+    "United Kingdom",
+    "Israel",
+    "Palestine"
+   ]
+  },
+  {
+   "id": "4b88ce23b69e",
+   "t": "Putin's Crimean Bridge partly collapses as Zelensky hails 'unprecedented' attack by Ukraine",
+   "ko": "젤렌스키 대통령이 우크라이나의 '전례 없는' 공격을 환영하면서 푸틴의 크림대교 부분 붕괴",
+   "src": "BBC",
+   "u": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss",
+   "at": "2026-11-17T21:24:35.000Z",
+   "ev": [
+    "ukraine"
+   ],
+   "cc": [
+    "Ukraine"
+   ]
+  },
+  {
+   "id": "d3de8fd97870",
+   "t": "Whistleblower: Deadly drone strike in Kuwait could’ve been avoided",
+   "ko": "내부 고발자: 쿠웨이트의 치명적인 드론 공격은 피할 수 있었습니다",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/11/17/whistleblower-deadly-drone-strike-in-kuwait-couldve-been-avoided?traffic_source=rss",
+   "at": "2026-11-17T21:14:31.000Z",
+   "ev": [],
+   "cc": [
+    "Kuwait",
+    "United States"
+   ]
+  },
+  {
+   "id": "64916d6055ce",
+   "t": "US loses measles elimination status after 26 years amid record case numbers",
+   "ko": "미국, 기록적인 사례로 인해 26년 만에 홍역 퇴치 자격 상실",
+   "src": "BBC",
+   "u": "https://www.bbc.co.uk/news/articles/c977p71jx0xxo?at_medium=RSS&at_campaign=rss",
+   "at": "2026-11-17T21:04:00.000Z",
+   "ev": [],
+   "cc": [
+    "United States"
+   ]
+  },
+  {
+   "id": "0ed54a8b0bc0",
+   "t": "US Navy chief says Iran war has put ‘strain’ on maritime forces",
+   "ko": "미 해군 참모총장 \"이란 전쟁이 해군에 '부담' 가중\"",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/11/17/us-navy-chief-says-iran-war-has-put-strain-on-maritime-forces?traffic_source=rss",
+   "at": "2026-11-17T20:57:56.000Z",
+   "ev": [
+    "iran"
+   ],
+   "cc": [
+    "United States",
+    "Iran"
+   ]
+  },
+  {
+   "id": "c07f218d12a7",
+   "t": "American soldier arrested by UK police on suspicion of spying taken into US military custody",
+   "ko": "영국 경찰에 체포된 미군 병사, 간첩 혐의로 미군 구금",
+   "src": "BBC",
+   "u": "https://www.bbc.co.uk/news/articles/c6x284ez38vdo?at_medium=RSS&at_campaign=rss",
+   "at": "2026-11-17T20:44:54.000Z",
+   "ev": [],
+   "cc": [
+    "United Kingdom",
+    "United States"
+   ]
+  },
+  {
+   "id": "40118936c683",
+   "t": "Hashim Thaci's second conviction in The Hague reignites debate in Kosovo about justice and the Kosovo Specialist Chambers",
+   "ko": "헤이그에서 하심 타치의 두 번째 유죄 판결은 코소보에서 정의와 코소보 전문가 회의소에 대한 논쟁을 다시 불러일으켰습니다.",
+   "src": "DW",
+   "u": "https://www.dw.com/en/hashim-thaci-s-second-conviction-in-the-hague-reignites-debate-in-kosovo-about-justice-and-the-kosovo-specialist-chambers/a-79975227?maca=en-rss-en-world-4025-rdf",
+   "at": "2026-11-17T20:40:00.000Z",
+   "ev": [],
+   "cc": [
+    "Kosovo"
+   ]
+  },
+  {
+   "id": "566598e1eca8",
+   "t": "American soldier held in UK suspected of spying for Russia taken into US military custody",
+   "ko": "영국에 억류된 러시아 스파이 혐의 미군 구금",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/uk-news/2026/nov/17/american-soldier-brandon-carroll-tyner-spying-us-military-custody",
+   "at": "2026-11-17T20:30:57.000Z",
+   "ev": [],
+   "cc": [
+    "United Kingdom",
+    "Russia",
+    "United States"
+   ]
+  },
+  {
+   "id": "43de0c327b0e",
+   "t": "Palestinian woman, 72, shot dead by Israeli settlers in West Bank, health ministry says",
+   "ko": "팔레스타인 여성 72세 서안지구서 이스라엘 정착민 총격 사망",
+   "src": "BBC",
+   "u": "https://www.bbc.co.uk/news/articles/cqrlg377638yo?at_medium=RSS&at_campaign=rss",
+   "at": "2026-11-17T20:30:20.000Z",
+   "ev": [
+    "westbank"
+   ],
+   "cc": [
+    "Palestine",
+    "Israel"
+   ]
+  },
+  {
+   "id": "9e50ee1c1a45",
+   "t": "Iran 'playing mind games with the United States', expert says",
+   "ko": "전문가 \"이란, 미국과 심리전 벌이고 있다\"",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/iran-playing-mind-games-with-the-united-states-expert-says",
+   "at": "2026-11-17T20:28:50.000Z",
+   "ev": [
+    "iran"
+   ],
+   "cc": [
+    "Iran",
+    "United States"
+   ]
+  },
+  {
+   "id": "399fd9cdcf1c",
+   "t": "Palestinian woman shot dead by Israeli settlers near Jericho, witnesses say",
+   "ko": "목격자들은 팔레스타인 여성이 예리코 근처에서 이스라엘 정착민의 총에 맞아 숨졌다고 말했습니다.",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/world/2026/nov/17/palestinian-woman-shot-dead-israeli-settlers-near-jericho-witnesses-say",
+   "at": "2026-11-17T20:21:48.000Z",
+   "ev": [
+    "westbank"
+   ],
+   "cc": [
+    "Palestine",
+    "Israel"
+   ]
+  },
+  {
+   "id": "873a904b57e5",
+   "t": "Milburn calls for tax cuts for businesses hiring young people despite union concerns",
+   "ko": "밀번, 노조 우려에도 불구하고 청년 고용 기업에 세금 감면 촉구",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/society/2026/nov/17/alan-milburn-tax-cuts-businesses-unions-neets-youth-unemployment",
+   "at": "2026-11-17T19:30:32.000Z",
+   "ev": [],
+   "cc": [
+    "United Kingdom"
+   ]
+  },
+  {
+   "id": "e70024e15fe7",
+   "t": "More than 100,000 take part in France pay protests",
+   "ko": "프랑스 임금 인상 시위에 10만명 이상 참여",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/11/17/more-than-100000-take-part-in-france-pay-protests?traffic_source=rss",
+   "at": "2026-11-17T19:09:49.000Z",
+   "ev": [],
+   "cc": [
+    "France"
+   ]
+  },
+  {
+   "id": "a1fc2b7a4056",
+   "t": "Israeli settler pogrom kills Palestinian woman, wounds 10 people",
+   "ko": "이스라엘 정착민 포그롬, 팔레스타인 여성 살해, 10명 부상",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/11/17/israeli-settler-pogrom-kills-palestinian-woman-wounds-10-people?traffic_source=rss",
+   "at": "2026-11-17T18:43:46.000Z",
+   "ev": [
+    "westbank"
+   ],
+   "cc": [
+    "Israel",
+    "Palestine"
+   ]
+  },
+  {
+   "id": "2ab58983706a",
+   "t": "Iran launches a third round of strikes on Bahrain, host of U.S. Navy's 5th Fleet",
+   "ko": "이란, 미 해군 5함대 주둔 바레인에 3차 공습 개시",
+   "src": "NPR",
+   "u": "https://www.npr.org/2026/11/17/nx-s1-6044255/us-iran-war-latest-bahrain",
+   "at": "2026-11-17T18:34:31.000Z",
+   "ev": [
+    "iran"
+   ],
+   "cc": [
+    "Iran",
+    "Bahrain",
+    "United States"
+   ]
+  },
+  {
+   "id": "f0d05cab03df",
+   "t": "Trump says US taking 'very seriously' any Iranian plot against Washington",
+   "ko": "트럼프 \"미국은 이란의 미국 반대 음모를 매우 심각하게 받아들인다\"",
+   "src": "BBC",
+   "u": "https://www.bbc.co.uk/news/articles/cq808vzd3nnpo?at_medium=RSS&at_campaign=rss",
+   "at": "2026-11-17T17:37:04.000Z",
+   "ev": [
+    "iran"
+   ],
+   "cc": [
+    "United States",
+    "Iran"
+   ]
+  },
+  {
+   "id": "9c55fa8f16bf",
+   "t": "How Ukraine struck the Kerch bridge, a symbol of Putin’s rule",
+   "ko": "우크라이나가 푸틴 통치의 상징인 케르치 다리를 공격한 방법",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/world/2026/nov/17/how-ukraine-struck-kerch-bridge-symbol-vladimir-putin-rule",
+   "at": "2026-11-17T17:30:40.000Z",
+   "ev": [
+    "ukraine"
+   ],
+   "cc": [
+    "Ukraine",
+    "Russia"
+   ]
+  },
+  {
+   "id": "9324b535bb91",
+   "t": "France: Protesters march for better salaries across the country",
+   "ko": "프랑스: 임금 인상을 요구하는 시위대가 전국적으로 행진하고 있습니다.",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/video/20261117-france-protesters-march-for-better-salaries-across-the-country",
+   "at": "2026-11-17T17:27:24.000Z",
+   "ev": [],
+   "cc": [
+    "France"
+   ]
+  },
+  {
+   "id": "1c08c3b317c4",
+   "t": "'It was really scary': Mother describes sheltering during Russia strikes on Kyiv bridge",
+   "ko": "'정말 무서웠어요': 어머니는 러시아가 키예프 다리를 공격하는 동안 대피소를 설명했습니다.",
+   "src": "BBC",
+   "u": "https://www.bbc.co.uk/news/articles/cq7825234lgmo?at_medium=RSS&at_campaign=rss",
+   "at": "2026-11-17T17:19:57.000Z",
+   "ev": [
+    "ukraine"
+   ],
+   "cc": [
+    "Russia",
+    "Ukraine"
+   ]
+  },
+  {
+   "id": "486e920ef184",
+   "t": "Costa Rican journalist shot dead in first such killing in 25 years",
+   "ko": "코스타리카 기자, 25년 만에 총격 사망",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/world/2026/nov/17/costa-rica-journalist-camilo-rodriguez-shot-dead",
+   "at": "2026-11-17T17:19:12.000Z",
+   "ev": [],
+   "cc": [
+    "Costa Rica"
+   ]
+  },
+  {
+   "id": "49445026e996",
+   "t": "Saudi Arabia: Rights groups raise alarm over rising number of executions",
+   "ko": "사우디아라비아: 인권단체, 사형집행 건수 증가에 경고",
+   "src": "DW",
+   "u": "https://www.dw.com/en/saudi-arabia-rights-groups-raise-alarm-over-rising-number-of-executions/a-79970773?maca=en-rss-en-world-4025-rdf",
+   "at": "2026-11-17T17:02:00.000Z",
+   "ev": [
+    "iran"
+   ],
+   "cc": [
+    "Saudi Arabia",
+    "Iran"
+   ]
+  },
+  {
+   "id": "d9f6d74fe11f",
+   "t": "‘They were keeping it for a rainy day’: Ukraine’s Kerch bridge attack is proof Kyiv still has cards to play",
+   "ko": "'그들은 비오는 날을 대비해 보관하고 있었습니다': 우크라이나의 케르치 교량 공격은 키예프가 아직 플레이할 카드가 있다는 증거입니다",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/world/2026/nov/17/ukraine-kerch-bridge-attack-russia-crimea-analysis",
+   "at": "2026-11-17T16:40:26.000Z",
+   "ev": [
+    "ukraine"
+   ],
+   "cc": [
+    "Ukraine",
+    "Russia"
+   ]
+  },
+  {
+   "id": "8cd3c59916c7",
+   "t": "Zelenskyy urges allies to send air defence deliveries without delay as Russia intensifies attacks – as it happened",
+   "ko": "Zelenskyy는 러시아가 공격을 강화함에 따라 동맹국에 지체없이 대공 방어 물품을 보낼 것을 촉구합니다.",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/world/live/2026/nov/17/europe-ukraine-russia-crimea-kerch-bridge-attack-latest-news-updates",
+   "at": "2026-11-17T16:40:21.000Z",
+   "ev": [
+    "ukraine"
+   ],
+   "cc": [
+    "Russia",
+    "Ukraine",
+    "France"
+   ]
+  },
+  {
+   "id": "99fc9b562cc7",
+   "t": "'A lot of anger and a weak government': Why are French public sector workers striking?",
+   "ko": "'분노는 많고 정부는 약하다': 프랑스 공공부문 노동자들은 왜 파업하는가?",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/video/20261117-a-lot-of-anger-and-a-weak-government-why-are-french-public-sector-workers-striking",
+   "at": "2026-11-17T16:34:48.000Z",
+   "ev": [],
+   "cc": [
+    "France"
+   ]
+  },
+  {
+   "id": "121b31b2e4de",
+   "t": "Latest cost-of-living protests bring more than 140,000 onto the streets across France",
+   "ko": "최근 생활비 시위로 인해 프랑스 전역에서 140,000명 이상이 거리로 모였습니다.",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/france/20261117-new-french-pay-protests-bring-tens-of-thousands-onto-the-streets",
+   "at": "2026-11-17T16:27:21.000Z",
+   "ev": [],
+   "cc": [
+    "France"
+   ]
+  },
+  {
+   "id": "f263454836d0",
+   "t": "Organisers hoping for 'joyful' demonstration as French public workers strike",
+   "ko": "프랑스 공무원 파업에 '즐거운' 시위를 바라는 주최측",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/video/20261117-organisers-hoping-for-joyful-demonstration-as-french-public-workers-strike",
+   "at": "2026-11-17T16:17:45.000Z",
+   "ev": [],
+   "cc": [
+    "France"
+   ]
+  },
+  {
+   "id": "59af207e6b43",
+   "t": "Trump claims US is ‘looking into’ Iranian bomb plot in Washington despite ‘no credible threats’",
+   "ko": "트럼프, “신뢰할 만한 위협 없음에도 불구하고 미국이 워싱턴에서 이란의 폭탄 테러 음모를 조사하고 있다”",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/world/2026/nov/17/trump-reported-iranian-plot-dirty-bomb-washington",
+   "at": "2026-11-17T16:03:34.000Z",
+   "ev": [
+    "iran"
+   ],
+   "cc": [
+    "United States",
+    "Iran"
+   ]
+  },
+  {
+   "id": "dae7348847ca",
+   "t": "BBC reports from Kyiv bridge hit by Russian attack",
+   "ko": "러시아의 공격으로 키예프 다리가 파손됐다는 BBC 보도",
+   "src": "BBC",
+   "u": "https://www.bbc.co.uk/news/videos/cmlywvww3pzlo?at_medium=RSS&at_campaign=rss",
+   "at": "2026-11-17T15:54:15.000Z",
+   "ev": [
+    "ukraine"
+   ],
+   "cc": [
+    "Russia"
+   ]
+  },
+  {
+   "id": "a9c4d7f30efc",
+   "t": "Trump says he takes possible Iran bomb threat to Washington 'very seriously'",
+   "ko": "트럼프 \"이란 폭탄 위협 가능성, 워싱턴에 매우 심각하게 받아들인다\"",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/americas/20261117-trump-says-he-takes-possible-iran-bomb-threat-to-washington-very-seriously",
+   "at": "2026-11-17T15:44:54.000Z",
+   "ev": [
+    "iran"
+   ],
+   "cc": [
+    "Iran",
+    "United States"
+   ]
+  },
+  {
+   "id": "49553a303fa5",
+   "t": "France hit by fresh nationwide public sector strike",
+   "ko": "프랑스, 전국적인 공공부문 파업으로 타격",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/video/20261117-france-hit-by-fresh-nationwide-public-sector-strike",
+   "at": "2026-11-17T15:43:01.000Z",
+   "ev": [],
+   "cc": [
+    "France"
+   ]
+  },
+  {
+   "id": "edd6f5b7f222",
+   "t": "Fresh clashes at the Eritrean border — is Ethiopia sliding into a regional war?",
+   "ko": "에리트레아 국경에서의 새로운 충돌 - 에티오피아가 지역 전쟁에 빠져들고 있습니까?",
+   "src": "DW",
+   "u": "https://www.dw.com/en/fresh-clashes-at-the-eritrean-border-is-ethiopia-sliding-into-a-regional-war/a-79970353?maca=en-rss-en-world-4025-rdf",
+   "at": "2026-11-17T15:43:00.000Z",
+   "ev": [
+    "sudan",
+    "ethiopia"
+   ],
+   "cc": [
+    "Ethiopia",
+    "Eritrea",
+    "Sudan"
+   ]
+  },
+  {
+   "id": "1fc541486538",
+   "t": "How the attack on Crimean Bridge unfolded",
+   "ko": "크리미안 다리 공격은 어떻게 전개됐나",
+   "src": "BBC",
+   "u": "https://www.bbc.co.uk/news/articles/crz9dgz28zwdo?at_medium=RSS&at_campaign=rss",
+   "at": "2026-11-17T15:38:10.000Z",
+   "ev": [
+    "ukraine"
+   ],
+   "cc": [
+    "Russia",
+    "Ukraine"
+   ]
+  },
+  {
+   "id": "9bcadc61b859",
+   "t": "Calls for cooperation as ASEAN summit awaits Trump",
+   "ko": "아세안(ASEAN) 정상회담이 트럼프를 기다리는 가운데 협력 촉구",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/video/20261117-calls-for-cooperation-as-asean-summit-awaits-trump",
+   "at": "2026-11-17T15:37:28.000Z",
+   "ev": [],
+   "cc": [
+    "Philippines",
+    "United States"
+   ]
+  },
+  {
+   "id": "caaebf18a66e",
+   "t": "Estonia closes its border with Russia but can it keep Moscow out?",
+   "ko": "에스토니아는 러시아와의 국경을 폐쇄했지만 모스크바를 막을 수 있을까요?",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/europe/20261117-estonia-closes-its-border-with-russia-but-can-it-keep-moscow-out",
+   "at": "2026-11-17T15:28:26.000Z",
+   "ev": [],
+   "cc": [
+    "Estonia",
+    "Russia"
+   ]
+  },
+  {
+   "id": "e5d9fce6ba25",
+   "t": "Iran dismisses report of alleged 'dirty bomb' attack on Washington",
+   "ko": "이란, 워싱턴에 대한 '더러운 폭탄' 공격 주장 보도 일축",
+   "src": "DW",
+   "u": "https://www.dw.com/en/iran-dismisses-report-of-alleged-dirty-bomb-attack-on-washington/a-79970741?maca=en-rss-en-world-4025-rdf",
+   "at": "2026-11-17T14:39:00.000Z",
+   "ev": [
+    "iran"
+   ],
+   "cc": [
+    "Iran"
+   ]
+  },
   {
    "id": "5df5cda1f6fb",
    "t": "Democrat Mary Peltola closes in on victory in closely watched US Senate race in Alaska – live",
@@ -56,22 +598,6 @@
    "cc": [
     "United States",
     "Puerto Rico"
-   ]
-  },
-  {
-   "id": "8cd3c59916c7",
-   "t": "Ukraine hails attack on vital Kerch bridge linking Russia and Crimea – Europe live",
-   "ko": "우크라이나, 러시아와 크리미아를 연결하는 중요한 케르치 다리에 대한 공격 환영 – 유럽 라이브",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/world/live/2026/nov/17/europe-ukraine-russia-crimea-kerch-bridge-attack-latest-news-updates",
-   "at": "2026-11-17T14:02:17.000Z",
-   "ev": [
-    "ukraine"
-   ],
-   "cc": [
-    "Ukraine",
-    "Russia",
-    "France"
    ]
   },
   {
@@ -114,35 +640,6 @@
    "ev": [],
    "cc": [
     "France"
-   ]
-  },
-  {
-   "id": "43de0c327b0e",
-   "t": "Palestinian woman, 72, shot dead by Israeli settlers in West Bank, health ministry says",
-   "ko": "팔레스타인 여성 72세 서안지구서 이스라엘 정착민 총격 사망",
-   "src": "BBC",
-   "u": "https://www.bbc.co.uk/news/articles/cqrlg377638yo?at_medium=RSS&at_campaign=rss",
-   "at": "2026-11-17T13:02:17.000Z",
-   "ev": [
-    "westbank"
-   ],
-   "cc": [
-    "Palestine",
-    "Israel"
-   ]
-  },
-  {
-   "id": "4b88ce23b69e",
-   "t": "Putin's Crimea bridge partly collapses as Zelensky hails 'unprecedented' attack by Ukraine",
-   "ko": "젤렌스키 대통령이 우크라이나의 '전례 없는' 공격을 환영하자 푸틴 대통령의 크림반도 다리 일부가 붕괴됐다.",
-   "src": "BBC",
-   "u": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss",
-   "at": "2026-11-17T13:01:11.000Z",
-   "ev": [
-    "ukraine"
-   ],
-   "cc": [
-    "Ukraine"
    ]
   },
   {
@@ -273,6 +770,35 @@
     "Ukraine",
     "Russia",
     "China"
+   ]
+  },
+  {
+   "id": "2855efbaea82",
+   "t": "Ukraine: Civilian casualties in 2026 already far exceed previous years’ tolls",
+   "ko": "우크라이나: 2026년 민간인 사상자 수는 이미 전년도 사망자 수를 훨씬 초과했습니다.",
+   "src": "UN News",
+   "u": "https://news.un.org/feed/view/en/story/2026/11/1168828",
+   "at": "2026-11-17T12:00:00.000Z",
+   "ev": [
+    "ukraine"
+   ],
+   "cc": [
+    "Ukraine",
+    "Russia"
+   ]
+  },
+  {
+   "id": "c0f996bc37a2",
+   "t": "Winter rains deepen Gaza crisis amid restricted access and aid cuts",
+   "ko": "제한된 접근과 구호 삭감으로 인해 겨울 비가 가자지구 위기를 심화시킵니다.",
+   "src": "UN News",
+   "u": "https://news.un.org/feed/view/en/story/2026/11/1168821",
+   "at": "2026-11-17T12:00:00.000Z",
+   "ev": [
+    "gaza"
+   ],
+   "cc": [
+    "Palestine"
    ]
   },
   {
@@ -1617,415 +2143,6 @@
    ],
    "cc": [
     "Mexico"
-   ]
-  },
-  {
-   "id": "ddaa095629ad",
-   "t": "Police ban protests near 10 schools and five universities in Paris",
-   "ko": "경찰, 파리 10개 학교와 5개 대학 인근 시위 금지",
-   "src": "BBC",
-   "u": "https://www.bbc.co.uk/news/articles/cqm2j0jvep4eo?at_medium=RSS&at_campaign=rss",
-   "at": "2026-11-15T22:28:54.000Z",
-   "ev": [],
-   "cc": []
-  },
-  {
-   "id": "ef2717616441",
-   "t": "Australia, UK, Canada and Italy urge Israel to allow critical aid to Gaza ahead of winter",
-   "ko": "호주, 영국, 캐나다, 이탈리아는 이스라엘에게 겨울이 오기 전에 가자 지구에 대한 중요한 지원을 허용할 것을 촉구합니다.",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/australia-news/2026/nov/16/australia-uk-canada-italy-urge-israel-critical-aid-gaza-winter-ntwnfb",
-   "at": "2026-11-15T22:28:02.000Z",
-   "ev": [
-    "gaza"
-   ],
-   "cc": [
-    "Australia",
-    "United Kingdom",
-    "Canada"
-   ]
-  },
-  {
-   "id": "e56b32999ec6",
-   "t": "Estonia to close all border crossings with Russia after attack on drone maker",
-   "ko": "에스토니아, 드론 제조사 공격 후 러시아와의 모든 국경 통과 폐쇄",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/world/2026/nov/15/estonia-to-close-all-border-crossings-with-russia-after-attack-on-drone-maker",
-   "at": "2026-11-15T22:17:09.000Z",
-   "ev": [
-    "ukraine"
-   ],
-   "cc": [
-    "Estonia",
-    "Russia",
-    "Ukraine"
-   ]
-  },
-  {
-   "id": "735bc3150eb4",
-   "t": "Australia, Canada, Italy and the UK urge Israel to allow aid into Gaza",
-   "ko": "호주, 캐나다, 이탈리아, 영국은 이스라엘에 가자 지구에 대한 지원을 허용할 것을 촉구합니다.",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/news/2026/11/15/australia-canada-italy-and-the-uk-urge-israel-to-allow-aid-into-gaza?traffic_source=rss",
-   "at": "2026-11-15T22:06:38.000Z",
-   "ev": [
-    "gaza"
-   ],
-   "cc": [
-    "Australia",
-    "Canada",
-    "Italy"
-   ]
-  },
-  {
-   "id": "17e4ee8ba1e7",
-   "t": "Canada bars Russia from Junior World Championships",
-   "ko": "캐나다는 주니어 세계 선수권 대회에서 러시아를 제지했습니다.",
-   "src": "BBC",
-   "u": "https://www.bbc.co.uk/sport/ice-hockey/articles/cqkgm0jgv4mdo?at_medium=RSS&at_campaign=rss",
-   "at": "2026-11-15T22:01:16.000Z",
-   "ev": [
-    "ukraine"
-   ],
-   "cc": [
-    "Canada",
-    "Russia",
-    "Ukraine"
-   ]
-  },
-  {
-   "id": "c66d5c11acd4",
-   "t": "Prince Harry tells Ukrainians they are ‘going to win war’ on surprise trip to Lviv",
-   "ko": "해리 왕자, 리비우 깜짝 방문…우크라이나인들에게 '전쟁에서 승리할 것'",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/uk-news/2026/nov/15/prince-harry-ukraine-war-surprise-trip-invictus-games",
-   "at": "2026-11-15T22:00:24.000Z",
-   "ev": [
-    "ukraine"
-   ],
-   "cc": [
-    "Ukraine",
-    "Russia"
-   ]
-  },
-  {
-   "id": "5b9aec90bcd5",
-   "t": "Prince Harry praises war veterans on surprise visit to Ukraine",
-   "ko": "해리왕자, 우크라이나 깜짝 방문 참전용사들 칭찬",
-   "src": "BBC",
-   "u": "https://www.bbc.co.uk/news/articles/c60evn992jq8o?at_medium=RSS&at_campaign=rss",
-   "at": "2026-11-15T22:00:13.000Z",
-   "ev": [
-    "ukraine"
-   ],
-   "cc": [
-    "Ukraine"
-   ]
-  },
-  {
-   "id": "fa08c44f5565",
-   "t": "Yemen’s Houthis unilaterally release 600 war detainees",
-   "ko": "예멘 후티 반군, 전쟁 억류자 600명 일방 석방",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/video/newsfeed/2026/11/15/yemens-houthis-unilaterally-release-600-war-detainees?traffic_source=rss",
-   "at": "2026-11-15T21:19:08.000Z",
-   "ev": [
-    "yemen"
-   ],
-   "cc": [
-    "Yemen"
-   ]
-  },
-  {
-   "id": "a35a0806b5dc",
-   "t": "Somali-American Uber driver brutally assaulted in alleged hate crime in Minnesota",
-   "ko": "미네소타주에서 소말리아계 미국인 우버 운전기사가 증오 범죄 혐의로 잔혹하게 폭행당했습니다.",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/us-news/2026/nov/15/somali-american-uber-driver-attack-minnesota",
-   "at": "2026-11-15T21:10:38.000Z",
-   "ev": [
-    "somalia"
-   ],
-   "cc": [
-    "Somalia"
-   ]
-  },
-  {
-   "id": "80dade9f7fc4",
-   "t": "Czechs rally against plan to switch funding of public media",
-   "ko": "체코인들은 공공 미디어에 대한 자금 지원을 전환하려는 계획에 반대 집회를 가졌습니다.",
-   "src": "BBC",
-   "u": "https://www.bbc.co.uk/news/articles/cm8e0knr7604o?at_medium=RSS&at_campaign=rss",
-   "at": "2026-11-15T21:03:40.000Z",
-   "ev": [],
-   "cc": []
-  },
-  {
-   "id": "5b6c76598929",
-   "t": "Who can force Israel to implement Gaza ceasefire deal?",
-   "ko": "누가 이스라엘에게 가자 휴전 협정을 이행하도록 강요할 수 있습니까?",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/video/inside-story/2026/11/15/who-can-force-israel-to-implement-gaza-ceasefire-deal?traffic_source=rss",
-   "at": "2026-11-15T20:37:43.000Z",
-   "ev": [
-    "gaza"
-   ],
-   "cc": [
-    "Israel",
-    "Palestine"
-   ]
-  },
-  {
-   "id": "5f695e82cc55",
-   "t": "Estonia to close border crossings with Russia after alleged arson attack",
-   "ko": "에스토니아, 방화 혐의로 러시아와의 국경 통과 폐쇄",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/video/newsfeed/2026/11/15/estonia-to-close-border-crossings-with-russia-after-alleged-arson-attack?traffic_source=rss",
-   "at": "2026-11-15T20:31:18.000Z",
-   "ev": [
-    "ukraine"
-   ],
-   "cc": [
-    "Estonia",
-    "Russia"
-   ]
-  },
-  {
-   "id": "7b78ef33dea0",
-   "t": "Jordan sentences three men to death over deadly church attack in Karak",
-   "ko": "요르단, 카라크 교회 공격으로 남성 3명에 사형 선고",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/video/newsfeed/2026/11/15/jordan-sentences-three-men-to-death-over-deadly-church-attack-in-karak?traffic_source=rss",
-   "at": "2026-11-15T20:12:38.000Z",
-   "ev": [],
-   "cc": [
-    "Jordan"
-   ]
-  },
-  {
-   "id": "a29c233ccd9a",
-   "t": "Zelensky urges US and Musk to lift Starlink restrictions and be on 'right side of history'",
-   "ko": "Zelensky는 미국과 Musk에게 Starlink 제한을 해제하고 '역사의 올바른 편'에 서도록 촉구",
-   "src": "BBC",
-   "u": "https://www.bbc.co.uk/news/articles/c6m25zg88k45o?at_medium=RSS&at_campaign=rss",
-   "at": "2026-11-15T19:32:39.000Z",
-   "ev": [
-    "ukraine"
-   ],
-   "cc": [
-    "United States",
-    "Ukraine",
-    "Russia"
-   ]
-  },
-  {
-   "id": "585f28a76967",
-   "t": "Yemen's Houthis advance on Aden as government forces retreat to defend their capital",
-   "ko": "정부군이 수도를 방어하기 위해 후퇴하는 동안 예멘 후티 반군이 아덴으로 진격",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/middle-east/20261115-yemen-houthis-advance-to-within-60-kilometres-of-aden-military-sources-say",
-   "at": "2026-11-15T19:28:54.000Z",
-   "ev": [
-    "yemen"
-   ],
-   "cc": [
-    "Yemen"
-   ]
-  },
-  {
-   "id": "2e46f56a0257",
-   "t": "Texas puts to death man who beheaded three children, hours after Oklahoma execution",
-   "ko": "오클라호마주에서 사형이 집행된 지 몇 시간 만에 텍사스주에서 세 자녀를 참수한 남성이 사형에 처해졌습니다.",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/us-news/2026/nov/15/texas-execution-john-allen-rubio-oklahoma-james-pavatt",
-   "at": "2026-11-15T19:27:24.000Z",
-   "ev": [
-    "mexico"
-   ],
-   "cc": [
-    "United States",
-    "Mexico"
-   ]
-  },
-  {
-   "id": "55f1d13cb7a9",
-   "t": "Pragues's fight for public TV - Why Renowned Presenter Will Leave Czech TV Over Reforms",
-   "ko": "공영 TV를 위한 프라하의 투쟁 - 유명 진행자가 개혁을 이유로 체코 TV를 떠나는 이유",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/tv-shows/spotlight/20261115-pragues-s-fight-for-public-tv-why-renowned-presenter-will-leave-czech-tv-over-reforms",
-   "at": "2026-11-15T19:13:35.000Z",
-   "ev": [],
-   "cc": [
-    "Czech Republic",
-    "France"
-   ]
-  },
-  {
-   "id": "b51e7d4c47d1",
-   "t": "Israeli drone filmed flying low outside homes in southern Lebanon",
-   "ko": "이스라엘 드론이 레바논 남부의 집 밖에서 낮게 비행하는 모습을 촬영했습니다.",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/video/newsfeed/2026/11/15/israeli-drone-filmed-flying-low-outside-homes-in-southern-lebanon?traffic_source=rss",
-   "at": "2026-11-15T19:02:21.000Z",
-   "ev": [
-    "lebanon"
-   ],
-   "cc": [
-    "Israel",
-    "Lebanon"
-   ]
-  },
-  {
-   "id": "31f9953a2058",
-   "t": "Senator-elect Scott Colom vows to ensure Trump follows through on his promises",
-   "ko": "스콧 콜롬 상원의원 당선인은 트럼프가 자신의 약속을 이행하도록 보장하겠다고 다짐했습니다.",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/us-news/2026/nov/15/scott-colom-mississippi-senate-trump",
-   "at": "2026-11-15T18:48:10.000Z",
-   "ev": [],
-   "cc": [
-    "United States"
-   ]
-  },
-  {
-   "id": "4457075b0ade",
-   "t": "Prince Harry in Ukraine meeting Invictus 2027 hopefuls",
-   "ko": "우크라이나의 해리 왕자가 Invictus 2027 희망자들을 만났습니다.",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/news/2026/11/15/prince-harry-in-ukraine-meeting-invictus-2027-hopefuls?traffic_source=rss",
-   "at": "2026-11-15T18:31:52.000Z",
-   "ev": [
-    "ukraine"
-   ],
-   "cc": [
-    "Ukraine"
-   ]
-  },
-  {
-   "id": "2b743f026fc3",
-   "t": "Iran launches drone attacks against US military base in Bahrain",
-   "ko": "이란, 바레인 미군기지에 드론 공격…",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/world/2026/nov/15/iran-launches-drone-attacks-against-us-military-base-in-bahrain",
-   "at": "2026-11-15T18:03:56.000Z",
-   "ev": [
-    "iran"
-   ],
-   "cc": [
-    "Iran",
-    "United States",
-    "Bahrain"
-   ]
-  },
-  {
-   "id": "a196be0119f8",
-   "t": "Estonia to close Russian border crossings after 'sabotage' attempt at drone factory",
-   "ko": "에스토니아, 드론 공장 '사보타주' 시도 후 러시아 국경 통과 폐쇄",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/europe/20261115-estonia-to-close-russian-border-crossings-after-sabotage-attempt-at-drone-factory",
-   "at": "2026-11-15T17:05:14.000Z",
-   "ev": [],
-   "cc": [
-    "Estonia",
-    "Russia"
-   ]
-  },
-  {
-   "id": "1502c73f362f",
-   "t": "Israel kills senior member of Hamas's military wing in Gaza strike",
-   "ko": "이스라엘, 가자지구 공습으로 하마스 군부 고위 간부 사살",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/middle-east/20261115-israel-kills-senior-member-of-hamas-s-military-wing-in-gaza-strike",
-   "at": "2026-11-15T16:41:48.000Z",
-   "ev": [
-    "gaza"
-   ],
-   "cc": [
-    "Israel",
-    "Palestine"
-   ]
-  },
-  {
-   "id": "12b449161b78",
-   "t": "Saudi Arabia, Qatar, Jordan, Egypt condemn Iranian attack on Bahrain - as it happened",
-   "ko": "사우디아라비아, 카타르, 요르단, 이집트는 이란의 바레인 공격을 규탄한다.",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/world/live/2026/nov/15/middle-east-crisis-live-iran-bahrain-strikes-gulf-donald-trump-us-israel-yemen-houthis",
-   "at": "2026-11-15T15:59:04.000Z",
-   "ev": [
-    "iran",
-    "yemen"
-   ],
-   "cc": [
-    "Saudi Arabia",
-    "Qatar",
-    "Jordan"
-   ]
-  },
-  {
-   "id": "ec6b2e790328",
-   "t": "Two planes collide on taxiway at Miami airport one day after national grounding",
-   "ko": "비행기 두 대가 접지 하루 만에 마이애미 공항 유도로에서 충돌했다.",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/us-news/2026/nov/15/miami-airport-planes-collide",
-   "at": "2026-11-15T15:40:04.000Z",
-   "ev": [],
-   "cc": []
-  },
-  {
-   "id": "283284338380",
-   "t": "Iran claims drone attack on US military base in Bahrain",
-   "ko": "이란, 바레인 미군기지 드론 공격 주장",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/iran-claims-drone-attack-on-us-military-base-in-bahrain",
-   "at": "2026-11-15T15:29:22.000Z",
-   "ev": [
-    "iran"
-   ],
-   "cc": [
-    "Iran",
-    "United States",
-    "Bahrain"
-   ]
-  },
-  {
-   "id": "e6c7e401883d",
-   "t": "Will Iraq’s oil smuggling crackdown disarm militias without a conflict?",
-   "ko": "이라크의 석유 밀수 단속으로 충돌 없이 민병대가 무장해제될 수 있을까요?",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/news/2026/11/15/will-iraqs-oil-smuggllng-crackdown-disarm-militias-without-a-conflict?traffic_source=rss",
-   "at": "2026-11-15T15:21:21.000Z",
-   "ev": [],
-   "cc": [
-    "Iraq"
-   ]
-  },
-  {
-   "id": "fb9303c76708",
-   "t": "How telecoms upgrade work sparked US flight chaos",
-   "ko": "통신 업그레이드 작업이 미국 항공 혼란을 촉발한 방법",
-   "src": "BBC",
-   "u": "https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo?at_medium=RSS&at_campaign=rss",
-   "at": "2026-11-15T14:57:15.000Z",
-   "ev": [],
-   "cc": [
-    "United States"
-   ]
-  },
-  {
-   "id": "9bd6c4b431f5",
-   "t": "Flames engulf Syrian refugee camp in eastern Lebanon",
-   "ko": "레바논 동부 시리아 난민캠프에 불길이 휩싸였습니다.",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/video/newsfeed/2026/11/15/flames-engulf-syrian-refugee-camp-in-eastern-lebanon?traffic_source=rss",
-   "at": "2026-11-15T14:55:40.000Z",
-   "ev": [
-    "lebanon",
-    "syria"
-   ],
-   "cc": [
-    "Syria",
-    "Lebanon"
    ]
   }
  ]
