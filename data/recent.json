@@ -1,145 +1,156 @@
 {
- "updated": "2026-11-17",
+ "updated": "2026-11-18",
  "news": {
   "ukraine": [
    {
-    "date": "2026-11-16",
-    "text": "The Crimean Bridge is struck by a Ukrainian kamikaze drone, damaging the structure and prompting Russian authorities to close vehicle traffic. The bridge is partially reopened later in the day.",
+    "date": "2026-11-17",
+    "text": "The Crimean Bridge is struck by Ukrainian drones for the second day in a row, killing two people and prompting Russian authorities to close vehicle traffic again. Open-source intelligence report that a section of the road bridge damaged yesterday has collapsed into the Kerch Strait.",
     "sources": [
      {
-      "t": "The Guardian",
-      "u": "https://www.theguardian.com/world/2026/nov/16/ukraine-drone-kerch-bridge-russia-occupied-crimea"
+      "t": "Reuters",
+      "u": "https://www.reuters.com/world/europe/ukraine-strikes-crimean-bridge-second-day-russia-pounds-kyiv-bridges-2026-11-17/"
      },
      {
-      "t": "BBC",
-      "u": "https://www.bbc.com/news/articles/ckx27v6dpjz0o"
+      "t": "Türkiye",
+      "u": "https://www.turkiyetoday.com/world/kerch-bridge-road-arch-reportedly-falls-into-sea-after-ukrainian-strikes-3232578"
      }
     ],
-    "ko": "크림 다리는 우크라이나 가미카제 드론에 의해 공격을 받아 구조물이 손상되고 러시아 당국은 차량 통행을 폐쇄했습니다. 다리는 이날 오후에 부분적으로 재개통됩니다."
+    "ko": "크림반도 다리가 이틀 연속 우크라이나 드론의 공격을 받아 2명이 사망하고 러시아 당국이 차량 통행을 다시 폐쇄했습니다. 공개 소스 정보 보고서에 따르면 어제 파손된 도로 교량의 한 부분이 케르치 해협으로 붕괴되었습니다."
    },
    {
-    "date": "2026-11-16",
-    "text": "Albanese signs on to Trump’s AI supply chain pact before leaders’ meeting at Quad summit",
-    "ko": "Albanese는 Quad 정상 회담에서 지도자 회의 전에 트럼프의 AI 공급망 협정에 서명",
-    "sources": [
-     {
-      "t": "The Guardian",
-      "u": "https://www.theguardian.com/australia-news/2026/nov/16/albanese-treads-tightrope-in-upcoming-trump-meeting-wanting-indo-pacific-engagement-and-end-to-iran-and-ukraine-wars"
-     }
-    ]
-   },
-   {
-    "date": "2026-11-16",
-    "text": "Should Ukraine trade Donbas for NATO membership?",
-    "ko": "우크라이나는 NATO 회원을 위해 Donbas를 거래해야 합니까?",
-    "sources": [
-     {
-      "t": "France 24",
-      "u": "https://www.france24.com/en/tv-shows/the-debate/20261116-should-ukraine-trade-donbas-for-nato-membership"
-     }
-    ]
-   },
-   {
-    "date": "2026-11-16",
-    "text": "What will Europe do next in Ukraine?",
-    "ko": "유럽은 우크라이나에서 다음에 무엇을 할 것인가?",
-    "sources": [
-     {
-      "t": "Al Jazeera",
-      "u": "https://www.aljazeera.com/video/inside-story/2026/11/16/what-will-europe-do-next-in-ukraine?traffic_source=rss"
-     }
-    ]
-   },
-   {
-    "date": "2026-11-16",
-    "text": "Russia's war on Ukraine: 'Americans want to have a deal whatever the cost for both Ukraine & Europe'",
-    "ko": "우크라이나에 대한 러시아의 전쟁: '미국인들은 우크라이나와 유럽 모두를 위한 어떤 대가를 치르더라도 협상을 원합니다'",
-    "sources": [
-     {
-      "t": "France 24",
-      "u": "https://www.france24.com/en/russia-s-war-on-ukraine-americans-want-to-have-a-deal-whatever-the-cost-for-both-ukraine-europe"
-     }
-    ]
-   },
-   {
-    "date": "2026-11-16",
-    "text": "French troops in Ukraine 'wouldn't be a surprise'",
-    "ko": "우크라이나 주둔 프랑스군 '놀랍지 않을 것'",
-    "sources": [
-     {
-      "t": "France 24",
-      "u": "https://www.france24.com/en/video/20261116-french-troops-in-ukraine-wouldn-t-be-a-surprise"
-     }
-    ]
-   },
-   {
-    "date": "2026-11-16",
-    "text": "Landmark Crimea bridge hit as Russia reports biggest Ukrainian drone attack of war",
-    "ko": "러시아가 전쟁 중 최대 규모의 우크라이나 드론 공격을 보고하면서 랜드마크 크리미아 다리가 타격을 입었습니다.",
+    "date": "2026-11-17",
+    "text": "Putin's Crimean Bridge partly collapses as Zelensky hails 'unprecedented' attack by Ukraine",
+    "ko": "젤렌스키 대통령이 우크라이나의 '전례 없는' 공격을 환영하면서 푸틴의 크림대교 부분 붕괴",
     "sources": [
      {
       "t": "BBC",
-      "u": "https://www.bbc.co.uk/news/articles/ckx27v6dpjz0o?at_medium=RSS&at_campaign=rss"
+      "u": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss"
      }
     ]
    },
    {
-    "date": "2026-11-16",
-    "text": "Estonia to close Russia border crossings after attempted drone factory arson attack",
-    "ko": "에스토니아, 드론 공장 방화 시도 후 러시아 국경 통과 폐쇄",
-    "sources": [
-     {
-      "t": "BBC",
-      "u": "https://www.bbc.co.uk/news/articles/cqp83nk673reo?at_medium=RSS&at_campaign=rss"
-     }
-    ]
-   },
-   {
-    "date": "2026-11-16",
-    "text": "Russian attacks kill three in Ukraine, EU accuses Moscow of prolonging war",
-    "ko": "러시아, 우크라이나 공격으로 3명 사망, EU는 모스크바가 전쟁을 연장하고 있다고 비난",
-    "sources": [
-     {
-      "t": "Al Jazeera",
-      "u": "https://www.aljazeera.com/news/2026/11/16/russian-attacks-kill-three-in-ukraine-eu-accuses-moscow-of-prolonging-war?traffic_source=rss"
-     }
-    ]
-   },
-   {
-    "date": "2026-11-16",
-    "text": "Ukraine hits Kerch bridge between Russia and occupied Crimea",
-    "ko": "우크라이나, 러시아와 크림 반도 사이 케르치 다리 충돌",
+    "date": "2026-11-17",
+    "text": "How Ukraine struck the Kerch bridge, a symbol of Putin’s rule",
+    "ko": "우크라이나가 푸틴 통치의 상징인 케르치 다리를 공격한 방법",
     "sources": [
      {
       "t": "The Guardian",
-      "u": "https://www.theguardian.com/world/2026/nov/16/ukraine-drone-kerch-bridge-russia-occupied-crimea"
+      "u": "https://www.theguardian.com/world/2026/nov/17/how-ukraine-struck-kerch-bridge-symbol-vladimir-putin-rule"
      }
     ]
    },
    {
-    "date": "2026-11-16",
-    "text": "Estonia to close Russian border crossings after attempted arson attack on drone ‌maker",
-    "ko": "에스토니아, 드론 제조사에 대한 방화 공격 시도 후 러시아 국경 통과 폐쇄",
+    "date": "2026-11-17",
+    "text": "'It was really scary': Mother describes sheltering during Russia strikes on Kyiv bridge",
+    "ko": "'정말 무서웠어요': 어머니는 러시아가 키예프 다리를 공격하는 동안 대피소를 설명했습니다.",
     "sources": [
      {
-      "t": "France 24",
-      "u": "https://www.france24.com/en/video/20261116-estonia-to-close-russian-border-crossings-after-attempted-arson-attack-on-drone-maker"
+      "t": "BBC",
+      "u": "https://www.bbc.co.uk/news/articles/cq7825234lgmo?at_medium=RSS&at_campaign=rss"
      }
     ]
    },
    {
-    "date": "2026-11-16",
-    "text": "Ukraine strikes Crimea bridge as Zelensky says Starshield caps helping Russian attacks",
-    "ko": "Zelensky가 Starshield 모자가 러시아 공격을 돕는다고 말하자 우크라이나는 크리미아 다리를 공격했습니다.",
+    "date": "2026-11-17",
+    "text": "‘They were keeping it for a rainy day’: Ukraine’s Kerch bridge attack is proof Kyiv still has cards to play",
+    "ko": "'그들은 비오는 날을 대비해 보관하고 있었습니다': 우크라이나의 케르치 교량 공격은 키예프가 아직 플레이할 카드가 있다는 증거입니다",
+    "sources": [
+     {
+      "t": "The Guardian",
+      "u": "https://www.theguardian.com/world/2026/nov/17/ukraine-kerch-bridge-attack-russia-crimea-analysis"
+     }
+    ]
+   },
+   {
+    "date": "2026-11-17",
+    "text": "Zelenskyy urges allies to send air defence deliveries without delay as Russia intensifies attacks – as it happened",
+    "ko": "Zelenskyy는 러시아가 공격을 강화함에 따라 동맹국에 지체없이 대공 방어 물품을 보낼 것을 촉구합니다.",
+    "sources": [
+     {
+      "t": "The Guardian",
+      "u": "https://www.theguardian.com/world/live/2026/nov/17/europe-ukraine-russia-crimea-kerch-bridge-attack-latest-news-updates"
+     }
+    ]
+   },
+   {
+    "date": "2026-11-17",
+    "text": "BBC reports from Kyiv bridge hit by Russian attack",
+    "ko": "러시아의 공격으로 키예프 다리가 파손됐다는 BBC 보도",
+    "sources": [
+     {
+      "t": "BBC",
+      "u": "https://www.bbc.co.uk/news/videos/cmlywvww3pzlo?at_medium=RSS&at_campaign=rss"
+     }
+    ]
+   },
+   {
+    "date": "2026-11-17",
+    "text": "How the attack on Crimean Bridge unfolded",
+    "ko": "크리미안 다리 공격은 어떻게 전개됐나",
+    "sources": [
+     {
+      "t": "BBC",
+      "u": "https://www.bbc.co.uk/news/articles/crz9dgz28zwdo?at_medium=RSS&at_campaign=rss"
+     }
+    ]
+   },
+   {
+    "date": "2026-11-17",
+    "text": "‘Unprecedented’ Ukraine attack on Crimean bridge",
+    "ko": "우크라이나, 크림대교 공격 '전례 없는'",
+    "sources": [
+     {
+      "t": "Al Jazeera",
+      "u": "https://www.aljazeera.com/video/newsfeed/2026/11/17/unprecedented-ukraine-attack-on-crimean-bridge?traffic_source=rss"
+     }
+    ]
+   },
+   {
+    "date": "2026-11-17",
+    "text": "Ukraine critically damages Kerch bridge linking occupied Crimea with Russia",
+    "ko": "우크라이나, 점령 중인 크림 반도와 러시아를 연결하는 케르치 다리를 심각한 손상",
+    "sources": [
+     {
+      "t": "The Guardian",
+      "u": "https://www.theguardian.com/world/2026/nov/17/ukraine-strikes-critical-damage-russia-kerch-bridge-crimea"
+     }
+    ]
+   },
+   {
+    "date": "2026-11-17",
+    "text": "Ukraine: Two bridges in Kyiv heavily damaged by Russian strikes",
+    "ko": "우크라이나: 러시아 공습으로 키예프 교량 2개 크게 파손",
     "sources": [
      {
       "t": "France 24",
-      "u": "https://www.france24.com/en/video/20261116-ukraine-strikes-crimea-bridge-as-zelensky-says-starshield-caps-helping-russian-attacks"
+      "u": "https://www.france24.com/en/video/20261117-ukraine-two-bridges-in-kyiv-heavily-damaged-by-russian-strikes"
+     }
+    ]
+   },
+   {
+    "date": "2026-11-17",
+    "text": "Ukraine strikes major Russian bridge in Crimea with drones and missiles",
+    "ko": "우크라이나, 드론과 미사일로 크림반도 러시아 주요 교량 공격",
+    "sources": [
+     {
+      "t": "France 24",
+      "u": "https://www.france24.com/en/video/20261117-ukraine-strikes-major-russian-bridge-in-crimea-with-drones-and-missiles"
      }
     ]
    }
   ],
   "sudan": [
+   {
+    "date": "2026-11-17",
+    "text": "Fresh clashes at the Eritrean border — is Ethiopia sliding into a regional war?",
+    "ko": "에리트레아 국경에서의 새로운 충돌 - 에티오피아가 지역 전쟁에 빠져들고 있습니까?",
+    "sources": [
+     {
+      "t": "DW",
+      "u": "https://www.dw.com/en/fresh-clashes-at-the-eritrean-border-is-ethiopia-sliding-into-a-regional-war/a-79970353?maca=en-rss-en-world-4025-rdf"
+     }
+    ]
+   },
    {
     "date": "2026-11-16",
     "text": "Sudanese army air attack kills 13 in western Sudan: Rights group",
@@ -260,154 +271,180 @@
       "u": "https://www.france24.com/en/tv-shows/eye-on-africa/20261111-boat-capsized-off-senegal-s-northwest-coast-leaving-39-dead"
      }
     ]
-   },
-   {
-    "date": "2026-11-11",
-    "text": "Real Madrid's Vinícius Jr sends surprise message to boy who lost his legs in Sudan's war",
-    "ko": "레알 마드리드의 비니시우스 주니어가 수단 내전에서 다리를 잃은 소년에게 깜짝 메시지를 보냈다.",
-    "sources": [
-     {
-      "t": "BBC",
-      "u": "https://www.bbc.co.uk/news/articles/cqm26mmpp2p1o?at_medium=RSS&at_campaign=rss"
-     }
-    ]
    }
   ],
   "iran": [
    {
-    "date": "2026-11-16",
-    "text": "Houthi rebel advance in Yemen may further destabilise global economy",
-    "ko": "후티 반군이 예멘에서 진격하면 세계 경제가 더욱 불안정해질 수 있다",
+    "date": "2026-11-17",
+    "text": "Bahrain's military intercepts a number of drones fired by Iran's Islamic Revolutionary Guard Corps (IRGC) at Sheikh Isa Air Base.",
     "sources": [
      {
-      "t": "BBC",
-      "u": "https://www.bbc.co.uk/news/articles/cmy97qperq9eo?at_medium=RSS&at_campaign=rss"
+      "t": "Le Monde",
+      "u": "https://www.lemonde.fr/en/international/article/2026/11/17/iran-claims-attack-on-us-base-in-bahrain_6782812_4.html"
      }
-    ]
+    ],
+    "ko": "바레인군이 셰이크 이사 공군기지에서 이란 이슬람혁명수비대(IRGC)가 발사한 드론 다수를 요격했다."
    },
    {
-    "date": "2026-11-16",
-    "text": "Third US aircraft carrier brings thousands more troops to Middle East",
-    "ko": "미국의 세 번째 항공모함이 중동에 수천 명의 병력을 추가 배치합니다.",
+    "date": "2026-11-17",
+    "text": "The United States Air Force conducts a series of at least six strikes on Qeshm Island. The IRGC shoots down a General Atomics MQ-9 Reaper drone south of the island.",
     "sources": [
      {
-      "t": "The Guardian",
-      "u": "https://www.theguardian.com/us-news/2026/nov/16/aircraft-middle-east-trump-military"
-     }
-    ]
-   },
-   {
-    "date": "2026-11-16",
-    "text": "Albanese signs on to Trump’s AI supply chain pact before leaders’ meeting at Quad summit",
-    "ko": "Albanese는 Quad 정상 회담에서 지도자 회의 전에 트럼프의 AI 공급망 협정에 서명",
-    "sources": [
+      "t": "News.am",
+      "u": "https://news.am/en/news/1075422"
+     },
      {
-      "t": "The Guardian",
-      "u": "https://www.theguardian.com/australia-news/2026/nov/16/albanese-treads-tightrope-in-upcoming-trump-meeting-wanting-indo-pacific-engagement-and-end-to-iran-and-ukraine-wars"
+      "t": "Le Monde",
+      "u": "https://www.lemonde.fr/en/international/article/2026/11/17/iran-claims-attack-on-us-base-in-bahrain_6782812_4.html"
      }
-    ]
+    ],
+    "ko": "미 공군은 Qeshm 섬에 대해 최소 6번의 일련의 공격을 실시합니다. IRGC는 섬 남쪽의 General Atomics MQ-9 Reaper 드론을 격추했습니다."
    },
    {
-    "date": "2026-11-16",
-    "text": "Iraq deploys army to stronghold of Iran-backed Kataib Hezbollah",
-    "ko": "이라크, 이란 지원 카타이브 헤즈볼라 거점에 군대 배치",
+    "date": "2026-11-17",
+    "text": "US Navy chief says Iran war has put ‘strain’ on maritime forces",
+    "ko": "미 해군 참모총장 \"이란 전쟁이 해군에 '부담' 가중\"",
     "sources": [
      {
       "t": "Al Jazeera",
-      "u": "https://www.aljazeera.com/news/2026/11/16/iran-deploys-army-to-stronghold-of-iran-backed-kataib-hezbollah?traffic_source=rss"
+      "u": "https://www.aljazeera.com/news/2026/11/17/us-navy-chief-says-iran-war-has-put-strain-on-maritime-forces?traffic_source=rss"
      }
     ]
    },
    {
-    "date": "2026-11-16",
-    "text": "Iran blocks UN nuclear site visits until war ends",
-    "ko": "이란, 전쟁이 끝날 때까지 유엔 핵시설 방문 차단",
+    "date": "2026-11-17",
+    "text": "Iran 'playing mind games with the United States', expert says",
+    "ko": "전문가 \"이란, 미국과 심리전 벌이고 있다\"",
     "sources": [
      {
       "t": "France 24",
-      "u": "https://www.france24.com/en/asia-pacific/20261116-iran-blocks-un-nuclear-site-visits-until-war-ends"
+      "u": "https://www.france24.com/en/iran-playing-mind-games-with-the-united-states-expert-says"
      }
     ]
    },
    {
-    "date": "2026-11-16",
-    "text": "USS Roosevelt arrives in Middle East: Is the US-Iran war about to resume?",
-    "ko": "USS 루즈벨트(USS Roosevelt) 중동 도착: 미-이란 전쟁이 곧 재개될 것인가?",
+    "date": "2026-11-17",
+    "text": "Iran launches a third round of strikes on Bahrain, host of U.S. Navy's 5th Fleet",
+    "ko": "이란, 미 해군 5함대 주둔 바레인에 3차 공습 개시",
     "sources": [
      {
-      "t": "Al Jazeera",
-      "u": "https://www.aljazeera.com/news/2026/11/16/uss-roosevelt-arrives-in-middle-east-is-the-us-iran-war-about-to-resume?traffic_source=rss"
+      "t": "NPR",
+      "u": "https://www.npr.org/2026/11/17/nx-s1-6044255/us-iran-war-latest-bahrain"
      }
     ]
    },
    {
-    "date": "2026-11-16",
-    "text": "Third US aircraft carrier arrives in Middle East amid tensions with Iran",
-    "ko": "미 세 번째 항공모함이 이란과의 긴장 속에서 중동에 도착했다.",
+    "date": "2026-11-17",
+    "text": "Trump says US taking 'very seriously' any Iranian plot against Washington",
+    "ko": "트럼프 \"미국은 이란의 미국 반대 음모를 매우 심각하게 받아들인다\"",
     "sources": [
      {
-      "t": "Al Jazeera",
-      "u": "https://www.aljazeera.com/video/newsfeed/2026/11/16/third-us-aircraft-carrier-arrives-in-middle-east-amid-tensions-with-iran?traffic_source=rss"
+      "t": "BBC",
+      "u": "https://www.bbc.co.uk/news/articles/cq808vzd3nnpo?at_medium=RSS&at_campaign=rss"
      }
     ]
    },
    {
-    "date": "2026-11-16",
-    "text": "Iran war live: Third US carrier arrives, Iran warns it could strike first",
-    "ko": "이란 전쟁 생중계: 세 번째 미국 항공모함 도착, 이란이 먼저 공격할 수 있다고 경고",
+    "date": "2026-11-17",
+    "text": "Saudi Arabia: Rights groups raise alarm over rising number of executions",
+    "ko": "사우디아라비아: 인권단체, 사형집행 건수 증가에 경고",
     "sources": [
      {
-      "t": "Al Jazeera",
-      "u": "https://www.aljazeera.com/news/liveblog/2026/11/16/iran-war-live-tehran-warns-it-may-strike-first-before-another-us-attack?traffic_source=rss"
+      "t": "DW",
+      "u": "https://www.dw.com/en/saudi-arabia-rights-groups-raise-alarm-over-rising-number-of-executions/a-79970773?maca=en-rss-en-world-4025-rdf"
      }
     ]
    },
    {
-    "date": "2026-11-15",
-    "text": "Iran war live: Saudi-led coalition strikes down 3 drones",
-    "ko": "이란 전쟁 생중계: 사우디 주도 연합군, 드론 3대 격추",
-    "sources": [
-     {
-      "t": "Al Jazeera",
-      "u": "https://www.aljazeera.com/news/liveblog/2026/11/15/iran-war-live-israel-vows-gaza-offensive-policy-despite-caretaker-status?traffic_source=rss"
-     }
-    ]
-   },
-   {
-    "date": "2026-11-15",
-    "text": "Iran's Islamic Revolutionary Guard Corps says that a supertanker carrying two million barrels of oil has sunk in the Strait of Hormuz after striking a mine.",
-    "sources": [
-     {
-      "t": "Arab News",
-      "u": "https://www.arabnews.com/middle-east/iran-says-supertanker-with-2-million-barrels-of-oil-sank-in-gulf-3012053"
-     }
-    ],
-    "ko": "이란 이슬람 혁명수비대는 200만 배럴의 원유를 싣고 있던 초대형 유조선이 호르무즈 해협에서 지뢰를 공격한 뒤 침몰했다고 밝혔습니다."
-   },
-   {
-    "date": "2026-11-15",
-    "text": "Iran launches drone attacks against US military base in Bahrain",
-    "ko": "이란, 바레인 미군기지에 드론 공격…",
+    "date": "2026-11-17",
+    "text": "Trump claims US is ‘looking into’ Iranian bomb plot in Washington despite ‘no credible threats’",
+    "ko": "트럼프, “신뢰할 만한 위협 없음에도 불구하고 미국이 워싱턴에서 이란의 폭탄 테러 음모를 조사하고 있다”",
     "sources": [
      {
       "t": "The Guardian",
-      "u": "https://www.theguardian.com/world/2026/nov/15/iran-launches-drone-attacks-against-us-military-base-in-bahrain"
+      "u": "https://www.theguardian.com/world/2026/nov/17/trump-reported-iranian-plot-dirty-bomb-washington"
      }
     ]
    },
    {
-    "date": "2026-11-15",
-    "text": "Saudi Arabia, Qatar, Jordan, Egypt condemn Iranian attack on Bahrain - as it happened",
-    "ko": "사우디아라비아, 카타르, 요르단, 이집트는 이란의 바레인 공격을 규탄한다.",
+    "date": "2026-11-17",
+    "text": "Trump says he takes possible Iran bomb threat to Washington 'very seriously'",
+    "ko": "트럼프 \"이란 폭탄 위협 가능성, 워싱턴에 매우 심각하게 받아들인다\"",
     "sources": [
      {
-      "t": "The Guardian",
-      "u": "https://www.theguardian.com/world/live/2026/nov/15/middle-east-crisis-live-iran-bahrain-strikes-gulf-donald-trump-us-israel-yemen-houthis"
+      "t": "France 24",
+      "u": "https://www.france24.com/en/americas/20261117-trump-says-he-takes-possible-iran-bomb-threat-to-washington-very-seriously"
+     }
+    ]
+   },
+   {
+    "date": "2026-11-17",
+    "text": "Iran dismisses report of alleged 'dirty bomb' attack on Washington",
+    "ko": "이란, 워싱턴에 대한 '더러운 폭탄' 공격 주장 보도 일축",
+    "sources": [
+     {
+      "t": "DW",
+      "u": "https://www.dw.com/en/iran-dismisses-report-of-alleged-dirty-bomb-attack-on-washington/a-79970741?maca=en-rss-en-world-4025-rdf"
+     }
+    ]
+   },
+   {
+    "date": "2026-11-17",
+    "text": "Iranians fear more civilian infrastructure could be targeted in new US war",
+    "ko": "이란, 미국의 새로운 전쟁에서 더 많은 민간 기반 시설이 표적이 될 수 있다고 우려",
+    "sources": [
+     {
+      "t": "Al Jazeera",
+      "u": "https://www.aljazeera.com/news/2026/11/17/iranians-fear-more-civilian-infrastructure-could-be-targeted-in-new-us-war?traffic_source=rss"
+     }
+    ]
+   },
+   {
+    "date": "2026-11-17",
+    "text": "Is the US-Israel war on Iran turning into a ‘frozen conflict’?",
+    "ko": "미국-이스라엘의 이란 전쟁이 '동결 갈등'으로 변하고 있는가?",
+    "sources": [
+     {
+      "t": "Al Jazeera",
+      "u": "https://www.aljazeera.com/news/2026/11/17/is-the-us-israel-war-on-iran-turning-into-a-frozen-conflict?traffic_source=rss"
      }
     ]
    }
   ],
   "yemen": [
+   {
+    "date": "2026-11-17",
+    "text": "Saudi Arabia replaces military commander after Yemen setbacks",
+    "ko": "사우디아라비아, 예멘의 패배 이후 군 사령관 교체",
+    "sources": [
+     {
+      "t": "France 24",
+      "u": "https://www.france24.com/en/video/20261117-saudi-arabia-replaces-military-commander-after-yemen-setbacks"
+     }
+    ]
+   },
+   {
+    "date": "2026-11-17",
+    "text": "Yemeni army reports 661 attacks on Houthis as group advances towards Aden",
+    "ko": "예멘군, 아덴으로 진군하는 동안 후티 반군에 대한 661차례 공격 보고",
+    "sources": [
+     {
+      "t": "Al Jazeera",
+      "u": "https://www.aljazeera.com/news/2026/11/17/yemen-army-reports-661-attacks-on-houthis-amid-houthi-push-towards-aden?traffic_source=rss"
+     }
+    ]
+   },
+   {
+    "date": "2026-11-16",
+    "text": "Iran war live: Houthis advance in Yemen as Vance rejects ‘forever war’",
+    "ko": "이란 전쟁 라이브: 밴스가 '영원한 전쟁'을 거부함에 따라 예멘에서 후티의 진격",
+    "sources": [
+     {
+      "t": "Al Jazeera",
+      "u": "https://www.aljazeera.com/news/liveblog/2026/11/16/live-houthis-advance-in-yemen-as-tankers-hit-sea-mines-in-strait-of-hormuz?traffic_source=rss"
+     }
+    ]
+   },
    {
     "date": "2026-11-16",
     "text": "Saudi Arabia's King Salman appoints Chairman of the General Staff Fayyadh Al Ruwaili as commander of the Saudi-led coalition in Yemen, following the retreat of Yemeni government forces from areas near the Bab al-Mandeb to Aden.",
@@ -506,42 +543,42 @@
       "u": "https://www.theguardian.com/world/live/2026/nov/15/middle-east-crisis-live-iran-bahrain-strikes-gulf-donald-trump-us-israel-yemen-houthis"
      }
     ]
-   },
-   {
-    "date": "2026-11-15",
-    "text": "Saudi-led coalition intercepts suspected Houthi missiles and drones",
-    "ko": "사우디 주도 연합군, 후티 반군 미사일과 드론으로 의심되는 요격",
-    "sources": [
-     {
-      "t": "Al Jazeera",
-      "u": "https://www.aljazeera.com/news/2026/11/15/saudi-led-coalition-intercepts-two-missiles-two-drones-in-riyadh?traffic_source=rss"
-     }
-    ]
-   },
-   {
-    "date": "2026-11-15",
-    "text": "Iran war live: Saudi-led coalition strikes down 3 drones",
-    "ko": "이란 전쟁 생중계: 사우디 주도 연합군, 드론 3대 격추",
-    "sources": [
-     {
-      "t": "Al Jazeera",
-      "u": "https://www.aljazeera.com/news/liveblog/2026/11/15/iran-war-live-israel-vows-gaza-offensive-policy-despite-caretaker-status?traffic_source=rss"
-     }
-    ]
-   },
-   {
-    "date": "2026-11-14",
-    "text": "Siege fuels disease fears in Yemen’s Taiz",
-    "ko": "예멘 타이즈의 포위 공격으로 질병 공포 증폭",
-    "sources": [
-     {
-      "t": "Al Jazeera",
-      "u": "https://www.aljazeera.com/news/2026/11/14/siege-fuels-disease-fears-in-yemens-besieged-taiz?traffic_source=rss"
-     }
-    ]
    }
   ],
   "gaza": [
+   {
+    "date": "2026-11-17",
+    "text": "Five Palestinians are killed, including a child, and others are injured in a series of Israeli airstrikes on various areas of the Gaza Strip, Palestine.",
+    "sources": [
+     {
+      "t": "AA",
+      "u": "https://www.aa.com.tr/en/middle-east/israeli-army-kills-palestinian-blows-up-homes-in-gaza-despite-ceasefire/4127526"
+     }
+    ],
+    "ko": "팔레스타인 가자지구 여러 지역에 대한 이스라엘의 잇따른 공습으로 어린이 1명을 포함해 5명의 팔레스타인인이 사망하고 다른 사람들이 부상을 입었습니다."
+   },
+   {
+    "date": "2026-11-17",
+    "text": "A 72-year-old Palestinian woman is killed and ten others are injured in an attack by Israeli settlers on Palestinian homes in the village of Ein ad-Duyuk at-Tahta west of Jericho in the occupied West Bank.",
+    "sources": [
+     {
+      "t": "Al Jazeera",
+      "u": "https://www.aljazeera.com/news/2026/11/17/israeli-settler-pogrom-kills-palestinian-woman-wounds-10-people"
+     }
+    ],
+    "ko": "서안 지구 예리코 서쪽 에인 아두유크 앳 타타 마을에 있는 팔레스타인 가옥을 이스라엘 정착민들이 공격해 72세 팔레스타인 여성이 사망하고 10명이 부상을 입었습니다."
+   },
+   {
+    "date": "2026-11-17",
+    "text": "Winter rains deepen Gaza crisis amid restricted access and aid cuts",
+    "ko": "제한된 접근과 구호 삭감으로 인해 겨울 비가 가자지구 위기를 심화시킵니다.",
+    "sources": [
+     {
+      "t": "UN News",
+      "u": "https://news.un.org/feed/view/en/story/2026/11/1168821"
+     }
+    ]
+   },
    {
     "date": "2026-11-16",
     "text": "Revealed: Israel uploaded millions of photos to Amazon’s facial recognition platform to track Palestinians",
@@ -638,39 +675,6 @@
      {
       "t": "BBC",
       "u": "https://www.bbc.co.uk/news/articles/cqrkg4r6mg7xo?at_medium=RSS&at_campaign=rss"
-     }
-    ]
-   },
-   {
-    "date": "2026-11-15",
-    "text": "Israeli air strike kills senior Hamas commander in Gaza",
-    "ko": "이스라엘 공습, 가자지구 하마스 고위사령관 사망",
-    "sources": [
-     {
-      "t": "Al Jazeera",
-      "u": "https://www.aljazeera.com/news/2026/11/15/israeli-air-strike-kills-senior-hamas-commander-in-gaza?traffic_source=rss"
-     }
-    ]
-   },
-   {
-    "date": "2026-11-14",
-    "text": "EU calls for immediate humanitarian access to Gaza",
-    "ko": "EU는 가자 지구에 대한 즉각적인 인도주의적 접근을 촉구합니다.",
-    "sources": [
-     {
-      "t": "Al Jazeera",
-      "u": "https://www.aljazeera.com/news/2026/11/14/eu-calls-for-immediate-humanitarian-access-to-gaza?traffic_source=rss"
-     }
-    ]
-   },
-   {
-    "date": "2026-11-13",
-    "text": "Former Hamas bodyguard convicted of Birmingham knife crime also wanted in Germany",
-    "ko": "버밍엄 칼부림 혐의로 유죄 판결을 받은 전직 하마스 경호원도 독일에서 수배 중",
-    "sources": [
-     {
-      "t": "The Guardian",
-      "u": "https://www.theguardian.com/uk-news/2026/nov/13/former-hamas-bodyguard-convicted-of-birmingham-knife-also-wanted-in-germany"
      }
     ]
    }
@@ -789,6 +793,72 @@
   ],
   "westbank": [
    {
+    "date": "2026-11-17",
+    "text": "British foreign secretary Ed Miliband announces that the United Kingdom will sanction eight companies involved in the construction of settlements in the occupied West Bank, as well as Tzav 9 for its role in blocking humanitarian aid to the Gaza Strip.",
+    "sources": [
+     {
+      "t": "AP",
+      "u": "https://apnews.com/article/britain-israel-sanctions-west-bank-construction-8e4de81ef0b6fdbf0fd5f687e95de163"
+     }
+    ],
+    "ko": "영국 외무장관 에드 밀리밴드(Ed Miliband)는 영국이 점령지 서안지구 정착촌 건설에 관여한 8개 기업과 가자지구에 대한 인도주의적 지원을 차단한 역할을 맡은 차브 9(Tzav 9)를 제재할 것이라고 발표했습니다."
+   },
+   {
+    "date": "2026-11-17",
+    "text": "UK sanctions Israeli settlement firms to protect two-state solution",
+    "ko": "영국, 두 국가 해법 보호를 위해 이스라엘 결제 회사에 제재",
+    "sources": [
+     {
+      "t": "Al Jazeera",
+      "u": "https://www.aljazeera.com/video/newsfeed/2026/11/17/aje-onl-nf_uk-sanctions-eight-israeli-settlement-firms-171126?traffic_source=rss"
+     }
+    ]
+   },
+   {
+    "date": "2026-11-17",
+    "text": "Palestinian woman, 72, shot dead by Israeli settlers in West Bank, health ministry says",
+    "ko": "팔레스타인 여성 72세 서안지구서 이스라엘 정착민 총격 사망",
+    "sources": [
+     {
+      "t": "BBC",
+      "u": "https://www.bbc.co.uk/news/articles/cqrlg377638yo?at_medium=RSS&at_campaign=rss"
+     }
+    ]
+   },
+   {
+    "date": "2026-11-17",
+    "text": "Palestinian woman shot dead by Israeli settlers near Jericho, witnesses say",
+    "ko": "목격자들은 팔레스타인 여성이 예리코 근처에서 이스라엘 정착민의 총에 맞아 숨졌다고 말했습니다.",
+    "sources": [
+     {
+      "t": "The Guardian",
+      "u": "https://www.theguardian.com/world/2026/nov/17/palestinian-woman-shot-dead-israeli-settlers-near-jericho-witnesses-say"
+     }
+    ]
+   },
+   {
+    "date": "2026-11-17",
+    "text": "Israeli settler pogrom kills Palestinian woman, wounds 10 people",
+    "ko": "이스라엘 정착민 포그롬, 팔레스타인 여성 살해, 10명 부상",
+    "sources": [
+     {
+      "t": "Al Jazeera",
+      "u": "https://www.aljazeera.com/news/2026/11/17/israeli-settler-pogrom-kills-palestinian-woman-wounds-10-people?traffic_source=rss"
+     }
+    ]
+   },
+   {
+    "date": "2026-11-17",
+    "text": "Gunfire erupts in occupied West Bank settler attack",
+    "ko": "점령된 서안지구 정착민 공격에 총격 발생",
+    "sources": [
+     {
+      "t": "Al Jazeera",
+      "u": "https://www.aljazeera.com/video/newsfeed/2026/11/17/gunfire-erupts-in-occupied-west-bank-settler-attack?traffic_source=rss"
+     }
+    ]
+   },
+   {
     "date": "2026-11-16",
     "text": "Israeli court upholds detention of Palestinian land activist Ghassan Najjar",
     "ko": "이스라엘 법원, 팔레스타인 토지 운동가 Ghassan Najjar의 구금을 유지",
@@ -851,72 +921,6 @@
      {
       "t": "France 24",
       "u": "https://www.france24.com/en/middle-east/20261112-israel-to-ban-far-left-french-politician-jean-luc-m%C3%A9lenchon-from-entry"
-     }
-    ]
-   },
-   {
-    "date": "2026-11-12",
-    "text": "‘Horrific crime’: Gaza doctor killed as Israel expands war on healthcare",
-    "ko": "'끔찍한 범죄': 이스라엘이 의료와의 전쟁을 확대하면서 가자 의사가 사망",
-    "sources": [
-     {
-      "t": "Al Jazeera",
-      "u": "https://www.aljazeera.com/news/2026/11/12/horrific-crime-gaza-doctor-killed-as-israel-expands-war-on-healthcare?traffic_source=rss"
-     }
-    ]
-   },
-   {
-    "date": "2026-11-11",
-    "text": "France turns back Israeli settler representative upon arrival in Paris",
-    "ko": "프랑스는 파리 도착 후 이스라엘 정착민 대표를 돌려보냈습니다.",
-    "sources": [
-     {
-      "t": "France 24",
-      "u": "https://www.france24.com/en/france/20261111-france-turns-back-israeli-settler-representative-upon-arrival-in-paris"
-     }
-    ]
-   },
-   {
-    "date": "2026-11-10",
-    "text": "West Bank: Palestinians and humanitarian worker, such as MSF, 'still facing movement restrictions'",
-    "ko": "서안지구: 팔레스타인인과 국경없는의사회 등 인도주의 활동가들은 '여전히 이동 제한을 받고 있다'",
-    "sources": [
-     {
-      "t": "France 24",
-      "u": "https://www.france24.com/en/video/20261110-west-bank-population-and-healthcare-actors-such-as-msf-still-facing-movement-restrictions"
-     }
-    ]
-   },
-   {
-    "date": "2026-11-10",
-    "text": "West Bank: Population and healthcare actors, such as MSF, 'still facing movement restrictions'",
-    "ko": "서안지구: 국경없는의사회 등 인구 및 의료 관계자들은 '여전히 이동 제한을 받고 있다'",
-    "sources": [
-     {
-      "t": "France 24",
-      "u": "https://www.france24.com/en/video/20261110-west-bank-population-and-healthcare-actors-such-as-msf-still-facing-movement-restrictions"
-     }
-    ]
-   },
-   {
-    "date": "2026-11-10",
-    "text": "Jerusalem Daily: 14-year-old killed in West Bank raid",
-    "ko": "예루살렘 데일리: 서안 지구 습격으로 14세 소년 사망",
-    "sources": [
-     {
-      "t": "Al Jazeera",
-      "u": "https://www.aljazeera.com/video/newsfeed/2026/11/10/jerusalem-daily-14-year-old-killed-in-west-bank-raid?traffic_source=rss"
-     }
-    ]
-   },
-   {
-    "date": "2026-11-10",
-    "text": "Israeli forces kill Palestinian boy in West Bank, health ministry says",
-    "ko": "이스라엘군, 서안지구에서 팔레스타인 소년 사살했다고 보건부 발표",
-    "sources": [
-     {
-      "t": "BBC",
-      "u": "https://www.bbc.co.uk/news/articles/cqpvgv318yyeo?at_medium=RSS&at_campaign=rss"
      }
     ]
    }
@@ -1417,6 +1421,28 @@
   ],
   "ethiopia": [
    {
+    "date": "2026-11-17",
+    "text": "Fresh clashes at the Eritrean border — is Ethiopia sliding into a regional war?",
+    "ko": "에리트레아 국경에서의 새로운 충돌 - 에티오피아가 지역 전쟁에 빠져들고 있습니까?",
+    "sources": [
+     {
+      "t": "DW",
+      "u": "https://www.dw.com/en/fresh-clashes-at-the-eritrean-border-is-ethiopia-sliding-into-a-regional-war/a-79970353?maca=en-rss-en-world-4025-rdf"
+     }
+    ]
+   },
+   {
+    "date": "2026-11-17",
+    "text": "Ethiopia Moyale clashes disrupt livelihoods as territorial dispute deepens",
+    "ko": "에티오피아 모얄레 충돌로 영토 분쟁이 심화되면서 생계가 중단되었습니다.",
+    "sources": [
+     {
+      "t": "Al Jazeera",
+      "u": "https://www.aljazeera.com/news/2026/11/17/ethiopia-moyale-clashes-disrupt-livelihoods-as-territorial-dispute-deepens?traffic_source=rss"
+     }
+    ]
+   },
+   {
     "date": "2026-11-15",
     "text": "Aid agencies struggle to help more than 50,000 Ethiopian refugees in Kenya",
     "ko": "구호단체들은 케냐에 있는 5만 명 이상의 에티오피아 난민들을 돕기 위해 고군분투하고 있습니다.",
@@ -1525,31 +1551,20 @@
       "u": "https://www.france24.com/en/nigeria-court-bars-opposition-candidate-two-months-before-election"
      }
     ]
-   },
-   {
-    "date": "2026-11-05",
-    "text": "Sudan accuses Ethiopia of allowing RSF drone launches from its territory",
-    "ko": "수단, 에티오피아가 자국 영토에서 RSF 드론 발사를 허용했다고 비난",
-    "sources": [
-     {
-      "t": "France 24",
-      "u": "https://www.france24.com/en/video/20261105-sudan-accuses-ethiopia-of-allowing-rsf-drone-launches-from-its-territory"
-     }
-    ]
-   },
-   {
-    "date": "2026-11-05",
-    "text": "Ethiopian families fleeing conflict face difficulties with food access",
-    "ko": "분쟁을 피해 탈출한 에티오피아 가족들은 식량 접근에 어려움을 겪고 있습니다.",
-    "sources": [
-     {
-      "t": "France 24",
-      "u": "https://www.france24.com/en/video/20261105-ethiopian-families-fleeing-conflict-face-difficulties-with-food-access"
-     }
-    ]
    }
   ],
   "sahel": [
+   {
+    "date": "2026-11-17",
+    "text": "Guinea jails 200 in wildcat gold mining crackdown",
+    "ko": "기니, 살쾡이 금광 채굴 단속으로 200명 투옥",
+    "sources": [
+     {
+      "t": "DW",
+      "u": "https://www.dw.com/en/guinea-jails-200-in-wildcat-gold-mining-crackdown/a-79968808?maca=en-rss-en-world-4025-rdf"
+     }
+    ]
+   },
    {
     "date": "2026-11-11",
     "text": "US warns Madagascar over growing military ties with Russia",
@@ -1743,6 +1758,17 @@
    }
   ],
   "somalia": [
+   {
+    "date": "2026-11-17",
+    "text": "Ethiopia Moyale clashes disrupt livelihoods as territorial dispute deepens",
+    "ko": "에티오피아 모얄레 충돌로 영토 분쟁이 심화되면서 생계가 중단되었습니다.",
+    "sources": [
+     {
+      "t": "Al Jazeera",
+      "u": "https://www.aljazeera.com/news/2026/11/17/ethiopia-moyale-clashes-disrupt-livelihoods-as-territorial-dispute-deepens?traffic_source=rss"
+     }
+    ]
+   },
    {
     "date": "2026-11-15",
     "text": "The African Union Support and Stabilization Mission in Somalia transfers control of five bases in Barawe, Lower Shabelle, to the Somali Armed Forces.",
@@ -2347,6 +2373,17 @@
   ],
   "mexico": [
    {
+    "date": "2026-11-17",
+    "text": "US, Mexico and Bolivia lose measles-free status as deaths mount",
+    "ko": "미국, 멕시코, 볼리비아, 사망자 증가로 홍역 퇴치 자격 상실",
+    "sources": [
+     {
+      "t": "France 24",
+      "u": "https://www.france24.com/en/americas/20261117-us-mexico-and-bolivia-lose-measles-free-status-as-deaths-mount"
+     }
+    ]
+   },
+   {
     "date": "2026-11-16",
     "text": "Five gunmen are killed after a shootout between criminal organizations in Chignahuapan, Puebla, Mexico.",
     "sources": [
@@ -2466,17 +2503,6 @@
       "u": "https://www.aljazeera.com/news/2026/11/12/bolivia-arrests-former-judge-on-suspicion-of-drug-trafficking?traffic_source=rss"
      }
     ]
-   },
-   {
-    "date": "2026-11-11",
-    "text": "Pentagon declares ‘total victory’ after House Republicans block effort to impeach Pete Hegseth – as it happened",
-    "ko": "미 국방부는 하원 공화당이 피트 헤그세스 탄핵 노력을 막은 후 '완전한 승리'를 선언했습니다.",
-    "sources": [
-     {
-      "t": "The Guardian",
-      "u": "https://www.theguardian.com/us-news/live/2026/nov/10/donald-trump-pete-hegseth-thomas-massie-republicans-iran-war-impeachment-midterms-latest-news-updates"
-     }
-    ]
    }
   ],
   "afpak": [
@@ -2548,6 +2574,28 @@
    }
   ],
   "mozambique": [
+   {
+    "date": "2026-11-17",
+    "text": "Mozambique opposition leader faces trial over deadly 2024 election unrest",
+    "ko": "모잠비크 야당 지도자, 치명적인 2024년 선거 불안으로 재판에 직면",
+    "sources": [
+     {
+      "t": "BBC",
+      "u": "https://www.bbc.co.uk/news/articles/crq5vl1l6z2po?at_medium=RSS&at_campaign=rss"
+     }
+    ]
+   },
+   {
+    "date": "2026-11-17",
+    "text": "Mozambique’s opposition leader stands trial over deadly 2024 protests",
+    "ko": "모잠비크 야당 지도자, 치명적인 2024년 시위에 대해 재판을 받다",
+    "sources": [
+     {
+      "t": "Al Jazeera",
+      "u": "https://www.aljazeera.com/news/2026/11/17/mozambiques-opposition-leader-stands-trial-over-deadly-2024-protests?traffic_source=rss"
+     }
+    ]
+   },
    {
     "date": "2026-11-03",
     "text": "World News in Brief: Children killed in Myanmar strike, new violence flares in Mozambique, an Internet affordability milestone",
