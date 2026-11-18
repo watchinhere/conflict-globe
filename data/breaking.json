@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T03:53:18.179Z",
+ "updated": "2026-11-18T12:46:59.431Z",
  "sources": {
   "BBC": {
    "ok": true,
@@ -23,14 +23,448 @@
   },
   "UN News": {
    "ok": true,
-   "n": 5
+   "n": 2
   },
   "NPR": {
    "ok": true,
-   "n": 2
+   "n": 3
   }
  },
  "items": [
+  {
+   "id": "92794bdb7e52",
+   "t": "Burnham and Badenoch clash over welfare cuts for young at PMQs – UK politics live",
+   "ko": "Burnham과 Badenoch는 PMQ에서 젊은이들을 위한 복지 삭감을 놓고 충돌합니다 – 영국 정치 라이브",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/politics/live/2026/nov/18/shabana-mahmood-andy-burnham-kemi-badenoch-pmqs-latest-news-updates",
+   "at": "2026-11-18T12:39:04.000Z",
+   "ev": [],
+   "cc": [
+    "United Kingdom"
+   ]
+  },
+  {
+   "id": "3d3e11350b5f",
+   "t": "Ukraine mourns mother, athlete and drone operator killed in Russian strike",
+   "ko": "우크라이나, 러시아 공습으로 사망한 어머니, 운동선수, 드론 조종사 애도",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/video/newsfeed/2026/11/18/ukraine-mourns-mother-athlete-and-drone-operator-killed-in-russian-strike?traffic_source=rss",
+   "at": "2026-11-18T12:27:40.000Z",
+   "ev": [
+    "ukraine"
+   ],
+   "cc": [
+    "Ukraine",
+    "Russia"
+   ]
+  },
+  {
+   "id": "d62a18977541",
+   "t": "ICJ to rule on Rohingya genocide case: What to expect",
+   "ko": "ICJ, 로힝야족 대량 학살 사건에 대한 판결: 예상되는 일",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/11/18/icj-to-rule-on-rohingya-genocide-case-what-to-expect?traffic_source=rss",
+   "at": "2026-11-18T12:11:47.000Z",
+   "ev": [
+    "myanmar",
+    "rohingya"
+   ],
+   "cc": [
+    "Gambia",
+    "Myanmar"
+   ]
+  },
+  {
+   "id": "70ddb4acd5c5",
+   "t": "Palestinians find refuge in ancient caves after Israel demolishes homes",
+   "ko": "이스라엘이 가옥을 철거한 후 팔레스타인인들은 고대 동굴에서 피난처를 찾았습니다.",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/features/2026/11/18/palestinians-find-refuge-in-ancient-caves-after-israel-demolish-homes?traffic_source=rss",
+   "at": "2026-11-18T12:04:21.000Z",
+   "ev": [
+    "westbank"
+   ],
+   "cc": [
+    "Israel",
+    "Palestine"
+   ]
+  },
+  {
+   "id": "04a2d02cd25f",
+   "t": "Key Hegseth adviser faces questions over ties to Israeli defense contractor and Saudi Arabia",
+   "ko": "Hegseth의 핵심 고문은 이스라엘 방산 계약자 및 사우디 아라비아와의 관계에 대한 질문에 직면",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/us-news/2026/nov/18/pete-hegseth-iran-war-pentagon",
+   "at": "2026-11-18T12:00:58.000Z",
+   "ev": [
+    "iran"
+   ],
+   "cc": [
+    "Israel",
+    "Saudi Arabia",
+    "United States"
+   ]
+  },
+  {
+   "id": "c84a640608d2",
+   "t": "Saudi coalition hits 60 Houthi military sites; Taiz sees ‘fierce battles’",
+   "ko": "사우디 연합군, 후티군 기지 60곳 공격; 타이즈는 '치열한 전투'를 본다",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/11/18/houthis-advance-on-aden-as-saudi-coalition-targets-military-sites?traffic_source=rss",
+   "at": "2026-11-18T11:57:09.000Z",
+   "ev": [
+    "yemen"
+   ],
+   "cc": [
+    "Saudi Arabia",
+    "Yemen"
+   ]
+  },
+  {
+   "id": "66db2917e43c",
+   "t": "Who would gain from carving up Pakistan’s provinces?",
+   "ko": "파키스탄의 지방을 분할하면 누가 이익을 얻을 것인가?",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/video/newsfeed/2026/11/18/11-16-hosted-pakistan-provinces-plan-explainer?traffic_source=rss",
+   "at": "2026-11-18T11:47:32.000Z",
+   "ev": [],
+   "cc": [
+    "Pakistan"
+   ]
+  },
+  {
+   "id": "67e42a76720d",
+   "t": "Trump arrives in China ahead of trilateral summit with Putin and Xi",
+   "ko": "트럼프, 푸틴·시진핑과 3자 정상회담 앞두고 중국 도착",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/video/20261118-trump-arrives-in-china-ahead-of-trilateral-summit-with-putin-and-xi",
+   "at": "2026-11-18T11:46:25.000Z",
+   "ev": [
+    "ukraine",
+    "iran"
+   ],
+   "cc": [
+    "China",
+    "Russia",
+    "Ukraine"
+   ]
+  },
+  {
+   "id": "231a189cb27a",
+   "t": "‘Zero’ evidence that recent cascade of tech outages are linked, says Rubio",
+   "ko": "Rubio는 최근 일련의 기술 중단이 연관되어 있다는 증거가 '0'이라고 말합니다.",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/us-news/2026/nov/18/zero-evidence-recent-tech-outages-linked-marco-rubio",
+   "at": "2026-11-18T11:35:36.000Z",
+   "ev": [],
+   "cc": [
+    "United States"
+   ]
+  },
+  {
+   "id": "2ffbc596fcf1",
+   "t": "Tim Hortons accused of sharing user data with firm linked to Israeli army",
+   "ko": "팀 호튼(Tim Hortons), 이스라엘 군대와 연계된 기업과 사용자 데이터 공유 혐의로 기소",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/11/18/tim-hortons-app-sharing-extensive-data-with-israeli-military-linked-firm?traffic_source=rss",
+   "at": "2026-11-18T11:30:34.000Z",
+   "ev": [],
+   "cc": [
+    "Israel"
+   ]
+  },
+  {
+   "id": "9071efc20a17",
+   "t": "Russia, China look to deepen ties at APEC as Trump arrives",
+   "ko": "러시아와 중국은 트럼프 대통령이 도착함에 따라 APEC에서 관계를 심화시킬 것으로 보인다",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/video/20261118-russia-china-look-to-deepen-ties-at-apec-as-trump-arrives",
+   "at": "2026-11-18T11:11:23.000Z",
+   "ev": [],
+   "cc": [
+    "Russia",
+    "China"
+   ]
+  },
+  {
+   "id": "cc65b3599b80",
+   "t": "Greetings from a Berlin square, where an artist's statue watches over children at play",
+   "ko": "예술가의 동상이 아이들이 노는 모습을 지켜보고 있는 베를린 광장에서 인사드립니다.",
+   "src": "NPR",
+   "u": "https://www.npr.org/2026/11/18/nx-s1-6043021/berlin-kollwitzplatz-statue",
+   "at": "2026-11-18T11:00:00.000Z",
+   "ev": [],
+   "cc": [
+    "Germany"
+   ]
+  },
+  {
+   "id": "a7a461ef4ab8",
+   "t": "Turkish pro-opposition broadcaster taken off air after police raid",
+   "ko": "터키 친야당 방송사, 경찰 급습 이후 방송 중단",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/video/20261118-turkish-pro-opposition-broadcaster-taken-off-air-after-police-raid",
+   "at": "2026-11-18T10:51:55.000Z",
+   "ev": [],
+   "cc": [
+    "Turkey"
+   ]
+  },
+  {
+   "id": "90172e33cef8",
+   "t": "Evacuations on the rise in eastern Ukraine as fighting intensifies",
+   "ko": "내전 격화로 우크라이나 동부 지역 대피자 증가",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/video/20261118-evacuations-on-the-rise-in-eastern-ukraine-as-fighting-intensifies",
+   "at": "2026-11-18T10:48:14.000Z",
+   "ev": [
+    "ukraine"
+   ],
+   "cc": [
+    "Ukraine"
+   ]
+  },
+  {
+   "id": "803a19202ec5",
+   "t": "US hits out at Ukraine's 'deep strikes' against Russia in rift with EU over war tactics",
+   "ko": "미국은 전쟁 전술을 두고 유럽연합과 갈등을 빚고 있는 러시아에 대한 우크라이나의 '심각한 공격'을 맹렬히 비난했습니다.",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/video/20261118-us-hits-out-at-ukraine-s-deep-strikes-against-russia-in-rift-with-eu-over-war-tactics",
+   "at": "2026-11-18T10:45:35.000Z",
+   "ev": [
+    "ukraine"
+   ],
+   "cc": [
+    "United States",
+    "Ukraine",
+    "Russia"
+   ]
+  },
+  {
+   "id": "fc7fba9e40d0",
+   "t": "EU proposes new €45 billion Ukraine loan to be repaid by Russia",
+   "ko": "EU, 러시아가 우크라이나에 450억 유로의 새로운 대출금을 상환할 것을 제안",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/europe/20261118-eu-proposes-new-%E2%82%AC45-billion-ukraine-loan-to-be-repaid-by-russia",
+   "at": "2026-11-18T10:42:58.000Z",
+   "ev": [
+    "ukraine"
+   ],
+   "cc": [
+    "Ukraine",
+    "Russia"
+   ]
+  },
+  {
+   "id": "dc7bcd92873e",
+   "t": "Why has an NYT report on Iran’s dams ignited fierce pushback?",
+   "ko": "이란의 댐에 대한 NYT의 보도가 거센 반발을 불러일으킨 이유는 무엇입니까?",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/11/18/why-has-an-nyt-report-on-irans-dams-ignited-fierce-pushback?traffic_source=rss",
+   "at": "2026-11-18T10:38:13.000Z",
+   "ev": [
+    "iran"
+   ],
+   "cc": [
+    "Iran"
+   ]
+  },
+  {
+   "id": "3d44534895bd",
+   "t": "Traumas of Sudan war lead to wave of drug addiction",
+   "ko": "수단 전쟁의 트라우마가 마약 중독의 물결로 이어진다",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/features/2026/11/18/traumas-of-sudan-war-is-seeing-a-wave-of-drug-addiction?traffic_source=rss",
+   "at": "2026-11-18T10:35:06.000Z",
+   "ev": [
+    "sudan"
+   ],
+   "cc": [
+    "Sudan"
+   ]
+  },
+  {
+   "id": "95931435819c",
+   "t": "UK inflation rises to 3.6% after petrol and diesel prices hit record high",
+   "ko": "휘발유와 경유 가격이 사상 최고치를 기록한 후 영국 인플레이션은 3.6%로 상승",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/business/2026/nov/18/uk-inflation-rises-energy-prices-iran-war-oil",
+   "at": "2026-11-18T10:14:26.000Z",
+   "ev": [
+    "iran"
+   ],
+   "cc": [
+    "United Kingdom",
+    "Iran"
+   ]
+  },
+  {
+   "id": "91cdbca7339f",
+   "t": "Trump says ‘taking seriously’ reports Iran planning Washington dirty-bomb attack",
+   "ko": "트럼프, 이란이 워싱턴에 더러운 폭탄 공격을 계획하고 있다고 보고 '진지하게 받아들인다'",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/video/20261118-trump-says-taking-seriously-reports-iran-planning-washington-dirty-bomb-attack",
+   "at": "2026-11-18T10:13:52.000Z",
+   "ev": [
+    "iran"
+   ],
+   "cc": [
+    "Iran",
+    "United States"
+   ]
+  },
+  {
+   "id": "2980a9b2ff54",
+   "t": "'All eyes on talks with Putin, Xi' as Trump arrives at APEC summit",
+   "ko": "트럼프, APEC 정상회담 참석…\"푸틴·시과의 대화에 모든 관심\"",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/video/20261118-all-eyes-on-talks-with-putin-xi-as-trump-arrives-at-apec-summit",
+   "at": "2026-11-18T10:09:10.000Z",
+   "ev": [
+    "ukraine",
+    "iran"
+   ],
+   "cc": [
+    "United States",
+    "China",
+    "Russia"
+   ]
+  },
+  {
+   "id": "a9cefeb13011",
+   "t": "Fears grow that US will impose sanctions on ICJ judges ahead of Myanmar genocide ruling",
+   "ko": "미국이 미얀마 집단학살 판결을 앞두고 ICJ 판사들에게 제재를 가할 것이라는 우려가 커지고 있습니다.",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/world/2026/nov/18/us-sanctions-icj-judges-myanmar-genocide-ruling-israel-gaza-court",
+   "at": "2026-11-18T09:58:28.000Z",
+   "ev": [
+    "myanmar",
+    "rohingya",
+    "gaza"
+   ],
+   "cc": [
+    "United States",
+    "Myanmar",
+    "Israel"
+   ]
+  },
+  {
+   "id": "36a1fb555f5f",
+   "t": "Putin to meet with Trump and Xi after Ukrainian attack on Russian bridge",
+   "ko": "푸틴, 우크라이나의 러시아 다리 공격 이후 트럼프·시과 만날 예정",
+   "src": "NPR",
+   "u": "https://www.npr.org/2026/11/18/nx-s1-6044242/putin-to-meet-with-trump-and-xi-after-ukrainian-attack-on-russian-bridge",
+   "at": "2026-11-18T09:43:28.000Z",
+   "ev": [
+    "ukraine"
+   ],
+   "cc": [
+    "Ukraine",
+    "Russia",
+    "China"
+   ]
+  },
+  {
+   "id": "f183011ed93e",
+   "t": "Piecemeal wars: A new kind of world war is already under way",
+   "ko": "단편적인 전쟁: 새로운 종류의 세계 대전이 이미 진행 중입니다.",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/opinions/2026/11/18/piecemeal-wars-a-new-kind-of-world-war-is-already-under-way?traffic_source=rss",
+   "at": "2026-11-18T09:31:18.000Z",
+   "ev": [],
+   "cc": []
+  },
+  {
+   "id": "c5f790c60fb0",
+   "t": "Photos: Thousands march in Haiti in support of Salvadoran troops",
+   "ko": "사진: 엘살바도르 군대를 지원하기 위해 아이티에서 수천 명의 행진",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/gallery/2026/11/18/photos-thousands-march-in-haiti-in-support-of-salvadoran-troops?traffic_source=rss",
+   "at": "2026-11-18T09:23:38.000Z",
+   "ev": [
+    "haiti"
+   ],
+   "cc": [
+    "Haiti",
+    "El Salvador"
+   ]
+  },
+  {
+   "id": "7f602e2f6454",
+   "t": "‘We want to go back’: Rohingya refugees pin hopes on ICJ genocide verdict",
+   "ko": "'우리는 돌아가고 싶다': 로힝야 난민, ICJ 대량 학살 판결에 희망 걸다",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/features/2026/11/18/we-want-to-go-back-rohingya-refugees-pin-hopes-on-icj-genocide-verdict?traffic_source=rss",
+   "at": "2026-11-18T08:55:40.000Z",
+   "ev": [
+    "rohingya"
+   ],
+   "cc": []
+  },
+  {
+   "id": "5fb3ae69e35e",
+   "t": "Haitians rally in celebration of El Salvador’s anti-gang troop deployment",
+   "ko": "엘살바도르의 갱단 진압군 배치를 축하하는 아이티인들의 집회",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/video/newsfeed/2026/11/18/haitians-rally-in-celebration-of-el-salvadors-anti-gang-troop-deployment?traffic_source=rss",
+   "at": "2026-11-18T08:53:15.000Z",
+   "ev": [
+    "haiti"
+   ],
+   "cc": [
+    "El Salvador"
+   ]
+  },
+  {
+   "id": "42ab3381fc32",
+   "t": "‘I didn’t notice his body being purple’: Byron Bay doula left newborn to inflate a jumping castle, court hears",
+   "ko": "'나는 그의 몸이 보라색인 것을 몰랐다': 바이런 베이 둘라는 신생아를 남겨두고 점핑 캐슬을 부풀렸다고 법원이 판결했다",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/australia-news/2026/nov/18/byron-bay-doula-left-newborn-to-inflate-jumping-castle-freebirth-inquest-ntwnfb",
+   "at": "2026-11-18T07:58:32.000Z",
+   "ev": [],
+   "cc": []
+  },
+  {
+   "id": "359045f8c4cf",
+   "t": "‘Devastating consequences’: One Nation plan to slash Australia’s refugee program denounced",
+   "ko": "'파괴적인 결과': 호주 난민 프로그램을 폐지하려는 원 네이션(One Nation) 계획 비난",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/australia-news/2026/nov/18/one-nation-refugee-intake-immigration-ntwnfb",
+   "at": "2026-11-18T05:11:31.000Z",
+   "ev": [],
+   "cc": [
+    "Australia"
+   ]
+  },
+  {
+   "id": "253d55efc987",
+   "t": "European Commission accused of sugarcoating figures to release funds to Egypt",
+   "ko": "유럽연합 집행위원회, 이집트에 자금을 제공하기 위해 수치를 설탕으로 코팅한 혐의로 기소",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/world/2026/nov/18/european-commission-accused-sugarcoating-figures-egypt-loans",
+   "at": "2026-11-18T05:00:32.000Z",
+   "ev": [
+    "gaza"
+   ],
+   "cc": [
+    "Egypt",
+    "Israel",
+    "Palestine"
+   ]
+  },
+  {
+   "id": "4fa1398afe3d",
+   "t": "Rubio says US not 'under systemic attack' after series of tech outages",
+   "ko": "루비오, 일련의 기술 중단 이후 미국이 '시스템적 공격을 받고 있지 않다'고 말함",
+   "src": "BBC",
+   "u": "https://www.bbc.co.uk/news/articles/crkgvxxwpwz2o?at_medium=RSS&at_campaign=rss",
+   "at": "2026-11-18T04:57:06.000Z",
+   "ev": [],
+   "cc": [
+    "United States"
+   ]
+  },
   {
    "id": "5dacdb624a84",
    "t": "Haitians rally behind Bukele as Salvadoran troops battle gangs",
@@ -134,18 +568,6 @@
    ],
    "cc": [
     "Democratic Republic of the Congo"
-   ]
-  },
-  {
-   "id": "359045f8c4cf",
-   "t": "One Nation says it would cut Australia’s refugee intake by 90% under ‘tough stance’",
-   "ko": "원 네이션(One Nation)은 '강경한 입장'에 따라 호주의 난민 수용을 90% 줄일 것이라고 밝혔습니다.",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/australia-news/2026/nov/18/one-nation-refugee-intake-immigration-ntwnfb",
-   "at": "2026-11-18T00:53:51.000Z",
-   "ev": [],
-   "cc": [
-    "Australia"
    ]
   },
   {
@@ -1810,411 +2232,6 @@
    "cc": [
     "Russia",
     "Ukraine"
-   ]
-  },
-  {
-   "id": "a05d3e856ef8",
-   "t": "Hundreds of thousands protest Czech government's media funding plan",
-   "ko": "수십만 명이 체코 정부의 미디어 자금 지원 계획에 항의",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/video/20261116-hundreds-of-thousands-protest-czech-government-s-media-funding-plan",
-   "at": "2026-11-16T13:09:59.000Z",
-   "ev": [],
-   "cc": []
-  },
-  {
-   "id": "9d990a16befd",
-   "t": "Ukraine hits Kerch bridge between Russia and occupied Crimea",
-   "ko": "우크라이나, 러시아와 크림 반도 사이 케르치 다리 충돌",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/world/2026/nov/16/ukraine-drone-kerch-bridge-russia-occupied-crimea",
-   "at": "2026-11-16T12:45:09.000Z",
-   "ev": [
-    "ukraine"
-   ],
-   "cc": [
-    "Ukraine",
-    "Russia"
-   ]
-  },
-  {
-   "id": "541742455b07",
-   "t": "Francophonie summit avoids 'major disaster' after clash over leadership",
-   "ko": "프랑코포니 정상회담, 지도부 충돌 후 '큰 재앙' 피하다",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/video/20261116-francophonie-summit-avoids-major-disaster-after-clash-over-leadership",
-   "at": "2026-11-16T12:13:08.000Z",
-   "ev": [
-    "drc"
-   ],
-   "cc": [
-    "France",
-    "Democratic Republic of the Congo",
-    "Rwanda"
-   ]
-  },
-  {
-   "id": "db6cded58baa",
-   "t": "Flying blind: inside the decline of the EPA’s chemical-detection plane",
-   "ko": "플라잉 블라인드: EPA의 화학 탐지 비행기 쇠퇴 내부",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/environment/2026/nov/16/epa-chemical-detection-plane",
-   "at": "2026-11-16T12:00:58.000Z",
-   "ev": [],
-   "cc": [
-    "United States"
-   ]
-  },
-  {
-   "id": "59ede4cedc21",
-   "t": "Lebanon leading the way in mental health support",
-   "ko": "정신 건강 지원 분야를 선도하는 레바논",
-   "src": "UN News",
-   "u": "https://news.un.org/feed/view/en/story/2026/11/1168818",
-   "at": "2026-11-16T12:00:00.000Z",
-   "ev": [
-    "lebanon"
-   ],
-   "cc": [
-    "Lebanon"
-   ]
-  },
-  {
-   "id": "8f70f0373fb4",
-   "t": "Syria: Progress ‘real’ but fragile, as remnants of war wreck young lives",
-   "ko": "시리아: 진보는 '현실적'이지만 취약합니다. 전쟁의 잔재가 젊은이들의 삶을 망가뜨리기 때문입니다.",
-   "src": "UN News",
-   "u": "https://news.un.org/feed/view/en/story/2026/11/1168814",
-   "at": "2026-11-16T12:00:00.000Z",
-   "ev": [
-    "syria"
-   ],
-   "cc": [
-    "Syria"
-   ]
-  },
-  {
-   "id": "556fea894aab",
-   "t": "Funding cuts raise risks of trafficking and exploitation for refugee children",
-   "ko": "자금 삭감으로 난민 아동 인신매매 및 착취 위험 높아져",
-   "src": "UN News",
-   "u": "https://news.un.org/feed/view/en/story/2026/11/1168811",
-   "at": "2026-11-16T12:00:00.000Z",
-   "ev": [],
-   "cc": []
-  },
-  {
-   "id": "3c4928b676b2",
-   "t": "Estonia to close Russian border crossings after attempted arson attack on drone ‌maker",
-   "ko": "에스토니아, 드론 제조사에 대한 방화 공격 시도 후 러시아 국경 통과 폐쇄",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/video/20261116-estonia-to-close-russian-border-crossings-after-attempted-arson-attack-on-drone-maker",
-   "at": "2026-11-16T11:43:54.000Z",
-   "ev": [
-    "ukraine"
-   ],
-   "cc": [
-    "Estonia",
-    "Russia"
-   ]
-  },
-  {
-   "id": "b733bba8e13d",
-   "t": "Yemen's Houthis advance on Aden as govt bolsters defences",
-   "ko": "정부가 방어력을 강화하자 예멘 후티 반군이 아덴으로 진격",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/video/20261116-yemen-s-houthis-advance-on-aden-as-govt-bolsters-defences",
-   "at": "2026-11-16T11:36:38.000Z",
-   "ev": [
-    "yemen"
-   ],
-   "cc": [
-    "Yemen"
-   ]
-  },
-  {
-   "id": "3a41398a039c",
-   "t": "As homes seized, Jericho’s Palestinian residents fear settler takeover",
-   "ko": "주택이 압수되자 예리코의 팔레스타인 주민들은 정착민의 장악을 두려워합니다.",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/news/2026/11/16/jerichos-palestinian-residents-lay-in-wait-of-an-israeli-settler-takeover?traffic_source=rss",
-   "at": "2026-11-16T11:23:43.000Z",
-   "ev": [
-    "westbank"
-   ],
-   "cc": [
-    "Palestine"
-   ]
-  },
-  {
-   "id": "4b2202df9e04",
-   "t": "Ukraine strikes Crimea bridge as Zelensky says Starshield caps helping Russian attacks",
-   "ko": "Zelensky가 Starshield 모자가 러시아 공격을 돕는다고 말하자 우크라이나는 크리미아 다리를 공격했습니다.",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/video/20261116-ukraine-strikes-crimea-bridge-as-zelensky-says-starshield-caps-helping-russian-attacks",
-   "at": "2026-11-16T11:18:47.000Z",
-   "ev": [
-    "ukraine"
-   ],
-   "cc": [
-    "Ukraine",
-    "Russia"
-   ]
-  },
-  {
-   "id": "7162fe110878",
-   "t": "Yemeni forces retreat to defend port city from Houthis",
-   "ko": "예멘군은 후티로부터 항구 도시를 방어하기 위해 후퇴한다",
-   "src": "BBC",
-   "u": "https://www.bbc.co.uk/news/articles/cqvg2xgyvnjpo?at_medium=RSS&at_campaign=rss",
-   "at": "2026-11-16T11:09:38.000Z",
-   "ev": [
-    "yemen"
-   ],
-   "cc": [
-    "Yemen"
-   ]
-  },
-  {
-   "id": "d686c1c7ce7a",
-   "t": "Revealed: Israel uploaded millions of photos to Amazon’s facial recognition platform to track Palestinians",
-   "ko": "공개: 이스라엘은 팔레스타인인을 추적하기 위해 아마존의 안면 인식 플랫폼에 수백만 장의 사진을 업로드했습니다.",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/world/2026/nov/16/israel-amazon-facial-recognition-palestinians",
-   "at": "2026-11-16T11:00:56.000Z",
-   "ev": [
-    "gaza"
-   ],
-   "cc": [
-    "Israel",
-    "Palestine",
-    "United States"
-   ]
-  },
-  {
-   "id": "745d5e7a5c50",
-   "t": "Two mass shootings in South Africa leave 17 dead",
-   "ko": "남아프리카공화국에서 두 차례 총격 사건이 발생해 17명이 사망했다.",
-   "src": "BBC",
-   "u": "https://www.bbc.co.uk/news/articles/c8y5x3n4kywpo?at_medium=RSS&at_campaign=rss",
-   "at": "2026-11-16T10:57:48.000Z",
-   "ev": [],
-   "cc": [
-    "South Africa"
-   ]
-  },
-  {
-   "id": "206a4d40733d",
-   "t": "Birth keeper told mother of baby who later died to ‘go home and rest’, NSW inquest hears",
-   "ko": "NSW 조사에서 산모가 나중에 사망한 아기의 어머니에게 '집에 가서 쉬라'고 말했다",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/australia-news/2026/nov/16/nsw-inquest-four-babies-freebirth-home-birth-northern-rivers-ntwnfb",
-   "at": "2026-11-16T10:41:38.000Z",
-   "ev": [],
-   "cc": []
-  },
-  {
-   "id": "1f769fc5f645",
-   "t": "Lebanon’s second airport could provide economic and political benefits",
-   "ko": "레바논의 두 번째 공항은 경제적, 정치적 이익을 제공할 수 있습니다",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/features/2026/11/16/lebanons-second-airport-could-provide-economic-and-political-benefits?traffic_source=rss",
-   "at": "2026-11-16T10:28:22.000Z",
-   "ev": [
-    "lebanon"
-   ],
-   "cc": [
-    "Lebanon"
-   ]
-  },
-  {
-   "id": "fa56287cab09",
-   "t": "Jordan bans Telegram app over 'radicalisation' claims",
-   "ko": "요르단, '급진화' 주장으로 텔레그램 앱 금지",
-   "src": "DW",
-   "u": "https://www.dw.com/en/jordan-bans-telegram-app-over-radicalisation-claims/a-79956706?maca=en-rss-en-world-4025-rdf",
-   "at": "2026-11-16T10:22:00.000Z",
-   "ev": [],
-   "cc": [
-    "Jordan",
-    "Iraq"
-   ]
-  },
-  {
-   "id": "866c571fc6c7",
-   "t": "Relocation of Cape Town baboons to sanctuary ignites heated protests",
-   "ko": "케이프타운 개코원숭이 보호구역으로 이주, 뜨거운 시위 촉발",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/world/2026/nov/16/cape-town-baboons-relocation-protests",
-   "at": "2026-11-16T10:19:08.000Z",
-   "ev": [],
-   "cc": []
-  },
-  {
-   "id": "26bb3d253964",
-   "t": "USS Roosevelt arrives in Middle East: Is the US-Iran war about to resume?",
-   "ko": "USS 루즈벨트(USS Roosevelt) 중동 도착: 미-이란 전쟁이 곧 재개될 것인가?",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/news/2026/11/16/uss-roosevelt-arrives-in-middle-east-is-the-us-iran-war-about-to-resume?traffic_source=rss",
-   "at": "2026-11-16T10:14:27.000Z",
-   "ev": [
-    "iran"
-   ],
-   "cc": [
-    "United States"
-   ]
-  },
-  {
-   "id": "44fa52e903c8",
-   "t": "Jordan bans Telegram over national security concerns",
-   "ko": "요르단, 국가안보 우려로 텔레그램 금지",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/news/2026/11/16/jordan-bans-telegram-messing-app-over-national-security-concerns?traffic_source=rss",
-   "at": "2026-11-16T10:12:28.000Z",
-   "ev": [],
-   "cc": [
-    "Jordan",
-    "Greece"
-   ]
-  },
-  {
-   "id": "376e33174d8e",
-   "t": "Verdict week in the Myanmar genocide case",
-   "ko": "미얀마 대량 학살 사건 판결 주간",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/tv-shows/press-review/20261116-verdict-week-in-the-myanmar-genocide-case",
-   "at": "2026-11-16T10:01:18.000Z",
-   "ev": [
-    "myanmar",
-    "rohingya"
-   ],
-   "cc": [
-    "Myanmar",
-    "France",
-    "Ireland"
-   ]
-  },
-  {
-   "id": "4a772042ac96",
-   "t": "Third US aircraft carrier arrives in Middle East amid tensions with Iran",
-   "ko": "미 세 번째 항공모함이 이란과의 긴장 속에서 중동에 도착했다.",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/video/newsfeed/2026/11/16/third-us-aircraft-carrier-arrives-in-middle-east-amid-tensions-with-iran?traffic_source=rss",
-   "at": "2026-11-16T09:31:36.000Z",
-   "ev": [
-    "iran"
-   ],
-   "cc": [
-    "United States",
-    "Iran"
-   ]
-  },
-  {
-   "id": "a50a2c56e09e",
-   "t": "UK and allies call on Israel to allow rapid humanitarian access to Gaza",
-   "ko": "영국과 동맹국, 이스라엘에 가자지구에 대한 신속한 인도주의적 접근 허용 촉구",
-   "src": "BBC",
-   "u": "https://www.bbc.co.uk/news/articles/cwm2mllj1pp8o?at_medium=RSS&at_campaign=rss",
-   "at": "2026-11-16T08:56:04.000Z",
-   "ev": [
-    "gaza"
-   ],
-   "cc": [
-    "United Kingdom",
-    "Israel",
-    "Palestine"
-   ]
-  },
-  {
-   "id": "d585484ac43e",
-   "t": "Ecuador’s president denies existence of US military base",
-   "ko": "에콰도르 대통령, 미군기지 존재 부인",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/news/2026/11/16/ecuadors-president-denies-us-has-military-base-in-country?traffic_source=rss",
-   "at": "2026-11-16T08:14:48.000Z",
-   "ev": [],
-   "cc": [
-    "Ecuador",
-    "United States"
-   ]
-  },
-  {
-   "id": "95498e833685",
-   "t": "Live: 600 Ukrainian drones target Moscow, Crimea bridge strike halts traffic",
-   "ko": "라이브: 600대의 우크라이나 드론이 모스크바를 목표로 하고, 크리미아 교량 공격으로 교통이 중단되었습니다.",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/europe/20261116-live-600-ukrainian-drones-target-moscow-strike-crimea-bridge-halts-traffic",
-   "at": "2026-11-16T06:52:27.000Z",
-   "ev": [
-    "ukraine"
-   ],
-   "cc": [
-    "Ukraine",
-    "Russia"
-   ]
-  },
-  {
-   "id": "5e2ee5839e26",
-   "t": "Monday briefing: The many stages of the UK-EU relationship – and what’s next",
-   "ko": "월요일 브리핑: 영국-EU 관계의 여러 단계와 다음 단계",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/world/2026/nov/16/monday-briefing-the-many-stages-of-the-uk-eu-relationship-and-whats-next",
-   "at": "2026-11-16T06:46:27.000Z",
-   "ev": [
-    "ukraine"
-   ],
-   "cc": [
-    "United Kingdom",
-    "Turkey",
-    "United States"
-   ]
-  },
-  {
-   "id": "396caf8bcd37",
-   "t": "Wife of assassinated ex-Haitian leader registers for presidential election",
-   "ko": "암살된 전 아이티 지도자 부인, 대선 출마",
-   "src": "BBC",
-   "u": "https://www.bbc.co.uk/news/articles/cmwy83432q1jo?at_medium=RSS&at_campaign=rss",
-   "at": "2026-11-16T05:06:59.000Z",
-   "ev": [
-    "haiti"
-   ],
-   "cc": [
-    "Haiti"
-   ]
-  },
-  {
-   "id": "2433ebd30507",
-   "t": "MP Helen Haines’s first words since leaving hospital after alleged attack led to double amputation",
-   "ko": "공격 혐의로 병원을 떠난 후 헬렌 헤인즈 의원의 첫 마디는 이중 절단으로 이어졌습니다.",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/australia-news/2026/nov/16/mp-helen-haines-out-of-hospital-after-attack-leg-amputation-ntwnfb",
-   "at": "2026-11-16T05:05:07.000Z",
-   "ev": [],
-   "cc": []
-  },
-  {
-   "id": "24020b21010e",
-   "t": "Will Spain’s snap election in November bring a far-right party into government?",
-   "ko": "11월 스페인의 임시 선거에서 극우 정당이 정부에 합류하게 될까요?",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/world/2026/nov/16/will-spains-snap-election-in-november-bring-a-far-right-party-into-government",
-   "at": "2026-11-16T05:00:33.000Z",
-   "ev": [],
-   "cc": [
-    "Spain"
-   ]
-  },
-  {
-   "id": "e5f18ed0c980",
-   "t": "Coles investigates cyber-attack and apologises to customers",
-   "ko": "콜스, 사이버 공격 조사하고 고객에게 사과",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/business/2026/nov/16/coles-cyber-attack-incident-data",
-   "at": "2026-11-16T04:04:37.000Z",
-   "ev": [],
-   "cc": [
-    "Australia"
    ]
   }
  ]
