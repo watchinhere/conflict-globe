@@ -1,36 +1,530 @@
 {
- "updated": "2026-11-18T12:46:59.431Z",
+ "updated": "2026-11-18T21:12:04.310Z",
  "sources": {
   "BBC": {
    "ok": true,
-   "n": 10
+   "n": 13
   },
   "Al Jazeera": {
    "ok": true,
-   "n": 12
+   "n": 11
   },
   "The Guardian": {
    "ok": true,
-   "n": 14
+   "n": 13
   },
   "DW": {
    "ok": true,
-   "n": 5
+   "n": 4
   },
   "France 24": {
    "ok": true,
-   "n": 8
+   "n": 11
   },
   "UN News": {
    "ok": true,
-   "n": 2
+   "n": 3
   },
   "NPR": {
    "ok": true,
-   "n": 3
+   "n": 2
   }
  },
  "items": [
+  {
+   "id": "6ccc664f8996",
+   "t": "US defence secretary announces military partnership on trip to Venezuela",
+   "ko": "미국 국방장관, 베네수엘라 방문 중 군사동맹 발표",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/11/18/us-defence-secretary-announces-military-partnership-on-trip-to-venezuela?traffic_source=rss",
+   "at": "2026-11-18T21:01:05.000Z",
+   "ev": [],
+   "cc": [
+    "United States",
+    "Venezuela"
+   ]
+  },
+  {
+   "id": "ee161c60c827",
+   "t": "What does Israel’s new ground offensive mean for Palestinians in Gaza?",
+   "ko": "이스라엘의 새로운 지상 공세는 가자지구의 팔레스타인인들에게 무엇을 의미합니까?",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/11/18/what-does-israels-new-ground-offensive-mean-for-palestinians-in-gaza?traffic_source=rss",
+   "at": "2026-11-18T20:38:06.000Z",
+   "ev": [
+    "gaza"
+   ],
+   "cc": [
+    "Israel",
+    "Palestine"
+   ]
+  },
+  {
+   "id": "0cdceb7a13dd",
+   "t": "Reconstruction begins at Limoges City Hall after devastating fire",
+   "ko": "엄청난 화재 이후 리모주 시청에서 재건이 시작됩니다",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/reconstruction-begins-at-limoges-city-hall-after-devastating-fire",
+   "at": "2026-11-18T20:31:40.000Z",
+   "ev": [],
+   "cc": [
+    "France"
+   ]
+  },
+  {
+   "id": "ee7b14dff891",
+   "t": "Hegseth uses Venezuela visit to boast of Maduro’s capture by US military",
+   "ko": "헤그세스는 베네수엘라 방문을 이용해 미군이 마두로를 체포했다고 자랑한다",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/world/2026/nov/18/pete-hegseth-venezuela-nicolas-maduro-military",
+   "at": "2026-11-18T20:24:19.000Z",
+   "ev": [],
+   "cc": [
+    "Venezuela",
+    "United States"
+   ]
+  },
+  {
+   "id": "c3261a1d086e",
+   "t": "Israeli military launches rare ground operation in Gaza beyond Yellow Line",
+   "ko": "이스라엘군, 옐로우라인 너머 가자지구에서 희귀 지상작전 개시",
+   "src": "BBC",
+   "u": "https://www.bbc.co.uk/news/articles/cw8r7510degno?at_medium=RSS&at_campaign=rss",
+   "at": "2026-11-18T20:14:57.000Z",
+   "ev": [
+    "gaza"
+   ],
+   "cc": [
+    "Israel",
+    "Palestine"
+   ]
+  },
+  {
+   "id": "207025939c65",
+   "t": "Trump and Putin to meet one-on-one in China Thursday",
+   "ko": "트럼프-푸틴, 목요일 중국에서 단독 회동",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/11/18/trump-and-putin-to-meet-one-on-one-in-china-thursday?traffic_source=rss",
+   "at": "2026-11-18T20:12:20.000Z",
+   "ev": [
+    "ukraine"
+   ],
+   "cc": [
+    "China",
+    "United States",
+    "Russia"
+   ]
+  },
+  {
+   "id": "55cee39d438a",
+   "t": "Shabana Mahmood backs ban on police marching in pride events in uniform",
+   "ko": "Shabana Mahmood는 경찰이 제복을 입고 프라이드 행사를 벌이는 것을 금지하는 것을 지지합니다.",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/politics/2026/nov/18/shabana-mahmood-backs-ban-on-police-marching-in-pride-events-in-uniform",
+   "at": "2026-11-18T20:03:50.000Z",
+   "ev": [],
+   "cc": []
+  },
+  {
+   "id": "8e9345fbc4a4",
+   "t": "Israeli army launches ground operation in Hamas-controlled area of Gaza",
+   "ko": "이스라엘군, 하마스 통제 가자지구 지상작전 개시",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/israeli-army-launches-ground-operation-in-hamas-controlled-area-of-gaza",
+   "at": "2026-11-18T19:55:15.000Z",
+   "ev": [
+    "gaza"
+   ],
+   "cc": [
+    "Israel",
+    "Palestine"
+   ]
+  },
+  {
+   "id": "e36132f88f19",
+   "t": "'Netanyahu's only 2 tickets are racism or starting a war: He stopped acting as a democratic player'",
+   "ko": "'네타냐후의 유일한 2가지 티켓은 인종차별 아니면 전쟁 시작이다: 그는 민주주의 선수로서의 행동을 멈췄다'",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/tv-shows/spotlight/20261118-netanyahu-s-only-2-tickets-are-racism-or-starting-a-war-he-stopped-acting-as-a-democratic-player",
+   "at": "2026-11-18T19:45:16.000Z",
+   "ev": [
+    "gaza"
+   ],
+   "cc": [
+    "Israel",
+    "Palestine"
+   ]
+  },
+  {
+   "id": "bae6869c851d",
+   "t": "Xi welcomes Trump: Does Nvidia scandal upend US-China AI race?",
+   "ko": "시, 트럼프 환영: 엔비디아 스캔들이 미중 AI 경쟁을 뒤흔들까?",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/tv-shows/the-debate/20261118-xi-welcomes-trump-does-nvidia-scandal-upend-us-china-ai-race",
+   "at": "2026-11-18T19:42:17.000Z",
+   "ev": [],
+   "cc": [
+    "United States",
+    "China",
+    "Singapore"
+   ]
+  },
+  {
+   "id": "bccb191ac878",
+   "t": "Four killed as Russian strikes hit Ukraine’s Odesa",
+   "ko": "러시아, 우크라이나 오데사 공습으로 4명 사망",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/video/newsfeed/2026/11/18/four-killed-as-russian-strikes-hit-ukraines-odesa?traffic_source=rss",
+   "at": "2026-11-18T19:31:31.000Z",
+   "ev": [
+    "ukraine"
+   ],
+   "cc": [
+    "Russia",
+    "Ukraine"
+   ]
+  },
+  {
+   "id": "a7dc8cc4ab00",
+   "t": "Israeli settler kills Palestinian grandmother in occupied West Bank",
+   "ko": "이스라엘 정착민, 서안지구 점령지 팔레스타인 할머니 살해",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/video/newsfeed/2026/11/18/israeli-settler-kills-palestinian-grandmother-in-occupied-west-bank?traffic_source=rss",
+   "at": "2026-11-18T19:27:42.000Z",
+   "ev": [
+    "westbank"
+   ],
+   "cc": [
+    "Israel",
+    "Palestine"
+   ]
+  },
+  {
+   "id": "b822906e6de8",
+   "t": "The leave campaign has been resurrected, so how should Burnham respond?",
+   "ko": "탈퇴 캠페인이 부활했는데, 번햄은 어떻게 대응해야 할까요?",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/politics/2026/nov/18/pro-brexit-stay-out-same-playbook-analysis",
+   "at": "2026-11-18T19:02:40.000Z",
+   "ev": [
+    "belgium"
+   ],
+   "cc": [
+    "France",
+    "United Kingdom"
+   ]
+  },
+  {
+   "id": "7512ebe45fae",
+   "t": "Israeli court extends Gaza doctor Abu Safia’s detention without charge",
+   "ko": "이스라엘 법원, 가자지구 의사 아부 사피아의 구금을 기소 없이 연장",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/11/18/israeli-court-extends-gaza-doctor-abu-safias-detention-without-charge?traffic_source=rss",
+   "at": "2026-11-18T18:22:26.000Z",
+   "ev": [
+    "gaza"
+   ],
+   "cc": [
+    "Israel",
+    "Palestine"
+   ]
+  },
+  {
+   "id": "fc6e6a6230eb",
+   "t": "Why Ukraine keeps trying to bring down Russia's bridge to Crimea",
+   "ko": "우크라이나가 크림 반도로 가는 러시아 다리를 계속 무너뜨리려고 하는 이유",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/europe/20261118-why-ukraine-keeps-trying-to-bring-down-russia-s-bridge-to-crimea",
+   "at": "2026-11-18T18:17:34.000Z",
+   "ev": [
+    "ukraine"
+   ],
+   "cc": [
+    "Ukraine",
+    "Russia"
+   ]
+  },
+  {
+   "id": "86dace6c33ac",
+   "t": "Israeli forces launch new military operation in central Gaza",
+   "ko": "이스라엘군, 가자지구 중심부에서 새로운 군사작전 시작",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/video/newsfeed/2026/11/18/israeli-forces-launch-new-military-operation-in-central-gaza?traffic_source=rss",
+   "at": "2026-11-18T18:12:42.000Z",
+   "ev": [
+    "gaza"
+   ],
+   "cc": [
+    "Israel",
+    "Palestine"
+   ]
+  },
+  {
+   "id": "0ee878b982eb",
+   "t": "What has happened to the $18bn pledged to Trump’s Board of Peace for Gaza?",
+   "ko": "트럼프가 가자지구 평화위원회에 약속한 180억 달러는 어떻게 됐나요?",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/11/18/what-has-happened-to-the-18bn-pledged-to-trumps-board-of-peace-for-gaza?traffic_source=rss",
+   "at": "2026-11-18T17:45:09.000Z",
+   "ev": [
+    "gaza"
+   ],
+   "cc": [
+    "Palestine",
+    "Israel"
+   ]
+  },
+  {
+   "id": "c73c048e2de0",
+   "t": "Inside the old gas pipeline where Ukraine is fighting an underground war with Russia",
+   "ko": "우크라이나가 러시아와 지하 전쟁을 벌이고 있는 오래된 가스 파이프라인 내부",
+   "src": "BBC",
+   "u": "https://www.bbc.co.uk/news/videos/c8p3vw4q6nzzo?at_medium=RSS&at_campaign=rss",
+   "at": "2026-11-18T17:00:40.000Z",
+   "ev": [
+    "ukraine"
+   ],
+   "cc": [
+    "Ukraine",
+    "Russia"
+   ]
+  },
+  {
+   "id": "40b5659e8a61",
+   "t": "'The drones don't fly here' - BBC reports from Ukraine's new front line",
+   "ko": "'드론은 여기서 날지 않는다' - BBC는 우크라이나의 새로운 최전선에서 보도했다.",
+   "src": "BBC",
+   "u": "https://www.bbc.co.uk/news/articles/c32l507ev4v4o?at_medium=RSS&at_campaign=rss",
+   "at": "2026-11-18T17:00:04.000Z",
+   "ev": [
+    "ukraine"
+   ],
+   "cc": [
+    "Ukraine",
+    "Russia"
+   ]
+  },
+  {
+   "id": "2dc489ec5e85",
+   "t": "War in Ukraine: Is France in direct conflict with Russia?",
+   "ko": "우크라이나 전쟁: 프랑스는 러시아와 직접 충돌하고 있는가?",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/video/20261118-war-in-ukraine-is-france-in-direct-conflict-with-russia",
+   "at": "2026-11-18T16:57:36.000Z",
+   "ev": [
+    "ukraine"
+   ],
+   "cc": [
+    "Ukraine",
+    "France",
+    "Russia"
+   ]
+  },
+  {
+   "id": "725f3be025eb",
+   "t": "Kuwait, Bahrain face new Iran attacks after US strike on Qeshm Island",
+   "ko": "쿠웨이트, 바레인, 미국의 케심 섬 공격 이후 이란의 새로운 공격에 직면",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/11/18/kuwait-bahrain-face-new-iran-attacks-after-us-strike-on-qeshm-island?traffic_source=rss",
+   "at": "2026-11-18T16:47:26.000Z",
+   "ev": [
+    "iran"
+   ],
+   "cc": [
+    "Kuwait",
+    "Bahrain",
+    "Iran"
+   ]
+  },
+  {
+   "id": "9d29e3bcc686",
+   "t": "World Bank official says Lebanon reconstruction making slow progress",
+   "ko": "세계은행 관계자는 레바논 재건이 느리게 진행되고 있다고 말했습니다.",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/11/18/world-bank-official-says-lebanon-reconstruction-making-slow-progress?traffic_source=rss",
+   "at": "2026-11-18T16:44:59.000Z",
+   "ev": [
+    "lebanon"
+   ],
+   "cc": [
+    "Lebanon",
+    "Israel"
+   ]
+  },
+  {
+   "id": "5bff79f98768",
+   "t": "Jerusalem Daily: Chaos in the Knesset as new speaker elected",
+   "ko": "예루살렘 데일리(Jerusalem Daily): 새 의장으로 선출된 크네세트의 혼란",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/video/newsfeed/2026/11/18/jerusalem-daily-chaos-in-the-knesset-as-new-speaker-elected?traffic_source=rss",
+   "at": "2026-11-18T16:28:54.000Z",
+   "ev": [
+    "westbank"
+   ],
+   "cc": [
+    "Israel"
+   ]
+  },
+  {
+   "id": "0fdad81994d8",
+   "t": "Russia’s new low-cost munitions pose a fresh threat to Ukraine",
+   "ko": "러시아의 새로운 저가 군수품이 우크라이나에 새로운 위협이 되고 있다",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/europe/20261118-russia-new-low-cost-munitions-threat-ukraine",
+   "at": "2026-11-18T16:19:08.000Z",
+   "ev": [
+    "ukraine"
+   ],
+   "cc": [
+    "Russia",
+    "Ukraine"
+   ]
+  },
+  {
+   "id": "1b1349778334",
+   "t": "Israel begins new military operation in Gaza",
+   "ko": "이스라엘, 가자지구에서 새로운 군사작전 시작",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/video/20261118-israel-begins-new-military-operation-in-gaza",
+   "at": "2026-11-18T16:12:30.000Z",
+   "ev": [
+    "gaza"
+   ],
+   "cc": [
+    "Israel",
+    "Palestine"
+   ]
+  },
+  {
+   "id": "cf9062f00bc8",
+   "t": "Gazans flee shelters as Israeli army launches ground operation beyond Yellow Line",
+   "ko": "이스라엘군이 옐로우라인(Yellow Line) 너머 지상작전을 시작하자 가자 주민들은 대피소를 탈출한다.",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/middle-east/20261118-gazans-flee-shelters-as-israeli-army-launches-ground-operation-beyond-yellow-line",
+   "at": "2026-11-18T16:03:21.000Z",
+   "ev": [
+    "gaza"
+   ],
+   "cc": [
+    "Israel",
+    "Palestine"
+   ]
+  },
+  {
+   "id": "15fdb93f14c9",
+   "t": "Parents jailed for torture and death of four-year-old girl found along French motorway in 1987",
+   "ko": "1987년 프랑스 고속도로에서 4세 여아를 고문하고 살해한 부모가 투옥됐다.",
+   "src": "BBC",
+   "u": "https://www.bbc.co.uk/news/articles/c6lyw490z14jo?at_medium=RSS&at_campaign=rss",
+   "at": "2026-11-18T15:39:57.000Z",
+   "ev": [],
+   "cc": [
+    "France"
+   ]
+  },
+  {
+   "id": "9458e9be620e",
+   "t": "Anthony Albanese defies critics for Apec summit photo with Vladimir Putin",
+   "ko": "Anthony Albanese는 Vladimir Putin과의 Apec 정상 회담 사진에 대한 비판을 무시합니다.",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/australia-news/2026/nov/18/anthony-albanese-defies-critics-for-apec-summit-photo-with-vladimir-putin",
+   "at": "2026-11-18T15:39:11.000Z",
+   "ev": [
+    "ukraine"
+   ],
+   "cc": [
+    "China",
+    "Australia",
+    "Ukraine"
+   ]
+  },
+  {
+   "id": "652a884efa82",
+   "t": "Xi welcomes Trump to China ahead of high-stakes Putin meeting",
+   "ko": "시, 푸틴 대통령과의 회담 앞두고 트럼프 중국 방문 환영",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/video/20261118-xi-welcomes-trump-to-china-ahead-of-high-stakes-putin-meeting",
+   "at": "2026-11-18T14:52:39.000Z",
+   "ev": [
+    "ukraine"
+   ],
+   "cc": [
+    "China",
+    "United States",
+    "Russia"
+   ]
+  },
+  {
+   "id": "4eb1d840116f",
+   "t": "US strikes Iranian island after Tehran targets Bahrain",
+   "ko": "테헤란이 바레인을 목표로 한 후 미국은이란 섬을 공격합니다",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/video/20261118-us-strikes-iranian-island-after-tehran-targets-bahrain",
+   "at": "2026-11-18T14:43:25.000Z",
+   "ev": [
+    "iran"
+   ],
+   "cc": [
+    "United States",
+    "Iran",
+    "Bahrain"
+   ]
+  },
+  {
+   "id": "917c04f9603c",
+   "t": "India: Online censorship grows after 'Cockroach' protests",
+   "ko": "인도: '바퀴벌레' 시위 이후 온라인 검열 증가",
+   "src": "DW",
+   "u": "https://www.dw.com/en/india-online-censorship-grows-after-cockroach-protests/a-79976982?maca=en-rss-en-world-4025-rdf",
+   "at": "2026-11-18T14:28:00.000Z",
+   "ev": [],
+   "cc": [
+    "India"
+   ]
+  },
+  {
+   "id": "f7c34df723c2",
+   "t": "ICJ to rule on Rohingya genocide case against Myanmar: What to know",
+   "ko": "ICJ, 미얀마에 대한 로힝야 집단 학살 사건 판결: 알아야 할 사항",
+   "src": "DW",
+   "u": "https://www.dw.com/en/icj-to-rule-on-rohingya-genocide-case-against-myanmar-what-to-know/a-79981434?maca=en-rss-en-world-4025-rdf",
+   "at": "2026-11-18T14:27:00.000Z",
+   "ev": [
+    "myanmar",
+    "rohingya"
+   ],
+   "cc": [
+    "Myanmar"
+   ]
+  },
+  {
+   "id": "33ec29b36981",
+   "t": "Business Council of Australia more aligned with fossil fuel industry than its members’ values, analysis finds",
+   "ko": "호주 비즈니스 협의회(Business Council of Australia)는 회원들의 가치보다 화석 연료 산업에 더 부합한다는 분석 결과가 나왔습니다.",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/australia-news/2026/nov/19/bca-policy-energy-companies-members-climate-concerns",
+   "at": "2026-11-18T14:00:02.000Z",
+   "ev": [],
+   "cc": [
+    "Australia"
+   ]
+  },
+  {
+   "id": "fe4c1daff70c",
+   "t": "Kuwait says it repelled first Iranian attack in two months after US strikes island",
+   "ko": "쿠웨이트는 미국이 쿠웨이트를 공격한 지 두 달 만에 이란의 공격을 격퇴했다고 밝혔습니다.",
+   "src": "BBC",
+   "u": "https://www.bbc.co.uk/news/articles/cw4gn9jeqjq7o?at_medium=RSS&at_campaign=rss",
+   "at": "2026-11-18T13:04:48.000Z",
+   "ev": [
+    "iran"
+   ],
+   "cc": [
+    "Kuwait",
+    "Iran",
+    "United States"
+   ]
+  },
   {
    "id": "92794bdb7e52",
    "t": "Burnham and Badenoch clash over welfare cuts for young at PMQs – UK politics live",
@@ -103,6 +597,20 @@
     "Israel",
     "Saudi Arabia",
     "United States"
+   ]
+  },
+  {
+   "id": "3bd694259d88",
+   "t": "Dozens more children killed in Yemen amid escalating hostilities",
+   "ko": "예멘, 적대행위 격화로 어린이 수십명 추가 사망",
+   "src": "UN News",
+   "u": "https://news.un.org/feed/view/en/story/2026/11/1168830",
+   "at": "2026-11-18T12:00:00.000Z",
+   "ev": [
+    "yemen"
+   ],
+   "cc": [
+    "Yemen"
    ]
   },
   {
@@ -196,6 +704,22 @@
    "ev": [],
    "cc": [
     "Germany"
+   ]
+  },
+  {
+   "id": "b7e66338729b",
+   "t": "Steve Rosenberg: Historic talks with Xi and Trump are a coup for Putin",
+   "ko": "스티브 로젠버그: 시, 트럼프와의 역사적 회담은 푸틴의 쿠데타이다",
+   "src": "BBC",
+   "u": "https://www.bbc.co.uk/news/articles/c9n70gd320mpo?at_medium=RSS&at_campaign=rss",
+   "at": "2026-11-18T10:53:21.000Z",
+   "ev": [
+    "ukraine"
+   ],
+   "cc": [
+    "United States",
+    "China",
+    "Russia"
    ]
   },
   {
@@ -332,8 +856,8 @@
   },
   {
    "id": "a9cefeb13011",
-   "t": "Fears grow that US will impose sanctions on ICJ judges ahead of Myanmar genocide ruling",
-   "ko": "미국이 미얀마 집단학살 판결을 앞두고 ICJ 판사들에게 제재를 가할 것이라는 우려가 커지고 있습니다.",
+   "t": "Fears grow that US will put Nobel-winning judge under sanctions after Myanmar genocide ruling",
+   "ko": "미얀마 대량 학살 판결 이후 미국이 노벨상 수상 판사를 제재할 것이라는 우려가 커지고 있습니다.",
    "src": "The Guardian",
    "u": "https://www.theguardian.com/world/2026/nov/18/us-sanctions-icj-judges-myanmar-genocide-ruling-israel-gaza-court",
    "at": "2026-11-18T09:58:28.000Z",
@@ -494,6 +1018,18 @@
     "Kuwait",
     "Bahrain",
     "Iran"
+   ]
+  },
+  {
+   "id": "8d198dd395a2",
+   "t": "Irishman charged with destroying US military aircraft with axe",
+   "ko": "도끼로 미군 항공기 파괴한 아일랜드인 기소",
+   "src": "BBC",
+   "u": "https://www.bbc.co.uk/news/articles/cwd01jjl5zzzo?at_medium=RSS&at_campaign=rss",
+   "at": "2026-11-18T02:00:37.000Z",
+   "ev": [],
+   "cc": [
+    "United States"
    ]
   },
   {
@@ -1738,500 +2274,6 @@
     "China",
     "Russia",
     "United States"
-   ]
-  },
-  {
-   "id": "256003303893",
-   "t": "Rio Tinto agrees to pay US$250m to begin repairing ‘devastation’ left by Panguna mine",
-   "ko": "리오 틴토(Rio Tinto)는 판구나(Panguna) 광산이 남긴 '황폐화'를 복구하기 위해 2억 5천만 달러를 지불하기로 합의했습니다.",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/world/2026/nov/17/rio-tinto-250m-panguna-mine-clean-up-bougainville-png",
-   "at": "2026-11-17T02:02:30.000Z",
-   "ev": [],
-   "cc": [
-    "United States"
-   ]
-  },
-  {
-   "id": "899257ebfc02",
-   "t": "Yemeni army reports 661 attacks on Houthis as group advances towards Aden",
-   "ko": "예멘군, 아덴으로 진군하는 동안 후티 반군에 대한 661차례 공격 보고",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/news/2026/11/17/yemen-army-reports-661-attacks-on-houthis-amid-houthi-push-towards-aden?traffic_source=rss",
-   "at": "2026-11-17T01:38:13.000Z",
-   "ev": [
-    "yemen"
-   ],
-   "cc": [
-    "Yemen"
-   ]
-  },
-  {
-   "id": "4ba609ef4470",
-   "t": "Truck driver fired for ‘unsafe’ use of smartglasses in first reported sacking over device in Australia",
-   "ko": "호주에서 스마트글래스를 '안전하지 않게' 사용했다는 이유로 해고된 트럭 운전사",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/technology/2026/nov/17/toll-truck-driver-fired-sacked-smartglasses-australia-ntwnfb",
-   "at": "2026-11-17T01:25:08.000Z",
-   "ev": [],
-   "cc": [
-    "Australia"
-   ]
-  },
-  {
-   "id": "02b6262a7355",
-   "t": "Irish court jails man for life over Dublin knife attack that sparked riots",
-   "ko": "아일랜드 법원, 폭동 촉발한 더블린 흉기 공격 남성에 종신형 선고",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/news/2026/11/17/irish-court-jails-man-for-life-over-dublin-knife-attack-that-sparked-riots?traffic_source=rss",
-   "at": "2026-11-17T01:19:56.000Z",
-   "ev": [],
-   "cc": []
-  },
-  {
-   "id": "4123b6beea67",
-   "t": "Russian strikes hit two key bridges in Kyiv, disrupting water and power supplies",
-   "ko": "러시아의 공격으로 키예프의 주요 교량 2개가 공격을 받아 물과 전력 공급이 중단되었습니다.",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/europe/20261117-russian-strikes-hit-two-key-bridges-in-kyiv-disrupting-water-and-power-supplies-ukraine",
-   "at": "2026-11-17T00:58:33.000Z",
-   "ev": [
-    "ukraine"
-   ],
-   "cc": [
-    "Russia",
-    "Ukraine"
-   ]
-  },
-  {
-   "id": "52301871255b",
-   "t": "Ethiopia Moyale clashes disrupt livelihoods as territorial dispute deepens",
-   "ko": "에티오피아 모얄레 충돌로 영토 분쟁이 심화되면서 생계가 중단되었습니다.",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/news/2026/11/17/ethiopia-moyale-clashes-disrupt-livelihoods-as-territorial-dispute-deepens?traffic_source=rss",
-   "at": "2026-11-17T00:21:19.000Z",
-   "ev": [
-    "ethiopia",
-    "somalia"
-   ],
-   "cc": [
-    "Ethiopia"
-   ]
-  },
-  {
-   "id": "4e56eb2b5b97",
-   "t": "Iran war live: Houthis advance in Yemen as Vance rejects ‘forever war’",
-   "ko": "이란 전쟁 라이브: 밴스가 '영원한 전쟁'을 거부함에 따라 예멘에서 후티의 진격",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/news/liveblog/2026/11/16/live-houthis-advance-in-yemen-as-tankers-hit-sea-mines-in-strait-of-hormuz?traffic_source=rss",
-   "at": "2026-11-16T23:57:49.000Z",
-   "ev": [
-    "iran",
-    "yemen"
-   ],
-   "cc": [
-    "Iran",
-    "Yemen",
-    "United States"
-   ]
-  },
-  {
-   "id": "5af00c545ae7",
-   "t": "Paraguay ex-president moved to military jail amid special treatment reports",
-   "ko": "파라과이 전 대통령, 특별 대우 보고로 군 교도소로 이송",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/news/2026/11/16/paraguay-ex-president-moved-to-military-jail-amid-special-treatment-reports?traffic_source=rss",
-   "at": "2026-11-16T23:44:32.000Z",
-   "ev": [],
-   "cc": [
-    "Paraguay"
-   ]
-  },
-  {
-   "id": "751fbcc66c3a",
-   "t": "Freeman Johnson, oldest survivor of Pearl Harbor attack, dies aged 106",
-   "ko": "진주만 공습의 최고령 생존자 프리먼 존슨, 106세의 나이로 사망",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/us-news/2026/nov/16/oldest-survivor-pearl-harbor-dies",
-   "at": "2026-11-16T22:10:51.000Z",
-   "ev": [],
-   "cc": []
-  },
-  {
-   "id": "b3d9ab7ecaa8",
-   "t": "Europe hunts for Palantir alternatives as militaries seek to limit US dependence",
-   "ko": "군대가 미국 의존성을 제한하려고 노력함에 따라 유럽은 Palantir 대안을 찾고 있습니다.",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/tv-shows/a-propos/20261116-europe-hunts-for-palantir-alternatives-as-militaries-seek-to-limit-us-dependence",
-   "at": "2026-11-16T22:07:47.000Z",
-   "ev": [],
-   "cc": [
-    "United States"
-   ]
-  },
-  {
-   "id": "a7d276c4a1ca",
-   "t": "Houthi rebel advance in Yemen may further destabilise global economy",
-   "ko": "후티 반군이 예멘에서 진격하면 세계 경제가 더욱 불안정해질 수 있다",
-   "src": "BBC",
-   "u": "https://www.bbc.co.uk/news/articles/cmy97qperq9eo?at_medium=RSS&at_campaign=rss",
-   "at": "2026-11-16T21:40:07.000Z",
-   "ev": [
-    "iran",
-    "yemen"
-   ],
-   "cc": [
-    "Yemen"
-   ]
-  },
-  {
-   "id": "c8d01b67dfb8",
-   "t": "California files lawsuit against OpenAI alleging lack of proper safeguards",
-   "ko": "캘리포니아, 적절한 보호 장치가 부족하다며 OpenAI에 소송 제기",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/news/2026/11/16/california-files-lawsuit-against-openai-alleging-lack-of-proper-safeguards?traffic_source=rss",
-   "at": "2026-11-16T21:35:51.000Z",
-   "ev": [],
-   "cc": [
-    "United States"
-   ]
-  },
-  {
-   "id": "b56bd5b2f204",
-   "t": "US judge strikes down Trump visa restrictions on foreign students, journalists",
-   "ko": "미국 판사, 외국인 학생과 언론인에 대한 트럼프 비자 제한을 파기",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/americas/20261116-us-judge-strikes-down-trump-visa-restrictions-on-foreign-students-journalists",
-   "at": "2026-11-16T21:23:21.000Z",
-   "ev": [],
-   "cc": [
-    "United States"
-   ]
-  },
-  {
-   "id": "19a10f5524f7",
-   "t": "Mamdani to disband NYPD unit deployed at Columbia protests",
-   "ko": "맘다니, 콜롬비아 시위에 배치된 NYPD 부대 해체",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/video/newsfeed/2026/11/16/mamdani-to-disband-nypd-unit-deployed-at-columbia-protests?traffic_source=rss",
-   "at": "2026-11-16T21:16:02.000Z",
-   "ev": [],
-   "cc": []
-  },
-  {
-   "id": "607d35342c8a",
-   "t": "Third US aircraft carrier brings thousands more troops to Middle East",
-   "ko": "미국의 세 번째 항공모함이 중동에 수천 명의 병력을 추가 배치합니다.",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/us-news/2026/nov/16/aircraft-middle-east-trump-military",
-   "at": "2026-11-16T21:13:02.000Z",
-   "ev": [
-    "iran"
-   ],
-   "cc": [
-    "United States",
-    "Iran"
-   ]
-  },
-  {
-   "id": "45cf407d6d97",
-   "t": "Sudanese army air attack kills 13 in western Sudan: Rights group",
-   "ko": "수단 서부에서 수단군 공습으로 13명 사망: 인권단체",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/news/2026/11/16/sudanese-army-air-attack-kills-13-in-western-sudan-rights-group?traffic_source=rss",
-   "at": "2026-11-16T21:06:19.000Z",
-   "ev": [
-    "sudan"
-   ],
-   "cc": [
-    "Sudan"
-   ]
-  },
-  {
-   "id": "db43089f31ad",
-   "t": "Albanese signs on to Trump’s AI supply chain pact before leaders’ meeting at Quad summit",
-   "ko": "Albanese는 Quad 정상 회담에서 지도자 회의 전에 트럼프의 AI 공급망 협정에 서명",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/australia-news/2026/nov/16/albanese-treads-tightrope-in-upcoming-trump-meeting-wanting-indo-pacific-engagement-and-end-to-iran-and-ukraine-wars",
-   "at": "2026-11-16T21:00:21.000Z",
-   "ev": [
-    "ukraine",
-    "iran"
-   ],
-   "cc": [
-    "Philippines",
-    "Australia",
-    "United States"
-   ]
-  },
-  {
-   "id": "00146cd8bad4",
-   "t": "Forensic expert says his analysis of autopsy photos suggests Epstein was killed",
-   "ko": "법의학 전문가는 부검 사진을 분석한 결과 엡스타인이 사망한 것으로 보인다고 밝혔습니다.",
-   "src": "BBC",
-   "u": "https://www.bbc.co.uk/news/articles/c5n4exg1kkmyo?at_medium=RSS&at_campaign=rss",
-   "at": "2026-11-16T20:33:57.000Z",
-   "ev": [],
-   "cc": []
-  },
-  {
-   "id": "ac2689718079",
-   "t": "Should Ukraine trade Donbas for NATO membership?",
-   "ko": "우크라이나는 NATO 회원을 위해 Donbas를 거래해야 합니까?",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/tv-shows/the-debate/20261116-should-ukraine-trade-donbas-for-nato-membership",
-   "at": "2026-11-16T20:27:06.000Z",
-   "ev": [
-    "ukraine"
-   ],
-   "cc": [
-    "Ukraine",
-    "United States",
-    "Russia"
-   ]
-  },
-  {
-   "id": "b620fa8af71b",
-   "t": "What will Europe do next in Ukraine?",
-   "ko": "유럽은 우크라이나에서 다음에 무엇을 할 것인가?",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/video/inside-story/2026/11/16/what-will-europe-do-next-in-ukraine?traffic_source=rss",
-   "at": "2026-11-16T20:12:21.000Z",
-   "ev": [
-    "ukraine"
-   ],
-   "cc": [
-    "Ukraine"
-   ]
-  },
-  {
-   "id": "e71d5a806920",
-   "t": "Refused UK asylum seekers to lose five-day grace period and face immediate removal",
-   "ko": "영국 망명 신청자를 거부하면 5일의 유예 기간이 박탈되고 즉시 추방될 수 있습니다.",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/uk-news/2026/nov/16/failed-uk-asylum-seekers-to-lose-five-day-grace-period-and-face-immediate-removal",
-   "at": "2026-11-16T20:06:24.000Z",
-   "ev": [],
-   "cc": [
-    "United Kingdom"
-   ]
-  },
-  {
-   "id": "26988bcb69c2",
-   "t": "Israeli opposition accuses Netanyahu of attempted ‘coup’",
-   "ko": "이스라엘 야당, 네타냐후가 '쿠데타' 시도했다고 비난",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/news/2026/11/16/israeli-opposition-accuses-netanyahu-of-attempted-coup?traffic_source=rss",
-   "at": "2026-11-16T20:00:07.000Z",
-   "ev": [],
-   "cc": [
-    "Israel"
-   ]
-  },
-  {
-   "id": "5fd325fbc77a",
-   "t": "Leave.EU and Vote Leave veterans launch rival campaigns to defend Brexit",
-   "ko": "Leave.EU와 Vote Leave 베테랑들이 브렉시트를 방어하기 위해 경쟁 캠페인을 시작합니다.",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/politics/2026/nov/16/people-behind-vote-leave-eu-launch-new-incarnations-brexit",
-   "at": "2026-11-16T19:38:45.000Z",
-   "ev": [],
-   "cc": []
-  },
-  {
-   "id": "789464eb263f",
-   "t": "Lindsay Clancy to face retrial next year for deaths of her three children",
-   "ko": "세 자녀를 살해한 린제이 클랜시, 내년 재심을 받게 된다",
-   "src": "BBC",
-   "u": "https://www.bbc.co.uk/news/articles/cw5y1v8de35go?at_medium=RSS&at_campaign=rss",
-   "at": "2026-11-16T19:30:30.000Z",
-   "ev": [],
-   "cc": []
-  },
-  {
-   "id": "08ed79d7ae27",
-   "t": "Saudi Arabia dismisses commander of coalition forces fighting Houthis",
-   "ko": "사우디, 후티 반군 연합군 사령관 해임",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/news/2026/11/16/saudi-arabia-dismisses-commander-of-coalition-forces-fighting-houthis?traffic_source=rss",
-   "at": "2026-11-16T19:19:21.000Z",
-   "ev": [
-    "yemen"
-   ],
-   "cc": [
-    "Saudi Arabia"
-   ]
-  },
-  {
-   "id": "3a910931f160",
-   "t": "Saudi Arabia strategy challenged by anti-Houthi forces in Yemen",
-   "ko": "예멘의 반후티 세력이 사우디아라비아 전략에 도전하다",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/world/2026/nov/16/saudi-arabia-challenged-yemeni-allies-ceding-ground-houthis",
-   "at": "2026-11-16T19:04:07.000Z",
-   "ev": [
-    "yemen"
-   ],
-   "cc": [
-    "Saudi Arabia",
-    "Yemen"
-   ]
-  },
-  {
-   "id": "e883c012f342",
-   "t": "Czech mass protests: Media is the first casualty 'when you want to attack democracy'",
-   "ko": "체코 대규모 시위: '민주주의를 공격하려 할 때' 언론이 첫 번째 희생자다",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/czech-mass-protests-media-is-the-first-casualty-when-you-want-to-attack-democracy",
-   "at": "2026-11-16T18:33:00.000Z",
-   "ev": [],
-   "cc": [
-    "Slovakia",
-    "Hungary"
-   ]
-  },
-  {
-   "id": "fc4e8640b755",
-   "t": "Israeli court upholds detention of Palestinian land activist Ghassan Najjar",
-   "ko": "이스라엘 법원, 팔레스타인 토지 운동가 Ghassan Najjar의 구금을 유지",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/news/2026/11/16/israeli-court-upholds-detention-of-palestinian-land-activist-ghassan-najjar?traffic_source=rss",
-   "at": "2026-11-16T17:49:16.000Z",
-   "ev": [
-    "westbank"
-   ],
-   "cc": [
-    "Israel",
-    "Palestine"
-   ]
-  },
-  {
-   "id": "50abd88093e7",
-   "t": "Iraq deploys army to stronghold of Iran-backed Kataib Hezbollah",
-   "ko": "이라크, 이란 지원 카타이브 헤즈볼라 거점에 군대 배치",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/news/2026/11/16/iran-deploys-army-to-stronghold-of-iran-backed-kataib-hezbollah?traffic_source=rss",
-   "at": "2026-11-16T17:18:14.000Z",
-   "ev": [
-    "iran",
-    "lebanon"
-   ],
-   "cc": [
-    "Iraq",
-    "United States"
-   ]
-  },
-  {
-   "id": "64cd63408f7c",
-   "t": "Russia's war on Ukraine: 'Americans want to have a deal whatever the cost for both Ukraine & Europe'",
-   "ko": "우크라이나에 대한 러시아의 전쟁: '미국인들은 우크라이나와 유럽 모두를 위한 어떤 대가를 치르더라도 협상을 원합니다'",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/russia-s-war-on-ukraine-americans-want-to-have-a-deal-whatever-the-cost-for-both-ukraine-europe",
-   "at": "2026-11-16T16:22:49.000Z",
-   "ev": [
-    "ukraine"
-   ],
-   "cc": [
-    "Russia",
-    "Ukraine"
-   ]
-  },
-  {
-   "id": "1575b9736150",
-   "t": "French troops in Ukraine 'wouldn't be a surprise'",
-   "ko": "우크라이나 주둔 프랑스군 '놀랍지 않을 것'",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/video/20261116-french-troops-in-ukraine-wouldn-t-be-a-surprise",
-   "at": "2026-11-16T15:49:56.000Z",
-   "ev": [
-    "ukraine"
-   ],
-   "cc": [
-    "France",
-    "Ukraine"
-   ]
-  },
-  {
-   "id": "e27793f904a5",
-   "t": "Verdict due in French trial over triple murder linked to Marseille drug wars",
-   "ko": "마르세유 마약 전쟁과 관련된 삼중 살인 사건에 대한 프랑스 재판에서 평결 예정",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/video/20261116-verdict-due-in-french-trial-over-triple-murder-linked-to-marseille-drug-wars",
-   "at": "2026-11-16T15:13:21.000Z",
-   "ev": [],
-   "cc": [
-    "France"
-   ]
-  },
-  {
-   "id": "717c962de6d5",
-   "t": "Landmark Crimea bridge hit as Russia reports biggest Ukrainian drone attack of war",
-   "ko": "러시아가 전쟁 중 최대 규모의 우크라이나 드론 공격을 보고하면서 랜드마크 크리미아 다리가 타격을 입었습니다.",
-   "src": "BBC",
-   "u": "https://www.bbc.co.uk/news/articles/ckx27v6dpjz0o?at_medium=RSS&at_campaign=rss",
-   "at": "2026-11-16T14:58:12.000Z",
-   "ev": [
-    "ukraine"
-   ],
-   "cc": [
-    "Russia",
-    "Ukraine"
-   ]
-  },
-  {
-   "id": "9f8110f8c529",
-   "t": "Raye, Rosalía and Dolly Parton recognised in Grammy nominations",
-   "ko": "Raye, Rosalía 및 Dolly Parton이 그래미상 후보에 올랐습니다.",
-   "src": "BBC",
-   "u": "https://www.bbc.co.uk/news/articles/cq9vwkggpx73o?at_medium=RSS&at_campaign=rss",
-   "at": "2026-11-16T14:48:55.000Z",
-   "ev": [],
-   "cc": []
-  },
-  {
-   "id": "05d3eb8bba58",
-   "t": "Estonia to close Russia border crossings after attempted drone factory arson attack",
-   "ko": "에스토니아, 드론 공장 방화 시도 후 러시아 국경 통과 폐쇄",
-   "src": "BBC",
-   "u": "https://www.bbc.co.uk/news/articles/cqp83nk673reo?at_medium=RSS&at_campaign=rss",
-   "at": "2026-11-16T14:22:36.000Z",
-   "ev": [
-    "ukraine"
-   ],
-   "cc": [
-    "Estonia",
-    "Russia"
-   ]
-  },
-  {
-   "id": "6a7cec6eaca4",
-   "t": "Iran blocks UN nuclear site visits until war ends",
-   "ko": "이란, 전쟁이 끝날 때까지 유엔 핵시설 방문 차단",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/asia-pacific/20261116-iran-blocks-un-nuclear-site-visits-until-war-ends",
-   "at": "2026-11-16T13:46:55.000Z",
-   "ev": [
-    "iran"
-   ],
-   "cc": [
-    "Iran",
-    "United States",
-    "Israel"
-   ]
-  },
-  {
-   "id": "495610e1e9d7",
-   "t": "Russian attacks kill three in Ukraine, EU accuses Moscow of prolonging war",
-   "ko": "러시아, 우크라이나 공격으로 3명 사망, EU는 모스크바가 전쟁을 연장하고 있다고 비난",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/news/2026/11/16/russian-attacks-kill-three-in-ukraine-eu-accuses-moscow-of-prolonging-war?traffic_source=rss",
-   "at": "2026-11-16T13:28:23.000Z",
-   "ev": [
-    "ukraine"
-   ],
-   "cc": [
-    "Russia",
-    "Ukraine"
    ]
   }
  ]
