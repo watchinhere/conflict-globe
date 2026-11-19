@@ -1,17 +1,17 @@
 {
- "updated": "2026-11-19T10:46:41.886Z",
+ "updated": "2026-11-19T19:25:01.356Z",
  "sources": {
   "BBC": {
    "ok": true,
-   "n": 8
+   "n": 10
   },
   "Al Jazeera": {
    "ok": true,
-   "n": 5
+   "n": 10
   },
   "The Guardian": {
    "ok": true,
-   "n": 15
+   "n": 19
   },
   "DW": {
    "ok": true,
@@ -19,18 +19,619 @@
   },
   "France 24": {
    "ok": true,
-   "n": 10
+   "n": 9
   },
   "UN News": {
    "ok": true,
-   "n": 3
+   "n": 2
   },
   "NPR": {
    "ok": true,
-   "n": 2
+   "n": 3
   }
  },
  "items": [
+  {
+   "id": "4ae9e36cfdba",
+   "t": "World reacts to ICJ finding Myanmar guilty of genocide against Rohingya",
+   "ko": "ICJ가 미얀마의 로힝야족 집단 학살 유죄 판결에 세계가 반응하다",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/11/19/world-reacts-to-icj-finding-myanmar-guilty-of-genocide-against-rohingya?traffic_source=rss",
+   "at": "2026-11-19T19:19:06.000Z",
+   "ev": [
+    "myanmar",
+    "rohingya"
+   ],
+   "cc": [
+    "Myanmar"
+   ]
+  },
+  {
+   "id": "32bd3eabe2d3",
+   "t": "Rohingya survivors react to landmark genocide ruling against Myanmar",
+   "ko": "로힝야족 생존자들, 미얀마에 대한 획기적인 대량 학살 판결에 반응",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/video/newsfeed/2026/11/19/rohingya-survivors-react-to-landmark-genocide-ruling-against-myanmar?traffic_source=rss",
+   "at": "2026-11-19T19:16:34.000Z",
+   "ev": [
+    "myanmar",
+    "rohingya"
+   ],
+   "cc": [
+    "Myanmar",
+    "Bangladesh"
+   ]
+  },
+  {
+   "id": "42a972871329",
+   "t": "Europe ready for talks with Russia on ending war in Ukraine, leaders say",
+   "ko": "유럽은 우크라이나 전쟁 종식을 위해 러시아와 대화할 준비가 되어 있다고 지도자들은 말했습니다.",
+   "src": "BBC",
+   "u": "https://www.bbc.co.uk/news/articles/ckzd9nln5e6go?at_medium=RSS&at_campaign=rss",
+   "at": "2026-11-19T19:16:21.000Z",
+   "ev": [
+    "ukraine"
+   ],
+   "cc": [
+    "Russia",
+    "Ukraine"
+   ]
+  },
+  {
+   "id": "b032307efd6f",
+   "t": "Man protests on roof of Spanish embassy over Fergie Chambers extradition",
+   "ko": "퍼기 챔버스 송환 문제로 스페인 대사관 옥상에서 남성 항의",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/video/newsfeed/2026/11/19/man-protests-on-roof-of-spanish-embassy-over-fergie-chambers-extradition?traffic_source=rss",
+   "at": "2026-11-19T19:15:10.000Z",
+   "ev": [],
+   "cc": [
+    "Spain",
+    "United States"
+   ]
+  },
+  {
+   "id": "b0e7b12ecf65",
+   "t": "Families flee Gaza’s Bureij camp as Israel launches new offensive",
+   "ko": "이스라엘이 새로운 공세를 시작하자 가족들은 가자지구의 부레이(Bureij) 수용소를 탈출한다",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/video/newsfeed/2026/11/19/families-flee-gazas-bureij-camp-as-israel-launches-new-offensive?traffic_source=rss",
+   "at": "2026-11-19T19:01:00.000Z",
+   "ev": [
+    "gaza"
+   ],
+   "cc": [
+    "Palestine",
+    "Israel"
+   ]
+  },
+  {
+   "id": "818fe2e4530e",
+   "t": "Iraq's risky standoff: The state vs. Iran-allied militias",
+   "ko": "이라크의 위험한 대치: 국가 대 이란 동맹 민병대",
+   "src": "DW",
+   "u": "https://www.dw.com/en/iraq-s-risky-standoff-the-state-vs-iran-allied-militias/a-79995757?maca=en-rss-en-world-4025-rdf",
+   "at": "2026-11-19T18:59:00.000Z",
+   "ev": [
+    "iran",
+    "lebanon"
+   ],
+   "cc": [
+    "Iraq"
+   ]
+  },
+  {
+   "id": "595df0fa2b1d",
+   "t": "Mamdani signs bill to ban horse-drawn carriages in New York City",
+   "ko": "맘다니(Mamdani)는 뉴욕시에서 말이 끄는 마차를 금지하는 법안에 서명했습니다.",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/us-news/2026/nov/19/nyc-horse-drawn-carriage-ban-mamdani",
+   "at": "2026-11-19T18:56:23.000Z",
+   "ev": [],
+   "cc": []
+  },
+  {
+   "id": "28d1ab3a6c4e",
+   "t": "Palestinians in Gaza face new displacement after Israeli army operation",
+   "ko": "이스라엘군의 작전으로 가자지구의 팔레스타인인들이 새로운 난민을 맞이하게 되었습니다.",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/11/19/palestinians-in-gaza-face-new-displacement-after-israeli-army-operation?traffic_source=rss",
+   "at": "2026-11-19T18:46:10.000Z",
+   "ev": [
+    "gaza"
+   ],
+   "cc": [
+    "Palestine",
+    "Israel"
+   ]
+  },
+  {
+   "id": "46ef685dc336",
+   "t": "Call for police to investigate Scottish hospital after 19 deaths due to surgery",
+   "ko": "수술로 19명 사망한 스코틀랜드 병원 경찰에 수사 요청",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/society/2026/nov/19/call-for-police-to-investigate-scottish-hospital-after-19-deaths-due-to-surgery",
+   "at": "2026-11-19T18:21:59.000Z",
+   "ev": [],
+   "cc": []
+  },
+  {
+   "id": "5ac6485bd737",
+   "t": "Ukraine allies warn ‘Yalta format’ will not bring about peace – as it happened",
+   "ko": "우크라이나 동맹국, '얄타 형식'이 평화를 가져오지 못할 것이라고 경고",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/world/live/2026/nov/19/russia-ukraine-war-coalition-of-the-willing-europe-latest-news-updates",
+   "at": "2026-11-19T18:03:54.000Z",
+   "ev": [
+    "ukraine"
+   ],
+   "cc": [
+    "Ukraine",
+    "China"
+   ]
+  },
+  {
+   "id": "3fdc8c957706",
+   "t": "Election date? Brexit reset outcome? Farage’s survival chances? Andrew Sparrow answered readers questions",
+   "ko": "선거 날짜? 브렉시트 재설정 결과는? Farage의 생존 가능성은? 앤드루 스패로우가 독자들의 질문에 답변했습니다.",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/politics/live/2026/nov/19/kemi-badenoch-andy-burnham-uk-politics-latest-news-updates",
+   "at": "2026-11-19T18:02:33.000Z",
+   "ev": [],
+   "cc": [
+    "United Kingdom"
+   ]
+  },
+  {
+   "id": "61165eb634cd",
+   "t": "Rohingya genocide: What was said in court and what happens now?",
+   "ko": "로힝야 집단 학살: 법정에서는 어떤 이야기가 나왔고, 지금은 어떤 일이 벌어지고 있나요?",
+   "src": "BBC",
+   "u": "https://www.bbc.co.uk/news/videos/c60qj10j0ld5o?at_medium=RSS&at_campaign=rss",
+   "at": "2026-11-19T17:35:05.000Z",
+   "ev": [
+    "rohingya"
+   ],
+   "cc": []
+  },
+  {
+   "id": "01bbae4aed66",
+   "t": "What impact will the Shenzhen summit have on the US-China trade war?",
+   "ko": "선전 정상회담이 미·중 무역전쟁에 어떤 영향을 미칠까?",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/asia-pacific/20261119-what-impact-will-shenzhen-summit-us-china-trade-war",
+   "at": "2026-11-19T17:34:09.000Z",
+   "ev": [],
+   "cc": [
+    "United States",
+    "China",
+    "Russia"
+   ]
+  },
+  {
+   "id": "0a9843ba32b0",
+   "t": "US army plan to detonate bomb-making chemicals has Iowa residents bracing for lead dust cloud",
+   "ko": "미군이 폭탄 제조 화학물질을 폭파할 계획을 세우자 아이오와 주민들은 납 먼지 구름에 대비하고 있다",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/us-news/2026/nov/19/iowa-lead-bomb-dust",
+   "at": "2026-11-19T17:18:08.000Z",
+   "ev": [],
+   "cc": [
+    "United States"
+   ]
+  },
+  {
+   "id": "f3004053344a",
+   "t": "Myanmar ruling gives new relevance to genocide convention and is ‘full of messages’ for Israel",
+   "ko": "미얀마 판결은 대량 학살 협약에 새로운 관련성을 부여하고 이스라엘에 대한 '메시지로 가득 차 있습니다'",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/law/2026/nov/19/myanmar-ruling-new-relevance-genocide-convention-messages-israel",
+   "at": "2026-11-19T17:14:55.000Z",
+   "ev": [
+    "myanmar",
+    "rohingya"
+   ],
+   "cc": [
+    "Myanmar",
+    "Israel"
+   ]
+  },
+  {
+   "id": "15064a2cc8b4",
+   "t": "Bangladesh: Hasina supporters vandalise ruling party office",
+   "ko": "방글라데시: 하시나 지지자들이 집권당 사무실을 파괴하다",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/video/20261119-bangladesh-hasina-supporters-vandalise-ruling-party-office",
+   "at": "2026-11-19T17:14:23.000Z",
+   "ev": [],
+   "cc": [
+    "Bangladesh"
+   ]
+  },
+  {
+   "id": "4dffa5bc2cfc",
+   "t": "China, Russia and US agree peace declaration with no mention of Ukraine and Iran wars",
+   "ko": "중국, 러시아, 미국은 우크라이나와 이란 전쟁에 대한 언급 없이 평화 선언에 합의했습니다.",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/world/2026/nov/19/china-russia-us-agree-peace-statement-no-mention-ukraine-iran-wars",
+   "at": "2026-11-19T17:13:23.000Z",
+   "ev": [
+    "ukraine",
+    "iran"
+   ],
+   "cc": [
+    "China",
+    "Russia",
+    "United States"
+   ]
+  },
+  {
+   "id": "c3261a1d086e",
+   "t": "Israeli military completes ground operation in Gaza beyond Yellow Line",
+   "ko": "이스라엘군, 옐로우라인 너머 가자지구 지상작전 완료",
+   "src": "BBC",
+   "u": "https://www.bbc.co.uk/news/articles/cw8r7510degno?at_medium=RSS&at_campaign=rss",
+   "at": "2026-11-19T17:03:23.000Z",
+   "ev": [
+    "gaza"
+   ],
+   "cc": [
+    "Israel",
+    "Palestine"
+   ]
+  },
+  {
+   "id": "11685b3b01c1",
+   "t": "Myanmar committed genocide against Rohingya minority, top UN court rules",
+   "ko": "미얀마, 로힝야 소수민족에 대한 대량 학살 자행, 유엔 법원 최고 규정",
+   "src": "BBC",
+   "u": "https://www.bbc.co.uk/news/articles/c804wzp20ddvo?at_medium=RSS&at_campaign=rss",
+   "at": "2026-11-19T16:55:57.000Z",
+   "ev": [
+    "myanmar",
+    "rohingya"
+   ],
+   "cc": [
+    "Myanmar"
+   ]
+  },
+  {
+   "id": "26035da73ae0",
+   "t": "‘Everyone struggled for this justice’: tears in court as Rohingya vindicated in Myanmar genocide ruling",
+   "ko": "'모두가 이 정의를 위해 투쟁했습니다': 미얀마 대량 학살 판결에서 로힝야족이 입증되자 법정에서 눈물을 흘렸습니다.",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/global-development/2026/nov/19/everyone-struggled-for-this-justice-tears-in-court-as-rohingya-vindicated-in-myanmar-genocide-ruling",
+   "at": "2026-11-19T16:15:52.000Z",
+   "ev": [
+    "myanmar",
+    "rohingya"
+   ],
+   "cc": [
+    "Myanmar",
+    "Netherlands",
+    "Bangladesh"
+   ]
+  },
+  {
+   "id": "9c1c603b8d8f",
+   "t": "ICJ ruling on Myanmar genocide: ‘Historic victory for Rohingya, landmark for international justice’",
+   "ko": "ICJ, 미얀마 대량 학살 판결: '로힝야족의 역사적 승리, 국제 정의의 이정표'",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/icj-ruling-on-myanmar-genocide-historic-victory-for-rohingya-landmark-for-international-justice",
+   "at": "2026-11-19T15:54:42.000Z",
+   "ev": [
+    "myanmar",
+    "rohingya",
+    "gaza"
+   ],
+   "cc": [
+    "Myanmar",
+    "South Africa",
+    "Israel"
+   ]
+  },
+  {
+   "id": "6cc885ed195e",
+   "t": "Xi demonstrating China's 'global status', occupying 'central position' in relation to Trump & Putin",
+   "ko": "시, 중국의 '글로벌 위상' 과시하며 트럼프·푸틴과 관련해 '중심 위치' 점유",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/xi-demonstrating-china-s-global-status-occupying-central-position-in-relation-to-trump-putin",
+   "at": "2026-11-19T15:40:14.000Z",
+   "ev": [
+    "ukraine"
+   ],
+   "cc": [
+    "China",
+    "Russia",
+    "Ukraine"
+   ]
+  },
+  {
+   "id": "b7dfe4c137ba",
+   "t": "As Burnham heads to Brussels, are new Brexit wars about to begin?",
+   "ko": "Burnham이 브뤼셀로 향하면서 새로운 Brexit 전쟁이 시작될 예정입니까?",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/11/19/as-burnham-heads-to-brussels-are-new-brexit-wars-about-to-begin?traffic_source=rss",
+   "at": "2026-11-19T15:24:51.000Z",
+   "ev": [],
+   "cc": [
+    "United Kingdom"
+   ]
+  },
+  {
+   "id": "efdf7ea2ca85",
+   "t": "Haiti: Salvador’s Bukele publishes video of attack on gang leader’s house",
+   "ko": "아이티: 살바도르의 부켈레(Bukele)가 갱단 두목의 집 공격 영상 공개",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/video/20261119-haiti-salvador-s-bukele-publishes-video-of-attack-on-gang-leader-s-house",
+   "at": "2026-11-19T15:06:06.000Z",
+   "ev": [
+    "haiti"
+   ],
+   "cc": [
+    "Haiti",
+    "France"
+   ]
+  },
+  {
+   "id": "6714e4bf3198",
+   "t": "Somalia expels UAE ambassador, accuses Abu Dhabi of violating sovereignty",
+   "ko": "소말리아, UAE 대사 추방, 아부다비 주권 침해 비난",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/11/19/somalia-expels-uae-ambassador-accuses-abu-dhabi-of-violating-sovereignty?traffic_source=rss",
+   "at": "2026-11-19T14:34:22.000Z",
+   "ev": [
+    "somalia"
+   ],
+   "cc": [
+    "Somalia",
+    "United Arab Emirates"
+   ]
+  },
+  {
+   "id": "3319961f4c03",
+   "t": "France: Retirees march against 2027 budget cuts",
+   "ko": "프랑스: 2027년 예산 삭감에 반대하는 퇴직자들의 행진",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/france-retirees-march-against-2027-budget-cuts",
+   "at": "2026-11-19T14:32:57.000Z",
+   "ev": [],
+   "cc": [
+    "France"
+   ]
+  },
+  {
+   "id": "9f84fa9bd906",
+   "t": "What the ICJ genocide ruling means for the Rohingya people",
+   "ko": "ICJ 대량학살 판결이 로힝야족에게 갖는 의미",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/11/19/what-the-icj-ruling-means-for-the-rohingya?traffic_source=rss",
+   "at": "2026-11-19T14:31:47.000Z",
+   "ev": [
+    "rohingya"
+   ],
+   "cc": []
+  },
+  {
+   "id": "54f541d2d767",
+   "t": "ICJ rules Myanmar committed genocide against the Rohingya",
+   "ko": "ICJ, 미얀마가 로힝야족에 대한 대량 학살을 자행했다고 판결",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/icj-rules-myanmar-committed-genocide-against-the-rohingya",
+   "at": "2026-11-19T14:07:11.000Z",
+   "ev": [
+    "myanmar",
+    "rohingya"
+   ],
+   "cc": [
+    "Myanmar",
+    "Bangladesh",
+    "Gambia"
+   ]
+  },
+  {
+   "id": "f2a006663dd8",
+   "t": "‘Gaza Syndrome’: Israel’s Soldiers Haunted by Genocide – Cost of War",
+   "ko": "'가자 증후군': 대량 학살에 시달린 이스라엘 군인 – 전쟁 비용",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/video/al-jazeera-originals/2026/11/19/gaza-syndrome-israels-soldiers-haunted-by-genocide-cost-of-war?traffic_source=rss",
+   "at": "2026-11-19T13:54:10.000Z",
+   "ev": [
+    "gaza"
+   ],
+   "cc": [
+    "Palestine",
+    "Israel"
+   ]
+  },
+  {
+   "id": "d6d5a75fc790",
+   "t": "Myanmar committed genocide against Rohingya minority, world’s top court rules",
+   "ko": "미얀마, 로힝야 소수민족에 대한 대량 학살 자행, 세계 최고 법원 판결",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/world/2026/nov/19/genocide-rohingya-international-court-of-justice-ruling-myanmar",
+   "at": "2026-11-19T13:52:10.000Z",
+   "ev": [
+    "myanmar",
+    "rohingya"
+   ],
+   "cc": [
+    "Myanmar"
+   ]
+  },
+  {
+   "id": "65034a4e4e2a",
+   "t": "Canada’s beloved Tim Hortons brews ire over ‘excessive’ Israeli data deal",
+   "ko": "캐나다의 사랑받는 팀 호튼(Tim Hortons), 이스라엘의 '과도한' 데이터 거래에 분노",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/features/2026/11/19/canadas-beloved-tim-hortons-brews-ire-over-excessive-israeli-data-deal?traffic_source=rss",
+   "at": "2026-11-19T13:49:49.000Z",
+   "ev": [],
+   "cc": [
+    "Canada",
+    "Israel"
+   ]
+  },
+  {
+   "id": "b16facea9bde",
+   "t": "Venezuela signs military deal with US less than a year after Maduro's removal",
+   "ko": "베네수엘라는 마두로 축출 이후 1년도 채 되지 않아 미국과 군사협정을 체결했다.",
+   "src": "BBC",
+   "u": "https://www.bbc.co.uk/news/articles/cmwy8pyqlq5vo?at_medium=RSS&at_campaign=rss",
+   "at": "2026-11-19T13:31:23.000Z",
+   "ev": [],
+   "cc": [
+    "Venezuela",
+    "United States"
+   ]
+  },
+  {
+   "id": "f2c320937489",
+   "t": "In South Korea, women forced into prostitution on US military bases seek justice",
+   "ko": "한국에서는 미군기지에서 매춘을 강요받은 여성들이 정의를 추구한다",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/tv-shows/focus/20261119-in-south-korea-women-forced-into-prostitution-on-us-military-bases-seek-justice",
+   "at": "2026-11-19T13:21:41.000Z",
+   "ev": [],
+   "cc": [
+    "South Korea",
+    "United States"
+   ]
+  },
+  {
+   "id": "71bd4a7083b2",
+   "t": "'Their lives, their rights, their history': Not the end of accountability for the Rohingya people'",
+   "ko": "'그들의 삶, 그들의 권리, 그들의 역사': 로힝야족에 대한 책임은 끝나지 않았습니다'",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/their-lives-their-rights-their-history-not-the-end-of-accountability-for-the-rohingya-people",
+   "at": "2026-11-19T13:19:21.000Z",
+   "ev": [
+    "myanmar",
+    "rohingya"
+   ],
+   "cc": [
+    "Gambia",
+    "Myanmar",
+    "South Africa"
+   ]
+  },
+  {
+   "id": "8944b9bf2f7d",
+   "t": "Putin vows 'far more painful' response to Ukraine's strikes on Crimean Bridge",
+   "ko": "푸틴, 우크라이나 크림대교 공습에 '훨씬 더 고통스러운' 대응 다짐",
+   "src": "BBC",
+   "u": "https://www.bbc.co.uk/news/articles/cm879dqn3e1jo?at_medium=RSS&at_campaign=rss",
+   "at": "2026-11-19T13:07:35.000Z",
+   "ev": [
+    "ukraine"
+   ],
+   "cc": [
+    "Ukraine",
+    "Russia"
+   ]
+  },
+  {
+   "id": "a2c3574e4f0c",
+   "t": "Israeli tanks cross ‘yellow line’ boundary into Hamas-controlled central Gaza",
+   "ko": "이스라엘 탱크, '노란색 선' 경계를 넘어 하마스가 통제하는 가자지구 중심부로 진입",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/world/2026/nov/18/israeli-tanks-cross-yellow-line-boundary-into-hamas-controlled-central-gaza",
+   "at": "2026-11-19T12:40:46.000Z",
+   "ev": [
+    "gaza"
+   ],
+   "cc": [
+    "Israel",
+    "Palestine"
+   ]
+  },
+  {
+   "id": "f926463fa40c",
+   "t": "Eight injured after driver in Israel repeatedly rams car into Palestinians",
+   "ko": "이스라엘 운전자, 팔레스타인에 차량 돌진해 8명 부상",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/world/2026/nov/19/car-rams-into-palestinian-residents-four-times-in-israeli-city-kafr-qasim",
+   "at": "2026-11-19T12:36:37.000Z",
+   "ev": [],
+   "cc": [
+    "Israel",
+    "Palestine"
+   ]
+  },
+  {
+   "id": "aeff9386d011",
+   "t": "The U.N.'s top court rules Myanmar committed genocide against the Rohingya",
+   "ko": "유엔 최고 법원, 미얀마가 로힝야족에 대한 대량 학살을 저질렀다고 판결",
+   "src": "NPR",
+   "u": "https://www.npr.org/2026/11/19/g-s1-154340/un-court-myanmar-genocide-rohingya",
+   "at": "2026-11-19T12:29:41.000Z",
+   "ev": [
+    "myanmar",
+    "rohingya"
+   ],
+   "cc": [
+    "Myanmar"
+   ]
+  },
+  {
+   "id": "71591d4c3a46",
+   "t": "World’s top court finds Myanmar guilty of genocide against Rohingya",
+   "ko": "세계 최고 법원, 미얀마가 로힝야족 집단 학살 혐의로 유죄 판결",
+   "src": "UN News",
+   "u": "https://news.un.org/feed/view/en/story/2026/11/1168836",
+   "at": "2026-11-19T12:00:00.000Z",
+   "ev": [
+    "myanmar",
+    "rohingya"
+   ],
+   "cc": [
+    "Myanmar",
+    "Gambia"
+   ]
+  },
+  {
+   "id": "12e503a816ec",
+   "t": "Florida pastor found guilty over role in assassination of Haitian president",
+   "ko": "아이티 대통령 암살에 관여한 플로리다 목사, 유죄 판결",
+   "src": "BBC",
+   "u": "https://www.bbc.co.uk/news/articles/cm702q0lg50po?at_medium=RSS&at_campaign=rss",
+   "at": "2026-11-19T11:44:57.000Z",
+   "ev": [
+    "haiti"
+   ],
+   "cc": [
+    "United States",
+    "Haiti"
+   ]
+  },
+  {
+   "id": "036f155d9099",
+   "t": "Myanmar committed genocide against Rohingya, top UN court rules",
+   "ko": "미얀마는 로힝야족에 대한 대량 학살을 저질렀으며 유엔 법원의 최고 규정에 따라",
+   "src": "DW",
+   "u": "https://www.dw.com/en/myanmar-committed-genocide-against-rohingya-top-un-court-rules/a-79987898?maca=en-rss-en-world-4025-rdf",
+   "at": "2026-11-19T11:39:00.000Z",
+   "ev": [
+    "myanmar",
+    "rohingya"
+   ],
+   "cc": [
+    "Myanmar"
+   ]
+  },
+  {
+   "id": "144f0711e6f6",
+   "t": "Guardian Australia takes home two Walkley awards for excellence in journalism",
+   "ko": "Guardian Australia는 저널리즘 부문에서 두 개의 Walkley 상을 수상했습니다.",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/australia-news/2026/nov/19/guardian-australia-takes-home-two-walkley-awards-for-excellence-in-journalism",
+   "at": "2026-11-19T11:13:32.000Z",
+   "ev": [],
+   "cc": [
+    "Australia",
+    "United States"
+   ]
+  },
   {
    "id": "3dcabe914a16",
    "t": "Ukraine's European allies meet in Berlin in show of support",
@@ -45,22 +646,6 @@
     "Ukraine",
     "United States",
     "Germany"
-   ]
-  },
-  {
-   "id": "5ac6485bd737",
-   "t": "Tusk appears to mock Trump’s Putin comment as Ukraine’s allies meet in Berlin – Europe live",
-   "ko": "투스크는 우크라이나의 동맹국들이 베를린에서 만나는 동안 트럼프의 푸틴 발언을 조롱하는 것으로 보인다 – 유럽 라이브",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/world/live/2026/nov/19/russia-ukraine-war-coalition-of-the-willing-europe-latest-news-updates",
-   "at": "2026-11-19T10:32:02.000Z",
-   "ev": [
-    "ukraine"
-   ],
-   "cc": [
-    "Ukraine",
-    "United States",
-    "Poland"
    ]
   },
   {
@@ -92,6 +677,20 @@
    "cc": [
     "Russia",
     "Ukraine"
+   ]
+  },
+  {
+   "id": "7a9c705eae85",
+   "t": "Iran's attacks on ships in the Strait of Hormuz escalate",
+   "ko": "이란, 호르무즈 해협 선박에 대한 공격 확대",
+   "src": "NPR",
+   "u": "https://www.npr.org/2026/11/19/nx-s1-6044206/irans-attacks-on-ships-in-the-strait-of-hormuz-escalate",
+   "at": "2026-11-19T09:46:24.000Z",
+   "ev": [
+    "iran"
+   ],
+   "cc": [
+    "Iran"
    ]
   },
   {
@@ -214,18 +813,6 @@
    "cc": [
     "United States",
     "China",
-    "Russia"
-   ]
-  },
-  {
-   "id": "8944b9bf2f7d",
-   "t": "Crimean Bridge attacked again, Russia says",
-   "ko": "러시아, 크림대교 또 공격…",
-   "src": "BBC",
-   "u": "https://www.bbc.co.uk/news/articles/cm879dqn3e1jo?at_medium=RSS&at_campaign=rss",
-   "at": "2026-11-19T07:32:06.000Z",
-   "ev": [],
-   "cc": [
     "Russia"
    ]
   },
@@ -450,21 +1037,6 @@
    ]
   },
   {
-   "id": "a2c3574e4f0c",
-   "t": "Israeli tanks cross ‘yellow line’ boundary into Hamas-controlled central Gaza",
-   "ko": "이스라엘 탱크, '노란색 선' 경계를 넘어 하마스가 통제하는 가자지구 중심부로 진입",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/world/2026/nov/18/israeli-tanks-cross-yellow-line-boundary-into-hamas-controlled-central-gaza",
-   "at": "2026-11-18T23:25:25.000Z",
-   "ev": [
-    "gaza"
-   ],
-   "cc": [
-    "Israel",
-    "Palestine"
-   ]
-  },
-  {
    "id": "cd24719f402d",
    "t": "Myanmar faces historic genocide verdict at UN court over Rohingya massacres",
    "ko": "미얀마, 로힝야족 학살에 대해 유엔 법원에서 역사적인 대량학살 판결을 앞두고 있다",
@@ -477,21 +1049,6 @@
    ],
    "cc": [
     "Myanmar"
-   ]
-  },
-  {
-   "id": "c3261a1d086e",
-   "t": "Israeli military launches rare ground operation in Gaza beyond Yellow Line",
-   "ko": "이스라엘군, 옐로우라인 너머 가자지구에서 희귀 지상작전 개시",
-   "src": "BBC",
-   "u": "https://www.bbc.co.uk/news/articles/cw8r7510degno?at_medium=RSS&at_campaign=rss",
-   "at": "2026-11-18T22:34:56.000Z",
-   "ev": [
-    "gaza"
-   ],
-   "cc": [
-    "Israel",
-    "Palestine"
    ]
   },
   {
@@ -1724,548 +2281,6 @@
    "ev": [],
    "cc": [
     "United Kingdom"
-   ]
-  },
-  {
-   "id": "c07f218d12a7",
-   "t": "American soldier arrested by UK police on suspicion of spying taken into US military custody",
-   "ko": "영국 경찰에 체포된 미군 병사, 간첩 혐의로 미군 구금",
-   "src": "BBC",
-   "u": "https://www.bbc.co.uk/news/articles/c6x284ez38vdo?at_medium=RSS&at_campaign=rss",
-   "at": "2026-11-17T22:46:30.000Z",
-   "ev": [],
-   "cc": [
-    "United Kingdom",
-    "United States"
-   ]
-  },
-  {
-   "id": "22ace48cde23",
-   "t": "ICE agents pepper spray pregnant US citizen in California, video shows",
-   "ko": "ICE 요원이 캘리포니아에 있는 임신한 미국 시민에게 후추 스프레이를 뿌리는 영상",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/us-news/2026/nov/16/ice-agents-pepper-spray-pregnant-california-citizen",
-   "at": "2026-11-17T22:24:46.000Z",
-   "ev": [],
-   "cc": [
-    "United States"
-   ]
-  },
-  {
-   "id": "4e3deff57ab2",
-   "t": "Trump nominates Chris LaNeve as army chief after Hegseth fired predecessor",
-   "ko": "트럼프, 헤그세스 전임자 해임 후 크리스 라네브를 육군 참모총장으로 지명",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/us-news/2026/nov/17/chris-laneve-army-chief-staff",
-   "at": "2026-11-17T21:55:40.000Z",
-   "ev": [],
-   "cc": [
-    "United States"
-   ]
-  },
-  {
-   "id": "6d887e6fa58b",
-   "t": "UK hands NATO-assigned US soldier accused of Russia spying to US military",
-   "ko": "영국, 러시아 스파이 혐의로 기소된 NATO 소속 미군을 미군에 인도",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/news/2026/11/17/uk-hands-nato-assigned-us-soldier-accused-of-russia-spying-to-us-military?traffic_source=rss",
-   "at": "2026-11-17T21:35:24.000Z",
-   "ev": [],
-   "cc": [
-    "United Kingdom",
-    "United States",
-    "Russia"
-   ]
-  },
-  {
-   "id": "0bf4639870be",
-   "t": "US, Mexico and Bolivia lose measles-free status as deaths mount",
-   "ko": "미국, 멕시코, 볼리비아, 사망자 증가로 홍역 퇴치 자격 상실",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/americas/20261117-us-mexico-and-bolivia-lose-measles-free-status-as-deaths-mount",
-   "at": "2026-11-17T21:30:23.000Z",
-   "ev": [
-    "mexico"
-   ],
-   "cc": [
-    "United States",
-    "Mexico",
-    "Bolivia"
-   ]
-  },
-  {
-   "id": "623f8bca7332",
-   "t": "UK sanctions Israeli settlement firms to protect two-state solution",
-   "ko": "영국, 두 국가 해법 보호를 위해 이스라엘 결제 회사에 제재",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/video/newsfeed/2026/11/17/aje-onl-nf_uk-sanctions-eight-israeli-settlement-firms-171126?traffic_source=rss",
-   "at": "2026-11-17T21:28:31.000Z",
-   "ev": [
-    "westbank"
-   ],
-   "cc": [
-    "United Kingdom",
-    "Israel",
-    "Palestine"
-   ]
-  },
-  {
-   "id": "4b88ce23b69e",
-   "t": "Putin's Crimean Bridge partly collapses as Zelensky hails 'unprecedented' attack by Ukraine",
-   "ko": "젤렌스키 대통령이 우크라이나의 '전례 없는' 공격을 환영하면서 푸틴의 크림대교 부분 붕괴",
-   "src": "BBC",
-   "u": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss",
-   "at": "2026-11-17T21:24:35.000Z",
-   "ev": [
-    "ukraine"
-   ],
-   "cc": [
-    "Ukraine"
-   ]
-  },
-  {
-   "id": "d3de8fd97870",
-   "t": "Whistleblower: Deadly drone strike in Kuwait could’ve been avoided",
-   "ko": "내부 고발자: 쿠웨이트의 치명적인 드론 공격은 피할 수 있었습니다",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/news/2026/11/17/whistleblower-deadly-drone-strike-in-kuwait-couldve-been-avoided?traffic_source=rss",
-   "at": "2026-11-17T21:14:31.000Z",
-   "ev": [],
-   "cc": [
-    "Kuwait",
-    "United States"
-   ]
-  },
-  {
-   "id": "64916d6055ce",
-   "t": "US loses measles elimination status after 26 years amid record case numbers",
-   "ko": "미국, 기록적인 사례로 인해 26년 만에 홍역 퇴치 자격 상실",
-   "src": "BBC",
-   "u": "https://www.bbc.co.uk/news/articles/c977p71jx0xxo?at_medium=RSS&at_campaign=rss",
-   "at": "2026-11-17T21:04:00.000Z",
-   "ev": [],
-   "cc": [
-    "United States"
-   ]
-  },
-  {
-   "id": "0ed54a8b0bc0",
-   "t": "US Navy chief says Iran war has put ‘strain’ on maritime forces",
-   "ko": "미 해군 참모총장 \"이란 전쟁이 해군에 '부담' 가중\"",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/news/2026/11/17/us-navy-chief-says-iran-war-has-put-strain-on-maritime-forces?traffic_source=rss",
-   "at": "2026-11-17T20:57:56.000Z",
-   "ev": [
-    "iran"
-   ],
-   "cc": [
-    "United States",
-    "Iran"
-   ]
-  },
-  {
-   "id": "40118936c683",
-   "t": "Hashim Thaci's second conviction in The Hague reignites debate in Kosovo about justice and the Kosovo Specialist Chambers",
-   "ko": "헤이그에서 하심 타치의 두 번째 유죄 판결은 코소보에서 정의와 코소보 전문가 회의소에 대한 논쟁을 다시 불러일으켰습니다.",
-   "src": "DW",
-   "u": "https://www.dw.com/en/hashim-thaci-s-second-conviction-in-the-hague-reignites-debate-in-kosovo-about-justice-and-the-kosovo-specialist-chambers/a-79975227?maca=en-rss-en-world-4025-rdf",
-   "at": "2026-11-17T20:40:00.000Z",
-   "ev": [],
-   "cc": [
-    "Kosovo"
-   ]
-  },
-  {
-   "id": "43de0c327b0e",
-   "t": "Palestinian woman, 72, shot dead by Israeli settlers in West Bank, health ministry says",
-   "ko": "팔레스타인 여성 72세 서안지구서 이스라엘 정착민 총격 사망",
-   "src": "BBC",
-   "u": "https://www.bbc.co.uk/news/articles/cqrlg377638yo?at_medium=RSS&at_campaign=rss",
-   "at": "2026-11-17T20:30:20.000Z",
-   "ev": [
-    "westbank"
-   ],
-   "cc": [
-    "Palestine",
-    "Israel"
-   ]
-  },
-  {
-   "id": "9e50ee1c1a45",
-   "t": "Iran 'playing mind games with the United States', expert says",
-   "ko": "전문가 \"이란, 미국과 심리전 벌이고 있다\"",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/iran-playing-mind-games-with-the-united-states-expert-says",
-   "at": "2026-11-17T20:28:50.000Z",
-   "ev": [
-    "iran"
-   ],
-   "cc": [
-    "Iran",
-    "United States"
-   ]
-  },
-  {
-   "id": "399fd9cdcf1c",
-   "t": "Palestinian woman shot dead by Israeli settlers near Jericho, witnesses say",
-   "ko": "목격자들은 팔레스타인 여성이 예리코 근처에서 이스라엘 정착민의 총에 맞아 숨졌다고 말했습니다.",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/world/2026/nov/17/palestinian-woman-shot-dead-israeli-settlers-near-jericho-witnesses-say",
-   "at": "2026-11-17T20:21:48.000Z",
-   "ev": [
-    "westbank"
-   ],
-   "cc": [
-    "Palestine",
-    "Israel"
-   ]
-  },
-  {
-   "id": "873a904b57e5",
-   "t": "Milburn calls for tax cuts for businesses hiring young people despite union concerns",
-   "ko": "밀번, 노조 우려에도 불구하고 청년 고용 기업에 세금 감면 촉구",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/society/2026/nov/17/alan-milburn-tax-cuts-businesses-unions-neets-youth-unemployment",
-   "at": "2026-11-17T19:30:32.000Z",
-   "ev": [],
-   "cc": [
-    "United Kingdom"
-   ]
-  },
-  {
-   "id": "e70024e15fe7",
-   "t": "More than 100,000 take part in France pay protests",
-   "ko": "프랑스 임금 인상 시위에 10만명 이상 참여",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/news/2026/11/17/more-than-100000-take-part-in-france-pay-protests?traffic_source=rss",
-   "at": "2026-11-17T19:09:49.000Z",
-   "ev": [],
-   "cc": [
-    "France"
-   ]
-  },
-  {
-   "id": "a1fc2b7a4056",
-   "t": "Israeli settler pogrom kills Palestinian woman, wounds 10 people",
-   "ko": "이스라엘 정착민 포그롬, 팔레스타인 여성 살해, 10명 부상",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/news/2026/11/17/israeli-settler-pogrom-kills-palestinian-woman-wounds-10-people?traffic_source=rss",
-   "at": "2026-11-17T18:43:46.000Z",
-   "ev": [
-    "westbank"
-   ],
-   "cc": [
-    "Israel",
-    "Palestine"
-   ]
-  },
-  {
-   "id": "2ab58983706a",
-   "t": "Iran launches a third round of strikes on Bahrain, host of U.S. Navy's 5th Fleet",
-   "ko": "이란, 미 해군 5함대 주둔 바레인에 3차 공습 개시",
-   "src": "NPR",
-   "u": "https://www.npr.org/2026/11/17/nx-s1-6044255/us-iran-war-latest-bahrain",
-   "at": "2026-11-17T18:34:31.000Z",
-   "ev": [
-    "iran"
-   ],
-   "cc": [
-    "Iran",
-    "Bahrain",
-    "United States"
-   ]
-  },
-  {
-   "id": "f0d05cab03df",
-   "t": "Trump says US taking 'very seriously' any Iranian plot against Washington",
-   "ko": "트럼프 \"미국은 이란의 미국 반대 음모를 매우 심각하게 받아들인다\"",
-   "src": "BBC",
-   "u": "https://www.bbc.co.uk/news/articles/cq808vzd3nnpo?at_medium=RSS&at_campaign=rss",
-   "at": "2026-11-17T17:37:04.000Z",
-   "ev": [
-    "iran"
-   ],
-   "cc": [
-    "United States",
-    "Iran"
-   ]
-  },
-  {
-   "id": "9c55fa8f16bf",
-   "t": "How Ukraine struck the Kerch bridge, a symbol of Putin’s rule",
-   "ko": "우크라이나가 푸틴 통치의 상징인 케르치 다리를 공격한 방법",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/world/2026/nov/17/how-ukraine-struck-kerch-bridge-symbol-vladimir-putin-rule",
-   "at": "2026-11-17T17:30:40.000Z",
-   "ev": [
-    "ukraine"
-   ],
-   "cc": [
-    "Ukraine",
-    "Russia"
-   ]
-  },
-  {
-   "id": "9324b535bb91",
-   "t": "France: Protesters march for better salaries across the country",
-   "ko": "프랑스: 임금 인상을 요구하는 시위대가 전국적으로 행진하고 있습니다.",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/video/20261117-france-protesters-march-for-better-salaries-across-the-country",
-   "at": "2026-11-17T17:27:24.000Z",
-   "ev": [],
-   "cc": [
-    "France"
-   ]
-  },
-  {
-   "id": "1c08c3b317c4",
-   "t": "'It was really scary': Mother describes sheltering during Russia strikes on Kyiv bridge",
-   "ko": "'정말 무서웠어요': 어머니는 러시아가 키예프 다리를 공격하는 동안 대피소를 설명했습니다.",
-   "src": "BBC",
-   "u": "https://www.bbc.co.uk/news/articles/cq7825234lgmo?at_medium=RSS&at_campaign=rss",
-   "at": "2026-11-17T17:19:57.000Z",
-   "ev": [
-    "ukraine"
-   ],
-   "cc": [
-    "Russia",
-    "Ukraine"
-   ]
-  },
-  {
-   "id": "486e920ef184",
-   "t": "Costa Rican journalist shot dead in first such killing in 25 years",
-   "ko": "코스타리카 기자, 25년 만에 총격 사망",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/world/2026/nov/17/costa-rica-journalist-camilo-rodriguez-shot-dead",
-   "at": "2026-11-17T17:19:12.000Z",
-   "ev": [],
-   "cc": [
-    "Costa Rica"
-   ]
-  },
-  {
-   "id": "49445026e996",
-   "t": "Saudi Arabia: Rights groups raise alarm over rising number of executions",
-   "ko": "사우디아라비아: 인권단체, 사형집행 건수 증가에 경고",
-   "src": "DW",
-   "u": "https://www.dw.com/en/saudi-arabia-rights-groups-raise-alarm-over-rising-number-of-executions/a-79970773?maca=en-rss-en-world-4025-rdf",
-   "at": "2026-11-17T17:02:00.000Z",
-   "ev": [
-    "iran"
-   ],
-   "cc": [
-    "Saudi Arabia",
-    "Iran"
-   ]
-  },
-  {
-   "id": "d9f6d74fe11f",
-   "t": "‘They were keeping it for a rainy day’: Ukraine’s Kerch bridge attack is proof Kyiv still has cards to play",
-   "ko": "'그들은 비오는 날을 대비해 보관하고 있었습니다': 우크라이나의 케르치 교량 공격은 키예프가 아직 플레이할 카드가 있다는 증거입니다",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/world/2026/nov/17/ukraine-kerch-bridge-attack-russia-crimea-analysis",
-   "at": "2026-11-17T16:40:26.000Z",
-   "ev": [
-    "ukraine"
-   ],
-   "cc": [
-    "Ukraine",
-    "Russia"
-   ]
-  },
-  {
-   "id": "8cd3c59916c7",
-   "t": "Zelenskyy urges allies to send air defence deliveries without delay as Russia intensifies attacks – as it happened",
-   "ko": "Zelenskyy는 러시아가 공격을 강화함에 따라 동맹국에 지체없이 대공 방어 물품을 보낼 것을 촉구합니다.",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/world/live/2026/nov/17/europe-ukraine-russia-crimea-kerch-bridge-attack-latest-news-updates",
-   "at": "2026-11-17T16:40:21.000Z",
-   "ev": [
-    "ukraine"
-   ],
-   "cc": [
-    "Russia",
-    "Ukraine",
-    "France"
-   ]
-  },
-  {
-   "id": "99fc9b562cc7",
-   "t": "'A lot of anger and a weak government': Why are French public sector workers striking?",
-   "ko": "'분노는 많고 정부는 약하다': 프랑스 공공부문 노동자들은 왜 파업하는가?",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/video/20261117-a-lot-of-anger-and-a-weak-government-why-are-french-public-sector-workers-striking",
-   "at": "2026-11-17T16:34:48.000Z",
-   "ev": [],
-   "cc": [
-    "France"
-   ]
-  },
-  {
-   "id": "121b31b2e4de",
-   "t": "Latest cost-of-living protests bring more than 140,000 onto the streets across France",
-   "ko": "최근 생활비 시위로 인해 프랑스 전역에서 140,000명 이상이 거리로 모였습니다.",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/france/20261117-new-french-pay-protests-bring-tens-of-thousands-onto-the-streets",
-   "at": "2026-11-17T16:27:21.000Z",
-   "ev": [],
-   "cc": [
-    "France"
-   ]
-  },
-  {
-   "id": "f263454836d0",
-   "t": "Organisers hoping for 'joyful' demonstration as French public workers strike",
-   "ko": "프랑스 공무원 파업에 '즐거운' 시위를 바라는 주최측",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/video/20261117-organisers-hoping-for-joyful-demonstration-as-french-public-workers-strike",
-   "at": "2026-11-17T16:17:45.000Z",
-   "ev": [],
-   "cc": [
-    "France"
-   ]
-  },
-  {
-   "id": "59af207e6b43",
-   "t": "Trump claims US is ‘looking into’ Iranian bomb plot in Washington despite ‘no credible threats’",
-   "ko": "트럼프, “신뢰할 만한 위협 없음에도 불구하고 미국이 워싱턴에서 이란의 폭탄 테러 음모를 조사하고 있다”",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/world/2026/nov/17/trump-reported-iranian-plot-dirty-bomb-washington",
-   "at": "2026-11-17T16:03:34.000Z",
-   "ev": [
-    "iran"
-   ],
-   "cc": [
-    "United States",
-    "Iran"
-   ]
-  },
-  {
-   "id": "dae7348847ca",
-   "t": "BBC reports from Kyiv bridge hit by Russian attack",
-   "ko": "러시아의 공격으로 키예프 다리가 파손됐다는 BBC 보도",
-   "src": "BBC",
-   "u": "https://www.bbc.co.uk/news/videos/cmlywvww3pzlo?at_medium=RSS&at_campaign=rss",
-   "at": "2026-11-17T15:54:15.000Z",
-   "ev": [
-    "ukraine"
-   ],
-   "cc": [
-    "Russia"
-   ]
-  },
-  {
-   "id": "a9c4d7f30efc",
-   "t": "Trump says he takes possible Iran bomb threat to Washington 'very seriously'",
-   "ko": "트럼프 \"이란 폭탄 위협 가능성, 워싱턴에 매우 심각하게 받아들인다\"",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/americas/20261117-trump-says-he-takes-possible-iran-bomb-threat-to-washington-very-seriously",
-   "at": "2026-11-17T15:44:54.000Z",
-   "ev": [
-    "iran"
-   ],
-   "cc": [
-    "Iran",
-    "United States"
-   ]
-  },
-  {
-   "id": "49553a303fa5",
-   "t": "France hit by fresh nationwide public sector strike",
-   "ko": "프랑스, 전국적인 공공부문 파업으로 타격",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/video/20261117-france-hit-by-fresh-nationwide-public-sector-strike",
-   "at": "2026-11-17T15:43:01.000Z",
-   "ev": [],
-   "cc": [
-    "France"
-   ]
-  },
-  {
-   "id": "edd6f5b7f222",
-   "t": "Fresh clashes at the Eritrean border — is Ethiopia sliding into a regional war?",
-   "ko": "에리트레아 국경에서의 새로운 충돌 - 에티오피아가 지역 전쟁에 빠져들고 있습니까?",
-   "src": "DW",
-   "u": "https://www.dw.com/en/fresh-clashes-at-the-eritrean-border-is-ethiopia-sliding-into-a-regional-war/a-79970353?maca=en-rss-en-world-4025-rdf",
-   "at": "2026-11-17T15:43:00.000Z",
-   "ev": [
-    "sudan",
-    "ethiopia"
-   ],
-   "cc": [
-    "Ethiopia",
-    "Eritrea",
-    "Sudan"
-   ]
-  },
-  {
-   "id": "1fc541486538",
-   "t": "How the attack on Crimean Bridge unfolded",
-   "ko": "크리미안 다리 공격은 어떻게 전개됐나",
-   "src": "BBC",
-   "u": "https://www.bbc.co.uk/news/articles/crz9dgz28zwdo?at_medium=RSS&at_campaign=rss",
-   "at": "2026-11-17T15:38:10.000Z",
-   "ev": [
-    "ukraine"
-   ],
-   "cc": [
-    "Russia",
-    "Ukraine"
-   ]
-  },
-  {
-   "id": "9bcadc61b859",
-   "t": "Calls for cooperation as ASEAN summit awaits Trump",
-   "ko": "아세안(ASEAN) 정상회담이 트럼프를 기다리는 가운데 협력 촉구",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/video/20261117-calls-for-cooperation-as-asean-summit-awaits-trump",
-   "at": "2026-11-17T15:37:28.000Z",
-   "ev": [],
-   "cc": [
-    "Philippines",
-    "United States"
-   ]
-  },
-  {
-   "id": "caaebf18a66e",
-   "t": "Estonia closes its border with Russia but can it keep Moscow out?",
-   "ko": "에스토니아는 러시아와의 국경을 폐쇄했지만 모스크바를 막을 수 있을까요?",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/europe/20261117-estonia-closes-its-border-with-russia-but-can-it-keep-moscow-out",
-   "at": "2026-11-17T15:28:26.000Z",
-   "ev": [],
-   "cc": [
-    "Estonia",
-    "Russia"
-   ]
-  },
-  {
-   "id": "e5d9fce6ba25",
-   "t": "Iran dismisses report of alleged 'dirty bomb' attack on Washington",
-   "ko": "이란, 워싱턴에 대한 '더러운 폭탄' 공격 주장 보도 일축",
-   "src": "DW",
-   "u": "https://www.dw.com/en/iran-dismisses-report-of-alleged-dirty-bomb-attack-on-washington/a-79970741?maca=en-rss-en-world-4025-rdf",
-   "at": "2026-11-17T14:39:00.000Z",
-   "ev": [
-    "iran"
-   ],
-   "cc": [
-    "Iran"
-   ]
-  },
-  {
-   "id": "5df5cda1f6fb",
-   "t": "Democrat Mary Peltola closes in on victory in closely watched US Senate race in Alaska – live",
-   "ko": "민주당 메리 펠톨라(Mary Peltola)가 알래스카에서 열린 미국 상원 경선에서 승리를 눈앞에 두고 있습니다.",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/us-news/live/2026/nov/17/donald-trump-alaska-senate-race-midterms-democrats-republicans-latest-news-updates",
-   "at": "2026-11-17T14:22:07.000Z",
-   "ev": [],
-   "cc": [
-    "United States",
-    "China",
-    "Russia"
    ]
   }
  ]
