@@ -1,17 +1,17 @@
 {
- "updated": "2026-11-19T02:40:02.898Z",
+ "updated": "2026-11-19T10:46:41.886Z",
  "sources": {
   "BBC": {
    "ok": true,
-   "n": 10
+   "n": 8
   },
   "Al Jazeera": {
    "ok": true,
-   "n": 8
+   "n": 5
   },
   "The Guardian": {
    "ok": true,
-   "n": 17
+   "n": 15
   },
   "DW": {
    "ok": true,
@@ -19,7 +19,7 @@
   },
   "France 24": {
    "ok": true,
-   "n": 13
+   "n": 10
   },
   "UN News": {
    "ok": true,
@@ -32,25 +32,44 @@
  },
  "items": [
   {
-   "id": "178f94915ff3",
-   "t": "Trump downplays US outages and Nvidia security concerns in remarks before China summit – live",
-   "ko": "트럼프는 중국 정상회담 전 발언에서 미국의 정전과 엔비디아 보안 우려를 경시했습니다.",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/us-news/live/2026/nov/18/donald-trump-mary-peltola-alaska-hakeem-jeffries-democrats-republicans-congress-house-senate-midterms-latest-news-updates",
-   "at": "2026-11-19T02:22:50.000Z",
-   "ev": [],
+   "id": "3dcabe914a16",
+   "t": "Ukraine's European allies meet in Berlin in show of support",
+   "ko": "우크라이나의 유럽 동맹국들이 베를린에서 만나 지지를 표명했습니다.",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/ukraine-s-european-allies-meet-in-berlin-in-show-of-support",
+   "at": "2026-11-19T10:43:58.000Z",
+   "ev": [
+    "ukraine"
+   ],
    "cc": [
+    "Ukraine",
     "United States",
-    "China"
+    "Germany"
    ]
   },
   {
-   "id": "90d8037f17be",
-   "t": "ICJ to rule on Rohingya genocide case against Myanmar",
-   "ko": "ICJ, 미얀마에 대한 로힝야 집단 학살 사건 판결",
+   "id": "5ac6485bd737",
+   "t": "Tusk appears to mock Trump’s Putin comment as Ukraine’s allies meet in Berlin – Europe live",
+   "ko": "투스크는 우크라이나의 동맹국들이 베를린에서 만나는 동안 트럼프의 푸틴 발언을 조롱하는 것으로 보인다 – 유럽 라이브",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/world/live/2026/nov/19/russia-ukraine-war-coalition-of-the-willing-europe-latest-news-updates",
+   "at": "2026-11-19T10:32:02.000Z",
+   "ev": [
+    "ukraine"
+   ],
+   "cc": [
+    "Ukraine",
+    "United States",
+    "Poland"
+   ]
+  },
+  {
+   "id": "ec20b8d86961",
+   "t": "UN top court convicts Myanmar of ‘genocidal intent’ against Rohingya",
+   "ko": "유엔 최고 법원, 미얀마에 로힝야족 학살 의도 혐의 유죄 판결",
    "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/news/2026/11/19/icj-to-rule-on-rohingya-genocide-case-against-myanmar?traffic_source=rss",
-   "at": "2026-11-19T02:10:43.000Z",
+   "u": "https://www.aljazeera.com/news/2026/11/19/un-top-court-finds-myanmar-killed-10000-rohingya-as-it-rules-on-genocide?traffic_source=rss",
+   "at": "2026-11-19T10:31:36.000Z",
    "ev": [
     "myanmar",
     "rohingya"
@@ -58,6 +77,276 @@
    "cc": [
     "Myanmar",
     "Gambia"
+   ]
+  },
+  {
+   "id": "7f5dccfcc1fb",
+   "t": "Crimea bridge has been attacked again, says Russian-installed governor",
+   "ko": "러시아가 임명한 주지사는 크리미아 다리가 또다시 공격을 받았다고 밝혔습니다.",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/world/2026/nov/19/kerch-bridge-crimea-russia-attacked-again-ukraine",
+   "at": "2026-11-19T10:03:42.000Z",
+   "ev": [
+    "ukraine"
+   ],
+   "cc": [
+    "Russia",
+    "Ukraine"
+   ]
+  },
+  {
+   "id": "933dececdad5",
+   "t": "Xi Jinping, Donald Trump and Vladimir Putin begin unprecedented summit in China",
+   "ko": "시진핑, 도널드 트럼프, 블라디미르 푸틴, 중국에서 전례 없는 정상회담 시작",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/xi-jinping-donald-trump-and-vladimir-putin-begin-unprecedented-summit-in-china",
+   "at": "2026-11-19T09:07:17.000Z",
+   "ev": [
+    "ukraine",
+    "iran"
+   ],
+   "cc": [
+    "China",
+    "Ukraine",
+    "Iran"
+   ]
+  },
+  {
+   "id": "69be7e3e1ef4",
+   "t": "Saudi-led coalition intercepts Houthi missiles targeting Riyadh and south",
+   "ko": "사우디 주도 연합군, 리야드와 남부를 겨냥한 후티 미사일 요격",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/11/19/saudi-led-coalition-intercepts-houthi-missiles-targeting-riyadh-and-south?traffic_source=rss",
+   "at": "2026-11-19T08:19:17.000Z",
+   "ev": [
+    "yemen"
+   ],
+   "cc": [
+    "Saudi Arabia"
+   ]
+  },
+  {
+   "id": "dab98dd23cf4",
+   "t": "Skyscraper in Riyadh damaged as Saudi Arabia reports surge in new Houthi attacks",
+   "ko": "사우디아라비아가 새로운 후티 반군 공격 급증을 보고하면서 리야드의 고층 건물이 파손되었습니다",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/middle-east/20261119-skyscraper-in-riyadh-damaged-as-saudi-arabia-reports-surge-in-new-houthi-attacks",
+   "at": "2026-11-19T07:58:16.000Z",
+   "ev": [
+    "yemen"
+   ],
+   "cc": [
+    "Saudi Arabia",
+    "Yemen"
+   ]
+  },
+  {
+   "id": "cce6a870c6e4",
+   "t": "Why is Pete Hegseth strengthening US military ties with Venezuela?",
+   "ko": "Pete Hegseth가 베네수엘라와 미국의 군사적 관계를 강화하는 이유는 무엇입니까?",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/11/19/why-is-pete-hegseth-strengthening-us-military-ties-with-venezuela?traffic_source=rss",
+   "at": "2026-11-19T07:52:30.000Z",
+   "ev": [],
+   "cc": [
+    "United States",
+    "Venezuela"
+   ]
+  },
+  {
+   "id": "8fa88520efca",
+   "t": "Gaza Syndrome: Why Israeli soldiers’ trauma erases Palestinian victims",
+   "ko": "가자 증후군: 이스라엘 군인들의 트라우마가 팔레스타인 희생자들을 지워버리는 이유",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/features/2026/11/19/gaza-syndrome-why-israeli-soldiers-trauma-erases-palestinian-victims?traffic_source=rss",
+   "at": "2026-11-19T07:51:03.000Z",
+   "ev": [
+    "gaza"
+   ],
+   "cc": [
+    "Palestine",
+    "Israel"
+   ]
+  },
+  {
+   "id": "1bbf36689e76",
+   "t": "Gaza: Israel launched new offensive on Nuseirat",
+   "ko": "가자지구: 이스라엘이 누세이라트에 새로운 공세를 시작했다",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/gaza-israel-launched-new-offensive-on-nuseirat",
+   "at": "2026-11-19T07:50:10.000Z",
+   "ev": [
+    "gaza"
+   ],
+   "cc": [
+    "Palestine",
+    "Israel"
+   ]
+  },
+  {
+   "id": "c87eb84089dd",
+   "t": "APEC summit: Trump seeks nuclear arms cuts, but few concrete results expected",
+   "ko": "APEC 정상회담: 트럼프는 핵무기 감축을 추구하지만 구체적인 결과는 거의 예상되지 않음",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/video/20261119-apec-summit-trump-seeks-nuclear-arms-cuts-but-few-concrete-results-expected",
+   "at": "2026-11-19T07:47:21.000Z",
+   "ev": [
+    "ukraine",
+    "iran"
+   ],
+   "cc": [
+    "United States",
+    "China",
+    "Iran"
+   ]
+  },
+  {
+   "id": "09762b40ca2a",
+   "t": "APEC summit: AI and tech competition between US and China",
+   "ko": "APEC 정상회담: 미국과 중국의 AI 및 기술 경쟁",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/beijing-summit-ai-and-tech-competition-between-us-and-china",
+   "at": "2026-11-19T07:45:52.000Z",
+   "ev": [
+    "ukraine",
+    "iran"
+   ],
+   "cc": [
+    "United States",
+    "China",
+    "Russia"
+   ]
+  },
+  {
+   "id": "8944b9bf2f7d",
+   "t": "Crimean Bridge attacked again, Russia says",
+   "ko": "러시아, 크림대교 또 공격…",
+   "src": "BBC",
+   "u": "https://www.bbc.co.uk/news/articles/cm879dqn3e1jo?at_medium=RSS&at_campaign=rss",
+   "at": "2026-11-19T07:32:06.000Z",
+   "ev": [],
+   "cc": [
+    "Russia"
+   ]
+  },
+  {
+   "id": "cd01ccb73b96",
+   "t": "Violent protests and killings in Bangladesh ahead of exiled Sheikh Hasina’s planned return",
+   "ko": "추방된 셰이크 하시나의 귀국을 앞두고 방글라데시에서 폭력 시위와 살해",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/world/2026/nov/19/bangladesh-violent-protest-sheikh-hasina-planned-return",
+   "at": "2026-11-19T06:58:33.000Z",
+   "ev": [],
+   "cc": [
+    "Bangladesh"
+   ]
+  },
+  {
+   "id": "68f2c2c4e5fe",
+   "t": "Tammy Shipley was supposed to be monitored in prison. Instead she died after drinking 20L of water",
+   "ko": "Tammy Shipley는 감옥에서 감시를 받기로되어있었습니다. 대신 물 20L 마시고 사망",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/australia-news/2026/nov/19/tammy-shipley-was-supposed-to-be-monitored-in-prison-instead-she-died-after-drinking-20l-of-water-ntwnfb",
+   "at": "2026-11-19T06:20:46.000Z",
+   "ev": [],
+   "cc": []
+  },
+  {
+   "id": "b3970ca8d300",
+   "t": "Mother whose twin baby died was determined to have home birth despite advice of experts, NSW inquest hears",
+   "ko": "NSW 조사 결과 쌍둥이 아기 사망한 산모, 전문가 조언에도 불구하고 집에서 출산하기로 결정",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/australia-news/2026/nov/19/mother-whose-twin-baby-died-was-determined-to-have-home-birth-despite-expert-advice-nsw-inquest-hears-ntwnfb",
+   "at": "2026-11-19T06:17:12.000Z",
+   "ev": [],
+   "cc": []
+  },
+  {
+   "id": "07e6ce0bedea",
+   "t": "‘Remarkable luck’: wreck of first Australian-built warship discovered exactly 128 years after sinking",
+   "ko": "'놀라운 행운': 침몰 후 정확히 128년 만에 발견된 호주 최초의 군함 잔해",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/environment/2026/nov/19/first-australian-built-warship-wreck-discovered",
+   "at": "2026-11-19T05:22:38.000Z",
+   "ev": [],
+   "cc": [
+    "Russia",
+    "Australia"
+   ]
+  },
+  {
+   "id": "9649f214a30e",
+   "t": "ICJ to rule on Rohingya genocide case against Myanmar: What’s at stake?",
+   "ko": "ICJ, 미얀마에 대한 로힝야 집단 학살 사건에 대한 판결: 무엇이 위태로울까?",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/11/19/icj-to-rule-on-rohingya-genocide-case-against-myanmar-whats-at-stake?traffic_source=rss",
+   "at": "2026-11-19T05:13:13.000Z",
+   "ev": [
+    "myanmar",
+    "rohingya"
+   ],
+   "cc": [
+    "Myanmar"
+   ]
+  },
+  {
+   "id": "972d7dbe830c",
+   "t": "Middle East crisis poses 'largest threat' to energy security in history, warns IEA",
+   "ko": "IEA는 중동 위기가 에너지 안보 역사상 '가장 큰 위협'이라고 경고했다.",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/middle-east/20261119-middle-east-crisis-energy-security-iea",
+   "at": "2026-11-19T05:11:59.000Z",
+   "ev": [
+    "iran"
+   ],
+   "cc": [
+    "United States",
+    "Israel",
+    "Iran"
+   ]
+  },
+  {
+   "id": "178f94915ff3",
+   "t": "Trump downplays US outages and Nvidia security concerns in remarks before China summit – as it happened",
+   "ko": "트럼프는 중국 정상회담 전 발언에서 미국의 정전과 엔비디아 보안 우려를 경시했습니다.",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/us-news/live/2026/nov/18/donald-trump-mary-peltola-alaska-hakeem-jeffries-democrats-republicans-congress-house-senate-midterms-latest-news-updates",
+   "at": "2026-11-19T03:11:52.000Z",
+   "ev": [],
+   "cc": [
+    "United States",
+    "China"
+   ]
+  },
+  {
+   "id": "c8eba0254b2c",
+   "t": "Top UN court to rule if Myanmar committed genocide against Rohingya minority",
+   "ko": "미얀마가 로힝야 소수민족에 대한 대량 학살을 저질렀다면 유엔 최고 법원이 판결할 것",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/asia-pacific/20261119-top-un-court-to-rule-if-myanmar-s-rohingya-crackdown-was-genocide",
+   "at": "2026-11-19T03:07:23.000Z",
+   "ev": [
+    "myanmar",
+    "rohingya"
+   ],
+   "cc": [
+    "Myanmar"
+   ]
+  },
+  {
+   "id": "e714c84be9f5",
+   "t": "Ukraine's allies to meet in Berlin to rally support for Kyiv after Trump-Putin-Xi talks",
+   "ko": "우크라이나 동맹국들은 트럼프-푸틴-시 회담 후 키예프에 대한 지지를 모으기 위해 베를린에서 만날 예정",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/europe/20261119-european-leaders-to-meet-in-berlin-to-support-for-ukraine-after-trump-putin-xi-talks",
+   "at": "2026-11-19T02:55:20.000Z",
+   "ev": [
+    "ukraine"
+   ],
+   "cc": [
+    "Ukraine",
+    "United States",
+    "Russia"
    ]
   },
   {
@@ -85,18 +374,6 @@
    ],
    "cc": [
     "Israel"
-   ]
-  },
-  {
-   "id": "8944b9bf2f7d",
-   "t": "Crimean Bridge attacked again, Russian official says",
-   "ko": "러시아 관리, 크림대교 또 공격…",
-   "src": "BBC",
-   "u": "https://www.bbc.co.uk/news/articles/cm879dqn3e1jo?at_medium=RSS&at_campaign=rss",
-   "at": "2026-11-19T01:05:03.000Z",
-   "ev": [],
-   "cc": [
-    "Russia"
    ]
   },
   {
@@ -170,21 +447,6 @@
    "cc": [
     "Senegal",
     "Spain"
-   ]
-  },
-  {
-   "id": "7f5dccfcc1fb",
-   "t": "Crimea bridge has been attacked again, says Russian-installed governor",
-   "ko": "러시아가 임명한 주지사는 크리미아 다리가 또다시 공격을 받았다고 밝혔습니다.",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/world/2026/nov/19/kerch-bridge-crimea-russia-attacked-again-ukraine",
-   "at": "2026-11-18T23:27:37.000Z",
-   "ev": [
-    "ukraine"
-   ],
-   "cc": [
-    "Russia",
-    "Ukraine"
    ]
   },
   {
@@ -2004,259 +2266,6 @@
     "United States",
     "China",
     "Russia"
-   ]
-  },
-  {
-   "id": "77727afd7ca4",
-   "t": "Five people injured amid severe turbulence on JetBlue flight to Florida",
-   "ko": "플로리다행 제트블루 항공기, 극심한 난기류로 5명 부상",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/us-news/2026/nov/17/five-injured-turbulence-jetblue-flight",
-   "at": "2026-11-17T14:20:20.000Z",
-   "ev": [],
-   "cc": [
-    "United States",
-    "Puerto Rico"
-   ]
-  },
-  {
-   "id": "a3cdde0deff6",
-   "t": "‘Unprecedented’ Ukraine attack on Crimean bridge",
-   "ko": "우크라이나, 크림대교 공격 '전례 없는'",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/video/newsfeed/2026/11/17/unprecedented-ukraine-attack-on-crimean-bridge?traffic_source=rss",
-   "at": "2026-11-17T13:29:27.000Z",
-   "ev": [
-    "ukraine"
-   ],
-   "cc": [
-    "Ukraine",
-    "Russia"
-   ]
-  },
-  {
-   "id": "2a25e8c6bdfa",
-   "t": "Ukraine critically damages Kerch bridge linking occupied Crimea with Russia",
-   "ko": "우크라이나, 점령 중인 크림 반도와 러시아를 연결하는 케르치 다리를 심각한 손상",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/world/2026/nov/17/ukraine-strikes-critical-damage-russia-kerch-bridge-crimea",
-   "at": "2026-11-17T13:25:02.000Z",
-   "ev": [
-    "ukraine"
-   ],
-   "cc": [
-    "Ukraine",
-    "Russia"
-   ]
-  },
-  {
-   "id": "f5c95b408dc3",
-   "t": "At the origin of France’s education protests, students refuse to give up",
-   "ko": "프랑스 교육시위의 근원, 학생들은 포기하지 않았다",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/news/2026/11/17/at-the-origin-of-frances-education-protests-students-refuse-to-give-up?traffic_source=rss",
-   "at": "2026-11-17T13:14:25.000Z",
-   "ev": [],
-   "cc": [
-    "France"
-   ]
-  },
-  {
-   "id": "0a6bb89bb776",
-   "t": "Ukraine: Two bridges in Kyiv heavily damaged by Russian strikes",
-   "ko": "우크라이나: 러시아 공습으로 키예프 교량 2개 크게 파손",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/video/20261117-ukraine-two-bridges-in-kyiv-heavily-damaged-by-russian-strikes",
-   "at": "2026-11-17T12:54:27.000Z",
-   "ev": [
-    "ukraine"
-   ],
-   "cc": [
-    "Ukraine",
-    "Russia",
-    "China"
-   ]
-  },
-  {
-   "id": "b0aab3ed9431",
-   "t": "Iranians fear more civilian infrastructure could be targeted in new US war",
-   "ko": "이란, 미국의 새로운 전쟁에서 더 많은 민간 기반 시설이 표적이 될 수 있다고 우려",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/news/2026/11/17/iranians-fear-more-civilian-infrastructure-could-be-targeted-in-new-us-war?traffic_source=rss",
-   "at": "2026-11-17T12:50:12.000Z",
-   "ev": [
-    "iran"
-   ],
-   "cc": [
-    "United States"
-   ]
-  },
-  {
-   "id": "6926f194e5d2",
-   "t": "Mozambique opposition leader faces trial over deadly 2024 election unrest",
-   "ko": "모잠비크 야당 지도자, 치명적인 2024년 선거 불안으로 재판에 직면",
-   "src": "BBC",
-   "u": "https://www.bbc.co.uk/news/articles/crq5vl1l6z2po?at_medium=RSS&at_campaign=rss",
-   "at": "2026-11-17T12:35:57.000Z",
-   "ev": [
-    "mozambique"
-   ],
-   "cc": [
-    "Mozambique"
-   ]
-  },
-  {
-   "id": "da13ec7e3bd6",
-   "t": "Is the US-Israel war on Iran turning into a ‘frozen conflict’?",
-   "ko": "미국-이스라엘의 이란 전쟁이 '동결 갈등'으로 변하고 있는가?",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/news/2026/11/17/is-the-us-israel-war-on-iran-turning-into-a-frozen-conflict?traffic_source=rss",
-   "at": "2026-11-17T12:33:51.000Z",
-   "ev": [
-    "iran"
-   ],
-   "cc": [
-    "Iran"
-   ]
-  },
-  {
-   "id": "69f16d5ee62f",
-   "t": "Serbia’s Student List candidates sworn in as MPs after election triumph",
-   "ko": "세르비아 학생 명단 후보자들이 선거 승리 후 국회의원으로 선서했습니다.",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/world/2026/nov/17/serbia-student-list-mps-sworn-in-election-triumph",
-   "at": "2026-11-17T12:31:56.000Z",
-   "ev": [],
-   "cc": [
-    "Serbia"
-   ]
-  },
-  {
-   "id": "4e8e93e74c46",
-   "t": "Guinea jails 200 in wildcat gold mining crackdown",
-   "ko": "기니, 살쾡이 금광 채굴 단속으로 200명 투옥",
-   "src": "DW",
-   "u": "https://www.dw.com/en/guinea-jails-200-in-wildcat-gold-mining-crackdown/a-79968808?maca=en-rss-en-world-4025-rdf",
-   "at": "2026-11-17T12:30:00.000Z",
-   "ev": [
-    "sahel"
-   ],
-   "cc": [
-    "Guinea",
-    "Mali"
-   ]
-  },
-  {
-   "id": "2de18d8eb339",
-   "t": "Ukraine strikes major Russian bridge in Crimea with drones and missiles",
-   "ko": "우크라이나, 드론과 미사일로 크림반도 러시아 주요 교량 공격",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/video/20261117-ukraine-strikes-major-russian-bridge-in-crimea-with-drones-and-missiles",
-   "at": "2026-11-17T12:17:34.000Z",
-   "ev": [
-    "ukraine"
-   ],
-   "cc": [
-    "Ukraine",
-    "Russia"
-   ]
-  },
-  {
-   "id": "01bd62afa7d5",
-   "t": "Mozambique’s opposition leader stands trial over deadly 2024 protests",
-   "ko": "모잠비크 야당 지도자, 치명적인 2024년 시위에 대해 재판을 받다",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/news/2026/11/17/mozambiques-opposition-leader-stands-trial-over-deadly-2024-protests?traffic_source=rss",
-   "at": "2026-11-17T12:10:53.000Z",
-   "ev": [
-    "mozambique"
-   ],
-   "cc": [
-    "Mozambique"
-   ]
-  },
-  {
-   "id": "0d6c9118ea43",
-   "t": "Ukraine, Russia hit key bridges ahead of Putin-Xi-Trump summit",
-   "ko": "우크라이나, 러시아, 푸틴-시진핑-트럼프 정상회담 앞두고 주요 교량 타격",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/video/20261117-ukraine-russia-hit-key-bridges-ahead-of-putin-xi-trump-summit",
-   "at": "2026-11-17T12:00:59.000Z",
-   "ev": [
-    "ukraine"
-   ],
-   "cc": [
-    "Ukraine",
-    "Russia",
-    "China"
-   ]
-  },
-  {
-   "id": "2855efbaea82",
-   "t": "Ukraine: Civilian casualties in 2026 already far exceed previous years’ tolls",
-   "ko": "우크라이나: 2026년 민간인 사상자 수는 이미 전년도 사망자 수를 훨씬 초과했습니다.",
-   "src": "UN News",
-   "u": "https://news.un.org/feed/view/en/story/2026/11/1168828",
-   "at": "2026-11-17T12:00:00.000Z",
-   "ev": [
-    "ukraine"
-   ],
-   "cc": [
-    "Ukraine",
-    "Russia"
-   ]
-  },
-  {
-   "id": "c0f996bc37a2",
-   "t": "Winter rains deepen Gaza crisis amid restricted access and aid cuts",
-   "ko": "제한된 접근과 구호 삭감으로 인해 겨울 비가 가자지구 위기를 심화시킵니다.",
-   "src": "UN News",
-   "u": "https://news.un.org/feed/view/en/story/2026/11/1168821",
-   "at": "2026-11-17T12:00:00.000Z",
-   "ev": [
-    "gaza"
-   ],
-   "cc": [
-    "Palestine"
-   ]
-  },
-  {
-   "id": "534982271b9a",
-   "t": "Gunmen kill Costa Rican journalist who reported on drugs trade",
-   "ko": "무장괴한이 마약 거래를 보도한 코스타리카 기자를 사살했다",
-   "src": "BBC",
-   "u": "https://www.bbc.co.uk/news/articles/c6ly7g5lx7gyo?at_medium=RSS&at_campaign=rss",
-   "at": "2026-11-17T11:58:16.000Z",
-   "ev": [],
-   "cc": [
-    "Costa Rica"
-   ]
-  },
-  {
-   "id": "9c0aed722d59",
-   "t": "Bridge between Russia and occupied Crimea ‘no longer usable’ after Kyiv strike | First Thing",
-   "ko": "키예프 파업 이후 러시아와 점령 중인 크리미아 사이의 다리 '더 이상 사용할 수 없음' | 가장 중요한 것",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/us-news/2026/nov/17/first-thing-russia-crimea-kerch-bridge-ukraine-strike",
-   "at": "2026-11-17T11:26:49.000Z",
-   "ev": [
-    "ukraine"
-   ],
-   "cc": [
-    "Russia",
-    "Ukraine"
-   ]
-  },
-  {
-   "id": "b9bfa3d5f042",
-   "t": "French presidential debate: 'Le Pen exposed xenophobic and authoritarian aspects of her policies'",
-   "ko": "프랑스 대선 토론회: '르펜은 자신의 정책에서 외국인 혐오적이고 권위주의적인 측면을 드러냈다'",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/french-presidential-debate-le-pen-exposed-xenophobic-and-authoritarian-aspects-of-her-policies",
-   "at": "2026-11-17T11:20:47.000Z",
-   "ev": [],
-   "cc": [
-    "France"
    ]
   }
  ]
