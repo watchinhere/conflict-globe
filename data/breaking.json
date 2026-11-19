@@ -1,25 +1,25 @@
 {
- "updated": "2026-11-18T21:12:04.310Z",
+ "updated": "2026-11-19T02:40:02.898Z",
  "sources": {
   "BBC": {
    "ok": true,
-   "n": 13
+   "n": 10
   },
   "Al Jazeera": {
    "ok": true,
-   "n": 11
+   "n": 8
   },
   "The Guardian": {
    "ok": true,
-   "n": 13
+   "n": 17
   },
   "DW": {
    "ok": true,
-   "n": 4
+   "n": 5
   },
   "France 24": {
    "ok": true,
-   "n": 11
+   "n": 13
   },
   "UN News": {
    "ok": true,
@@ -32,9 +32,274 @@
  },
  "items": [
   {
+   "id": "178f94915ff3",
+   "t": "Trump downplays US outages and Nvidia security concerns in remarks before China summit – live",
+   "ko": "트럼프는 중국 정상회담 전 발언에서 미국의 정전과 엔비디아 보안 우려를 경시했습니다.",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/us-news/live/2026/nov/18/donald-trump-mary-peltola-alaska-hakeem-jeffries-democrats-republicans-congress-house-senate-midterms-latest-news-updates",
+   "at": "2026-11-19T02:22:50.000Z",
+   "ev": [],
+   "cc": [
+    "United States",
+    "China"
+   ]
+  },
+  {
+   "id": "90d8037f17be",
+   "t": "ICJ to rule on Rohingya genocide case against Myanmar",
+   "ko": "ICJ, 미얀마에 대한 로힝야 집단 학살 사건 판결",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/11/19/icj-to-rule-on-rohingya-genocide-case-against-myanmar?traffic_source=rss",
+   "at": "2026-11-19T02:10:43.000Z",
+   "ev": [
+    "myanmar",
+    "rohingya"
+   ],
+   "cc": [
+    "Myanmar",
+    "Gambia"
+   ]
+  },
+  {
+   "id": "8fe81af2c81d",
+   "t": "Hegseth unveils new US-Venezuela military deal",
+   "ko": "Hegseth, 새로운 미국-베네수엘라 군사 협정 발표",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/video/newsfeed/2026/11/19/hegseth-unveils-new-us-venezuela-military-deal?traffic_source=rss",
+   "at": "2026-11-19T01:48:46.000Z",
+   "ev": [],
+   "cc": [
+    "Venezuela",
+    "United States"
+   ]
+  },
+  {
+   "id": "06181339fac7",
+   "t": "Settler rams into Palestinians at multiple locations in central Israel",
+   "ko": "정착민들이 이스라엘 중부의 여러 지역에서 팔레스타인 사람들을 공격하고 있습니다.",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/video/newsfeed/2026/11/19/settler-rams-into-palestinians-at-multiple-locations-in-central-israel?traffic_source=rss",
+   "at": "2026-11-19T01:13:45.000Z",
+   "ev": [
+    "westbank"
+   ],
+   "cc": [
+    "Israel"
+   ]
+  },
+  {
+   "id": "8944b9bf2f7d",
+   "t": "Crimean Bridge attacked again, Russian official says",
+   "ko": "러시아 관리, 크림대교 또 공격…",
+   "src": "BBC",
+   "u": "https://www.bbc.co.uk/news/articles/cm879dqn3e1jo?at_medium=RSS&at_campaign=rss",
+   "at": "2026-11-19T01:05:03.000Z",
+   "ev": [],
+   "cc": [
+    "Russia"
+   ]
+  },
+  {
+   "id": "eef9406edacd",
+   "t": "Beau Lamarre-Condon’s testimony about Jesse Baird and Luke Davies’ deaths ‘fanciful in the extreme’, crown alleges",
+   "ko": "Jesse Baird와 Luke Davies의 죽음에 대한 Beau Lamarre-Condon의 증언은 '극단적으로 환상적'이라고 왕관은 주장합니다.",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/australia-news/2026/nov/19/beau-lamarre-condon-jesse-baird-luke-davies-ntwnfb",
+   "at": "2026-11-19T01:00:25.000Z",
+   "ev": [],
+   "cc": []
+  },
+  {
+   "id": "5f0350baf0ce",
+   "t": "Almost 1 in 4 children live in conflict zones — report",
+   "ko": "어린이 4명 중 거의 1명이 분쟁 지역에 살고 있습니다 — 보고서",
+   "src": "DW",
+   "u": "https://www.dw.com/en/almost-1-in-4-children-live-in-conflict-zones-report/a-79979203?maca=en-rss-en-world-4025-rdf",
+   "at": "2026-11-19T00:34:00.000Z",
+   "ev": [],
+   "cc": []
+  },
+  {
+   "id": "d8abb0b94743",
+   "t": "Unvaccinated Pennsylvania resident dies amid historic US measles resurgence",
+   "ko": "역사적인 미국 홍역 재발로 인해 예방접종을 받지 않은 펜실베니아 주민 사망",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/11/19/unvaccinated-pennsylvania-resident-dies-amid-historic-us-measles-resurgence?traffic_source=rss",
+   "at": "2026-11-19T00:14:40.000Z",
+   "ev": [],
+   "cc": [
+    "United States"
+   ]
+  },
+  {
+   "id": "8a80a14053f2",
+   "t": "Mike Lynch’s superyacht had unidentified vulnerability to high winds, report finds",
+   "ko": "마이크 린치(Mike Lynch)의 슈퍼요트가 강풍에 미확인 취약성을 갖고 있다는 보고서가 나왔습니다.",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/world/2026/nov/19/mike-lynch-superyacht-bayesian-vulnerability-to-high-winds-report",
+   "at": "2026-11-19T00:01:11.000Z",
+   "ev": [],
+   "cc": [
+    "United Kingdom"
+   ]
+  },
+  {
+   "id": "c69230f31116",
+   "t": "Iran war live: Saudi-led coalition strikes Yemen; ships on fire in Hormuz",
+   "ko": "이란 전쟁 라이브: 사우디 주도 연합군이 예멘을 공격합니다. 호르무즈에서 불타고 있는 배들",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/liveblog/2026/11/19/iran-war-live-saudi-led-coalition-strikes-yemen-ships-on-fire-in-hormuz?traffic_source=rss",
+   "at": "2026-11-19T00:01:02.000Z",
+   "ev": [
+    "iran",
+    "yemen"
+   ],
+   "cc": [
+    "Iran",
+    "Yemen"
+   ]
+  },
+  {
+   "id": "32224de2dbb7",
+   "t": "Migrant boat capsizes off Senegal, leaving at least one dead",
+   "ko": "세네갈 앞바다서 난민 보트 전복돼 최소 1명 사망",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/11/18/migrant-boat-capsizes-off-senegal-leaving-at-least-one-dead?traffic_source=rss",
+   "at": "2026-11-18T23:36:23.000Z",
+   "ev": [],
+   "cc": [
+    "Senegal",
+    "Spain"
+   ]
+  },
+  {
+   "id": "7f5dccfcc1fb",
+   "t": "Crimea bridge has been attacked again, says Russian-installed governor",
+   "ko": "러시아가 임명한 주지사는 크리미아 다리가 또다시 공격을 받았다고 밝혔습니다.",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/world/2026/nov/19/kerch-bridge-crimea-russia-attacked-again-ukraine",
+   "at": "2026-11-18T23:27:37.000Z",
+   "ev": [
+    "ukraine"
+   ],
+   "cc": [
+    "Russia",
+    "Ukraine"
+   ]
+  },
+  {
+   "id": "a2c3574e4f0c",
+   "t": "Israeli tanks cross ‘yellow line’ boundary into Hamas-controlled central Gaza",
+   "ko": "이스라엘 탱크, '노란색 선' 경계를 넘어 하마스가 통제하는 가자지구 중심부로 진입",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/world/2026/nov/18/israeli-tanks-cross-yellow-line-boundary-into-hamas-controlled-central-gaza",
+   "at": "2026-11-18T23:25:25.000Z",
+   "ev": [
+    "gaza"
+   ],
+   "cc": [
+    "Israel",
+    "Palestine"
+   ]
+  },
+  {
+   "id": "cd24719f402d",
+   "t": "Myanmar faces historic genocide verdict at UN court over Rohingya massacres",
+   "ko": "미얀마, 로힝야족 학살에 대해 유엔 법원에서 역사적인 대량학살 판결을 앞두고 있다",
+   "src": "BBC",
+   "u": "https://www.bbc.co.uk/news/articles/c5m2l90ez144o?at_medium=RSS&at_campaign=rss",
+   "at": "2026-11-18T23:04:06.000Z",
+   "ev": [
+    "myanmar",
+    "rohingya"
+   ],
+   "cc": [
+    "Myanmar"
+   ]
+  },
+  {
+   "id": "c3261a1d086e",
+   "t": "Israeli military launches rare ground operation in Gaza beyond Yellow Line",
+   "ko": "이스라엘군, 옐로우라인 너머 가자지구에서 희귀 지상작전 개시",
+   "src": "BBC",
+   "u": "https://www.bbc.co.uk/news/articles/cw8r7510degno?at_medium=RSS&at_campaign=rss",
+   "at": "2026-11-18T22:34:56.000Z",
+   "ev": [
+    "gaza"
+   ],
+   "cc": [
+    "Israel",
+    "Palestine"
+   ]
+  },
+  {
+   "id": "bce0f75bc442",
+   "t": "24-month matured Comté crowned world’s best cheese",
+   "ko": "24개월 숙성한 콩테 치즈, 세계 최고의 치즈로 선정",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/video/20261118-24-month-matured-comt%C3%A9-crowned-world-s-best-cheese",
+   "at": "2026-11-18T22:32:24.000Z",
+   "ev": [],
+   "cc": [
+    "France"
+   ]
+  },
+  {
+   "id": "94287023c763",
+   "t": "Florida pastor found guilty over 2021 assassination of Haitian president",
+   "ko": "플로리다 목사, 2021년 아이티 대통령 암살 혐의로 유죄 판결",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/us-news/2026/nov/18/florida-pastor-guilty-haiti-president-assassination",
+   "at": "2026-11-18T22:31:41.000Z",
+   "ev": [
+    "haiti"
+   ],
+   "cc": [
+    "United States",
+    "Haiti"
+   ]
+  },
+  {
+   "id": "e5bee1d5ece2",
+   "t": "Inside Limoges City Hall devastated by arson attack",
+   "ko": "방화 공격으로 파괴된 리모주 시청 내부",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/tv-shows/business/20261118-inside-limoges-city-hall-devastated-by-arson-attack",
+   "at": "2026-11-18T22:23:48.000Z",
+   "ev": [],
+   "cc": [
+    "France"
+   ]
+  },
+  {
+   "id": "d79b3a7c4ca0",
+   "t": "Crimea bridge strike: Fact-checking fake videos of damage after Ukraine's attack",
+   "ko": "크림 반도 교량 공격: 우크라이나 공격 이후 피해에 대한 가짜 동영상 사실 확인",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/tv-shows/truth-or-fake/20261118-crimea-bridge-strike-fact-checking-fake-videos-of-damage-after-ukraine-s-attack",
+   "at": "2026-11-18T21:51:43.000Z",
+   "ev": [
+    "ukraine"
+   ],
+   "cc": [
+    "Ukraine",
+    "Russia"
+   ]
+  },
+  {
+   "id": "c5c72d03a8e9",
+   "t": "Member of anti-migrant group found guilty of Staffordshire murder",
+   "ko": "스태퍼드셔 살인 혐의로 반이민 단체 회원 유죄 판결",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/uk-news/2026/nov/18/member-anti-migrant-group-guilty-murder-raise-colours-billy-allison",
+   "at": "2026-11-18T21:27:54.000Z",
+   "ev": [],
+   "cc": []
+  },
+  {
    "id": "6ccc664f8996",
-   "t": "US defence secretary announces military partnership on trip to Venezuela",
-   "ko": "미국 국방장관, 베네수엘라 방문 중 군사동맹 발표",
+   "t": "US Defence Secretary Hegseth reveals military partnership on Venezuela trip",
+   "ko": "헤그세스 미 국방장관, 베네수엘라 순방에서 군사동맹 공개",
    "src": "Al Jazeera",
    "u": "https://www.aljazeera.com/news/2026/11/18/us-defence-secretary-announces-military-partnership-on-trip-to-venezuela?traffic_source=rss",
    "at": "2026-11-18T21:01:05.000Z",
@@ -82,21 +347,6 @@
    "cc": [
     "Venezuela",
     "United States"
-   ]
-  },
-  {
-   "id": "c3261a1d086e",
-   "t": "Israeli military launches rare ground operation in Gaza beyond Yellow Line",
-   "ko": "이스라엘군, 옐로우라인 너머 가자지구에서 희귀 지상작전 개시",
-   "src": "BBC",
-   "u": "https://www.bbc.co.uk/news/articles/cw8r7510degno?at_medium=RSS&at_campaign=rss",
-   "at": "2026-11-18T20:14:57.000Z",
-   "ev": [
-    "gaza"
-   ],
-   "cc": [
-    "Israel",
-    "Palestine"
    ]
   },
   {
@@ -212,6 +462,19 @@
    "cc": [
     "France",
     "United Kingdom"
+   ]
+  },
+  {
+   "id": "0ef9e9ce09ec",
+   "t": "Hegseth makes surprise trip to Venezuela, renews military cooperation",
+   "ko": "헤그세스, 베네수엘라 깜짝 방문, 군사 협력 재개",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/americas/20261118-hegseth-makes-surprise-trip-to-venezuela-renews-military-cooperation",
+   "at": "2026-11-18T18:59:20.000Z",
+   "ev": [],
+   "cc": [
+    "Venezuela",
+    "United States"
    ]
   },
   {
@@ -480,21 +743,6 @@
    "ev": [],
    "cc": [
     "India"
-   ]
-  },
-  {
-   "id": "f7c34df723c2",
-   "t": "ICJ to rule on Rohingya genocide case against Myanmar: What to know",
-   "ko": "ICJ, 미얀마에 대한 로힝야 집단 학살 사건 판결: 알아야 할 사항",
-   "src": "DW",
-   "u": "https://www.dw.com/en/icj-to-rule-on-rohingya-genocide-case-against-myanmar-what-to-know/a-79981434?maca=en-rss-en-world-4025-rdf",
-   "at": "2026-11-18T14:27:00.000Z",
-   "ev": [
-    "myanmar",
-    "rohingya"
-   ],
-   "cc": [
-    "Myanmar"
    ]
   },
   {
@@ -2009,271 +2257,6 @@
    "ev": [],
    "cc": [
     "France"
-   ]
-  },
-  {
-   "id": "8106e514c2b3",
-   "t": "🔴 Live: Kerch Bridge to occupied Crimea closed after Ukrainian strikes collapse road section",
-   "ko": "🔴 라이브: 우크라이나 공습으로 도로 구간이 붕괴된 후 점령 중인 크리미아로 가는 케르치 다리 폐쇄",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/europe/20261117-live-russian-attacks-target-bridges-in-kyiv-knocking-out-heating-and-water-ukraine",
-   "at": "2026-11-17T11:11:20.000Z",
-   "ev": [
-    "ukraine"
-   ],
-   "cc": [
-    "Ukraine"
-   ]
-  },
-  {
-   "id": "49b7ae670bfb",
-   "t": "Bangladesh police clash with garment workers amid protests over wages",
-   "ko": "방글라데시 경찰, 임금 인상 반대 시위에 의류 노동자들과 충돌",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/news/2026/11/17/bangladesh-garment-workers-clash-with-police-in-fresh-protests-over-wages?traffic_source=rss",
-   "at": "2026-11-17T11:06:12.000Z",
-   "ev": [],
-   "cc": [
-    "Bangladesh"
-   ]
-  },
-  {
-   "id": "9efce15ccb9c",
-   "t": "Hundreds arrested in anti-Trump protests in Philippines amid anger over Iran war and AI pact",
-   "ko": "이란 전쟁과 AI 조약에 대한 분노 속에 필리핀 반트럼프 시위에서 수백명 체포",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/world/2026/nov/17/hundreds-arrested-manila-anti-trump-protests-philippines",
-   "at": "2026-11-17T11:00:39.000Z",
-   "ev": [
-    "iran"
-   ],
-   "cc": [
-    "Philippines",
-    "Iran",
-    "United States"
-   ]
-  },
-  {
-   "id": "125d6a4de07d",
-   "t": "Third US aircraft carrier arrives in the Middle East as Iran targets Bahrain",
-   "ko": "이란이 바레인을 표적으로 삼는 가운데 미국의 세 번째 항공모함이 중동에 도착했다.",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/video/20261117-third-us-aircraft-carrier-arrives-in-the-middle-east-as-iran-targets-bahrain",
-   "at": "2026-11-17T10:46:27.000Z",
-   "ev": [
-    "iran"
-   ],
-   "cc": [
-    "United States",
-    "Iran",
-    "Bahrain"
-   ]
-  },
-  {
-   "id": "b6ca0ab077e0",
-   "t": "Saudi Arabia replaces military commander after Yemen setbacks",
-   "ko": "사우디아라비아, 예멘의 패배 이후 군 사령관 교체",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/video/20261117-saudi-arabia-replaces-military-commander-after-yemen-setbacks",
-   "at": "2026-11-17T10:44:27.000Z",
-   "ev": [
-    "iran",
-    "yemen"
-   ],
-   "cc": [
-    "Saudi Arabia",
-    "Yemen"
-   ]
-  },
-  {
-   "id": "82ea4c937294",
-   "t": "Trump arrives in Philippines to kick off Asia trip",
-   "ko": "트럼프, 아시아 순방차 필리핀 도착",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/video/20261117-trump-arrives-in-philippines-to-kick-off-asia-trip",
-   "at": "2026-11-17T10:21:23.000Z",
-   "ev": [],
-   "cc": [
-    "Philippines",
-    "United States",
-    "France"
-   ]
-  },
-  {
-   "id": "8251eef4967c",
-   "t": "Candidates clash over cost of living in French presidential debate",
-   "ko": "프랑스 대선 토론회에서 후보자들, 생활비 문제로 충돌",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/video/20261117-candidates-clash-over-cost-of-living-in-french-presidential-debate",
-   "at": "2026-11-17T10:01:59.000Z",
-   "ev": [],
-   "cc": [
-    "France"
-   ]
-  },
-  {
-   "id": "90aa192e9b05",
-   "t": "Russia receiving ‘dozens of missiles per month’ from North Korea, says Kyiv",
-   "ko": "키예프 \"러시아, 북한으로부터 매달 수십 발의 미사일 받고 있다\"",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/video/20261117-russia-receiving-dozens-of-missiles-per-month-from-north-korea-says-kyiv",
-   "at": "2026-11-17T09:57:14.000Z",
-   "ev": [
-    "ukraine"
-   ],
-   "cc": [
-    "Russia",
-    "North Korea",
-    "Ukraine"
-   ]
-  },
-  {
-   "id": "3ed305e1ffb4",
-   "t": "Ukraine strikes major Russian bridge with drones and missiles as aerial attacks escalate",
-   "ko": "우크라이나, 공중 공격이 확대되자 드론과 미사일로 러시아 주요 교량 공격",
-   "src": "NPR",
-   "u": "https://www.npr.org/2026/11/17/g-s1-153946/russia-ukraine-war",
-   "at": "2026-11-17T09:50:45.000Z",
-   "ev": [
-    "ukraine"
-   ],
-   "cc": [
-    "Ukraine",
-    "Russia"
-   ]
-  },
-  {
-   "id": "552e72f45612",
-   "t": "‘Line their own coffers’: independent MPs lambast Labor’s last-minute changes to election funding laws",
-   "ko": "'자기 금고에 줄을 서다': 무소속 의원들은 노동당의 선거자금법 개정을 맹렬히 비난합니다.",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/australia-news/2026/nov/17/line-their-own-coffers-independent-mps-lambast-labors-last-minute-changes-to-election-funding-laws",
-   "at": "2026-11-17T08:50:38.000Z",
-   "ev": [],
-   "cc": [
-    "Australia"
-   ]
-  },
-  {
-   "id": "cfacadb87baf",
-   "t": "Japan sends up jets after alleged Russian incursion of its airspace",
-   "ko": "일본, 러시아의 영공 침범 주장에 전투기 출동",
-   "src": "BBC",
-   "u": "https://www.bbc.co.uk/news/articles/c60evw20qe47o?at_medium=RSS&at_campaign=rss",
-   "at": "2026-11-17T07:44:17.000Z",
-   "ev": [],
-   "cc": [
-    "Japan",
-    "Russia",
-    "Taiwan"
-   ]
-  },
-  {
-   "id": "901e9997c037",
-   "t": "India has been named a ‘destination of the year’ for 2027 – here are insiders’ tips on travelling beyond the tropes",
-   "ko": "인도는 2027년 '올해의 여행지'로 선정되었습니다. 비유를 넘어 여행하는 데 대한 내부자의 팁은 다음과 같습니다.",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/world/2026/nov/16/is-is-india-travel-boom-travel-and-leisure-women",
-   "at": "2026-11-17T07:30:06.000Z",
-   "ev": [],
-   "cc": [
-    "India"
-   ]
-  },
-  {
-   "id": "a86706e3346d",
-   "t": "Live: France braces for new day of protests as unions call for nationwide strike",
-   "ko": "라이브: 노조가 전국적인 파업을 요구함에 따라 프랑스는 새로운 시위 날을 대비하고 있습니다.",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/france/20261117-live-france-braces-for-new-day-protests-unions-call-nationwide-strike",
-   "at": "2026-11-17T07:16:51.000Z",
-   "ev": [],
-   "cc": [
-    "France"
-   ]
-  },
-  {
-   "id": "3d9092a38487",
-   "t": "New mass protests expected in France Tuesday as presidential election approaches",
-   "ko": "대선이 다가옴에 따라 화요일 프랑스에서 새로운 대규모 시위가 예상됩니다.",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/new-mass-protests-expected-france-tuesday-presidential-election-approaches",
-   "at": "2026-11-17T06:41:10.000Z",
-   "ev": [],
-   "cc": [
-    "France"
-   ]
-  },
-  {
-   "id": "b1602a2dbd67",
-   "t": "Ukraine accuses Russia of targeting rescue operation after 'double-tap' strike kills 72",
-   "ko": "우크라이나, '더블 탭' 공격으로 72명 사망 후 러시아가 구조 작전을 목표로 삼고 있다고 비난",
-   "src": "BBC",
-   "u": "https://www.bbc.co.uk/news/articles/c30rk8x5g80qo?at_medium=RSS&at_campaign=rss",
-   "at": "2026-11-17T05:59:01.000Z",
-   "ev": [
-    "ukraine"
-   ],
-   "cc": [
-    "Ukraine",
-    "Russia"
-   ]
-  },
-  {
-   "id": "dba39abea45c",
-   "t": "Gunfire erupts in occupied West Bank settler attack",
-   "ko": "점령된 서안지구 정착민 공격에 총격 발생",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/video/newsfeed/2026/11/17/gunfire-erupts-in-occupied-west-bank-settler-attack?traffic_source=rss",
-   "at": "2026-11-17T04:00:08.000Z",
-   "ev": [
-    "westbank"
-   ],
-   "cc": [
-    "Palestine",
-    "Israel"
-   ]
-  },
-  {
-   "id": "18f77c5f2bf9",
-   "t": "CFMEU pushed to get notorious Bandidos member hired on construction project, Big Build royal commission hears",
-   "ko": "CFMEU는 건설 프로젝트에 악명 높은 Bandidos 멤버를 고용하기 위해 추진했으며 Big Build 왕실위원회는 듣습니다.",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/australia-news/2026/nov/17/cfmeu-bandidos-bikie-joel-leavitt-big-build-royal-commission-ntwnfb",
-   "at": "2026-11-17T03:51:23.000Z",
-   "ev": [],
-   "cc": []
-  },
-  {
-   "id": "78f74af01219",
-   "t": "Tankers hit in Strait of Hormuz as drone raises alarm at Iraq gas field",
-   "ko": "호르무즈 해협에서 유조선이 공격을 받고 이라크 가스전에서 드론이 경보를 울렸습니다.",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/news/2026/11/17/tankers-hit-in-strait-of-hormuz-as-drone-raises-alarm-at-iraq-gas-field?traffic_source=rss",
-   "at": "2026-11-17T03:12:54.000Z",
-   "ev": [
-    "iran"
-   ],
-   "cc": [
-    "Iraq",
-    "Iran",
-    "United States"
-   ]
-  },
-  {
-   "id": "b4bc0dc8d6e0",
-   "t": "Trump heads to Asia for historic nuclear talks with China and Russia",
-   "ko": "트럼프, 중국, 러시아와 역사적인 핵 협상을 위해 아시아로 향하다",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/asia-pacific/20261117-trump-asia-nuclear-talks-china-russia",
-   "at": "2026-11-17T03:07:59.000Z",
-   "ev": [
-    "ukraine"
-   ],
-   "cc": [
-    "China",
-    "Russia",
-    "United States"
    ]
   }
  ]
