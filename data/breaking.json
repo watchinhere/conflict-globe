@@ -1,25 +1,25 @@
 {
- "updated": "2026-11-20T01:26:54.638Z",
+ "updated": "2026-11-20T09:10:16.326Z",
  "sources": {
   "BBC": {
    "ok": true,
-   "n": 11
+   "n": 10
   },
   "Al Jazeera": {
    "ok": true,
-   "n": 16
+   "n": 5
   },
   "The Guardian": {
    "ok": true,
-   "n": 17
+   "n": 19
   },
   "DW": {
    "ok": true,
-   "n": 6
+   "n": 4
   },
   "France 24": {
    "ok": true,
-   "n": 8
+   "n": 10
   },
   "UN News": {
    "ok": true,
@@ -31,6 +31,238 @@
   }
  },
  "items": [
+  {
+   "id": "f451b9b779d9",
+   "t": "Three Kyiv bridges hit during major Russian missile attack",
+   "ko": "러시아의 대규모 미사일 공격으로 키예프 교량 3개가 공격당했습니다.",
+   "src": "BBC",
+   "u": "https://www.bbc.co.uk/news/articles/c6x29gn4pdn9o?at_medium=RSS&at_campaign=rss",
+   "at": "2026-11-20T09:01:06.000Z",
+   "ev": [
+    "ukraine"
+   ],
+   "cc": [
+    "Russia",
+    "Ukraine"
+   ]
+  },
+  {
+   "id": "ef7cb115dc01",
+   "t": "Iraqi security forces deploy in Hezbollah stronghold under compromise deal",
+   "ko": "이라크 보안군, 타협 협상에 따라 헤즈볼라 거점에 배치",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/middle-east/20261120-iraqi-security-forces-to-deploy-in-hezbollah-stronghold-under-compromise-deal",
+   "at": "2026-11-20T08:37:27.000Z",
+   "ev": [
+    "iran",
+    "lebanon"
+   ],
+   "cc": [
+    "Iraq"
+   ]
+  },
+  {
+   "id": "c8ab7ff78dd0",
+   "t": "Household rush to stockpile emergency supplies sends British retail sales soaring",
+   "ko": "비상용품 비축에 돌입한 영국 소매판매 급증",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/world/2026/nov/20/rush-stockpile-emergency-supplies-sends-british-retail-sales-soaring",
+   "at": "2026-11-20T08:36:13.000Z",
+   "ev": [],
+   "cc": [
+    "United Kingdom"
+   ]
+  },
+  {
+   "id": "cdba9fe2d3a2",
+   "t": "Europe's youth set to join mass cost of living protests in 25 countries",
+   "ko": "유럽의 젊은이들이 25개국에서 대규모 생활비 시위에 동참할 예정",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/europe/20261120-europe-s-youth-set-to-join-mass-cost-of-living-protests-in-25-countries",
+   "at": "2026-11-20T07:57:53.000Z",
+   "ev": [],
+   "cc": []
+  },
+  {
+   "id": "79fa21ef1dae",
+   "t": "UK government borrowing rises less than forecast in surprise boost for chancellor John Healey",
+   "ko": "영국 정부 차입은 John Healey 총리의 깜짝 증가로 예상보다 적게 증가했습니다.",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/business/2026/nov/20/uk-government-borrowing-rises-less-than-forecast-in-surprise-boost-for-chancellor-john-healey",
+   "at": "2026-11-20T07:25:31.000Z",
+   "ev": [
+    "iran"
+   ],
+   "cc": [
+    "United Kingdom",
+    "Iran"
+   ]
+  },
+  {
+   "id": "7173a86c9318",
+   "t": "Baby born with heart abnormalities ‘didn’t have a chance’ after non-medical free birth, NSW inquest hears",
+   "ko": "NSW 조사에서 심장 기형을 갖고 태어난 아기는 비의료적 자유 출산 후 '기회가 없었다'",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/australia-news/2026/nov/20/routine-checks-may-have-saved-babies-lives-freebirth-inquest-nsw-ntwnfb",
+   "at": "2026-11-20T06:51:54.000Z",
+   "ev": [],
+   "cc": []
+  },
+  {
+   "id": "968b51712184",
+   "t": "Live: Several killed, dozens wounded in Russian attacks that damaged two Kyiv bridges",
+   "ko": "라이브: 키예프 다리 2개를 손상시킨 러시아의 공격으로 여러 명이 사망하고 수십 명이 부상했습니다.",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/europe/20261120-live-deadly-russian-attacks-damage-two-bridges-in-kyiv-mayor-says",
+   "at": "2026-11-20T06:32:23.000Z",
+   "ev": [
+    "ukraine"
+   ],
+   "cc": [
+    "Russia",
+    "Ukraine"
+   ]
+  },
+  {
+   "id": "723cb6584332",
+   "t": "‘We don’t want our future decided by the military’: Young Germans protest",
+   "ko": "'우리는 우리의 미래가 군대에 의해 결정되는 것을 원하지 않습니다': 독일 젊은이들의 항의",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/11/20/we-dont-want-our-future-decided-by-the-military-young-germans-protest?traffic_source=rss",
+   "at": "2026-11-20T06:20:26.000Z",
+   "ev": [],
+   "cc": [
+    "Germany"
+   ]
+  },
+  {
+   "id": "e171d9d7ee10",
+   "t": "Czechs protest en masse against 'concentration of power in one hand' and growing control over media",
+   "ko": "체코인, '한 손에 권력 집중'과 언론 통제 강화에 반대하는 대규모 시위",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/tv-shows/spotlight/20261120-czechs-protest-en-masse-against-concentration-of-power-in-one-hand-and-growing-control-over-media",
+   "at": "2026-11-20T06:02:29.000Z",
+   "ev": [],
+   "cc": [
+    "Czech Republic",
+    "Hungary",
+    "Slovakia"
+   ]
+  },
+  {
+   "id": "3bcfa52a6aed",
+   "t": "Tears of joy, prayers for return home: Rohingya react to genocide ruling",
+   "ko": "기쁨의 눈물, 귀향을 위한 기도: 대량학살 판결에 대한 로힝야족의 반응",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/11/20/tears-of-joy-prayers-for-return-home-rohingya-react-to-genocide-ruling?traffic_source=rss",
+   "at": "2026-11-20T05:36:21.000Z",
+   "ev": [
+    "myanmar",
+    "rohingya"
+   ],
+   "cc": [
+    "Myanmar"
+   ]
+  },
+  {
+   "id": "51ca9e41eaaa",
+   "t": "Race to be next UN secretary general exposes divisions among world powers",
+   "ko": "차기 유엔 사무총장 경쟁으로 세계 강대국 간의 분열이 드러났다",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/world/2026/nov/20/race-to-be-next-un-secretary-general-exposes-divisions-among-world-powers",
+   "at": "2026-11-20T05:00:24.000Z",
+   "ev": [],
+   "cc": [
+    "Costa Rica"
+   ]
+  },
+  {
+   "id": "26c67f7aec1e",
+   "t": "Iraq university’s removal of male professors teaching women sparks weeks of protests",
+   "ko": "이라크 대학에서 여성을 가르치는 남성 교수를 해임하자 몇 주간 시위가 촉발됐다.",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/global-development/2026/nov/20/iraqi-university-ban-men-teaching-women-protests",
+   "at": "2026-11-20T05:00:23.000Z",
+   "ev": [
+    "afpak"
+   ],
+   "cc": [
+    "Iraq"
+   ]
+  },
+  {
+   "id": "50425ff6da68",
+   "t": "NextDC vows to keep future datacentres away from homes after community backlash in Melbourne",
+   "ko": "NextDC는 멜버른 지역사회의 반발 이후 미래의 데이터센터를 집에서 멀리 두겠다고 다짐했습니다.",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/australia-news/2026/nov/20/nextdc-vows-to-keep-future-datacentres-away-from-homes-after-community-backlash-in-melbourne",
+   "at": "2026-11-20T04:37:08.000Z",
+   "ev": [],
+   "cc": []
+  },
+  {
+   "id": "540a5b7ca6b4",
+   "t": "Thousands protest Colombia’s tax plans amid row over US military role",
+   "ko": "미군 역할을 둘러싼 갈등 속에서 수천 명이 콜롬비아의 조세 계획에 항의",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/11/20/thousands-protest-colombias-tax-plans-amid-row-over-us-military-role?traffic_source=rss",
+   "at": "2026-11-20T03:26:23.000Z",
+   "ev": [
+    "colombia"
+   ],
+   "cc": [
+    "Colombia",
+    "United States"
+   ]
+  },
+  {
+   "id": "b81400d8153e",
+   "t": "Texas botches execution of Reinaldo Dennes as staffers struggle to find vein",
+   "ko": "텍사스는 직원들이 정맥을 찾기 위해 고군분투하면서 레이날도 덴네스의 처형을 실패했습니다.",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/us-news/2026/nov/19/record-executions-florida-texas",
+   "at": "2026-11-20T02:50:29.000Z",
+   "ev": [],
+   "cc": [
+    "United States"
+   ]
+  },
+  {
+   "id": "0a9843ba32b0",
+   "t": "US army postpones plan to detonate bomb-making chemical amid outcry",
+   "ko": "미군, 항의 속에 폭탄 제조 화학물질 폭발 계획 연기",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/us-news/2026/nov/19/iowa-lead-bomb-dust",
+   "at": "2026-11-20T02:30:10.000Z",
+   "ev": [],
+   "cc": [
+    "United States"
+   ]
+  },
+  {
+   "id": "eff1e8640e4e",
+   "t": "Trump nominee refuses to call Jan 6 an ‘attack’ at Senate hearing",
+   "ko": "트럼프 후보, 상원 청문회서 1월 6일 '공격' 거부",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/video/newsfeed/2026/11/20/trump-nominee-refuses-to-call-jan-6-an-attack-at-senate-hearing?traffic_source=rss",
+   "at": "2026-11-20T02:25:33.000Z",
+   "ev": [],
+   "cc": [
+    "United States"
+   ]
+  },
+  {
+   "id": "bdb9550d2206",
+   "t": "US army warns detonation of unstable explosives will create toxic plume",
+   "ko": "미 육군, 불안정한 폭발물 터뜨리면 유독성 연기 발생 경고",
+   "src": "BBC",
+   "u": "https://www.bbc.co.uk/news/articles/cmlye2334wlyo?at_medium=RSS&at_campaign=rss",
+   "at": "2026-11-20T01:27:27.000Z",
+   "ev": [],
+   "cc": [
+    "United States"
+   ]
+  },
   {
    "id": "42a972871329",
    "t": "Europe ready for talks with Russia on ending war in Ukraine, leaders say",
@@ -116,18 +348,6 @@
    ]
   },
   {
-   "id": "b81400d8153e",
-   "t": "Florida to carry out record-breaking 20th execution of the year",
-   "ko": "플로리다, 올해 기록적인 20번째 사형 집행",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/us-news/2026/nov/19/record-executions-florida-texas",
-   "at": "2026-11-19T23:15:42.000Z",
-   "ev": [],
-   "cc": [
-    "United States"
-   ]
-  },
-  {
    "id": "b44406431214",
    "t": "Six killed in suspected gas explosion at Georgia apartment building",
    "ko": "조지아 아파트에서 가스폭발 의심돼 6명 사망",
@@ -154,8 +374,8 @@
   },
   {
    "id": "8a3271186d8c",
-   "t": "Major anti-gang offensive in Haiti kills 34 suspected gang members",
-   "ko": "아이티에서 대규모 갱단 공세로 갱단원 용의자 34명 사망",
+   "t": "Armed forces in Haiti kill at least 34 gang members to regain control of key corridor",
+   "ko": "아이티 군대, 주요 통로 통제권 탈환 위해 갱단원 최소 34명 사살",
    "src": "France 24",
    "u": "https://www.france24.com/en/americas/20261119-major-anti-gang-offensive-in-haiti-kills-34-suspected-gang-members",
    "at": "2026-11-19T22:31:25.000Z",
@@ -587,18 +807,6 @@
     "United States",
     "China",
     "Russia"
-   ]
-  },
-  {
-   "id": "0a9843ba32b0",
-   "t": "US army plan to detonate bomb-making chemicals has Iowa residents bracing for lead dust cloud",
-   "ko": "미군이 폭탄 제조 화학물질을 폭파할 계획을 세우자 아이오와 주민들은 납 먼지 구름에 대비하고 있다",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/us-news/2026/nov/19/iowa-lead-bomb-dust",
-   "at": "2026-11-19T17:18:08.000Z",
-   "ev": [],
-   "cc": [
-    "United States"
    ]
   },
   {
@@ -2059,232 +2267,6 @@
    "cc": [
     "Saudi Arabia",
     "Yemen"
-   ]
-  },
-  {
-   "id": "66db2917e43c",
-   "t": "Who would gain from carving up Pakistan’s provinces?",
-   "ko": "파키스탄의 지방을 분할하면 누가 이익을 얻을 것인가?",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/video/newsfeed/2026/11/18/11-16-hosted-pakistan-provinces-plan-explainer?traffic_source=rss",
-   "at": "2026-11-18T11:47:32.000Z",
-   "ev": [],
-   "cc": [
-    "Pakistan"
-   ]
-  },
-  {
-   "id": "67e42a76720d",
-   "t": "Trump arrives in China ahead of trilateral summit with Putin and Xi",
-   "ko": "트럼프, 푸틴·시진핑과 3자 정상회담 앞두고 중국 도착",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/video/20261118-trump-arrives-in-china-ahead-of-trilateral-summit-with-putin-and-xi",
-   "at": "2026-11-18T11:46:25.000Z",
-   "ev": [
-    "ukraine",
-    "iran"
-   ],
-   "cc": [
-    "China",
-    "Russia",
-    "Ukraine"
-   ]
-  },
-  {
-   "id": "231a189cb27a",
-   "t": "‘Zero’ evidence that recent cascade of tech outages are linked, says Rubio",
-   "ko": "Rubio는 최근 일련의 기술 중단이 연관되어 있다는 증거가 '0'이라고 말합니다.",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/us-news/2026/nov/18/zero-evidence-recent-tech-outages-linked-marco-rubio",
-   "at": "2026-11-18T11:35:36.000Z",
-   "ev": [],
-   "cc": [
-    "United States"
-   ]
-  },
-  {
-   "id": "2ffbc596fcf1",
-   "t": "Tim Hortons accused of sharing user data with firm linked to Israeli army",
-   "ko": "팀 호튼(Tim Hortons), 이스라엘 군대와 연계된 기업과 사용자 데이터 공유 혐의로 기소",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/news/2026/11/18/tim-hortons-app-sharing-extensive-data-with-israeli-military-linked-firm?traffic_source=rss",
-   "at": "2026-11-18T11:30:34.000Z",
-   "ev": [],
-   "cc": [
-    "Israel"
-   ]
-  },
-  {
-   "id": "9071efc20a17",
-   "t": "Russia, China look to deepen ties at APEC as Trump arrives",
-   "ko": "러시아와 중국은 트럼프 대통령이 도착함에 따라 APEC에서 관계를 심화시킬 것으로 보인다",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/video/20261118-russia-china-look-to-deepen-ties-at-apec-as-trump-arrives",
-   "at": "2026-11-18T11:11:23.000Z",
-   "ev": [],
-   "cc": [
-    "Russia",
-    "China"
-   ]
-  },
-  {
-   "id": "cc65b3599b80",
-   "t": "Greetings from a Berlin square, where an artist's statue watches over children at play",
-   "ko": "예술가의 동상이 아이들이 노는 모습을 지켜보고 있는 베를린 광장에서 인사드립니다.",
-   "src": "NPR",
-   "u": "https://www.npr.org/2026/11/18/nx-s1-6043021/berlin-kollwitzplatz-statue",
-   "at": "2026-11-18T11:00:00.000Z",
-   "ev": [],
-   "cc": [
-    "Germany"
-   ]
-  },
-  {
-   "id": "b7e66338729b",
-   "t": "Steve Rosenberg: Historic talks with Xi and Trump are a coup for Putin",
-   "ko": "스티브 로젠버그: 시, 트럼프와의 역사적 회담은 푸틴의 쿠데타이다",
-   "src": "BBC",
-   "u": "https://www.bbc.co.uk/news/articles/c9n70gd320mpo?at_medium=RSS&at_campaign=rss",
-   "at": "2026-11-18T10:53:21.000Z",
-   "ev": [
-    "ukraine"
-   ],
-   "cc": [
-    "United States",
-    "China",
-    "Russia"
-   ]
-  },
-  {
-   "id": "a7a461ef4ab8",
-   "t": "Turkish pro-opposition broadcaster taken off air after police raid",
-   "ko": "터키 친야당 방송사, 경찰 급습 이후 방송 중단",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/video/20261118-turkish-pro-opposition-broadcaster-taken-off-air-after-police-raid",
-   "at": "2026-11-18T10:51:55.000Z",
-   "ev": [],
-   "cc": [
-    "Turkey"
-   ]
-  },
-  {
-   "id": "90172e33cef8",
-   "t": "Evacuations on the rise in eastern Ukraine as fighting intensifies",
-   "ko": "내전 격화로 우크라이나 동부 지역 대피자 증가",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/video/20261118-evacuations-on-the-rise-in-eastern-ukraine-as-fighting-intensifies",
-   "at": "2026-11-18T10:48:14.000Z",
-   "ev": [
-    "ukraine"
-   ],
-   "cc": [
-    "Ukraine"
-   ]
-  },
-  {
-   "id": "803a19202ec5",
-   "t": "US hits out at Ukraine's 'deep strikes' against Russia in rift with EU over war tactics",
-   "ko": "미국은 전쟁 전술을 두고 유럽연합과 갈등을 빚고 있는 러시아에 대한 우크라이나의 '심각한 공격'을 맹렬히 비난했습니다.",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/video/20261118-us-hits-out-at-ukraine-s-deep-strikes-against-russia-in-rift-with-eu-over-war-tactics",
-   "at": "2026-11-18T10:45:35.000Z",
-   "ev": [
-    "ukraine"
-   ],
-   "cc": [
-    "United States",
-    "Ukraine",
-    "Russia"
-   ]
-  },
-  {
-   "id": "fc7fba9e40d0",
-   "t": "EU proposes new €45 billion Ukraine loan to be repaid by Russia",
-   "ko": "EU, 러시아가 우크라이나에 450억 유로의 새로운 대출금을 상환할 것을 제안",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/europe/20261118-eu-proposes-new-%E2%82%AC45-billion-ukraine-loan-to-be-repaid-by-russia",
-   "at": "2026-11-18T10:42:58.000Z",
-   "ev": [
-    "ukraine"
-   ],
-   "cc": [
-    "Ukraine",
-    "Russia"
-   ]
-  },
-  {
-   "id": "dc7bcd92873e",
-   "t": "Why has an NYT report on Iran’s dams ignited fierce pushback?",
-   "ko": "이란의 댐에 대한 NYT의 보도가 거센 반발을 불러일으킨 이유는 무엇입니까?",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/news/2026/11/18/why-has-an-nyt-report-on-irans-dams-ignited-fierce-pushback?traffic_source=rss",
-   "at": "2026-11-18T10:38:13.000Z",
-   "ev": [
-    "iran"
-   ],
-   "cc": [
-    "Iran"
-   ]
-  },
-  {
-   "id": "3d44534895bd",
-   "t": "Traumas of Sudan war lead to wave of drug addiction",
-   "ko": "수단 전쟁의 트라우마가 마약 중독의 물결로 이어진다",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/features/2026/11/18/traumas-of-sudan-war-is-seeing-a-wave-of-drug-addiction?traffic_source=rss",
-   "at": "2026-11-18T10:35:06.000Z",
-   "ev": [
-    "sudan"
-   ],
-   "cc": [
-    "Sudan"
-   ]
-  },
-  {
-   "id": "95931435819c",
-   "t": "UK inflation rises to 3.6% after petrol and diesel prices hit record high",
-   "ko": "휘발유와 경유 가격이 사상 최고치를 기록한 후 영국 인플레이션은 3.6%로 상승",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/business/2026/nov/18/uk-inflation-rises-energy-prices-iran-war-oil",
-   "at": "2026-11-18T10:14:26.000Z",
-   "ev": [
-    "iran"
-   ],
-   "cc": [
-    "United Kingdom",
-    "Iran"
-   ]
-  },
-  {
-   "id": "91cdbca7339f",
-   "t": "Trump says ‘taking seriously’ reports Iran planning Washington dirty-bomb attack",
-   "ko": "트럼프, 이란이 워싱턴에 더러운 폭탄 공격을 계획하고 있다고 보고 '진지하게 받아들인다'",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/video/20261118-trump-says-taking-seriously-reports-iran-planning-washington-dirty-bomb-attack",
-   "at": "2026-11-18T10:13:52.000Z",
-   "ev": [
-    "iran"
-   ],
-   "cc": [
-    "Iran",
-    "United States"
-   ]
-  },
-  {
-   "id": "2980a9b2ff54",
-   "t": "'All eyes on talks with Putin, Xi' as Trump arrives at APEC summit",
-   "ko": "트럼프, APEC 정상회담 참석…\"푸틴·시과의 대화에 모든 관심\"",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/video/20261118-all-eyes-on-talks-with-putin-xi-as-trump-arrives-at-apec-summit",
-   "at": "2026-11-18T10:09:10.000Z",
-   "ev": [
-    "ukraine",
-    "iran"
-   ],
-   "cc": [
-    "United States",
-    "China",
-    "Russia"
    ]
   }
  ]
