@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T17:53:47.799Z",
+ "updated": "2026-11-20T23:47:57.509Z",
  "sources": {
   "BBC": {
    "ok": true,
@@ -7,30 +7,379 @@
   },
   "Al Jazeera": {
    "ok": true,
-   "n": 10
+   "n": 14
   },
   "The Guardian": {
    "ok": true,
-   "n": 21
+   "n": 18
   },
   "DW": {
    "ok": true,
-   "n": 4
+   "n": 5
   },
   "France 24": {
    "ok": true,
-   "n": 5
+   "n": 6
   },
   "UN News": {
    "ok": true,
-   "n": 2
+   "n": 4
   },
   "NPR": {
    "ok": true,
-   "n": 4
+   "n": 5
   }
  },
  "items": [
+  {
+   "id": "3ace204545de",
+   "t": "Rahul Gandhi backs strong India-Israel ties despite Gaza war",
+   "ko": "라훌 간디는 가자 전쟁에도 불구하고 인도-이스라엘의 강력한 관계를 지지합니다",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/video/newsfeed/2026/11/20/rahul-gandhi-backs-strong-india-israel-ties-despite-gaza-war?traffic_source=rss",
+   "at": "2026-11-20T23:20:50.000Z",
+   "ev": [
+    "gaza",
+    "delhi"
+   ],
+   "cc": [
+    "Palestine",
+    "India",
+    "Israel"
+   ]
+  },
+  {
+   "id": "cdedd122f848",
+   "t": "Dead pets were meant to be cremated - then their bodies appeared on a livestream",
+   "ko": "죽은 애완동물은 화장될 예정이었지만 그 시체가 실시간 스트리밍에 나타났습니다.",
+   "src": "BBC",
+   "u": "https://www.bbc.co.uk/news/articles/cmn502ek17yvo?at_medium=RSS&at_campaign=rss",
+   "at": "2026-11-20T23:20:33.000Z",
+   "ev": [],
+   "cc": []
+  },
+  {
+   "id": "69042885001b",
+   "t": "US lawmakers push for tougher AI chip rules amid China export crackdown",
+   "ko": "미국 국회의원, 중국 수출 단속 속에 AI 칩 규정 강화 촉구",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/economy/2026/11/20/us-lawmakers-push-for-tougher-ai-chip-rules-amid-china-export-crackdown?traffic_source=rss",
+   "at": "2026-11-20T22:15:07.000Z",
+   "ev": [],
+   "cc": [
+    "United States",
+    "China"
+   ]
+  },
+  {
+   "id": "03898296a05c",
+   "t": "Guinea bans Burkina Faso broadcaster, escalating diplomatic tensions",
+   "ko": "기니, 부르키나파소 방송 금지로 외교적 긴장 고조",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/tv-shows/eye-on-africa/20261120-guinea-bans-burkina-faso-broadcaster-escalating-diplomatic-tensions",
+   "at": "2026-11-20T21:53:35.000Z",
+   "ev": [
+    "drc",
+    "ethiopia",
+    "burkina"
+   ],
+   "cc": [
+    "Guinea",
+    "Burkina Faso",
+    "Democratic Republic of the Congo"
+   ]
+  },
+  {
+   "id": "8e3ceec613f9",
+   "t": "Trump threatens ‘tremendous penalties’ on US tech firms that build datacenters abroad",
+   "ko": "트럼프, 해외에 데이터센터 짓는 미국 기술기업에 '엄청난 처벌' 위협",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/us-news/2026/nov/20/trump-datacenters-white-house",
+   "at": "2026-11-20T21:47:41.000Z",
+   "ev": [
+    "iran"
+   ],
+   "cc": [
+    "United States",
+    "Iran"
+   ]
+  },
+  {
+   "id": "3d4928456c2e",
+   "t": "Another day of survival for a family in Ukraine",
+   "ko": "우크라이나의 한 가족의 또 다른 생존의 날",
+   "src": "NPR",
+   "u": "https://www.npr.org/2026/11/20/nx-s1-6042206/another-day-of-survival-for-a-family-in-ukraine",
+   "at": "2026-11-20T21:32:31.000Z",
+   "ev": [
+    "ukraine"
+   ],
+   "cc": [
+    "Ukraine",
+    "Russia"
+   ]
+  },
+  {
+   "id": "3da4a5753626",
+   "t": "Iraq PM targets militia stronghold in bid to assert state control",
+   "ko": "이라크 총리, 국가통제 위해 민병대 거점 공격",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/video/newsfeed/2026/11/20/aje-onl-nf_iraq-pm-targets-militia-stronghold-jurf-al-sakhar-201126?traffic_source=rss",
+   "at": "2026-11-20T21:28:25.000Z",
+   "ev": [],
+   "cc": [
+    "Iraq"
+   ]
+  },
+  {
+   "id": "b4e3f5a9b125",
+   "t": "'Licence to kill': French parliament adopts police shootings law slammed by activists",
+   "ko": "'살인 면허': 프랑스 의회, 활동가들이 맹렬히 비난하는 경찰 총격법 채택",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/france/20261120-licence-to-kill-french-parliament-adopts-police-shootings-law-slammed-activists",
+   "at": "2026-11-20T21:17:59.000Z",
+   "ev": [],
+   "cc": [
+    "France"
+   ]
+  },
+  {
+   "id": "41857d96f900",
+   "t": "Trump defends Putin relationship, warns AI data centres must stay in US",
+   "ko": "트럼프, 푸틴 관계 옹호하고 AI 데이터센터는 미국에 있어야 한다고 경고",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/11/20/trump-defends-putin-relationship-warns-ai-data-centres-must-stay-in-us?traffic_source=rss",
+   "at": "2026-11-20T21:05:07.000Z",
+   "ev": [
+    "iran"
+   ],
+   "cc": [
+    "United States",
+    "Iran",
+    "China"
+   ]
+  },
+  {
+   "id": "ca7b21a1b795",
+   "t": "Two Salvadoran soldiers killed in Haiti while handling explosives",
+   "ko": "아이티에서 폭발물 취급 중 엘살바도르 군인 2명 사망",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/11/20/two-salvadoran-soldiers-killed-in-haiti-while-handling-explosives?traffic_source=rss",
+   "at": "2026-11-20T20:59:04.000Z",
+   "ev": [
+    "haiti"
+   ],
+   "cc": [
+    "Haiti"
+   ]
+  },
+  {
+   "id": "ce9ea2887c62",
+   "t": "Gaza’s displaced children celebrate World Children’s Day",
+   "ko": "가자지구 난민 어린이들이 세계 어린이날을 기념합니다.",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/video/newsfeed/2026/11/20/gazas-displaced-children-celebrate-world-childrens-day?traffic_source=rss",
+   "at": "2026-11-20T20:45:09.000Z",
+   "ev": [
+    "gaza"
+   ],
+   "cc": [
+    "Palestine"
+   ]
+  },
+  {
+   "id": "d74f383a965d",
+   "t": "Sudan’s war leaves disabled children missing out on education",
+   "ko": "수단 내전으로 인해 장애 아동들이 교육 기회를 놓치게 되었습니다.",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/11/20/sudans-war-leaves-disabled-children-missing-out-on-education?traffic_source=rss",
+   "at": "2026-11-20T20:45:08.000Z",
+   "ev": [
+    "sudan"
+   ],
+   "cc": [
+    "Sudan"
+   ]
+  },
+  {
+   "id": "663befa0c387",
+   "t": "Russian ornithologist jailed over small donations to Navalny's foundation",
+   "ko": "나발니 재단에 소액 기부한 러시아 조류학자 징역형",
+   "src": "DW",
+   "u": "https://www.dw.com/en/russian-ornithologist-jailed-over-small-donations-to-navalny-s-foundation/a-80005505?maca=en-rss-en-world-4025-rdf",
+   "at": "2026-11-20T20:45:00.000Z",
+   "ev": [],
+   "cc": [
+    "Russia"
+   ]
+  },
+  {
+   "id": "7b1a23d32eff",
+   "t": "Russia complains of ‘new Iron Curtain’ as Estonia shuts its borders",
+   "ko": "러시아, 에스토니아가 국경을 폐쇄함에 따라 '새로운 철의 장막'이 발생했다고 불평",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/11/20/russia-complains-of-new-iron-curtain-as-estonia-shuts-its-borders?traffic_source=rss",
+   "at": "2026-11-20T20:30:46.000Z",
+   "ev": [],
+   "cc": [
+    "Russia",
+    "Estonia"
+   ]
+  },
+  {
+   "id": "43dd820136b6",
+   "t": "Israeli drone attacks kill seven Palestinians in central Gaza",
+   "ko": "이스라엘 드론 공격, 가자지구 팔레스타인인 7명 사망",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/11/20/israeli-drone-attacks-kill-seven-palestinians-in-central-gaza?traffic_source=rss",
+   "at": "2026-11-20T20:14:56.000Z",
+   "ev": [
+    "gaza"
+   ],
+   "cc": [
+    "Israel",
+    "Palestine"
+   ]
+  },
+  {
+   "id": "3640a3fbb952",
+   "t": "'Friends' But Who Benefits? Notes from an Historic Summit, Myanmar's Genocide Ruling, Time to 'Bre-join' the EU?",
+   "ko": "'친구', 하지만 누가 이익을 얻나요? 역사적인 정상회담의 메모, 미얀마의 집단 학살 판결, EU에 'Bre-join'할 시간인가?",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/tv-shows/the-world-this-week/20261120-friends-but-who-benefits-notes-from-an-historic-summit-myanmar-s-genocide-ruling-time-to-bre-join-the-eu",
+   "at": "2026-11-20T19:42:58.000Z",
+   "ev": [
+    "myanmar"
+   ],
+   "cc": [
+    "Myanmar"
+   ]
+  },
+  {
+   "id": "6cc38668b794",
+   "t": "What are the implications of the ICJ Rohingya genocide ruling?",
+   "ko": "ICJ 로힝야 집단학살 판결이 시사하는 바는 무엇인가?",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/video/inside-story/2026/11/20/what-are-the-implications-of-the-icj-rohingya-genocide-ruling?traffic_source=rss",
+   "at": "2026-11-20T19:12:14.000Z",
+   "ev": [
+    "myanmar",
+    "rohingya",
+    "gaza"
+   ],
+   "cc": [
+    "Myanmar",
+    "Israel",
+    "Palestine"
+   ]
+  },
+  {
+   "id": "ccdf7c292639",
+   "t": "Former US national security adviser confronted by students on Gaza",
+   "ko": "가자 지구에서 학생들과 마주한 전 미국 국가안보보좌관",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/video/newsfeed/2026/11/20/former-us-national-security-adviser-confronted-by-students-on-gaza?traffic_source=rss",
+   "at": "2026-11-20T18:51:26.000Z",
+   "ev": [
+    "gaza"
+   ],
+   "cc": [
+    "United States",
+    "Palestine"
+   ]
+  },
+  {
+   "id": "7a65904af0ba",
+   "t": "‘Worth fighting for’: senators vow to restore financial watchdog agency after Guardian investigation",
+   "ko": "'싸울 가치가 있는': 상원 의원은 Guardian 조사 후 금융 감시 기관을 복원하겠다고 맹세했습니다.",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/us-news/2026/nov/20/senators-consumer-financial-protection-bureau",
+   "at": "2026-11-20T18:51:16.000Z",
+   "ev": [],
+   "cc": [
+    "United States"
+   ]
+  },
+  {
+   "id": "71ff1c838b4e",
+   "t": "Swimming lessons offer Gaza’s children a moment of relief",
+   "ko": "수영 강습으로 가자 지구 어린이들에게 안도감의 순간 제공",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/video/newsfeed/2026/11/20/aje-onl-nf_swimming-lessons-offer-gazas-children-relief-201126?traffic_source=rss",
+   "at": "2026-11-20T18:43:37.000Z",
+   "ev": [
+    "gaza"
+   ],
+   "cc": [
+    "Palestine"
+   ]
+  },
+  {
+   "id": "b9a3083bba60",
+   "t": "Ukraine strikes Kerch Bridge as Putin ally declares ‘no one needs Europe’",
+   "ko": "푸틴 동맹국, '아무도 유럽이 필요하지 않다' 선언하자 우크라이나, 케르치 다리 공습",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/11/20/ukraine-strikes-kerch-bridge-as-putin-ally-declares-no-one-needs?traffic_source=rss",
+   "at": "2026-11-20T18:37:35.000Z",
+   "ev": [
+    "ukraine"
+   ],
+   "cc": [
+    "Ukraine"
+   ]
+  },
+  {
+   "id": "22f5eaecb09c",
+   "t": "Florida mechanic found guilty of murdering British woman who attorney says came to US to die",
+   "ko": "플로리다 정비공, 변호사에 따르면 사망하기 위해 미국에 왔다고 밝힌 영국 여성 살해 혐의로 유죄 판결",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/us-news/2026/nov/20/florida-man-guilty-murder-british-woman",
+   "at": "2026-11-20T18:36:30.000Z",
+   "ev": [],
+   "cc": [
+    "United States",
+    "United Kingdom"
+   ]
+  },
+  {
+   "id": "bcffeb52063f",
+   "t": "Two men killed after glider crashes into Loch Leven in Scotland",
+   "ko": "글라이더가 스코틀랜드의 Leven 호수에 충돌하여 두 명이 사망했습니다.",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/uk-news/2026/nov/20/glider-crash-loch-leven-scotland",
+   "at": "2026-11-20T18:20:09.000Z",
+   "ev": [],
+   "cc": [
+    "United Kingdom"
+   ]
+  },
+  {
+   "id": "80154fe65d34",
+   "t": "Denmark to expel Russian diplomat over alleged Moscow link to attempted killing of rapper",
+   "ko": "덴마크, 모스크바가 래퍼 살해 시도와 연관시켰다고 주장한 러시아 외교관 추방",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/world/2026/nov/20/denmark-russian-diplomat-us-ukrainian-rapper-attempted-killing",
+   "at": "2026-11-20T18:16:12.000Z",
+   "ev": [
+    "ukraine"
+   ],
+   "cc": [
+    "Denmark",
+    "Russia"
+   ]
+  },
+  {
+   "id": "61854d96040f",
+   "t": "No one else in Reform is suitable to lead the party, Nigel Farage says",
+   "ko": "나이젤 패라지(Nigel Farage)는 개혁파의 누구도 당을 이끌기에 적합하지 않다고 말했습니다.",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/politics/2026/nov/20/nigel-farage-leadership-reform-uk-party",
+   "at": "2026-11-20T18:11:25.000Z",
+   "ev": [],
+   "cc": [
+    "United Kingdom"
+   ]
+  },
   {
    "id": "952e40cdf3b6",
    "t": "Protests held across Europe over wages, services, high living costs",
@@ -460,6 +809,37 @@
    ],
    "cc": [
     "Ukraine"
+   ]
+  },
+  {
+   "id": "9b9ee78ddf96",
+   "t": "‘You will not be alone’: General Assembly President tells Rohingya refugees after genocide ruling",
+   "ko": "'당신은 혼자가 아닐 것입니다': 대량학살 판결 후 로힝야 난민에게 총회 의장이 말했다",
+   "src": "UN News",
+   "u": "https://news.un.org/feed/view/en/story/2026/11/1168853",
+   "at": "2026-11-20T12:00:00.000Z",
+   "ev": [
+    "myanmar",
+    "rohingya"
+   ],
+   "cc": [
+    "Myanmar",
+    "Bangladesh"
+   ]
+  },
+  {
+   "id": "c8aa98c984c0",
+   "t": "West Bank: Record settler attacks mar olive harvest as UN urges Israel to protect farmers",
+   "ko": "서안 지구: UN이 이스라엘에 농부들을 보호하라고 촉구하자 기록적인 정착민들이 올리브 수확을 방해했습니다.",
+   "src": "UN News",
+   "u": "https://news.un.org/feed/view/en/story/2026/11/1168849",
+   "at": "2026-11-20T12:00:00.000Z",
+   "ev": [
+    "westbank"
+   ],
+   "cc": [
+    "Palestine",
+    "Israel"
    ]
   },
   {
@@ -1868,367 +2248,6 @@
    "at": "2026-11-19T06:17:12.000Z",
    "ev": [],
    "cc": []
-  },
-  {
-   "id": "07e6ce0bedea",
-   "t": "‘Remarkable luck’: wreck of first Australian-built warship discovered exactly 128 years after sinking",
-   "ko": "'놀라운 행운': 침몰 후 정확히 128년 만에 발견된 호주 최초의 군함 잔해",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/environment/2026/nov/19/first-australian-built-warship-wreck-discovered",
-   "at": "2026-11-19T05:22:38.000Z",
-   "ev": [],
-   "cc": [
-    "Russia",
-    "Australia"
-   ]
-  },
-  {
-   "id": "9649f214a30e",
-   "t": "ICJ to rule on Rohingya genocide case against Myanmar: What’s at stake?",
-   "ko": "ICJ, 미얀마에 대한 로힝야 집단 학살 사건에 대한 판결: 무엇이 위태로울까?",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/news/2026/11/19/icj-to-rule-on-rohingya-genocide-case-against-myanmar-whats-at-stake?traffic_source=rss",
-   "at": "2026-11-19T05:13:13.000Z",
-   "ev": [
-    "myanmar",
-    "rohingya"
-   ],
-   "cc": [
-    "Myanmar"
-   ]
-  },
-  {
-   "id": "972d7dbe830c",
-   "t": "Middle East crisis poses 'largest threat' to energy security in history, warns IEA",
-   "ko": "IEA는 중동 위기가 에너지 안보 역사상 '가장 큰 위협'이라고 경고했다.",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/middle-east/20261119-middle-east-crisis-energy-security-iea",
-   "at": "2026-11-19T05:11:59.000Z",
-   "ev": [
-    "iran"
-   ],
-   "cc": [
-    "United States",
-    "Israel",
-    "Iran"
-   ]
-  },
-  {
-   "id": "178f94915ff3",
-   "t": "Trump downplays US outages and Nvidia security concerns in remarks before China summit – as it happened",
-   "ko": "트럼프는 중국 정상회담 전 발언에서 미국의 정전과 엔비디아 보안 우려를 경시했습니다.",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/us-news/live/2026/nov/18/donald-trump-mary-peltola-alaska-hakeem-jeffries-democrats-republicans-congress-house-senate-midterms-latest-news-updates",
-   "at": "2026-11-19T03:11:52.000Z",
-   "ev": [],
-   "cc": [
-    "United States",
-    "China"
-   ]
-  },
-  {
-   "id": "c8eba0254b2c",
-   "t": "Top UN court to rule if Myanmar committed genocide against Rohingya minority",
-   "ko": "미얀마가 로힝야 소수민족에 대한 대량 학살을 저질렀다면 유엔 최고 법원이 판결할 것",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/asia-pacific/20261119-top-un-court-to-rule-if-myanmar-s-rohingya-crackdown-was-genocide",
-   "at": "2026-11-19T03:07:23.000Z",
-   "ev": [
-    "myanmar",
-    "rohingya"
-   ],
-   "cc": [
-    "Myanmar"
-   ]
-  },
-  {
-   "id": "e714c84be9f5",
-   "t": "Ukraine's allies to meet in Berlin to rally support for Kyiv after Trump-Putin-Xi talks",
-   "ko": "우크라이나 동맹국들은 트럼프-푸틴-시 회담 후 키예프에 대한 지지를 모으기 위해 베를린에서 만날 예정",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/europe/20261119-european-leaders-to-meet-in-berlin-to-support-for-ukraine-after-trump-putin-xi-talks",
-   "at": "2026-11-19T02:55:20.000Z",
-   "ev": [
-    "ukraine"
-   ],
-   "cc": [
-    "Ukraine",
-    "United States",
-    "Russia"
-   ]
-  },
-  {
-   "id": "8fe81af2c81d",
-   "t": "Hegseth unveils new US-Venezuela military deal",
-   "ko": "Hegseth, 새로운 미국-베네수엘라 군사 협정 발표",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/video/newsfeed/2026/11/19/hegseth-unveils-new-us-venezuela-military-deal?traffic_source=rss",
-   "at": "2026-11-19T01:48:46.000Z",
-   "ev": [],
-   "cc": [
-    "Venezuela",
-    "United States"
-   ]
-  },
-  {
-   "id": "06181339fac7",
-   "t": "Settler rams into Palestinians at multiple locations in central Israel",
-   "ko": "정착민들이 이스라엘 중부의 여러 지역에서 팔레스타인 사람들을 공격하고 있습니다.",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/video/newsfeed/2026/11/19/settler-rams-into-palestinians-at-multiple-locations-in-central-israel?traffic_source=rss",
-   "at": "2026-11-19T01:13:45.000Z",
-   "ev": [
-    "westbank"
-   ],
-   "cc": [
-    "Israel"
-   ]
-  },
-  {
-   "id": "eef9406edacd",
-   "t": "Beau Lamarre-Condon’s testimony about Jesse Baird and Luke Davies’ deaths ‘fanciful in the extreme’, crown alleges",
-   "ko": "Jesse Baird와 Luke Davies의 죽음에 대한 Beau Lamarre-Condon의 증언은 '극단적으로 환상적'이라고 왕관은 주장합니다.",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/australia-news/2026/nov/19/beau-lamarre-condon-jesse-baird-luke-davies-ntwnfb",
-   "at": "2026-11-19T01:00:25.000Z",
-   "ev": [],
-   "cc": []
-  },
-  {
-   "id": "5f0350baf0ce",
-   "t": "Almost 1 in 4 children live in conflict zones — report",
-   "ko": "어린이 4명 중 거의 1명이 분쟁 지역에 살고 있습니다 — 보고서",
-   "src": "DW",
-   "u": "https://www.dw.com/en/almost-1-in-4-children-live-in-conflict-zones-report/a-79979203?maca=en-rss-en-world-4025-rdf",
-   "at": "2026-11-19T00:34:00.000Z",
-   "ev": [],
-   "cc": []
-  },
-  {
-   "id": "d8abb0b94743",
-   "t": "Unvaccinated Pennsylvania resident dies amid historic US measles resurgence",
-   "ko": "역사적인 미국 홍역 재발로 인해 예방접종을 받지 않은 펜실베니아 주민 사망",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/news/2026/11/19/unvaccinated-pennsylvania-resident-dies-amid-historic-us-measles-resurgence?traffic_source=rss",
-   "at": "2026-11-19T00:14:40.000Z",
-   "ev": [],
-   "cc": [
-    "United States"
-   ]
-  },
-  {
-   "id": "8a80a14053f2",
-   "t": "Mike Lynch’s superyacht had unidentified vulnerability to high winds, report finds",
-   "ko": "마이크 린치(Mike Lynch)의 슈퍼요트가 강풍에 미확인 취약성을 갖고 있다는 보고서가 나왔습니다.",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/world/2026/nov/19/mike-lynch-superyacht-bayesian-vulnerability-to-high-winds-report",
-   "at": "2026-11-19T00:01:11.000Z",
-   "ev": [],
-   "cc": [
-    "United Kingdom"
-   ]
-  },
-  {
-   "id": "c69230f31116",
-   "t": "Iran war live: Saudi-led coalition strikes Yemen; ships on fire in Hormuz",
-   "ko": "이란 전쟁 라이브: 사우디 주도 연합군이 예멘을 공격합니다. 호르무즈에서 불타고 있는 배들",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/news/liveblog/2026/11/19/iran-war-live-saudi-led-coalition-strikes-yemen-ships-on-fire-in-hormuz?traffic_source=rss",
-   "at": "2026-11-19T00:01:02.000Z",
-   "ev": [
-    "iran",
-    "yemen"
-   ],
-   "cc": [
-    "Iran",
-    "Yemen"
-   ]
-  },
-  {
-   "id": "32224de2dbb7",
-   "t": "Migrant boat capsizes off Senegal, leaving at least one dead",
-   "ko": "세네갈 앞바다서 난민 보트 전복돼 최소 1명 사망",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/news/2026/11/18/migrant-boat-capsizes-off-senegal-leaving-at-least-one-dead?traffic_source=rss",
-   "at": "2026-11-18T23:36:23.000Z",
-   "ev": [],
-   "cc": [
-    "Senegal",
-    "Spain"
-   ]
-  },
-  {
-   "id": "cd24719f402d",
-   "t": "Myanmar faces historic genocide verdict at UN court over Rohingya massacres",
-   "ko": "미얀마, 로힝야족 학살에 대해 유엔 법원에서 역사적인 대량학살 판결을 앞두고 있다",
-   "src": "BBC",
-   "u": "https://www.bbc.co.uk/news/articles/c5m2l90ez144o?at_medium=RSS&at_campaign=rss",
-   "at": "2026-11-18T23:04:06.000Z",
-   "ev": [
-    "myanmar",
-    "rohingya"
-   ],
-   "cc": [
-    "Myanmar"
-   ]
-  },
-  {
-   "id": "bce0f75bc442",
-   "t": "24-month matured Comté crowned world’s best cheese",
-   "ko": "24개월 숙성한 콩테 치즈, 세계 최고의 치즈로 선정",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/video/20261118-24-month-matured-comt%C3%A9-crowned-world-s-best-cheese",
-   "at": "2026-11-18T22:32:24.000Z",
-   "ev": [],
-   "cc": [
-    "France"
-   ]
-  },
-  {
-   "id": "94287023c763",
-   "t": "Florida pastor found guilty over 2021 assassination of Haitian president",
-   "ko": "플로리다 목사, 2021년 아이티 대통령 암살 혐의로 유죄 판결",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/us-news/2026/nov/18/florida-pastor-guilty-haiti-president-assassination",
-   "at": "2026-11-18T22:31:41.000Z",
-   "ev": [
-    "haiti"
-   ],
-   "cc": [
-    "United States",
-    "Haiti"
-   ]
-  },
-  {
-   "id": "e5bee1d5ece2",
-   "t": "Inside Limoges City Hall devastated by arson attack",
-   "ko": "방화 공격으로 파괴된 리모주 시청 내부",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/tv-shows/business/20261118-inside-limoges-city-hall-devastated-by-arson-attack",
-   "at": "2026-11-18T22:23:48.000Z",
-   "ev": [],
-   "cc": [
-    "France"
-   ]
-  },
-  {
-   "id": "d79b3a7c4ca0",
-   "t": "Crimea bridge strike: Fact-checking fake videos of damage after Ukraine's attack",
-   "ko": "크림 반도 교량 공격: 우크라이나 공격 이후 피해에 대한 가짜 동영상 사실 확인",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/tv-shows/truth-or-fake/20261118-crimea-bridge-strike-fact-checking-fake-videos-of-damage-after-ukraine-s-attack",
-   "at": "2026-11-18T21:51:43.000Z",
-   "ev": [
-    "ukraine"
-   ],
-   "cc": [
-    "Ukraine",
-    "Russia"
-   ]
-  },
-  {
-   "id": "c5c72d03a8e9",
-   "t": "Member of anti-migrant group found guilty of Staffordshire murder",
-   "ko": "스태퍼드셔 살인 혐의로 반이민 단체 회원 유죄 판결",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/uk-news/2026/nov/18/member-anti-migrant-group-guilty-murder-raise-colours-billy-allison",
-   "at": "2026-11-18T21:27:54.000Z",
-   "ev": [],
-   "cc": []
-  },
-  {
-   "id": "6ccc664f8996",
-   "t": "US Defence Secretary Hegseth reveals military partnership on Venezuela trip",
-   "ko": "헤그세스 미 국방장관, 베네수엘라 순방에서 군사동맹 공개",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/news/2026/11/18/us-defence-secretary-announces-military-partnership-on-trip-to-venezuela?traffic_source=rss",
-   "at": "2026-11-18T21:01:05.000Z",
-   "ev": [],
-   "cc": [
-    "United States",
-    "Venezuela"
-   ]
-  },
-  {
-   "id": "ee161c60c827",
-   "t": "What does Israel’s new ground offensive mean for Palestinians in Gaza?",
-   "ko": "이스라엘의 새로운 지상 공세는 가자지구의 팔레스타인인들에게 무엇을 의미합니까?",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/news/2026/11/18/what-does-israels-new-ground-offensive-mean-for-palestinians-in-gaza?traffic_source=rss",
-   "at": "2026-11-18T20:38:06.000Z",
-   "ev": [
-    "gaza"
-   ],
-   "cc": [
-    "Israel",
-    "Palestine"
-   ]
-  },
-  {
-   "id": "0cdceb7a13dd",
-   "t": "Reconstruction begins at Limoges City Hall after devastating fire",
-   "ko": "엄청난 화재 이후 리모주 시청에서 재건이 시작됩니다",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/reconstruction-begins-at-limoges-city-hall-after-devastating-fire",
-   "at": "2026-11-18T20:31:40.000Z",
-   "ev": [],
-   "cc": [
-    "France"
-   ]
-  },
-  {
-   "id": "ee7b14dff891",
-   "t": "Hegseth uses Venezuela visit to boast of Maduro’s capture by US military",
-   "ko": "헤그세스는 베네수엘라 방문을 이용해 미군이 마두로를 체포했다고 자랑한다",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/world/2026/nov/18/pete-hegseth-venezuela-nicolas-maduro-military",
-   "at": "2026-11-18T20:24:19.000Z",
-   "ev": [],
-   "cc": [
-    "Venezuela",
-    "United States"
-   ]
-  },
-  {
-   "id": "207025939c65",
-   "t": "Trump and Putin to meet one-on-one in China Thursday",
-   "ko": "트럼프-푸틴, 목요일 중국에서 단독 회동",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/news/2026/11/18/trump-and-putin-to-meet-one-on-one-in-china-thursday?traffic_source=rss",
-   "at": "2026-11-18T20:12:20.000Z",
-   "ev": [
-    "ukraine"
-   ],
-   "cc": [
-    "China",
-    "United States",
-    "Russia"
-   ]
-  },
-  {
-   "id": "55cee39d438a",
-   "t": "Shabana Mahmood backs ban on police marching in pride events in uniform",
-   "ko": "Shabana Mahmood는 경찰이 제복을 입고 프라이드 행사를 벌이는 것을 금지하는 것을 지지합니다.",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/politics/2026/nov/18/shabana-mahmood-backs-ban-on-police-marching-in-pride-events-in-uniform",
-   "at": "2026-11-18T20:03:50.000Z",
-   "ev": [],
-   "cc": []
-  },
-  {
-   "id": "8e9345fbc4a4",
-   "t": "Israeli army launches ground operation in Hamas-controlled area of Gaza",
-   "ko": "이스라엘군, 하마스 통제 가자지구 지상작전 개시",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/israeli-army-launches-ground-operation-in-hamas-controlled-area-of-gaza",
-   "at": "2026-11-18T19:55:15.000Z",
-   "ev": [
-    "gaza"
-   ],
-   "cc": [
-    "Israel",
-    "Palestine"
-   ]
   }
  ]
 }
