@@ -1,21 +1,21 @@
 {
- "updated": "2026-11-21T14:48:27.860Z",
+ "updated": "2026-11-21T20:50:09.871Z",
  "sources": {
   "BBC": {
    "ok": true,
-   "n": 6
+   "n": 7
   },
   "Al Jazeera": {
    "ok": true,
-   "n": 9
+   "n": 11
   },
   "The Guardian": {
    "ok": true,
-   "n": 18
+   "n": 19
   },
   "DW": {
    "ok": true,
-   "n": 3
+   "n": 4
   },
   "France 24": {
    "ok": true,
@@ -32,12 +32,326 @@
  },
  "items": [
   {
-   "id": "a1f3faa7350a",
-   "t": "‘Hell dorm’: Florida prisoners testify about 119F heat indexes and walls that sweat",
-   "ko": "'지옥 기숙사': 플로리다 죄수들은 119F 열 지수와 땀이 나는 벽에 대해 증언합니다.",
+   "id": "b0ff52fa3422",
+   "t": "France’s sixth consecutive Saturday of protests draw lower turnout",
+   "ko": "프랑스, 6회 연속 토요일 시위로 투표율 낮아져",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/france/20261121-france-s-sixth-consecutive-saturday-of-protests-draw-lower-turnout",
+   "at": "2026-11-21T20:20:37.000Z",
+   "ev": [],
+   "cc": [
+    "France"
+   ]
+  },
+  {
+   "id": "fb37a339a983",
+   "t": "Why is the US Army detonating lead-rich explosives in Iowa?",
+   "ko": "미군이 아이오와에서 납이 풍부한 폭발물을 터뜨리는 이유는 무엇입니까?",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/11/21/why-is-the-us-army-detonating-lead-rich-explosives-in-iowa?traffic_source=rss",
+   "at": "2026-11-21T20:15:13.000Z",
+   "ev": [],
+   "cc": [
+    "United States"
+   ]
+  },
+  {
+   "id": "b0b72e86c2bd",
+   "t": "Russia attacks Zelensky's hometown, Ukraine reaffirms wish to join NATO",
+   "ko": "러시아, 젤렌스키 고향 공격…우크라이나, NATO 가입 의사 재확인",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/europe/20261121-russia-attacks-zelensky-s-hometown-ukraine-reaffirms-wish-to-join-nato",
+   "at": "2026-11-21T19:56:39.000Z",
+   "ev": [
+    "ukraine"
+   ],
+   "cc": [
+    "Russia",
+    "Ukraine"
+   ]
+  },
+  {
+   "id": "aedff471d118",
+   "t": "Russia launches ballistic missile attack on Zelensky's hometown in central Ukraine",
+   "ko": "러시아, 우크라이나 중부 젤렌스키 고향에 탄도미사일 공격 개시",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/russia-launches-ballistic-missile-attack-on-zelensky-s-hometown-in-central-ukraine",
+   "at": "2026-11-21T19:55:07.000Z",
+   "ev": [
+    "ukraine"
+   ],
+   "cc": [
+    "Russia",
+    "Ukraine"
+   ]
+  },
+  {
+   "id": "a483f4d15ca0",
+   "t": "Noni Madueke salvages draw for Arsenal at Newcastle United as Raya injured",
+   "ko": "노니 마두에케, 라야 부상으로 뉴캐슬 유나이티드 아스날 무승부",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/sports/2026/11/21/noni-madueke-salvages-draw-for-arsenal-at-newcastle-united-as-raya-injured?traffic_source=rss",
+   "at": "2026-11-21T19:53:00.000Z",
+   "ev": [],
+   "cc": []
+  },
+  {
+   "id": "6bb0948a08a8",
+   "t": "Man charged with attempted murder after councillor stabbed in Bradford",
+   "ko": "브래드포드 시의원 흉기에 찔린 남성, 살인 미수 혐의로 기소",
    "src": "The Guardian",
-   "u": "https://www.theguardian.com/us-news/2026/nov/21/florida-prisoner-lawsuit-extreme-heat",
-   "at": "2026-11-21T14:38:58.000Z",
+   "u": "https://www.theguardian.com/uk-news/2026/nov/21/man-charged-with-attempted-after-councillor-stabbed-in-bradford",
+   "at": "2026-11-21T19:42:42.000Z",
+   "ev": [],
+   "cc": []
+  },
+  {
+   "id": "86c4e817690b",
+   "t": "Russia-bound ship attacked in Gulf of Finland",
+   "ko": "러시아행 선박이 핀란드 만에서 공격을 받았습니다.",
+   "src": "BBC",
+   "u": "https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&at_campaign=rss",
+   "at": "2026-11-21T19:20:22.000Z",
+   "ev": [
+    "ukraine"
+   ],
+   "cc": [
+    "Finland",
+    "Ukraine"
+   ]
+  },
+  {
+   "id": "cdabda9f591a",
+   "t": "‘Six, seven, maybe more preventable deaths’: Queensland’s LNP faces reckoning over broken health system",
+   "ko": "'6, 7명, 아마도 더 예방 가능한 사망': 퀸즈랜드의 LNP는 망가진 의료 시스템에 대한 심판에 직면해 있습니다",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/australia-news/2026/nov/22/queensland-health-ambulance-deaths-lnp-labor-ntwnfb",
+   "at": "2026-11-21T19:00:08.000Z",
+   "ev": [],
+   "cc": []
+  },
+  {
+   "id": "635c339e1bd2",
+   "t": "Louisiana man charged with killing woman on hiking trail and murdering co-worker with crossbow",
+   "ko": "등산로에서 여성을 살해하고 동료를 석궁으로 살해한 루이지애나 남성이 기소됐다.",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/us-news/2026/nov/21/louisiana-mississippi-hiking-trail-crossbow-murder-charges",
+   "at": "2026-11-21T18:50:00.000Z",
+   "ev": [],
+   "cc": []
+  },
+  {
+   "id": "286cc01f5f7e",
+   "t": "Deadly attack in Kyiv as Russia launches barrage against Ukraine",
+   "ko": "러시아가 우크라이나에 포격을 가하자 키예프에서 치명적인 공격이 발생했습니다.",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/video/newsfeed/2026/11/21/aje-onl-nf_deadly-attack-in-kyiv-as-russia-launches-barrage-211126?traffic_source=rss",
+   "at": "2026-11-21T18:42:38.000Z",
+   "ev": [
+    "ukraine"
+   ],
+   "cc": [
+    "Russia",
+    "Ukraine"
+   ]
+  },
+  {
+   "id": "0b0e060ad4ed",
+   "t": "Suffolk village votes to ‘leave the UK’ over plans to house asylum seekers nearby",
+   "ko": "서퍽(Suffolk) 마을, 인근에 망명 신청자들을 수용할 계획에 대해 '영국을 떠나기'로 투표",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/uk-news/2026/nov/21/suffolk-village-votes-to-leave-the-uk-over-plans-to-house-asylum-seekers-nearby",
+   "at": "2026-11-21T18:20:37.000Z",
+   "ev": [],
+   "cc": [
+    "United Kingdom"
+   ]
+  },
+  {
+   "id": "4505aab8d555",
+   "t": "Drone attack sets Russian cargo ship ablaze in Gulf of Finland",
+   "ko": "드론 공격으로 핀란드 만에서 러시아 화물선에 불이 붙다",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/drone-attack-sets-russian-cargo-ship-ablaze-in-gulf-of-finland",
+   "at": "2026-11-21T18:02:23.000Z",
+   "ev": [
+    "ukraine"
+   ],
+   "cc": [
+    "Russia",
+    "Finland",
+    "Ukraine"
+   ]
+  },
+  {
+   "id": "c5c5b0db5de5",
+   "t": "UK police drag man from protest over ‘Pallet Sign Acton’ shirt",
+   "ko": "영국 경찰은 '팔레트 사인 액톤(Pallet Sign Acton)' 셔츠를 놓고 항의하던 남성을 끌고 갔습니다.",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/video/newsfeed/2026/11/21/uk-police-drag-man-from-protest-over-pallet-sign-acton-shirt?traffic_source=rss",
+   "at": "2026-11-21T17:57:27.000Z",
+   "ev": [],
+   "cc": [
+    "United Kingdom"
+   ]
+  },
+  {
+   "id": "5af29203d2d8",
+   "t": "Israeli strike hits food aid vehicle in Gaza, killing three",
+   "ko": "이스라엘, 가자지구 식량지원 차량 공격해 3명 사망",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/video/newsfeed/2026/11/21/21-11-sv-israel-targets-gaza-food-truck?traffic_source=rss",
+   "at": "2026-11-21T17:54:19.000Z",
+   "ev": [
+    "gaza"
+   ],
+   "cc": [
+    "Israel",
+    "Palestine"
+   ]
+  },
+  {
+   "id": "11a79bbce9a7",
+   "t": "Alleged Mexican drug cartel boss ‘El Chapo Isidro’ arrested in special forces raid",
+   "ko": "멕시코 마약 카르텔 두목 '엘 차포 이시드로' 특수부대 급습으로 체포",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/world/2026/nov/21/alleged-mexican-drug-cartel-boss-el-chapo-isidro-meza-flores-arrested",
+   "at": "2026-11-21T17:46:55.000Z",
+   "ev": [
+    "mexico"
+   ],
+   "cc": [
+    "Mexico"
+   ]
+  },
+  {
+   "id": "5cbcf31514b3",
+   "t": "Vance stops short of endorsing Trump’s claim that Iran was close to nuclear weapon",
+   "ko": "밴스는 이란이 핵무기에 가깝다는 트럼프의 주장을 지지하지 않는다",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/us-news/2026/nov/21/vance-trump-iran-nuclear-weapon",
+   "at": "2026-11-21T17:24:51.000Z",
+   "ev": [
+    "iran"
+   ],
+   "cc": [
+    "Iran",
+    "United States"
+   ]
+  },
+  {
+   "id": "cf79c26c0f5c",
+   "t": "Russian strike kills two, wounds 60, in Zelenskyy’s hometown",
+   "ko": "젤렌스키 고향에서 러시아 공습으로 2명 사망, 60명 부상",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/11/21/russian-strike-kills-two-wounds-60-in-zelenskyys-hometown?traffic_source=rss",
+   "at": "2026-11-21T17:20:03.000Z",
+   "ev": [
+    "ukraine"
+   ],
+   "cc": [
+    "Russia",
+    "Poland"
+   ]
+  },
+  {
+   "id": "06106032bc37",
+   "t": "Russian helicopter suspected of violating Finnish airspace",
+   "ko": "러시아 헬기, 핀란드 영공 침범 혐의",
+   "src": "DW",
+   "u": "https://www.dw.com/en/russian-helicopter-suspected-of-violating-finnish-airspace/a-80010133?maca=en-rss-en-world-4025-rdf",
+   "at": "2026-11-21T17:08:00.000Z",
+   "ev": [],
+   "cc": [
+    "Russia",
+    "Finland",
+    "United States"
+   ]
+  },
+  {
+   "id": "158994b8ae4e",
+   "t": "International UN talks on controlling use of autonomous weapons collapse",
+   "ko": "자율 무기 사용 통제에 관한 국제 유엔 회담 붕괴",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/technology/2026/nov/21/international-talks-control-ai-autonomous-weapons-collapse",
+   "at": "2026-11-21T16:36:11.000Z",
+   "ev": [],
+   "cc": [
+    "Russia"
+   ]
+  },
+  {
+   "id": "5236383aa1a5",
+   "t": "India’s opposition stages protests against Meta over account removals",
+   "ko": "인도 야당, 계정 삭제를 이유로 메타에 항의",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/11/21/indias-opposition-stages-protests-against-meta-over-account-removals?traffic_source=rss",
+   "at": "2026-11-21T16:14:01.000Z",
+   "ev": [],
+   "cc": [
+    "India",
+    "United States"
+   ]
+  },
+  {
+   "id": "b9065e32f3e4",
+   "t": "Endurance athlete swims in Hormuz Strait",
+   "ko": "호르무즈 해협에서 수영하는 지구력 선수",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/endurance-athlete-swims-in-hormuz-strait",
+   "at": "2026-11-21T16:02:59.000Z",
+   "ev": [
+    "iran"
+   ],
+   "cc": [
+    "Iran"
+   ]
+  },
+  {
+   "id": "efd28b236368",
+   "t": "France: Demonstrations losing steam as movement enters sixth week",
+   "ko": "프랑스: 운동이 6주차에 접어들면서 시위가 열기를 잃음",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/france-demonstrations-losing-steam-as-movement-enters-sixth-week",
+   "at": "2026-11-21T16:00:03.000Z",
+   "ev": [],
+   "cc": [
+    "France",
+    "Spain",
+    "Portugal"
+   ]
+  },
+  {
+   "id": "ff71ef103851",
+   "t": "New day of protests across France",
+   "ko": "프랑스 전역에서 새로운 시위가 시작되었습니다",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/new-day-of-protests-across-france",
+   "at": "2026-11-21T15:50:52.000Z",
+   "ev": [],
+   "cc": [
+    "France"
+   ]
+  },
+  {
+   "id": "0c81e79704f0",
+   "t": "French presidential candidate blames media for racist attack",
+   "ko": "프랑스 대선 후보, 인종차별 공격 언론 비난",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/video/newsfeed/2026/11/21/french-presidential-candidate-blames-media-for-racist-attack?traffic_source=rss",
+   "at": "2026-11-21T15:46:18.000Z",
+   "ev": [],
+   "cc": [
+    "France"
+   ]
+  },
+  {
+   "id": "da9c6a6f2638",
+   "t": "Virginia child dies in state’s first measles-associated death of 2026",
+   "ko": "2026년 버지니아주 최초의 홍역 관련 사망으로 버지니아 어린이 사망",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/us-news/2026/nov/21/virginia-child-dies-measles",
+   "at": "2026-11-21T15:30:07.000Z",
    "ev": [],
    "cc": [
     "United States"
@@ -49,10 +363,37 @@
    "ko": "영국 남성, 키프로스 창문에서 추락한 아들 사망에 '절망' 회상",
    "src": "The Guardian",
    "u": "https://www.theguardian.com/uk-news/2026/nov/21/british-man-recalls-despair-over-sons-death-after-fall-from-cyprus-window",
-   "at": "2026-11-21T14:35:20.000Z",
+   "at": "2026-11-21T15:19:03.000Z",
    "ev": [],
    "cc": [
     "Cyprus"
+   ]
+  },
+  {
+   "id": "cbeed7399dad",
+   "t": "Russia strikes Zelenskyy's hometown, killing 2",
+   "ko": "러시아, 젤렌스키 고향 공격해 2명 사망",
+   "src": "DW",
+   "u": "https://www.dw.com/en/russia-strikes-zelenskyy-s-hometown-killing-2/a-80009458?maca=en-rss-en-world-4025-rdf",
+   "at": "2026-11-21T14:44:00.000Z",
+   "ev": [
+    "ukraine"
+   ],
+   "cc": [
+    "Russia",
+    "Ukraine"
+   ]
+  },
+  {
+   "id": "a1f3faa7350a",
+   "t": "‘Hell dorm’: Florida prisoners testify about 119F heat indexes and walls that sweat",
+   "ko": "'지옥 기숙사': 플로리다 죄수들은 119F 열 지수와 땀이 나는 벽에 대해 증언합니다.",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/us-news/2026/nov/21/florida-prisoner-lawsuit-extreme-heat",
+   "at": "2026-11-21T14:38:58.000Z",
+   "ev": [],
+   "cc": [
+    "United States"
    ]
   },
   {
@@ -167,8 +508,8 @@
   },
   {
    "id": "623ed4ea3033",
-   "t": "Russia says Kaliningrad-bound ship struck by drones in Gulf of Finland",
-   "ko": "러시아, 칼리닌그라드행 선박이 핀란드 만에서 드론 공격 받았다고 발표",
+   "t": "Crew evacuated amid battle to put out fire on Russian ship hit by drones",
+   "ko": "드론 공격에 피격된 러시아 선박 화재 진압 전투 중 승무원 대피",
    "src": "Al Jazeera",
    "u": "https://www.aljazeera.com/news/2026/11/21/russia-says-kaliningrad-bound-ship-struck-by-drones-in-gulf-of-finland?traffic_source=rss",
    "at": "2026-11-21T12:45:24.000Z",
@@ -176,8 +517,7 @@
     "ukraine"
    ],
    "cc": [
-    "Russia",
-    "Finland"
+    "Russia"
    ]
   },
   {
@@ -194,21 +534,6 @@
     "Ukraine",
     "Russia",
     "China"
-   ]
-  },
-  {
-   "id": "53c4accc2919",
-   "t": "Drone attack sets Russian cargo ship ablaze in Gulf of Finland",
-   "ko": "드론 공격으로 핀란드 만에서 러시아 화물선에 불이 붙다",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/europe/20261121-drone-attack-sets-russian-cargo-ship-ablaze-in-gulf-of-finland",
-   "at": "2026-11-21T12:35:54.000Z",
-   "ev": [
-    "ukraine"
-   ],
-   "cc": [
-    "Russia",
-    "Finland"
    ]
   },
   {
@@ -1851,367 +2176,6 @@
    "cc": [
     "Russia",
     "Ukraine"
-   ]
-  },
-  {
-   "id": "4f2872fed60a",
-   "t": "Senate Republicans in US reject measure to limit Trump’s war powers in Iran",
-   "ko": "미국 상원 공화당 의원들, 트럼프의 이란 전쟁권 제한 법안 거부",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/news/2026/11/19/senate-republicans-in-us-reject-measure-to-limit-trumps-war-powers-in-iran?traffic_source=rss",
-   "at": "2026-11-19T20:30:54.000Z",
-   "ev": [
-    "iran"
-   ],
-   "cc": [
-    "United States",
-    "Iran"
-   ]
-  },
-  {
-   "id": "8c56fdbe2f6d",
-   "t": "What does the Myanmar genocide ruling mean for the Rohingya?",
-   "ko": "미얀마 대량학살 판결은 로힝야족에게 어떤 의미를 갖는가?",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/video/newsfeed/2026/11/19/what-does-the-myanmar-genocide-ruling-mean-for-the-rohingya?traffic_source=rss",
-   "at": "2026-11-19T20:26:09.000Z",
-   "ev": [
-    "myanmar",
-    "rohingya"
-   ],
-   "cc": [
-    "Myanmar",
-    "Bangladesh"
-   ]
-  },
-  {
-   "id": "11685b3b01c1",
-   "t": "Myanmar committed genocide against Rohingya minority, top UN court rules",
-   "ko": "미얀마, 로힝야 소수민족에 대한 대량 학살 자행, 유엔 법원 최고 규정",
-   "src": "BBC",
-   "u": "https://www.bbc.co.uk/news/articles/c804wzp20ddvo?at_medium=RSS&at_campaign=rss",
-   "at": "2026-11-19T20:07:02.000Z",
-   "ev": [
-    "myanmar",
-    "rohingya"
-   ],
-   "cc": [
-    "Myanmar"
-   ]
-  },
-  {
-   "id": "1849409bc417",
-   "t": "A president among body bags: Photo ops spark outrage in Colombia",
-   "ko": "시신 가방 속의 대통령: 콜롬비아에서 사진 작전이 분노를 촉발함",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/tv-shows/the-observers/20261119-president-body-bags-photo-ops-sparking-outrage-colombia",
-   "at": "2026-11-19T19:52:24.000Z",
-   "ev": [
-    "colombia"
-   ],
-   "cc": [
-    "Colombia"
-   ]
-  },
-  {
-   "id": "8de921d60327",
-   "t": "Kushner says Russia ‘comfortable’ with NATO-like guarantees for Ukraine",
-   "ko": "쿠슈너는 우크라이나에 대한 NATO와 같은 보장에 러시아가 '편안하다'고 말했습니다.",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/news/2026/11/19/european-leaders-unite-in-berlin-to-reaffirm-support-for-ukraine?traffic_source=rss",
-   "at": "2026-11-19T19:40:23.000Z",
-   "ev": [
-    "ukraine"
-   ],
-   "cc": [
-    "Russia",
-    "Ukraine"
-   ]
-  },
-  {
-   "id": "ff14204cea59",
-   "t": "Three of a kind? Xi hosts Trump and Putin as Ukraine war grinds on",
-   "ko": "세 가지 종류? 우크라이나 전쟁이 계속되는 가운데 시은 트럼프와 푸틴을 초대한다.",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/tv-shows/the-debate/20261119-three-of-a-kind-xi-hosts-trump-and-putin-as-ukraine-war-grinds-on",
-   "at": "2026-11-19T19:39:43.000Z",
-   "ev": [
-    "ukraine"
-   ],
-   "cc": [
-    "Ukraine"
-   ]
-  },
-  {
-   "id": "4073a3d871d3",
-   "t": "Photos: Genocide ruling spotlights human toll of 2017 Rohingya crisis",
-   "ko": "사진: 대량학살 판결, 2017년 로힝야 위기로 인한 인명 피해 주목",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/gallery/2026/11/19/photos-genocide-ruling-spotlights-2017-rohingya-crisis-human-toll?traffic_source=rss",
-   "at": "2026-11-19T19:33:25.000Z",
-   "ev": [
-    "rohingya"
-   ],
-   "cc": [
-    "Bangladesh"
-   ]
-  },
-  {
-   "id": "df80a7297159",
-   "t": "‘Welsh can tell any story’: Cymraeg dub of Star Wars premieres in Cardiff",
-   "ko": "'웨일스어는 어떤 이야기든 말할 수 있습니다': 스타워즈의 Cymraeg 더빙이 카디프에서 초연됩니다",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/film/2026/nov/19/welsh-cymraeg-dub-star-wars-cardiff",
-   "at": "2026-11-19T19:33:00.000Z",
-   "ev": [],
-   "cc": [
-    "New Zealand"
-   ]
-  },
-  {
-   "id": "646f795f08ca",
-   "t": "Save the Children: Gaza’s children face ‘unmatched dangers’",
-   "ko": "세이브 더 칠드런(Save the Children): 가자 지구의 아이들은 '비할 수 없는 위험'에 직면해 있습니다",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/news/2026/11/19/save-the-children-gazas-children-face-unmatched-dangers?traffic_source=rss",
-   "at": "2026-11-19T19:23:45.000Z",
-   "ev": [
-    "gaza"
-   ],
-   "cc": [
-    "Palestine"
-   ]
-  },
-  {
-   "id": "4ae9e36cfdba",
-   "t": "World reacts to ICJ finding Myanmar guilty of genocide against Rohingya",
-   "ko": "ICJ가 미얀마의 로힝야족 집단 학살 유죄 판결에 세계가 반응하다",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/news/2026/11/19/world-reacts-to-icj-finding-myanmar-guilty-of-genocide-against-rohingya?traffic_source=rss",
-   "at": "2026-11-19T19:19:06.000Z",
-   "ev": [
-    "myanmar",
-    "rohingya"
-   ],
-   "cc": [
-    "Myanmar"
-   ]
-  },
-  {
-   "id": "9e8a67228c30",
-   "t": "Man arrested after ‘horrific’ knife attack on Bradford councillor",
-   "ko": "브래드포드 시의원에게 '끔찍한' 흉기 공격을 가한 남성 체포",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/uk-news/2026/nov/19/man-arrested-horrific-knife-attack-bradford-councillor-ibrar-ali",
-   "at": "2026-11-19T19:18:56.000Z",
-   "ev": [],
-   "cc": []
-  },
-  {
-   "id": "32bd3eabe2d3",
-   "t": "Rohingya survivors react to landmark genocide ruling against Myanmar",
-   "ko": "로힝야족 생존자들, 미얀마에 대한 획기적인 대량 학살 판결에 반응",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/video/newsfeed/2026/11/19/rohingya-survivors-react-to-landmark-genocide-ruling-against-myanmar?traffic_source=rss",
-   "at": "2026-11-19T19:16:34.000Z",
-   "ev": [
-    "myanmar",
-    "rohingya"
-   ],
-   "cc": [
-    "Myanmar",
-    "Bangladesh"
-   ]
-  },
-  {
-   "id": "b032307efd6f",
-   "t": "Man protests on roof of Spanish embassy over Fergie Chambers extradition",
-   "ko": "퍼기 챔버스 송환 문제로 스페인 대사관 옥상에서 남성 항의",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/video/newsfeed/2026/11/19/man-protests-on-roof-of-spanish-embassy-over-fergie-chambers-extradition?traffic_source=rss",
-   "at": "2026-11-19T19:15:10.000Z",
-   "ev": [],
-   "cc": [
-    "Spain",
-    "United States"
-   ]
-  },
-  {
-   "id": "b0e7b12ecf65",
-   "t": "Families flee Gaza’s Bureij camp as Israel launches new offensive",
-   "ko": "이스라엘이 새로운 공세를 시작하자 가족들은 가자지구의 부레이(Bureij) 수용소를 탈출한다",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/video/newsfeed/2026/11/19/families-flee-gazas-bureij-camp-as-israel-launches-new-offensive?traffic_source=rss",
-   "at": "2026-11-19T19:01:00.000Z",
-   "ev": [
-    "gaza"
-   ],
-   "cc": [
-    "Palestine",
-    "Israel"
-   ]
-  },
-  {
-   "id": "818fe2e4530e",
-   "t": "Iraq's risky standoff: The state vs. Iran-allied militias",
-   "ko": "이라크의 위험한 대치: 국가 대 이란 동맹 민병대",
-   "src": "DW",
-   "u": "https://www.dw.com/en/iraq-s-risky-standoff-the-state-vs-iran-allied-militias/a-79995757?maca=en-rss-en-world-4025-rdf",
-   "at": "2026-11-19T18:59:00.000Z",
-   "ev": [
-    "iran",
-    "lebanon"
-   ],
-   "cc": [
-    "Iraq"
-   ]
-  },
-  {
-   "id": "595df0fa2b1d",
-   "t": "Mamdani signs bill to ban horse-drawn carriages in New York City",
-   "ko": "맘다니(Mamdani)는 뉴욕시에서 말이 끄는 마차를 금지하는 법안에 서명했습니다.",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/us-news/2026/nov/19/nyc-horse-drawn-carriage-ban-mamdani",
-   "at": "2026-11-19T18:56:23.000Z",
-   "ev": [],
-   "cc": []
-  },
-  {
-   "id": "28d1ab3a6c4e",
-   "t": "Palestinians in Gaza face new displacement after Israeli army operation",
-   "ko": "이스라엘군의 작전으로 가자지구의 팔레스타인인들이 새로운 난민을 맞이하게 되었습니다.",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/news/2026/11/19/palestinians-in-gaza-face-new-displacement-after-israeli-army-operation?traffic_source=rss",
-   "at": "2026-11-19T18:46:10.000Z",
-   "ev": [
-    "gaza"
-   ],
-   "cc": [
-    "Palestine",
-    "Israel"
-   ]
-  },
-  {
-   "id": "46ef685dc336",
-   "t": "Call for police to investigate Scottish hospital after 19 deaths due to surgery",
-   "ko": "수술로 19명 사망한 스코틀랜드 병원 경찰에 수사 요청",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/society/2026/nov/19/call-for-police-to-investigate-scottish-hospital-after-19-deaths-due-to-surgery",
-   "at": "2026-11-19T18:21:59.000Z",
-   "ev": [],
-   "cc": []
-  },
-  {
-   "id": "5ac6485bd737",
-   "t": "Ukraine allies warn ‘Yalta format’ will not bring about peace – as it happened",
-   "ko": "우크라이나 동맹국, '얄타 형식'이 평화를 가져오지 못할 것이라고 경고",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/world/live/2026/nov/19/russia-ukraine-war-coalition-of-the-willing-europe-latest-news-updates",
-   "at": "2026-11-19T18:03:54.000Z",
-   "ev": [
-    "ukraine"
-   ],
-   "cc": [
-    "Ukraine",
-    "China"
-   ]
-  },
-  {
-   "id": "3fdc8c957706",
-   "t": "Election date? Brexit reset outcome? Farage’s survival chances? Andrew Sparrow answered readers questions",
-   "ko": "선거 날짜? 브렉시트 재설정 결과는? Farage의 생존 가능성은? 앤드루 스패로우가 독자들의 질문에 답변했습니다.",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/politics/live/2026/nov/19/kemi-badenoch-andy-burnham-uk-politics-latest-news-updates",
-   "at": "2026-11-19T18:02:33.000Z",
-   "ev": [],
-   "cc": [
-    "United Kingdom"
-   ]
-  },
-  {
-   "id": "61165eb634cd",
-   "t": "Rohingya genocide: What was said in court and what happens now?",
-   "ko": "로힝야 집단 학살: 법정에서는 어떤 이야기가 나왔고, 지금은 어떤 일이 벌어지고 있나요?",
-   "src": "BBC",
-   "u": "https://www.bbc.co.uk/news/videos/c60qj10j0ld5o?at_medium=RSS&at_campaign=rss",
-   "at": "2026-11-19T17:35:05.000Z",
-   "ev": [
-    "rohingya"
-   ],
-   "cc": []
-  },
-  {
-   "id": "01bbae4aed66",
-   "t": "What impact will the Shenzhen summit have on the US-China trade war?",
-   "ko": "선전 정상회담이 미·중 무역전쟁에 어떤 영향을 미칠까?",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/asia-pacific/20261119-what-impact-will-shenzhen-summit-us-china-trade-war",
-   "at": "2026-11-19T17:34:09.000Z",
-   "ev": [],
-   "cc": [
-    "United States",
-    "China",
-    "Russia"
-   ]
-  },
-  {
-   "id": "f3004053344a",
-   "t": "Myanmar ruling gives new relevance to genocide convention and is ‘full of messages’ for Israel",
-   "ko": "미얀마 판결은 대량 학살 협약에 새로운 관련성을 부여하고 이스라엘에 대한 '메시지로 가득 차 있습니다'",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/law/2026/nov/19/myanmar-ruling-new-relevance-genocide-convention-messages-israel",
-   "at": "2026-11-19T17:14:55.000Z",
-   "ev": [
-    "myanmar",
-    "rohingya"
-   ],
-   "cc": [
-    "Myanmar",
-    "Israel"
-   ]
-  },
-  {
-   "id": "15064a2cc8b4",
-   "t": "Bangladesh: Hasina supporters vandalise ruling party office",
-   "ko": "방글라데시: 하시나 지지자들이 집권당 사무실을 파괴하다",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/video/20261119-bangladesh-hasina-supporters-vandalise-ruling-party-office",
-   "at": "2026-11-19T17:14:23.000Z",
-   "ev": [],
-   "cc": [
-    "Bangladesh"
-   ]
-  },
-  {
-   "id": "4dffa5bc2cfc",
-   "t": "China, Russia and US agree peace declaration with no mention of Ukraine and Iran wars",
-   "ko": "중국, 러시아, 미국은 우크라이나와 이란 전쟁에 대한 언급 없이 평화 선언에 합의했습니다.",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/world/2026/nov/19/china-russia-us-agree-peace-statement-no-mention-ukraine-iran-wars",
-   "at": "2026-11-19T17:13:23.000Z",
-   "ev": [
-    "ukraine",
-    "iran"
-   ],
-   "cc": [
-    "China",
-    "Russia",
-    "United States"
-   ]
-  },
-  {
-   "id": "c3261a1d086e",
-   "t": "Israeli military completes ground operation in Gaza beyond Yellow Line",
-   "ko": "이스라엘군, 옐로우라인 너머 가자지구 지상작전 완료",
-   "src": "BBC",
-   "u": "https://www.bbc.co.uk/news/articles/cw8r7510degno?at_medium=RSS&at_campaign=rss",
-   "at": "2026-11-19T17:03:23.000Z",
-   "ev": [
-    "gaza"
-   ],
-   "cc": [
-    "Israel",
-    "Palestine"
    ]
   }
  ]
