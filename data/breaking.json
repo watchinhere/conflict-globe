@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T23:47:57.509Z",
+ "updated": "2026-11-21T06:18:02.948Z",
  "sources": {
   "BBC": {
    "ok": true,
@@ -7,11 +7,11 @@
   },
   "Al Jazeera": {
    "ok": true,
-   "n": 14
+   "n": 12
   },
   "The Guardian": {
    "ok": true,
-   "n": 18
+   "n": 17
   },
   "DW": {
    "ok": true,
@@ -32,6 +32,122 @@
  },
  "items": [
   {
+   "id": "633d3b37de6e",
+   "t": "Zelensky says Putin is a 'killer' after Trump calls Russian leader a friend",
+   "ko": "젤렌스키는 트럼프가 러시아 지도자에게 친구라고 부른 뒤 푸틴은 '살인자'라고 말했다.",
+   "src": "BBC",
+   "u": "https://www.bbc.co.uk/news/articles/cxnv4zvmdy0jo?at_medium=RSS&at_campaign=rss",
+   "at": "2026-11-21T05:15:41.000Z",
+   "ev": [
+    "ukraine"
+   ],
+   "cc": [
+    "Russia",
+    "Ukraine"
+   ]
+  },
+  {
+   "id": "9f96134b0c53",
+   "t": "‘So what if there’s a hole? It hasn’t collapsed’: Kyiv residents unbothered by Russian attacks on city’s bridges",
+   "ko": "'그럼 구멍이 나면 어쩌지? 붕괴되지 않았다': 도시 교량에 대한 러시아의 공격에도 개의치 않는 키예프 주민들",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/world/2026/nov/21/kyiv-russian-attacks-bridges",
+   "at": "2026-11-21T05:00:50.000Z",
+   "ev": [
+    "ukraine"
+   ],
+   "cc": [
+    "Russia"
+   ]
+  },
+  {
+   "id": "e75debc60ef6",
+   "t": "Teenager allegedly organised arsons and kidnapping on Signal during Melbourne hospitality wars",
+   "ko": "멜버른 환대 전쟁 중 시그널(Signal)에서 방화와 납치를 조직한 것으로 추정되는 10대 소년",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/australia-news/2026/nov/21/teenager-allegedly-organised-arsons-and-kidnapping-on-signal-during-melbourne-hospitality-wars-ntwnfb",
+   "at": "2026-11-21T04:44:00.000Z",
+   "ev": [],
+   "cc": []
+  },
+  {
+   "id": "b4af86b6cf84",
+   "t": "Man convicted of starting Palisades fire in Los Angeles",
+   "ko": "로스앤젤레스에서 팰리세이즈 화재를 일으킨 남성이 유죄 판결을 받았습니다.",
+   "src": "BBC",
+   "u": "https://www.bbc.co.uk/news/articles/c64gn0gy8rj3o?at_medium=RSS&at_campaign=rss",
+   "at": "2026-11-21T04:34:00.000Z",
+   "ev": [],
+   "cc": []
+  },
+  {
+   "id": "6300341dc8de",
+   "t": "Rohingya who escaped Myanmar’s genocide tell their stories",
+   "ko": "미얀마 학살을 피해 탈출한 로힝야족의 이야기",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/world/2026/nov/21/rohingya-who-escaped-myanmars-genocide-tell-their-stories",
+   "at": "2026-11-21T04:00:47.000Z",
+   "ev": [
+    "myanmar",
+    "rohingya"
+   ],
+   "cc": [
+    "Myanmar"
+   ]
+  },
+  {
+   "id": "4bef99f0e187",
+   "t": "Gen Z protests sweep Europe over wars, rising costs and climate",
+   "ko": "Z세대 시위가 전쟁, 비용 상승, 기후 문제로 유럽을 휩쓸었습니다.",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/video/newsfeed/2026/11/21/gen-z-protests-sweep-europe-over-wars-rising-costs-and-climate?traffic_source=rss",
+   "at": "2026-11-21T02:49:16.000Z",
+   "ev": [],
+   "cc": []
+  },
+  {
+   "id": "8958d346f49c",
+   "t": "Iran war live: Saudi-led coalition downs Houthi missiles",
+   "ko": "이란 전쟁 생중계: 사우디 주도 연합군, 후티 미사일 격추",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/liveblog/2026/11/21/iran-war-live-saudi-led-coalition-repels-houthi-missiles?traffic_source=rss",
+   "at": "2026-11-21T00:00:06.000Z",
+   "ev": [
+    "iran",
+    "yemen"
+   ],
+   "cc": [
+    "Iran",
+    "United States"
+   ]
+  },
+  {
+   "id": "19c0628393b8",
+   "t": "Republican senator blocks Trump cyber nominee over January 6 denial",
+   "ko": "공화당 상원의원, 1월 6일 거부한 트럼프 사이버 후보 차단",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/us-news/2026/nov/20/tillis-republican-senator-trump-cyber-nominee",
+   "at": "2026-11-20T23:48:38.000Z",
+   "ev": [],
+   "cc": [
+    "United States"
+   ]
+  },
+  {
+   "id": "fabe8f110b31",
+   "t": "Overturned boat carrying mourners to funeral kills at least four in Nigeria",
+   "ko": "나이지리아에서 장례식에 조문객을 태운 배가 전복돼 최소 4명이 사망했다",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/11/20/overturned-boat-carrying-mourners-to-funeral-kills-at-least-four-in-nigeria?traffic_source=rss",
+   "at": "2026-11-20T23:36:36.000Z",
+   "ev": [
+    "nigeria"
+   ],
+   "cc": [
+    "Nigeria"
+   ]
+  },
+  {
    "id": "3ace204545de",
    "t": "Rahul Gandhi backs strong India-Israel ties despite Gaza war",
    "ko": "라훌 간디는 가자 전쟁에도 불구하고 인도-이스라엘의 강력한 관계를 지지합니다",
@@ -50,8 +166,8 @@
   },
   {
    "id": "cdedd122f848",
-   "t": "Dead pets were meant to be cremated - then their bodies appeared on a livestream",
-   "ko": "죽은 애완동물은 화장될 예정이었지만 그 시체가 실시간 스트리밍에 나타났습니다.",
+   "t": "These dead pets were meant to be cremated - then their bodies appeared on a livestream",
+   "ko": "이 죽은 애완동물은 화장될 예정이었지만 그 시체가 실시간 스트리밍에 나타났습니다.",
    "src": "BBC",
    "u": "https://www.bbc.co.uk/news/articles/cmn502ek17yvo?at_medium=RSS&at_campaign=rss",
    "at": "2026-11-20T23:20:33.000Z",
@@ -91,7 +207,7 @@
   },
   {
    "id": "8e3ceec613f9",
-   "t": "Trump threatens ‘tremendous penalties’ on US tech firms that build datacenters abroad",
+   "t": "Trump threatens ‘tremendous penalties’ for US tech firms that build datacenters abroad",
    "ko": "트럼프, 해외에 데이터센터 짓는 미국 기술기업에 '엄청난 처벌' 위협",
    "src": "The Guardian",
    "u": "https://www.theguardian.com/us-news/2026/nov/20/trump-datacenters-white-house",
@@ -161,8 +277,8 @@
   },
   {
    "id": "ca7b21a1b795",
-   "t": "Two Salvadoran soldiers killed in Haiti while handling explosives",
-   "ko": "아이티에서 폭발물 취급 중 엘살바도르 군인 2명 사망",
+   "t": "Three Salvadoran soldiers killed in Haiti while handling explosives",
+   "ko": "아이티에서 폭발물 취급 중 엘살바도르 군인 3명 사망",
    "src": "Al Jazeera",
    "u": "https://www.aljazeera.com/news/2026/11/20/two-salvadoran-soldiers-killed-in-haiti-while-handling-explosives?traffic_source=rss",
    "at": "2026-11-20T20:59:04.000Z",
@@ -2124,130 +2240,6 @@
    "cc": [
     "Saudi Arabia"
    ]
-  },
-  {
-   "id": "dab98dd23cf4",
-   "t": "Skyscraper in Riyadh damaged as Saudi Arabia reports surge in new Houthi attacks",
-   "ko": "사우디아라비아가 새로운 후티 반군 공격 급증을 보고하면서 리야드의 고층 건물이 파손되었습니다",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/middle-east/20261119-skyscraper-in-riyadh-damaged-as-saudi-arabia-reports-surge-in-new-houthi-attacks",
-   "at": "2026-11-19T07:58:16.000Z",
-   "ev": [
-    "yemen"
-   ],
-   "cc": [
-    "Saudi Arabia",
-    "Yemen"
-   ]
-  },
-  {
-   "id": "cce6a870c6e4",
-   "t": "Why is Pete Hegseth strengthening US military ties with Venezuela?",
-   "ko": "Pete Hegseth가 베네수엘라와 미국의 군사적 관계를 강화하는 이유는 무엇입니까?",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/news/2026/11/19/why-is-pete-hegseth-strengthening-us-military-ties-with-venezuela?traffic_source=rss",
-   "at": "2026-11-19T07:52:30.000Z",
-   "ev": [],
-   "cc": [
-    "United States",
-    "Venezuela"
-   ]
-  },
-  {
-   "id": "8fa88520efca",
-   "t": "Gaza Syndrome: Why Israeli soldiers’ trauma erases Palestinian victims",
-   "ko": "가자 증후군: 이스라엘 군인들의 트라우마가 팔레스타인 희생자들을 지워버리는 이유",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/features/2026/11/19/gaza-syndrome-why-israeli-soldiers-trauma-erases-palestinian-victims?traffic_source=rss",
-   "at": "2026-11-19T07:51:03.000Z",
-   "ev": [
-    "gaza"
-   ],
-   "cc": [
-    "Palestine",
-    "Israel"
-   ]
-  },
-  {
-   "id": "1bbf36689e76",
-   "t": "Gaza: Israel launched new offensive on Nuseirat",
-   "ko": "가자지구: 이스라엘이 누세이라트에 새로운 공세를 시작했다",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/gaza-israel-launched-new-offensive-on-nuseirat",
-   "at": "2026-11-19T07:50:10.000Z",
-   "ev": [
-    "gaza"
-   ],
-   "cc": [
-    "Palestine",
-    "Israel"
-   ]
-  },
-  {
-   "id": "c87eb84089dd",
-   "t": "APEC summit: Trump seeks nuclear arms cuts, but few concrete results expected",
-   "ko": "APEC 정상회담: 트럼프는 핵무기 감축을 추구하지만 구체적인 결과는 거의 예상되지 않음",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/video/20261119-apec-summit-trump-seeks-nuclear-arms-cuts-but-few-concrete-results-expected",
-   "at": "2026-11-19T07:47:21.000Z",
-   "ev": [
-    "ukraine",
-    "iran"
-   ],
-   "cc": [
-    "United States",
-    "China",
-    "Iran"
-   ]
-  },
-  {
-   "id": "09762b40ca2a",
-   "t": "APEC summit: AI and tech competition between US and China",
-   "ko": "APEC 정상회담: 미국과 중국의 AI 및 기술 경쟁",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/beijing-summit-ai-and-tech-competition-between-us-and-china",
-   "at": "2026-11-19T07:45:52.000Z",
-   "ev": [
-    "ukraine",
-    "iran"
-   ],
-   "cc": [
-    "United States",
-    "China",
-    "Russia"
-   ]
-  },
-  {
-   "id": "cd01ccb73b96",
-   "t": "Violent protests and killings in Bangladesh ahead of exiled Sheikh Hasina’s planned return",
-   "ko": "추방된 셰이크 하시나의 귀국을 앞두고 방글라데시에서 폭력 시위와 살해",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/world/2026/nov/19/bangladesh-violent-protest-sheikh-hasina-planned-return",
-   "at": "2026-11-19T06:58:33.000Z",
-   "ev": [],
-   "cc": [
-    "Bangladesh"
-   ]
-  },
-  {
-   "id": "68f2c2c4e5fe",
-   "t": "Tammy Shipley was supposed to be monitored in prison. Instead she died after drinking 20L of water",
-   "ko": "Tammy Shipley는 감옥에서 감시를 받기로되어있었습니다. 대신 물 20L 마시고 사망",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/australia-news/2026/nov/19/tammy-shipley-was-supposed-to-be-monitored-in-prison-instead-she-died-after-drinking-20l-of-water-ntwnfb",
-   "at": "2026-11-19T06:20:46.000Z",
-   "ev": [],
-   "cc": []
-  },
-  {
-   "id": "b3970ca8d300",
-   "t": "Mother whose twin baby died was determined to have home birth despite advice of experts, NSW inquest hears",
-   "ko": "NSW 조사 결과 쌍둥이 아기 사망한 산모, 전문가 조언에도 불구하고 집에서 출산하기로 결정",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/australia-news/2026/nov/19/mother-whose-twin-baby-died-was-determined-to-have-home-birth-despite-expert-advice-nsw-inquest-hears-ntwnfb",
-   "at": "2026-11-19T06:17:12.000Z",
-   "ev": [],
-   "cc": []
   }
  ]
 }
