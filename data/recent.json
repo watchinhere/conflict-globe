@@ -1,141 +1,152 @@
 {
- "updated": "2026-11-20",
+ "updated": "2026-11-21",
  "news": {
   "ukraine": [
    {
     "date": "2026-11-20",
-    "text": "Europe ready for talks with Russia on ending war in Ukraine, leaders say",
-    "ko": "유럽은 우크라이나 전쟁 종식을 위해 러시아와 대화할 준비가 되어 있다고 지도자들은 말했습니다.",
+    "text": "A Russian Kh-101 cruise missile strikes a field near the village of Nowy Lipowiec in Lublin Voivodeship, Poland, around 60 miles from a Coalition of the Willing training excercise. Air raid alerts are issued in Lublin and Podkarpackie Voivodeship.",
     "sources": [
      {
-      "t": "BBC",
-      "u": "https://www.bbc.co.uk/news/articles/ckzd9nln5e6go?at_medium=RSS&at_campaign=rss"
+      "t": "AOL",
+      "u": "https://www.aol.co.uk/articles/suspected-russian-projectile-lands-poland-095529000.html"
+     }
+    ],
+    "ko": "러시아 Kh-101 순항 미사일이 연합 훈련 훈련에서 약 60마일 떨어진 폴란드 루블린 주의 노비 리포비에츠 마을 근처 들판을 공격했습니다. Lublin 및 Podkarpackie Voivodeship에 공습 경보가 발령되었습니다."
+   },
+   {
+    "date": "2026-11-20",
+    "text": "Another day of survival for a family in Ukraine",
+    "ko": "우크라이나의 한 가족의 또 다른 생존의 날",
+    "sources": [
+     {
+      "t": "NPR",
+      "u": "https://www.npr.org/2026/11/20/nx-s1-6042206/another-day-of-survival-for-a-family-in-ukraine"
      }
     ]
    },
    {
-    "date": "2026-11-19",
-    "text": "Russian strikes on Kyiv kill one, damage Dutch and Austrian embassies",
-    "ko": "러시아, 키예프 공습으로 1명 사망, 네덜란드·오스트리아 대사관 피해",
-    "sources": [
-     {
-      "t": "France 24",
-      "u": "https://www.france24.com/en/russian-strikes-on-kyiv-kill-one-damage-dutch-and-austrian-embassies"
-     }
-    ]
-   },
-   {
-    "date": "2026-11-19",
-    "text": "'Humanitarian mission' for Kostiantynivka: Is it a trap?",
-    "ko": "코스티안티니프카의 '인도주의적 사명': 함정인가?",
-    "sources": [
-     {
-      "t": "DW",
-      "u": "https://www.dw.com/en/humanitarian-mission-for-kostiantynivka-is-it-a-trap/a-79996772?maca=en-rss-en-world-4025-rdf"
-     }
-    ]
-   },
-   {
-    "date": "2026-11-19",
-    "text": "Kushner says Russia ‘comfortable’ with NATO-like guarantees for Ukraine",
-    "ko": "쿠슈너는 우크라이나에 대한 NATO와 같은 보장에 러시아가 '편안하다'고 말했습니다.",
+    "date": "2026-11-20",
+    "text": "Ukraine strikes Kerch Bridge as Putin ally declares ‘no one needs Europe’",
+    "ko": "푸틴 동맹국, '아무도 유럽이 필요하지 않다' 선언하자 우크라이나, 케르치 다리 공습",
     "sources": [
      {
       "t": "Al Jazeera",
-      "u": "https://www.aljazeera.com/news/2026/11/19/european-leaders-unite-in-berlin-to-reaffirm-support-for-ukraine?traffic_source=rss"
+      "u": "https://www.aljazeera.com/news/2026/11/20/ukraine-strikes-kerch-bridge-as-putin-ally-declares-no-one-needs?traffic_source=rss"
      }
     ]
    },
    {
-    "date": "2026-11-19",
-    "text": "Three of a kind? Xi hosts Trump and Putin as Ukraine war grinds on",
-    "ko": "세 가지 종류? 우크라이나 전쟁이 계속되는 가운데 시은 트럼프와 푸틴을 초대한다.",
-    "sources": [
-     {
-      "t": "France 24",
-      "u": "https://www.france24.com/en/tv-shows/the-debate/20261119-three-of-a-kind-xi-hosts-trump-and-putin-as-ukraine-war-grinds-on"
-     }
-    ]
-   },
-   {
-    "date": "2026-11-19",
-    "text": "Ukraine allies warn ‘Yalta format’ will not bring about peace – as it happened",
-    "ko": "우크라이나 동맹국, '얄타 형식'이 평화를 가져오지 못할 것이라고 경고",
+    "date": "2026-11-20",
+    "text": "Denmark to expel Russian diplomat over alleged Moscow link to attempted killing of rapper",
+    "ko": "덴마크, 모스크바가 래퍼 살해 시도와 연관시켰다고 주장한 러시아 외교관 추방",
     "sources": [
      {
       "t": "The Guardian",
-      "u": "https://www.theguardian.com/world/live/2026/nov/19/russia-ukraine-war-coalition-of-the-willing-europe-latest-news-updates"
+      "u": "https://www.theguardian.com/world/2026/nov/20/denmark-russian-diplomat-us-ukrainian-rapper-attempted-killing"
      }
     ]
    },
    {
-    "date": "2026-11-19",
-    "text": "China, Russia and US agree peace declaration with no mention of Ukraine and Iran wars",
-    "ko": "중국, 러시아, 미국은 우크라이나와 이란 전쟁에 대한 언급 없이 평화 선언에 합의했습니다.",
-    "sources": [
-     {
-      "t": "The Guardian",
-      "u": "https://www.theguardian.com/world/2026/nov/19/china-russia-us-agree-peace-statement-no-mention-ukraine-iran-wars"
-     }
-    ]
-   },
-   {
-    "date": "2026-11-19",
-    "text": "Xi demonstrating China's 'global status', occupying 'central position' in relation to Trump & Putin",
-    "ko": "시, 중국의 '글로벌 위상' 과시하며 트럼프·푸틴과 관련해 '중심 위치' 점유",
-    "sources": [
-     {
-      "t": "France 24",
-      "u": "https://www.france24.com/en/xi-demonstrating-china-s-global-status-occupying-central-position-in-relation-to-trump-putin"
-     }
-    ]
-   },
-   {
-    "date": "2026-11-19",
-    "text": "Putin vows 'far more painful' response to Ukraine's strikes on Crimean Bridge",
-    "ko": "푸틴, 우크라이나 크림대교 공습에 '훨씬 더 고통스러운' 대응 다짐",
+    "date": "2026-11-20",
+    "text": "Russian missile hits Poland as Ukraine's allies hold military exercise, says Tusk",
+    "ko": "투스크 \"우크라이나 동맹군 군사훈련 중 러시아 미사일 폴란드 타격\"",
     "sources": [
      {
       "t": "BBC",
-      "u": "https://www.bbc.co.uk/news/articles/cm879dqn3e1jo?at_medium=RSS&at_campaign=rss"
+      "u": "https://www.bbc.co.uk/news/articles/cqx2x9dklxnro?at_medium=RSS&at_campaign=rss"
      }
     ]
    },
    {
-    "date": "2026-11-19",
-    "text": "Ukraine's European allies meet in Berlin in show of support",
-    "ko": "우크라이나의 유럽 동맹국들이 베를린에서 만나 지지를 표명했습니다.",
-    "sources": [
-     {
-      "t": "France 24",
-      "u": "https://www.france24.com/en/ukraine-s-european-allies-meet-in-berlin-in-show-of-support"
-     }
-    ]
-   },
-   {
-    "date": "2026-11-19",
-    "text": "Crimea bridge has been attacked again, says Russian-installed governor",
-    "ko": "러시아가 임명한 주지사는 크리미아 다리가 또다시 공격을 받았다고 밝혔습니다.",
+    "date": "2026-11-20",
+    "text": "Russian missiles and drone hit Poland during attacks on Ukraine",
+    "ko": "러시아 미사일과 드론, 우크라이나 공격 중 폴란드 강타",
     "sources": [
      {
       "t": "The Guardian",
-      "u": "https://www.theguardian.com/world/2026/nov/19/kerch-bridge-crimea-russia-attacked-again-ukraine"
+      "u": "https://www.theguardian.com/world/2026/nov/20/russian-missiles-drone-poland-attacks-ukraine"
      }
     ]
    },
    {
-    "date": "2026-11-19",
-    "text": "Xi Jinping, Donald Trump and Vladimir Putin begin unprecedented summit in China",
-    "ko": "시진핑, 도널드 트럼프, 블라디미르 푸틴, 중국에서 전례 없는 정상회담 시작",
+    "date": "2026-11-20",
+    "text": "Poland condemns Russian ‘provocation’ after airspace violations",
+    "ko": "폴란드, 영공침범 러시아 '도발' 규탄",
+    "sources": [
+     {
+      "t": "Al Jazeera",
+      "u": "https://www.aljazeera.com/news/2026/11/20/poland-condemns-russian-provocation-after-airspace-violations?traffic_source=rss"
+     }
+    ]
+   },
+   {
+    "date": "2026-11-20",
+    "text": "What we know about the latest Russian missile strikes on Ukraine",
+    "ko": "최근 러시아의 우크라이나 미사일 공격에 대해 우리가 알고 있는 것",
+    "sources": [
+     {
+      "t": "BBC",
+      "u": "https://www.bbc.co.uk/news/videos/c65y19wy3xl8o?at_medium=RSS&at_campaign=rss"
+     }
+    ]
+   },
+   {
+    "date": "2026-11-20",
+    "text": "Russia pummels Ukraine with massive strikes, missile hits Poland",
+    "ko": "러시아, 대규모 공습으로 우크라이나 강타, 미사일 폴란드 강타",
     "sources": [
      {
       "t": "France 24",
-      "u": "https://www.france24.com/en/xi-jinping-donald-trump-and-vladimir-putin-begin-unprecedented-summit-in-china"
+      "u": "https://www.france24.com/en/video/20261120-russia-pummels-ukraine-with-massive-strikes-missile-hits-poland"
+     }
+    ]
+   },
+   {
+    "date": "2026-11-20",
+    "text": "Trump, Putin, Xi pledge to increase global petrol supplies – but how?",
+    "ko": "트럼프, 푸틴, 시은 전 세계 석유 공급을 늘리겠다고 약속합니다. 하지만 어떻게 그럴까요?",
+    "sources": [
+     {
+      "t": "Al Jazeera",
+      "u": "https://www.aljazeera.com/news/2026/11/20/trump-putin-xi-pledge-to-increase-global-petrol-supplies-but-how?traffic_source=rss"
+     }
+    ]
+   },
+   {
+    "date": "2026-11-20",
+    "text": "Poland hit by at least one Russian missile, says Polish govt",
+    "ko": "폴란드 정부 \"러시아 미사일 최소 1발 피격됐다\"",
+    "sources": [
+     {
+      "t": "Al Jazeera",
+      "u": "https://www.aljazeera.com/video/newsfeed/2026/11/20/poland-hit-by-at-least-one-russian-missile-says-polish-govt?traffic_source=rss"
+     }
+    ]
+   },
+   {
+    "date": "2026-11-20",
+    "text": "Russia targets Kyiv crossings days after Ukraine hits Crimean Bridge",
+    "ko": "러시아는 우크라이나가 크림대교를 공격한 지 며칠 만에 키예프 횡단을 목표로 삼았습니다.",
+    "sources": [
+     {
+      "t": "BBC",
+      "u": "https://www.bbc.co.uk/news/articles/c6x29gn4pdn9o?at_medium=RSS&at_campaign=rss"
      }
     ]
    }
   ],
   "sudan": [
+   {
+    "date": "2026-11-20",
+    "text": "Sudan’s war leaves disabled children missing out on education",
+    "ko": "수단 내전으로 인해 장애 아동들이 교육 기회를 놓치게 되었습니다.",
+    "sources": [
+     {
+      "t": "Al Jazeera",
+      "u": "https://www.aljazeera.com/news/2026/11/20/sudans-war-leaves-disabled-children-missing-out-on-education?traffic_source=rss"
+     }
+    ]
+   },
    {
     "date": "2026-11-18",
     "text": "Traumas of Sudan war lead to wave of drug addiction",
@@ -256,20 +267,97 @@
       "u": "https://www.france24.com/en/rsf-calls-for-release-of-french-reporter-christophe-gleizes-detained-in-algeria"
      }
     ]
-   },
-   {
-    "date": "2026-11-11",
-    "text": "Violent clashes near the Sudanese border: At least 65 dead in western Ethiopia",
-    "ko": "수단 국경 근처에서 폭력 충돌: 에티오피아 서부에서 최소 65명 사망",
-    "sources": [
-     {
-      "t": "France 24",
-      "u": "https://www.france24.com/en/violent-clashes-near-the-sudanese-border-at-least-65-dead-in-western-ethiopia"
-     }
-    ]
    }
   ],
   "iran": [
+   {
+    "date": "2026-11-20",
+    "text": "The Islamic Revolutionary Guard Corps Navy and the United Kingdom Maritime Trade Operations report that an oil tanker has been damaged and caught fire off Khasab, Oman, while attempting to transit the Strait of Hormuz.",
+    "sources": [
+     {
+      "t": "Al Jazeera",
+      "u": "https://aje.news/yk6rbj?update=5171719"
+     }
+    ],
+    "ko": "이슬람혁명수비대 해군과 영국 해상무역작전부는 호르무즈 해협을 통과하던 중 오만 카사브 해상에서 유조선 한 척이 손상되고 화재가 발생했다고 보고했습니다."
+   },
+   {
+    "date": "2026-11-20",
+    "text": "Trump threatens ‘tremendous penalties’ on US tech firms that build datacenters abroad",
+    "ko": "트럼프, 해외에 데이터센터 짓는 미국 기술기업에 '엄청난 처벌' 위협",
+    "sources": [
+     {
+      "t": "The Guardian",
+      "u": "https://www.theguardian.com/us-news/2026/nov/20/trump-datacenters-white-house"
+     }
+    ]
+   },
+   {
+    "date": "2026-11-20",
+    "text": "Trump defends Putin relationship, warns AI data centres must stay in US",
+    "ko": "트럼프, 푸틴 관계 옹호하고 AI 데이터센터는 미국에 있어야 한다고 경고",
+    "sources": [
+     {
+      "t": "Al Jazeera",
+      "u": "https://www.aljazeera.com/news/2026/11/20/trump-defends-putin-relationship-warns-ai-data-centres-must-stay-in-us?traffic_source=rss"
+     }
+    ]
+   },
+   {
+    "date": "2026-11-20",
+    "text": "Trump, Putin, Xi pledge to increase global petrol supplies – but how?",
+    "ko": "트럼프, 푸틴, 시은 전 세계 석유 공급을 늘리겠다고 약속합니다. 하지만 어떻게 그럴까요?",
+    "sources": [
+     {
+      "t": "Al Jazeera",
+      "u": "https://www.aljazeera.com/news/2026/11/20/trump-putin-xi-pledge-to-increase-global-petrol-supplies-but-how?traffic_source=rss"
+     }
+    ]
+   },
+   {
+    "date": "2026-11-20",
+    "text": "Dems aim to block Iran war funding. And, Army delays lead azide detonation in Iowa",
+    "ko": "민주당은 이란의 전쟁 자금을 차단하는 것을 목표로 하고 있습니다. 그리고 육군은 아이오와주에서 납 아자이드 폭발을 지연시켰습니다",
+    "sources": [
+     {
+      "t": "NPR",
+      "u": "https://www.npr.org/2026/11/20/g-s1-154582/up-first-newsletter-democrats-iran-war-trump-xi-jinping-iowa-army"
+     }
+    ]
+   },
+   {
+    "date": "2026-11-20",
+    "text": "GOP Sen. Johnson rejects tying government funding to an end to the Iran war",
+    "ko": "공화당 존슨 상원의원은 이란 전쟁을 종식시키기 위해 정부 자금을 묶는 것을 거부했습니다.",
+    "sources": [
+     {
+      "t": "NPR",
+      "u": "https://www.npr.org/2026/11/20/nx-s1-6047473/iran-war-funding-congress"
+     }
+    ]
+   },
+   {
+    "date": "2026-11-20",
+    "text": "Iraqi security forces deploy in Hezbollah stronghold under compromise deal",
+    "ko": "이라크 보안군, 타협 협상에 따라 헤즈볼라 거점에 배치",
+    "sources": [
+     {
+      "t": "France 24",
+      "u": "https://www.france24.com/en/middle-east/20261120-iraqi-security-forces-to-deploy-in-hezbollah-stronghold-under-compromise-deal"
+     }
+    ]
+   },
+   {
+    "date": "2026-11-20",
+    "text": "UK government borrowing rises less than forecast in surprise boost for chancellor John Healey",
+    "ko": "영국 정부 차입은 John Healey 총리의 깜짝 증가로 예상보다 적게 증가했습니다.",
+    "sources": [
+     {
+      "t": "The Guardian",
+      "u": "https://www.theguardian.com/business/2026/nov/20/uk-government-borrowing-rises-less-than-forecast-in-surprise-boost-for-chancellor-john-healey"
+     }
+    ]
+   },
    {
     "date": "2026-11-19",
     "text": "Iran's navy says that an oil tanker caught on fire after hitting a naval mine east of the Strait of Hormuz.",
@@ -313,97 +401,46 @@
       "u": "https://www.aljazeera.com/news/liveblog/2026/11/19/iran-war-live-houthis-escalate-attacks-on-saudi-capital?traffic_source=rss"
      }
     ]
-   },
-   {
-    "date": "2026-11-19",
-    "text": "Senate Republicans in US reject measure to limit Trump’s war powers in Iran",
-    "ko": "미국 상원 공화당 의원들, 트럼프의 이란 전쟁권 제한 법안 거부",
-    "sources": [
-     {
-      "t": "Al Jazeera",
-      "u": "https://www.aljazeera.com/news/2026/11/19/senate-republicans-in-us-reject-measure-to-limit-trumps-war-powers-in-iran?traffic_source=rss"
-     }
-    ]
-   },
-   {
-    "date": "2026-11-19",
-    "text": "Iraq's risky standoff: The state vs. Iran-allied militias",
-    "ko": "이라크의 위험한 대치: 국가 대 이란 동맹 민병대",
-    "sources": [
-     {
-      "t": "DW",
-      "u": "https://www.dw.com/en/iraq-s-risky-standoff-the-state-vs-iran-allied-militias/a-79995757?maca=en-rss-en-world-4025-rdf"
-     }
-    ]
-   },
-   {
-    "date": "2026-11-19",
-    "text": "China, Russia and US agree peace declaration with no mention of Ukraine and Iran wars",
-    "ko": "중국, 러시아, 미국은 우크라이나와 이란 전쟁에 대한 언급 없이 평화 선언에 합의했습니다.",
-    "sources": [
-     {
-      "t": "The Guardian",
-      "u": "https://www.theguardian.com/world/2026/nov/19/china-russia-us-agree-peace-statement-no-mention-ukraine-iran-wars"
-     }
-    ]
-   },
-   {
-    "date": "2026-11-19",
-    "text": "Iran's attacks on ships in the Strait of Hormuz escalate",
-    "ko": "이란, 호르무즈 해협 선박에 대한 공격 확대",
-    "sources": [
-     {
-      "t": "NPR",
-      "u": "https://www.npr.org/2026/11/19/nx-s1-6044206/irans-attacks-on-ships-in-the-strait-of-hormuz-escalate"
-     }
-    ]
-   },
-   {
-    "date": "2026-11-19",
-    "text": "Xi Jinping, Donald Trump and Vladimir Putin begin unprecedented summit in China",
-    "ko": "시진핑, 도널드 트럼프, 블라디미르 푸틴, 중국에서 전례 없는 정상회담 시작",
-    "sources": [
-     {
-      "t": "France 24",
-      "u": "https://www.france24.com/en/xi-jinping-donald-trump-and-vladimir-putin-begin-unprecedented-summit-in-china"
-     }
-    ]
-   },
-   {
-    "date": "2026-11-19",
-    "text": "APEC summit: Trump seeks nuclear arms cuts, but few concrete results expected",
-    "ko": "APEC 정상회담: 트럼프는 핵무기 감축을 추구하지만 구체적인 결과는 거의 예상되지 않음",
-    "sources": [
-     {
-      "t": "France 24",
-      "u": "https://www.france24.com/en/video/20261119-apec-summit-trump-seeks-nuclear-arms-cuts-but-few-concrete-results-expected"
-     }
-    ]
-   },
-   {
-    "date": "2026-11-19",
-    "text": "APEC summit: AI and tech competition between US and China",
-    "ko": "APEC 정상회담: 미국과 중국의 AI 및 기술 경쟁",
-    "sources": [
-     {
-      "t": "France 24",
-      "u": "https://www.france24.com/en/beijing-summit-ai-and-tech-competition-between-us-and-china"
-     }
-    ]
-   },
-   {
-    "date": "2026-11-19",
-    "text": "Middle East crisis poses 'largest threat' to energy security in history, warns IEA",
-    "ko": "IEA는 중동 위기가 에너지 안보 역사상 '가장 큰 위협'이라고 경고했다.",
-    "sources": [
-     {
-      "t": "France 24",
-      "u": "https://www.france24.com/en/middle-east/20261119-middle-east-crisis-energy-security-iea"
-     }
-    ]
    }
   ],
   "yemen": [
+   {
+    "date": "2026-11-20",
+    "text": "The Saudi-led coalition launches airstrikes on Hodeidah, Yemen, targeting weapons smuggling used by the Houthis, and on targets in the Sanaa, Saada, and Taiz governorates.",
+    "sources": [
+     {
+      "t": "AP",
+      "u": "https://apnews.com/article/saudi-yemen-war-iran-iraq-november-20-2026-16c39c487a23b53b73c5eabb7f0fd57a"
+     },
+     {
+      "t": "Al Jazeera",
+      "u": "https://www.aljazeera.com/news/2026/11/20/saudi-coalition-and-houthis-exchange-threats-to-bomb-key-ports"
+     }
+    ],
+    "ko": "사우디 주도 연합군은 후티 반군이 사용하는 무기 밀수품을 목표로 예멘 호데이다와 사나, 사다, 타이즈 지역의 목표물을 공습합니다."
+   },
+   {
+    "date": "2026-11-20",
+    "text": "Yemeni government forces say they have conducted operations in the Al-Jawf, Marib, and Taiz governorates that have killed or injured 193 Houthi fighters.",
+    "sources": [
+     {
+      "t": "Arab News",
+      "u": "https://www.arabnews.com/middle-east/yemeni-army-reports-854-operations-against-houthi-forces-claims-193-killed-or-wounded-3013178"
+     }
+    ],
+    "ko": "예멘 정부군은 알자프(Al-Jawf), 마리브(Marib), 타이즈(Taiz) 주에서 작전을 수행해 후티 반군 193명을 사살하거나 부상시켰다고 밝혔습니다."
+   },
+   {
+    "date": "2026-11-20",
+    "text": "Saudi coalition and Houthis exchange threats to bomb key ports",
+    "ko": "사우디 연합과 후티 반군, 주요 항구 폭격 위협",
+    "sources": [
+     {
+      "t": "Al Jazeera",
+      "u": "https://www.aljazeera.com/news/2026/11/20/saudi-coalition-and-houthis-exchange-threats-to-bomb-key-ports?traffic_source=rss"
+     }
+    ]
+   },
    {
     "date": "2026-11-20",
     "text": "'I tell my son it's just fireworks': People inside besieged Yemeni city speak to BBC",
@@ -506,42 +543,86 @@
       "u": "https://news.un.org/feed/view/en/story/2026/11/1168830"
      }
     ]
-   },
-   {
-    "date": "2026-11-18",
-    "text": "Saudi coalition hits 60 Houthi military sites; Taiz sees ‘fierce battles’",
-    "ko": "사우디 연합군, 후티군 기지 60곳 공격; 타이즈는 '치열한 전투'를 본다",
-    "sources": [
-     {
-      "t": "Al Jazeera",
-      "u": "https://www.aljazeera.com/news/2026/11/18/houthis-advance-on-aden-as-saudi-coalition-targets-military-sites?traffic_source=rss"
-     }
-    ]
-   },
-   {
-    "date": "2026-11-17",
-    "text": "Saudi Arabia replaces military commander after Yemen setbacks",
-    "ko": "사우디아라비아, 예멘의 패배 이후 군 사령관 교체",
-    "sources": [
-     {
-      "t": "France 24",
-      "u": "https://www.france24.com/en/video/20261117-saudi-arabia-replaces-military-commander-after-yemen-setbacks"
-     }
-    ]
-   },
-   {
-    "date": "2026-11-17",
-    "text": "Yemeni army reports 661 attacks on Houthis as group advances towards Aden",
-    "ko": "예멘군, 아덴으로 진군하는 동안 후티 반군에 대한 661차례 공격 보고",
-    "sources": [
-     {
-      "t": "Al Jazeera",
-      "u": "https://www.aljazeera.com/news/2026/11/17/yemen-army-reports-661-attacks-on-houthis-amid-houthi-push-towards-aden?traffic_source=rss"
-     }
-    ]
    }
   ],
   "gaza": [
+   {
+    "date": "2026-11-20",
+    "text": "Rahul Gandhi backs strong India-Israel ties despite Gaza war",
+    "ko": "라훌 간디는 가자 전쟁에도 불구하고 인도-이스라엘의 강력한 관계를 지지합니다",
+    "sources": [
+     {
+      "t": "Al Jazeera",
+      "u": "https://www.aljazeera.com/video/newsfeed/2026/11/20/rahul-gandhi-backs-strong-india-israel-ties-despite-gaza-war?traffic_source=rss"
+     }
+    ]
+   },
+   {
+    "date": "2026-11-20",
+    "text": "Gaza’s displaced children celebrate World Children’s Day",
+    "ko": "가자지구 난민 어린이들이 세계 어린이날을 기념합니다.",
+    "sources": [
+     {
+      "t": "Al Jazeera",
+      "u": "https://www.aljazeera.com/video/newsfeed/2026/11/20/gazas-displaced-children-celebrate-world-childrens-day?traffic_source=rss"
+     }
+    ]
+   },
+   {
+    "date": "2026-11-20",
+    "text": "Israeli drone attacks kill seven Palestinians in central Gaza",
+    "ko": "이스라엘 드론 공격, 가자지구 팔레스타인인 7명 사망",
+    "sources": [
+     {
+      "t": "Al Jazeera",
+      "u": "https://www.aljazeera.com/news/2026/11/20/israeli-drone-attacks-kill-seven-palestinians-in-central-gaza?traffic_source=rss"
+     }
+    ]
+   },
+   {
+    "date": "2026-11-20",
+    "text": "What are the implications of the ICJ Rohingya genocide ruling?",
+    "ko": "ICJ 로힝야 집단학살 판결이 시사하는 바는 무엇인가?",
+    "sources": [
+     {
+      "t": "Al Jazeera",
+      "u": "https://www.aljazeera.com/video/inside-story/2026/11/20/what-are-the-implications-of-the-icj-rohingya-genocide-ruling?traffic_source=rss"
+     }
+    ]
+   },
+   {
+    "date": "2026-11-20",
+    "text": "Former US national security adviser confronted by students on Gaza",
+    "ko": "가자 지구에서 학생들과 마주한 전 미국 국가안보보좌관",
+    "sources": [
+     {
+      "t": "Al Jazeera",
+      "u": "https://www.aljazeera.com/video/newsfeed/2026/11/20/former-us-national-security-adviser-confronted-by-students-on-gaza?traffic_source=rss"
+     }
+    ]
+   },
+   {
+    "date": "2026-11-20",
+    "text": "Swimming lessons offer Gaza’s children a moment of relief",
+    "ko": "수영 강습으로 가자 지구 어린이들에게 안도감의 순간 제공",
+    "sources": [
+     {
+      "t": "Al Jazeera",
+      "u": "https://www.aljazeera.com/video/newsfeed/2026/11/20/aje-onl-nf_swimming-lessons-offer-gazas-children-relief-201126?traffic_source=rss"
+     }
+    ]
+   },
+   {
+    "date": "2026-11-20",
+    "text": "Jerusalem Daily: Palestinians return home to ruins",
+    "ko": "예루살렘 데일리: 팔레스타인인들이 폐허가 된 고향으로 돌아갑니다.",
+    "sources": [
+     {
+      "t": "Al Jazeera",
+      "u": "https://www.aljazeera.com/video/newsfeed/2026/11/20/jerusalem-daily-palestinians-return-home-to-ruins?traffic_source=rss"
+     }
+    ]
+   },
    {
     "date": "2026-11-19",
     "text": "Gaza's health ministry reports that two people have been killed by recent Israeli attacks and two others died from their wounds over the past day.",
@@ -596,86 +677,20 @@
       "u": "https://www.aljazeera.com/news/2026/11/19/palestinians-in-gaza-face-new-displacement-after-israeli-army-operation?traffic_source=rss"
      }
     ]
-   },
-   {
-    "date": "2026-11-19",
-    "text": "Israeli military completes ground operation in Gaza beyond Yellow Line",
-    "ko": "이스라엘군, 옐로우라인 너머 가자지구 지상작전 완료",
-    "sources": [
-     {
-      "t": "BBC",
-      "u": "https://www.bbc.co.uk/news/articles/cw8r7510degno?at_medium=RSS&at_campaign=rss"
-     }
-    ]
-   },
-   {
-    "date": "2026-11-19",
-    "text": "ICJ ruling on Myanmar genocide: ‘Historic victory for Rohingya, landmark for international justice’",
-    "ko": "ICJ, 미얀마 대량 학살 판결: '로힝야족의 역사적 승리, 국제 정의의 이정표'",
-    "sources": [
-     {
-      "t": "France 24",
-      "u": "https://www.france24.com/en/icj-ruling-on-myanmar-genocide-historic-victory-for-rohingya-landmark-for-international-justice"
-     }
-    ]
-   },
-   {
-    "date": "2026-11-19",
-    "text": "‘Gaza Syndrome’: Israel’s Soldiers Haunted by Genocide – Cost of War",
-    "ko": "'가자 증후군': 대량 학살에 시달린 이스라엘 군인 – 전쟁 비용",
-    "sources": [
-     {
-      "t": "Al Jazeera",
-      "u": "https://www.aljazeera.com/video/al-jazeera-originals/2026/11/19/gaza-syndrome-israels-soldiers-haunted-by-genocide-cost-of-war?traffic_source=rss"
-     }
-    ]
-   },
-   {
-    "date": "2026-11-19",
-    "text": "Israeli tanks cross ‘yellow line’ boundary into Hamas-controlled central Gaza",
-    "ko": "이스라엘 탱크, '노란색 선' 경계를 넘어 하마스가 통제하는 가자지구 중심부로 진입",
-    "sources": [
-     {
-      "t": "The Guardian",
-      "u": "https://www.theguardian.com/world/2026/nov/18/israeli-tanks-cross-yellow-line-boundary-into-hamas-controlled-central-gaza"
-     }
-    ]
-   },
-   {
-    "date": "2026-11-19",
-    "text": "Gaza Syndrome: Why Israeli soldiers’ trauma erases Palestinian victims",
-    "ko": "가자 증후군: 이스라엘 군인들의 트라우마가 팔레스타인 희생자들을 지워버리는 이유",
-    "sources": [
-     {
-      "t": "Al Jazeera",
-      "u": "https://www.aljazeera.com/features/2026/11/19/gaza-syndrome-why-israeli-soldiers-trauma-erases-palestinian-victims?traffic_source=rss"
-     }
-    ]
-   },
-   {
-    "date": "2026-11-19",
-    "text": "Gaza: Israel launched new offensive on Nuseirat",
-    "ko": "가자지구: 이스라엘이 누세이라트에 새로운 공세를 시작했다",
-    "sources": [
-     {
-      "t": "France 24",
-      "u": "https://www.france24.com/en/gaza-israel-launched-new-offensive-on-nuseirat"
-     }
-    ]
-   },
-   {
-    "date": "2026-11-18",
-    "text": "The Israeli army launches its first operation in central Gaza Strip amid the displacement of families from the area, for the first time since the ceasefire agreement signed in October 2025 came into effect.",
-    "sources": [
-     {
-      "t": "BBC News",
-      "u": "https://www.bbc.com/news/articles/cw8r7510degno"
-     }
-    ],
-    "ko": "이스라엘군은 2025년 10월 체결된 휴전 협정이 발효된 이후 처음으로 가족들이 이 지역에서 이주하는 가운데 가자지구 중심부에서 첫 작전을 시작했습니다."
    }
   ],
   "delhi": [
+   {
+    "date": "2026-11-20",
+    "text": "Rahul Gandhi backs strong India-Israel ties despite Gaza war",
+    "ko": "라훌 간디는 가자 전쟁에도 불구하고 인도-이스라엘의 강력한 관계를 지지합니다",
+    "sources": [
+     {
+      "t": "Al Jazeera",
+      "u": "https://www.aljazeera.com/video/newsfeed/2026/11/20/rahul-gandhi-backs-strong-india-israel-ties-despite-gaza-war?traffic_source=rss"
+     }
+    ]
+   },
    {
     "date": "2026-11-10",
     "text": "Disgraced former leader Sheikh Hasina plans return to Bangladesh from exile",
@@ -788,6 +803,17 @@
    }
   ],
   "westbank": [
+   {
+    "date": "2026-11-20",
+    "text": "West Bank: Record settler attacks mar olive harvest as UN urges Israel to protect farmers",
+    "ko": "서안 지구: UN이 이스라엘에 농부들을 보호하라고 촉구하자 기록적인 정착민들이 올리브 수확을 방해했습니다.",
+    "sources": [
+     {
+      "t": "UN News",
+      "u": "https://news.un.org/feed/view/en/story/2026/11/1168849"
+     }
+    ]
+   },
    {
     "date": "2026-11-19",
     "text": "Settler rams into Palestinians at multiple locations in central Israel",
@@ -906,17 +932,6 @@
      {
       "t": "Al Jazeera",
       "u": "https://www.aljazeera.com/news/2026/11/16/israeli-court-upholds-detention-of-palestinian-land-activist-ghassan-najjar?traffic_source=rss"
-     }
-    ]
-   },
-   {
-    "date": "2026-11-16",
-    "text": "As homes seized, Jericho’s Palestinian residents fear settler takeover",
-    "ko": "주택이 압수되자 예리코의 팔레스타인 주민들은 정착민의 장악을 두려워합니다.",
-    "sources": [
-     {
-      "t": "Al Jazeera",
-      "u": "https://www.aljazeera.com/news/2026/11/16/jerichos-palestinian-residents-lay-in-wait-of-an-israeli-settler-takeover?traffic_source=rss"
      }
     ]
    }
@@ -1059,6 +1074,116 @@
   ],
   "myanmar": [
    {
+    "date": "2026-11-20",
+    "text": "'Friends' But Who Benefits? Notes from an Historic Summit, Myanmar's Genocide Ruling, Time to 'Bre-join' the EU?",
+    "ko": "'친구', 하지만 누가 이익을 얻나요? 역사적인 정상회담의 메모, 미얀마의 집단 학살 판결, EU에 'Bre-join'할 시간인가?",
+    "sources": [
+     {
+      "t": "France 24",
+      "u": "https://www.france24.com/en/tv-shows/the-world-this-week/20261120-friends-but-who-benefits-notes-from-an-historic-summit-myanmar-s-genocide-ruling-time-to-bre-join-the-eu"
+     }
+    ]
+   },
+   {
+    "date": "2026-11-20",
+    "text": "What are the implications of the ICJ Rohingya genocide ruling?",
+    "ko": "ICJ 로힝야 집단학살 판결이 시사하는 바는 무엇인가?",
+    "sources": [
+     {
+      "t": "Al Jazeera",
+      "u": "https://www.aljazeera.com/video/inside-story/2026/11/20/what-are-the-implications-of-the-icj-rohingya-genocide-ruling?traffic_source=rss"
+     }
+    ]
+   },
+   {
+    "date": "2026-11-20",
+    "text": "Myanmar, China object to landmark ICJ ruling on Rohingya genocide",
+    "ko": "미얀마와 중국, 로힝야족 학살에 대한 ICJ 판결에 반대",
+    "sources": [
+     {
+      "t": "Al Jazeera",
+      "u": "https://www.aljazeera.com/news/2026/11/20/myanmar-china-object-to-unfair-icj-genocide-ruling?traffic_source=rss"
+     }
+    ]
+   },
+   {
+    "date": "2026-11-20",
+    "text": "Myanmar genocide ruling: Rohingya say struggle for justice not over",
+    "ko": "미얀마 대량 학살 판결: 로힝야족, 정의를 위한 투쟁은 끝나지 않았다고 말함",
+    "sources": [
+     {
+      "t": "DW",
+      "u": "https://www.dw.com/en/myanmar-genocide-ruling-rohingya-say-struggle-for-justice-not-over/a-80003365?maca=en-rss-en-world-4025-rdf"
+     }
+    ]
+   },
+   {
+    "date": "2026-11-20",
+    "text": "‘You will not be alone’: General Assembly President tells Rohingya refugees after genocide ruling",
+    "ko": "'당신은 혼자가 아닐 것입니다': 대량학살 판결 후 로힝야 난민에게 총회 의장이 말했다",
+    "sources": [
+     {
+      "t": "UN News",
+      "u": "https://news.un.org/feed/view/en/story/2026/11/1168853"
+     }
+    ]
+   },
+   {
+    "date": "2026-11-20",
+    "text": "US reacts cautiously to Myanmar genocide ruling as EU praises ‘critical’ role of UN’s top court",
+    "ko": "EU가 유엔 최고 법원의 '중요한' 역할을 칭찬함에 따라 미국은 미얀마 대량 학살 판결에 조심스럽게 반응합니다.",
+    "sources": [
+     {
+      "t": "The Guardian",
+      "u": "https://www.theguardian.com/law/2026/nov/20/us-eu-reaction-myanmar-rohingya-genocide-icj-ruling-trump-international-law"
+     }
+    ]
+   },
+   {
+    "date": "2026-11-20",
+    "text": "Tears of joy, prayers for return home: Rohingya react to genocide ruling",
+    "ko": "기쁨의 눈물, 귀향을 위한 기도: 대량학살 판결에 대한 로힝야족의 반응",
+    "sources": [
+     {
+      "t": "Al Jazeera",
+      "u": "https://www.aljazeera.com/news/2026/11/20/tears-of-joy-prayers-for-return-home-rohingya-react-to-genocide-ruling?traffic_source=rss"
+     }
+    ]
+   },
+   {
+    "date": "2026-11-19",
+    "text": "World’s top court finds Myanmar guilty of genocide against Rohingya",
+    "ko": "세계 최고 법원, 미얀마가 로힝야족 집단 학살 혐의로 유죄 판결",
+    "sources": [
+     {
+      "t": "UN News",
+      "u": "https://news.un.org/feed/view/en/story/2026/11/1168836"
+     }
+    ]
+   },
+   {
+    "date": "2026-11-19",
+    "text": "Myanmar committed genocide against Rohingya, top UN court rules",
+    "ko": "미얀마는 로힝야족에 대한 대량 학살을 저질렀으며 유엔 법원의 최고 규정에 따라",
+    "sources": [
+     {
+      "t": "DW",
+      "u": "https://www.dw.com/en/myanmar-committed-genocide-against-rohingya-top-un-court-rules/a-79987898?maca=en-rss-en-world-4025-rdf"
+     }
+    ]
+   },
+   {
+    "date": "2026-11-19",
+    "text": "UN top court convicts Myanmar of ‘genocidal intent’ against Rohingya",
+    "ko": "유엔 최고 법원, 미얀마에 로힝야족 학살 의도 혐의 유죄 판결",
+    "sources": [
+     {
+      "t": "Al Jazeera",
+      "u": "https://www.aljazeera.com/news/2026/11/19/un-top-court-finds-myanmar-killed-10000-rohingya-as-it-rules-on-genocide?traffic_source=rss"
+     }
+    ]
+   },
+   {
     "date": "2026-11-19",
     "text": "Rohingya genocide survivor: ‘perpetrators will have to face consequences’",
     "ko": "로힝야 학살 생존자 “가해자들은 대가를 치르게 될 것”",
@@ -1079,119 +1204,20 @@
       "u": "https://www.aljazeera.com/video/newsfeed/2026/11/19/what-does-the-myanmar-genocide-ruling-mean-for-the-rohingya?traffic_source=rss"
      }
     ]
-   },
-   {
-    "date": "2026-11-19",
-    "text": "Myanmar committed genocide against Rohingya minority, top UN court rules",
-    "ko": "미얀마, 로힝야 소수민족에 대한 대량 학살 자행, 유엔 법원 최고 규정",
-    "sources": [
-     {
-      "t": "BBC",
-      "u": "https://www.bbc.co.uk/news/articles/c804wzp20ddvo?at_medium=RSS&at_campaign=rss"
-     }
-    ]
-   },
-   {
-    "date": "2026-11-19",
-    "text": "World reacts to ICJ finding Myanmar guilty of genocide against Rohingya",
-    "ko": "ICJ가 미얀마의 로힝야족 집단 학살 유죄 판결에 세계가 반응하다",
-    "sources": [
-     {
-      "t": "Al Jazeera",
-      "u": "https://www.aljazeera.com/news/2026/11/19/world-reacts-to-icj-finding-myanmar-guilty-of-genocide-against-rohingya?traffic_source=rss"
-     }
-    ]
-   },
-   {
-    "date": "2026-11-19",
-    "text": "Rohingya survivors react to landmark genocide ruling against Myanmar",
-    "ko": "로힝야족 생존자들, 미얀마에 대한 획기적인 대량 학살 판결에 반응",
-    "sources": [
-     {
-      "t": "Al Jazeera",
-      "u": "https://www.aljazeera.com/video/newsfeed/2026/11/19/rohingya-survivors-react-to-landmark-genocide-ruling-against-myanmar?traffic_source=rss"
-     }
-    ]
-   },
-   {
-    "date": "2026-11-19",
-    "text": "Myanmar ruling gives new relevance to genocide convention and is ‘full of messages’ for Israel",
-    "ko": "미얀마 판결은 대량 학살 협약에 새로운 관련성을 부여하고 이스라엘에 대한 '메시지로 가득 차 있습니다'",
-    "sources": [
-     {
-      "t": "The Guardian",
-      "u": "https://www.theguardian.com/law/2026/nov/19/myanmar-ruling-new-relevance-genocide-convention-messages-israel"
-     }
-    ]
-   },
-   {
-    "date": "2026-11-19",
-    "text": "‘Everyone struggled for this justice’: tears in court as Rohingya vindicated in Myanmar genocide ruling",
-    "ko": "'모두가 이 정의를 위해 투쟁했습니다': 미얀마 대량 학살 판결에서 로힝야족이 입증되자 법정에서 눈물을 흘렸습니다.",
-    "sources": [
-     {
-      "t": "The Guardian",
-      "u": "https://www.theguardian.com/global-development/2026/nov/19/everyone-struggled-for-this-justice-tears-in-court-as-rohingya-vindicated-in-myanmar-genocide-ruling"
-     }
-    ]
-   },
-   {
-    "date": "2026-11-19",
-    "text": "ICJ ruling on Myanmar genocide: ‘Historic victory for Rohingya, landmark for international justice’",
-    "ko": "ICJ, 미얀마 대량 학살 판결: '로힝야족의 역사적 승리, 국제 정의의 이정표'",
-    "sources": [
-     {
-      "t": "France 24",
-      "u": "https://www.france24.com/en/icj-ruling-on-myanmar-genocide-historic-victory-for-rohingya-landmark-for-international-justice"
-     }
-    ]
-   },
-   {
-    "date": "2026-11-19",
-    "text": "ICJ rules Myanmar committed genocide against the Rohingya",
-    "ko": "ICJ, 미얀마가 로힝야족에 대한 대량 학살을 자행했다고 판결",
-    "sources": [
-     {
-      "t": "France 24",
-      "u": "https://www.france24.com/en/icj-rules-myanmar-committed-genocide-against-the-rohingya"
-     }
-    ]
-   },
-   {
-    "date": "2026-11-19",
-    "text": "Myanmar committed genocide against Rohingya minority, world’s top court rules",
-    "ko": "미얀마, 로힝야 소수민족에 대한 대량 학살 자행, 세계 최고 법원 판결",
-    "sources": [
-     {
-      "t": "The Guardian",
-      "u": "https://www.theguardian.com/world/2026/nov/19/genocide-rohingya-international-court-of-justice-ruling-myanmar"
-     }
-    ]
-   },
-   {
-    "date": "2026-11-19",
-    "text": "'Their lives, their rights, their history': Not the end of accountability for the Rohingya people'",
-    "ko": "'그들의 삶, 그들의 권리, 그들의 역사': 로힝야족에 대한 책임은 끝나지 않았습니다'",
-    "sources": [
-     {
-      "t": "France 24",
-      "u": "https://www.france24.com/en/their-lives-their-rights-their-history-not-the-end-of-accountability-for-the-rohingya-people"
-     }
-    ]
-   },
-   {
-    "date": "2026-11-19",
-    "text": "The U.N.'s top court rules Myanmar committed genocide against the Rohingya",
-    "ko": "유엔 최고 법원, 미얀마가 로힝야족에 대한 대량 학살을 저질렀다고 판결",
-    "sources": [
-     {
-      "t": "NPR",
-      "u": "https://www.npr.org/2026/11/19/g-s1-154340/un-court-myanmar-genocide-rohingya"
-     }
-    ]
    }
   ],
   "haiti": [
+   {
+    "date": "2026-11-20",
+    "text": "Two Salvadoran soldiers killed in Haiti while handling explosives",
+    "ko": "아이티에서 폭발물 취급 중 엘살바도르 군인 2명 사망",
+    "sources": [
+     {
+      "t": "Al Jazeera",
+      "u": "https://www.aljazeera.com/news/2026/11/20/two-salvadoran-soldiers-killed-in-haiti-while-handling-explosives?traffic_source=rss"
+     }
+    ]
+   },
    {
     "date": "2026-11-20",
     "text": "Haiti police say 34 gang members killed in capital raid",
@@ -1200,6 +1226,28 @@
      {
       "t": "Al Jazeera",
       "u": "https://www.aljazeera.com/video/newsfeed/2026/11/20/haiti-police-say-34-gang-members-killed-in-capital-raid?traffic_source=rss"
+     }
+    ]
+   },
+   {
+    "date": "2026-11-19",
+    "text": "The Haitian National Police say that 34 alleged gang members were killed during an operation in Port-au-Prince, in an area under the influence of the Viv Ansanm alliance, with the assistance of the Haitian government task force involving Erik Prince's private security contractors.",
+    "sources": [
+     {
+      "t": "Reuters",
+      "u": "https://www.reuters.com/world/americas/police-operation-haiti-leaves-least-34-alleged-gang-members-dead-2026-11-19/"
+     }
+    ],
+    "ko": "아이티 경찰은 비브 안산(Viv Ansanm) 동맹의 영향을 받는 지역인 포르토프랭스에서 에릭 프린스(Erik Prince)의 민간 보안 계약자들이 참여하는 아이티 정부 태스크포스의 지원을 받아 작전을 수행하는 동안 갱단원 34명이 사망했다고 밝혔습니다."
+   },
+   {
+    "date": "2026-11-19",
+    "text": "Armed forces in Haiti kill at least 34 gang members to regain control of key corridor",
+    "ko": "아이티 군대, 주요 통로 통제권 탈환 위해 갱단원 최소 34명 사살",
+    "sources": [
+     {
+      "t": "France 24",
+      "u": "https://www.france24.com/en/americas/20261119-major-anti-gang-offensive-in-haiti-kills-34-suspected-gang-members"
      }
     ]
    },
@@ -1288,39 +1336,6 @@
      {
       "t": "Al Jazeera",
       "u": "https://www.aljazeera.com/video/newsfeed/2026/11/18/haitians-rally-in-celebration-of-el-salvadors-anti-gang-troop-deployment?traffic_source=rss"
-     }
-    ]
-   },
-   {
-    "date": "2026-11-18",
-    "text": "Haitians rally behind Bukele as Salvadoran troops battle gangs",
-    "ko": "엘살바도르 군대가 갱단과 싸우면서 부켈레 뒤에 아이티인들이 집결합니다.",
-    "sources": [
-     {
-      "t": "France 24",
-      "u": "https://www.france24.com/en/americas/20261118-haitians-rally-behind-bukele-as-salvadoran-troops-battle-gangs"
-     }
-    ]
-   },
-   {
-    "date": "2026-11-17",
-    "text": "Hundreds of Haitians march in cities across Haiti to show support for the deployment of Salvadoran troops to combat gang violence.",
-    "sources": [
-     {
-      "t": "Al Jazeera",
-      "u": "https://www.aljazeera.com/news/2026/11/17/haitians-protest-in-support-of-el-salvadors-anti-gang-troop-deployment"
-     }
-    ],
-    "ko": "수백 명의 아이티인들이 갱 폭력에 맞서 싸우기 위한 엘살바도르 군대 배치를 지지하기 위해 아이티 전역의 도시에서 행진하고 있습니다."
-   },
-   {
-    "date": "2026-11-17",
-    "text": "Haitians protest in support of El Salvador’s anti-gang troop deployment",
-    "ko": "엘살바도르의 갱단 진압군 배치를 지지하는 아이티인들의 시위",
-    "sources": [
-     {
-      "t": "Al Jazeera",
-      "u": "https://www.aljazeera.com/news/2026/11/17/haitians-protest-in-support-of-el-salvadors-anti-gang-troop-deployment?traffic_source=rss"
      }
     ]
    }
@@ -1461,6 +1476,17 @@
   ],
   "ethiopia": [
    {
+    "date": "2026-11-20",
+    "text": "Guinea bans Burkina Faso broadcaster, escalating diplomatic tensions",
+    "ko": "기니, 부르키나파소 방송 금지로 외교적 긴장 고조",
+    "sources": [
+     {
+      "t": "France 24",
+      "u": "https://www.france24.com/en/tv-shows/eye-on-africa/20261120-guinea-bans-burkina-faso-broadcaster-escalating-diplomatic-tensions"
+     }
+    ]
+   },
+   {
     "date": "2026-11-17",
     "text": "Fresh clashes at the Eritrean border — is Ethiopia sliding into a regional war?",
     "ko": "에리트레아 국경에서의 새로운 충돌 - 에티오피아가 지역 전쟁에 빠져들고 있습니까?",
@@ -1580,17 +1606,6 @@
       "u": "https://news.un.org/feed/view/en/story/2026/11/1168762"
      }
     ]
-   },
-   {
-    "date": "2026-11-05",
-    "text": "Nigeria court bars opposition candidate two months before election",
-    "ko": "나이지리아 법원, 선거 두 달 앞두고 야당 후보 출마 금지",
-    "sources": [
-     {
-      "t": "France 24",
-      "u": "https://www.france24.com/en/nigeria-court-bars-opposition-candidate-two-months-before-election"
-     }
-    ]
    }
   ],
   "sahel": [
@@ -1629,6 +1644,17 @@
    }
   ],
   "lebanon": [
+   {
+    "date": "2026-11-20",
+    "text": "Iraqi security forces deploy in Hezbollah stronghold under compromise deal",
+    "ko": "이라크 보안군, 타협 협상에 따라 헤즈볼라 거점에 배치",
+    "sources": [
+     {
+      "t": "France 24",
+      "u": "https://www.france24.com/en/middle-east/20261120-iraqi-security-forces-to-deploy-in-hezbollah-stronghold-under-compromise-deal"
+     }
+    ]
+   },
    {
     "date": "2026-11-19",
     "text": "Iraq's risky standoff: The state vs. Iran-allied militias",
@@ -1749,149 +1775,138 @@
       "u": "https://www.aljazeera.com/video/newsfeed/2026/11/7/israel-builds-90km-network-of-military-roads-across-southern-lebanon?traffic_source=rss"
      }
     ]
-   },
-   {
-    "date": "2026-11-03",
-    "text": "Yemen gov’t accuses IRGC, Hezbollah of sending 21 experts to back Houthis",
-    "ko": "예멘 정부는 IRGC와 헤즈볼라가 후티 반군을 지원하기 위해 21명의 전문가를 보냈다고 비난하지 않습니다",
-    "sources": [
-     {
-      "t": "Al Jazeera",
-      "u": "https://www.aljazeera.com/news/2026/11/3/yemen-govt-accuses-irgc-hezbollah-of-sending-21-experts-to-back-houthis?traffic_source=rss"
-     }
-    ]
    }
   ],
   "rohingya": [
    {
-    "date": "2026-11-19",
-    "text": "The International Court of Justice rules that Myanmar has committed genocide against the Rohingya people.",
-    "sources": [
-     {
-      "t": "AFP",
-      "u": "https://www.afp.com/en/myanmar-guilty-genocide-against-rohingya-says-top-un-court"
-     }
-    ],
-    "ko": "국제사법재판소는 미얀마가 로힝야족을 학살했다고 판결했다."
-   },
-   {
-    "date": "2026-11-19",
-    "text": "Rohingya genocide survivor: ‘perpetrators will have to face consequences’",
-    "ko": "로힝야 학살 생존자 “가해자들은 대가를 치르게 될 것”",
+    "date": "2026-11-20",
+    "text": "What are the implications of the ICJ Rohingya genocide ruling?",
+    "ko": "ICJ 로힝야 집단학살 판결이 시사하는 바는 무엇인가?",
     "sources": [
      {
       "t": "Al Jazeera",
-      "u": "https://www.aljazeera.com/video/newsfeed/2026/11/19/rohingya-genocide-survivor-perpetrators-will-have-to-face?traffic_source=rss"
+      "u": "https://www.aljazeera.com/video/inside-story/2026/11/20/what-are-the-implications-of-the-icj-rohingya-genocide-ruling?traffic_source=rss"
      }
     ]
    },
    {
-    "date": "2026-11-19",
-    "text": "What does the Myanmar genocide ruling mean for the Rohingya?",
-    "ko": "미얀마 대량학살 판결은 로힝야족에게 어떤 의미를 갖는가?",
+    "date": "2026-11-20",
+    "text": "Myanmar, China object to landmark ICJ ruling on Rohingya genocide",
+    "ko": "미얀마와 중국, 로힝야족 학살에 대한 ICJ 판결에 반대",
     "sources": [
      {
       "t": "Al Jazeera",
-      "u": "https://www.aljazeera.com/video/newsfeed/2026/11/19/what-does-the-myanmar-genocide-ruling-mean-for-the-rohingya?traffic_source=rss"
+      "u": "https://www.aljazeera.com/news/2026/11/20/myanmar-china-object-to-unfair-icj-genocide-ruling?traffic_source=rss"
      }
     ]
    },
    {
-    "date": "2026-11-19",
-    "text": "Myanmar committed genocide against Rohingya minority, top UN court rules",
-    "ko": "미얀마, 로힝야 소수민족에 대한 대량 학살 자행, 유엔 법원 최고 규정",
+    "date": "2026-11-20",
+    "text": "Myanmar genocide ruling: Rohingya say struggle for justice not over",
+    "ko": "미얀마 대량 학살 판결: 로힝야족, 정의를 위한 투쟁은 끝나지 않았다고 말함",
     "sources": [
      {
-      "t": "BBC",
-      "u": "https://www.bbc.co.uk/news/articles/c804wzp20ddvo?at_medium=RSS&at_campaign=rss"
+      "t": "DW",
+      "u": "https://www.dw.com/en/myanmar-genocide-ruling-rohingya-say-struggle-for-justice-not-over/a-80003365?maca=en-rss-en-world-4025-rdf"
      }
     ]
    },
    {
-    "date": "2026-11-19",
-    "text": "Photos: Genocide ruling spotlights human toll of 2017 Rohingya crisis",
-    "ko": "사진: 대량학살 판결, 2017년 로힝야 위기로 인한 인명 피해 주목",
+    "date": "2026-11-20",
+    "text": "‘You will not be alone’: General Assembly President tells Rohingya refugees after genocide ruling",
+    "ko": "'당신은 혼자가 아닐 것입니다': 대량학살 판결 후 로힝야 난민에게 총회 의장이 말했다",
     "sources": [
      {
-      "t": "Al Jazeera",
-      "u": "https://www.aljazeera.com/gallery/2026/11/19/photos-genocide-ruling-spotlights-2017-rohingya-crisis-human-toll?traffic_source=rss"
+      "t": "UN News",
+      "u": "https://news.un.org/feed/view/en/story/2026/11/1168853"
      }
     ]
    },
    {
-    "date": "2026-11-19",
-    "text": "World reacts to ICJ finding Myanmar guilty of genocide against Rohingya",
-    "ko": "ICJ가 미얀마의 로힝야족 집단 학살 유죄 판결에 세계가 반응하다",
-    "sources": [
-     {
-      "t": "Al Jazeera",
-      "u": "https://www.aljazeera.com/news/2026/11/19/world-reacts-to-icj-finding-myanmar-guilty-of-genocide-against-rohingya?traffic_source=rss"
-     }
-    ]
-   },
-   {
-    "date": "2026-11-19",
-    "text": "Rohingya survivors react to landmark genocide ruling against Myanmar",
-    "ko": "로힝야족 생존자들, 미얀마에 대한 획기적인 대량 학살 판결에 반응",
-    "sources": [
-     {
-      "t": "Al Jazeera",
-      "u": "https://www.aljazeera.com/video/newsfeed/2026/11/19/rohingya-survivors-react-to-landmark-genocide-ruling-against-myanmar?traffic_source=rss"
-     }
-    ]
-   },
-   {
-    "date": "2026-11-19",
-    "text": "Rohingya genocide: What was said in court and what happens now?",
-    "ko": "로힝야 집단 학살: 법정에서는 어떤 이야기가 나왔고, 지금은 어떤 일이 벌어지고 있나요?",
-    "sources": [
-     {
-      "t": "BBC",
-      "u": "https://www.bbc.co.uk/news/videos/c60qj10j0ld5o?at_medium=RSS&at_campaign=rss"
-     }
-    ]
-   },
-   {
-    "date": "2026-11-19",
-    "text": "Myanmar ruling gives new relevance to genocide convention and is ‘full of messages’ for Israel",
-    "ko": "미얀마 판결은 대량 학살 협약에 새로운 관련성을 부여하고 이스라엘에 대한 '메시지로 가득 차 있습니다'",
+    "date": "2026-11-20",
+    "text": "US reacts cautiously to Myanmar genocide ruling as EU praises ‘critical’ role of UN’s top court",
+    "ko": "EU가 유엔 최고 법원의 '중요한' 역할을 칭찬함에 따라 미국은 미얀마 대량 학살 판결에 조심스럽게 반응합니다.",
     "sources": [
      {
       "t": "The Guardian",
-      "u": "https://www.theguardian.com/law/2026/nov/19/myanmar-ruling-new-relevance-genocide-convention-messages-israel"
+      "u": "https://www.theguardian.com/law/2026/nov/20/us-eu-reaction-myanmar-rohingya-genocide-icj-ruling-trump-international-law"
      }
     ]
    },
    {
-    "date": "2026-11-19",
-    "text": "‘Everyone struggled for this justice’: tears in court as Rohingya vindicated in Myanmar genocide ruling",
-    "ko": "'모두가 이 정의를 위해 투쟁했습니다': 미얀마 대량 학살 판결에서 로힝야족이 입증되자 법정에서 눈물을 흘렸습니다.",
+    "date": "2026-11-20",
+    "text": "Tears of joy, prayers for return home: Rohingya react to genocide ruling",
+    "ko": "기쁨의 눈물, 귀향을 위한 기도: 대량학살 판결에 대한 로힝야족의 반응",
     "sources": [
      {
-      "t": "The Guardian",
-      "u": "https://www.theguardian.com/global-development/2026/nov/19/everyone-struggled-for-this-justice-tears-in-court-as-rohingya-vindicated-in-myanmar-genocide-ruling"
+      "t": "Al Jazeera",
+      "u": "https://www.aljazeera.com/news/2026/11/20/tears-of-joy-prayers-for-return-home-rohingya-react-to-genocide-ruling?traffic_source=rss"
      }
     ]
    },
    {
     "date": "2026-11-19",
-    "text": "ICJ ruling on Myanmar genocide: ‘Historic victory for Rohingya, landmark for international justice’",
-    "ko": "ICJ, 미얀마 대량 학살 판결: '로힝야족의 역사적 승리, 국제 정의의 이정표'",
+    "text": "ICJ rules Myanmar committed genocide against the Rohingya",
+    "ko": "ICJ, 미얀마가 로힝야족에 대한 대량 학살을 자행했다고 판결",
     "sources": [
      {
       "t": "France 24",
-      "u": "https://www.france24.com/en/icj-ruling-on-myanmar-genocide-historic-victory-for-rohingya-landmark-for-international-justice"
+      "u": "https://www.france24.com/en/icj-rules-myanmar-committed-genocide-against-the-rohingya"
      }
     ]
    },
    {
     "date": "2026-11-19",
-    "text": "What the ICJ genocide ruling means for the Rohingya people",
-    "ko": "ICJ 대량학살 판결이 로힝야족에게 갖는 의미",
+    "text": "Myanmar committed genocide against Rohingya minority, world’s top court rules",
+    "ko": "미얀마, 로힝야 소수민족에 대한 대량 학살 자행, 세계 최고 법원 판결",
     "sources": [
      {
-      "t": "Al Jazeera",
-      "u": "https://www.aljazeera.com/news/2026/11/19/what-the-icj-ruling-means-for-the-rohingya?traffic_source=rss"
+      "t": "The Guardian",
+      "u": "https://www.theguardian.com/world/2026/nov/19/genocide-rohingya-international-court-of-justice-ruling-myanmar"
+     }
+    ]
+   },
+   {
+    "date": "2026-11-19",
+    "text": "'Their lives, their rights, their history': Not the end of accountability for the Rohingya people'",
+    "ko": "'그들의 삶, 그들의 권리, 그들의 역사': 로힝야족에 대한 책임은 끝나지 않았습니다'",
+    "sources": [
+     {
+      "t": "France 24",
+      "u": "https://www.france24.com/en/their-lives-their-rights-their-history-not-the-end-of-accountability-for-the-rohingya-people"
+     }
+    ]
+   },
+   {
+    "date": "2026-11-19",
+    "text": "The U.N.'s top court rules Myanmar committed genocide against the Rohingya",
+    "ko": "유엔 최고 법원, 미얀마가 로힝야족에 대한 대량 학살을 저질렀다고 판결",
+    "sources": [
+     {
+      "t": "NPR",
+      "u": "https://www.npr.org/2026/11/19/g-s1-154340/un-court-myanmar-genocide-rohingya"
+     }
+    ]
+   },
+   {
+    "date": "2026-11-19",
+    "text": "World’s top court finds Myanmar guilty of genocide against Rohingya",
+    "ko": "세계 최고 법원, 미얀마가 로힝야족 집단 학살 혐의로 유죄 판결",
+    "sources": [
+     {
+      "t": "UN News",
+      "u": "https://news.un.org/feed/view/en/story/2026/11/1168836"
+     }
+    ]
+   },
+   {
+    "date": "2026-11-19",
+    "text": "Myanmar committed genocide against Rohingya, top UN court rules",
+    "ko": "미얀마는 로힝야족에 대한 대량 학살을 저질렀으며 유엔 법원의 최고 규정에 따라",
+    "sources": [
+     {
+      "t": "DW",
+      "u": "https://www.dw.com/en/myanmar-committed-genocide-against-rohingya-top-un-court-rules/a-79987898?maca=en-rss-en-world-4025-rdf"
      }
     ]
    }
@@ -2174,6 +2189,17 @@
   ],
   "colombia": [
    {
+    "date": "2026-11-20",
+    "text": "Thousands protest Colombia’s tax plans amid row over US military role",
+    "ko": "미군 역할을 둘러싼 갈등 속에서 수천 명이 콜롬비아의 조세 계획에 항의",
+    "sources": [
+     {
+      "t": "Al Jazeera",
+      "u": "https://www.aljazeera.com/news/2026/11/20/thousands-protest-colombias-tax-plans-amid-row-over-us-military-role?traffic_source=rss"
+     }
+    ]
+   },
+   {
     "date": "2026-11-19",
     "text": "A president among body bags: Photo ops spark outrage in Colombia",
     "ko": "시신 가방 속의 대통령: 콜롬비아에서 사진 작전이 분노를 촉발함",
@@ -2400,6 +2426,17 @@
   ],
   "drc": [
    {
+    "date": "2026-11-20",
+    "text": "Guinea bans Burkina Faso broadcaster, escalating diplomatic tensions",
+    "ko": "기니, 부르키나파소 방송 금지로 외교적 긴장 고조",
+    "sources": [
+     {
+      "t": "France 24",
+      "u": "https://www.france24.com/en/tv-shows/eye-on-africa/20261120-guinea-bans-burkina-faso-broadcaster-escalating-diplomatic-tensions"
+     }
+    ]
+   },
+   {
     "date": "2026-11-18",
     "text": "DR Congo’s rival peace efforts fail to halt violence in the east",
     "ko": "DR 콩고의 라이벌 평화 노력은 동부 지역의 폭력을 막지 못했습니다.",
@@ -2519,20 +2556,20 @@
       "u": "https://www.bbc.co.uk/news/articles/cr3wv311dwnlo?at_medium=RSS&at_campaign=rss"
      }
     ]
-   },
-   {
-    "date": "2026-10-29",
-    "text": "US sanctions Rwanda's defence ministry over DR Congo conflict",
-    "ko": "미국, 콩고민주공화국 내전 관련 르완다 국방부 제재",
-    "sources": [
-     {
-      "t": "BBC",
-      "u": "https://www.bbc.co.uk/news/articles/cm87zw51qw0jo?at_medium=RSS&at_campaign=rss"
-     }
-    ]
    }
   ],
   "mexico": [
+   {
+    "date": "2026-11-18",
+    "text": "An operation against cartel de Jalisco Nueva Generacion cells in Zapopan, Jalisco left three gunmen killed and three arrested, including a ringleader. Authorities concluded the operation after seven hours of gunfight.",
+    "sources": [
+     {
+      "t": "Nmás",
+      "u": "https://www.nmas.com.mx/jalisco/seguridad/foro-tv-video-operativo-en-zapopan-deja-3-presuntos-delincuentes-muertos-y-3-detenidos-entre-ellos-el-topo/"
+     }
+    ],
+    "ko": "자포판(Zapopan)의 카르텔 드 할리스코 누에바 제네라시온(cartel de Jalisco Nueva Generacion) 세포에 대한 작전으로 Jalisco에서는 총잡이 3명이 사망하고 주모자 1명을 포함해 3명이 체포되었습니다. 당국은 7시간의 총격전 끝에 작전을 종료했다."
+   },
    {
     "date": "2026-11-18",
     "text": "An operation against cartel de Jalisco Nueva Generacion cells in Zapopan, Jalisco left three gunmen killed and three arrested, incluided a ringleader. Authorities They concluded the operation after seven hours of gunfight.",
@@ -2653,20 +2690,20 @@
      }
     ],
     "ko": "멕시코 과나후아토 실라오 시골 지역에서 멕시코 군인과 CJNG 회원 간의 만남으로 무장괴한 6명이 사망했습니다."
-   },
-   {
-    "date": "2026-11-13",
-    "text": "An encounter between mexican soldiers and CJNG members left six gunmen dead in a rural area of Silao, Guanajuato, México.",
-    "sources": [
-     {
-      "t": "Aristegui Noticias",
-      "u": "https://aristeguinoticias.com/1411/mexico/abaten-a-seis-presuntos-integrantes-del-cjng-durante-enfrentamiento-en-silao-guanajuato/"
-     }
-    ],
-    "ko": "멕시코 과나후아토 실라오 시골 지역에서 멕시코 군인과 CJNG 회원 간의 만남으로 무장괴한 6명이 사망했습니다."
    }
   ],
   "afpak": [
+   {
+    "date": "2026-11-20",
+    "text": "Iraq university’s removal of male professors teaching women sparks weeks of protests",
+    "ko": "이라크 대학에서 여성을 가르치는 남성 교수를 해임하자 몇 주간 시위가 촉발됐다.",
+    "sources": [
+     {
+      "t": "The Guardian",
+      "u": "https://www.theguardian.com/global-development/2026/nov/20/iraqi-university-ban-men-teaching-women-protests"
+     }
+    ]
+   },
    {
     "date": "2026-11-14",
     "text": "Trump ‘whiplash’ on deportations putting Afghans in turmoil: ‘People already survived a war’",
@@ -2778,6 +2815,19 @@
      {
       "t": "UN News",
       "u": "https://news.un.org/feed/view/en/story/2026/11/1168779"
+     }
+    ]
+   }
+  ],
+  "burkina": [
+   {
+    "date": "2026-11-20",
+    "text": "Guinea bans Burkina Faso broadcaster, escalating diplomatic tensions",
+    "ko": "기니, 부르키나파소 방송 금지로 외교적 긴장 고조",
+    "sources": [
+     {
+      "t": "France 24",
+      "u": "https://www.france24.com/en/tv-shows/eye-on-africa/20261120-guinea-bans-burkina-faso-broadcaster-escalating-diplomatic-tensions"
      }
     ]
    }
