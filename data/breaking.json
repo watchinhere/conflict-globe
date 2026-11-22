@@ -1,13 +1,13 @@
 {
- "updated": "2026-11-21T20:50:09.871Z",
+ "updated": "2026-11-22T01:02:33.188Z",
  "sources": {
   "BBC": {
    "ok": true,
-   "n": 7
+   "n": 8
   },
   "Al Jazeera": {
    "ok": true,
-   "n": 11
+   "n": 15
   },
   "The Guardian": {
    "ok": true,
@@ -19,7 +19,7 @@
   },
   "France 24": {
    "ok": true,
-   "n": 13
+   "n": 14
   },
   "UN News": {
    "ok": true,
@@ -27,10 +27,160 @@
   },
   "NPR": {
    "ok": true,
-   "n": 5
+   "n": 4
   }
  },
  "items": [
+  {
+   "id": "b5553ff19c00",
+   "t": "Clashes erupt across France in another night of protest",
+   "ko": "또 다른 밤의 항의로 프랑스 전역에서 충돌이 발생했습니다.",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/video/newsfeed/2026/11/22/clashes-erupt-across-france-in-another-night-of-protest?traffic_source=rss",
+   "at": "2026-11-22T00:37:32.000Z",
+   "ev": [],
+   "cc": [
+    "France"
+   ]
+  },
+  {
+   "id": "1453db92e2f8",
+   "t": "Iran war live: Iran targets US bases in Bahrain; Houthi strikes continue",
+   "ko": "이란 전쟁 라이브: 이란은 바레인의 미군 기지를 목표로 삼고 있습니다. 후티 반군 공습 계속",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/liveblog/2026/11/21/iran-war-live-iran-targets-us-military-in-bahrain-houthi-strikes-continue?traffic_source=rss",
+   "at": "2026-11-21T23:59:03.000Z",
+   "ev": [
+    "iran",
+    "yemen"
+   ],
+   "cc": [
+    "Iran",
+    "United States",
+    "Bahrain"
+   ]
+  },
+  {
+   "id": "e14c511a4468",
+   "t": "Iran faces a ‘silent economic war’, says Iranian president",
+   "ko": "이란 대통령 \"이란은 '조용한 경제전쟁' 직면하고 있다\"",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/video/newsfeed/2026/11/21/iran-faces-a-silent-economic-war-says-iranian-president?traffic_source=rss",
+   "at": "2026-11-21T23:18:14.000Z",
+   "ev": [
+    "iran"
+   ],
+   "cc": [
+    "Iran"
+   ]
+  },
+  {
+   "id": "325f1a2a1c9a",
+   "t": "Man found dead on Flinders Island linked to shooting of police officer, Tasmanian authorities say",
+   "ko": "플린더스 섬에서 남성이 숨진 채 발견됐다고 태즈매니아 당국이 밝혔다.",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/australia-news/2026/nov/22/man-found-dead-on-flinders-island-linked-to-shooting-of-police-officer-tasmanian-authorities-say",
+   "at": "2026-11-21T22:41:36.000Z",
+   "ev": [],
+   "cc": []
+  },
+  {
+   "id": "728bf14e132e",
+   "t": "Bahrain says Iranian attack hits industrial facility",
+   "ko": "바레인, 이란 공격으로 산업 시설 타격",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/video/newsfeed/2026/11/21/bahrain-says-iranian-attack-hits-industrial-facility?traffic_source=rss",
+   "at": "2026-11-21T22:02:03.000Z",
+   "ev": [
+    "iran"
+   ],
+   "cc": [
+    "Bahrain",
+    "Iran"
+   ]
+  },
+  {
+   "id": "0a89d776917a",
+   "t": "A grieving family in Lebanon returns to their village",
+   "ko": "레바논에서 슬픔에 잠긴 가족이 마을로 돌아왔습니다.",
+   "src": "NPR",
+   "u": "https://www.npr.org/2026/11/21/nx-s1-6012085/a-grieving-family-in-lebanon-returns-to-their-village",
+   "at": "2026-11-21T22:01:32.000Z",
+   "ev": [
+    "lebanon"
+   ],
+   "cc": [
+    "Lebanon",
+    "Israel"
+   ]
+  },
+  {
+   "id": "caa368e1c115",
+   "t": "Lock of former US President George Washington's hair sells for $4,000",
+   "ko": "조지 워싱턴 전 미국 대통령 머리카락 자물쇠 4000달러에 팔려",
+   "src": "BBC",
+   "u": "https://www.bbc.co.uk/news/articles/cwe9k23dpz0do?at_medium=RSS&at_campaign=rss",
+   "at": "2026-11-21T22:01:19.000Z",
+   "ev": [],
+   "cc": [
+    "United States"
+   ]
+  },
+  {
+   "id": "634fcadcb179",
+   "t": "Bahrain says Iranian attack causes fire at industrial facility",
+   "ko": "바레인 \"이란 공격으로 산업시설에 화재 발생\"",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/11/21/bahrain-says-iranian-attack-causes-fire-at-industrial-facility?traffic_source=rss",
+   "at": "2026-11-21T21:31:03.000Z",
+   "ev": [
+    "iran"
+   ],
+   "cc": [
+    "Bahrain",
+    "Iran",
+    "United States"
+   ]
+  },
+  {
+   "id": "d96c342c31b7",
+   "t": "Impunity fuels surge in settler violence across occupied West Bank",
+   "ko": "불처벌로 인해 점령된 서안 지구에서 정착민 폭력이 급증",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/video/newsfeed/2026/11/21/impunity-fuels-surge-in-settler-violence-across-occupied-west-bank?traffic_source=rss",
+   "at": "2026-11-21T21:11:54.000Z",
+   "ev": [
+    "westbank"
+   ],
+   "cc": [
+    "Palestine"
+   ]
+  },
+  {
+   "id": "98d5d76471e0",
+   "t": "Brazil’s Jair Bolsonaro in intensive care with bowel obstruction",
+   "ko": "장 폐쇄로 집중 치료를 받고 있는 브라질의 Jair Bolsonaro",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/11/21/brazils-jair-bolsonaro-in-intensive-care-with-bowel-obstruction?traffic_source=rss",
+   "at": "2026-11-21T21:02:18.000Z",
+   "ev": [],
+   "cc": [
+    "Brazil"
+   ]
+  },
+  {
+   "id": "c902a31706b5",
+   "t": "Thousands protest across Europe over living costs and housing",
+   "ko": "유럽 ​​전역에서 수천 명이 생활비와 주택 문제에 항의",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/11/21/thousands-protest-across-europe-over-living-costs-and-housing?traffic_source=rss",
+   "at": "2026-11-21T20:47:50.000Z",
+   "ev": [],
+   "cc": [
+    "France",
+    "Portugal"
+   ]
+  },
   {
    "id": "b0ff52fa3422",
    "t": "France’s sixth consecutive Saturday of protests draw lower turnout",
@@ -367,6 +517,20 @@
    "ev": [],
    "cc": [
     "Cyprus"
+   ]
+  },
+  {
+   "id": "7184f6b94649",
+   "t": "Mexico captures drug cartel boss ‘El Chapo Isidro’ after deadly firefight",
+   "ko": "멕시코, 총격전 끝에 마약 카르텔 두목 '엘 차포 이시드로' 체포",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/americas/20261121-mexico-captures-drug-cartel-boss-el-chapo-isidro-after-deadly-firefight",
+   "at": "2026-11-21T15:00:15.000Z",
+   "ev": [
+    "mexico"
+   ],
+   "cc": [
+    "Mexico"
    ]
   },
   {
@@ -1916,266 +2080,6 @@
    "ev": [],
    "cc": [
     "United States"
-   ]
-  },
-  {
-   "id": "42a972871329",
-   "t": "Europe ready for talks with Russia on ending war in Ukraine, leaders say",
-   "ko": "유럽은 우크라이나 전쟁 종식을 위해 러시아와 대화할 준비가 되어 있다고 지도자들은 말했습니다.",
-   "src": "BBC",
-   "u": "https://www.bbc.co.uk/news/articles/ckzd9nln5e6go?at_medium=RSS&at_campaign=rss",
-   "at": "2026-11-20T00:50:24.000Z",
-   "ev": [
-    "ukraine"
-   ],
-   "cc": [
-    "Russia",
-    "Ukraine"
-   ]
-  },
-  {
-   "id": "47855d4f2faf",
-   "t": "Haiti police say 34 gang members killed in capital raid",
-   "ko": "아이티 경찰, 수도 습격으로 갱단원 34명 사망",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/video/newsfeed/2026/11/20/haiti-police-say-34-gang-members-killed-in-capital-raid?traffic_source=rss",
-   "at": "2026-11-20T00:31:02.000Z",
-   "ev": [
-    "haiti"
-   ],
-   "cc": [
-    "Haiti"
-   ]
-  },
-  {
-   "id": "214aedaada17",
-   "t": "El Salvador’s Bukele expected to formalise bid for third presidential term",
-   "ko": "엘살바도르의 부켈레, 세 번째 대선 출마 공식화 예상",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/news/2026/11/20/el-salvadors-bukele-expected-to-formalise-bid-for-third-presidential-term?traffic_source=rss",
-   "at": "2026-11-20T00:22:02.000Z",
-   "ev": [],
-   "cc": [
-    "El Salvador"
-   ]
-  },
-  {
-   "id": "afc94d1f9efc",
-   "t": "Religion should be removed from terrorism definition under Australian law as it gives ‘false credibility’, watchdog says",
-   "ko": "종교는 '잘못된 신뢰성'을 제공하므로 호주법에 따라 테러리즘 정의에서 제외되어야 한다고 감시단체가 밝혔습니다.",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/law/2026/nov/20/religion-should-removed-from-terrorism-definition-australian-law-gives-false-credibility-watchdog-ntwnfb",
-   "at": "2026-11-20T00:19:57.000Z",
-   "ev": [],
-   "cc": [
-    "Australia",
-    "United States"
-   ]
-  },
-  {
-   "id": "eca3e57c2438",
-   "t": "'I tell my son it's just fireworks': People inside besieged Yemeni city speak to BBC",
-   "ko": "'나는 내 아들에게 그것은 단지 불꽃놀이일 뿐이라고 말했습니다': 포위된 예멘 도시 내부의 사람들이 BBC와 이야기합니다",
-   "src": "BBC",
-   "u": "https://www.bbc.co.uk/news/articles/cx7v2d8q879eo?at_medium=RSS&at_campaign=rss",
-   "at": "2026-11-20T00:13:21.000Z",
-   "ev": [
-    "yemen"
-   ],
-   "cc": [
-    "Yemen"
-   ]
-  },
-  {
-   "id": "205406d55564",
-   "t": "Iran war live: Houthis escalate attacks on Saudi capital",
-   "ko": "이란 전쟁 생중계: 후티 반군, 사우디 수도에 대한 공격 확대",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/news/liveblog/2026/11/19/iran-war-live-houthis-escalate-attacks-on-saudi-capital?traffic_source=rss",
-   "at": "2026-11-19T23:58:40.000Z",
-   "ev": [
-    "iran",
-    "yemen"
-   ],
-   "cc": [
-    "Iran",
-    "Saudi Arabia"
-   ]
-  },
-  {
-   "id": "b44406431214",
-   "t": "Six killed in suspected gas explosion at Georgia apartment building",
-   "ko": "조지아 아파트에서 가스폭발 의심돼 6명 사망",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/news/2026/11/19/six-killed-in-suspected-gas-explosion-at-georgia-apartment-building?traffic_source=rss",
-   "at": "2026-11-19T23:09:48.000Z",
-   "ev": [],
-   "cc": [
-    "Georgia"
-   ]
-  },
-  {
-   "id": "89cf126ce800",
-   "t": "Mosque torched in Israel sparks political backlash against Netanyahu",
-   "ko": "이스라엘 모스크에 불붙어 네타냐후에 대한 정치적 반발 촉발",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/video/newsfeed/2026/11/19/aje-onl-nf_mosque-torched-in-israel-sparks-political-backlash-191126?traffic_source=rss",
-   "at": "2026-11-19T22:58:48.000Z",
-   "ev": [],
-   "cc": [
-    "Israel",
-    "Palestine"
-   ]
-  },
-  {
-   "id": "8a3271186d8c",
-   "t": "Armed forces in Haiti kill at least 34 gang members to regain control of key corridor",
-   "ko": "아이티 군대, 주요 통로 통제권 탈환 위해 갱단원 최소 34명 사살",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/americas/20261119-major-anti-gang-offensive-in-haiti-kills-34-suspected-gang-members",
-   "at": "2026-11-19T22:31:25.000Z",
-   "ev": [
-    "haiti"
-   ],
-   "cc": [
-    "Haiti"
-   ]
-  },
-  {
-   "id": "4447f5511cca",
-   "t": "Appeals court rejects Democrat LaMonica McIver’s bid to toss charges over ICE protest",
-   "ko": "항소 법원은 ICE 항의에 대해 기소하려는 민주당 LaMonica McIver의 제안을 기각했습니다.",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/us-news/2026/nov/19/lamonica-mciver-ice-delaney-hall",
-   "at": "2026-11-19T21:57:39.000Z",
-   "ev": [],
-   "cc": []
-  },
-  {
-   "id": "b89806bc3d78",
-   "t": "Haiti police say at least 34 suspected gang members killed in raid",
-   "ko": "아이티 경찰은 이번 급습으로 갱단 용의자 최소 34명이 사망했다고 밝혔습니다.",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/news/2026/11/19/haiti-police-say-at-least-34-suspected-gang-members-killed-in-raid?traffic_source=rss",
-   "at": "2026-11-19T21:39:39.000Z",
-   "ev": [
-    "haiti"
-   ],
-   "cc": [
-    "Haiti"
-   ]
-  },
-  {
-   "id": "ad042c07c064",
-   "t": "Russian strikes on Kyiv kill one, damage Dutch and Austrian embassies",
-   "ko": "러시아, 키예프 공습으로 1명 사망, 네덜란드·오스트리아 대사관 피해",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/russian-strikes-on-kyiv-kill-one-damage-dutch-and-austrian-embassies",
-   "at": "2026-11-19T21:25:27.000Z",
-   "ev": [
-    "ukraine"
-   ],
-   "cc": [
-    "Russia",
-    "Austria",
-    "Netherlands"
-   ]
-  },
-  {
-   "id": "ab08836df09a",
-   "t": "Ten killed in Pakistan as bus crashes into gas tanker",
-   "ko": "파키스탄서 버스가 유조선과 충돌해 10명이 사망",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/video/newsfeed/2026/11/19/ten-killed-in-pakistan-as-bus-crashes-into-gas-tanker?traffic_source=rss",
-   "at": "2026-11-19T21:09:24.000Z",
-   "ev": [],
-   "cc": [
-    "Pakistan"
-   ]
-  },
-  {
-   "id": "e2e08ed6393d",
-   "t": "Three arrested during Anthropic IPO protest outside Nasdaq",
-   "ko": "나스닥 외곽에서 인류애 IPO 시위 중 3명 체포",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/video/newsfeed/2026/11/19/three-arrested-during-anthropic-ipo-protest-outside-nasdaq?traffic_source=rss",
-   "at": "2026-11-19T20:59:20.000Z",
-   "ev": [],
-   "cc": []
-  },
-  {
-   "id": "934c30345a5f",
-   "t": "Jerusalem Daily: Israel launches ground offensive in Gaza",
-   "ko": "예루살렘 데일리: 이스라엘, 가자 지구에서 지상 공세 개시",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/video/newsfeed/2026/11/19/jerusalem-daily-israel-launches-ground-offensive-in-gaza-2?traffic_source=rss",
-   "at": "2026-11-19T20:58:41.000Z",
-   "ev": [
-    "gaza"
-   ],
-   "cc": [
-    "Israel",
-    "Palestine"
-   ]
-  },
-  {
-   "id": "6fc37f02efc1",
-   "t": "Rohingya genocide survivor: ‘perpetrators will have to face consequences’",
-   "ko": "로힝야 학살 생존자 “가해자들은 대가를 치르게 될 것”",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/video/newsfeed/2026/11/19/rohingya-genocide-survivor-perpetrators-will-have-to-face?traffic_source=rss",
-   "at": "2026-11-19T20:58:38.000Z",
-   "ev": [
-    "myanmar",
-    "rohingya"
-   ],
-   "cc": [
-    "Myanmar"
-   ]
-  },
-  {
-   "id": "d968a940255a",
-   "t": "Why are Bukele’s Salvadoran troops in Haiti and what have they achieved?",
-   "ko": "부켈레의 엘살바도르 군대가 아이티에 주둔한 이유는 무엇이며 그들이 달성한 성과는 무엇입니까?",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/news/2026/11/19/why-are-bukeles-salvadoran-troops-in-haiti-and-what-have-they-achieved?traffic_source=rss",
-   "at": "2026-11-19T20:54:08.000Z",
-   "ev": [
-    "haiti"
-   ],
-   "cc": [
-    "Haiti",
-    "El Salvador"
-   ]
-  },
-  {
-   "id": "ab4cde291418",
-   "t": "'Humanitarian mission' for Kostiantynivka: Is it a trap?",
-   "ko": "코스티안티니프카의 '인도주의적 사명': 함정인가?",
-   "src": "DW",
-   "u": "https://www.dw.com/en/humanitarian-mission-for-kostiantynivka-is-it-a-trap/a-79996772?maca=en-rss-en-world-4025-rdf",
-   "at": "2026-11-19T20:53:00.000Z",
-   "ev": [
-    "ukraine"
-   ],
-   "cc": [
-    "Russia",
-    "Ukraine"
-   ]
-  },
-  {
-   "id": "2f50068d9d55",
-   "t": "Putin proposes second humanitarian ceasefire — is it a trap?",
-   "ko": "푸틴, 2차 인도주의적 휴전 제안…함정인가?",
-   "src": "DW",
-   "u": "https://www.dw.com/en/putin-proposes-second-humanitarian-ceasefire-is-it-a-trap/a-79996772?maca=en-rss-en-world-4025-rdf",
-   "at": "2026-11-19T20:53:00.000Z",
-   "ev": [
-    "ukraine"
-   ],
-   "cc": [
-    "Russia",
-    "Ukraine"
    ]
   }
  ]
