@@ -1,13 +1,13 @@
 {
- "updated": "2026-11-22T01:02:33.188Z",
+ "updated": "2026-11-22T08:10:34.419Z",
  "sources": {
   "BBC": {
    "ok": true,
-   "n": 8
+   "n": 9
   },
   "Al Jazeera": {
    "ok": true,
-   "n": 15
+   "n": 14
   },
   "The Guardian": {
    "ok": true,
@@ -15,7 +15,7 @@
   },
   "DW": {
    "ok": true,
-   "n": 4
+   "n": 5
   },
   "France 24": {
    "ok": true,
@@ -23,14 +23,235 @@
   },
   "UN News": {
    "ok": true,
-   "n": 3
+   "n": 4
   },
   "NPR": {
    "ok": true,
-   "n": 4
+   "n": 5
   }
  },
  "items": [
+  {
+   "id": "4bd1bf6c7ec7",
+   "t": "Dashcam captures Russian missile strike on Lviv, Ukraine",
+   "ko": "Dashcam이 우크라이나 리비우에 대한 러시아의 미사일 공격을 포착했습니다.",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/video/newsfeed/2026/11/22/dashcam-captures-russian-missile-strike-on-lviv-ukraine?traffic_source=rss",
+   "at": "2026-11-22T07:59:29.000Z",
+   "ev": [
+    "ukraine"
+   ],
+   "cc": [
+    "Russia",
+    "Ukraine"
+   ]
+  },
+  {
+   "id": "ed7511bdf5f5",
+   "t": "Indonesia factory fire kills three, 36 missing",
+   "ko": "인도네시아 공장 화재로 3명 사망, 36명 실종",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/11/22/indonesia-factory-fire-kills-three-36-missing?traffic_source=rss",
+   "at": "2026-11-22T07:46:35.000Z",
+   "ev": [],
+   "cc": [
+    "Indonesia"
+   ]
+  },
+  {
+   "id": "3684e9678abe",
+   "t": "Fire at confectionary factory in Indonesia leaves at least three dead and dozens missing",
+   "ko": "인도네시아 제과공장에서 화재가 발생해 최소 3명이 숨지고 수십 명이 실종됐다.",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/world/2026/nov/22/fire-confectionary-factory-indonesia-jakarta",
+   "at": "2026-11-22T07:11:17.000Z",
+   "ev": [],
+   "cc": [
+    "Indonesia"
+   ]
+  },
+  {
+   "id": "dc42fe34fecd",
+   "t": "The European revolt may be coming to the UK",
+   "ko": "유럽의 반란이 영국으로 올 수도 있다",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/opinions/2026/11/22/the-european-revolt-may-be-coming-to-the-uk?traffic_source=rss",
+   "at": "2026-11-22T06:59:59.000Z",
+   "ev": [],
+   "cc": [
+    "United Kingdom"
+   ]
+  },
+  {
+   "id": "133f726ebd74",
+   "t": "Live: Finland says Ukraine war 'spilling over' after Baltic Sea drone strike on Russian ship",
+   "ko": "라이브: 핀란드는 러시아 선박에 대한 발트해 드론 공격 이후 우크라이나 전쟁이 '전파'됐다고 말했습니다.",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/europe/20261122-live-finland-says-war-spilling-over-after-baltic-sea-drone-strike-on-russian-cargo-ship",
+   "at": "2026-11-22T06:15:38.000Z",
+   "ev": [
+    "ukraine"
+   ],
+   "cc": [
+    "Finland",
+    "Ukraine",
+    "Russia"
+   ]
+  },
+  {
+   "id": "7b2ee0823f3a",
+   "t": "Dozens missing as deadly fire hits Indonesian candy factory",
+   "ko": "인도네시아 사탕공장 화재로 수십명 실종",
+   "src": "DW",
+   "u": "https://www.dw.com/en/dozens-missing-as-deadly-fire-hits-indonesian-candy-factory/a-80012342?maca=en-rss-en-world-4025-rdf",
+   "at": "2026-11-22T06:14:00.000Z",
+   "ev": [],
+   "cc": [
+    "Indonesia"
+   ]
+  },
+  {
+   "id": "87321b68fdef",
+   "t": "Three killed and dozens missing after fire at Indonesian factory",
+   "ko": "인도네시아 공장에서 화재가 발생해 3명이 숨지고 수십 명이 실종됐다.",
+   "src": "BBC",
+   "u": "https://www.bbc.co.uk/news/articles/cw8dvg5pgm0eo?at_medium=RSS&at_campaign=rss",
+   "at": "2026-11-22T06:05:00.000Z",
+   "ev": [],
+   "cc": [
+    "Indonesia"
+   ]
+  },
+  {
+   "id": "a0149a113037",
+   "t": "‘Serious error of judgment’: outrage over military AI event at Berlin arts complex",
+   "ko": "'심각한 판단 오류': 베를린 예술단지에서 열린 군사 AI 행사에 분노",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/world/2026/nov/22/military-ai-event-berlin-kraftwerk-arts-complex",
+   "at": "2026-11-22T06:00:21.000Z",
+   "ev": [],
+   "cc": []
+  },
+  {
+   "id": "5796c184441c",
+   "t": "Displaced Darfur families face volatile winter as Sudan aid cuts bite",
+   "ko": "수단의 지원이 중단되면서 난민 다르푸르 가족들은 불안한 겨울을 맞이하고 있습니다.",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/features/2026/11/22/displaced-from-darfur-sudan-families-face-volatile-winter-as-aid-cuts-loom?traffic_source=rss",
+   "at": "2026-11-22T05:21:46.000Z",
+   "ev": [
+    "sudan",
+    "darfur"
+   ],
+   "cc": [
+    "Sudan"
+   ]
+  },
+  {
+   "id": "dc4db2d33164",
+   "t": "Police say man whose body lay undiscovered in Sydney bushland for 12 days was killed in suspected hit-and-run",
+   "ko": "경찰은 시드니 숲속에서 12일 동안 시신을 발견하지 못한 채 방치된 남성이 뺑소니 혐의로 사망했다고 밝혔습니다.",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/australia-news/2026/nov/22/police-say-man-whose-body-lay-undiscovered-in-sydney-bushland-for-12-days-was-killed-in-suspected-hit-and-run-ntwnfb",
+   "at": "2026-11-22T05:21:01.000Z",
+   "ev": [],
+   "cc": []
+  },
+  {
+   "id": "0335f411a7a3",
+   "t": "Eleven killed in burst of violence during Mexican cartel leader’s capture",
+   "ko": "멕시코 카르텔 지도자 체포 중 폭력사태로 11명 사망",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/11/22/eleven-killed-in-burst-of-violence-during-mexican-cartel-leaders-capture?traffic_source=rss",
+   "at": "2026-11-22T03:34:02.000Z",
+   "ev": [
+    "mexico"
+   ],
+   "cc": [
+    "Mexico"
+   ]
+  },
+  {
+   "id": "199c72515b72",
+   "t": "Bahrain accuses Iran of striking industrial site as tankers hit in Hormuz",
+   "ko": "바레인, 이란이 호르무즈에서 유조선 공격을 받아 산업 시설을 공격했다고 비난",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/middle-east/20261122-bahrain-accuses-iran-of-striking-industrial-site-as-tankers-hit-in-hormuz",
+   "at": "2026-11-22T03:24:14.000Z",
+   "ev": [
+    "iran"
+   ],
+   "cc": [
+    "Bahrain",
+    "Iran",
+    "United States"
+   ]
+  },
+  {
+   "id": "f152d2776513",
+   "t": "Overturned boat carrying mourners to funeral kills at least 24 in Nigeria",
+   "ko": "나이지리아 장례식장에 조문객 태운 보트 전복돼 최소 24명 사망",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/11/22/overturned-boat-carrying-mourners-to-funeral-kills-at-least-four-in-nigeria?traffic_source=rss",
+   "at": "2026-11-22T02:45:36.000Z",
+   "ev": [
+    "nigeria"
+   ],
+   "cc": [
+    "Nigeria"
+   ]
+  },
+  {
+   "id": "325f1a2a1c9a",
+   "t": "Man found dead on Flinders Island believed to have been shot by officer, police say",
+   "ko": "플린더스 섬에서 남성이 숨진 채 발견됐다고 경찰이 밝혔다.",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/australia-news/2026/nov/22/man-found-dead-on-flinders-island-linked-to-shooting-of-police-officer-tasmanian-authorities-say",
+   "at": "2026-11-22T02:44:01.000Z",
+   "ev": [],
+   "cc": []
+  },
+  {
+   "id": "9d9658f0b24e",
+   "t": "Displaced Palestinians protest as Israeli air strikes continue in Gaza",
+   "ko": "가자지구에서 이스라엘의 공습이 계속되자 팔레스타인 난민들이 시위를 벌이고 있다.",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/11/22/displaced-palestinians-protest-as-israeli-air-strikes-continue-in-gaza?traffic_source=rss",
+   "at": "2026-11-22T02:14:18.000Z",
+   "ev": [
+    "gaza"
+   ],
+   "cc": [
+    "Israel",
+    "Palestine"
+   ]
+  },
+  {
+   "id": "50f4fac8f242",
+   "t": "Bessent confirms he’s living on US military base over Iran fears",
+   "ko": "베센트는 이란의 우려 때문에 미군 기지에 살고 있음을 확인했습니다.",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/video/newsfeed/2026/11/22/bessent-confirms-hes-living-on-us-military-base-over-iran-fears?traffic_source=rss",
+   "at": "2026-11-22T02:05:50.000Z",
+   "ev": [
+    "iran"
+   ],
+   "cc": [
+    "United States",
+    "Iran",
+    "Israel"
+   ]
+  },
+  {
+   "id": "a6ca28dfe395",
+   "t": "‘No time for a culture war’: Victoria’s electricity supply is at risk. Can it avoid power shortages and bill shocks?",
+   "ko": "'문화 전쟁을 할 시간이 없습니다': 빅토리아의 전력 공급이 위험에 처해 있습니다. 전력 부족과 요금 충격을 피할 수 있을까요?",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/australia-news/2026/nov/22/victoria-election-2026-what-are-parties-promising-energy-policy",
+   "at": "2026-11-22T01:00:13.000Z",
+   "ev": [],
+   "cc": []
+  },
   {
    "id": "b5553ff19c00",
    "t": "Clashes erupt across France in another night of protest",
@@ -73,16 +294,6 @@
    "cc": [
     "Iran"
    ]
-  },
-  {
-   "id": "325f1a2a1c9a",
-   "t": "Man found dead on Flinders Island linked to shooting of police officer, Tasmanian authorities say",
-   "ko": "플린더스 섬에서 남성이 숨진 채 발견됐다고 태즈매니아 당국이 밝혔다.",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/australia-news/2026/nov/22/man-found-dead-on-flinders-island-linked-to-shooting-of-police-officer-tasmanian-authorities-say",
-   "at": "2026-11-21T22:41:36.000Z",
-   "ev": [],
-   "cc": []
   },
   {
    "id": "728bf14e132e",
@@ -128,8 +339,8 @@
   },
   {
    "id": "634fcadcb179",
-   "t": "Bahrain says Iranian attack causes fire at industrial facility",
-   "ko": "바레인 \"이란 공격으로 산업시설에 화재 발생\"",
+   "t": "Bahrain says Iranian attack causes a fire at an industrial facility",
+   "ko": "바레인 \"이란의 공격으로 산업시설에 화재 발생\"",
    "src": "Al Jazeera",
    "u": "https://www.aljazeera.com/news/2026/11/21/bahrain-says-iranian-attack-causes-fire-at-industrial-facility?traffic_source=rss",
    "at": "2026-11-21T21:31:03.000Z",
@@ -315,6 +526,20 @@
    "ev": [],
    "cc": [
     "United Kingdom"
+   ]
+  },
+  {
+   "id": "efe791339806",
+   "t": "Cartel leader captured in northern Mexico in a bloody firefight that left 11 dead",
+   "ko": "멕시코 북부에서 유혈 총격전을 벌여 11명이 사망한 카르텔 지도자 체포",
+   "src": "NPR",
+   "u": "https://www.npr.org/2026/11/21/nx-s1-6049672/cartel-boss-el-chapo-isidro-detained",
+   "at": "2026-11-21T18:08:55.000Z",
+   "ev": [
+    "mexico"
+   ],
+   "cc": [
+    "Mexico"
    ]
   },
   {
@@ -758,6 +983,20 @@
    ]
   },
   {
+   "id": "af765c390991",
+   "t": "‘We escaped with only our lives’: Fighting to give birth in war-torn Yemen",
+   "ko": "'우리는 목숨만 걸고 탈출했다': 전쟁으로 피폐해진 예멘에서 출산을 위한 투쟁",
+   "src": "UN News",
+   "u": "https://news.un.org/feed/view/en/story/2026/11/1168851",
+   "at": "2026-11-21T12:00:00.000Z",
+   "ev": [
+    "yemen"
+   ],
+   "cc": [
+    "Yemen"
+   ]
+  },
+  {
    "id": "115943d969e4",
    "t": "Mexico captures FBI-wanted cartel boss in military raid",
    "ko": "멕시코, FBI 수배 카르텔 보스 체포",
@@ -1022,20 +1261,6 @@
    "ev": [],
    "cc": [
     "United States"
-   ]
-  },
-  {
-   "id": "fabe8f110b31",
-   "t": "Overturned boat carrying mourners to funeral kills at least four in Nigeria",
-   "ko": "나이지리아에서 장례식에 조문객을 태운 배가 전복돼 최소 4명이 사망했다",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/news/2026/11/20/overturned-boat-carrying-mourners-to-funeral-kills-at-least-four-in-nigeria?traffic_source=rss",
-   "at": "2026-11-20T23:36:36.000Z",
-   "ev": [
-    "nigeria"
-   ],
-   "cc": [
-    "Nigeria"
    ]
   },
   {
@@ -1917,169 +2142,6 @@
    "ev": [],
    "cc": [
     "United Kingdom"
-   ]
-  },
-  {
-   "id": "cdba9fe2d3a2",
-   "t": "Europe's youth set to join mass cost of living protests in 25 countries",
-   "ko": "유럽의 젊은이들이 25개국에서 대규모 생활비 시위에 동참할 예정",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/europe/20261120-europe-s-youth-set-to-join-mass-cost-of-living-protests-in-25-countries",
-   "at": "2026-11-20T07:57:53.000Z",
-   "ev": [],
-   "cc": []
-  },
-  {
-   "id": "79fa21ef1dae",
-   "t": "UK government borrowing rises less than forecast in surprise boost for chancellor John Healey",
-   "ko": "영국 정부 차입은 John Healey 총리의 깜짝 증가로 예상보다 적게 증가했습니다.",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/business/2026/nov/20/uk-government-borrowing-rises-less-than-forecast-in-surprise-boost-for-chancellor-john-healey",
-   "at": "2026-11-20T07:25:31.000Z",
-   "ev": [
-    "iran"
-   ],
-   "cc": [
-    "United Kingdom",
-    "Iran"
-   ]
-  },
-  {
-   "id": "7173a86c9318",
-   "t": "Baby born with heart abnormalities ‘didn’t have a chance’ after non-medical free birth, NSW inquest hears",
-   "ko": "NSW 조사에서 심장 기형을 갖고 태어난 아기는 비의료적 자유 출산 후 '기회가 없었다'",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/australia-news/2026/nov/20/routine-checks-may-have-saved-babies-lives-freebirth-inquest-nsw-ntwnfb",
-   "at": "2026-11-20T06:51:54.000Z",
-   "ev": [],
-   "cc": []
-  },
-  {
-   "id": "723cb6584332",
-   "t": "‘We don’t want our future decided by the military’: Young Germans protest",
-   "ko": "'우리는 우리의 미래가 군대에 의해 결정되는 것을 원하지 않습니다': 독일 젊은이들의 항의",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/news/2026/11/20/we-dont-want-our-future-decided-by-the-military-young-germans-protest?traffic_source=rss",
-   "at": "2026-11-20T06:20:26.000Z",
-   "ev": [],
-   "cc": [
-    "Germany"
-   ]
-  },
-  {
-   "id": "e171d9d7ee10",
-   "t": "Czechs protest en masse against 'concentration of power in one hand' and growing control over media",
-   "ko": "체코인, '한 손에 권력 집중'과 언론 통제 강화에 반대하는 대규모 시위",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/tv-shows/spotlight/20261120-czechs-protest-en-masse-against-concentration-of-power-in-one-hand-and-growing-control-over-media",
-   "at": "2026-11-20T06:02:29.000Z",
-   "ev": [],
-   "cc": [
-    "Czech Republic",
-    "Hungary",
-    "Slovakia"
-   ]
-  },
-  {
-   "id": "3bcfa52a6aed",
-   "t": "Tears of joy, prayers for return home: Rohingya react to genocide ruling",
-   "ko": "기쁨의 눈물, 귀향을 위한 기도: 대량학살 판결에 대한 로힝야족의 반응",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/news/2026/11/20/tears-of-joy-prayers-for-return-home-rohingya-react-to-genocide-ruling?traffic_source=rss",
-   "at": "2026-11-20T05:36:21.000Z",
-   "ev": [
-    "myanmar",
-    "rohingya"
-   ],
-   "cc": [
-    "Myanmar"
-   ]
-  },
-  {
-   "id": "51ca9e41eaaa",
-   "t": "Race to be next UN secretary general exposes divisions among world powers",
-   "ko": "차기 유엔 사무총장 경쟁으로 세계 강대국 간의 분열이 드러났다",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/world/2026/nov/20/race-to-be-next-un-secretary-general-exposes-divisions-among-world-powers",
-   "at": "2026-11-20T05:00:24.000Z",
-   "ev": [],
-   "cc": [
-    "Costa Rica"
-   ]
-  },
-  {
-   "id": "26c67f7aec1e",
-   "t": "Iraq university’s removal of male professors teaching women sparks weeks of protests",
-   "ko": "이라크 대학에서 여성을 가르치는 남성 교수를 해임하자 몇 주간 시위가 촉발됐다.",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/global-development/2026/nov/20/iraqi-university-ban-men-teaching-women-protests",
-   "at": "2026-11-20T05:00:23.000Z",
-   "ev": [
-    "afpak"
-   ],
-   "cc": [
-    "Iraq"
-   ]
-  },
-  {
-   "id": "50425ff6da68",
-   "t": "NextDC vows to keep future datacentres away from homes after community backlash in Melbourne",
-   "ko": "NextDC는 멜버른 지역사회의 반발 이후 미래의 데이터센터를 집에서 멀리 두겠다고 다짐했습니다.",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/australia-news/2026/nov/20/nextdc-vows-to-keep-future-datacentres-away-from-homes-after-community-backlash-in-melbourne",
-   "at": "2026-11-20T04:37:08.000Z",
-   "ev": [],
-   "cc": []
-  },
-  {
-   "id": "540a5b7ca6b4",
-   "t": "Thousands protest Colombia’s tax plans amid row over US military role",
-   "ko": "미군 역할을 둘러싼 갈등 속에서 수천 명이 콜롬비아의 조세 계획에 항의",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/news/2026/11/20/thousands-protest-colombias-tax-plans-amid-row-over-us-military-role?traffic_source=rss",
-   "at": "2026-11-20T03:26:23.000Z",
-   "ev": [
-    "colombia"
-   ],
-   "cc": [
-    "Colombia",
-    "United States"
-   ]
-  },
-  {
-   "id": "b81400d8153e",
-   "t": "Texas botches execution of Reinaldo Dennes as staffers struggle to find vein",
-   "ko": "텍사스는 직원들이 정맥을 찾기 위해 고군분투하면서 레이날도 덴네스의 처형을 실패했습니다.",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/us-news/2026/nov/19/record-executions-florida-texas",
-   "at": "2026-11-20T02:50:29.000Z",
-   "ev": [],
-   "cc": [
-    "United States"
-   ]
-  },
-  {
-   "id": "eff1e8640e4e",
-   "t": "Trump nominee refuses to call Jan 6 an ‘attack’ at Senate hearing",
-   "ko": "트럼프 후보, 상원 청문회서 1월 6일 '공격' 거부",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/video/newsfeed/2026/11/20/trump-nominee-refuses-to-call-jan-6-an-attack-at-senate-hearing?traffic_source=rss",
-   "at": "2026-11-20T02:25:33.000Z",
-   "ev": [],
-   "cc": [
-    "United States"
-   ]
-  },
-  {
-   "id": "bdb9550d2206",
-   "t": "US army warns detonation of unstable explosives will create toxic plume",
-   "ko": "미 육군, 불안정한 폭발물 터뜨리면 유독성 연기 발생 경고",
-   "src": "BBC",
-   "u": "https://www.bbc.co.uk/news/articles/cmlye2334wlyo?at_medium=RSS&at_campaign=rss",
-   "at": "2026-11-20T01:27:27.000Z",
-   "ev": [],
-   "cc": [
-    "United States"
    ]
   }
  ]
