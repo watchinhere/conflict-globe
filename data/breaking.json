@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T08:10:34.419Z",
+ "updated": "2026-11-22T16:26:00.792Z",
  "sources": {
   "BBC": {
    "ok": true,
@@ -11,19 +11,19 @@
   },
   "The Guardian": {
    "ok": true,
-   "n": 19
+   "n": 17
   },
   "DW": {
    "ok": true,
-   "n": 5
+   "n": 4
   },
   "France 24": {
    "ok": true,
-   "n": 14
+   "n": 12
   },
   "UN News": {
    "ok": true,
-   "n": 4
+   "n": 1
   },
   "NPR": {
    "ok": true,
@@ -31,6 +31,430 @@
   }
  },
  "items": [
+  {
+   "id": "2b2400015386",
+   "t": "Explosion on Russian ship at Libya port caused by suspected drone attack, officials say",
+   "ko": "리비아 항구에서 러시아 선박 폭발, 드론 공격 의심돼",
+   "src": "BBC",
+   "u": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss",
+   "at": "2026-11-22T16:05:25.000Z",
+   "ev": [
+    "ukraine"
+   ],
+   "cc": [
+    "Russia",
+    "Libya"
+   ]
+  },
+  {
+   "id": "ddec652e2cd9",
+   "t": "Dozens drown as boat capsizes in Nigeria en route to funeral",
+   "ko": "나이지리아에서 장례식에 가던 보트가 전복되어 수십 명이 익사했습니다.",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/video/newsfeed/2026/11/22/dozens-drown-as-boat-capsizes-in-nigeria-en-route-to-funeral?traffic_source=rss",
+   "at": "2026-11-22T15:24:20.000Z",
+   "ev": [
+    "nigeria"
+   ],
+   "cc": [
+    "Nigeria"
+   ]
+  },
+  {
+   "id": "d4bb76db92bf",
+   "t": "Netanyahu rival condemns settler arson attacks on Palestinian villages in West Bank",
+   "ko": "네타냐후 라이벌, 서안 지구의 팔레스타인 마을에 대한 정착민 방화 공격 비난",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/world/2026/nov/22/netanyahu-rival-condemns-settler-arson-attacks-palestinian-villages-west-bank",
+   "at": "2026-11-22T15:22:38.000Z",
+   "ev": [
+    "westbank"
+   ],
+   "cc": [
+    "Palestine",
+    "Israel"
+   ]
+  },
+  {
+   "id": "250aae444e4b",
+   "t": "Drone attacks kill four near Sudan’s capital, damage UN building",
+   "ko": "수단 수도 근처에서 드론 공격으로 4명 사망, 유엔 건물 손상",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/11/22/rsf-drones-kill-four-in-khartoum?traffic_source=rss",
+   "at": "2026-11-22T15:03:38.000Z",
+   "ev": [
+    "sudan"
+   ],
+   "cc": [
+    "Sudan"
+   ]
+  },
+  {
+   "id": "7864af55e100",
+   "t": "The Drugs Don’t Work",
+   "ko": "마약은 효과가 없습니다",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/video/featured-documentaries/2026/11/22/the-drugs-dont-work?traffic_source=rss",
+   "at": "2026-11-22T14:51:39.000Z",
+   "ev": [],
+   "cc": []
+  },
+  {
+   "id": "7772328af26e",
+   "t": "Zelenskyy urges US to release Patriot missiles as Russia kills 3 in Ukraine",
+   "ko": "젤렌스키, 러시아가 우크라이나에서 3명 사망, 미국에 패트리어트 미사일 출시 촉구",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/11/22/zelenskyy-urges-us-to-release-patriot-missiles?traffic_source=rss",
+   "at": "2026-11-22T14:48:50.000Z",
+   "ev": [
+    "ukraine"
+   ],
+   "cc": [
+    "United States",
+    "Russia",
+    "Ukraine"
+   ]
+  },
+  {
+   "id": "46289997b5a8",
+   "t": "Why Bangladesh descended into violence ahead of Hasina’s planned return",
+   "ko": "하시나의 귀국을 앞두고 방글라데시가 폭력 사태에 빠진 이유",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/11/22/why-bangladesh-descended-into-violence-ahead-of-hasinas-planned-return?traffic_source=rss",
+   "at": "2026-11-22T14:35:55.000Z",
+   "ev": [],
+   "cc": [
+    "Bangladesh",
+    "India"
+   ]
+  },
+  {
+   "id": "756fef08e760",
+   "t": "How El Chapo Isidro, alleged Mexican cartel leader, was captured",
+   "ko": "멕시코 카르텔 지도자로 추정되는 엘 차포 이시드로(El Chapo Isidro)가 어떻게 체포되었는지",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/11/22/how-el-chapo-isidro-alleged-mexican-cartel-leader-was-captured?traffic_source=rss",
+   "at": "2026-11-22T14:33:26.000Z",
+   "ev": [
+    "mexico"
+   ],
+   "cc": [
+    "Mexico"
+   ]
+  },
+  {
+   "id": "7ee527f0037f",
+   "t": "The week in pictures: Xi hosts Trump and Putin, COP31 and new French protests",
+   "ko": "사진으로 보는 한 주: 시, 트럼프와 푸틴, COP31, 새로운 프랑스 시위 개최",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/asia-pacific/20261122-the-week-in-pictures-xi-hosts-trump-and-putin-cop31-and-more-french-protests",
+   "at": "2026-11-22T14:22:56.000Z",
+   "ev": [],
+   "cc": [
+    "France",
+    "China",
+    "United States"
+   ]
+  },
+  {
+   "id": "02b9bd3afcbc",
+   "t": "Iran unveils dual-missile launcher, new ‘missile city’: What to know",
+   "ko": "이란, 새로운 '미사일 도시'인 이중 미사일 발사대 공개: 알아야 할 사항",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/11/22/iran-unveils-dual-missile-launcher-new-missile-city-what-to-know?traffic_source=rss",
+   "at": "2026-11-22T14:20:41.000Z",
+   "ev": [
+    "iran"
+   ],
+   "cc": [
+    "Iran",
+    "United States"
+   ]
+  },
+  {
+   "id": "87321b68fdef",
+   "t": "Three killed and dozens missing after fire at Indonesian factory",
+   "ko": "인도네시아 공장에서 화재가 발생해 3명이 숨지고 수십 명이 실종됐다.",
+   "src": "BBC",
+   "u": "https://www.bbc.co.uk/news/articles/cw8dvg5pgm0eo?at_medium=RSS&at_campaign=rss",
+   "at": "2026-11-22T14:05:20.000Z",
+   "ev": [],
+   "cc": [
+    "Indonesia"
+   ]
+  },
+  {
+   "id": "d86a001024ea",
+   "t": "What next for Iraq’s push against militias following Jurf al-Sakhar deal?",
+   "ko": "Jurf al-Sakhar 거래 이후 이라크가 민병대를 상대로 추진할 다음 단계는 무엇입니까?",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/11/22/what-next-for-iraqs-push-against-militias-following-jurf-al-sakhar-deal?traffic_source=rss",
+   "at": "2026-11-22T14:00:31.000Z",
+   "ev": [
+    "iran",
+    "lebanon"
+   ],
+   "cc": [
+    "Iraq"
+   ]
+  },
+  {
+   "id": "b94f6078b774",
+   "t": "Australia urged to wean off imported fossil fuels amid global supply shocks",
+   "ko": "호주, 글로벌 공급 충격 속에서 화석연료 수입 중단 촉구",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/australia-news/2026/nov/23/australia-urged-to-wean-off-imported-fossil-fuels-amid-global-supply-shocks",
+   "at": "2026-11-22T14:00:29.000Z",
+   "ev": [
+    "iran"
+   ],
+   "cc": [
+    "Australia",
+    "Iran"
+   ]
+  },
+  {
+   "id": "889fd7628c88",
+   "t": "Israel investigates West Bank fires",
+   "ko": "이스라엘, 서안지구 화재 조사",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/israel-investigates-west-bank-fires",
+   "at": "2026-11-22T13:47:04.000Z",
+   "ev": [
+    "gaza",
+    "westbank"
+   ],
+   "cc": [
+    "Israel",
+    "Palestine",
+    "United Kingdom"
+   ]
+  },
+  {
+   "id": "0ce79e9e9d88",
+   "t": "Briton swims length of strait of Hormuz to highlight environmental cost of war",
+   "ko": "영국, 호르무즈 해협을 헤엄쳐 전쟁으로 인한 환경적 비용 강조",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/world/2026/nov/22/briton-lewis-pugh-swims-strait-of-hormuz-environment-war",
+   "at": "2026-11-22T13:36:01.000Z",
+   "ev": [
+    "iran"
+   ],
+   "cc": [
+    "Iran"
+   ]
+  },
+  {
+   "id": "99f0b4beb09e",
+   "t": "NFL’s Jaylen Harrell reportedly assaulted driver before crash that left player seriously injured",
+   "ko": "NFL의 Jaylen Harrell이 충돌 전 운전자를 폭행해 선수가 심각한 부상을 입었다고 합니다.",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/sport/2026/nov/22/titans-jaylen-harrell-reportedly-assaulted-driver-before-crash-that-left-player-seriously-injured",
+   "at": "2026-11-22T13:25:37.000Z",
+   "ev": [],
+   "cc": []
+  },
+  {
+   "id": "768fba82c8c9",
+   "t": "Man who killed three during psychotic episode ‘had been released after catalogue of failures’",
+   "ko": "정신병 사건 중 3명 살해한 남성 '실패 목록 후 풀려났다'",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/uk-news/2026/nov/22/man-who-killed-three-during-psychotic-episode-had-been-released-after-catalogue-of-failures-investigation-finds-alexander-lewis-ranwell",
+   "at": "2026-11-22T13:24:10.000Z",
+   "ev": [],
+   "cc": []
+  },
+  {
+   "id": "3deb0be04b21",
+   "t": "Saudi Arabia intercepts drone, missile as Houthis report attack on Sanaa",
+   "ko": "후티 반군이 사나에 대한 공격을 보고하자 사우디아라비아는 드론과 미사일을 요격했다",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/11/22/houthis-report-attack-on-sanaa-as-saudi-arabia-intercepts-drone?traffic_source=rss",
+   "at": "2026-11-22T13:16:45.000Z",
+   "ev": [
+    "yemen"
+   ],
+   "cc": [
+    "Saudi Arabia"
+   ]
+  },
+  {
+   "id": "fe31e32e43a9",
+   "t": "Children in besieged Gaza struggle to find life-saving insulin for diabetes",
+   "ko": "포위된 가자 지구의 어린이들은 생명을 구하는 당뇨병 인슐린을 찾기 위해 고군분투하고 있습니다.",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/features/2026/11/22/children-in-besieged-gaza-struggle-to-find-life-saving-insulin-for-diabetes?traffic_source=rss",
+   "at": "2026-11-22T13:15:40.000Z",
+   "ev": [
+    "gaza"
+   ],
+   "cc": [
+    "Palestine"
+   ]
+  },
+  {
+   "id": "100db31f6294",
+   "t": "The life, death and improbable rebirth of LA’s most beloved diner",
+   "ko": "LA에서 가장 사랑받는 식당의 삶과 죽음, 그리고 있을 법하지 않은 재탄생",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/us-news/2026/nov/22/original-pantry-cafe-reopening-los-angeles",
+   "at": "2026-11-22T13:00:27.000Z",
+   "ev": [],
+   "cc": []
+  },
+  {
+   "id": "9925099c6774",
+   "t": "UK politics: Burnham should ‘move on’ from Brexit, says Theresa May, as critics hit out over closer EU ties – as it happened",
+   "ko": "영국 정치: 번햄은 브렉시트에서 '앞으로 나아가야' 한다고 테레사 메이는 말했습니다. 비평가들은 EU와의 긴밀한 관계에 대해 비난을 퍼부었습니다.",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/politics/live/2026/nov/22/andy-burnham-brexit-theresa-may-michael-gove-latest-news-updates",
+   "at": "2026-11-22T12:50:11.000Z",
+   "ev": [
+    "ukraine"
+   ],
+   "cc": [
+    "United Kingdom",
+    "United States",
+    "Ukraine"
+   ]
+  },
+  {
+   "id": "ce5ab375d977",
+   "t": "US Congress helped end the Vietnam War. Can it stop the Iran war?",
+   "ko": "미국 의회는 베트남 전쟁을 종식시키는 데 도움을 주었습니다. 이란 전쟁을 멈출 수 있을까?",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/11/22/us-congress-helped-end-the-vietnam-war-can-it-stop-the-iran?traffic_source=rss",
+   "at": "2026-11-22T12:31:30.000Z",
+   "ev": [
+    "iran"
+   ],
+   "cc": [
+    "United States",
+    "Vietnam",
+    "Iran"
+   ]
+  },
+  {
+   "id": "05c5626ea5c4",
+   "t": "Israeli settlers attack several Palestinian villages in occupied West Bank",
+   "ko": "이스라엘 정착민들이 서안지구의 여러 팔레스타인 마을을 공격했습니다.",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/11/22/israeli-settlers-attack-several-palestinian-villages-in-occupied-west-bank?traffic_source=rss",
+   "at": "2026-11-22T12:19:42.000Z",
+   "ev": [
+    "westbank"
+   ],
+   "cc": [
+    "Israel",
+    "Palestine"
+   ]
+  },
+  {
+   "id": "6bb91f54b80c",
+   "t": "Indonesia factory hit by deadly blaze: Three killed and 36 missing",
+   "ko": "인도네시아 공장 화재로 3명 숨지고 36명 실종",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/indonesia-factory-hit-by-deadly-blaze-three-killed-and-36-missing",
+   "at": "2026-11-22T12:11:00.000Z",
+   "ev": [],
+   "cc": [
+    "Indonesia"
+   ]
+  },
+  {
+   "id": "4153672099ea",
+   "t": "What’s behind Iran’s escalation of attacks in the Gulf?",
+   "ko": "이란이 걸프 지역에서 공격을 확대하는 배경은 무엇입니까?",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/11/22/whats-behind-irans-escalation-of-attacks-in-the-gulf?traffic_source=rss",
+   "at": "2026-11-22T11:46:42.000Z",
+   "ev": [
+    "iran"
+   ],
+   "cc": [
+    "Iran",
+    "United States"
+   ]
+  },
+  {
+   "id": "86c4e817690b",
+   "t": "Russia-bound ship still on fire after attack in Gulf of Finland",
+   "ko": "핀란드 만에서 공격을 받은 러시아행 선박은 여전히 ​​불타고 있다",
+   "src": "BBC",
+   "u": "https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&at_campaign=rss",
+   "at": "2026-11-22T11:25:14.000Z",
+   "ev": [
+    "ukraine"
+   ],
+   "cc": [
+    "Finland",
+    "Ukraine"
+   ]
+  },
+  {
+   "id": "bcbdc8155cc6",
+   "t": "Russian ship attacked by drone in Baltic Sea off Finland",
+   "ko": "핀란드 발트해에서 러시아 선박이 드론 공격을 받음",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/video/newsfeed/2026/11/22/russian-ship-attacked-by-drone-in-baltic-sea-off-finland?traffic_source=rss",
+   "at": "2026-11-22T11:15:27.000Z",
+   "ev": [
+    "ukraine"
+   ],
+   "cc": [
+    "Russia",
+    "Finland"
+   ]
+  },
+  {
+   "id": "721e640b9af5",
+   "t": "Former Italian police chief found dead",
+   "ko": "이탈리아 전 경찰서장 숨진 채 발견",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/former-italian-police-chief-found-dead",
+   "at": "2026-11-22T10:25:52.000Z",
+   "ev": [],
+   "cc": [
+    "Italy"
+   ]
+  },
+  {
+   "id": "1dd2c0b6af15",
+   "t": "Europe sees new protests over rising costs, inequality and public services",
+   "ko": "유럽에서는 비용 증가, 불평등, 공공 서비스에 대한 새로운 항의가 발생하고 있습니다.",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/europe-sees-new-protests-over-rising-costs-inequality-and-public-services",
+   "at": "2026-11-22T09:41:29.000Z",
+   "ev": [],
+   "cc": [
+    "Portugal",
+    "France"
+   ]
+  },
+  {
+   "id": "5c9bd3e41c30",
+   "t": "English village votes to \"leave UK\"",
+   "ko": "영국 마을, \"영국 떠나기\" 투표",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/english-village-votes-to-leave-uk",
+   "at": "2026-11-22T09:40:05.000Z",
+   "ev": [],
+   "cc": [
+    "United Kingdom"
+   ]
+  },
+  {
+   "id": "0eff314b5c19",
+   "t": "Indian opposition party’s youth wing warns of more Meta protests after police clashes",
+   "ko": "인도 야당 청년부, 경찰 충돌 후 더 많은 메타 시위 경고",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/world/2026/nov/22/india-congress-meta-protests-police-hyderabad",
+   "at": "2026-11-22T09:14:27.000Z",
+   "ev": [],
+   "cc": [
+    "India"
+   ]
+  },
   {
    "id": "4bd1bf6c7ec7",
    "t": "Dashcam captures Russian missile strike on Lviv, Ukraine",
@@ -60,7 +484,7 @@
   },
   {
    "id": "3684e9678abe",
-   "t": "Fire at confectionary factory in Indonesia leaves at least three dead and dozens missing",
+   "t": "Fire at confectionery factory in Indonesia leaves at least three dead and dozens missing",
    "ko": "인도네시아 제과공장에서 화재가 발생해 최소 3명이 숨지고 수십 명이 실종됐다.",
    "src": "The Guardian",
    "u": "https://www.theguardian.com/world/2026/nov/22/fire-confectionary-factory-indonesia-jakarta",
@@ -84,8 +508,8 @@
   },
   {
    "id": "133f726ebd74",
-   "t": "Live: Finland says Ukraine war 'spilling over' after Baltic Sea drone strike on Russian ship",
-   "ko": "라이브: 핀란드는 러시아 선박에 대한 발트해 드론 공격 이후 우크라이나 전쟁이 '전파'됐다고 말했습니다.",
+   "t": "Live: Ukrainian rescuers search for survivors in rubble after Russian attack",
+   "ko": "라이브: 우크라이나 구조대원, 러시아 공격 후 잔해 속에서 생존자 수색",
    "src": "France 24",
    "u": "https://www.france24.com/en/europe/20261122-live-finland-says-war-spilling-over-after-baltic-sea-drone-strike-on-russian-cargo-ship",
    "at": "2026-11-22T06:15:38.000Z",
@@ -93,9 +517,9 @@
     "ukraine"
    ],
    "cc": [
-    "Finland",
     "Ukraine",
-    "Russia"
+    "Russia",
+    "Finland"
    ]
   },
   {
@@ -105,18 +529,6 @@
    "src": "DW",
    "u": "https://www.dw.com/en/dozens-missing-as-deadly-fire-hits-indonesian-candy-factory/a-80012342?maca=en-rss-en-world-4025-rdf",
    "at": "2026-11-22T06:14:00.000Z",
-   "ev": [],
-   "cc": [
-    "Indonesia"
-   ]
-  },
-  {
-   "id": "87321b68fdef",
-   "t": "Three killed and dozens missing after fire at Indonesian factory",
-   "ko": "인도네시아 공장에서 화재가 발생해 3명이 숨지고 수십 명이 실종됐다.",
-   "src": "BBC",
-   "u": "https://www.bbc.co.uk/news/articles/cw8dvg5pgm0eo?at_medium=RSS&at_campaign=rss",
-   "at": "2026-11-22T06:05:00.000Z",
    "ev": [],
    "cc": [
     "Indonesia"
@@ -394,8 +806,8 @@
   },
   {
    "id": "b0ff52fa3422",
-   "t": "France’s sixth consecutive Saturday of protests draw lower turnout",
-   "ko": "프랑스, 6회 연속 토요일 시위로 투표율 낮아져",
+   "t": "France’s sixth consecutive Saturday of protests draws lower turnout",
+   "ko": "프랑스 6회 연속 토요일 시위, 투표율 낮아져",
    "src": "France 24",
    "u": "https://www.france24.com/en/france/20261121-france-s-sixth-consecutive-saturday-of-protests-draw-lower-turnout",
    "at": "2026-11-21T20:20:37.000Z",
@@ -465,21 +877,6 @@
    "at": "2026-11-21T19:42:42.000Z",
    "ev": [],
    "cc": []
-  },
-  {
-   "id": "86c4e817690b",
-   "t": "Russia-bound ship attacked in Gulf of Finland",
-   "ko": "러시아행 선박이 핀란드 만에서 공격을 받았습니다.",
-   "src": "BBC",
-   "u": "https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&at_campaign=rss",
-   "at": "2026-11-21T19:20:22.000Z",
-   "ev": [
-    "ukraine"
-   ],
-   "cc": [
-    "Finland",
-    "Ukraine"
-   ]
   },
   {
    "id": "cdabda9f591a",
@@ -1707,442 +2104,6 @@
    "at": "2026-11-20T16:45:34.000Z",
    "ev": [],
    "cc": []
-  },
-  {
-   "id": "bea53ace23fa",
-   "t": "Russian missiles and drone hit Poland during attacks on Ukraine",
-   "ko": "러시아 미사일과 드론, 우크라이나 공격 중 폴란드 강타",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/world/2026/nov/20/russian-missiles-drone-poland-attacks-ukraine",
-   "at": "2026-11-20T16:16:01.000Z",
-   "ev": [
-    "ukraine"
-   ],
-   "cc": [
-    "Russia",
-    "Poland",
-    "Ukraine"
-   ]
-  },
-  {
-   "id": "d38fcf1450e8",
-   "t": "Nearly 600 women killed in South Africa within three months",
-   "ko": "남아프리카공화국, 3개월간 여성 600명 사망",
-   "src": "BBC",
-   "u": "https://www.bbc.co.uk/news/articles/c69vwyjp0339o?at_medium=RSS&at_campaign=rss",
-   "at": "2026-11-20T15:55:16.000Z",
-   "ev": [],
-   "cc": [
-    "South Africa"
-   ]
-  },
-  {
-   "id": "4469d7ccaf22",
-   "t": "One third of attacks on children worldwide recorded in Palestine",
-   "ko": "전 세계 어린이 대상 공격의 3분의 1이 팔레스타인에서 기록",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/video/newsfeed/2026/11/20/one-third-of-attacks-on-children-worldwide-recorded-in-palestine?traffic_source=rss",
-   "at": "2026-11-20T15:50:28.000Z",
-   "ev": [],
-   "cc": [
-    "Palestine"
-   ]
-  },
-  {
-   "id": "f8451dcf8e90",
-   "t": "Jerusalem Daily: Palestinians return home to ruins",
-   "ko": "예루살렘 데일리: 팔레스타인인들이 폐허가 된 고향으로 돌아갑니다.",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/video/newsfeed/2026/11/20/jerusalem-daily-palestinians-return-home-to-ruins?traffic_source=rss",
-   "at": "2026-11-20T15:42:04.000Z",
-   "ev": [
-    "gaza"
-   ],
-   "cc": [
-    "Israel",
-    "Palestine"
-   ]
-  },
-  {
-   "id": "9b0078fc5018",
-   "t": "Gen Z protests spread across Europe: Mass rallies over cost of living in Spain",
-   "ko": "유럽 ​​전역으로 확산된 Z세대 시위: 스페인의 생활비에 대한 대규모 집회",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/video/20261120-gen-z-protests-spread-across-europe-mass-rallies-over-cost-of-living-in-spain",
-   "at": "2026-11-20T15:41:34.000Z",
-   "ev": [],
-   "cc": [
-    "Spain"
-   ]
-  },
-  {
-   "id": "0a9843ba32b0",
-   "t": "US army postpones plan to detonate bomb-making chemical amid outcry",
-   "ko": "미군, 항의 속에 폭탄 제조 화학물질 폭발 계획 연기",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/us-news/2026/nov/19/iowa-lead-bomb-dust",
-   "at": "2026-11-20T15:39:48.000Z",
-   "ev": [],
-   "cc": [
-    "United States"
-   ]
-  },
-  {
-   "id": "804f7cffd0cc",
-   "t": "Poland condemns Russian ‘provocation’ after airspace violations",
-   "ko": "폴란드, 영공침범 러시아 '도발' 규탄",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/news/2026/11/20/poland-condemns-russian-provocation-after-airspace-violations?traffic_source=rss",
-   "at": "2026-11-20T15:18:26.000Z",
-   "ev": [
-    "ukraine"
-   ],
-   "cc": [
-    "Poland",
-    "Russia",
-    "Ukraine"
-   ]
-  },
-  {
-   "id": "da9d0908c1c1",
-   "t": "Young people across Europe stage coordinated ‘fight for our future’ protests",
-   "ko": "유럽 ​​전역의 젊은이들이 '우리의 미래를 위한 투쟁' 시위를 조직했습니다.",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/world/2026/nov/20/young-people-europe-coordinated-protests-cost-of-living",
-   "at": "2026-11-20T15:15:28.000Z",
-   "ev": [],
-   "cc": [
-    "Belgium",
-    "France",
-    "Germany"
-   ]
-  },
-  {
-   "id": "3fcc04ba00f0",
-   "t": "What we know about the latest Russian missile strikes on Ukraine",
-   "ko": "최근 러시아의 우크라이나 미사일 공격에 대해 우리가 알고 있는 것",
-   "src": "BBC",
-   "u": "https://www.bbc.co.uk/news/videos/c65y19wy3xl8o?at_medium=RSS&at_campaign=rss",
-   "at": "2026-11-20T15:14:01.000Z",
-   "ev": [
-    "ukraine"
-   ],
-   "cc": [
-    "Russia",
-    "Ukraine"
-   ]
-  },
-  {
-   "id": "473e99b0daaf",
-   "t": "Saudi coalition and Houthis exchange threats to bomb key ports",
-   "ko": "사우디 연합과 후티 반군, 주요 항구 폭격 위협",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/news/2026/11/20/saudi-coalition-and-houthis-exchange-threats-to-bomb-key-ports?traffic_source=rss",
-   "at": "2026-11-20T14:48:04.000Z",
-   "ev": [
-    "yemen"
-   ],
-   "cc": [
-    "Saudi Arabia",
-    "Yemen"
-   ]
-  },
-  {
-   "id": "5cb09b8a8cc2",
-   "t": "Russia pummels Ukraine with massive strikes, missile hits Poland",
-   "ko": "러시아, 대규모 공습으로 우크라이나 강타, 미사일 폴란드 강타",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/video/20261120-russia-pummels-ukraine-with-massive-strikes-missile-hits-poland",
-   "at": "2026-11-20T14:36:48.000Z",
-   "ev": [
-    "ukraine"
-   ],
-   "cc": [
-    "Russia",
-    "Ukraine",
-    "Poland"
-   ]
-  },
-  {
-   "id": "3c68554c4f15",
-   "t": "Outages in US cause worry, despite official attempts to downplay concerns",
-   "ko": "우려를 경시하려는 공식적인 시도에도 불구하고 미국의 정전으로 인해 우려가 제기됨",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/news/2026/11/20/outages-in-us-cause-worry-despite-official-attempts-to-downplay-concerns?traffic_source=rss",
-   "at": "2026-11-20T14:34:04.000Z",
-   "ev": [],
-   "cc": [
-    "United States"
-   ]
-  },
-  {
-   "id": "7c408c6ff522",
-   "t": "EU and UK strike 'landmark deal' to strengthen ties after Brexit",
-   "ko": "EU와 영국, 브렉시트 이후 관계 강화를 위한 '획기적 계약' 체결",
-   "src": "DW",
-   "u": "https://www.dw.com/en/eu-and-uk-strike-landmark-deal-to-strengthen-ties-after-brexit/a-80001076?maca=en-rss-en-world-4025-rdf",
-   "at": "2026-11-20T14:30:00.000Z",
-   "ev": [],
-   "cc": [
-    "United Kingdom"
-   ]
-  },
-  {
-   "id": "8c667b262066",
-   "t": "Xi’s greatest power is what he chooses not to do",
-   "ko": "시의 가장 큰 힘은 그가 하지 않기로 선택한 일이다",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/opinions/2026/11/20/xis-greatest-power-is-what-he-chooses-not-to-do?traffic_source=rss",
-   "at": "2026-11-20T14:03:08.000Z",
-   "ev": [],
-   "cc": [
-    "China"
-   ]
-  },
-  {
-   "id": "a22e8fed9bbc",
-   "t": "Trump, Putin, Xi pledge to increase global petrol supplies – but how?",
-   "ko": "트럼프, 푸틴, 시은 전 세계 석유 공급을 늘리겠다고 약속합니다. 하지만 어떻게 그럴까요?",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/news/2026/11/20/trump-putin-xi-pledge-to-increase-global-petrol-supplies-but-how?traffic_source=rss",
-   "at": "2026-11-20T13:42:56.000Z",
-   "ev": [
-    "ukraine",
-    "iran"
-   ],
-   "cc": [
-    "Ukraine",
-    "Iran"
-   ]
-  },
-  {
-   "id": "f19fb6e0753b",
-   "t": "Myanmar, China object to landmark ICJ ruling on Rohingya genocide",
-   "ko": "미얀마와 중국, 로힝야족 학살에 대한 ICJ 판결에 반대",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/news/2026/11/20/myanmar-china-object-to-unfair-icj-genocide-ruling?traffic_source=rss",
-   "at": "2026-11-20T13:41:49.000Z",
-   "ev": [
-    "myanmar",
-    "rohingya"
-   ],
-   "cc": [
-    "Myanmar",
-    "China"
-   ]
-  },
-  {
-   "id": "83035937eb8b",
-   "t": "Myanmar genocide ruling: Rohingya say struggle for justice not over",
-   "ko": "미얀마 대량 학살 판결: 로힝야족, 정의를 위한 투쟁은 끝나지 않았다고 말함",
-   "src": "DW",
-   "u": "https://www.dw.com/en/myanmar-genocide-ruling-rohingya-say-struggle-for-justice-not-over/a-80003365?maca=en-rss-en-world-4025-rdf",
-   "at": "2026-11-20T13:38:00.000Z",
-   "ev": [
-    "myanmar",
-    "rohingya"
-   ],
-   "cc": [
-    "Myanmar"
-   ]
-  },
-  {
-   "id": "998249621b48",
-   "t": "Poland hit by at least one Russian missile, says Polish govt",
-   "ko": "폴란드 정부 \"러시아 미사일 최소 1발 피격됐다\"",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/video/newsfeed/2026/11/20/poland-hit-by-at-least-one-russian-missile-says-polish-govt?traffic_source=rss",
-   "at": "2026-11-20T13:23:53.000Z",
-   "ev": [
-    "ukraine"
-   ],
-   "cc": [
-    "Poland",
-    "Russia"
-   ]
-  },
-  {
-   "id": "f451b9b779d9",
-   "t": "Russia targets Kyiv crossings days after Ukraine hits Crimean Bridge",
-   "ko": "러시아는 우크라이나가 크림대교를 공격한 지 며칠 만에 키예프 횡단을 목표로 삼았습니다.",
-   "src": "BBC",
-   "u": "https://www.bbc.co.uk/news/articles/c6x29gn4pdn9o?at_medium=RSS&at_campaign=rss",
-   "at": "2026-11-20T13:01:16.000Z",
-   "ev": [
-    "ukraine"
-   ],
-   "cc": [
-    "Russia",
-    "Ukraine"
-   ]
-  },
-  {
-   "id": "9a22b78ceb6b",
-   "t": "Texas death-row inmate screams as execution takes more than one hour",
-   "ko": "텍사스 사형수, 사형 집행 1시간 넘게 걸려 비명 지르다",
-   "src": "BBC",
-   "u": "https://www.bbc.co.uk/news/articles/ck20vl1dd8qzo?at_medium=RSS&at_campaign=rss",
-   "at": "2026-11-20T12:42:37.000Z",
-   "ev": [],
-   "cc": [
-    "United States"
-   ]
-  },
-  {
-   "id": "5cb554bbfef4",
-   "t": "El Salvador: Nayib Bukele, self-proclaimed “coolest dictator on earth”, is seeking a third term",
-   "ko": "엘살바도르: 자칭 “지구상에서 가장 멋진 독재자”인 나이브 부켈레가 세 번째 임기를 노리고 있습니다.",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/el-salvador-nayib-bukele-self-proclaimed-coolest-dictator-on-earth-is-seeking-a-third-term",
-   "at": "2026-11-20T12:07:14.000Z",
-   "ev": [],
-   "cc": [
-    "El Salvador"
-   ]
-  },
-  {
-   "id": "b838cca1a5c3",
-   "t": "Dems aim to block Iran war funding. And, Army delays lead azide detonation in Iowa",
-   "ko": "민주당은 이란의 전쟁 자금을 차단하는 것을 목표로 하고 있습니다. 그리고 육군은 아이오와주에서 납 아자이드 폭발을 지연시켰습니다",
-   "src": "NPR",
-   "u": "https://www.npr.org/2026/11/20/g-s1-154582/up-first-newsletter-democrats-iran-war-trump-xi-jinping-iowa-army",
-   "at": "2026-11-20T12:04:57.000Z",
-   "ev": [
-    "iran"
-   ],
-   "cc": [
-    "Iran"
-   ]
-  },
-  {
-   "id": "968b51712184",
-   "t": "🔴 France seeks UN Security Council meeting after Russian strikes hit European embassies in Kyiv",
-   "ko": "🔴 프랑스는 러시아의 공습으로 키예프 주재 유럽 대사관이 공격을 받은 후 유엔 안전보장이사회 회의를 소집했습니다.",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/europe/20261120-live-deadly-russian-attacks-damage-two-bridges-in-kyiv-mayor-says",
-   "at": "2026-11-20T12:04:16.000Z",
-   "ev": [
-    "ukraine"
-   ],
-   "cc": [
-    "France",
-    "Russia"
-   ]
-  },
-  {
-   "id": "6a53385fc1ba",
-   "t": "Shattered playgrounds and freezing classrooms: Inside Ukraine’s deadliest year for children",
-   "ko": "부서진 놀이터와 얼어붙은 교실: 우크라이나에서 어린이들에게 가장 치명적인 해",
-   "src": "UN News",
-   "u": "https://news.un.org/feed/view/en/story/2026/11/1168847",
-   "at": "2026-11-20T12:00:00.000Z",
-   "ev": [
-    "ukraine"
-   ],
-   "cc": [
-    "Ukraine"
-   ]
-  },
-  {
-   "id": "9b9ee78ddf96",
-   "t": "‘You will not be alone’: General Assembly President tells Rohingya refugees after genocide ruling",
-   "ko": "'당신은 혼자가 아닐 것입니다': 대량학살 판결 후 로힝야 난민에게 총회 의장이 말했다",
-   "src": "UN News",
-   "u": "https://news.un.org/feed/view/en/story/2026/11/1168853",
-   "at": "2026-11-20T12:00:00.000Z",
-   "ev": [
-    "myanmar",
-    "rohingya"
-   ],
-   "cc": [
-    "Myanmar",
-    "Bangladesh"
-   ]
-  },
-  {
-   "id": "c8aa98c984c0",
-   "t": "West Bank: Record settler attacks mar olive harvest as UN urges Israel to protect farmers",
-   "ko": "서안 지구: UN이 이스라엘에 농부들을 보호하라고 촉구하자 기록적인 정착민들이 올리브 수확을 방해했습니다.",
-   "src": "UN News",
-   "u": "https://news.un.org/feed/view/en/story/2026/11/1168849",
-   "at": "2026-11-20T12:00:00.000Z",
-   "ev": [
-    "westbank"
-   ],
-   "cc": [
-    "Palestine",
-    "Israel"
-   ]
-  },
-  {
-   "id": "1deeaf75e425",
-   "t": "US reacts cautiously to Myanmar genocide ruling as EU praises ‘critical’ role of UN’s top court",
-   "ko": "EU가 유엔 최고 법원의 '중요한' 역할을 칭찬함에 따라 미국은 미얀마 대량 학살 판결에 조심스럽게 반응합니다.",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/law/2026/nov/20/us-eu-reaction-myanmar-rohingya-genocide-icj-ruling-trump-international-law",
-   "at": "2026-11-20T11:57:43.000Z",
-   "ev": [
-    "myanmar",
-    "rohingya"
-   ],
-   "cc": [
-    "United States",
-    "Myanmar",
-    "China"
-   ]
-  },
-  {
-   "id": "74a7d26ec2b9",
-   "t": "GOP Sen. Johnson rejects tying government funding to an end to the Iran war",
-   "ko": "공화당 존슨 상원의원은 이란 전쟁을 종식시키기 위해 정부 자금을 묶는 것을 거부했습니다.",
-   "src": "NPR",
-   "u": "https://www.npr.org/2026/11/20/nx-s1-6047473/iran-war-funding-congress",
-   "at": "2026-11-20T11:37:35.000Z",
-   "ev": [
-    "iran"
-   ],
-   "cc": [
-    "Iran"
-   ]
-  },
-  {
-   "id": "b5e83f8af299",
-   "t": "‘Weak and dizzy’: the secretive ICE force-feeding tactics that ended a Cuban father’s hunger strike",
-   "ko": "'약하고 어지러움': 쿠바 아버지의 단식투쟁을 종식시킨 ICE의 비밀 강제급식 전술",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/us-news/2026/nov/20/ice-cuba-hunger-strike-force-feeding",
-   "at": "2026-11-20T11:00:31.000Z",
-   "ev": [],
-   "cc": [
-    "United States"
-   ]
-  },
-  {
-   "id": "ef7cb115dc01",
-   "t": "Iraqi security forces deploy in Hezbollah stronghold under compromise deal",
-   "ko": "이라크 보안군, 타협 협상에 따라 헤즈볼라 거점에 배치",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/middle-east/20261120-iraqi-security-forces-to-deploy-in-hezbollah-stronghold-under-compromise-deal",
-   "at": "2026-11-20T08:37:27.000Z",
-   "ev": [
-    "iran",
-    "lebanon"
-   ],
-   "cc": [
-    "Iraq"
-   ]
-  },
-  {
-   "id": "c8ab7ff78dd0",
-   "t": "Household rush to stockpile emergency supplies sends British retail sales soaring",
-   "ko": "비상용품 비축에 돌입한 영국 소매판매 급증",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/world/2026/nov/20/rush-stockpile-emergency-supplies-sends-british-retail-sales-soaring",
-   "at": "2026-11-20T08:36:13.000Z",
-   "ev": [],
-   "cc": [
-    "United Kingdom"
-   ]
   }
  ]
 }
