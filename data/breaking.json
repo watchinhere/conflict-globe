@@ -1,29 +1,29 @@
 {
- "updated": "2026-11-23T02:54:35.187Z",
+ "updated": "2026-11-23T11:59:46.970Z",
  "sources": {
   "BBC": {
    "ok": true,
-   "n": 10
+   "n": 8
   },
   "Al Jazeera": {
    "ok": true,
-   "n": 5
+   "n": 11
   },
   "The Guardian": {
    "ok": true,
-   "n": 14
+   "n": 16
   },
   "DW": {
    "ok": true,
-   "n": 4
+   "n": 5
   },
   "France 24": {
    "ok": true,
-   "n": 14
+   "n": 13
   },
   "UN News": {
    "ok": true,
-   "n": 1
+   "n": 2
   },
   "NPR": {
    "ok": true,
@@ -31,6 +31,465 @@
   }
  },
  "items": [
+  {
+   "id": "786ea1605621",
+   "t": "Libya: UN mission urges probe into Benghazi port attacks",
+   "ko": "리비아: 유엔 사절단, 벵가지 항구 공격 조사 촉구",
+   "src": "UN News",
+   "u": "https://news.un.org/feed/view/en/story/2026/11/1168857",
+   "at": "2026-11-23T12:00:00.000Z",
+   "ev": [],
+   "cc": [
+    "Libya"
+   ]
+  },
+  {
+   "id": "4d75135fe665",
+   "t": "Next issues cyber-attack warning after ‘benign’ data accessed by hackers",
+   "ko": "다음은 해커가 '양성' 데이터에 접근한 후 사이버 공격 경고 발행",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/business/2026/nov/23/next-issues-cyber-attack-warning-after-benign-data-accessed-by-hackers",
+   "at": "2026-11-23T11:53:45.000Z",
+   "ev": [],
+   "cc": []
+  },
+  {
+   "id": "b345e55a31dc",
+   "t": "‘Fighting for love’: Thousands turn out for Rio Pride parade",
+   "ko": "'사랑을 위한 싸움': 리우 프라이드 퍼레이드에 수천 명이 모였습니다",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/video/20261123-fighting-for-love-thousands-turn-out-for-rio-pride-parade",
+   "at": "2026-11-23T11:49:42.000Z",
+   "ev": [],
+   "cc": [
+    "Brazil"
+   ]
+  },
+  {
+   "id": "b4b9b0849151",
+   "t": "Thousands protest Turkey media crackdown in Istanbul",
+   "ko": "이스탄불에서 터키 언론 탄압에 수천 명이 항의",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/video/20261123-thousands-protest-turkey-media-crackdown-in-istanbul",
+   "at": "2026-11-23T11:48:48.000Z",
+   "ev": [],
+   "cc": [
+    "Turkey"
+   ]
+  },
+  {
+   "id": "36e9ed363184",
+   "t": "Ukraine confirms it used naval drones to strike two Russian ships off Libya",
+   "ko": "우크라이나, 리비아 앞바다에서 러시아 선박 2척 공격에 해군 드론 사용 확인",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/world/2026/nov/23/ukraine-naval-drones-strike-russian-warship-libya",
+   "at": "2026-11-23T11:42:51.000Z",
+   "ev": [
+    "ukraine"
+   ],
+   "cc": [
+    "Ukraine",
+    "Russia",
+    "Libya"
+   ]
+  },
+  {
+   "id": "77ece0992320",
+   "t": "Albania denies Ukrainian drones that sank Russian ships were launched from its territory – Europe live",
+   "ko": "알바니아는 러시아 선박을 침몰시킨 우크라이나 드론이 자국 영토에서 발사됐다는 사실을 부인했습니다.",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/world/live/2026/nov/23/russia-ukraine-war-zelenskyy-libya-benghazi-drone-attack-ship-merkury-un-nato-europe-latest-news-updates",
+   "at": "2026-11-23T11:29:42.000Z",
+   "ev": [
+    "ukraine"
+   ],
+   "cc": [
+    "Albania",
+    "Ukraine",
+    "Russia"
+   ]
+  },
+  {
+   "id": "8086b43b969c",
+   "t": "First Thing: Cop31 talks collapse without deal in blow to planet’s future climate",
+   "ko": "첫 번째 사항: Cop31 회담은 지구의 미래 기후에 타격을 주지 않고 무산됩니다.",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/us-news/2026/nov/23/first-thing-cop31-talks-collapse-no-deal-future-global-climate",
+   "at": "2026-11-23T11:26:45.000Z",
+   "ev": [
+    "ukraine"
+   ],
+   "cc": [
+    "Turkey",
+    "Ireland",
+    "Saudi Arabia"
+   ]
+  },
+  {
+   "id": "1baaa97b8aff",
+   "t": "Flights grounded in Belgium due to strike against austerity measures",
+   "ko": "긴축 조치에 반대하는 파업으로 인해 벨기에에서 항공편이 결항되었습니다",
+   "src": "BBC",
+   "u": "https://www.bbc.co.uk/news/articles/cwdr155e2d05o?at_medium=RSS&at_campaign=rss",
+   "at": "2026-11-23T11:26:12.000Z",
+   "ev": [
+    "belgium"
+   ],
+   "cc": [
+    "Belgium"
+   ]
+  },
+  {
+   "id": "dfa4db2f66ca",
+   "t": "Democrats reveal details for 2028 presidential primary following midterm victories – US politics live",
+   "ko": "민주당, 중간 승리 후 2028년 대선 예비선거 세부 사항 공개 – 미국 정치 생방송",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/us-news/live/2026/nov/23/donald-trump-democrats-republicans-presidential-primary-midterms-house-latest-news-updates",
+   "at": "2026-11-23T11:25:42.000Z",
+   "ev": [
+    "mexico"
+   ],
+   "cc": [
+    "United States",
+    "Mexico",
+    "China"
+   ]
+  },
+  {
+   "id": "49a7e4be6186",
+   "t": "Ukraine claims drone strikes on Russian ships off Libya: What do we know?",
+   "ko": "우크라이나는 리비아 앞바다에서 러시아 선박에 대한 드론 공격을 주장합니다. 우리는 무엇을 알고 있습니까?",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/11/23/russian-ships-hit-by-drones-off-libya-coast-what-do-we-know?traffic_source=rss",
+   "at": "2026-11-23T11:10:12.000Z",
+   "ev": [
+    "ukraine"
+   ],
+   "cc": [
+    "Ukraine",
+    "Russia",
+    "Libya"
+   ]
+  },
+  {
+   "id": "65d536118f11",
+   "t": "German police respond to multiple school bomb threats",
+   "ko": "여러 학교 폭탄 위협에 독일 경찰 대응",
+   "src": "DW",
+   "u": "https://www.dw.com/en/german-police-respond-to-multiple-school-bomb-threats/a-80018842?maca=en-rss-en-world-4025-rdf",
+   "at": "2026-11-23T11:01:00.000Z",
+   "ev": [],
+   "cc": [
+    "Germany"
+   ]
+  },
+  {
+   "id": "1531879d0a0a",
+   "t": "Lebanese families return to ruins after Israeli attacks in south",
+   "ko": "이스라엘의 남부 공격으로 레바논 가족들은 폐허로 돌아갔다",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/video/newsfeed/2026/11/23/lebanese-families-return-to-ruins-after-israeli-attacks-in-south?traffic_source=rss",
+   "at": "2026-11-23T10:57:20.000Z",
+   "ev": [
+    "lebanon"
+   ],
+   "cc": [
+    "Lebanon",
+    "Israel"
+   ]
+  },
+  {
+   "id": "3b3c05b33c42",
+   "t": "Ukrainian drones sink Russian warship at naval base in Libya",
+   "ko": "우크라이나 드론, 리비아 해군기지에서 러시아 군함 격침",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/video/20261123-ukrainian-drones-sink-russian-warship-at-naval-base-in-libya",
+   "at": "2026-11-23T10:53:00.000Z",
+   "ev": [
+    "ukraine"
+   ],
+   "cc": [
+    "Ukraine",
+    "Russia",
+    "Libya"
+   ]
+  },
+  {
+   "id": "c631048a44eb",
+   "t": "Why is Bangladesh’s Grameen Bank under attack?",
+   "ko": "방글라데시의 그라민 은행이 공격을 받는 이유는 무엇입니까?",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/11/23/why-is-bangladeshs-grameen-bank-under-attack?traffic_source=rss",
+   "at": "2026-11-23T10:22:34.000Z",
+   "ev": [],
+   "cc": [
+    "Bangladesh"
+   ]
+  },
+  {
+   "id": "464e67cf4a18",
+   "t": "Occupied West Bank ‘military zones’ become de facto Israeli settler land",
+   "ko": "점령된 서안 지구 '군사 구역'이 사실상 이스라엘 정착민 땅이 됨",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/features/2026/11/23/military-zones-in-occupied-west-bank-become-israeli-settler-outpost-lands?traffic_source=rss",
+   "at": "2026-11-23T10:20:58.000Z",
+   "ev": [
+    "westbank"
+   ],
+   "cc": [
+    "Palestine",
+    "Israel"
+   ]
+  },
+  {
+   "id": "7b6d03db5961",
+   "t": "Ukraine-Russia peace talks: Row over who will represent the EU",
+   "ko": "우크라이나-러시아 평화 회담: 누가 EU를 대표할 것인지에 대한 논쟁",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/video/20261123-ukraine-russia-peace-talks-row-over-who-will-represent-the-eu",
+   "at": "2026-11-23T10:20:05.000Z",
+   "ev": [
+    "ukraine"
+   ],
+   "cc": [
+    "Russia",
+    "Ukraine",
+    "United States"
+   ]
+  },
+  {
+   "id": "a133c870a360",
+   "t": "Ukrainian drones hit a Russian warship at a naval base in Libya, Zelenskyy says",
+   "ko": "젤렌스키는 우크라이나 드론이 리비아 해군 기지에서 러시아 군함을 공격했다고 밝혔습니다.",
+   "src": "NPR",
+   "u": "https://www.npr.org/2026/11/23/g-s1-155017/ukraine-attack-russian-warship-libya",
+   "at": "2026-11-23T10:16:33.000Z",
+   "ev": [
+    "ukraine"
+   ],
+   "cc": [
+    "Ukraine",
+    "Russia",
+    "Libya"
+   ]
+  },
+  {
+   "id": "747087f660c3",
+   "t": "Odesa pupils switch to remote learning as Russia pounds Ukraine’s energy grid",
+   "ko": "러시아가 우크라이나의 에너지 그리드를 강화함에 따라 Odesa 학생들은 원격 학습으로 전환합니다.",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/video/20261123-odesa-pupils-switch-to-remote-learning-as-russia-pounds-ukraine-s-energy-grid",
+   "at": "2026-11-23T09:51:02.000Z",
+   "ev": [
+    "ukraine"
+   ],
+   "cc": [
+    "Russia",
+    "Ukraine"
+   ]
+  },
+  {
+   "id": "778ee59df916",
+   "t": "Zelensky says Ukraine sank Russian warship off Libya",
+   "ko": "젤렌스키는 우크라이나가 리비아에서 러시아 군함을 침몰시켰다고 말했습니다.",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/video/20261123-zelensky-says-ukraine-sank-russian-warship-off-libya",
+   "at": "2026-11-23T09:44:44.000Z",
+   "ev": [
+    "ukraine"
+   ],
+   "cc": [
+    "Ukraine",
+    "Russia",
+    "Libya"
+   ]
+  },
+  {
+   "id": "26c5f99c7077",
+   "t": "At least 15 killed in Ukraine’s Kyiv region as Russia intensifies attacks",
+   "ko": "러시아의 공습 강화로 우크라이나 키예프 지역에서 최소 15명이 사망했다.",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/11/23/death-toll-rises-after-deadly-russian-attacks-on-ukraine?traffic_source=rss",
+   "at": "2026-11-23T09:34:25.000Z",
+   "ev": [
+    "ukraine"
+   ],
+   "cc": [
+    "Ukraine",
+    "Russia"
+   ]
+  },
+  {
+   "id": "b8202d4bc038",
+   "t": "Gaza turned into ‘toxic wasteland’ by Israel’s war, says new report",
+   "ko": "가자지구는 이스라엘 전쟁으로 '독성 황무지'로 변했다고 새로운 보고서가 밝혔습니다.",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/video/newsfeed/2026/11/23/gaza-turned-into-toxic-wasteland-by-israels-war-says-new-report?traffic_source=rss",
+   "at": "2026-11-23T09:33:59.000Z",
+   "ev": [
+    "gaza"
+   ],
+   "cc": [
+    "Palestine",
+    "Israel"
+   ]
+  },
+  {
+   "id": "cf050c0107f5",
+   "t": "Zelenskyy says Ukraine behind attacks on Russian ships near Libya",
+   "ko": "젤렌스키는 리비아 근처에서 러시아 선박에 대한 공격이 우크라이나의 배후라고 밝혔습니다.",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/video/newsfeed/2026/11/23/zelenskyy-says-ukraine-behind-attacks-on-russian-ships-near-libya?traffic_source=rss",
+   "at": "2026-11-23T09:33:46.000Z",
+   "ev": [
+    "ukraine"
+   ],
+   "cc": [
+    "Ukraine",
+    "Russia",
+    "Libya"
+   ]
+  },
+  {
+   "id": "7023c3c17e05",
+   "t": "Widowed amid war and displacement: Sudanese mothers struggle to survive",
+   "ko": "전쟁과 난민으로 인한 사별: 생존을 위해 고군분투하는 수단 어머니들",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/features/2026/11/23/widowed-amid-war-and-displacement-sudanese-mothers-struggle-to-survive?traffic_source=rss",
+   "at": "2026-11-23T08:53:10.000Z",
+   "ev": [
+    "sudan"
+   ],
+   "cc": [
+    "Sudan"
+   ]
+  },
+  {
+   "id": "e7e69ac7ea24",
+   "t": "Constitutional law expert brands defence bill allowing secret security rules ‘lazy and irresponsible’",
+   "ko": "헌법 전문가들이 비밀 보안 규정을 허용하는 국방 법안을 '게으르고 무책임하다'라고 낙인찍는다",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/australia-news/2026/nov/23/constitutional-law-expert-brands-defence-bill-allowing-secret-security-rules-lazy-and-irresponsible",
+   "at": "2026-11-23T08:23:55.000Z",
+   "ev": [],
+   "cc": [
+    "Australia"
+   ]
+  },
+  {
+   "id": "dc91b54022f8",
+   "t": "Europe’s hot autumn of protests is a symptom of economic breakdown",
+   "ko": "유럽의 뜨거운 가을 시위는 경제 붕괴의 증상이다",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/opinions/2026/11/23/europes-hot-autumn-of-protests-is-a-symptom-of-economic-breakdown-2?traffic_source=rss",
+   "at": "2026-11-23T08:08:00.000Z",
+   "ev": [],
+   "cc": []
+  },
+  {
+   "id": "20e9d0df2d48",
+   "t": "Zelenskyy says Ukraine was behind drone attacks on Russian ships off Libya",
+   "ko": "젤렌스키 \"리비아 앞바다에서 러시아 선박에 대한 드론 공격 배후에 우크라이나 있다\"",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/11/23/zelenskyy-says-ukraine-behind-drone-attacks-on-russian-ships-near-libya?traffic_source=rss",
+   "at": "2026-11-23T07:37:09.000Z",
+   "ev": [
+    "ukraine"
+   ],
+   "cc": [
+    "Ukraine",
+    "Russia",
+    "Libya"
+   ]
+  },
+  {
+   "id": "af75c65b1493",
+   "t": "Monday briefing: What could Andy Burnham’s reset mean for the UK?",
+   "ko": "월요일 브리핑: Andy Burnham의 재설정이 영국에 어떤 의미가 있을까요?",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/world/2026/nov/23/monday-briefing-what-could-andy-burnhams-reset-mean-for-the-uk",
+   "at": "2026-11-23T06:46:49.000Z",
+   "ev": [
+    "ukraine",
+    "westbank"
+   ],
+   "cc": [
+    "United Kingdom",
+    "Turkey",
+    "Russia"
+   ]
+  },
+  {
+   "id": "8fbc80760e14",
+   "t": "Live: Zelensky confirms Ukraine’s military struck Russian ships in Libyan waters",
+   "ko": "라이브: Zelensky는 우크라이나군이 리비아 해역에서 러시아 선박을 공격했다고 확인했습니다.",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/europe/20261123-live-russian-strikes-kill-at-least-15-people-in-kyiv-region-ukraine-says",
+   "at": "2026-11-23T06:10:26.000Z",
+   "ev": [
+    "ukraine"
+   ],
+   "cc": [
+    "Ukraine",
+    "Russia",
+    "Libya"
+   ]
+  },
+  {
+   "id": "a517e10e5abd",
+   "t": "New Zealand’s Mitchell, Phillips frustrate India as first Test ends in draw",
+   "ko": "뉴질랜드의 Mitchell, Phillips는 첫 번째 테스트가 무승부로 끝나자 인도를 좌절시킵니다",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/sports/2026/11/23/new-zealand-india-first-test-cricket-wtc-phillips-mitchell-nicholls?traffic_source=rss",
+   "at": "2026-11-23T05:58:36.000Z",
+   "ev": [],
+   "cc": [
+    "New Zealand",
+    "India"
+   ]
+  },
+  {
+   "id": "3684e9678abe",
+   "t": "At least 24 killed and dozens missing in confectionery factory fire in Indonesia",
+   "ko": "인도네시아 제과공장 화재로 최소 24명 숨지고 수십명 실종",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/world/2026/nov/22/fire-confectionary-factory-indonesia-jakarta",
+   "at": "2026-11-23T05:45:12.000Z",
+   "ev": [],
+   "cc": [
+    "Indonesia"
+   ]
+  },
+  {
+   "id": "b0eaad06d055",
+   "t": "Boy, 7, pulled alive from rubble hours after Russian strike on Ukraine, rescuers say",
+   "ko": "러시아가 우크라이나를 공격한 지 몇 시간 만에 잔해 속에서 7세 소년이 구조됐다고 구조대원들이 밝혔다.",
+   "src": "BBC",
+   "u": "https://www.bbc.co.uk/news/articles/cqdr15l32d3go?at_medium=RSS&at_campaign=rss",
+   "at": "2026-11-23T05:33:17.000Z",
+   "ev": [
+    "ukraine"
+   ],
+   "cc": [
+    "Russia",
+    "Ukraine"
+   ]
+  },
+  {
+   "id": "83aa240cb8a5",
+   "t": "Israel’s destruction of Gaza has created a ‘toxic wasteland’, experts find",
+   "ko": "이스라엘의 가자지구 파괴로 전문가들은 '유독한 황무지'를 만들었다고 밝혔다",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/world/2026/nov/23/israel-gaza-destruction-created-toxic-wasteland-oxfam-report",
+   "at": "2026-11-23T04:00:45.000Z",
+   "ev": [
+    "gaza"
+   ],
+   "cc": [
+    "Israel",
+    "Palestine"
+   ]
+  },
   {
    "id": "192a1f729607",
    "t": "Video of ICE detaining father and daughter while boarding flight sparks protests in Seattle",
@@ -180,8 +639,8 @@
   },
   {
    "id": "fc13a5c4dd16",
-   "t": "Russian ship attacked near Benghazi in suspected drone attack",
-   "ko": "드론 공격 의심 러시아 선박, 벵가지 근처 공격",
+   "t": "Russian ship hit near Benghazi in suspected drone attack",
+   "ko": "드론 공격으로 의심되는 러시아 선박이 Benghazi 근처에 충돌",
    "src": "France 24",
    "u": "https://www.france24.com/en/video/20261122-russian-ship-attacked-near-benghazi-in-suspected-drone-attack-ukraine",
    "at": "2026-11-22T22:37:45.000Z",
@@ -293,8 +752,8 @@
   },
   {
    "id": "a37fad3168ce",
-   "t": "Russian warship hit by suspected Ukrainian drone at Benghazi naval base, Libyan officials say",
-   "ko": "리비아 관리들은 벵가지 해군기지에서 우크라이나 무인기로 의심되는 드론이 러시아 군함을 공격했다고 밝혔습니다.",
+   "t": "Russian warship hit by Ukrainian drone at Benghazi naval base, Libyan officials say",
+   "ko": "리비아 관리들은 벵가지 해군 기지에서 러시아 군함이 우크라이나 드론에 공격을 받았다고 말했습니다.",
    "src": "France 24",
    "u": "https://www.france24.com/en/africa/20261122-russian-warship-hit-by-suspected-ukrainian-drone-at-libya-s-benghazi-naval-base",
    "at": "2026-11-22T19:41:23.000Z",
@@ -888,18 +1347,6 @@
    ]
   },
   {
-   "id": "3684e9678abe",
-   "t": "Fire at confectionery factory in Indonesia leaves at least three dead and dozens missing",
-   "ko": "인도네시아 제과공장에서 화재가 발생해 최소 3명이 숨지고 수십 명이 실종됐다.",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/world/2026/nov/22/fire-confectionary-factory-indonesia-jakarta",
-   "at": "2026-11-22T07:11:17.000Z",
-   "ev": [],
-   "cc": [
-    "Indonesia"
-   ]
-  },
-  {
    "id": "dc42fe34fecd",
    "t": "The European revolt may be coming to the UK",
    "ko": "유럽의 반란이 영국으로 올 수도 있다",
@@ -933,6 +1380,18 @@
    "ko": "인도네시아 사탕공장 화재로 수십명 실종",
    "src": "DW",
    "u": "https://www.dw.com/en/dozens-missing-as-deadly-fire-hits-indonesian-candy-factory/a-80012342?maca=en-rss-en-world-4025-rdf",
+   "at": "2026-11-22T06:14:00.000Z",
+   "ev": [],
+   "cc": [
+    "Indonesia"
+   ]
+  },
+  {
+   "id": "9981a891cde5",
+   "t": "Dozens missing as deadly fire tears through Indonesian candy factory",
+   "ko": "인도네시아 사탕공장 화재로 수십명 실종",
+   "src": "DW",
+   "u": "https://www.dw.com/en/dozens-missing-as-deadly-fire-tears-through-indonesian-candy-factory/a-80012342?maca=en-rss-en-world-4025-rdf",
    "at": "2026-11-22T06:14:00.000Z",
    "ev": [],
    "cc": [
@@ -1768,277 +2227,6 @@
    "cc": [
     "Israel",
     "Palestine"
-   ]
-  },
-  {
-   "id": "0d5ac122652d",
-   "t": "Ethiopia - Eritrea: Troops mobilise along the border",
-   "ko": "에티오피아-에리트레아: 군대가 국경을 따라 동원",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/ethiopia-eritrea-troops-mobilise-along-the-border",
-   "at": "2026-11-21T12:19:21.000Z",
-   "ev": [
-    "ethiopia"
-   ],
-   "cc": [
-    "Ethiopia",
-    "Eritrea",
-    "France"
-   ]
-  },
-  {
-   "id": "c44350dda362",
-   "t": "Music strikes a chord at French protest",
-   "ko": "프랑스 시위에 음악이 심금을 울린다",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/music-strikes-a-chord-at-french-protest",
-   "at": "2026-11-21T12:17:52.000Z",
-   "ev": [],
-   "cc": [
-    "France"
-   ]
-  },
-  {
-   "id": "af765c390991",
-   "t": "‘We escaped with only our lives’: Fighting to give birth in war-torn Yemen",
-   "ko": "'우리는 목숨만 걸고 탈출했다': 전쟁으로 피폐해진 예멘에서 출산을 위한 투쟁",
-   "src": "UN News",
-   "u": "https://news.un.org/feed/view/en/story/2026/11/1168851",
-   "at": "2026-11-21T12:00:00.000Z",
-   "ev": [
-    "yemen"
-   ],
-   "cc": [
-    "Yemen"
-   ]
-  },
-  {
-   "id": "115943d969e4",
-   "t": "Mexico captures FBI-wanted cartel boss in military raid",
-   "ko": "멕시코, FBI 수배 카르텔 보스 체포",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/video/newsfeed/2026/11/21/mexico-captures-fbi-wanted-cartel-boss-in-military-raid?traffic_source=rss",
-   "at": "2026-11-21T11:53:56.000Z",
-   "ev": [
-    "mexico"
-   ],
-   "cc": [
-    "Mexico"
-   ]
-  },
-  {
-   "id": "7ec96e3adde6",
-   "t": "Black Friday deals for liquid Brazilian butt lifts criticised over safety fears",
-   "ko": "액체 브라질 엉덩이 리프트에 대한 블랙 프라이데이 거래는 안전에 대한 우려로 비판을 받았습니다.",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/lifeandstyle/2026/nov/21/black-friday-deals-liquid-brazilian-butt-lifts-criticised-safety-fears",
-   "at": "2026-11-21T11:08:21.000Z",
-   "ev": [],
-   "cc": [
-    "Brazil",
-    "United Kingdom"
-   ]
-  },
-  {
-   "id": "8bcd47af2cf4",
-   "t": "Deadly fire engulfs power station in southern Iraq",
-   "ko": "이라크 남부 발전소에 치명적인 화재 발생",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/video/newsfeed/2026/11/21/deadly-fire-engulfs-power-station-in-southern-iraq?traffic_source=rss",
-   "at": "2026-11-21T11:02:29.000Z",
-   "ev": [],
-   "cc": [
-    "Iraq"
-   ]
-  },
-  {
-   "id": "b537fedc25b3",
-   "t": "Haitians excited but uneasy as El Salvador troops fight gangs",
-   "ko": "엘살바도르 군대가 갱단과 싸우는 모습에 아이티인들은 흥분하면서도 불안해한다",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/world/2026/nov/21/excitement-unease-haiti-el-salvador-troops-gangs-war-bukele",
-   "at": "2026-11-21T11:00:57.000Z",
-   "ev": [
-    "haiti"
-   ],
-   "cc": [
-    "El Salvador",
-    "Haiti",
-    "Brazil"
-   ]
-  },
-  {
-   "id": "257751a4e9b3",
-   "t": "'Accept cookies'? Russia collects data from swaths of unknowing Swedes",
-   "ko": "'쿠키를 허용'하시겠습니까? 러시아는 모르는 스웨덴 사람들로부터 데이터를 수집합니다.",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/europe/20261121-accept-cookies-russia-collected-data-swaths-unknowing-swedes",
-   "at": "2026-11-21T10:55:32.000Z",
-   "ev": [],
-   "cc": [
-    "Russia"
-   ]
-  },
-  {
-   "id": "7c91a091915c",
-   "t": "Houthis launch strikes on Saudi Arabia",
-   "ko": "후티 반군, 사우디아라비아에 공습 개시",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/houthis-launch-strikes-on-saudi-arabia",
-   "at": "2026-11-21T09:49:44.000Z",
-   "ev": [
-    "iran",
-    "yemen"
-   ],
-   "cc": [
-    "Saudi Arabia",
-    "Yemen"
-   ]
-  },
-  {
-   "id": "b18d2ecc8787",
-   "t": "Russian projectiles hit Poland as NATO tensions rise",
-   "ko": "NATO 긴장 고조로 러시아 발사체 폴란드 강타",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/russian-projectiles-hit-poland-as-nato-tensions-rise",
-   "at": "2026-11-21T09:47:05.000Z",
-   "ev": [
-    "ukraine"
-   ],
-   "cc": [
-    "Russia",
-    "Poland",
-    "Ukraine"
-   ]
-  },
-  {
-   "id": "02b26256ce2c",
-   "t": "Iran says it downed US drones over Hormuz as bid to end war remains stalled",
-   "ko": "이란은 전쟁 종식을 위한 노력이 여전히 교착되면서 호르무즈 상공에서 미국 드론을 격추했다고 밝혔습니다.",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/news/2026/11/21/irans-irgc-downs-us-drone-over-hormuz-as-efforts-to-end-war-remain-stalled?traffic_source=rss",
-   "at": "2026-11-21T09:30:24.000Z",
-   "ev": [
-    "iran"
-   ],
-   "cc": [
-    "Iran",
-    "United States"
-   ]
-  },
-  {
-   "id": "da8458e75361",
-   "t": "Illicit alcohol kills 11, poisons 180 in northeast India’s Manipur state",
-   "ko": "인도 북동부 마니푸르 주에서 불법 알코올로 인해 11명이 사망하고 180명이 중독되었습니다.",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/news/2026/11/21/suspected-toxic-alcohol-kills-at-least-11-people-in-northeast-india?traffic_source=rss",
-   "at": "2026-11-21T08:48:54.000Z",
-   "ev": [],
-   "cc": [
-    "India"
-   ]
-  },
-  {
-   "id": "d0e65f19e226",
-   "t": "Swimmer braves tanker attacks to expose Hormuz contamination",
-   "ko": "수영선수, 호르무즈 오염을 폭로하기 위해 유조선 공격에 용감하게 맞서다",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/video/newsfeed/2026/11/21/swimmer-braves-tanker-attacks-to-expose-hormuz-contamination?traffic_source=rss",
-   "at": "2026-11-21T08:39:35.000Z",
-   "ev": [
-    "iran"
-   ],
-   "cc": [
-    "Iran"
-   ]
-  },
-  {
-   "id": "9159924501c2",
-   "t": "Live: Demonstrators rally across France for sixth consecutive Saturday of protests",
-   "ko": "생방송: 시위대가 6회 연속 토요일 프랑스 전역에서 집회를 가졌습니다.",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/france/20261121-live-france-braces-for-fresh-protests-as-social-unrest-enters-sixth-week",
-   "at": "2026-11-21T08:29:53.000Z",
-   "ev": [],
-   "cc": [
-    "France"
-   ]
-  },
-  {
-   "id": "09f042383a83",
-   "t": "Trafalgar Square Christmas tree felled in Norway",
-   "ko": "노르웨이 트라팔가 광장 크리스마스 트리 쓰러져",
-   "src": "BBC",
-   "u": "https://www.bbc.co.uk/news/articles/cx8dv4327dnpo?at_medium=RSS&at_campaign=rss",
-   "at": "2026-11-21T08:10:03.000Z",
-   "ev": [],
-   "cc": [
-    "Norway",
-    "United Kingdom"
-   ]
-  },
-  {
-   "id": "633d3b37de6e",
-   "t": "Zelensky says Putin is a 'killer' after Trump calls Russian leader a friend",
-   "ko": "젤렌스키는 트럼프가 러시아 지도자에게 친구라고 부른 뒤 푸틴은 '살인자'라고 말했다.",
-   "src": "BBC",
-   "u": "https://www.bbc.co.uk/news/articles/cxnv4zvmdy0jo?at_medium=RSS&at_campaign=rss",
-   "at": "2026-11-21T05:15:41.000Z",
-   "ev": [
-    "ukraine"
-   ],
-   "cc": [
-    "Russia",
-    "Ukraine"
-   ]
-  },
-  {
-   "id": "9f96134b0c53",
-   "t": "‘So what if there’s a hole? It hasn’t collapsed’: Kyiv residents unbothered by Russian attacks on city’s bridges",
-   "ko": "'그럼 구멍이 나면 어쩌지? 붕괴되지 않았다': 도시 교량에 대한 러시아의 공격에도 개의치 않는 키예프 주민들",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/world/2026/nov/21/kyiv-russian-attacks-bridges",
-   "at": "2026-11-21T05:00:50.000Z",
-   "ev": [
-    "ukraine"
-   ],
-   "cc": [
-    "Russia"
-   ]
-  },
-  {
-   "id": "e75debc60ef6",
-   "t": "Teenager allegedly organised arsons and kidnapping on Signal during Melbourne hospitality wars",
-   "ko": "멜버른 환대 전쟁 중 시그널(Signal)에서 방화와 납치를 조직한 것으로 추정되는 10대 소년",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/australia-news/2026/nov/21/teenager-allegedly-organised-arsons-and-kidnapping-on-signal-during-melbourne-hospitality-wars-ntwnfb",
-   "at": "2026-11-21T04:44:00.000Z",
-   "ev": [],
-   "cc": []
-  },
-  {
-   "id": "b4af86b6cf84",
-   "t": "Man convicted of starting Palisades fire in Los Angeles",
-   "ko": "로스앤젤레스에서 팰리세이즈 화재를 일으킨 남성이 유죄 판결을 받았습니다.",
-   "src": "BBC",
-   "u": "https://www.bbc.co.uk/news/articles/c64gn0gy8rj3o?at_medium=RSS&at_campaign=rss",
-   "at": "2026-11-21T04:34:00.000Z",
-   "ev": [],
-   "cc": []
-  },
-  {
-   "id": "6300341dc8de",
-   "t": "When you see smoke, run: Rohingya who escaped Myanmar’s genocide tell their stories",
-   "ko": "연기 보면 달려라: 미얀마 학살을 피해 탈출한 로힝야족의 이야기",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/world/2026/nov/21/rohingya-who-escaped-myanmars-genocide-tell-their-stories",
-   "at": "2026-11-21T04:00:47.000Z",
-   "ev": [
-    "myanmar",
-    "rohingya"
-   ],
-   "cc": [
-    "Myanmar"
    ]
   }
  ]
