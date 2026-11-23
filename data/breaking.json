@@ -1,17 +1,17 @@
 {
- "updated": "2026-11-22T22:00:34.538Z",
+ "updated": "2026-11-23T02:54:35.187Z",
  "sources": {
   "BBC": {
    "ok": true,
-   "n": 11
+   "n": 10
   },
   "Al Jazeera": {
    "ok": true,
-   "n": 9
+   "n": 5
   },
   "The Guardian": {
    "ok": true,
-   "n": 12
+   "n": 14
   },
   "DW": {
    "ok": true,
@@ -19,7 +19,7 @@
   },
   "France 24": {
    "ok": true,
-   "n": 12
+   "n": 14
   },
   "UN News": {
    "ok": true,
@@ -27,10 +27,210 @@
   },
   "NPR": {
    "ok": true,
-   "n": 5
+   "n": 6
   }
  },
  "items": [
+  {
+   "id": "192a1f729607",
+   "t": "Video of ICE detaining father and daughter while boarding flight sparks protests in Seattle",
+   "ko": "비행기에 탑승하는 동안 ICE가 아버지와 딸을 구금하는 영상이 시애틀에서 시위를 촉발시켰습니다.",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/us-news/2026/nov/23/father-daughter-ice-arrests-video-sparks-protests-seattle-airport",
+   "at": "2026-11-23T02:38:16.000Z",
+   "ev": [],
+   "cc": [
+    "United States"
+   ]
+  },
+  {
+   "id": "ab70cc09903b",
+   "t": "Thousands rally in Istanbul against Turkey’s crackdown on opposition and media",
+   "ko": "이스탄불에서 터키의 야당과 언론 탄압에 반대하는 수천 명의 집회",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/asia-pacific/20261123-istanbul-turkey-crackdown-opposition-media-turkey",
+   "at": "2026-11-23T02:15:34.000Z",
+   "ev": [],
+   "cc": [
+    "Turkey"
+   ]
+  },
+  {
+   "id": "3d18a2b584fd",
+   "t": "‘Extremely concerning’: Inside a US Army plan to detonate Iowa lead stores",
+   "ko": "'매우 우려스럽다': 아이오와 납 매장을 폭파하려는 미군 계획 내부",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/11/23/extremely-concerning-inside-a-us-army-plan-to-detonate-iowa-lead-stores?traffic_source=rss",
+   "at": "2026-11-23T02:09:15.000Z",
+   "ev": [],
+   "cc": [
+    "United States"
+   ]
+  },
+  {
+   "id": "a33996b434f8",
+   "t": "Libya’s military says ‘fully prepared’ after Benghazi attacks",
+   "ko": "리비아군, 벵가지 공격에 '완전히 준비됐다'",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/video/newsfeed/2026/11/23/libyas-military-says-fully-prepared-after-benghazi-attacks?traffic_source=rss",
+   "at": "2026-11-23T01:51:32.000Z",
+   "ev": [],
+   "cc": [
+    "Libya"
+   ]
+  },
+  {
+   "id": "94e8727b585e",
+   "t": "Beau Lamarre-Condon ‘executed’ Jesse Baird and Luke Davies then lied about it, prosecution argues",
+   "ko": "Beau Lamarre-Condon은 Jesse Baird와 Luke Davies를 '처형'한 후 이에 대해 거짓말을 했다고 검찰이 주장했습니다.",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/australia-news/2026/nov/23/beau-lamarre-condon-trail-executed-jesse-baird-prosecution-argues-ntwnfb",
+   "at": "2026-11-23T00:54:02.000Z",
+   "ev": [],
+   "cc": [
+    "Australia"
+   ]
+  },
+  {
+   "id": "56423aec954c",
+   "t": "US army to blow up bomb-making chemicals despite safety concerns",
+   "ko": "미군, 안전 문제에도 불구하고 폭탄 제조 화학 물질을 폭파",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/us-news/2026/nov/22/army-blow-up-bomb-making-chemicals-iowa",
+   "at": "2026-11-23T00:50:39.000Z",
+   "ev": [],
+   "cc": [
+    "United States"
+   ]
+  },
+  {
+   "id": "442b3ff534a7",
+   "t": "COP31 climate talks in Turkey collapse",
+   "ko": "터키 COP31 기후 회담 결렬",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/video/20261123-cop31-climate-talks-collapse",
+   "at": "2026-11-23T00:44:47.000Z",
+   "ev": [
+    "iran"
+   ],
+   "cc": [
+    "Turkey",
+    "Iran"
+   ]
+  },
+  {
+   "id": "066ac24fc811",
+   "t": "Drone strikes hit homes, United Nations building in Sudan's capital",
+   "ko": "드론 공격으로 수단 수도의 주택과 유엔 건물이 타격을 입었습니다.",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/video/20261123-drone-strikes-hit-homes-united-nations-building-in-sudan-s-capital",
+   "at": "2026-11-23T00:43:36.000Z",
+   "ev": [
+    "sudan",
+    "ethiopia"
+   ],
+   "cc": [
+    "Sudan",
+    "Ethiopia"
+   ]
+  },
+  {
+   "id": "c85ec2c28cfa",
+   "t": "Cameroon’s ex-rebels caught between hiding and broken promises",
+   "ko": "은폐와 약속 파기 사이에 갇힌 카메룬의 전 반군들",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/11/23/cameroons-ex-rebels-caught-between-hiding-and-broken-promises?traffic_source=rss",
+   "at": "2026-11-23T00:03:30.000Z",
+   "ev": [
+    "cameroon"
+   ],
+   "cc": [
+    "Cameroon"
+   ]
+  },
+  {
+   "id": "de25ddea0330",
+   "t": "Iran war live: Tankers set ablaze in Hormuz as IRGC warns of unrest threat",
+   "ko": "이란 전쟁 라이브: IRGC가 불안 위협을 경고함에 따라 호르무즈에서 유조선에 불이 붙었습니다.",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/liveblog/2026/11/22/iran-war-live-tankers-set-ablaze-in-hormuz-as-irgc-warns-of-unrest-threat?traffic_source=rss",
+   "at": "2026-11-22T23:59:22.000Z",
+   "ev": [
+    "iran"
+   ],
+   "cc": [
+    "Iran"
+   ]
+  },
+  {
+   "id": "4e7af9af598a",
+   "t": "Ukraine war spilling into NATO territory",
+   "ko": "우크라이나 전쟁, 나토 영토 침범",
+   "src": "NPR",
+   "u": "https://www.npr.org/2026/11/22/nx-s1-6050236/ukraine-war-spilling-into-nato-territory",
+   "at": "2026-11-22T22:40:22.000Z",
+   "ev": [
+    "ukraine"
+   ],
+   "cc": [
+    "Ukraine",
+    "Russia",
+    "Poland"
+   ]
+  },
+  {
+   "id": "fc13a5c4dd16",
+   "t": "Russian ship attacked near Benghazi in suspected drone attack",
+   "ko": "드론 공격 의심 러시아 선박, 벵가지 근처 공격",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/video/20261122-russian-ship-attacked-near-benghazi-in-suspected-drone-attack-ukraine",
+   "at": "2026-11-22T22:37:45.000Z",
+   "ev": [
+    "ukraine"
+   ],
+   "cc": [
+    "Russia",
+    "Libya",
+    "Ukraine"
+   ]
+  },
+  {
+   "id": "d636ecf1b50c",
+   "t": "'Danger seems greater all the time': Ukrainians search for missing after Russian strikes",
+   "ko": "'위험은 항상 더 커 보인다': 러시아 공습 이후 우크라이나인들이 실종자 수색 중",
+   "src": "BBC",
+   "u": "https://www.bbc.co.uk/news/videos/cre3dvd1k9y1o?at_medium=RSS&at_campaign=rss",
+   "at": "2026-11-22T22:37:43.000Z",
+   "ev": [
+    "ukraine"
+   ],
+   "cc": [
+    "Russia",
+    "Ukraine"
+   ]
+  },
+  {
+   "id": "1ef6bba92ede",
+   "t": "Second ship targeted in series of naval drone attacks off Libyan coast",
+   "ko": "리비아 해안에서 일련의 해군 드론 공격을 받은 두 번째 선박",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/video/newsfeed/2026/11/22/second-ship-targeted-in-series-of-naval-drone-attacks-off-libyan-coast?traffic_source=rss",
+   "at": "2026-11-22T22:01:48.000Z",
+   "ev": [],
+   "cc": [
+    "Libya"
+   ]
+  },
+  {
+   "id": "9e0e59e94b70",
+   "t": "Theresa May’s blast from the past calls Tories back to their unhappy place | Peter Walker",
+   "ko": "과거의 테레사 메이의 폭발은 토리들을 불행한 곳으로 다시 불러옵니다 | 피터 워커",
+   "src": "The Guardian",
+   "u": "https://www.theguardian.com/politics/2026/nov/22/theresa-may-blast-from-the-past-tories-brexit",
+   "at": "2026-11-22T22:00:58.000Z",
+   "ev": [],
+   "cc": []
+  },
   {
    "id": "969b3e367a9a",
    "t": "Russian warship sinks in Benghazi after suspected Ukrainian drone attack",
@@ -161,21 +361,6 @@
    ]
   },
   {
-   "id": "d636ecf1b50c",
-   "t": "'Danger seems greater all the time': Ukrainians search for missing after Russian strikes",
-   "ko": "'위험은 항상 더 커 보인다': 러시아 공습 이후 우크라이나인들이 실종자 수색 중",
-   "src": "BBC",
-   "u": "https://www.bbc.co.uk/news/videos/cre3dvd1k9y1o?at_medium=RSS&at_campaign=rss",
-   "at": "2026-11-22T17:57:43.000Z",
-   "ev": [
-    "ukraine"
-   ],
-   "cc": [
-    "Russia",
-    "Ukraine"
-   ]
-  },
-  {
    "id": "6a1969ce9110",
    "t": "Lebanese villagers return to wrecked homes as the Israeli army pulls back",
    "ko": "이스라엘군이 철수하자 레바논 마을 주민들은 폐허가 된 집으로 돌아가고 있다",
@@ -237,6 +422,22 @@
    ]
   },
   {
+   "id": "85c87ef6748c",
+   "t": "Drone strikes hit homes and UN building in Sudan's Khartoum",
+   "ko": "수단 하르툼의 가옥과 유엔 건물에 드론 공격이 가해졌습니다.",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/africa/20261122-drone-strikes-hit-homes-and-un-building-in-sudan-s-khartoum",
+   "at": "2026-11-22T16:38:14.000Z",
+   "ev": [
+    "sudan",
+    "ethiopia"
+   ],
+   "cc": [
+    "Sudan",
+    "Ethiopia"
+   ]
+  },
+  {
    "id": "ba58d8eb0bbc",
    "t": "West Bank attacks: Opposition leader Eisenkot decries \"Jewish terrorism\"",
    "ko": "서안지구 공격: 야당 지도자 아이젠코트, \"유대인 테러\" 비난",
@@ -264,16 +465,6 @@
    "cc": [
     "Russia"
    ]
-  },
-  {
-   "id": "9e0e59e94b70",
-   "t": "Theresa May’s blast from the past calls Tories back to their unhappy place | Peter Walker",
-   "ko": "과거의 테레사 메이의 폭발은 토리들을 불행한 곳으로 다시 불러옵니다 | 피터 워커",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/politics/2026/nov/22/theresa-may-blast-from-the-past-tories-brexit",
-   "at": "2026-11-22T16:12:54.000Z",
-   "ev": [],
-   "cc": []
   },
   {
    "id": "ddec652e2cd9",
@@ -1848,84 +2039,6 @@
    ],
    "cc": [
     "Myanmar"
-   ]
-  },
-  {
-   "id": "4bef99f0e187",
-   "t": "Gen Z protests sweep Europe over wars, rising costs and climate",
-   "ko": "Z세대 시위가 전쟁, 비용 상승, 기후 문제로 유럽을 휩쓸었습니다.",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/video/newsfeed/2026/11/21/gen-z-protests-sweep-europe-over-wars-rising-costs-and-climate?traffic_source=rss",
-   "at": "2026-11-21T02:49:16.000Z",
-   "ev": [],
-   "cc": []
-  },
-  {
-   "id": "8958d346f49c",
-   "t": "Iran war live: Saudi-led coalition downs Houthi missiles",
-   "ko": "이란 전쟁 생중계: 사우디 주도 연합군, 후티 미사일 격추",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/news/liveblog/2026/11/21/iran-war-live-saudi-led-coalition-repels-houthi-missiles?traffic_source=rss",
-   "at": "2026-11-21T00:00:06.000Z",
-   "ev": [
-    "iran",
-    "yemen"
-   ],
-   "cc": [
-    "Iran",
-    "United States"
-   ]
-  },
-  {
-   "id": "19c0628393b8",
-   "t": "Republican senator blocks Trump cyber nominee over January 6 denial",
-   "ko": "공화당 상원의원, 1월 6일 거부한 트럼프 사이버 후보 차단",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/us-news/2026/nov/20/tillis-republican-senator-trump-cyber-nominee",
-   "at": "2026-11-20T23:48:38.000Z",
-   "ev": [],
-   "cc": [
-    "United States"
-   ]
-  },
-  {
-   "id": "3ace204545de",
-   "t": "Rahul Gandhi backs strong India-Israel ties despite Gaza war",
-   "ko": "라훌 간디는 가자 전쟁에도 불구하고 인도-이스라엘의 강력한 관계를 지지합니다",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/video/newsfeed/2026/11/20/rahul-gandhi-backs-strong-india-israel-ties-despite-gaza-war?traffic_source=rss",
-   "at": "2026-11-20T23:20:50.000Z",
-   "ev": [
-    "gaza",
-    "delhi"
-   ],
-   "cc": [
-    "Palestine",
-    "India",
-    "Israel"
-   ]
-  },
-  {
-   "id": "cdedd122f848",
-   "t": "These dead pets were meant to be cremated - then their bodies appeared on a livestream",
-   "ko": "이 죽은 애완동물은 화장될 예정이었지만 그 시체가 실시간 스트리밍에 나타났습니다.",
-   "src": "BBC",
-   "u": "https://www.bbc.co.uk/news/articles/cmn502ek17yvo?at_medium=RSS&at_campaign=rss",
-   "at": "2026-11-20T23:20:33.000Z",
-   "ev": [],
-   "cc": []
-  },
-  {
-   "id": "69042885001b",
-   "t": "US lawmakers push for tougher AI chip rules amid China export crackdown",
-   "ko": "미국 국회의원, 중국 수출 단속 속에 AI 칩 규정 강화 촉구",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/economy/2026/11/20/us-lawmakers-push-for-tougher-ai-chip-rules-amid-china-export-crackdown?traffic_source=rss",
-   "at": "2026-11-20T22:15:07.000Z",
-   "ev": [],
-   "cc": [
-    "United States",
-    "China"
    ]
   }
  ]
