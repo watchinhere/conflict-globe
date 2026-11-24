@@ -1,13 +1,13 @@
 {
- "updated": "2026-11-23T23:47:08.793Z",
+ "updated": "2026-11-24T09:06:09.470Z",
  "sources": {
   "BBC": {
    "ok": true,
-   "n": 12
+   "n": 7
   },
   "Al Jazeera": {
    "ok": true,
-   "n": 6
+   "n": 7
   },
   "The Guardian": {
    "ok": false,
@@ -31,6 +31,171 @@
   }
  },
  "items": [
+  {
+   "id": "6c20825f61f3",
+   "t": "DR Congo says aircraft missing as rebels claim to shoot down plane",
+   "ko": "DR 콩고는 반군이 비행기를 격추한다고 주장하면서 항공기가 실종되었다고 말했습니다",
+   "src": "BBC",
+   "u": "https://www.bbc.co.uk/news/articles/cwy7r5z8gg65o?at_medium=RSS&at_campaign=rss",
+   "at": "2026-11-24T08:35:41.000Z",
+   "ev": [
+    "drc"
+   ],
+   "cc": [
+    "Democratic Republic of the Congo"
+   ]
+  },
+  {
+   "id": "7117544317ab",
+   "t": "What happens if a nuclear weapon explodes in space?",
+   "ko": "우주에서 핵무기가 폭발하면 어떻게 될까요?",
+   "src": "DW",
+   "u": "https://www.dw.com/en/what-happens-if-a-nuclear-weapon-explodes-in-space/a-80025827?maca=en-rss-en-world-4025-rdf",
+   "at": "2026-11-24T08:34:00.000Z",
+   "ev": [],
+   "cc": []
+  },
+  {
+   "id": "d6d2affe39b7",
+   "t": "US army says detonation of lead explosives in Iowa will proceed",
+   "ko": "미 육군, 아이오와 주에서 납폭약 폭발 계속할 것",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/11/24/us-army-says-detonation-of-lead-explosives-in-iowa-will-proceed?traffic_source=rss",
+   "at": "2026-11-24T08:24:08.000Z",
+   "ev": [],
+   "cc": [
+    "United States"
+   ]
+  },
+  {
+   "id": "86a39034e80d",
+   "t": "Malaysia set to return thousands of Rohingya refugees to Myanmar",
+   "ko": "말레이시아, 수천 명의 로힝야 난민을 미얀마로 송환할 예정",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/11/24/malaysia-set-to-return-thousands-of-rohingya-refugees-to-myanmar-2?traffic_source=rss",
+   "at": "2026-11-24T08:21:41.000Z",
+   "ev": [
+    "myanmar",
+    "rohingya"
+   ],
+   "cc": [
+    "Malaysia",
+    "Myanmar"
+   ]
+  },
+  {
+   "id": "29ef86d73d7f",
+   "t": "Moment Mexican troops captured cartel leader ‘El Chapo Isidro’",
+   "ko": "멕시코군이 카르텔 지도자 '엘 차포 이시드로'를 체포한 순간",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/video/newsfeed/2026/11/24/moment-mexican-troops-captured-cartel-leader-el-chapo?traffic_source=rss",
+   "at": "2026-11-24T08:17:26.000Z",
+   "ev": [
+    "mexico"
+   ],
+   "cc": [
+    "Mexico"
+   ]
+  },
+  {
+   "id": "f3d06eaf3dc3",
+   "t": "Wars choke global food routes, threatening aid for 7.3 million, WFP warns",
+   "ko": "전쟁으로 인해 전 세계 식량 경로가 막혀 730만 명에 대한 원조가 위협받고 있다고 WFP가 경고했습니다.",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/11/24/wars-choke-global-food-routes-threatening-aid-for-7-3-million-wfp-warns?traffic_source=rss",
+   "at": "2026-11-24T07:52:44.000Z",
+   "ev": [],
+   "cc": []
+  },
+  {
+   "id": "8689706299dd",
+   "t": "ICG: \"It's hard to imagine\" Tripoli would risk its ties with Russia by approving a Ukrainian attack",
+   "ko": "ICG: \"상상하기 어렵다\" 트리폴리가 우크라이나의 공격을 승인함으로써 러시아와의 관계를 위태롭게 할 것이다",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/video/20261124-icg-it-s-hard-to-imagine-tripoli-would-risk-its-ties-with-russia-by-approving-a-ukrainian-attack",
+   "at": "2026-11-24T07:45:44.000Z",
+   "ev": [
+    "ukraine"
+   ],
+   "cc": [
+    "Russia",
+    "Ukraine",
+    "Libya"
+   ]
+  },
+  {
+   "id": "80b91b29fb8c",
+   "t": "Why has Yemen’s offensive against the Houthis in al-Bayda stalled?",
+   "ko": "알바이다에서 후티 반군에 대한 예멘의 공세가 중단된 이유는 무엇입니까?",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/11/24/why-has-yemens-offensive-against-the-houthis-in-al-bayda-stalled?traffic_source=rss",
+   "at": "2026-11-24T07:36:07.000Z",
+   "ev": [
+    "yemen"
+   ],
+   "cc": [
+    "Yemen"
+   ]
+  },
+  {
+   "id": "c1e970ee7602",
+   "t": "Live: Russian strikes on Ukraine’s Zaporizhzhia kill two people and wound dozens more",
+   "ko": "라이브: 우크라이나 자포리지아(Zaporizhzhia)에 대한 러시아의 공격으로 2명이 사망하고 수십 명이 부상당했습니다.",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/europe/20261124-live-tripoli-demands-explanation-from-kyiv-for-striking-russian-ships-in-libyan-waters",
+   "at": "2026-11-24T05:50:16.000Z",
+   "ev": [
+    "ukraine"
+   ],
+   "cc": [
+    "Russia",
+    "Ukraine"
+   ]
+  },
+  {
+   "id": "9611067fd591",
+   "t": "Car bomb strikes governor’s office in Meta, Colombia",
+   "ko": "콜롬비아 메타 주지사 사무실에 차량 폭탄 테러 발생",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/video/newsfeed/2026/11/24/car-bomb-strikes-governors-office-in-meta-colombia?traffic_source=rss",
+   "at": "2026-11-24T04:49:31.000Z",
+   "ev": [
+    "colombia"
+   ],
+   "cc": [
+    "Colombia"
+   ]
+  },
+  {
+   "id": "802f4af90326",
+   "t": "US flew surveillance drone over Mexico to help capture top drug lord",
+   "ko": "미국, 마약왕 체포 위해 멕시코 상공에 정찰 드론 띄워",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/americas/20261124-us-flew-surveillance-drone-over-mexico-to-help-capture-top-drug-lord",
+   "at": "2026-11-24T02:09:11.000Z",
+   "ev": [
+    "mexico"
+   ],
+   "cc": [
+    "United States",
+    "Mexico"
+   ]
+  },
+  {
+   "id": "35db16ff21a2",
+   "t": "Bukele shares details on deaths of El Salvador’s troops in Haiti",
+   "ko": "Bukele는 아이티에서 엘살바도르 군대의 사망에 대한 세부 정보를 공유합니다.",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/11/24/bukele-shares-details-on-deaths-of-salvadoran-troops-in-haiti-intervention?traffic_source=rss",
+   "at": "2026-11-24T01:06:00.000Z",
+   "ev": [
+    "haiti"
+   ],
+   "cc": [
+    "El Salvador",
+    "Haiti"
+   ]
+  },
   {
    "id": "5853e5346043",
    "t": "14 countries acknowledge ICJ ruling of genocide against Rohingya",
@@ -84,6 +249,22 @@
    ],
    "cc": [
     "Ukraine"
+   ]
+  },
+  {
+   "id": "91caada7b4c7",
+   "t": "UK sanctions top Myanmar military leaders after Rohingya genocide ruling",
+   "ko": "영국, 로힝야족 학살 판결 이후 미얀마 군부 지도자들을 제재",
+   "src": "BBC",
+   "u": "https://www.bbc.co.uk/news/articles/c6wy4ng1rznxo?at_medium=RSS&at_campaign=rss",
+   "at": "2026-11-23T21:03:34.000Z",
+   "ev": [
+    "myanmar",
+    "rohingya"
+   ],
+   "cc": [
+    "United Kingdom",
+    "Myanmar"
    ]
   },
   {
@@ -1674,244 +1855,6 @@
    "ev": [],
    "cc": [
     "India"
-   ]
-  },
-  {
-   "id": "4bd1bf6c7ec7",
-   "t": "Dashcam captures Russian missile strike on Lviv, Ukraine",
-   "ko": "Dashcam이 우크라이나 리비우에 대한 러시아의 미사일 공격을 포착했습니다.",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/video/newsfeed/2026/11/22/dashcam-captures-russian-missile-strike-on-lviv-ukraine?traffic_source=rss",
-   "at": "2026-11-22T07:59:29.000Z",
-   "ev": [
-    "ukraine"
-   ],
-   "cc": [
-    "Russia",
-    "Ukraine"
-   ]
-  },
-  {
-   "id": "ed7511bdf5f5",
-   "t": "Indonesia factory fire kills three, 36 missing",
-   "ko": "인도네시아 공장 화재로 3명 사망, 36명 실종",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/news/2026/11/22/indonesia-factory-fire-kills-three-36-missing?traffic_source=rss",
-   "at": "2026-11-22T07:46:35.000Z",
-   "ev": [],
-   "cc": [
-    "Indonesia"
-   ]
-  },
-  {
-   "id": "dc42fe34fecd",
-   "t": "The European revolt may be coming to the UK",
-   "ko": "유럽의 반란이 영국으로 올 수도 있다",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/opinions/2026/11/22/the-european-revolt-may-be-coming-to-the-uk?traffic_source=rss",
-   "at": "2026-11-22T06:59:59.000Z",
-   "ev": [],
-   "cc": [
-    "United Kingdom"
-   ]
-  },
-  {
-   "id": "133f726ebd74",
-   "t": "Live: Ukrainian rescuers search for survivors in rubble after Russian attack",
-   "ko": "라이브: 우크라이나 구조대원, 러시아 공격 후 잔해 속에서 생존자 수색",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/europe/20261122-live-finland-says-war-spilling-over-after-baltic-sea-drone-strike-on-russian-cargo-ship",
-   "at": "2026-11-22T06:15:38.000Z",
-   "ev": [
-    "ukraine"
-   ],
-   "cc": [
-    "Ukraine",
-    "Russia",
-    "Finland"
-   ]
-  },
-  {
-   "id": "7b2ee0823f3a",
-   "t": "Dozens missing as deadly fire hits Indonesian candy factory",
-   "ko": "인도네시아 사탕공장 화재로 수십명 실종",
-   "src": "DW",
-   "u": "https://www.dw.com/en/dozens-missing-as-deadly-fire-hits-indonesian-candy-factory/a-80012342?maca=en-rss-en-world-4025-rdf",
-   "at": "2026-11-22T06:14:00.000Z",
-   "ev": [],
-   "cc": [
-    "Indonesia"
-   ]
-  },
-  {
-   "id": "9981a891cde5",
-   "t": "Dozens missing as deadly fire tears through Indonesian candy factory",
-   "ko": "인도네시아 사탕공장 화재로 수십명 실종",
-   "src": "DW",
-   "u": "https://www.dw.com/en/dozens-missing-as-deadly-fire-tears-through-indonesian-candy-factory/a-80012342?maca=en-rss-en-world-4025-rdf",
-   "at": "2026-11-22T06:14:00.000Z",
-   "ev": [],
-   "cc": [
-    "Indonesia"
-   ]
-  },
-  {
-   "id": "a0149a113037",
-   "t": "‘Serious error of judgment’: outrage over military AI event at Berlin arts complex",
-   "ko": "'심각한 판단 오류': 베를린 예술단지에서 열린 군사 AI 행사에 분노",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/world/2026/nov/22/military-ai-event-berlin-kraftwerk-arts-complex",
-   "at": "2026-11-22T06:00:21.000Z",
-   "ev": [],
-   "cc": []
-  },
-  {
-   "id": "5796c184441c",
-   "t": "Displaced Darfur families face volatile winter as Sudan aid cuts bite",
-   "ko": "수단의 지원이 중단되면서 난민 다르푸르 가족들은 불안한 겨울을 맞이하고 있습니다.",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/features/2026/11/22/displaced-from-darfur-sudan-families-face-volatile-winter-as-aid-cuts-loom?traffic_source=rss",
-   "at": "2026-11-22T05:21:46.000Z",
-   "ev": [
-    "sudan",
-    "darfur"
-   ],
-   "cc": [
-    "Sudan"
-   ]
-  },
-  {
-   "id": "dc4db2d33164",
-   "t": "Police say man whose body lay undiscovered in Sydney bushland for 12 days was killed in suspected hit-and-run",
-   "ko": "경찰은 시드니 숲속에서 12일 동안 시신을 발견하지 못한 채 방치된 남성이 뺑소니 혐의로 사망했다고 밝혔습니다.",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/australia-news/2026/nov/22/police-say-man-whose-body-lay-undiscovered-in-sydney-bushland-for-12-days-was-killed-in-suspected-hit-and-run-ntwnfb",
-   "at": "2026-11-22T05:21:01.000Z",
-   "ev": [],
-   "cc": []
-  },
-  {
-   "id": "0335f411a7a3",
-   "t": "Eleven killed in burst of violence during Mexican cartel leader’s capture",
-   "ko": "멕시코 카르텔 지도자 체포 중 폭력사태로 11명 사망",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/news/2026/11/22/eleven-killed-in-burst-of-violence-during-mexican-cartel-leaders-capture?traffic_source=rss",
-   "at": "2026-11-22T03:34:02.000Z",
-   "ev": [
-    "mexico"
-   ],
-   "cc": [
-    "Mexico"
-   ]
-  },
-  {
-   "id": "199c72515b72",
-   "t": "Bahrain accuses Iran of striking industrial site as tankers hit in Hormuz",
-   "ko": "바레인, 이란이 호르무즈에서 유조선 공격을 받아 산업 시설을 공격했다고 비난",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/middle-east/20261122-bahrain-accuses-iran-of-striking-industrial-site-as-tankers-hit-in-hormuz",
-   "at": "2026-11-22T03:24:14.000Z",
-   "ev": [
-    "iran"
-   ],
-   "cc": [
-    "Bahrain",
-    "Iran",
-    "United States"
-   ]
-  },
-  {
-   "id": "f152d2776513",
-   "t": "Overturned boat carrying mourners to funeral kills at least 24 in Nigeria",
-   "ko": "나이지리아 장례식장에 조문객 태운 보트 전복돼 최소 24명 사망",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/news/2026/11/22/overturned-boat-carrying-mourners-to-funeral-kills-at-least-four-in-nigeria?traffic_source=rss",
-   "at": "2026-11-22T02:45:36.000Z",
-   "ev": [
-    "nigeria"
-   ],
-   "cc": [
-    "Nigeria"
-   ]
-  },
-  {
-   "id": "325f1a2a1c9a",
-   "t": "Man found dead on Flinders Island believed to have been shot by officer, police say",
-   "ko": "플린더스 섬에서 남성이 숨진 채 발견됐다고 경찰이 밝혔다.",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/australia-news/2026/nov/22/man-found-dead-on-flinders-island-linked-to-shooting-of-police-officer-tasmanian-authorities-say",
-   "at": "2026-11-22T02:44:01.000Z",
-   "ev": [],
-   "cc": []
-  },
-  {
-   "id": "9d9658f0b24e",
-   "t": "Displaced Palestinians protest as Israeli air strikes continue in Gaza",
-   "ko": "가자지구에서 이스라엘의 공습이 계속되자 팔레스타인 난민들이 시위를 벌이고 있다.",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/news/2026/11/22/displaced-palestinians-protest-as-israeli-air-strikes-continue-in-gaza?traffic_source=rss",
-   "at": "2026-11-22T02:14:18.000Z",
-   "ev": [
-    "gaza"
-   ],
-   "cc": [
-    "Israel",
-    "Palestine"
-   ]
-  },
-  {
-   "id": "50f4fac8f242",
-   "t": "Bessent confirms he’s living on US military base over Iran fears",
-   "ko": "베센트는 이란의 우려 때문에 미군 기지에 살고 있음을 확인했습니다.",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/video/newsfeed/2026/11/22/bessent-confirms-hes-living-on-us-military-base-over-iran-fears?traffic_source=rss",
-   "at": "2026-11-22T02:05:50.000Z",
-   "ev": [
-    "iran"
-   ],
-   "cc": [
-    "United States",
-    "Iran",
-    "Israel"
-   ]
-  },
-  {
-   "id": "a6ca28dfe395",
-   "t": "‘No time for a culture war’: Victoria’s electricity supply is at risk. Can it avoid power shortages and bill shocks?",
-   "ko": "'문화 전쟁을 할 시간이 없습니다': 빅토리아의 전력 공급이 위험에 처해 있습니다. 전력 부족과 요금 충격을 피할 수 있을까요?",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/australia-news/2026/nov/22/victoria-election-2026-what-are-parties-promising-energy-policy",
-   "at": "2026-11-22T01:00:13.000Z",
-   "ev": [],
-   "cc": []
-  },
-  {
-   "id": "b5553ff19c00",
-   "t": "Clashes erupt across France in another night of protest",
-   "ko": "또 다른 밤의 항의로 프랑스 전역에서 충돌이 발생했습니다.",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/video/newsfeed/2026/11/22/clashes-erupt-across-france-in-another-night-of-protest?traffic_source=rss",
-   "at": "2026-11-22T00:37:32.000Z",
-   "ev": [],
-   "cc": [
-    "France"
-   ]
-  },
-  {
-   "id": "1453db92e2f8",
-   "t": "Iran war live: Iran targets US bases in Bahrain; Houthi strikes continue",
-   "ko": "이란 전쟁 라이브: 이란은 바레인의 미군 기지를 목표로 삼고 있습니다. 후티 반군 공습 계속",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/news/liveblog/2026/11/21/iran-war-live-iran-targets-us-military-in-bahrain-houthi-strikes-continue?traffic_source=rss",
-   "at": "2026-11-21T23:59:03.000Z",
-   "ev": [
-    "iran",
-    "yemen"
-   ],
-   "cc": [
-    "Iran",
-    "United States",
-    "Bahrain"
    ]
   }
  ]
