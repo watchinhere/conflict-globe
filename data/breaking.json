@@ -1,13 +1,13 @@
 {
- "updated": "2026-11-24T20:14:42.276Z",
+ "updated": "2026-11-25T03:35:30.841Z",
  "sources": {
   "BBC": {
    "ok": true,
-   "n": 9
+   "n": 8
   },
   "Al Jazeera": {
    "ok": true,
-   "n": 14
+   "n": 11
   },
   "The Guardian": {
    "ok": false,
@@ -19,18 +19,159 @@
   },
   "France 24": {
    "ok": true,
-   "n": 9
+   "n": 7
   },
   "UN News": {
    "ok": true,
-   "n": 5
+   "n": 7
   },
   "NPR": {
    "ok": true,
-   "n": 3
+   "n": 2
   }
  },
  "items": [
+  {
+   "id": "8a02256d527c",
+   "t": "Pakistani astronaut launches into space aboard Chinese rocket",
+   "ko": "파키스탄 우주 비행사, 중국 로켓을 타고 우주로 발사",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/video/newsfeed/2026/11/25/pakistani-astronaut-launches-into-space-aboard-chinese-rocket?traffic_source=rss",
+   "at": "2026-11-25T02:44:45.000Z",
+   "ev": [],
+   "cc": [
+    "Pakistan",
+    "China"
+   ]
+  },
+  {
+   "id": "769710ef94e2",
+   "t": "Ukraine seeks €115 billion in foreign aid for 2027, Zelensky says",
+   "ko": "젤렌스키 \"우크라이나, 2027년까지 1150억 유로의 대외 원조 추구\"",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/europe/20261125-ukraine-seeks-%E2%82%AC115-billion-in-foreign-aid-for-2027-zelensky-says",
+   "at": "2026-11-25T01:19:31.000Z",
+   "ev": [
+    "ukraine"
+   ],
+   "cc": [
+    "Ukraine",
+    "Russia"
+   ]
+  },
+  {
+   "id": "75d4a6c12ba2",
+   "t": "Poll finds US voters want government to end Iran war regardless of terms",
+   "ko": "여론조사에 따르면 미국 유권자들은 조건에 관계없이 정부가 이란 전쟁을 끝내기를 원하고 있는 것으로 나타났습니다.",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/11/25/poll-finds-us-voters-want-government-to-end-iran-war-regardless-of-terms?traffic_source=rss",
+   "at": "2026-11-25T01:14:22.000Z",
+   "ev": [
+    "iran"
+   ],
+   "cc": [
+    "United States",
+    "Iran"
+   ]
+  },
+  {
+   "id": "b7670f6d932b",
+   "t": "Gunmen hold dozens hostage in Colombia supermarket",
+   "ko": "콜롬비아 슈퍼마켓에서 무장괴한들이 수십 명을 인질로 잡았다.",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/video/newsfeed/2026/11/25/gunmen-hold-dozens-hostage-in-colombia-supermarket?traffic_source=rss",
+   "at": "2026-11-25T00:49:35.000Z",
+   "ev": [
+    "colombia"
+   ],
+   "cc": [
+    "Colombia"
+   ]
+  },
+  {
+   "id": "b10ed5ca2171",
+   "t": "Iran war live: Saudi-led coalition strikes Yemen’s Hodeidah port",
+   "ko": "이란 전쟁 라이브: 사우디 주도 연합군, 예멘 호데이다 항구 공격",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/liveblog/2026/11/25/iran-war-live-houthis-threaten-saudi-ports-over-coalitions-hodeidah-order?traffic_source=rss",
+   "at": "2026-11-25T00:00:00.000Z",
+   "ev": [
+    "iran",
+    "yemen"
+   ],
+   "cc": [
+    "Iran",
+    "Yemen",
+    "Saudi Arabia"
+   ]
+  },
+  {
+   "id": "ffd99e93193a",
+   "t": "Rebel group retreats in DR Congo after heavy clashes with government forces",
+   "ko": "콩고민주공화국 정부군과 격렬한 충돌 후 반군 그룹 후퇴",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/11/24/rebel-group-retreats-in-dr-congo-after-heavy-clashes-with-government-forces?traffic_source=rss",
+   "at": "2026-11-24T23:39:13.000Z",
+   "ev": [
+    "drc"
+   ],
+   "cc": [
+    "Democratic Republic of the Congo"
+   ]
+  },
+  {
+   "id": "c3c3df9289a3",
+   "t": "Colombian president blames ex-FARC rebels for car bomb blast",
+   "ko": "콜롬비아 대통령, 차량폭탄 폭발 배후로 FARC 전 반군 비난",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/11/24/colombian-president-blames-ex-farc-rebels-for-car-bomb-blast?traffic_source=rss",
+   "at": "2026-11-24T21:45:42.000Z",
+   "ev": [
+    "colombia"
+   ],
+   "cc": [
+    "Colombia"
+   ]
+  },
+  {
+   "id": "fc8579c142dc",
+   "t": "Russian jets spark air raid alert in South Korea",
+   "ko": "러시아 전투기, 한국에 공습 경보 발령",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/video/newsfeed/2026/11/24/aje-onl-nf_russian-jets-spark-air-raid-alert-in-south-korea-241126?traffic_source=rss",
+   "at": "2026-11-24T21:14:57.000Z",
+   "ev": [],
+   "cc": [
+    "Russia",
+    "South Korea"
+   ]
+  },
+  {
+   "id": "28ea865f0ac5",
+   "t": "Ten hostages released in standoff with gunmen at Colombia supermarket",
+   "ko": "콜롬비아 슈퍼마켓에서 총격범과 대치하다 인질 10명 석방",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/11/24/hostage-situation-reported-in-colombia-as-armed-men-flee-into-supermarket?traffic_source=rss",
+   "at": "2026-11-24T21:04:46.000Z",
+   "ev": [
+    "colombia"
+   ],
+   "cc": [
+    "Colombia"
+   ]
+  },
+  {
+   "id": "d99a7ab7f67d",
+   "t": "US Army to detonate more than 4 tonnes of lead azide in Iowa on Wednesday",
+   "ko": "미 육군, 수요일 아이오와주에서 4톤 이상의 아지드화납을 폭발시킬 예정",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/11/24/us-army-to-detonate-more-than-4-tonnes-of-lead-azide-in-iowa-on-wednesday?traffic_source=rss",
+   "at": "2026-11-24T20:28:40.000Z",
+   "ev": [],
+   "cc": [
+    "United States"
+   ]
+  },
   {
    "id": "9c887b791c37",
    "t": "Turkish military helicopter crash kills five in western Turkiye",
@@ -191,8 +332,8 @@
   },
   {
    "id": "99d677d8fb1c",
-   "t": "Gunmen hold two dozen people hostage at supermarket in Colombia's Cartagena",
-   "ko": "콜롬비아 카르타헤나 슈퍼마켓에서 무장괴한들이 24명을 인질로 잡았다.",
+   "t": "Gunmen hold 30 people hostage at supermarket in Colombia's Cartagena",
+   "ko": "콜롬비아 카르타헤나 슈퍼마켓에서 무장괴한들이 30명을 인질로 잡았다.",
    "src": "France 24",
    "u": "https://www.france24.com/en/americas/20261124-hostages-supermarket-colombia-cartagena-flights",
    "at": "2026-11-24T17:35:48.000Z",
@@ -423,6 +564,32 @@
    "ko": "파트너나 가족에 의해 매시간 5명의 여성이 살해당함",
    "src": "UN News",
    "u": "https://news.un.org/feed/view/en/story/2026/11/1168863",
+   "at": "2026-11-24T12:00:00.000Z",
+   "ev": [],
+   "cc": []
+  },
+  {
+   "id": "2ad3b6fa20d4",
+   "t": "World News in Brief: Vaccine crisis in Yemen, aid for Ukraine, another UNRWA staffer killed",
+   "ko": "세계 뉴스 요약: 예멘의 백신 위기, 우크라이나에 대한 지원, 또 다른 UNRWA 직원 사망",
+   "src": "UN News",
+   "u": "https://news.un.org/feed/view/en/story/2026/11/1168871",
+   "at": "2026-11-24T12:00:00.000Z",
+   "ev": [
+    "ukraine",
+    "yemen"
+   ],
+   "cc": [
+    "Yemen",
+    "Ukraine"
+   ]
+  },
+  {
+   "id": "732902948ae8",
+   "t": "‘Far too much failure’: UN deputy chief’s final call to end violence against women",
+   "ko": "'너무나 많은 실패': 여성에 대한 폭력을 종식하라는 유엔 부총장의 마지막 요청",
+   "src": "UN News",
+   "u": "https://news.un.org/feed/view/en/story/2026/11/1168868",
    "at": "2026-11-24T12:00:00.000Z",
    "ev": [],
    "cc": []
@@ -1467,251 +1634,6 @@
    "cc": [
     "Israel",
     "Palestine"
-   ]
-  },
-  {
-   "id": "192a1f729607",
-   "t": "Video of ICE detaining father and daughter while boarding flight sparks protests in Seattle",
-   "ko": "비행기에 탑승하는 동안 ICE가 아버지와 딸을 구금하는 영상이 시애틀에서 시위를 촉발시켰습니다.",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/us-news/2026/nov/23/father-daughter-ice-arrests-video-sparks-protests-seattle-airport",
-   "at": "2026-11-23T02:38:16.000Z",
-   "ev": [],
-   "cc": [
-    "United States"
-   ]
-  },
-  {
-   "id": "ab70cc09903b",
-   "t": "Thousands rally in Istanbul against Turkey’s crackdown on opposition and media",
-   "ko": "이스탄불에서 터키의 야당과 언론 탄압에 반대하는 수천 명의 집회",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/asia-pacific/20261123-istanbul-turkey-crackdown-opposition-media-turkey",
-   "at": "2026-11-23T02:15:34.000Z",
-   "ev": [],
-   "cc": [
-    "Turkey"
-   ]
-  },
-  {
-   "id": "3d18a2b584fd",
-   "t": "‘Extremely concerning’: Inside a US Army plan to detonate Iowa lead stores",
-   "ko": "'매우 우려스럽다': 아이오와 납 매장을 폭파하려는 미군 계획 내부",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/news/2026/11/23/extremely-concerning-inside-a-us-army-plan-to-detonate-iowa-lead-stores?traffic_source=rss",
-   "at": "2026-11-23T02:09:15.000Z",
-   "ev": [],
-   "cc": [
-    "United States"
-   ]
-  },
-  {
-   "id": "a33996b434f8",
-   "t": "Libya’s military says ‘fully prepared’ after Benghazi attacks",
-   "ko": "리비아군, 벵가지 공격에 '완전히 준비됐다'",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/video/newsfeed/2026/11/23/libyas-military-says-fully-prepared-after-benghazi-attacks?traffic_source=rss",
-   "at": "2026-11-23T01:51:32.000Z",
-   "ev": [],
-   "cc": [
-    "Libya"
-   ]
-  },
-  {
-   "id": "94e8727b585e",
-   "t": "Beau Lamarre-Condon ‘executed’ Jesse Baird and Luke Davies then lied about it, prosecution argues",
-   "ko": "Beau Lamarre-Condon은 Jesse Baird와 Luke Davies를 '처형'한 후 이에 대해 거짓말을 했다고 검찰이 주장했습니다.",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/australia-news/2026/nov/23/beau-lamarre-condon-trail-executed-jesse-baird-prosecution-argues-ntwnfb",
-   "at": "2026-11-23T00:54:02.000Z",
-   "ev": [],
-   "cc": [
-    "Australia"
-   ]
-  },
-  {
-   "id": "56423aec954c",
-   "t": "US army to blow up bomb-making chemicals despite safety concerns",
-   "ko": "미군, 안전 문제에도 불구하고 폭탄 제조 화학 물질을 폭파",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/us-news/2026/nov/22/army-blow-up-bomb-making-chemicals-iowa",
-   "at": "2026-11-23T00:50:39.000Z",
-   "ev": [],
-   "cc": [
-    "United States"
-   ]
-  },
-  {
-   "id": "442b3ff534a7",
-   "t": "COP31 climate talks in Turkey collapse",
-   "ko": "터키 COP31 기후 회담 결렬",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/video/20261123-cop31-climate-talks-collapse",
-   "at": "2026-11-23T00:44:47.000Z",
-   "ev": [
-    "iran"
-   ],
-   "cc": [
-    "Turkey",
-    "Iran"
-   ]
-  },
-  {
-   "id": "066ac24fc811",
-   "t": "Drone strikes hit homes, United Nations building in Sudan's capital",
-   "ko": "드론 공격으로 수단 수도의 주택과 유엔 건물이 타격을 입었습니다.",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/video/20261123-drone-strikes-hit-homes-united-nations-building-in-sudan-s-capital",
-   "at": "2026-11-23T00:43:36.000Z",
-   "ev": [
-    "sudan",
-    "ethiopia"
-   ],
-   "cc": [
-    "Sudan",
-    "Ethiopia"
-   ]
-  },
-  {
-   "id": "c85ec2c28cfa",
-   "t": "Cameroon’s ex-rebels caught between hiding and broken promises",
-   "ko": "은폐와 약속 파기 사이에 갇힌 카메룬의 전 반군들",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/news/2026/11/23/cameroons-ex-rebels-caught-between-hiding-and-broken-promises?traffic_source=rss",
-   "at": "2026-11-23T00:03:30.000Z",
-   "ev": [
-    "cameroon"
-   ],
-   "cc": [
-    "Cameroon"
-   ]
-  },
-  {
-   "id": "de25ddea0330",
-   "t": "Iran war live: Tankers set ablaze in Hormuz as IRGC warns of unrest threat",
-   "ko": "이란 전쟁 라이브: IRGC가 불안 위협을 경고함에 따라 호르무즈에서 유조선에 불이 붙었습니다.",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/news/liveblog/2026/11/22/iran-war-live-tankers-set-ablaze-in-hormuz-as-irgc-warns-of-unrest-threat?traffic_source=rss",
-   "at": "2026-11-22T23:59:22.000Z",
-   "ev": [
-    "iran"
-   ],
-   "cc": [
-    "Iran"
-   ]
-  },
-  {
-   "id": "4e7af9af598a",
-   "t": "Ukraine war spilling into NATO territory",
-   "ko": "우크라이나 전쟁, 나토 영토 침범",
-   "src": "NPR",
-   "u": "https://www.npr.org/2026/11/22/nx-s1-6050236/ukraine-war-spilling-into-nato-territory",
-   "at": "2026-11-22T22:40:22.000Z",
-   "ev": [
-    "ukraine"
-   ],
-   "cc": [
-    "Ukraine",
-    "Russia",
-    "Poland"
-   ]
-  },
-  {
-   "id": "fc13a5c4dd16",
-   "t": "Russian ship hit near Benghazi in suspected drone attack",
-   "ko": "드론 공격으로 의심되는 러시아 선박이 Benghazi 근처에 충돌",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/video/20261122-russian-ship-attacked-near-benghazi-in-suspected-drone-attack-ukraine",
-   "at": "2026-11-22T22:37:45.000Z",
-   "ev": [
-    "ukraine"
-   ],
-   "cc": [
-    "Russia",
-    "Libya",
-    "Ukraine"
-   ]
-  },
-  {
-   "id": "d636ecf1b50c",
-   "t": "'Danger seems greater all the time': Ukrainians search for missing after Russian strikes",
-   "ko": "'위험은 항상 더 커 보인다': 러시아 공습 이후 우크라이나인들이 실종자 수색 중",
-   "src": "BBC",
-   "u": "https://www.bbc.co.uk/news/videos/cre3dvd1k9y1o?at_medium=RSS&at_campaign=rss",
-   "at": "2026-11-22T22:37:43.000Z",
-   "ev": [
-    "ukraine"
-   ],
-   "cc": [
-    "Russia",
-    "Ukraine"
-   ]
-  },
-  {
-   "id": "1ef6bba92ede",
-   "t": "Second ship targeted in series of naval drone attacks off Libyan coast",
-   "ko": "리비아 해안에서 일련의 해군 드론 공격을 받은 두 번째 선박",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/video/newsfeed/2026/11/22/second-ship-targeted-in-series-of-naval-drone-attacks-off-libyan-coast?traffic_source=rss",
-   "at": "2026-11-22T22:01:48.000Z",
-   "ev": [],
-   "cc": [
-    "Libya"
-   ]
-  },
-  {
-   "id": "9e0e59e94b70",
-   "t": "Theresa May’s blast from the past calls Tories back to their unhappy place | Peter Walker",
-   "ko": "과거의 테레사 메이의 폭발은 토리들을 불행한 곳으로 다시 불러옵니다 | 피터 워커",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/politics/2026/nov/22/theresa-may-blast-from-the-past-tories-brexit",
-   "at": "2026-11-22T22:00:58.000Z",
-   "ev": [],
-   "cc": []
-  },
-  {
-   "id": "969b3e367a9a",
-   "t": "Russian warship sinks in Benghazi after suspected Ukrainian drone attack",
-   "ko": "우크라이나 드론 공격 의심 러시아 군함이 벵가지에서 침몰",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/world/2026/nov/22/blast-russian-ship-suspected-drone-attack-benghazi-libya",
-   "at": "2026-11-22T21:33:44.000Z",
-   "ev": [
-    "ukraine"
-   ],
-   "cc": [
-    "Russia",
-    "Ukraine",
-    "Libya"
-   ]
-  },
-  {
-   "id": "4bb37d2a2029",
-   "t": "Israel’s Eisenkot slams ‘Jewish terrorism’ after attacks by settlers in West Bank",
-   "ko": "이스라엘 아이젠코트, 서안지구 정착민 공격 후 '유태인 테러' 비난",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/middle-east/20261122-israel-s-eisenkot-slams-jewish-terrorism-after-attacks-by-settlers-in-west-bank",
-   "at": "2026-11-22T21:29:16.000Z",
-   "ev": [
-    "westbank"
-   ],
-   "cc": [
-    "Israel",
-    "Palestine"
-   ]
-  },
-  {
-   "id": "fb61cc4234e2",
-   "t": "Jensen Huang’s reported affair was ‘most expensive sex since Helen of Troy’, US senator says",
-   "ko": "젠슨 황의 불륜은 '트로이의 헬렌 이후 가장 비싼 섹스'였다고 미국 상원의원이 밝혔습니다.",
-   "src": "The Guardian",
-   "u": "https://www.theguardian.com/us-news/2026/nov/22/jensen-huang-nvidia-john-kennedy",
-   "at": "2026-11-22T20:23:36.000Z",
-   "ev": [],
-   "cc": [
-    "United States",
-    "China",
-    "Greece"
    ]
   }
  ]
