@@ -1,13 +1,13 @@
 {
- "updated": "2026-11-25T13:29:26.156Z",
+ "updated": "2026-11-25T22:45:02.301Z",
  "sources": {
   "BBC": {
    "ok": true,
-   "n": 6
+   "n": 9
   },
   "Al Jazeera": {
    "ok": true,
-   "n": 8
+   "n": 11
   },
   "The Guardian": {
    "ok": false,
@@ -15,22 +15,420 @@
   },
   "DW": {
    "ok": true,
-   "n": 3
+   "n": 4
   },
   "France 24": {
    "ok": true,
-   "n": 10
+   "n": 13
   },
   "UN News": {
    "ok": true,
-   "n": 4
+   "n": 7
   },
   "NPR": {
    "ok": true,
-   "n": 3
+   "n": 2
   }
  },
  "items": [
+  {
+   "id": "f1f30c98b1ad",
+   "t": "Thirty-one killed in massive fire as fuel tanker crashes on Cairo highway",
+   "ko": "카이로 고속도로에서 유조선이 충돌해 대규모 화재가 발생해 31명이 사망했습니다.",
+   "src": "BBC",
+   "u": "https://www.bbc.co.uk/news/articles/cqy7rn30v314o?at_medium=RSS&at_campaign=rss",
+   "at": "2026-11-25T22:18:06.000Z",
+   "ev": [],
+   "cc": [
+    "Egypt"
+   ]
+  },
+  {
+   "id": "ae6c6c34a2b8",
+   "t": "Did GTA 6 really recreate Charlie Kirk's assassination?",
+   "ko": "GTA 6는 정말 찰리 커크의 암살을 재현했나요?",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/tv-shows/truth-or-fake/20261125-did-gta-6-really-recreate-charlie-kirk-s-assassination",
+   "at": "2026-11-25T20:38:28.000Z",
+   "ev": [
+    "ukraine"
+   ],
+   "cc": [
+    "Russia"
+   ]
+  },
+  {
+   "id": "0f4b85061cb8",
+   "t": "What’s behind Europe’s protests?",
+   "ko": "유럽 ​​시위의 배경은 무엇인가?",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/video/inside-story/2026/11/25/whats-behind-europes-protests?traffic_source=rss",
+   "at": "2026-11-25T20:30:22.000Z",
+   "ev": [],
+   "cc": [
+    "United Kingdom"
+   ]
+  },
+  {
+   "id": "7dbc46515194",
+   "t": "US Army says controlled blast of explosives in Iowa was 'huge success'",
+   "ko": "미 육군, 아이오와주에서 통제된 폭발물 폭발이 '큰 성공'",
+   "src": "BBC",
+   "u": "https://www.bbc.co.uk/news/articles/cwg7l5ve251ko?at_medium=RSS&at_campaign=rss",
+   "at": "2026-11-25T19:54:52.000Z",
+   "ev": [],
+   "cc": [
+    "United States"
+   ]
+  },
+  {
+   "id": "266eaffb494b",
+   "t": "US Army declares Iowa lead azide detonation ‘tremendously successful’",
+   "ko": "미 육군, 아이오와 납 아자이드 폭발이 '엄청난 성공'이라고 선언",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/11/25/us-army-declares-iowa-lead-azide-detonation-tremendously-successful?traffic_source=rss",
+   "at": "2026-11-25T19:41:49.000Z",
+   "ev": [],
+   "cc": [
+    "United States"
+   ]
+  },
+  {
+   "id": "1f65d7c53225",
+   "t": "Dozens killed in Egypt vehicle fire",
+   "ko": "이집트 차량 화재로 수십명 사망",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/video/newsfeed/2026/11/25/aje-onl-nf_dozens-killed-in-egypt-vehicle-fire-251126?traffic_source=rss",
+   "at": "2026-11-25T19:41:14.000Z",
+   "ev": [],
+   "cc": [
+    "Egypt"
+   ]
+  },
+  {
+   "id": "eb0a93722806",
+   "t": "Poland says will create no-fly zone at Ukraine border after repeated airspace violations",
+   "ko": "폴란드는 반복적인 영공 위반 이후 우크라이나 국경에 비행 금지 구역을 만들 것이라고 밝혔습니다.",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/poland-says-will-create-no-fly-zone-at-ukraine-border-after-repeated-airspace-violations",
+   "at": "2026-11-25T19:22:43.000Z",
+   "ev": [
+    "ukraine"
+   ],
+   "cc": [
+    "Poland",
+    "Ukraine",
+    "Russia"
+   ]
+  },
+  {
+   "id": "4b6679d458d3",
+   "t": "Ukrainian laser downs Russian jet-powered drone in world first",
+   "ko": "우크라이나 레이저, 세계 최초로 러시아 제트 추진 드론 격추",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/video/newsfeed/2026/11/25/ukrainian-laser-downs-russian-jet-powered-drone-in-world-first?traffic_source=rss",
+   "at": "2026-11-25T19:16:15.000Z",
+   "ev": [
+    "ukraine"
+   ],
+   "cc": [
+    "Ukraine",
+    "Russia"
+   ]
+  },
+  {
+   "id": "e4fc52f7f3db",
+   "t": "Could renewed strikes on Hodeidah port worsen Yemen’s humanitarian crisis?",
+   "ko": "호데이다 항구에 대한 새로운 파업이 예멘의 인도주의적 위기를 악화시킬 수 있습니까?",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/11/25/could-renewed-strikes-on-hodeidah-port-worsen-yemens-humanitarian-crisis?traffic_source=rss",
+   "at": "2026-11-25T19:15:52.000Z",
+   "ev": [
+    "yemen"
+   ],
+   "cc": [
+    "Yemen"
+   ]
+  },
+  {
+   "id": "370d605f27fc",
+   "t": "UK military ‘moving aircraft to hangars in case of drone attacks’",
+   "ko": "영국군 '드론 공격시 항공기 격납고로 이동'",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/11/25/uk-military-moving-aircraft-to-hangars-in-case-of-drone-attacks?traffic_source=rss",
+   "at": "2026-11-25T19:15:01.000Z",
+   "ev": [],
+   "cc": [
+    "United Kingdom"
+   ]
+  },
+  {
+   "id": "3319d4804b88",
+   "t": "At least 30 killed in Egypt vehicle fire, health ministry says",
+   "ko": "이집트 차량 화재로 최소 30명 사망, 보건부 발표",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/11/25/at-least-30-killed-in-egypt-vehicle-fire-health-ministry-says?traffic_source=rss",
+   "at": "2026-11-25T18:55:23.000Z",
+   "ev": [],
+   "cc": [
+    "Egypt"
+   ]
+  },
+  {
+   "id": "25bebad9ce27",
+   "t": "Nigeria’s Tinubu pledges to bring peace to rebellion-hit border region",
+   "ko": "나이지리아 티누부(Tinubu), 반군 피해를 입은 국경 지역에 평화를 가져오겠다고 약속",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/11/25/nigerias-tinubu-pledges-to-bring-peace-to-insurgency-hit-northeast-region?traffic_source=rss",
+   "at": "2026-11-25T18:14:44.000Z",
+   "ev": [
+    "nigeria"
+   ],
+   "cc": [
+    "Nigeria"
+   ]
+  },
+  {
+   "id": "7cd4ff25e7d0",
+   "t": "Ecuador and US review joint military operations, official says",
+   "ko": "에콰도르와 미국이 합동 군사작전을 검토하고 있다고 관계자가 밝혔습니다.",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/11/25/ecuador-and-us-review-joint-military-operations-official-says?traffic_source=rss",
+   "at": "2026-11-25T17:50:41.000Z",
+   "ev": [],
+   "cc": [
+    "Ecuador",
+    "United States"
+   ]
+  },
+  {
+   "id": "f49033498549",
+   "t": "Turkey's deadly factory blast: 'Investing in safety costs more than letting people die'",
+   "ko": "터키의 치명적인 공장 폭발: '안전에 투자하는 것은 사람을 죽게 하는 것보다 더 많은 비용이 든다'",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/europe/20261125-factory-blast-turkey-izmir",
+   "at": "2026-11-25T17:28:33.000Z",
+   "ev": [],
+   "cc": [
+    "Turkey"
+   ]
+  },
+  {
+   "id": "1063d6c8900c",
+   "t": "Djibouti: The Man Who Dared",
+   "ko": "지부티: 대담한 남자",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/video/al-jazeera-world/2026/11/25/djibouti-the-man-who-dared?traffic_source=rss",
+   "at": "2026-11-25T17:00:00.000Z",
+   "ev": [],
+   "cc": [
+    "Djibouti"
+   ]
+  },
+  {
+   "id": "079d3c072cfe",
+   "t": "Colombian forces rescue all hostages after supermarket siege",
+   "ko": "콜롬비아군, 슈퍼마켓 포위 공격 후 인질 모두 구출",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/video/newsfeed/2026/11/25/colombian-forces-rescue-all-hostages-after-supermarket-siege?traffic_source=rss",
+   "at": "2026-11-25T16:44:22.000Z",
+   "ev": [
+    "colombia"
+   ],
+   "cc": [
+    "Colombia"
+   ]
+  },
+  {
+   "id": "50e0a2ba3c33",
+   "t": "Moldova launches national preparedness campaign after drone incursions",
+   "ko": "몰도바, 드론 침입 이후 국가 대비 캠페인 시작",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/moldova-launches-national-preparedness-campaign-after-drone-incursions",
+   "at": "2026-11-25T16:34:45.000Z",
+   "ev": [
+    "ukraine"
+   ],
+   "cc": [
+    "Moldova",
+    "Ukraine"
+   ]
+  },
+  {
+   "id": "2efa70114790",
+   "t": "Iranian family seeks release of twin sisters facing death penalty and 25 years in prison",
+   "ko": "이란 가족, 쌍둥이 자매 석방 요구, 사형 및 25년 징역형 선고",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/video/20261125-iranian-family-seeks-release-of-twin-sisters-facing-death-penalty-and-25-years-in-prison",
+   "at": "2026-11-25T16:20:57.000Z",
+   "ev": [
+    "iran"
+   ],
+   "cc": [
+    "Iran"
+   ]
+  },
+  {
+   "id": "197c4519fed0",
+   "t": "Russian casualties in Ukraine war: New reports suggest death toll as high as 700,000",
+   "ko": "우크라이나 전쟁에서 러시아 사상자 : 새로운 보고서에 따르면 사망자 수는 최대 700,000 명에 이릅니다.",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/video/20261125-russian-casualties-in-ukraine-war-new-reports-suggest-death-toll-as-high-as-700-000",
+   "at": "2026-11-25T16:17:02.000Z",
+   "ev": [
+    "ukraine"
+   ],
+   "cc": [
+    "Russia",
+    "Ukraine"
+   ]
+  },
+  {
+   "id": "69fdf858ef62",
+   "t": "Iowa: Toxic dust fears as US Army blows up 10,000 pounds of explosives",
+   "ko": "아이오와: 미군이 10,000파운드의 폭발물을 폭파함에 따라 독성 먼지에 대한 우려",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/video/20261125-iowa-toxic-dust-fears-as-us-army-blows-up-10-000-pounds-of-explosives",
+   "at": "2026-11-25T16:14:40.000Z",
+   "ev": [],
+   "cc": [
+    "United States"
+   ]
+  },
+  {
+   "id": "f03bb4a9a565",
+   "t": "Colombia: Security forces rescue hostages in supermarket siege",
+   "ko": "콜롬비아: 보안군, 슈퍼마켓 포위 공격에서 인질 구출",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/video/20261125-colombia-security-forces-rescue-hostages-in-supermarket-siege",
+   "at": "2026-11-25T16:08:44.000Z",
+   "ev": [
+    "colombia"
+   ],
+   "cc": [
+    "Colombia"
+   ]
+  },
+  {
+   "id": "bed3a1d03949",
+   "t": "US Army detonates lead explosives in Iowa despite contamination fears",
+   "ko": "미 육군, 오염 우려에도 불구하고 아이오와에서 납 폭발물 폭발",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/americas/20261125-us-army-detonates-lead-explosives-iowa-despite-community-backlash",
+   "at": "2026-11-25T16:08:10.000Z",
+   "ev": [],
+   "cc": [
+    "United States"
+   ]
+  },
+  {
+   "id": "86b79ba660a0",
+   "t": "'We need to stop the war in Iran': US Congresswoman Pramila Jayapal",
+   "ko": "프라밀라 자야팔 미 하원의원 “이란 전쟁을 멈춰야 한다”",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/tv-shows/t%C3%AAte-%C3%A0-t%C3%AAte/20261125-we-need-to-stop-the-war-in-iran-us-congresswoman-pramila-jayapal",
+   "at": "2026-11-25T15:46:59.000Z",
+   "ev": [
+    "iran"
+   ],
+   "cc": [
+    "Iran",
+    "United States",
+    "Israel"
+   ]
+  },
+  {
+   "id": "9324de5b2f5b",
+   "t": "Libya’s Haftar visits old foe Turkey for first time in ‘new phase’ of ties",
+   "ko": "리비아 하프타르, '새로운 단계' 관계에서 처음으로 옛 적 터키 방문",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/middle-east/20261125-libya-s-haftar-visits-old-foe-turkey-in-a-first-hails-new-phase-of-ties",
+   "at": "2026-11-25T15:19:19.000Z",
+   "ev": [
+    "ukraine"
+   ],
+   "cc": [
+    "Libya",
+    "Turkey",
+    "Ukraine"
+   ]
+  },
+  {
+   "id": "ffa724863311",
+   "t": "Kremlin declines comment on reports 700,000 Russian soldiers killed in Ukraine war",
+   "ko": "크렘린궁, 우크라이나 전쟁에서 러시아군 70만명 사망 보도에 대한 논평 거부",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/europe/20261125-kremlin-declines-comment-reports-700-000-russian-soldiers-killed-ukraine-war",
+   "at": "2026-11-25T15:14:07.000Z",
+   "ev": [
+    "ukraine"
+   ],
+   "cc": [
+    "Russia",
+    "Ukraine"
+   ]
+  },
+  {
+   "id": "f2a5159aceda",
+   "t": "Houthi rebels close in on Aden, Yemeni forces dig in behind fortified line",
+   "ko": "후티 반군이 아덴에 접근하고 예멘군이 요새화된 방어선 뒤를 파고듭니다.",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/video/20261125-houthi-rebels-close-in-on-aden-yemeni-forces-dig-in-behind-fortified-line",
+   "at": "2026-11-25T14:52:06.000Z",
+   "ev": [
+    "iran",
+    "yemen"
+   ],
+   "cc": [
+    "Yemen"
+   ]
+  },
+  {
+   "id": "2ade0562e21e",
+   "t": "Five Russian military jets hit in airfield strike, says Ukraine",
+   "ko": "우크라이나, 러시아 군용기 5대 비행장 공습",
+   "src": "BBC",
+   "u": "https://www.bbc.co.uk/news/articles/ck9q8xp5r5pgo?at_medium=RSS&at_campaign=rss",
+   "at": "2026-11-25T14:46:41.000Z",
+   "ev": [
+    "ukraine"
+   ],
+   "cc": [
+    "Russia",
+    "Ukraine"
+   ]
+  },
+  {
+   "id": "27aa41ea10e1",
+   "t": "Israeli strike kills senior Hamas security official and family in Gaza City",
+   "ko": "이스라엘 공습으로 가자시티 하마스 고위관리와 가족 사망",
+   "src": "BBC",
+   "u": "https://www.bbc.co.uk/news/articles/cmd718zydz9qo?at_medium=RSS&at_campaign=rss",
+   "at": "2026-11-25T14:06:13.000Z",
+   "ev": [
+    "gaza"
+   ],
+   "cc": [
+    "Israel",
+    "Palestine"
+   ]
+  },
+  {
+   "id": "9c36131a4095",
+   "t": "Why Indian nationals are still ending up in Russia's war on Ukraine",
+   "ko": "인도 국민이 여전히 러시아의 우크라이나 전쟁에 참여하고 있는 이유",
+   "src": "DW",
+   "u": "https://www.dw.com/en/why-indian-nationals-are-still-ending-up-in-russia-s-war-on-ukraine/a-80048537?maca=en-rss-en-world-4025-rdf",
+   "at": "2026-11-25T13:17:00.000Z",
+   "ev": [
+    "ukraine",
+    "delhi"
+   ],
+   "cc": [
+    "Russia",
+    "Ukraine"
+   ]
+  },
   {
    "id": "210017cf545b",
    "t": "Israeli MPs advance bill for inquiry into security failings that led to October 7 Hamas attack",
@@ -109,6 +507,48 @@
    "ev": [],
    "cc": [
     "United States"
+   ]
+  },
+  {
+   "id": "b15305e65488",
+   "t": "Gaza’s widows raise their families alone: ‘We do our duties twice over, but where are our rights?’",
+   "ko": "가자지구의 과부들은 혼자 가족을 부양합니다. '우리는 의무를 두 번이나 수행하지만 우리의 권리는 어디에 있습니까?'",
+   "src": "UN News",
+   "u": "https://news.un.org/feed/view/en/story/2026/11/1168875",
+   "at": "2026-11-25T12:00:00.000Z",
+   "ev": [
+    "gaza"
+   ],
+   "cc": [
+    "Palestine"
+   ]
+  },
+  {
+   "id": "5a0050dcd41d",
+   "t": "Somalia: Famine risk decreases in Baidoa – but millions still going hungry",
+   "ko": "소말리아: 바이도아(Baidoa)에서는 기근 위험이 감소하지만 수백만 명이 여전히 굶주리고 있습니다.",
+   "src": "UN News",
+   "u": "https://news.un.org/feed/view/en/story/2026/11/1168874",
+   "at": "2026-11-25T12:00:00.000Z",
+   "ev": [
+    "somalia"
+   ],
+   "cc": [
+    "Somalia"
+   ]
+  },
+  {
+   "id": "273c3dfbddba",
+   "t": "Yemen war: Emergency aid chief calls for access to war-hit communities",
+   "ko": "예멘 전쟁: 긴급구호 책임자, 전쟁 피해 지역사회에 대한 접근 요청",
+   "src": "UN News",
+   "u": "https://news.un.org/feed/view/en/story/2026/11/1168872",
+   "at": "2026-11-25T12:00:00.000Z",
+   "ev": [
+    "yemen"
+   ],
+   "cc": [
+    "Yemen"
    ]
   },
   {
@@ -210,6 +650,19 @@
    ]
   },
   {
+   "id": "9b0ba875f022",
+   "t": "Fact check: Deepfakes and 'US abandons Taiwan' claims spread ahead of vote",
+   "ko": "사실 확인: 딥페이크와 '미국이 대만을 포기한다'는 주장이 투표를 앞두고 퍼졌습니다.",
+   "src": "DW",
+   "u": "https://www.dw.com/en/fact-check-deepfakes-and-us-abandons-taiwan-claims-spread-ahead-of-vote/a-80004834?maca=en-rss-en-world-4025-rdf",
+   "at": "2026-11-25T10:35:00.000Z",
+   "ev": [],
+   "cc": [
+    "United States",
+    "Taiwan"
+   ]
+  },
+  {
    "id": "ec1374253bc8",
    "t": "Could Netanyahu take Israel into another war with Iran to cling to power?",
    "ko": "네타냐후가 권력을 유지하기 위해 이스라엘을 이란과의 또 다른 전쟁에 끌어들일 수 있을까요?",
@@ -222,6 +675,19 @@
    "cc": [
     "Israel",
     "Iran"
+   ]
+  },
+  {
+   "id": "f8fae99390de",
+   "t": "Protesters call on Israel to free Palestinian student held without charge",
+   "ko": "시위대, 이스라엘에 무혐의로 구금된 팔레스타인 학생 석방 촉구",
+   "src": "BBC",
+   "u": "https://www.bbc.co.uk/news/articles/cw62p8z9edjlo?at_medium=RSS&at_campaign=rss",
+   "at": "2026-11-25T10:03:42.000Z",
+   "ev": [],
+   "cc": [
+    "Israel",
+    "Palestine"
    ]
   },
   {
@@ -1091,323 +1557,6 @@
    "ev": [],
    "cc": [
     "United States"
-   ]
-  },
-  {
-   "id": "792e41a0a3f6",
-   "t": "NATO vows space defence after Russia nuclear satellite report",
-   "ko": "나토, 러시아 핵위성 보고 이후 우주방위 다짐",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/nato-vows-space-defence-after-russia-nuclear-satellite-report",
-   "at": "2026-11-23T22:33:03.000Z",
-   "ev": [],
-   "cc": [
-    "Russia",
-    "Germany"
-   ]
-  },
-  {
-   "id": "16ae2ac8487f",
-   "t": "'A war of unmanned machines, AI and total transparency of the battlefield'",
-   "ko": "'무인기계와 AI, 그리고 전장의 완전한 투명성의 전쟁'",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/tv-shows/a-propos/20261123-a-war-of-unmanned-machines-ai-and-total-transparency-of-the-battlefield",
-   "at": "2026-11-23T21:56:25.000Z",
-   "ev": [
-    "ukraine"
-   ],
-   "cc": [
-    "Ukraine"
-   ]
-  },
-  {
-   "id": "91caada7b4c7",
-   "t": "UK sanctions top Myanmar military leaders after Rohingya genocide ruling",
-   "ko": "영국, 로힝야족 학살 판결 이후 미얀마 군부 지도자들을 제재",
-   "src": "BBC",
-   "u": "https://www.bbc.co.uk/news/articles/c6wy4ng1rznxo?at_medium=RSS&at_campaign=rss",
-   "at": "2026-11-23T21:03:34.000Z",
-   "ev": [
-    "myanmar",
-    "rohingya"
-   ],
-   "cc": [
-    "United Kingdom",
-    "Myanmar"
-   ]
-  },
-  {
-   "id": "e8b12cc5b998",
-   "t": "What strike on Russian ship in Libya says about spread of Ukraine war",
-   "ko": "리비아에서 러시아 선박에 대한 공격은 우크라이나 전쟁의 확산에 대해 말해줍니다",
-   "src": "BBC",
-   "u": "https://www.bbc.co.uk/news/articles/cm894p88jzxpo?at_medium=RSS&at_campaign=rss",
-   "at": "2026-11-23T20:48:35.000Z",
-   "ev": [
-    "ukraine"
-   ],
-   "cc": [
-    "Russia",
-    "Libya",
-    "Ukraine"
-   ]
-  },
-  {
-   "id": "42402989af3b",
-   "t": "Iran hits US bases and civilian sites in the Gulf after a lull",
-   "ko": "이란, 소강상태 후 걸프만 미군기지와 민간시설 공습",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/video/inside-story/2026/11/23/iran-hits-us-bases-and-civilian-sites-in-the-gulf-after-a-lull?traffic_source=rss",
-   "at": "2026-11-23T20:26:40.000Z",
-   "ev": [
-    "iran"
-   ],
-   "cc": [
-    "Iran",
-    "United States"
-   ]
-  },
-  {
-   "id": "03240d2232e3",
-   "t": "Libya's east seeks UN probe into claims Ukrainian military present in west",
-   "ko": "리비아 동부, 우크라이나군 서부 주둔 주장에 대해 유엔 조사 요청",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/libya-s-east-seeks-un-probe-into-claims-ukrainian-military-present-in-west",
-   "at": "2026-11-23T20:08:10.000Z",
-   "ev": [
-    "ukraine"
-   ],
-   "cc": [
-    "Libya",
-    "Ukraine",
-    "Russia"
-   ]
-  },
-  {
-   "id": "435658bc0d87",
-   "t": "How far will Ukraine war spread? Kyiv targets Russian vessels in Libya",
-   "ko": "우크라이나 전쟁은 어디까지 확산될 것인가? 키예프는 리비아에서 러시아 선박을 표적으로 삼았습니다.",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/tv-shows/the-debate/20261123-how-far-will-ukraine-war-spread-kyiv-targets-russian-vessels-in-libya",
-   "at": "2026-11-23T19:41:45.000Z",
-   "ev": [
-    "ukraine"
-   ],
-   "cc": [
-    "Ukraine",
-    "Russia",
-    "Libya"
-   ]
-  },
-  {
-   "id": "76c36a370ecb",
-   "t": "Ukraine claims it sank Russian warship off Libya",
-   "ko": "우크라이나, 리비아 앞바다에서 러시아 군함 격침 주장",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/ukraine-claims-it-sank-russian-warship-off-libya",
-   "at": "2026-11-23T19:39:00.000Z",
-   "ev": [
-    "ukraine"
-   ],
-   "cc": [
-    "Ukraine",
-    "Russia",
-    "Libya"
-   ]
-  },
-  {
-   "id": "f57582a725cb",
-   "t": "Russia threatens ‘hostile’ Estonia with ‘open war’",
-   "ko": "러시아, '개방전'으로 '적대적' 에스토니아 위협",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/news/2026/11/23/russia-threatens-hostile-estonia-with-open-war?traffic_source=rss",
-   "at": "2026-11-23T19:20:30.000Z",
-   "ev": [
-    "ukraine"
-   ],
-   "cc": [
-    "Russia",
-    "Estonia",
-    "Ukraine"
-   ]
-  },
-  {
-   "id": "796612a75aeb",
-   "t": "Israeli attacks have turned Gaza into 'toxic wasteland', Oxfam says",
-   "ko": "이스라엘의 공격으로 가자지구가 '독성 황무지'로 변했다고 옥스팜이 밝혔습니다.",
-   "src": "BBC",
-   "u": "https://www.bbc.co.uk/news/articles/c8r4gzzxvxl3o?at_medium=RSS&at_campaign=rss",
-   "at": "2026-11-23T17:07:25.000Z",
-   "ev": [
-    "gaza"
-   ],
-   "cc": [
-    "Israel",
-    "Palestine"
-   ]
-  },
-  {
-   "id": "c8ff235995c4",
-   "t": "Finland summons Russian ambassador after suspected airspace violation",
-   "ko": "핀란드, 영공 침해 의심 러시아 대사 소환",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/europe/20261123-finland-summons-russian-ambassador-after-suspected-airspace-violation",
-   "at": "2026-11-23T16:50:41.000Z",
-   "ev": [
-    "ukraine"
-   ],
-   "cc": [
-    "Finland",
-    "Russia",
-    "Ukraine"
-   ]
-  },
-  {
-   "id": "6c8e8f63ded1",
-   "t": "Israeli strikes kill at least three, including UNRWA worker, in Gaza",
-   "ko": "이스라엘, 가자지구 공습으로 UNRWA 직원 포함 최소 3명 사망",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/news/2026/11/23/israeli-drone-strike-kills-unrwa-worker-in-gaza?traffic_source=rss",
-   "at": "2026-11-23T16:36:22.000Z",
-   "ev": [
-    "gaza"
-   ],
-   "cc": [
-    "Israel",
-    "Palestine"
-   ]
-  },
-  {
-   "id": "c5b3bdbceb53",
-   "t": "Gaza mourns UNRWA worker killed in Israeli strike",
-   "ko": "가자지구, 이스라엘 공습으로 사망한 UNRWA 노동자 애도",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/video/newsfeed/2026/11/23/gaza-mourns-unrwa-worker-killed-in-israeli-strike?traffic_source=rss",
-   "at": "2026-11-23T16:35:28.000Z",
-   "ev": [
-    "gaza"
-   ],
-   "cc": [
-    "Palestine",
-    "Israel"
-   ]
-  },
-  {
-   "id": "76e72c51b82b",
-   "t": "Russia warns Ukraine of ‘dangerous trend’ after Libya and Baltic attacks",
-   "ko": "러시아, 리비아와 발트해 공격 이후 우크라이나에 '위험한 추세' 경고",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/news/2026/11/23/russia-warns-ukraine-of-dangerous-trend-after-libya-and-baltic-attacks?traffic_source=rss",
-   "at": "2026-11-23T16:23:33.000Z",
-   "ev": [
-    "ukraine"
-   ],
-   "cc": [
-    "Russia",
-    "Ukraine",
-    "Libya"
-   ]
-  },
-  {
-   "id": "e0e953acfbfd",
-   "t": "Airports, public transport shut down amid national strike in Belgium",
-   "ko": "벨기에 전국 파업으로 공항·대중교통 폐쇄",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/video/20261123-airports-public-transport-shut-down-amid-national-strike-in-belgium",
-   "at": "2026-11-23T16:10:30.000Z",
-   "ev": [
-    "belgium"
-   ],
-   "cc": [
-    "Belgium",
-    "France"
-   ]
-  },
-  {
-   "id": "f943b78b7ada",
-   "t": "After Japan's APEC snub, what's next for its China ties?",
-   "ko": "일본의 APEC 무시 이후 중국 관계의 다음 단계는 무엇입니까?",
-   "src": "DW",
-   "u": "https://www.dw.com/en/after-japan-s-apec-snub-what-s-next-for-its-china-ties/a-80020823?maca=en-rss-en-world-4025-rdf",
-   "at": "2026-11-23T15:57:00.000Z",
-   "ev": [],
-   "cc": [
-    "Japan",
-    "China",
-    "Taiwan"
-   ]
-  },
-  {
-   "id": "33b329e4b31e",
-   "t": "Iran's courts order US to pay $290 billion in damages",
-   "ko": "이란 법원, 미국에 2900억 달러 손해배상 명령",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/iran-s-courts-order-us-to-pay-290-billion-in-damages",
-   "at": "2026-11-23T15:50:11.000Z",
-   "ev": [
-    "iran"
-   ],
-   "cc": [
-    "Iran",
-    "United States"
-   ]
-  },
-  {
-   "id": "2b2400015386",
-   "t": "Russian warship hit by Ukrainian drones in Libya, Zelensky says",
-   "ko": "젤렌스키 \"러시아 군함이 리비아에서 우크라이나 드론 공격을 받았다\"",
-   "src": "BBC",
-   "u": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss",
-   "at": "2026-11-23T15:41:23.000Z",
-   "ev": [
-    "ukraine"
-   ],
-   "cc": [
-    "Russia",
-    "Ukraine",
-    "Libya"
-   ]
-  },
-  {
-   "id": "b71f334cdaf8",
-   "t": "Tens of thousands take to streets in Belgium in anti-austerity protests",
-   "ko": "벨기에에서는 수만 명이 긴축 반대 시위를 벌이며 거리로 나섰습니다.",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/video/20261123-tens-of-thousands-take-to-streets-in-belgium-in-anti-austerity-protests",
-   "at": "2026-11-23T15:19:44.000Z",
-   "ev": [
-    "belgium"
-   ],
-   "cc": [
-    "Belgium"
-   ]
-  },
-  {
-   "id": "2cb2f93d8105",
-   "t": "Mexican soldiers attacked in wake of drug lord's arrest",
-   "ko": "마약왕 체포에 멕시코 군인들 공격",
-   "src": "BBC",
-   "u": "https://www.bbc.co.uk/news/articles/c5rmgkv2lk73o?at_medium=RSS&at_campaign=rss",
-   "at": "2026-11-23T14:54:03.000Z",
-   "ev": [
-    "mexico"
-   ],
-   "cc": [
-    "Mexico"
-   ]
-  },
-  {
-   "id": "1baaa97b8aff",
-   "t": "Flights cancelled in Belgium due to cost-of-living strike",
-   "ko": "생계비 파업으로 벨기에 항공편 취소",
-   "src": "BBC",
-   "u": "https://www.bbc.co.uk/news/articles/cwdr155e2d05o?at_medium=RSS&at_campaign=rss",
-   "at": "2026-11-23T13:34:02.000Z",
-   "ev": [
-    "belgium"
-   ],
-   "cc": [
-    "Belgium"
    ]
   }
  ]
