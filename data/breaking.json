@@ -1,13 +1,13 @@
 {
- "updated": "2026-11-26T04:45:52.042Z",
+ "updated": "2026-11-26T14:49:55.278Z",
  "sources": {
   "BBC": {
    "ok": true,
-   "n": 11
+   "n": 14
   },
   "Al Jazeera": {
    "ok": true,
-   "n": 10
+   "n": 8
   },
   "The Guardian": {
    "ok": false,
@@ -19,11 +19,11 @@
   },
   "France 24": {
    "ok": true,
-   "n": 7
+   "n": 4
   },
   "UN News": {
    "ok": true,
-   "n": 8
+   "n": 5
   },
   "NPR": {
    "ok": true,
@@ -31,6 +31,332 @@
   }
  },
  "items": [
+  {
+   "id": "cabe3a95b498",
+   "t": "Moscow drone incursions: Poland to create no-fly zone at Ukraine border",
+   "ko": "모스크바 드론 침입: 폴란드, 우크라이나 국경에 비행 금지 구역 만들기",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/video/20261126-moscow-drone-incursions-poland-to-create-no-fly-zone-at-ukraine-border",
+   "at": "2026-11-26T14:19:11.000Z",
+   "ev": [
+    "ukraine"
+   ],
+   "cc": [
+    "Poland",
+    "Ukraine",
+    "Russia"
+   ]
+  },
+  {
+   "id": "46fc496c9211",
+   "t": "Can Trump continue with Iran war despite funding restrictions?",
+   "ko": "트럼프는 자금 제한에도 불구하고 이란 전쟁을 계속할 수 있을까?",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/11/26/can-trump-continue-with-iran-war-despite-funding-restrictions?traffic_source=rss",
+   "at": "2026-11-26T14:17:21.000Z",
+   "ev": [
+    "iran"
+   ],
+   "cc": [
+    "Iran"
+   ]
+  },
+  {
+   "id": "f12611ab3436",
+   "t": "Diesel tanker carrying up to 7,000 tonnes sinks near Ibiza, killing one",
+   "ko": "최대 7,000톤을 싣는 디젤 유조선이 이비자 인근에서 침몰해 1명이 사망했다.",
+   "src": "BBC",
+   "u": "https://www.bbc.co.uk/news/articles/c9gklryvj24do?at_medium=RSS&at_campaign=rss",
+   "at": "2026-11-26T14:00:42.000Z",
+   "ev": [],
+   "cc": [
+    "Spain"
+   ]
+  },
+  {
+   "id": "64e92cc13cb0",
+   "t": "Housing crisis on the ballot: Anger boils over ahead of Spanish election",
+   "ko": "투표용지의 주택 위기: 스페인 선거를 앞두고 분노가 끓어오르다",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/tv-shows/focus/20261126-housing-crisis-on-the-ballot-anger-boils-over-ahead-of-spanish-election",
+   "at": "2026-11-26T13:33:21.000Z",
+   "ev": [],
+   "cc": [
+    "Spain"
+   ]
+  },
+  {
+   "id": "37a959a07906",
+   "t": "Jordan Parliament debates ‘antiterror’ law after deadly Karak church attack",
+   "ko": "요르단 의회, 카락 교회 테러 이후 '테러 방지법' 논의",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/11/26/jordan-parliament-debates-antiterror-law-after-deadly-karak-church-attack?traffic_source=rss",
+   "at": "2026-11-26T13:23:46.000Z",
+   "ev": [],
+   "cc": [
+    "Jordan"
+   ]
+  },
+  {
+   "id": "1750853b8f8d",
+   "t": "Film shows testimonies of international doctors amid Gaza genocide",
+   "ko": "영화는 가자지구 학살 속에서 국제 의사들의 증언을 보여줍니다",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/video/newsfeed/2026/11/26/film-shows-testimonies-of-international-doctors-amid-gaza-genocide?traffic_source=rss",
+   "at": "2026-11-26T13:02:24.000Z",
+   "ev": [
+    "gaza"
+   ],
+   "cc": [
+    "Palestine"
+   ]
+  },
+  {
+   "id": "10aa4833139d",
+   "t": "Tributes for Duran Duran guitarist Andy Taylor after his death aged 65",
+   "ko": "듀란듀란 기타리스트 앤디 테일러가 65세의 나이로 사망한 후 추모",
+   "src": "BBC",
+   "u": "https://www.bbc.co.uk/news/articles/cmp3vk6vr44po?at_medium=RSS&at_campaign=rss",
+   "at": "2026-11-26T12:33:23.000Z",
+   "ev": [],
+   "cc": []
+  },
+  {
+   "id": "e47d5a36d07a",
+   "t": "‘Symbolic’: Why did UK sanction Yemen’s Houthis amid attacks on Saudi?",
+   "ko": "'상징적': 영국이 사우디 공격 중에 예멘 후티 반군을 제재한 이유는 무엇입니까?",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/11/26/symbolic-why-did-uk-sanction-yemens-houthis-amid-attacks-on-saudi?traffic_source=rss",
+   "at": "2026-11-26T12:10:49.000Z",
+   "ev": [
+    "iran",
+    "yemen"
+   ],
+   "cc": [
+    "United Kingdom",
+    "Yemen",
+    "Saudi Arabia"
+   ]
+  },
+  {
+   "id": "271723a138c7",
+   "t": "DR Congo: Peacekepers step up civilian protection amid fighting in Ituri",
+   "ko": "DR 콩고: 이투리 전투 중 평화 유지군이 민간인 보호 강화",
+   "src": "UN News",
+   "u": "https://news.un.org/feed/view/en/story/2026/11/1168883",
+   "at": "2026-11-26T12:00:00.000Z",
+   "ev": [
+    "drc"
+   ],
+   "cc": [
+    "Democratic Republic of the Congo"
+   ]
+  },
+  {
+   "id": "86ad3ca1426c",
+   "t": "Egypt: 31 people killed in Cairo after fuel truck overturns",
+   "ko": "이집트: 카이로에서 연료트럭 전복으로 31명 사망",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/video/20261126-egypt-31-people-killed-in-cairo-after-fuel-truck-overturns",
+   "at": "2026-11-26T11:28:29.000Z",
+   "ev": [],
+   "cc": [
+    "Egypt"
+   ]
+  },
+  {
+   "id": "74aabae28552",
+   "t": "Iraq denies reports of troop movements towards Kurdish region",
+   "ko": "이라크, 쿠르드족 지역으로 군대 이동 보도 부인",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/11/26/iraq-denies-reports-of-troop-movements-towards-kurdish-region?traffic_source=rss",
+   "at": "2026-11-26T11:23:29.000Z",
+   "ev": [],
+   "cc": [
+    "Iraq"
+   ]
+  },
+  {
+   "id": "df39911bb601",
+   "t": "Highway explosion in Giza: How deadly are Egypt’s roads and railways?",
+   "ko": "기자의 고속도로 폭발: 이집트의 도로와 철도는 얼마나 치명적인가요?",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/11/26/highway-explosion-in-giza-how-deadly-are-egypts-roads-and-railways?traffic_source=rss",
+   "at": "2026-11-26T11:22:59.000Z",
+   "ev": [],
+   "cc": [
+    "Egypt"
+   ]
+  },
+  {
+   "id": "184ed2e92675",
+   "t": "Seven injured, four critically, after Bangkok oil refinery explosion",
+   "ko": "방콕 정유공장 폭발로 7명 부상, 4명 중상",
+   "src": "BBC",
+   "u": "https://www.bbc.co.uk/news/articles/crx209kwk4kzo?at_medium=RSS&at_campaign=rss",
+   "at": "2026-11-26T11:21:50.000Z",
+   "ev": [],
+   "cc": []
+  },
+  {
+   "id": "7dbc46515194",
+   "t": "US Army says controlled blast of explosives in Iowa was 'huge success'",
+   "ko": "미 육군, 아이오와주에서 통제된 폭발물 폭발이 '큰 성공'",
+   "src": "BBC",
+   "u": "https://www.bbc.co.uk/news/articles/cwg7l5ve251ko?at_medium=RSS&at_campaign=rss",
+   "at": "2026-11-26T10:38:35.000Z",
+   "ev": [],
+   "cc": [
+    "United States"
+   ]
+  },
+  {
+   "id": "eb134465edd5",
+   "t": "Myanmar refuses to comply with parts of ICJ genocide ruling",
+   "ko": "미얀마, ICJ 대량 학살 판결 일부 준수 거부",
+   "src": "BBC",
+   "u": "https://www.bbc.co.uk/news/articles/c61wr87wyg5wo?at_medium=RSS&at_campaign=rss",
+   "at": "2026-11-26T10:25:51.000Z",
+   "ev": [
+    "myanmar",
+    "rohingya"
+   ],
+   "cc": [
+    "Myanmar"
+   ]
+  },
+  {
+   "id": "1fc85f46c817",
+   "t": "Hamas political official and wife among eight Palestinians killed in Israeli strikes on Gaza",
+   "ko": "이스라엘 가자지구 공습으로 팔레스타인인 8명 중 하마스 정치관리와 아내 사망",
+   "src": "BBC",
+   "u": "https://www.bbc.co.uk/news/articles/cqvg2n4mzl1jo?at_medium=RSS&at_campaign=rss",
+   "at": "2026-11-26T10:14:08.000Z",
+   "ev": [
+    "gaza"
+   ],
+   "cc": [
+    "Israel",
+    "Palestine"
+   ]
+  },
+  {
+   "id": "8c9e3c49e146",
+   "t": "Ukraine drone attack kills five in Russian-occupied Zaporizhia",
+   "ko": "러시아 점령지 자포리지아에서 우크라이나 드론 공격으로 5명 사망",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/11/26/ukraine-drone-attack-kills-five-in-russian-occupied-zaporizhia?traffic_source=rss",
+   "at": "2026-11-26T10:02:09.000Z",
+   "ev": [
+    "ukraine"
+   ],
+   "cc": [
+    "Ukraine",
+    "Russia"
+   ]
+  },
+  {
+   "id": "41b012339c9d",
+   "t": "Explosion rocks Bangkok oil depot",
+   "ko": "폭발로 인해 방콕 석유 저장고가 무너졌습니다.",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/video/newsfeed/2026/11/26/explosion-rocks-bangkok-oil-depot?traffic_source=rss",
+   "at": "2026-11-26T09:30:24.000Z",
+   "ev": [],
+   "cc": []
+  },
+  {
+   "id": "1e611b7ccc82",
+   "t": "Russia-Ukraine war extends to the Baltic and the Mediterranean",
+   "ko": "러시아-우크라이나 전쟁, 발트해와 지중해까지 확대",
+   "src": "DW",
+   "u": "https://www.dw.com/en/russia-ukraine-war-extends-to-the-baltic-and-the-mediterranean/a-80054604?maca=en-rss-en-world-4025-rdf",
+   "at": "2026-11-26T09:27:00.000Z",
+   "ev": [
+    "ukraine"
+   ],
+   "cc": [
+    "Russia"
+   ]
+  },
+  {
+   "id": "74c9cfc45f60",
+   "t": "Deadly fire erupts near Cairo killing dozens of people",
+   "ko": "카이로 근처에서 치명적인 화재가 발생해 수십 명이 사망했습니다.",
+   "src": "BBC",
+   "u": "https://www.bbc.co.uk/news/videos/c52e8ndplvemo?at_medium=RSS&at_campaign=rss",
+   "at": "2026-11-26T09:09:49.000Z",
+   "ev": [],
+   "cc": [
+    "Egypt"
+   ]
+  },
+  {
+   "id": "803a3bad961c",
+   "t": "'We are not fighting culture, we fight to end FGM: It's a human rights violation of women and girls'",
+   "ko": "'우리는 문화에 맞서 싸우는 것이 아니라 FGM을 종식시키기 위해 싸웁니다. 이는 여성과 소녀에 대한 인권 침해입니다'",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/we-are-not-fighting-culture-we-fight-to-end-fgm-it-s-a-human-rights-violation-of-women-and-girls",
+   "at": "2026-11-26T08:39:26.000Z",
+   "ev": [],
+   "cc": []
+  },
+  {
+   "id": "44fd79eff393",
+   "t": "Thirteen dead as mine disaster highlights illegal hunt for gold",
+   "ko": "광산 참사로 불법 금 채취로 13명 사망",
+   "src": "BBC",
+   "u": "https://www.bbc.co.uk/news/articles/cmde1zr0nlyro?at_medium=RSS&at_campaign=rss",
+   "at": "2026-11-26T07:31:24.000Z",
+   "ev": [],
+   "cc": [
+    "Indonesia"
+   ]
+  },
+  {
+   "id": "ac8c749c4602",
+   "t": "DR Congo demands answers over Ugandan general's threats",
+   "ko": "DR 콩고, 우간다 장군의 위협에 대한 답변 요구",
+   "src": "BBC",
+   "u": "https://www.bbc.co.uk/news/articles/cwz0k90rgpm8o?at_medium=RSS&at_campaign=rss",
+   "at": "2026-11-26T07:24:39.000Z",
+   "ev": [
+    "drc"
+   ],
+   "cc": [
+    "Democratic Republic of the Congo"
+   ]
+  },
+  {
+   "id": "b40b65aefab9",
+   "t": "Desperate appeals from women on death row in Iran after protests",
+   "ko": "이란 시위 이후 사형수 여성들의 절박한 호소",
+   "src": "BBC",
+   "u": "https://www.bbc.co.uk/news/articles/cm8x0ve4yd7wo?at_medium=RSS&at_campaign=rss",
+   "at": "2026-11-26T06:01:58.000Z",
+   "ev": [
+    "iran"
+   ],
+   "cc": [
+    "Iran"
+   ]
+  },
+  {
+   "id": "7f5e18c1ef93",
+   "t": "Can Rassvet, 'Russia's Starlink' change the course of the war in Ukraine?",
+   "ko": "'러시아의 스타링크' 라스베트(Rassvet)가 우크라이나 전쟁의 방향을 바꿀 수 있을까?",
+   "src": "DW",
+   "u": "https://www.dw.com/en/can-rassvet-russia-s-starlink-change-the-course-of-the-war-in-ukraine/a-80052579?maca=en-rss-en-world-4025-rdf",
+   "at": "2026-11-26T05:45:00.000Z",
+   "ev": [
+    "ukraine"
+   ],
+   "cc": [
+    "Russia",
+    "Ukraine",
+    "United States"
+   ]
+  },
   {
    "id": "fb68ac76532b",
    "t": "Colombian president taunts arrested supermarket hostage-takers",
@@ -124,18 +450,6 @@
    ],
    "cc": [
     "Syria"
-   ]
-  },
-  {
-   "id": "7dbc46515194",
-   "t": "US Army says controlled blast of explosives in Iowa was 'huge success'",
-   "ko": "미 육군, 아이오와주에서 통제된 폭발물 폭발이 '큰 성공'",
-   "src": "BBC",
-   "u": "https://www.bbc.co.uk/news/articles/cwg7l5ve251ko?at_medium=RSS&at_campaign=rss",
-   "at": "2026-11-26T00:23:05.000Z",
-   "ev": [],
-   "cc": [
-    "United States"
    ]
   },
   {
@@ -1474,246 +1788,6 @@
    "ev": [],
    "cc": [
     "France"
-   ]
-  },
-  {
-   "id": "544376ea8e34",
-   "t": "Senegal regain AFCON title after successful appeal at sport arbitration court",
-   "ko": "세네갈, 스포츠 중재 법원에서 항소 성공 후 AFCON 타이틀 되찾아",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/sport/20261124-sports-court-verdict-senegal-appeal-africa-cup-of-nations-title-tuesday",
-   "at": "2026-11-24T14:06:56.000Z",
-   "ev": [],
-   "cc": [
-    "Senegal",
-    "Morocco"
-   ]
-  },
-  {
-   "id": "b1d62f69a2ca",
-   "t": "Is North Korea holding back on sending Russia more troops?",
-   "ko": "북한은 러시아에 더 많은 병력을 파견하는 것을 주저하고 있습니까?",
-   "src": "DW",
-   "u": "https://www.dw.com/en/is-north-korea-holding-back-on-sending-russia-more-troops/a-80033025?maca=en-rss-en-world-4025-rdf",
-   "at": "2026-11-24T12:51:00.000Z",
-   "ev": [
-    "ukraine"
-   ],
-   "cc": [
-    "North Korea",
-    "Russia",
-    "Ukraine"
-   ]
-  },
-  {
-   "id": "ef4727089511",
-   "t": "Security Council LIVE: Can conflict resolution keep pace as AI and drones reshape war?",
-   "ko": "안보리 라이브: AI와 드론이 전쟁을 재편하는 가운데 갈등 해결이 보조를 맞출 수 있을까요?",
-   "src": "UN News",
-   "u": "https://news.un.org/feed/view/en/story/2026/11/1168866",
-   "at": "2026-11-24T12:00:00.000Z",
-   "ev": [],
-   "cc": []
-  },
-  {
-   "id": "e22d72274c3b",
-   "t": "Five women killed every hour by partners or family members",
-   "ko": "파트너나 가족에 의해 매시간 5명의 여성이 살해당함",
-   "src": "UN News",
-   "u": "https://news.un.org/feed/view/en/story/2026/11/1168863",
-   "at": "2026-11-24T12:00:00.000Z",
-   "ev": [],
-   "cc": []
-  },
-  {
-   "id": "2ad3b6fa20d4",
-   "t": "World News in Brief: Vaccine crisis in Yemen, aid for Ukraine, another UNRWA staffer killed",
-   "ko": "세계 뉴스 요약: 예멘의 백신 위기, 우크라이나에 대한 지원, 또 다른 UNRWA 직원 사망",
-   "src": "UN News",
-   "u": "https://news.un.org/feed/view/en/story/2026/11/1168871",
-   "at": "2026-11-24T12:00:00.000Z",
-   "ev": [
-    "ukraine",
-    "yemen"
-   ],
-   "cc": [
-    "Yemen",
-    "Ukraine"
-   ]
-  },
-  {
-   "id": "732902948ae8",
-   "t": "‘Far too much failure’: UN deputy chief’s final call to end violence against women",
-   "ko": "'너무나 많은 실패': 여성에 대한 폭력을 종식하라는 유엔 부총장의 마지막 요청",
-   "src": "UN News",
-   "u": "https://news.un.org/feed/view/en/story/2026/11/1168868",
-   "at": "2026-11-24T12:00:00.000Z",
-   "ev": [],
-   "cc": []
-  },
-  {
-   "id": "52c4d0168f9a",
-   "t": "Car bomb tears through Colombian city wounding more than 20",
-   "ko": "콜롬비아 도시에서 차량 폭탄 터져 20명 이상 부상",
-   "src": "BBC",
-   "u": "https://www.bbc.co.uk/news/articles/cjqlq2n4np7do?at_medium=RSS&at_campaign=rss",
-   "at": "2026-11-24T11:45:52.000Z",
-   "ev": [
-    "colombia"
-   ],
-   "cc": [
-    "Colombia"
-   ]
-  },
-  {
-   "id": "a7dfb64f150c",
-   "t": "Fighting between Russia and Ukraine has expanded geographically, drawing concerns",
-   "ko": "러시아와 우크라이나 간 분쟁이 지리적으로 확대돼 우려가 커지고 있다.",
-   "src": "NPR",
-   "u": "https://www.npr.org/2026/11/24/nx-s1-6051564/fighting-between-russia-and-ukraine-has-expanded-geographically-drawing-concerns",
-   "at": "2026-11-24T09:52:03.000Z",
-   "ev": [
-    "ukraine"
-   ],
-   "cc": [
-    "Russia",
-    "Ukraine",
-    "Libya"
-   ]
-  },
-  {
-   "id": "82b58e9664fc",
-   "t": "Watch: Moment troops raid home and capture Mexican drug lord",
-   "ko": "시청: 군대가 집을 급습하고 멕시코 마약왕을 체포하는 순간",
-   "src": "BBC",
-   "u": "https://www.bbc.co.uk/news/videos/cm62p9y3y04qo?at_medium=RSS&at_campaign=rss",
-   "at": "2026-11-24T09:09:41.000Z",
-   "ev": [
-    "mexico"
-   ],
-   "cc": [
-    "Mexico"
-   ]
-  },
-  {
-   "id": "7117544317ab",
-   "t": "What happens if a nuclear weapon explodes in space?",
-   "ko": "우주에서 핵무기가 폭발하면 어떻게 될까요?",
-   "src": "DW",
-   "u": "https://www.dw.com/en/what-happens-if-a-nuclear-weapon-explodes-in-space/a-80025827?maca=en-rss-en-world-4025-rdf",
-   "at": "2026-11-24T08:34:00.000Z",
-   "ev": [],
-   "cc": []
-  },
-  {
-   "id": "d6d2affe39b7",
-   "t": "US army says detonation of lead explosives in Iowa will proceed",
-   "ko": "미 육군, 아이오와 주에서 납폭약 폭발 계속할 것",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/news/2026/11/24/us-army-says-detonation-of-lead-explosives-in-iowa-will-proceed?traffic_source=rss",
-   "at": "2026-11-24T08:24:08.000Z",
-   "ev": [],
-   "cc": [
-    "United States"
-   ]
-  },
-  {
-   "id": "86a39034e80d",
-   "t": "Malaysia set to return thousands of Rohingya refugees to Myanmar",
-   "ko": "말레이시아, 수천 명의 로힝야 난민을 미얀마로 송환할 예정",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/news/2026/11/24/malaysia-set-to-return-thousands-of-rohingya-refugees-to-myanmar-2?traffic_source=rss",
-   "at": "2026-11-24T08:21:41.000Z",
-   "ev": [
-    "myanmar",
-    "rohingya"
-   ],
-   "cc": [
-    "Malaysia",
-    "Myanmar"
-   ]
-  },
-  {
-   "id": "29ef86d73d7f",
-   "t": "Moment Mexican troops captured cartel leader ‘El Chapo Isidro’",
-   "ko": "멕시코군이 카르텔 지도자 '엘 차포 이시드로'를 체포한 순간",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/video/newsfeed/2026/11/24/moment-mexican-troops-captured-cartel-leader-el-chapo?traffic_source=rss",
-   "at": "2026-11-24T08:17:26.000Z",
-   "ev": [
-    "mexico"
-   ],
-   "cc": [
-    "Mexico"
-   ]
-  },
-  {
-   "id": "f3d06eaf3dc3",
-   "t": "Wars choke global food routes, threatening aid for 7.3 million, WFP warns",
-   "ko": "전쟁으로 인해 전 세계 식량 경로가 막혀 730만 명에 대한 원조가 위협받고 있다고 WFP가 경고했습니다.",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/news/2026/11/24/wars-choke-global-food-routes-threatening-aid-for-7-3-million-wfp-warns?traffic_source=rss",
-   "at": "2026-11-24T07:52:44.000Z",
-   "ev": [],
-   "cc": []
-  },
-  {
-   "id": "8689706299dd",
-   "t": "ICG: \"It's hard to imagine\" Tripoli would risk its ties with Russia by approving a Ukrainian attack",
-   "ko": "ICG: \"상상하기 어렵다\" 트리폴리가 우크라이나의 공격을 승인함으로써 러시아와의 관계를 위태롭게 할 것이다",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/video/20261124-icg-it-s-hard-to-imagine-tripoli-would-risk-its-ties-with-russia-by-approving-a-ukrainian-attack",
-   "at": "2026-11-24T07:45:44.000Z",
-   "ev": [
-    "ukraine"
-   ],
-   "cc": [
-    "Russia",
-    "Ukraine",
-    "Libya"
-   ]
-  },
-  {
-   "id": "80b91b29fb8c",
-   "t": "Why has Yemen’s offensive against the Houthis in al-Bayda stalled?",
-   "ko": "알바이다에서 후티 반군에 대한 예멘의 공세가 중단된 이유는 무엇입니까?",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/news/2026/11/24/why-has-yemens-offensive-against-the-houthis-in-al-bayda-stalled?traffic_source=rss",
-   "at": "2026-11-24T07:36:07.000Z",
-   "ev": [
-    "yemen"
-   ],
-   "cc": [
-    "Yemen"
-   ]
-  },
-  {
-   "id": "c1e970ee7602",
-   "t": "Live: Russian strikes on Ukraine’s Zaporizhzhia kill two people and wound dozens more",
-   "ko": "라이브: 우크라이나 자포리지아(Zaporizhzhia)에 대한 러시아의 공격으로 2명이 사망하고 수십 명이 부상당했습니다.",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/europe/20261124-live-tripoli-demands-explanation-from-kyiv-for-striking-russian-ships-in-libyan-waters",
-   "at": "2026-11-24T05:50:16.000Z",
-   "ev": [
-    "ukraine"
-   ],
-   "cc": [
-    "Russia",
-    "Ukraine"
-   ]
-  },
-  {
-   "id": "9611067fd591",
-   "t": "Car bomb strikes governor’s office in Meta, Colombia",
-   "ko": "콜롬비아 메타 주지사 사무실에 차량 폭탄 테러 발생",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/video/newsfeed/2026/11/24/car-bomb-strikes-governors-office-in-meta-colombia?traffic_source=rss",
-   "at": "2026-11-24T04:49:31.000Z",
-   "ev": [
-    "colombia"
-   ],
-   "cc": [
-    "Colombia"
    ]
   }
  ]
