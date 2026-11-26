@@ -1,13 +1,13 @@
 {
- "updated": "2026-11-25T22:45:02.301Z",
+ "updated": "2026-11-26T04:45:52.042Z",
  "sources": {
   "BBC": {
    "ok": true,
-   "n": 9
+   "n": 11
   },
   "Al Jazeera": {
    "ok": true,
-   "n": 11
+   "n": 10
   },
   "The Guardian": {
    "ok": false,
@@ -19,11 +19,11 @@
   },
   "France 24": {
    "ok": true,
-   "n": 13
+   "n": 7
   },
   "UN News": {
    "ok": true,
-   "n": 7
+   "n": 8
   },
   "NPR": {
    "ok": true,
@@ -31,6 +31,203 @@
   }
  },
  "items": [
+  {
+   "id": "fb68ac76532b",
+   "t": "Colombian president taunts arrested supermarket hostage-takers",
+   "ko": "콜롬비아 대통령, 체포된 슈퍼마켓 인질범 조롱",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/video/newsfeed/2026/11/26/colombian-president-taunts-arrested-supermarket-hostage-takers?traffic_source=rss",
+   "at": "2026-11-26T03:23:24.000Z",
+   "ev": [
+    "colombia"
+   ],
+   "cc": [
+    "Colombia"
+   ]
+  },
+  {
+   "id": "9cde7b8014dd",
+   "t": "As foreign troops withdraw from Somalia, could al-Shabab take over?",
+   "ko": "외국군이 소말리아에서 철수함에 따라 알샤바브가 장악할 수 있을까요?",
+   "src": "BBC",
+   "u": "https://www.bbc.co.uk/news/articles/ck62y23z58yeo?at_medium=RSS&at_campaign=rss",
+   "at": "2026-11-26T02:06:10.000Z",
+   "ev": [
+    "somalia"
+   ],
+   "cc": [
+    "Somalia"
+   ]
+  },
+  {
+   "id": "4b4af1f4284c",
+   "t": "Kim Jong Un says North Korea should widen deployment of tactical nukes",
+   "ko": "김정은 \"전술핵 배치 확대해야\"",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/11/26/kim-jong-un-says-north-korea-should-widen-deployment-of-tactical-nukes?traffic_source=rss",
+   "at": "2026-11-26T02:03:03.000Z",
+   "ev": [],
+   "cc": [
+    "North Korea"
+   ]
+  },
+  {
+   "id": "6cc600fdef49",
+   "t": "Ukraine attacks Russian military base, says five planes struck",
+   "ko": "우크라이나, 러시아 군사기지 공격…여객기 5대 피격",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/11/26/ukraine-attacks-russian-military-base-says-five-planes-struck?traffic_source=rss",
+   "at": "2026-11-26T01:39:46.000Z",
+   "ev": [
+    "ukraine"
+   ],
+   "cc": [
+    "Ukraine",
+    "Russia"
+   ]
+  },
+  {
+   "id": "b0c600767aa6",
+   "t": "At least 31 killed in Cairo fire after fuel truck overturns on busy highway",
+   "ko": "카이로에서 화재로 혼잡한 고속도로에서 연료트럭이 전복돼 최소 31명이 사망했다.",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/africa/20261126-at-least-31-killed-in-cairo-fire-after-fuel-truck-overturns-on-busy-highway",
+   "at": "2026-11-26T01:25:54.000Z",
+   "ev": [],
+   "cc": [
+    "Egypt"
+   ]
+  },
+  {
+   "id": "ba3664869a69",
+   "t": "ISIL blamed for multiple suicide attacks in Syria",
+   "ko": "ISIL은 시리아에서 여러 차례 자살 공격을 가해 비난을 받았습니다",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/video/newsfeed/2026/11/26/isil-blamed-for-multiple-suicide-attacks-in-syria?traffic_source=rss",
+   "at": "2026-11-26T00:51:17.000Z",
+   "ev": [
+    "syria"
+   ],
+   "cc": [
+    "Syria"
+   ]
+  },
+  {
+   "id": "f4b2e4965e7a",
+   "t": "Two Syrian security personnel killed in ISIL suicide attack",
+   "ko": "ISIL 자살공격으로 시리아 보안요원 2명 사망",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/11/26/two-syrian-security-personnel-killed-in-isil-suicide-attack?traffic_source=rss",
+   "at": "2026-11-26T00:41:49.000Z",
+   "ev": [
+    "syria"
+   ],
+   "cc": [
+    "Syria"
+   ]
+  },
+  {
+   "id": "7dbc46515194",
+   "t": "US Army says controlled blast of explosives in Iowa was 'huge success'",
+   "ko": "미 육군, 아이오와주에서 통제된 폭발물 폭발이 '큰 성공'",
+   "src": "BBC",
+   "u": "https://www.bbc.co.uk/news/articles/cwg7l5ve251ko?at_medium=RSS&at_campaign=rss",
+   "at": "2026-11-26T00:23:05.000Z",
+   "ev": [],
+   "cc": [
+    "United States"
+   ]
+  },
+  {
+   "id": "f173cde591e3",
+   "t": "Has global jihadism failed, or is it simply changing shape?",
+   "ko": "글로벌 지하디즘은 실패했나요, 아니면 단순히 형태가 바뀌고 있는 건가요?",
+   "src": "BBC",
+   "u": "https://www.bbc.co.uk/news/articles/cmx2x4e0n5jro?at_medium=RSS&at_campaign=rss",
+   "at": "2026-11-26T00:22:18.000Z",
+   "ev": [],
+   "cc": []
+  },
+  {
+   "id": "f55d55e52a9e",
+   "t": "Zambia bans protest against push to remove presidential term limits",
+   "ko": "잠비아, 대통령 임기 제한 폐지 반대 시위 금지",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/11/26/zambia-bans-protest-against-push-to-remove-presidential-term-limits?traffic_source=rss",
+   "at": "2026-11-26T00:22:15.000Z",
+   "ev": [],
+   "cc": [
+    "Zambia"
+   ]
+  },
+  {
+   "id": "317078de0b76",
+   "t": "Iran war live: Explosion rocks Sanaa; missiles intercepted over Riyadh",
+   "ko": "이란 전쟁 라이브: 폭발이 Sanaa를 뒤흔들었습니다. 리야드 상공에서 미사일 요격",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/liveblog/2026/11/26/iran-war-live-explosion-rocks-sanaa-missiles-intercepted-over-riyadh?traffic_source=rss",
+   "at": "2026-11-26T00:00:00.000Z",
+   "ev": [
+    "iran",
+    "yemen"
+   ],
+   "cc": [
+    "Iran",
+    "Saudi Arabia"
+   ]
+  },
+  {
+   "id": "6770f64a8825",
+   "t": "Houthis target Saudi Arabia’s Red Sea ports as strikes escalate",
+   "ko": "후티 반군, 공습 확대로 사우디아라비아 홍해 항구 표적으로 삼아",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/11/25/houthis-target-saudi-arabias-red-sea-ports-as-strikes-escalate?traffic_source=rss",
+   "at": "2026-11-25T23:33:39.000Z",
+   "ev": [
+    "yemen"
+   ],
+   "cc": [
+    "Saudi Arabia"
+   ]
+  },
+  {
+   "id": "b13fbd076131",
+   "t": "A renovation was meant to improve these Hong Kong homes - it ended in a blaze that killed 168",
+   "ko": "홍콩의 주택을 개선하기 위한 개조 공사가 화재로 끝났고 168명이 사망했습니다.",
+   "src": "BBC",
+   "u": "https://www.bbc.co.uk/news/articles/cqx2wrkyrdn8o?at_medium=RSS&at_campaign=rss",
+   "at": "2026-11-25T23:26:50.000Z",
+   "ev": [],
+   "cc": [
+    "Hong Kong"
+   ]
+  },
+  {
+   "id": "2e859496b238",
+   "t": "Deadly truck fire is latest of Egypt’s transport disasters",
+   "ko": "치명적인 트럭 화재는 이집트의 운송 재해 중 최신입니다",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/video/newsfeed/2026/11/25/deadly-truck-fire-is-latest-of-egypts-transport-disasters?traffic_source=rss",
+   "at": "2026-11-25T22:48:47.000Z",
+   "ev": [],
+   "cc": [
+    "Egypt"
+   ]
+  },
+  {
+   "id": "f9c9455fd6c6",
+   "t": "Israeli lawmakers advance October 7 inquiry opposed by Netanyahu",
+   "ko": "이스라엘 국회의원, 네타냐후 반대 10월 7일 조사 진행",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/israeli-lawmakers-advance-october-7-inquiry-opposed-by-netanyahu",
+   "at": "2026-11-25T22:26:40.000Z",
+   "ev": [
+    "gaza"
+   ],
+   "cc": [
+    "Israel"
+   ]
+  },
   {
    "id": "f1f30c98b1ad",
    "t": "Thirty-one killed in massive fire as fuel tanker crashes on Cairo highway",
@@ -41,6 +238,21 @@
    "ev": [],
    "cc": [
     "Egypt"
+   ]
+  },
+  {
+   "id": "5635a7748e02",
+   "t": "Cape Town court shuts down Ramaphosa's Farmgate scandal",
+   "ko": "케이프타운 법원, 라마포사의 팜게이트 스캔들 종결",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/cape-town-court-shuts-down-ramaphosa-s-farmgate-scandal",
+   "at": "2026-11-25T21:41:01.000Z",
+   "ev": [
+    "drc"
+   ],
+   "cc": [
+    "South Africa",
+    "Democratic Republic of the Congo"
    ]
   },
   {
@@ -67,18 +279,6 @@
    "ev": [],
    "cc": [
     "United Kingdom"
-   ]
-  },
-  {
-   "id": "7dbc46515194",
-   "t": "US Army says controlled blast of explosives in Iowa was 'huge success'",
-   "ko": "미 육군, 아이오와주에서 통제된 폭발물 폭발이 '큰 성공'",
-   "src": "BBC",
-   "u": "https://www.bbc.co.uk/news/articles/cwg7l5ve251ko?at_medium=RSS&at_campaign=rss",
-   "at": "2026-11-25T19:54:52.000Z",
-   "ev": [],
-   "cc": [
-    "United States"
    ]
   },
   {
@@ -549,6 +749,21 @@
    ],
    "cc": [
     "Yemen"
+   ]
+  },
+  {
+   "id": "89032c5467f9",
+   "t": "Türk warns of widening risk of atrocity crimes against Palestinians",
+   "ko": "터키, 팔레스타인에 대한 잔학행위 위험 확대 경고",
+   "src": "UN News",
+   "u": "https://news.un.org/feed/view/en/story/2026/11/1168879",
+   "at": "2026-11-25T12:00:00.000Z",
+   "ev": [
+    "westbank"
+   ],
+   "cc": [
+    "Israel",
+    "Palestine"
    ]
   },
   {
@@ -1499,64 +1714,6 @@
    ],
    "cc": [
     "Colombia"
-   ]
-  },
-  {
-   "id": "802f4af90326",
-   "t": "US flew surveillance drone over Mexico to help capture top drug lord",
-   "ko": "미국, 마약왕 체포 위해 멕시코 상공에 정찰 드론 띄워",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/americas/20261124-us-flew-surveillance-drone-over-mexico-to-help-capture-top-drug-lord",
-   "at": "2026-11-24T02:09:11.000Z",
-   "ev": [
-    "mexico"
-   ],
-   "cc": [
-    "United States",
-    "Mexico"
-   ]
-  },
-  {
-   "id": "35db16ff21a2",
-   "t": "Bukele shares details on deaths of El Salvador’s troops in Haiti",
-   "ko": "Bukele는 아이티에서 엘살바도르 군대의 사망에 대한 세부 정보를 공유합니다.",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/news/2026/11/24/bukele-shares-details-on-deaths-of-salvadoran-troops-in-haiti-intervention?traffic_source=rss",
-   "at": "2026-11-24T01:06:00.000Z",
-   "ev": [
-    "haiti"
-   ],
-   "cc": [
-    "El Salvador",
-    "Haiti"
-   ]
-  },
-  {
-   "id": "5853e5346043",
-   "t": "14 countries acknowledge ICJ ruling of genocide against Rohingya",
-   "ko": "14개국, 로힝야족 학살에 대한 ICJ 판결 인정",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/asia-pacific/20261123-14-countries-acknowledge-icj-ruling-of-genocide-against-rohingya",
-   "at": "2026-11-23T23:10:22.000Z",
-   "ev": [
-    "myanmar",
-    "rohingya"
-   ],
-   "cc": [
-    "Myanmar",
-    "United Kingdom"
-   ]
-  },
-  {
-   "id": "32666e5a1a42",
-   "t": "Trump postpones US Army plan to detonate toxic explosives in Iowa",
-   "ko": "트럼프, 아이오와 주에서 미군의 독성폭발물 터뜨리기 계획 연기",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/video/newsfeed/2026/11/23/trump-postpones-us-army-plan-to-detonate-toxic-explosives-in-iowa?traffic_source=rss",
-   "at": "2026-11-23T22:54:47.000Z",
-   "ev": [],
-   "cc": [
-    "United States"
    ]
   }
  ]
