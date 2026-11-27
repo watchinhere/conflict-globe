@@ -1,13 +1,13 @@
 {
- "updated": "2026-11-27T15:34:25.688Z",
+ "updated": "2026-11-27T23:44:00.534Z",
  "sources": {
   "BBC": {
    "ok": true,
-   "n": 13
+   "n": 8
   },
   "Al Jazeera": {
    "ok": true,
-   "n": 9
+   "n": 10
   },
   "The Guardian": {
    "ok": false,
@@ -15,7 +15,7 @@
   },
   "DW": {
    "ok": true,
-   "n": 6
+   "n": 4
   },
   "France 24": {
    "ok": true,
@@ -31,6 +31,319 @@
   }
  },
  "items": [
+  {
+   "id": "700060f62ce7",
+   "t": "Kenyan cult leader guilty of manslaughter more than 123 starvation deaths",
+   "ko": "케냐 사이비 종교 지도자, 123명 이상 기아로 사망",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/11/27/kenyan-cult-leader-guilty-of-manslaughter-more-than-123-starvation-deaths?traffic_source=rss",
+   "at": "2026-11-27T22:33:17.000Z",
+   "ev": [],
+   "cc": [
+    "Kenya"
+   ]
+  },
+  {
+   "id": "3aeba5acc6f2",
+   "t": "US military says it disabled merchant ship trying to breach Iran blockade",
+   "ko": "미군 \"이란 봉쇄 돌파하려던 상선 무력화\"",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/11/27/us-military-says-it-disabled-merchant-ship-trying-to-breach-iran-blockade?traffic_source=rss",
+   "at": "2026-11-27T22:22:02.000Z",
+   "ev": [
+    "iran"
+   ],
+   "cc": [
+    "United States",
+    "Iran"
+   ]
+  },
+  {
+   "id": "686d9df20db3",
+   "t": "‘Activists of rhythm’: Fighting Spain’s far-right through art",
+   "ko": "'리듬 활동가': 예술을 통해 스페인 극우와 싸우다",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/video/newsfeed/2026/11/27/activists-of-rhythm-fighting-spains-far-right-through-art?traffic_source=rss",
+   "at": "2026-11-27T21:59:11.000Z",
+   "ev": [],
+   "cc": [
+    "Spain"
+   ]
+  },
+  {
+   "id": "0bfabeb7d86e",
+   "t": "Uganda to withdraw troops from DR Congo",
+   "ko": "우간다, 콩고민주공화국에서 군대 철수",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/tv-shows/eye-on-africa/20261127-uganda-to-withdraw-troops-from-dr-congo",
+   "at": "2026-11-27T21:44:29.000Z",
+   "ev": [
+    "drc"
+   ],
+   "cc": [
+    "Uganda",
+    "Democratic Republic of the Congo",
+    "South Africa"
+   ]
+  },
+  {
+   "id": "ca7308b64fa8",
+   "t": "Ukraine submits Black Sea ceasefire offer, awaits Russian response",
+   "ko": "우크라이나, 흑해 휴전 제안 제출, 러시아 응답 기다리고 있다",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/europe/20261127-ukraine-submits-black-sea-ceasefire-offer-awaits-russian-response",
+   "at": "2026-11-27T21:09:12.000Z",
+   "ev": [
+    "ukraine"
+   ],
+   "cc": [
+    "Ukraine",
+    "Russia"
+   ]
+  },
+  {
+   "id": "0527ff8c8975",
+   "t": "Hamas chief’s last surviving son escapes Israeli strike in Gaza",
+   "ko": "하마스 수장 마지막 아들, 이스라엘 가자지구 공습 탈출",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/video/newsfeed/2026/11/27/aje-onl-nf_-hamas-chiefs-son-escapes-israeli-strike-gaza-271126?traffic_source=rss",
+   "at": "2026-11-27T20:18:45.000Z",
+   "ev": [
+    "gaza"
+   ],
+   "cc": [
+    "Israel",
+    "Palestine"
+   ]
+  },
+  {
+   "id": "f15707cb84bf",
+   "t": "Israel kills four in Gaza as Hamas chief al-Hayya’s son survives strike",
+   "ko": "이스라엘, 하마스 수장 알 하야의 아들이 파업에서 살아남는 동안 가자지구에서 4명 사망",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/11/27/israel-kills-four-in-gaza-as-hamas-chief-al-hayyas-son-survives-strike?traffic_source=rss",
+   "at": "2026-11-27T19:53:25.000Z",
+   "ev": [
+    "gaza"
+   ],
+   "cc": [
+    "Israel",
+    "Palestine"
+   ]
+  },
+  {
+   "id": "5e6bff051036",
+   "t": "Weary of war but with no sign of backing down, Kyiv faces another punishing winter",
+   "ko": "전쟁에 지쳤지만 물러날 기미가 보이지 않는 키예프는 또 다른 혹독한 겨울을 맞이하고 있습니다.",
+   "src": "BBC",
+   "u": "https://www.bbc.co.uk/news/articles/c3pw4yrr8kz9o?at_medium=RSS&at_campaign=rss",
+   "at": "2026-11-27T18:42:50.000Z",
+   "ev": [
+    "ukraine"
+   ],
+   "cc": [
+    "Ukraine"
+   ]
+  },
+  {
+   "id": "0f2496ba9c92",
+   "t": "'From bad to catastrophic: Iran's justice system was already unfair for many decades'",
+   "ko": "'나쁜 것에서 재앙으로: 이란의 사법 제도는 이미 수십 년 동안 불공평했습니다'",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/from-bad-to-catastrophic-iran-s-justice-system-was-already-unfair-for-many-decades",
+   "at": "2026-11-27T18:18:46.000Z",
+   "ev": [
+    "iran"
+   ],
+   "cc": [
+    "Iran",
+    "United States",
+    "Israel"
+   ]
+  },
+  {
+   "id": "15078c8b6a4a",
+   "t": "Zelensky criticises 'strange' Trump-Putin friendship in BBC interview",
+   "ko": "젤렌스키, BBC 인터뷰에서 트럼프-푸틴 우정 '이상하다' 비판",
+   "src": "BBC",
+   "u": "https://www.bbc.co.uk/news/articles/c820q9wgrpyyo?at_medium=RSS&at_campaign=rss",
+   "at": "2026-11-27T18:00:40.000Z",
+   "ev": [
+    "ukraine"
+   ],
+   "cc": [
+    "Ukraine",
+    "United States",
+    "Russia"
+   ]
+  },
+  {
+   "id": "b79f0bbf66fc",
+   "t": "Uganda to withdraw troops from DR Congo town after army chief's threat sparks row",
+   "ko": "우간다, DR 콩고에서 군대 철수 예정",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/africa/20261127-uganda-withdraw-troops-dr-congo-town-after-army-chief-threat-row",
+   "at": "2026-11-27T17:56:28.000Z",
+   "ev": [
+    "drc"
+   ],
+   "cc": [
+    "Uganda",
+    "Democratic Republic of the Congo"
+   ]
+  },
+  {
+   "id": "2e463f3bfba7",
+   "t": "Spanish rescuers treat migrants as hundreds arrive in Canary Islands",
+   "ko": "카나리아 제도에 도착한 수백 명의 이주민들을 스페인 구조대원들이 치료하고 있다.",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/video/newsfeed/2026/11/27/spanish-rescuers-treat-migrants-as-hundreds-arrive-in-canary-islands?traffic_source=rss",
+   "at": "2026-11-27T17:44:50.000Z",
+   "ev": [],
+   "cc": [
+    "Spain"
+   ]
+  },
+  {
+   "id": "dcf7b64d29fc",
+   "t": "Kyiv offers Black Sea ceasefire to protect grain exports",
+   "ko": "키예프, 곡물 수출 보호를 위해 흑해 휴전 제안",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/11/27/kyiv-offers-black-sea-ceasefire-as-putin-expands-russias-navy?traffic_source=rss",
+   "at": "2026-11-27T17:44:33.000Z",
+   "ev": [
+    "ukraine"
+   ],
+   "cc": []
+  },
+  {
+   "id": "1ec37a1640c8",
+   "t": "Mecca pact allies condemn ‘heinous’ Houthi attacks on Saudi Arabia",
+   "ko": "메카 조약 동맹국, 사우디아라비아에 대한 '가증스러운' 후티 공격 비난",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/11/27/mecca-pact-allies-condemn-heinous-houthi-attacks-on-saudi-arabia?traffic_source=rss",
+   "at": "2026-11-27T17:41:24.000Z",
+   "ev": [
+    "yemen"
+   ],
+   "cc": [
+    "Saudi Arabia",
+    "Pakistan",
+    "Turkey"
+   ]
+  },
+  {
+   "id": "78806246067f",
+   "t": "Spain races to stop oil spill after ship capsizes off Ibiza",
+   "ko": "스페인, 이비자섬에서 선박 전복 후 기름 유출 막기 위해 노력",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/video/20261127-spain-races-to-stop-oil-spill-after-ship-capsizes-off-ibiza",
+   "at": "2026-11-27T17:35:36.000Z",
+   "ev": [],
+   "cc": [
+    "Spain"
+   ]
+  },
+  {
+   "id": "403492eb8010",
+   "t": "French far-left candidate Mélenchon demands ‘thorough overhaul’ of Germany ties",
+   "ko": "프랑스 극좌 후보 멜랑숑, 독일 관계 '철저한 재검토' 요구",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/france/20261127-french-far-left-candidate-m%C3%A9lenchon-demands-thorough-overhaul-germany-ties",
+   "at": "2026-11-27T17:31:15.000Z",
+   "ev": [],
+   "cc": [
+    "France",
+    "Germany"
+   ]
+  },
+  {
+   "id": "d27e2cb7c270",
+   "t": "OM - Levski Sofia: A night of violence disrupts Marseille match",
+   "ko": "OM - Levski Sofia: 폭력의 밤이 마르세유 경기를 방해했습니다",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/video/20261127-om-levski-sofia-a-night-of-violence-disrupts-marseille-match",
+   "at": "2026-11-27T17:29:48.000Z",
+   "ev": [],
+   "cc": []
+  },
+  {
+   "id": "5ffdbf1d63d5",
+   "t": "Kenyan doomsday cult leader convicted over further 123 deaths",
+   "ko": "123명 추가 사망, 케냐 최후 심판 종교 지도자 유죄 판결",
+   "src": "BBC",
+   "u": "https://www.bbc.co.uk/news/articles/cmy49de4xx1zo?at_medium=RSS&at_campaign=rss",
+   "at": "2026-11-27T17:19:31.000Z",
+   "ev": [],
+   "cc": [
+    "Kenya"
+   ]
+  },
+  {
+   "id": "4f350440cb77",
+   "t": "‘Bear trap’: Ukraine hails new operation as Russian casualties mount",
+   "ko": "'곰 함정': 러시아 사상자가 늘어나면서 우크라이나는 새로운 작전을 환영합니다",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/11/27/ukraine-rejects-unfavourable-compromises-as-it-frees-more-territory?traffic_source=rss",
+   "at": "2026-11-27T17:13:46.000Z",
+   "ev": [
+    "ukraine"
+   ],
+   "cc": [
+    "Ukraine",
+    "Russia"
+   ]
+  },
+  {
+   "id": "685ae7cabf77",
+   "t": "Sierra Leone: Maternal deaths fall as healthcare improves, but challenges remain",
+   "ko": "시에라리온: 의료 서비스가 개선되면서 산모 사망률이 감소했지만 여전히 어려움은 남아 있습니다.",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/video/20261127-sierra-leone-maternal-deaths-fall-as-healthcare-improves-but-challenges-remain",
+   "at": "2026-11-27T16:37:04.000Z",
+   "ev": [],
+   "cc": [
+    "Sierra Leone"
+   ]
+  },
+  {
+   "id": "979655dea0cf",
+   "t": "Nigeria: Political violence and attacks on candidates raise fears ahead of January elections",
+   "ko": "나이지리아: 1월 선거를 앞두고 정치적 폭력과 후보자에 대한 공격으로 우려 커져",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/video/20261127-nigeria-political-violence-and-attacks-on-candidates-raise-fears-ahead-of-january-elections",
+   "at": "2026-11-27T16:25:05.000Z",
+   "ev": [
+    "nigeria"
+   ],
+   "cc": [
+    "Nigeria"
+   ]
+  },
+  {
+   "id": "54f6034c0262",
+   "t": "Trump backs Iraqi PM’s oil smuggling crackdown",
+   "ko": "트럼프, 이라크 총리의 석유 밀수 단속 지지",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/11/27/trump-backs-iraqi-pms-oil-smuggling-crackdown?traffic_source=rss",
+   "at": "2026-11-27T16:13:07.000Z",
+   "ev": [],
+   "cc": [
+    "Iraq"
+   ]
+  },
+  {
+   "id": "e1212864477a",
+   "t": "French student protests: A 'very bizarre' government response",
+   "ko": "프랑스 학생 시위: '아주 기괴한' 정부의 대응",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/video/20261127-student-movement-in-france-the-situation-has-varied-greatly-from-one-school-to-another",
+   "at": "2026-11-27T16:04:13.000Z",
+   "ev": [],
+   "cc": [
+    "France"
+   ]
+  },
   {
    "id": "eb3496dcbe29",
    "t": "Funeral prayers held for 31 victims of Egypt tanker crash",
@@ -114,6 +427,20 @@
    "ko": "전쟁으로 복잡해진 이란의 조혼 위험",
    "src": "DW",
    "u": "https://www.dw.com/en/risks-of-child-marriage-in-iran-complicated-by-war/a-80075473?maca=en-rss-en-world-4025-rdf",
+   "at": "2026-11-27T13:06:00.000Z",
+   "ev": [
+    "iran"
+   ],
+   "cc": [
+    "Iran"
+   ]
+  },
+  {
+   "id": "177559cd40ac",
+   "t": "In Iran, child marriage risks complicated by war",
+   "ko": "이란에서는 전쟁으로 인해 조혼 위험이 복잡해졌습니다.",
+   "src": "DW",
+   "u": "https://www.dw.com/en/in-iran-child-marriage-risks-complicated-by-war/a-80075473?maca=en-rss-en-world-4025-rdf",
    "at": "2026-11-27T13:06:00.000Z",
    "ev": [
     "iran"
@@ -263,21 +590,6 @@
    ]
   },
   {
-   "id": "9c744befbf70",
-   "t": "Uganda to withdraw troops from DR Congo town amid diplomatic row",
-   "ko": "우간다, 외교적 갈등으로 콩고민주공화국에서 군대 철수",
-   "src": "BBC",
-   "u": "https://www.bbc.co.uk/news/articles/cq4gnj2ldkyzo?at_medium=RSS&at_campaign=rss",
-   "at": "2026-11-27T10:39:31.000Z",
-   "ev": [
-    "drc"
-   ],
-   "cc": [
-    "Uganda",
-    "Democratic Republic of the Congo"
-   ]
-  },
-  {
    "id": "4dc1a8ffe2d4",
    "t": "Australia sanctions suspects in Iran-linked anti-Semitic attacks",
    "ko": "호주, 이란과 연계된 반유대주의 공격 용의자 제재",
@@ -341,22 +653,6 @@
    "at": "2026-11-27T09:36:56.000Z",
    "ev": [],
    "cc": []
-  },
-  {
-   "id": "15078c8b6a4a",
-   "t": "Zelensky criticises 'strange' Trump-Putin friendship in BBC interview",
-   "ko": "젤렌스키, BBC 인터뷰에서 트럼프-푸틴 우정 '이상하다' 비판",
-   "src": "BBC",
-   "u": "https://www.bbc.co.uk/news/articles/c820q9wgrpyyo?at_medium=RSS&at_campaign=rss",
-   "at": "2026-11-27T09:07:48.000Z",
-   "ev": [
-    "ukraine"
-   ],
-   "cc": [
-    "Ukraine",
-    "United States",
-    "Russia"
-   ]
   },
   {
    "id": "5a76d107d150",
@@ -683,6 +979,18 @@
    "ko": "알바니아 청년들, 플라밍고 혁명에 항의하며 더 이상 나라 떠나지 않아",
    "src": "DW",
    "u": "https://www.dw.com/en/albania-s-youth-are-protesting-in-flamingo-revolution-not-leaving-the-country-anymore/a-80068939?maca=en-rss-en-world-4025-rdf",
+   "at": "2026-11-26T20:44:00.000Z",
+   "ev": [],
+   "cc": [
+    "Albania"
+   ]
+  },
+  {
+   "id": "a3b796205dbc",
+   "t": "Albania's youth are protesting, no longer leaving the country",
+   "ko": "알바니아의 젊은이들이 시위를 벌이고 있으며 더 이상 나라를 떠나지 않습니다.",
+   "src": "DW",
+   "u": "https://www.dw.com/en/albania-s-youth-are-protesting-no-longer-leaving-the-country/a-80068939?maca=en-rss-en-world-4025-rdf",
    "at": "2026-11-26T20:44:00.000Z",
    "ev": [],
    "cc": [
@@ -1357,367 +1665,6 @@
    "cc": [
     "Iran",
     "Saudi Arabia"
-   ]
-  },
-  {
-   "id": "6770f64a8825",
-   "t": "Houthis target Saudi Arabia’s Red Sea ports as strikes escalate",
-   "ko": "후티 반군, 공습 확대로 사우디아라비아 홍해 항구 표적으로 삼아",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/news/2026/11/25/houthis-target-saudi-arabias-red-sea-ports-as-strikes-escalate?traffic_source=rss",
-   "at": "2026-11-25T23:33:39.000Z",
-   "ev": [
-    "yemen"
-   ],
-   "cc": [
-    "Saudi Arabia"
-   ]
-  },
-  {
-   "id": "b13fbd076131",
-   "t": "A renovation was meant to improve these Hong Kong homes - it ended in a blaze that killed 168",
-   "ko": "홍콩의 주택을 개선하기 위한 개조 공사가 화재로 끝났고 168명이 사망했습니다.",
-   "src": "BBC",
-   "u": "https://www.bbc.co.uk/news/articles/cqx2wrkyrdn8o?at_medium=RSS&at_campaign=rss",
-   "at": "2026-11-25T23:26:50.000Z",
-   "ev": [],
-   "cc": [
-    "Hong Kong"
-   ]
-  },
-  {
-   "id": "2e859496b238",
-   "t": "Deadly truck fire is latest of Egypt’s transport disasters",
-   "ko": "치명적인 트럭 화재는 이집트의 운송 재해 중 최신입니다",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/video/newsfeed/2026/11/25/deadly-truck-fire-is-latest-of-egypts-transport-disasters?traffic_source=rss",
-   "at": "2026-11-25T22:48:47.000Z",
-   "ev": [],
-   "cc": [
-    "Egypt"
-   ]
-  },
-  {
-   "id": "f9c9455fd6c6",
-   "t": "Israeli lawmakers advance October 7 inquiry opposed by Netanyahu",
-   "ko": "이스라엘 국회의원, 네타냐후 반대 10월 7일 조사 진행",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/israeli-lawmakers-advance-october-7-inquiry-opposed-by-netanyahu",
-   "at": "2026-11-25T22:26:40.000Z",
-   "ev": [
-    "gaza"
-   ],
-   "cc": [
-    "Israel"
-   ]
-  },
-  {
-   "id": "f1f30c98b1ad",
-   "t": "Thirty-one killed in massive fire as fuel tanker crashes on Cairo highway",
-   "ko": "카이로 고속도로에서 유조선이 충돌해 대규모 화재가 발생해 31명이 사망했습니다.",
-   "src": "BBC",
-   "u": "https://www.bbc.co.uk/news/articles/cqy7rn30v314o?at_medium=RSS&at_campaign=rss",
-   "at": "2026-11-25T22:18:06.000Z",
-   "ev": [],
-   "cc": [
-    "Egypt"
-   ]
-  },
-  {
-   "id": "5635a7748e02",
-   "t": "Cape Town court shuts down Ramaphosa's Farmgate scandal",
-   "ko": "케이프타운 법원, 라마포사의 팜게이트 스캔들 종결",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/cape-town-court-shuts-down-ramaphosa-s-farmgate-scandal",
-   "at": "2026-11-25T21:41:01.000Z",
-   "ev": [
-    "drc"
-   ],
-   "cc": [
-    "South Africa",
-    "Democratic Republic of the Congo"
-   ]
-  },
-  {
-   "id": "ae6c6c34a2b8",
-   "t": "Did GTA 6 really recreate Charlie Kirk's assassination?",
-   "ko": "GTA 6는 정말 찰리 커크의 암살을 재현했나요?",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/tv-shows/truth-or-fake/20261125-did-gta-6-really-recreate-charlie-kirk-s-assassination",
-   "at": "2026-11-25T20:38:28.000Z",
-   "ev": [
-    "ukraine"
-   ],
-   "cc": [
-    "Russia"
-   ]
-  },
-  {
-   "id": "0f4b85061cb8",
-   "t": "What’s behind Europe’s protests?",
-   "ko": "유럽 ​​시위의 배경은 무엇인가?",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/video/inside-story/2026/11/25/whats-behind-europes-protests?traffic_source=rss",
-   "at": "2026-11-25T20:30:22.000Z",
-   "ev": [],
-   "cc": [
-    "United Kingdom"
-   ]
-  },
-  {
-   "id": "266eaffb494b",
-   "t": "US Army declares Iowa lead azide detonation ‘tremendously successful’",
-   "ko": "미 육군, 아이오와 납 아자이드 폭발이 '엄청난 성공'이라고 선언",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/news/2026/11/25/us-army-declares-iowa-lead-azide-detonation-tremendously-successful?traffic_source=rss",
-   "at": "2026-11-25T19:41:49.000Z",
-   "ev": [],
-   "cc": [
-    "United States"
-   ]
-  },
-  {
-   "id": "1f65d7c53225",
-   "t": "Dozens killed in Egypt vehicle fire",
-   "ko": "이집트 차량 화재로 수십명 사망",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/video/newsfeed/2026/11/25/aje-onl-nf_dozens-killed-in-egypt-vehicle-fire-251126?traffic_source=rss",
-   "at": "2026-11-25T19:41:14.000Z",
-   "ev": [],
-   "cc": [
-    "Egypt"
-   ]
-  },
-  {
-   "id": "eb0a93722806",
-   "t": "Poland says will create no-fly zone at Ukraine border after repeated airspace violations",
-   "ko": "폴란드는 반복적인 영공 위반 이후 우크라이나 국경에 비행 금지 구역을 만들 것이라고 밝혔습니다.",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/poland-says-will-create-no-fly-zone-at-ukraine-border-after-repeated-airspace-violations",
-   "at": "2026-11-25T19:22:43.000Z",
-   "ev": [
-    "ukraine"
-   ],
-   "cc": [
-    "Poland",
-    "Ukraine",
-    "Russia"
-   ]
-  },
-  {
-   "id": "4b6679d458d3",
-   "t": "Ukrainian laser downs Russian jet-powered drone in world first",
-   "ko": "우크라이나 레이저, 세계 최초로 러시아 제트 추진 드론 격추",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/video/newsfeed/2026/11/25/ukrainian-laser-downs-russian-jet-powered-drone-in-world-first?traffic_source=rss",
-   "at": "2026-11-25T19:16:15.000Z",
-   "ev": [
-    "ukraine"
-   ],
-   "cc": [
-    "Ukraine",
-    "Russia"
-   ]
-  },
-  {
-   "id": "e4fc52f7f3db",
-   "t": "Could renewed strikes on Hodeidah port worsen Yemen’s humanitarian crisis?",
-   "ko": "호데이다 항구에 대한 새로운 파업이 예멘의 인도주의적 위기를 악화시킬 수 있습니까?",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/news/2026/11/25/could-renewed-strikes-on-hodeidah-port-worsen-yemens-humanitarian-crisis?traffic_source=rss",
-   "at": "2026-11-25T19:15:52.000Z",
-   "ev": [
-    "yemen"
-   ],
-   "cc": [
-    "Yemen"
-   ]
-  },
-  {
-   "id": "370d605f27fc",
-   "t": "UK military ‘moving aircraft to hangars in case of drone attacks’",
-   "ko": "영국군 '드론 공격시 항공기 격납고로 이동'",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/news/2026/11/25/uk-military-moving-aircraft-to-hangars-in-case-of-drone-attacks?traffic_source=rss",
-   "at": "2026-11-25T19:15:01.000Z",
-   "ev": [],
-   "cc": [
-    "United Kingdom"
-   ]
-  },
-  {
-   "id": "3319d4804b88",
-   "t": "At least 30 killed in Egypt vehicle fire, health ministry says",
-   "ko": "이집트 차량 화재로 최소 30명 사망, 보건부 발표",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/news/2026/11/25/at-least-30-killed-in-egypt-vehicle-fire-health-ministry-says?traffic_source=rss",
-   "at": "2026-11-25T18:55:23.000Z",
-   "ev": [],
-   "cc": [
-    "Egypt"
-   ]
-  },
-  {
-   "id": "25bebad9ce27",
-   "t": "Nigeria’s Tinubu pledges to bring peace to rebellion-hit border region",
-   "ko": "나이지리아 티누부(Tinubu), 반군 피해를 입은 국경 지역에 평화를 가져오겠다고 약속",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/news/2026/11/25/nigerias-tinubu-pledges-to-bring-peace-to-insurgency-hit-northeast-region?traffic_source=rss",
-   "at": "2026-11-25T18:14:44.000Z",
-   "ev": [
-    "nigeria"
-   ],
-   "cc": [
-    "Nigeria"
-   ]
-  },
-  {
-   "id": "7cd4ff25e7d0",
-   "t": "Ecuador and US review joint military operations, official says",
-   "ko": "에콰도르와 미국이 합동 군사작전을 검토하고 있다고 관계자가 밝혔습니다.",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/news/2026/11/25/ecuador-and-us-review-joint-military-operations-official-says?traffic_source=rss",
-   "at": "2026-11-25T17:50:41.000Z",
-   "ev": [],
-   "cc": [
-    "Ecuador",
-    "United States"
-   ]
-  },
-  {
-   "id": "f49033498549",
-   "t": "Turkey's deadly factory blast: 'Investing in safety costs more than letting people die'",
-   "ko": "터키의 치명적인 공장 폭발: '안전에 투자하는 것은 사람을 죽게 하는 것보다 더 많은 비용이 든다'",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/europe/20261125-factory-blast-turkey-izmir",
-   "at": "2026-11-25T17:28:33.000Z",
-   "ev": [],
-   "cc": [
-    "Turkey"
-   ]
-  },
-  {
-   "id": "1063d6c8900c",
-   "t": "Djibouti: The Man Who Dared",
-   "ko": "지부티: 대담한 남자",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/video/al-jazeera-world/2026/11/25/djibouti-the-man-who-dared?traffic_source=rss",
-   "at": "2026-11-25T17:00:00.000Z",
-   "ev": [],
-   "cc": [
-    "Djibouti"
-   ]
-  },
-  {
-   "id": "079d3c072cfe",
-   "t": "Colombian forces rescue all hostages after supermarket siege",
-   "ko": "콜롬비아군, 슈퍼마켓 포위 공격 후 인질 모두 구출",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/video/newsfeed/2026/11/25/colombian-forces-rescue-all-hostages-after-supermarket-siege?traffic_source=rss",
-   "at": "2026-11-25T16:44:22.000Z",
-   "ev": [
-    "colombia"
-   ],
-   "cc": [
-    "Colombia"
-   ]
-  },
-  {
-   "id": "50e0a2ba3c33",
-   "t": "Moldova launches national preparedness campaign after drone incursions",
-   "ko": "몰도바, 드론 침입 이후 국가 대비 캠페인 시작",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/moldova-launches-national-preparedness-campaign-after-drone-incursions",
-   "at": "2026-11-25T16:34:45.000Z",
-   "ev": [
-    "ukraine"
-   ],
-   "cc": [
-    "Moldova",
-    "Ukraine"
-   ]
-  },
-  {
-   "id": "2efa70114790",
-   "t": "Iranian family seeks release of twin sisters facing death penalty and 25 years in prison",
-   "ko": "이란 가족, 쌍둥이 자매 석방 요구, 사형 및 25년 징역형 선고",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/video/20261125-iranian-family-seeks-release-of-twin-sisters-facing-death-penalty-and-25-years-in-prison",
-   "at": "2026-11-25T16:20:57.000Z",
-   "ev": [
-    "iran"
-   ],
-   "cc": [
-    "Iran"
-   ]
-  },
-  {
-   "id": "197c4519fed0",
-   "t": "Russian casualties in Ukraine war: New reports suggest death toll as high as 700,000",
-   "ko": "우크라이나 전쟁에서 러시아 사상자 : 새로운 보고서에 따르면 사망자 수는 최대 700,000 명에 이릅니다.",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/video/20261125-russian-casualties-in-ukraine-war-new-reports-suggest-death-toll-as-high-as-700-000",
-   "at": "2026-11-25T16:17:02.000Z",
-   "ev": [
-    "ukraine"
-   ],
-   "cc": [
-    "Russia",
-    "Ukraine"
-   ]
-  },
-  {
-   "id": "69fdf858ef62",
-   "t": "Iowa: Toxic dust fears as US Army blows up 10,000 pounds of explosives",
-   "ko": "아이오와: 미군이 10,000파운드의 폭발물을 폭파함에 따라 독성 먼지에 대한 우려",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/video/20261125-iowa-toxic-dust-fears-as-us-army-blows-up-10-000-pounds-of-explosives",
-   "at": "2026-11-25T16:14:40.000Z",
-   "ev": [],
-   "cc": [
-    "United States"
-   ]
-  },
-  {
-   "id": "f03bb4a9a565",
-   "t": "Colombia: Security forces rescue hostages in supermarket siege",
-   "ko": "콜롬비아: 보안군, 슈퍼마켓 포위 공격에서 인질 구출",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/video/20261125-colombia-security-forces-rescue-hostages-in-supermarket-siege",
-   "at": "2026-11-25T16:08:44.000Z",
-   "ev": [
-    "colombia"
-   ],
-   "cc": [
-    "Colombia"
-   ]
-  },
-  {
-   "id": "bed3a1d03949",
-   "t": "US Army detonates lead explosives in Iowa despite contamination fears",
-   "ko": "미 육군, 오염 우려에도 불구하고 아이오와에서 납 폭발물 폭발",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/americas/20261125-us-army-detonates-lead-explosives-iowa-despite-community-backlash",
-   "at": "2026-11-25T16:08:10.000Z",
-   "ev": [],
-   "cc": [
-    "United States"
-   ]
-  },
-  {
-   "id": "86b79ba660a0",
-   "t": "'We need to stop the war in Iran': US Congresswoman Pramila Jayapal",
-   "ko": "프라밀라 자야팔 미 하원의원 “이란 전쟁을 멈춰야 한다”",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/tv-shows/t%C3%AAte-%C3%A0-t%C3%AAte/20261125-we-need-to-stop-the-war-in-iran-us-congresswoman-pramila-jayapal",
-   "at": "2026-11-25T15:46:59.000Z",
-   "ev": [
-    "iran"
-   ],
-   "cc": [
-    "Iran",
-    "United States",
-    "Israel"
    ]
   }
  ]
