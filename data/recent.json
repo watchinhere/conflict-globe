@@ -1,7 +1,95 @@
 {
- "updated": "2026-11-26",
+ "updated": "2026-11-27",
  "news": {
   "ukraine": [
+   {
+    "date": "2026-11-26",
+    "text": "Trump urges Putin to end 'military aggression' in Europe",
+    "ko": "트럼프, 푸틴에 유럽 군사공격 중단 촉구",
+    "sources": [
+     {
+      "t": "France 24",
+      "u": "https://www.france24.com/en/trump-urges-putin-to-end-military-aggression-in-europe"
+     }
+    ]
+   },
+   {
+    "date": "2026-11-26",
+    "text": "Moscow drone incursions: Poland to create no-fly zone at Ukraine border",
+    "ko": "모스크바 드론 침입: 폴란드, 우크라이나 국경에 비행 금지 구역 만들기",
+    "sources": [
+     {
+      "t": "France 24",
+      "u": "https://www.france24.com/en/video/20261126-moscow-drone-incursions-poland-to-create-no-fly-zone-at-ukraine-border"
+     }
+    ]
+   },
+   {
+    "date": "2026-11-26",
+    "text": "Ukraine drone attack kills five in Russian-occupied Zaporizhia",
+    "ko": "러시아 점령지 자포리지아에서 우크라이나 드론 공격으로 5명 사망",
+    "sources": [
+     {
+      "t": "Al Jazeera",
+      "u": "https://www.aljazeera.com/news/2026/11/26/ukraine-drone-attack-kills-five-in-russian-occupied-zaporizhia?traffic_source=rss"
+     }
+    ]
+   },
+   {
+    "date": "2026-11-26",
+    "text": "Russia-Ukraine war extends to the Baltic and the Mediterranean",
+    "ko": "러시아-우크라이나 전쟁, 발트해와 지중해까지 확대",
+    "sources": [
+     {
+      "t": "DW",
+      "u": "https://www.dw.com/en/russia-ukraine-war-extends-to-the-baltic-and-the-mediterranean/a-80054604?maca=en-rss-en-world-4025-rdf"
+     }
+    ]
+   },
+   {
+    "date": "2026-11-26",
+    "text": "Can Rassvet, 'Russia's Starlink' change the course of the war in Ukraine?",
+    "ko": "'러시아의 스타링크' 라스베트(Rassvet)가 우크라이나 전쟁의 방향을 바꿀 수 있을까?",
+    "sources": [
+     {
+      "t": "DW",
+      "u": "https://www.dw.com/en/can-rassvet-russia-s-starlink-change-the-course-of-the-war-in-ukraine/a-80052579?maca=en-rss-en-world-4025-rdf"
+     }
+    ]
+   },
+   {
+    "date": "2026-11-26",
+    "text": "Ukraine attacks Russian military base, says five planes struck",
+    "ko": "우크라이나, 러시아 군사기지 공격…여객기 5대 피격",
+    "sources": [
+     {
+      "t": "Al Jazeera",
+      "u": "https://www.aljazeera.com/news/2026/11/26/ukraine-attacks-russian-military-base-says-five-planes-struck?traffic_source=rss"
+     }
+    ]
+   },
+   {
+    "date": "2026-11-25",
+    "text": "Ukraine seeks €115 billion in foreign aid for 2027, Zelensky says",
+    "ko": "젤렌스키 \"우크라이나, 2027년까지 1150억 유로의 대외 원조 추구\"",
+    "sources": [
+     {
+      "t": "France 24",
+      "u": "https://www.france24.com/en/europe/20261125-ukraine-seeks-%E2%82%AC115-billion-in-foreign-aid-for-2027-zelensky-says"
+     }
+    ]
+   },
+   {
+    "date": "2026-11-25",
+    "text": "My family were killed in Ukraine. My mum blamed Zelensky's troops - the truth is complicated",
+    "ko": "우리 가족은 우크라이나에서 살해당했습니다. 엄마는 젤렌스키의 군대를 비난했다 - 진실은 복잡하다",
+    "sources": [
+     {
+      "t": "BBC",
+      "u": "https://www.bbc.co.uk/news/articles/cw24e17v9e51o?at_medium=RSS&at_campaign=rss"
+     }
+    ]
+   },
    {
     "date": "2026-11-25",
     "text": "Did GTA 6 really recreate Charlie Kirk's assassination?",
@@ -43,94 +131,6 @@
      {
       "t": "France 24",
       "u": "https://www.france24.com/en/moldova-launches-national-preparedness-campaign-after-drone-incursions"
-     }
-    ]
-   },
-   {
-    "date": "2026-11-25",
-    "text": "Russian casualties in Ukraine war: New reports suggest death toll as high as 700,000",
-    "ko": "우크라이나 전쟁에서 러시아 사상자 : 새로운 보고서에 따르면 사망자 수는 최대 700,000 명에 이릅니다.",
-    "sources": [
-     {
-      "t": "France 24",
-      "u": "https://www.france24.com/en/video/20261125-russian-casualties-in-ukraine-war-new-reports-suggest-death-toll-as-high-as-700-000"
-     }
-    ]
-   },
-   {
-    "date": "2026-11-25",
-    "text": "Libya’s Haftar visits old foe Turkey for first time in ‘new phase’ of ties",
-    "ko": "리비아 하프타르, '새로운 단계' 관계에서 처음으로 옛 적 터키 방문",
-    "sources": [
-     {
-      "t": "France 24",
-      "u": "https://www.france24.com/en/middle-east/20261125-libya-s-haftar-visits-old-foe-turkey-in-a-first-hails-new-phase-of-ties"
-     }
-    ]
-   },
-   {
-    "date": "2026-11-25",
-    "text": "Kremlin declines comment on reports 700,000 Russian soldiers killed in Ukraine war",
-    "ko": "크렘린궁, 우크라이나 전쟁에서 러시아군 70만명 사망 보도에 대한 논평 거부",
-    "sources": [
-     {
-      "t": "France 24",
-      "u": "https://www.france24.com/en/europe/20261125-kremlin-declines-comment-reports-700-000-russian-soldiers-killed-ukraine-war"
-     }
-    ]
-   },
-   {
-    "date": "2026-11-25",
-    "text": "Five Russian military jets hit in airfield strike, says Ukraine",
-    "ko": "우크라이나, 러시아 군용기 5대 비행장 공습",
-    "sources": [
-     {
-      "t": "BBC",
-      "u": "https://www.bbc.co.uk/news/articles/ck9q8xp5r5pgo?at_medium=RSS&at_campaign=rss"
-     }
-    ]
-   },
-   {
-    "date": "2026-11-25",
-    "text": "Why Indian nationals are still ending up in Russia's war on Ukraine",
-    "ko": "인도 국민이 여전히 러시아의 우크라이나 전쟁에 참여하고 있는 이유",
-    "sources": [
-     {
-      "t": "DW",
-      "u": "https://www.dw.com/en/why-indian-nationals-are-still-ending-up-in-russia-s-war-on-ukraine/a-80048537?maca=en-rss-en-world-4025-rdf"
-     }
-    ]
-   },
-   {
-    "date": "2026-11-25",
-    "text": "Russia's own figures show it has lost nearly 500,000 people in Ukraine war",
-    "ko": "러시아 자체 통계에 따르면 우크라이나 전쟁에서 거의 50만 명의 사망자가 발생했습니다.",
-    "sources": [
-     {
-      "t": "BBC",
-      "u": "https://www.bbc.co.uk/news/articles/cmx27g533zwyo?at_medium=RSS&at_campaign=rss"
-     }
-    ]
-   },
-   {
-    "date": "2026-11-25",
-    "text": "Russian strikes on Ukraine cause power outages in five regions",
-    "ko": "러시아, 우크라이나 공습으로 5개 지역 정전",
-    "sources": [
-     {
-      "t": "Al Jazeera",
-      "u": "https://www.aljazeera.com/news/2026/11/25/russian-strikes-on-ukraine-cause-power-outages-in-five-regions?traffic_source=rss"
-     }
-    ]
-   },
-   {
-    "date": "2026-11-25",
-    "text": "Live: Two Libyan soldiers killed in Ukrainian attack on Russian vessels in Benghazi",
-    "ko": "라이브: 벵가지에서 러시아 선박에 대한 우크라이나의 공격으로 리비아 군인 2명이 사망",
-    "sources": [
-     {
-      "t": "France 24",
-      "u": "https://www.france24.com/en/europe/20261125-live-two-libyan-soldiers-killed-in-ukrainian-attack-on-russian-vessels-in-benghazi"
      }
     ]
    }
@@ -271,6 +271,105 @@
   ],
   "iran": [
    {
+    "date": "2026-11-26",
+    "text": "Two Italian technicians working for Rheinmetall are killed and two other people are injured in a drone strike against a location in Kuwait. Iran has been blamed for the attack but denies responsibility.",
+    "sources": [
+     {
+      "t": "BBC News",
+      "u": "https://www.bbc.com/news/articles/c39w9y5dx4k5o"
+     }
+    ],
+    "ko": "Rheinmetall에서 근무하던 이탈리아 기술자 2명이 쿠웨이트에서 드론 공격을 받아 사망하고 2명이 부상을 입었습니다. 이란은 이번 공격의 배후로 지목됐지만 책임을 부인하고 있다."
+   },
+   {
+    "date": "2026-11-26",
+    "text": "Two Italians killed in strike in Kuwait, as Iran denies responsibility",
+    "ko": "이란이 책임을 부인하자 쿠웨이트에서 공습으로 이탈리아인 2명이 사망했다.",
+    "sources": [
+     {
+      "t": "BBC",
+      "u": "https://www.bbc.co.uk/news/articles/c39w9y5dx4k5o?at_medium=RSS&at_campaign=rss"
+     }
+    ]
+   },
+   {
+    "date": "2026-11-26",
+    "text": "Iranian monarchists disrupt Paris event, highlighting bitter diaspora divide",
+    "ko": "이란 군주제, 파리 행사 방해, 극심한 디아스포라 분열 강조",
+    "sources": [
+     {
+      "t": "France 24",
+      "u": "https://www.france24.com/en/france/20261126-iranian-monarchists-disrupt-paris-event-highlighting-bitter-diaspora-divide"
+     }
+    ]
+   },
+   {
+    "date": "2026-11-26",
+    "text": "Two Italians killed by ‘drone strike debris’ in Kuwait",
+    "ko": "쿠웨이트서 '드론 공격 잔해'로 이탈리아인 2명 사망",
+    "sources": [
+     {
+      "t": "Al Jazeera",
+      "u": "https://www.aljazeera.com/news/2026/11/26/two-italians-killed-after-iranian-drones-strike-facility-says-kuwait?traffic_source=rss"
+     }
+    ]
+   },
+   {
+    "date": "2026-11-26",
+    "text": "Spanish economist de Cos to succeed Lagarde as head of ECB",
+    "ko": "라가르드 뒤를 이어 ECB 총재에 스페인 경제학자 드 코스가 내정됐다.",
+    "sources": [
+     {
+      "t": "France 24",
+      "u": "https://www.france24.com/en/europe/20261126-spanish-economist-de-cos-succeed-lagarde-head-ecb"
+     }
+    ]
+   },
+   {
+    "date": "2026-11-26",
+    "text": "Can Trump continue with Iran war despite funding restrictions?",
+    "ko": "트럼프는 자금 제한에도 불구하고 이란 전쟁을 계속할 수 있을까?",
+    "sources": [
+     {
+      "t": "Al Jazeera",
+      "u": "https://www.aljazeera.com/news/2026/11/26/can-trump-continue-with-iran-war-despite-funding-restrictions?traffic_source=rss"
+     }
+    ]
+   },
+   {
+    "date": "2026-11-26",
+    "text": "‘Symbolic’: Why did UK sanction Yemen’s Houthis amid attacks on Saudi?",
+    "ko": "'상징적': 영국이 사우디 공격 중에 예멘 후티 반군을 제재한 이유는 무엇입니까?",
+    "sources": [
+     {
+      "t": "Al Jazeera",
+      "u": "https://www.aljazeera.com/news/2026/11/26/symbolic-why-did-uk-sanction-yemens-houthis-amid-attacks-on-saudi?traffic_source=rss"
+     }
+    ]
+   },
+   {
+    "date": "2026-11-26",
+    "text": "Desperate appeals from women on death row in Iran after protests",
+    "ko": "이란 시위 이후 사형수 여성들의 절박한 호소",
+    "sources": [
+     {
+      "t": "BBC",
+      "u": "https://www.bbc.co.uk/news/articles/cm8x0ve4yd7wo?at_medium=RSS&at_campaign=rss"
+     }
+    ]
+   },
+   {
+    "date": "2026-11-26",
+    "text": "Iran war live: Explosion rocks Sanaa; missiles intercepted over Riyadh",
+    "ko": "이란 전쟁 라이브: 폭발이 Sanaa를 뒤흔들었습니다. 리야드 상공에서 미사일 요격",
+    "sources": [
+     {
+      "t": "Al Jazeera",
+      "u": "https://www.aljazeera.com/news/liveblog/2026/11/26/iran-war-live-explosion-rocks-sanaa-missiles-intercepted-over-riyadh?traffic_source=rss"
+     }
+    ]
+   },
+   {
     "date": "2026-11-25",
     "text": "Iranian family seeks release of twin sisters facing death penalty and 25 years in prison",
     "ko": "이란 가족, 쌍둥이 자매 석방 요구, 사형 및 25년 징역형 선고",
@@ -302,108 +401,57 @@
       "u": "https://www.france24.com/en/video/20261125-houthi-rebels-close-in-on-aden-yemeni-forces-dig-in-behind-fortified-line"
      }
     ]
-   },
-   {
-    "date": "2026-11-25",
-    "text": "Could Netanyahu take Israel into another war with Iran to cling to power?",
-    "ko": "네타냐후가 권력을 유지하기 위해 이스라엘을 이란과의 또 다른 전쟁에 끌어들일 수 있을까요?",
-    "sources": [
-     {
-      "t": "Al Jazeera",
-      "u": "https://www.aljazeera.com/news/2026/11/25/could-netanyahu-take-israel-into-another-war-with-iran-to-cling-to-power?traffic_source=rss"
-     }
-    ]
-   },
-   {
-    "date": "2026-11-25",
-    "text": "Poll finds US voters want government to end Iran war regardless of terms",
-    "ko": "여론조사에 따르면 미국 유권자들은 조건에 관계없이 정부가 이란 전쟁을 끝내기를 원하고 있는 것으로 나타났습니다.",
-    "sources": [
-     {
-      "t": "Al Jazeera",
-      "u": "https://www.aljazeera.com/news/2026/11/25/poll-finds-us-voters-want-government-to-end-iran-war-regardless-of-terms?traffic_source=rss"
-     }
-    ]
-   },
-   {
-    "date": "2026-11-25",
-    "text": "Iran war live: Saudi-led coalition strikes Yemen’s Hodeidah port",
-    "ko": "이란 전쟁 라이브: 사우디 주도 연합군, 예멘 호데이다 항구 공격",
-    "sources": [
-     {
-      "t": "Al Jazeera",
-      "u": "https://www.aljazeera.com/news/liveblog/2026/11/25/iran-war-live-houthis-threaten-saudi-ports-over-coalitions-hodeidah-order?traffic_source=rss"
-     }
-    ]
-   },
-   {
-    "date": "2026-11-23",
-    "text": "Iran hits US bases and civilian sites in the Gulf after a lull",
-    "ko": "이란, 소강상태 후 걸프만 미군기지와 민간시설 공습",
-    "sources": [
-     {
-      "t": "Al Jazeera",
-      "u": "https://www.aljazeera.com/video/inside-story/2026/11/23/iran-hits-us-bases-and-civilian-sites-in-the-gulf-after-a-lull?traffic_source=rss"
-     }
-    ]
-   },
-   {
-    "date": "2026-11-23",
-    "text": "Iran's courts order US to pay $290 billion in damages",
-    "ko": "이란 법원, 미국에 2900억 달러 손해배상 명령",
-    "sources": [
-     {
-      "t": "France 24",
-      "u": "https://www.france24.com/en/iran-s-courts-order-us-to-pay-290-billion-in-damages"
-     }
-    ]
-   },
-   {
-    "date": "2026-11-23",
-    "text": "COP31 climate talks in Turkey collapse",
-    "ko": "터키 COP31 기후 회담 결렬",
-    "sources": [
-     {
-      "t": "France 24",
-      "u": "https://www.france24.com/en/video/20261123-cop31-climate-talks-collapse"
-     }
-    ]
-   },
-   {
-    "date": "2026-11-22",
-    "text": "Iran war live: Tankers set ablaze in Hormuz as IRGC warns of unrest threat",
-    "ko": "이란 전쟁 라이브: IRGC가 불안 위협을 경고함에 따라 호르무즈에서 유조선에 불이 붙었습니다.",
-    "sources": [
-     {
-      "t": "Al Jazeera",
-      "u": "https://www.aljazeera.com/news/liveblog/2026/11/22/iran-war-live-tankers-set-ablaze-in-hormuz-as-irgc-warns-of-unrest-threat?traffic_source=rss"
-     }
-    ]
-   },
-   {
-    "date": "2026-11-22",
-    "text": "Iran unveils dual-missile launcher, new ‘missile city’: What to know",
-    "ko": "이란, 새로운 '미사일 도시'인 이중 미사일 발사대 공개: 알아야 할 사항",
-    "sources": [
-     {
-      "t": "Al Jazeera",
-      "u": "https://www.aljazeera.com/news/2026/11/22/iran-unveils-dual-missile-launcher-new-missile-city-what-to-know?traffic_source=rss"
-     }
-    ]
-   },
-   {
-    "date": "2026-11-22",
-    "text": "What next for Iraq’s push against militias following Jurf al-Sakhar deal?",
-    "ko": "Jurf al-Sakhar 거래 이후 이라크가 민병대를 상대로 추진할 다음 단계는 무엇입니까?",
-    "sources": [
-     {
-      "t": "Al Jazeera",
-      "u": "https://www.aljazeera.com/news/2026/11/22/what-next-for-iraqs-push-against-militias-following-jurf-al-sakhar-deal?traffic_source=rss"
-     }
-    ]
    }
   ],
   "yemen": [
+   {
+    "date": "2026-11-26",
+    "text": "Saudi Arabia says it has destroyed 50 Houthi military targets, including weapons depots, ballistic missile and drone launch sites, and command centres, in airstrikes on Sanaa, Al Hudaydah, and Saada Governorates in Yemen.",
+    "sources": [
+     {
+      "t": "AFP via AA",
+      "u": "https://www.aa.com.tr/en/middle-east/saudi-led-coalition-says-it-destroyed-50-houthi-military-targets-across-yemen/4139651"
+     },
+     {
+      "t": "Al Jazeera",
+      "u": "https://www.aljazeera.com/news/2026/11/25/houthis-target-saudi-arabias-red-sea-ports-as-strikes-escalate"
+     }
+    ],
+    "ko": "사우디아라비아는 예멘의 사나, 알 후데이다, 사다 주에 대한 공습으로 무기 창고, 탄도 미사일 및 드론 발사 기지, 지휘 센터를 포함한 후티 군사 목표물 50곳을 파괴했다고 밝혔습니다."
+   },
+   {
+    "date": "2026-11-26",
+    "text": "‘Symbolic’: Why did UK sanction Yemen’s Houthis amid attacks on Saudi?",
+    "ko": "'상징적': 영국이 사우디 공격 중에 예멘 후티 반군을 제재한 이유는 무엇입니까?",
+    "sources": [
+     {
+      "t": "Al Jazeera",
+      "u": "https://www.aljazeera.com/news/2026/11/26/symbolic-why-did-uk-sanction-yemens-houthis-amid-attacks-on-saudi?traffic_source=rss"
+     }
+    ]
+   },
+   {
+    "date": "2026-11-26",
+    "text": "Iran war live: Explosion rocks Sanaa; missiles intercepted over Riyadh",
+    "ko": "이란 전쟁 라이브: 폭발이 Sanaa를 뒤흔들었습니다. 리야드 상공에서 미사일 요격",
+    "sources": [
+     {
+      "t": "Al Jazeera",
+      "u": "https://www.aljazeera.com/news/liveblog/2026/11/26/iran-war-live-explosion-rocks-sanaa-missiles-intercepted-over-riyadh?traffic_source=rss"
+     }
+    ]
+   },
+   {
+    "date": "2026-11-25",
+    "text": "Houthis target Saudi Arabia’s Red Sea ports as strikes escalate",
+    "ko": "후티 반군, 공습 확대로 사우디아라비아 홍해 항구 표적으로 삼아",
+    "sources": [
+     {
+      "t": "Al Jazeera",
+      "u": "https://www.aljazeera.com/news/2026/11/25/houthis-target-saudi-arabias-red-sea-ports-as-strikes-escalate?traffic_source=rss"
+     }
+    ]
+   },
    {
     "date": "2026-11-25",
     "text": "The Ras Tanura oil refinery in Saudi Arabia's Eastern Province is damaged in an attack by the Houthis.",
@@ -491,53 +539,75 @@
       "u": "https://www.france24.com/en/middle-east/20261124-yemen-army-houthi-attack-aden"
      }
     ]
-   },
-   {
-    "date": "2026-11-24",
-    "text": "World News in Brief: Vaccine crisis in Yemen, aid for Ukraine, another UNRWA staffer killed",
-    "ko": "세계 뉴스 요약: 예멘의 백신 위기, 우크라이나에 대한 지원, 또 다른 UNRWA 직원 사망",
-    "sources": [
-     {
-      "t": "UN News",
-      "u": "https://news.un.org/feed/view/en/story/2026/11/1168871"
-     }
-    ]
-   },
-   {
-    "date": "2026-11-24",
-    "text": "Why has Yemen’s offensive against the Houthis in al-Bayda stalled?",
-    "ko": "알바이다에서 후티 반군에 대한 예멘의 공세가 중단된 이유는 무엇입니까?",
-    "sources": [
-     {
-      "t": "Al Jazeera",
-      "u": "https://www.aljazeera.com/news/2026/11/24/why-has-yemens-offensive-against-the-houthis-in-al-bayda-stalled?traffic_source=rss"
-     }
-    ]
-   },
-   {
-    "date": "2026-11-22",
-    "text": "Saudi Arabia intercepts drone, missile as Houthis report attack on Sanaa",
-    "ko": "후티 반군이 사나에 대한 공격을 보고하자 사우디아라비아는 드론과 미사일을 요격했다",
-    "sources": [
-     {
-      "t": "Al Jazeera",
-      "u": "https://www.aljazeera.com/news/2026/11/22/houthis-report-attack-on-sanaa-as-saudi-arabia-intercepts-drone?traffic_source=rss"
-     }
-    ]
-   },
-   {
-    "date": "2026-11-21",
-    "text": "Saudi forces intercept three ballistic missiles fired at Riyadh, Saudi Arabia, by the Houthis.",
-    "sources": [
-     {
-      "t": "Al Jazeera",
-      "u": "https://www.aljazeera.com/news/2026/11/21/saudi-led-coalition-intercepts-three-houthi-missiles-headed-for-riyadh"
-     }
-    ],
-    "ko": "사우디군은 후티 반군이 사우디아라비아 리야드에서 발사한 탄도미사일 3발을 요격했다."
    }
   ],
   "gaza": [
+   {
+    "date": "2026-11-26",
+    "text": "Hamas weighs response after Israel kills 10 people in Gaza",
+    "ko": "하마스, 이스라엘 가자지구에서 10명 살해 후 대응 검토",
+    "sources": [
+     {
+      "t": "France 24",
+      "u": "https://www.france24.com/en/hamas-weighs-response-after-israel-kills-10-people-in-gaza"
+     }
+    ]
+   },
+   {
+    "date": "2026-11-26",
+    "text": "Why are winter rains forcing Palestinians in Gaza to flee again?",
+    "ko": "왜 겨울비로 인해 가자지구의 팔레스타인인들이 다시 도망칠 수밖에 없는 걸까요?",
+    "sources": [
+     {
+      "t": "Al Jazeera",
+      "u": "https://www.aljazeera.com/news/2026/11/26/why-are-winter-rains-forcing-palestinians-in-gaza-to-flee-again?traffic_source=rss"
+     }
+    ]
+   },
+   {
+    "date": "2026-11-26",
+    "text": "Kushner explains the ‘good thing’ about Gaza’s destruction",
+    "ko": "쿠슈너는 가자 지구의 파괴에 대한 '좋은 점'을 설명합니다",
+    "sources": [
+     {
+      "t": "Al Jazeera",
+      "u": "https://www.aljazeera.com/video/newsfeed/2026/11/26/kushner-explains-the-good-thing-about-gazas-destruction?traffic_source=rss"
+     }
+    ]
+   },
+   {
+    "date": "2026-11-26",
+    "text": "Film shows testimonies of international doctors amid Gaza genocide",
+    "ko": "영화는 가자지구 학살 속에서 국제 의사들의 증언을 보여줍니다",
+    "sources": [
+     {
+      "t": "Al Jazeera",
+      "u": "https://www.aljazeera.com/video/newsfeed/2026/11/26/film-shows-testimonies-of-international-doctors-amid-gaza-genocide?traffic_source=rss"
+     }
+    ]
+   },
+   {
+    "date": "2026-11-26",
+    "text": "Hamas political official and wife among eight Palestinians killed in Israeli strikes on Gaza",
+    "ko": "이스라엘 가자지구 공습으로 팔레스타인인 8명 중 하마스 정치관리와 아내 사망",
+    "sources": [
+     {
+      "t": "BBC",
+      "u": "https://www.bbc.co.uk/news/articles/cqvg2n4mzl1jo?at_medium=RSS&at_campaign=rss"
+     }
+    ]
+   },
+   {
+    "date": "2026-11-25",
+    "text": "Israeli lawmakers advance October 7 inquiry opposed by Netanyahu",
+    "ko": "이스라엘 국회의원, 네타냐후 반대 10월 7일 조사 진행",
+    "sources": [
+     {
+      "t": "France 24",
+      "u": "https://www.france24.com/en/israeli-lawmakers-advance-october-7-inquiry-opposed-by-netanyahu"
+     }
+    ]
+   },
    {
     "date": "2026-11-25",
     "text": "A Hamas security official, his wife, and two daughters, are killed in an Israeli airstrike on the Al-Shati refugee camp near Gaza City. Seven more Palestinians are also killed and several injured in more Israeli airstrikes.",
@@ -605,72 +675,6 @@
      {
       "t": "France 24",
       "u": "https://www.france24.com/en/middle-east/20261125-amnesty-calls-for-icc-genocide-probe-over-israel-s-impact-on-births-in-gaza"
-     }
-    ]
-   },
-   {
-    "date": "2026-11-24",
-    "text": "Israel kills Hamas security official Naeem Abu Nahel in an airstrike in the Gaza Strip.",
-    "sources": [
-     {
-      "t": "The Washington Post",
-      "u": "https://www.washingtonpost.com/world/2026/11/24/israel-kills-hamas-internal-security-chief-gaza/"
-     }
-    ],
-    "ko": "이스라엘은 가자지구에서 하마스 보안요원인 나임 아부 나헬을 공습으로 사살했습니다."
-   },
-   {
-    "date": "2026-11-24",
-    "text": "Senior Hamas security official killed in Israeli drone strikes",
-    "ko": "하마스 고위 보안요원, 이스라엘 드론 공격으로 사망",
-    "sources": [
-     {
-      "t": "Al Jazeera",
-      "u": "https://www.aljazeera.com/video/newsfeed/2026/11/24/senior-hamas-security-official-killed-in-israeli-drone-strikes?traffic_source=rss"
-     }
-    ]
-   },
-   {
-    "date": "2026-11-24",
-    "text": "Israeli air strike kills Hamas internal security chief in Gaza",
-    "ko": "이스라엘 공습, 가자 지구 하마스 내부 보안 책임자 사망",
-    "sources": [
-     {
-      "t": "BBC",
-      "u": "https://www.bbc.co.uk/news/articles/c6rrg7ggq190o?at_medium=RSS&at_campaign=rss"
-     }
-    ]
-   },
-   {
-    "date": "2026-11-23",
-    "text": "An Israeli airstrike kills a UNRWA employee and injures three other people in the Jabalia refugee camp in the Gaza Strip.",
-    "sources": [
-     {
-      "t": "The Latin Times",
-      "u": "https://www.latintimes.com/unrwa-worker-killed-israeli-strike-gaza-water-well-601786"
-     }
-    ],
-    "ko": "이스라엘의 공습으로 가자지구 자발리아 난민캠프에서 UNRWA 직원 1명이 사망하고 3명이 부상을 입었습니다."
-   },
-   {
-    "date": "2026-11-23",
-    "text": "Israeli attacks have turned Gaza into 'toxic wasteland', Oxfam says",
-    "ko": "이스라엘의 공격으로 가자지구가 '독성 황무지'로 변했다고 옥스팜이 밝혔습니다.",
-    "sources": [
-     {
-      "t": "BBC",
-      "u": "https://www.bbc.co.uk/news/articles/c8r4gzzxvxl3o?at_medium=RSS&at_campaign=rss"
-     }
-    ]
-   },
-   {
-    "date": "2026-11-23",
-    "text": "Israeli strikes kill at least three, including UNRWA worker, in Gaza",
-    "ko": "이스라엘, 가자지구 공습으로 UNRWA 직원 포함 최소 3명 사망",
-    "sources": [
-     {
-      "t": "Al Jazeera",
-      "u": "https://www.aljazeera.com/news/2026/11/23/israeli-drone-strike-kills-unrwa-worker-in-gaza?traffic_source=rss"
      }
     ]
    }
@@ -811,6 +815,28 @@
   ],
   "westbank": [
    {
+    "date": "2026-11-26",
+    "text": "Israeli settlers damage Palestinian family’s homes in West Bank attack",
+    "ko": "이스라엘 정착민, 서안 지구 공격으로 팔레스타인 가족의 집 손상",
+    "sources": [
+     {
+      "t": "Al Jazeera",
+      "u": "https://www.aljazeera.com/news/2026/11/26/israeli-settlers-damage-palestinian-familys-homes-in-west-bank-attack?traffic_source=rss"
+     }
+    ]
+   },
+   {
+    "date": "2026-11-25",
+    "text": "Türk warns of widening risk of atrocity crimes against Palestinians",
+    "ko": "터키, 팔레스타인에 대한 잔학행위 위험 확대 경고",
+    "sources": [
+     {
+      "t": "UN News",
+      "u": "https://news.un.org/feed/view/en/story/2026/11/1168879"
+     }
+    ]
+   },
+   {
     "date": "2026-11-24",
     "text": "Palestine Weekly: A night of arson sees Israel ‘Jewish terrorism’ reckoning",
     "ko": "팔레스타인 주간지: 방화의 밤에 이스라엘은 '유대인 테러리즘'을 심판받는다",
@@ -917,28 +943,6 @@
      {
       "t": "Al Jazeera",
       "u": "https://www.aljazeera.com/video/newsfeed/2026/11/21/impunity-fuels-surge-in-settler-violence-across-occupied-west-bank?traffic_source=rss"
-     }
-    ]
-   },
-   {
-    "date": "2026-11-20",
-    "text": "West Bank: Record settler attacks mar olive harvest as UN urges Israel to protect farmers",
-    "ko": "서안 지구: UN이 이스라엘에 농부들을 보호하라고 촉구하자 기록적인 정착민들이 올리브 수확을 방해했습니다.",
-    "sources": [
-     {
-      "t": "UN News",
-      "u": "https://news.un.org/feed/view/en/story/2026/11/1168849"
-     }
-    ]
-   },
-   {
-    "date": "2026-11-19",
-    "text": "Settler rams into Palestinians at multiple locations in central Israel",
-    "ko": "정착민들이 이스라엘 중부의 여러 지역에서 팔레스타인 사람들을 공격하고 있습니다.",
-    "sources": [
-     {
-      "t": "Al Jazeera",
-      "u": "https://www.aljazeera.com/video/newsfeed/2026/11/19/settler-rams-into-palestinians-at-multiple-locations-in-central-israel?traffic_source=rss"
      }
     ]
    }
@@ -1136,6 +1140,17 @@
   ],
   "myanmar": [
    {
+    "date": "2026-11-26",
+    "text": "Myanmar refuses to comply with parts of ICJ genocide ruling",
+    "ko": "미얀마, ICJ 대량 학살 판결 일부 준수 거부",
+    "sources": [
+     {
+      "t": "BBC",
+      "u": "https://www.bbc.co.uk/news/articles/c61wr87wyg5wo?at_medium=RSS&at_campaign=rss"
+     }
+    ]
+   },
+   {
     "date": "2026-11-24",
     "text": "Global landmine casualties hit a five-year high, driven by Myanmar, Syria",
     "ko": "미얀마, 시리아 등 전 세계 지뢰 피해 5년 만에 최고치",
@@ -1253,17 +1268,6 @@
      {
       "t": "The Guardian",
       "u": "https://www.theguardian.com/law/2026/nov/20/us-eu-reaction-myanmar-rohingya-genocide-icj-ruling-trump-international-law"
-     }
-    ]
-   },
-   {
-    "date": "2026-11-20",
-    "text": "Tears of joy, prayers for return home: Rohingya react to genocide ruling",
-    "ko": "기쁨의 눈물, 귀향을 위한 기도: 대량학살 판결에 대한 로힝야족의 반응",
-    "sources": [
-     {
-      "t": "Al Jazeera",
-      "u": "https://www.aljazeera.com/news/2026/11/20/tears-of-joy-prayers-for-return-home-rohingya-react-to-genocide-ruling?traffic_source=rss"
      }
     ]
    }
@@ -1404,6 +1408,17 @@
   ],
   "nigeria": [
    {
+    "date": "2026-11-26",
+    "text": "Nigeria faces rising election violence in run up to vote",
+    "ko": "나이지리아는 투표를 앞두고 선거 폭력 사태에 직면해 있습니다.",
+    "sources": [
+     {
+      "t": "France 24",
+      "u": "https://www.france24.com/en/nigeria-faces-rising-election-violence-in-run-up-to-vote"
+     }
+    ]
+   },
+   {
     "date": "2026-11-25",
     "text": "Nigeria’s Tinubu pledges to bring peace to rebellion-hit border region",
     "ko": "나이지리아 티누부(Tinubu), 반군 피해를 입은 국경 지역에 평화를 가져오겠다고 약속",
@@ -1523,17 +1538,6 @@
      }
     ],
     "ko": "신원이 밝혀지지 않은 공격자들이 나이지리아 잠파라 주 기단-기예 마을 근처에서 경찰 호송대를 매복 공격해 최소 5명의 경찰관과 3명의 잠파라 지역사회 보호대원이 사망하고, 2명의 경찰관이 부상을 입었으며, 불특정 수의 인력을 납치했습니다."
-   },
-   {
-    "date": "2026-10-27",
-    "text": "Deaths in detention cells in Nigeria were entirely preventable, inquiry finds",
-    "ko": "나이지리아 구금실에서의 사망은 완전히 예방할 수 있었던 것으로 조사 결과 밝혀졌습니다",
-    "sources": [
-     {
-      "t": "BBC",
-      "u": "https://www.bbc.co.uk/news/articles/cmgel8pqj5rwo?at_medium=RSS&at_campaign=rss"
-     }
-    ]
    }
   ],
   "ethiopia": [
@@ -1863,6 +1867,17 @@
   ],
   "rohingya": [
    {
+    "date": "2026-11-26",
+    "text": "Myanmar refuses to comply with parts of ICJ genocide ruling",
+    "ko": "미얀마, ICJ 대량 학살 판결 일부 준수 거부",
+    "sources": [
+     {
+      "t": "BBC",
+      "u": "https://www.bbc.co.uk/news/articles/c61wr87wyg5wo?at_medium=RSS&at_campaign=rss"
+     }
+    ]
+   },
+   {
     "date": "2026-11-24",
     "text": "Malaysia set to return thousands of Rohingya refugees to Myanmar",
     "ko": "말레이시아, 수천 명의 로힝야 난민을 미얀마로 송환할 예정",
@@ -1986,20 +2001,20 @@
       "u": "https://www.theguardian.com/law/2026/nov/20/us-eu-reaction-myanmar-rohingya-genocide-icj-ruling-trump-international-law"
      }
     ]
-   },
-   {
-    "date": "2026-11-20",
-    "text": "Tears of joy, prayers for return home: Rohingya react to genocide ruling",
-    "ko": "기쁨의 눈물, 귀향을 위한 기도: 대량학살 판결에 대한 로힝야족의 반응",
-    "sources": [
-     {
-      "t": "Al Jazeera",
-      "u": "https://www.aljazeera.com/news/2026/11/20/tears-of-joy-prayers-for-return-home-rohingya-react-to-genocide-ruling?traffic_source=rss"
-     }
-    ]
    }
   ],
   "somalia": [
+   {
+    "date": "2026-11-26",
+    "text": "As foreign troops withdraw from Somalia, could al-Shabab take over?",
+    "ko": "외국군이 소말리아에서 철수함에 따라 알샤바브가 장악할 수 있을까요?",
+    "sources": [
+     {
+      "t": "BBC",
+      "u": "https://www.bbc.co.uk/news/articles/ck62y23z58yeo?at_medium=RSS&at_campaign=rss"
+     }
+    ]
+   },
    {
     "date": "2026-11-25",
     "text": "Somalia: Famine risk decreases in Baidoa – but millions still going hungry",
@@ -2128,20 +2143,42 @@
       "u": "https://www.france24.com/en/uganda-withdrawing-troops-from-peacekeeping-mission-in-somalia"
      }
     ]
-   },
-   {
-    "date": "2026-11-02",
-    "text": "Uganda begins withdrawing troops from Somalia after 20 years",
-    "ko": "우간다, 20년 만에 소말리아에서 군대 철수 시작",
-    "sources": [
-     {
-      "t": "BBC",
-      "u": "https://www.bbc.co.uk/news/articles/c8zxlqxwed4do?at_medium=RSS&at_campaign=rss"
-     }
-    ]
    }
   ],
   "syria": [
+   {
+    "date": "2026-11-26",
+    "text": "Syrian children continue learning amid the ruins of war in Idlib",
+    "ko": "시리아 어린이들은 이들리브의 전쟁 폐허 속에서도 계속 학습하고 있습니다",
+    "sources": [
+     {
+      "t": "Al Jazeera",
+      "u": "https://www.aljazeera.com/video/newsfeed/2026/11/26/syrian-children-continue-learning-amid-the-ruins-of-war-in-idlib?traffic_source=rss"
+     }
+    ]
+   },
+   {
+    "date": "2026-11-26",
+    "text": "ISIL blamed for multiple suicide attacks in Syria",
+    "ko": "ISIL은 시리아에서 여러 차례 자살 공격을 가해 비난을 받았습니다",
+    "sources": [
+     {
+      "t": "Al Jazeera",
+      "u": "https://www.aljazeera.com/video/newsfeed/2026/11/26/isil-blamed-for-multiple-suicide-attacks-in-syria?traffic_source=rss"
+     }
+    ]
+   },
+   {
+    "date": "2026-11-26",
+    "text": "Two Syrian security personnel killed in ISIL suicide attack",
+    "ko": "ISIL 자살공격으로 시리아 보안요원 2명 사망",
+    "sources": [
+     {
+      "t": "Al Jazeera",
+      "u": "https://www.aljazeera.com/news/2026/11/26/two-syrian-security-personnel-killed-in-isil-suicide-attack?traffic_source=rss"
+     }
+    ]
+   },
    {
     "date": "2026-11-25",
     "text": "An Islamic State suicide bomber blows himself up on a motorcycle at a checkpoint in Hasakah, Syria, killing two security forces and wounding five more.",
@@ -2240,42 +2277,31 @@
       "u": "https://www.aljazeera.com/video/newsfeed/2026/11/14/deadly-car-bomb-blast-kills-two-near-syrias-capital?traffic_source=rss"
      }
     ]
-   },
-   {
-    "date": "2026-11-13",
-    "text": "The truth about Douma: How Syria covered up a chemical attack",
-    "ko": "두마의 진실: 시리아가 화학 공격을 은폐한 방법",
-    "sources": [
-     {
-      "t": "France 24",
-      "u": "https://www.france24.com/en/tv-shows/reporters/20261113-the-truth-about-douma-how-syria-covered-up-a-chemical-attack"
-     }
-    ]
-   },
-   {
-    "date": "2026-11-13",
-    "text": "After Iraq ex-MP’s killing, Lebanon asks Syria to extradite suspects",
-    "ko": "이라크 전 의원 살해 후 레바논, 시리아에 용의자 인도 요청",
-    "sources": [
-     {
-      "t": "Al Jazeera",
-      "u": "https://www.aljazeera.com/news/2026/11/13/after-iraq-ex-mps-killing-lebanon-asks-syria-to-extradite-suspects?traffic_source=rss"
-     }
-    ]
-   },
-   {
-    "date": "2026-11-12",
-    "text": "How FRANCE 24 traced Tehran-backed Afghan fighters from Syria to southeastern Iran",
-    "ko": "FRANCE 24가 시리아에서 이란 남동부까지 테헤란의 지원을 받는 아프가니스탄 전투기를 추적한 방법",
-    "sources": [
-     {
-      "t": "France 24",
-      "u": "https://www.france24.com/en/middle-east/20261112-iran-afghan-fatemiyoun-fighters-syria-baluchistan"
-     }
-    ]
    }
   ],
   "colombia": [
+   {
+    "date": "2026-11-26",
+    "text": "How a teen’s death raises questions about Colombia’s security crackdown",
+    "ko": "십대의 죽음이 콜롬비아의 보안 단속에 대한 의문을 제기하는 방법",
+    "sources": [
+     {
+      "t": "Al Jazeera",
+      "u": "https://www.aljazeera.com/news/longform/2026/11/26/how-a-teens-death-raises-questions-about-colombias-security-crackdown?traffic_source=rss"
+     }
+    ]
+   },
+   {
+    "date": "2026-11-26",
+    "text": "Colombian president taunts arrested supermarket hostage-takers",
+    "ko": "콜롬비아 대통령, 체포된 슈퍼마켓 인질범 조롱",
+    "sources": [
+     {
+      "t": "Al Jazeera",
+      "u": "https://www.aljazeera.com/video/newsfeed/2026/11/26/colombian-president-taunts-arrested-supermarket-hostage-takers?traffic_source=rss"
+     }
+    ]
+   },
    {
     "date": "2026-11-25",
     "text": "Colombian forces rescue all hostages after supermarket siege",
@@ -2385,28 +2411,6 @@
       "u": "https://www.bbc.co.uk/news/articles/cjqlq2n4np7do?at_medium=RSS&at_campaign=rss"
      }
     ]
-   },
-   {
-    "date": "2026-11-24",
-    "text": "Car bomb strikes governor’s office in Meta, Colombia",
-    "ko": "콜롬비아 메타 주지사 사무실에 차량 폭탄 테러 발생",
-    "sources": [
-     {
-      "t": "Al Jazeera",
-      "u": "https://www.aljazeera.com/video/newsfeed/2026/11/24/car-bomb-strikes-governors-office-in-meta-colombia?traffic_source=rss"
-     }
-    ]
-   },
-   {
-    "date": "2026-11-23",
-    "text": "At least 21 people are injured after a car bomb explodes next to the Meta Department government building in downtown Villavicencio, Colombia.",
-    "sources": [
-     {
-      "t": "Anadolu Ajansi",
-      "u": "https://www.aa.com.tr/en/americas/car-bomb-explodes-near-colombia-s-meta-government-headquarters/4135229"
-     }
-    ],
-    "ko": "콜롬비아 비야비센시오 시내 메타부 정부 건물 옆에서 차량 폭탄이 터져 최소 21명이 부상당했다."
    }
   ],
   "niger": [
@@ -2547,6 +2551,39 @@
   ],
   "drc": [
    {
+    "date": "2026-11-26",
+    "text": "DR Congo: Peacekepers step up civilian protection amid fighting in Ituri",
+    "ko": "DR 콩고: 이투리 전투 중 평화 유지군이 민간인 보호 강화",
+    "sources": [
+     {
+      "t": "UN News",
+      "u": "https://news.un.org/feed/view/en/story/2026/11/1168883"
+     }
+    ]
+   },
+   {
+    "date": "2026-11-26",
+    "text": "DR Congo demands answers over Ugandan general's threats",
+    "ko": "DR 콩고, 우간다 장군의 위협에 대한 답변 요구",
+    "sources": [
+     {
+      "t": "BBC",
+      "u": "https://www.bbc.co.uk/news/articles/cwz0k90rgpm8o?at_medium=RSS&at_campaign=rss"
+     }
+    ]
+   },
+   {
+    "date": "2026-11-25",
+    "text": "Cape Town court shuts down Ramaphosa's Farmgate scandal",
+    "ko": "케이프타운 법원, 라마포사의 팜게이트 스캔들 종결",
+    "sources": [
+     {
+      "t": "France 24",
+      "u": "https://www.france24.com/en/cape-town-court-shuts-down-ramaphosa-s-farmgate-scandal"
+     }
+    ]
+   },
+   {
     "date": "2026-11-24",
     "text": "Rebel group retreats in DR Congo after heavy clashes with government forces",
     "ko": "콩고민주공화국 정부군과 격렬한 충돌 후 반군 그룹 후퇴",
@@ -2644,42 +2681,20 @@
      }
     ],
     "ko": "콩고민주공화국 동부 북키부의 여러 마을에서 어제 연합민주군 무장세력으로 의심되는 무장공격으로 인한 사망자 수가 33명으로 늘어났습니다."
-   },
-   {
-    "date": "2026-11-06",
-    "text": "The death toll from an armed attack yesterday by suspected Allied Democratic Forces militants on several villages in North Kivu, eastern Democratic Republic of Congo, has risen to 33.",
-    "sources": [
-     {
-      "t": "AA",
-      "u": "https://www.aa.com.tr/en/africa/death-toll-from-adf-attack-in-dr-congo-rises-to-33/4114820"
-     }
-    ],
-    "ko": "콩고민주공화국 동부 북키부의 여러 마을에서 어제 연합민주군 무장세력으로 의심되는 무장공격으로 인한 사망자 수가 33명으로 늘어났습니다."
-   },
-   {
-    "date": "2026-11-06",
-    "text": "World News in Brief: Civilians killed in DR Congo, Ukrainians wrestle with return, Guterres calls out ‘normalisation’ of force",
-    "ko": "세계 뉴스 요약: 콩고민주공화국에서 민간인 사망, 우크라이나인 귀환 위해 고군분투, 구테레스는 무력의 '정상화' 촉구",
-    "sources": [
-     {
-      "t": "UN News",
-      "u": "https://news.un.org/feed/view/en/story/2026/11/1168757"
-     }
-    ]
-   },
-   {
-    "date": "2026-11-04",
-    "text": "Rwanda's army team removed from Africa league after US sanctions, NBA says",
-    "ko": "NBA \"미국의 제재로 르완다군, 아프리카리그에서 탈퇴\"",
-    "sources": [
-     {
-      "t": "BBC",
-      "u": "https://www.bbc.co.uk/news/articles/c699zdx9knmpo?at_medium=RSS&at_campaign=rss"
-     }
-    ]
    }
   ],
   "mexico": [
+   {
+    "date": "2026-11-26",
+    "text": "Mexico seeks US talks about suspected SpaceX debris",
+    "ko": "멕시코, SpaceX 잔해 의심에 대해 미국과 대화 모색",
+    "sources": [
+     {
+      "t": "Al Jazeera",
+      "u": "https://www.aljazeera.com/news/2026/11/26/mexico-seeks-us-talks-about-suspected-spacex-debris?traffic_source=rss"
+     }
+    ]
+   },
    {
     "date": "2026-11-24",
     "text": "Watch: Moment troops raid home and capture Mexican drug lord",
@@ -2800,17 +2815,6 @@
       "u": "https://www.dw.com/en/mexican-special-forces-arrest-drug-kingpin-chapo-isidro/a-80010745?maca=en-rss-en-world-4025-rdf"
      }
     ]
-   },
-   {
-    "date": "2026-11-21",
-    "text": "Cartel leader captured in northern Mexico in a bloody firefight that left 11 dead",
-    "ko": "멕시코 북부에서 유혈 총격전을 벌여 11명이 사망한 카르텔 지도자 체포",
-    "sources": [
-     {
-      "t": "NPR",
-      "u": "https://www.npr.org/2026/11/21/nx-s1-6049672/cartel-boss-el-chapo-isidro-detained"
-     }
-    ]
    }
   ],
   "afpak": [
@@ -2928,6 +2932,17 @@
    }
   ],
   "benin": [
+   {
+    "date": "2026-11-26",
+    "text": "Across Africa: The Scars of South Africa's Soweto Uprising",
+    "ko": "아프리카 전역: 남아프리카 소웨토 봉기의 상처",
+    "sources": [
+     {
+      "t": "France 24",
+      "u": "https://www.france24.com/en/across-africa-the-scars-of-south-africa-s-soweto-uprising-1"
+     }
+    ]
+   },
    {
     "date": "2026-11-10",
     "text": "Nearly 64,000 flee Nigeria for Niger where a humanitarian crisis is deepening",
