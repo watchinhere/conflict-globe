@@ -1,13 +1,13 @@
 {
- "updated": "2026-11-27T05:20:28.695Z",
+ "updated": "2026-11-27T15:34:25.688Z",
  "sources": {
   "BBC": {
    "ok": true,
-   "n": 14
+   "n": 13
   },
   "Al Jazeera": {
    "ok": true,
-   "n": 12
+   "n": 9
   },
   "The Guardian": {
    "ok": false,
@@ -15,22 +15,427 @@
   },
   "DW": {
    "ok": true,
-   "n": 5
+   "n": 6
   },
   "France 24": {
    "ok": true,
-   "n": 6
+   "n": 10
   },
   "UN News": {
    "ok": true,
-   "n": 5
+   "n": 2
   },
   "NPR": {
    "ok": true,
-   "n": 2
+   "n": 0
   }
  },
  "items": [
+  {
+   "id": "eb3496dcbe29",
+   "t": "Funeral prayers held for 31 victims of Egypt tanker crash",
+   "ko": "이집트 유조선 추락 희생자 31명 추모 기도회",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/video/newsfeed/2026/11/27/funeral-prayers-held-for-31-victims-of-egypt-tanker-crash?traffic_source=rss",
+   "at": "2026-11-27T15:07:22.000Z",
+   "ev": [],
+   "cc": [
+    "Egypt"
+   ]
+  },
+  {
+   "id": "5a725da43c65",
+   "t": "Japan's radical past: Retracing the far-left groups of the 1970s",
+   "ko": "일본의 급진적인 과거: 1970년대 극좌파 그룹을 되돌아보며",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/tv-shows/revisited/20261127-japan-radical-past-retracing-far-left-groups-1970s",
+   "at": "2026-11-27T14:33:04.000Z",
+   "ev": [],
+   "cc": [
+    "Japan"
+   ]
+  },
+  {
+   "id": "b40d58cfc13f",
+   "t": "Airline Norse Atlantic files for bankruptcy, succumbing to aviation fuel costs",
+   "ko": "노르웨이 항공 연료비 때문에 파산 신청한 노르웨이 애틀랜틱 항공사",
+   "src": "DW",
+   "u": "https://www.dw.com/en/airline-norse-atlantic-files-for-bankruptcy-succumbing-to-aviation-fuel-costs/a-80076728?maca=en-rss-en-world-4025-rdf",
+   "at": "2026-11-27T14:20:00.000Z",
+   "ev": [
+    "iran"
+   ],
+   "cc": [
+    "Iran",
+    "Norway"
+   ]
+  },
+  {
+   "id": "6130e75798de",
+   "t": "Why is Israel celebrating Costa Rica’s ban on Francesca Albanese?",
+   "ko": "이스라엘이 코스타리카의 프란체스카 알바니스 금지를 축하하는 이유는 무엇입니까?",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/11/27/why-is-israel-celebrating-costa-ricas-ban-on-francesca-albanese?traffic_source=rss",
+   "at": "2026-11-27T14:17:25.000Z",
+   "ev": [
+    "gaza"
+   ],
+   "cc": [
+    "Israel",
+    "Costa Rica",
+    "Palestine"
+   ]
+  },
+  {
+   "id": "87e111af2998",
+   "t": "Duterte's ICC trial: What is at stake for the Philippines?",
+   "ko": "두테르테의 ICC 재판: 필리핀에는 무엇이 걸려 있는가?",
+   "src": "DW",
+   "u": "https://www.dw.com/en/duterte-s-icc-trial-what-is-at-stake-for-the-philippines/a-80075657?maca=en-rss-en-world-4025-rdf",
+   "at": "2026-11-27T13:23:00.000Z",
+   "ev": [],
+   "cc": [
+    "Philippines"
+   ]
+  },
+  {
+   "id": "f94903c06971",
+   "t": "Famine expect to rise due to global conflict, El Nino, warns UN",
+   "ko": "UN은 엘니뇨로 인해 기근이 증가할 것이라고 경고했습니다.",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/11/27/famine-expect-to-rise-due-to-global-conflict-el-nino-warns-un?traffic_source=rss",
+   "at": "2026-11-27T13:16:28.000Z",
+   "ev": [],
+   "cc": []
+  },
+  {
+   "id": "8205fcb3f46b",
+   "t": "Risks of child marriage in Iran complicated by war",
+   "ko": "전쟁으로 복잡해진 이란의 조혼 위험",
+   "src": "DW",
+   "u": "https://www.dw.com/en/risks-of-child-marriage-in-iran-complicated-by-war/a-80075473?maca=en-rss-en-world-4025-rdf",
+   "at": "2026-11-27T13:06:00.000Z",
+   "ev": [
+    "iran"
+   ],
+   "cc": [
+    "Iran"
+   ]
+  },
+  {
+   "id": "a1d836995afa",
+   "t": "Saudi strike kills ’11 civilians’ in Yemen’s Taiz: Houthi media",
+   "ko": "사우디 공습으로 예멘 타이즈에서 '민간인 11명' 사망: 후티 미디어",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/11/27/saudi-strike-kills-11-civilians-in-yemens-taiz-houthi-media?traffic_source=rss",
+   "at": "2026-11-27T12:00:22.000Z",
+   "ev": [
+    "iran",
+    "yemen"
+   ],
+   "cc": [
+    "Saudi Arabia",
+    "Yemen"
+   ]
+  },
+  {
+   "id": "2117cc9140c3",
+   "t": "16 Days of Activism: UNHCR warns over deep funding cuts to vital protection work",
+   "ko": "16일간의 활동: 유엔난민기구(UNHCR)는 중요한 보호 활동에 대한 자금을 대폭 삭감할 것을 경고합니다.",
+   "src": "UN News",
+   "u": "https://news.un.org/feed/view/en/story/2026/11/1168888",
+   "at": "2026-11-27T12:00:00.000Z",
+   "ev": [
+    "nigeria"
+   ],
+   "cc": []
+  },
+  {
+   "id": "54c15e57b47e",
+   "t": "Ukraine: Residents brace for another difficult winter",
+   "ko": "우크라이나: 주민들은 또 다른 어려운 겨울을 대비하고 있습니다",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/video/20261127-ukraine-residents-brace-for-another-difficult-winter",
+   "at": "2026-11-27T11:54:15.000Z",
+   "ev": [
+    "ukraine"
+   ],
+   "cc": [
+    "Ukraine",
+    "Russia"
+   ]
+  },
+  {
+   "id": "ae655af5ec45",
+   "t": "Italians killed in Kuwait: Why is Iran denying responsibility?",
+   "ko": "쿠웨이트에서 사망한 이탈리아인: 이란은 왜 책임을 부인하는가?",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/11/27/italians-killed-in-kuwait-why-is-iran-denying-responsibility?traffic_source=rss",
+   "at": "2026-11-27T11:51:26.000Z",
+   "ev": [
+    "iran"
+   ],
+   "cc": [
+    "Kuwait",
+    "Iran"
+   ]
+  },
+  {
+   "id": "0eafa25075e3",
+   "t": "Kuwait: Two Italians killed in drone attack",
+   "ko": "쿠웨이트: 드론 공격으로 이탈리아인 2명 사망",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/video/20261127-kuwait-two-italians-killed-in-drone-attack",
+   "at": "2026-11-27T11:45:48.000Z",
+   "ev": [],
+   "cc": [
+    "Kuwait",
+    "Italy"
+   ]
+  },
+  {
+   "id": "f960c2889409",
+   "t": "Russia’s hybrid war on Europe evolving, but failing: IISS",
+   "ko": "유럽에 대한 러시아의 하이브리드 전쟁이 진화하고 있지만 실패함: IISS",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/11/27/russias-hybrid-war-on-europe-evolving-but-failing-iiss?traffic_source=rss",
+   "at": "2026-11-27T11:44:46.000Z",
+   "ev": [
+    "ukraine"
+   ],
+   "cc": [
+    "Russia",
+    "Ukraine"
+   ]
+  },
+  {
+   "id": "2b6d682a4328",
+   "t": "EU: Leaders fail to reach agreement on next budget after tense summit",
+   "ko": "EU: 지도자들은 긴장된 정상회담 이후 차기 예산에 대한 합의에 도달하지 못했습니다.",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/video/20261127-eu-leaders-fail-to-reach-agreement-on-next-budget-after-tense-summit",
+   "at": "2026-11-27T11:42:43.000Z",
+   "ev": [
+    "ukraine"
+   ],
+   "cc": [
+    "Ukraine",
+    "France"
+   ]
+  },
+  {
+   "id": "8690dea523ca",
+   "t": "Old wounds reopen as Kyrgyzstan’s Osh embraces a new urban project",
+   "ko": "키르기스스탄의 오쉬(Osh)가 새로운 도시 프로젝트를 수용하면서 오래된 상처가 다시 ​​시작됩니다.",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/features/2026/11/27/old-wounds-reopen-as-kyrgyzstans-osh-embraces-a-new-urban-project?traffic_source=rss",
+   "at": "2026-11-27T11:35:34.000Z",
+   "ev": [],
+   "cc": [
+    "Kyrgyzstan"
+   ]
+  },
+  {
+   "id": "59205f400da5",
+   "t": "Israeli attacks on women and girls meant ‘to destroy life’ in Gaza: Amnesty",
+   "ko": "가자지구 여성과 소녀들에 대한 이스라엘 공격, '생명 파괴' 의도: 국제앰네스티",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/11/27/israeli-attacks-on-women-and-girls-meant-to-destroy-life-in-gaza-amnesty?traffic_source=rss",
+   "at": "2026-11-27T11:15:03.000Z",
+   "ev": [
+    "gaza"
+   ],
+   "cc": [
+    "Israel",
+    "Palestine"
+   ]
+  },
+  {
+   "id": "772b2a083c68",
+   "t": "Spain general election 2026: Could Sánchez lose power?",
+   "ko": "2026년 스페인 총선: 산체스가 권력을 잃을 수도 있을까?",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/video/20261127-spain-general-election-2026-could-s%C3%A1nchez-lose-power",
+   "at": "2026-11-27T10:46:41.000Z",
+   "ev": [],
+   "cc": [
+    "Spain"
+   ]
+  },
+  {
+   "id": "9c744befbf70",
+   "t": "Uganda to withdraw troops from DR Congo town amid diplomatic row",
+   "ko": "우간다, 외교적 갈등으로 콩고민주공화국에서 군대 철수",
+   "src": "BBC",
+   "u": "https://www.bbc.co.uk/news/articles/cq4gnj2ldkyzo?at_medium=RSS&at_campaign=rss",
+   "at": "2026-11-27T10:39:31.000Z",
+   "ev": [
+    "drc"
+   ],
+   "cc": [
+    "Uganda",
+    "Democratic Republic of the Congo"
+   ]
+  },
+  {
+   "id": "4dc1a8ffe2d4",
+   "t": "Australia sanctions suspects in Iran-linked anti-Semitic attacks",
+   "ko": "호주, 이란과 연계된 반유대주의 공격 용의자 제재",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/11/27/australia-sanctions-suspects-in-iran-linked-anti-semitic-attacks?traffic_source=rss",
+   "at": "2026-11-27T10:31:20.000Z",
+   "ev": [
+    "iran"
+   ],
+   "cc": [
+    "Australia"
+   ]
+  },
+  {
+   "id": "bf3ef2791b06",
+   "t": "Clashes mar European games as Macron condemns violence",
+   "ko": "마크롱이 폭력을 규탄하면서 유럽 경기를 방해하는 충돌",
+   "src": "BBC",
+   "u": "https://www.bbc.co.uk/sport/football/articles/c69q8y5x03ywo?at_medium=RSS&at_campaign=rss",
+   "at": "2026-11-27T10:24:24.000Z",
+   "ev": [],
+   "cc": [
+    "France"
+   ]
+  },
+  {
+   "id": "83250d3e00bd",
+   "t": "Live: Trump calls on Putin to end all 'military aggression' against Europe",
+   "ko": "생방송: 트럼프, 푸틴에게 유럽에 대한 모든 '군사적 공격' 중단 촉구",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/europe/20261127-live-trump-calls-on-putin-to-end-all-military-aggression-against-europe",
+   "at": "2026-11-27T10:22:42.000Z",
+   "ev": [
+    "ukraine"
+   ],
+   "cc": [
+    "United States",
+    "Russia"
+   ]
+  },
+  {
+   "id": "308839ce4665",
+   "t": "Why is India so afraid of Pakistan's new Netflix series?",
+   "ko": "인도는 왜 파키스탄의 새로운 Netflix 시리즈를 그토록 두려워합니까?",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/tv-shows/press-review/20261127-why-is-india-so-afraid-of-pakistan-s-new-netflix-series",
+   "at": "2026-11-27T09:56:52.000Z",
+   "ev": [],
+   "cc": [
+    "India",
+    "Pakistan",
+    "Kashmir"
+   ]
+  },
+  {
+   "id": "88e6a915ef87",
+   "t": "Five people hospitalised as Levski Sofia and Marseille fans clash ahead of Europa League game",
+   "ko": "유로파리그 경기 앞두고 레프스키 소피아와 마르세유 팬 충돌로 5명 입원",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/france/20261127-five-people-hospitalised-as-levski-sofia-and-marseille-fans-clash-ahead-of-europa-league-game",
+   "at": "2026-11-27T09:36:56.000Z",
+   "ev": [],
+   "cc": []
+  },
+  {
+   "id": "15078c8b6a4a",
+   "t": "Zelensky criticises 'strange' Trump-Putin friendship in BBC interview",
+   "ko": "젤렌스키, BBC 인터뷰에서 트럼프-푸틴 우정 '이상하다' 비판",
+   "src": "BBC",
+   "u": "https://www.bbc.co.uk/news/articles/c820q9wgrpyyo?at_medium=RSS&at_campaign=rss",
+   "at": "2026-11-27T09:07:48.000Z",
+   "ev": [
+    "ukraine"
+   ],
+   "cc": [
+    "Ukraine",
+    "United States",
+    "Russia"
+   ]
+  },
+  {
+   "id": "5a76d107d150",
+   "t": "Guinea-Bissau's military leaders delay return to civilian rule until 2028",
+   "ko": "기니비사우 군부 지도자들, 2028년까지 민간 통치 복귀 연기",
+   "src": "BBC",
+   "u": "https://www.bbc.co.uk/news/articles/cm879e5yxjq5o?at_medium=RSS&at_campaign=rss",
+   "at": "2026-11-27T08:58:08.000Z",
+   "ev": [],
+   "cc": [
+    "Guinea-Bissau"
+   ]
+  },
+  {
+   "id": "67e08ecea0ea",
+   "t": "France and Germany push for EU budget deal by year-end as far-right rise threatens Ukraine aid",
+   "ko": "프랑스와 독일, 극우파의 부상으로 우크라이나 지원 위협에 따라 연말까지 EU 예산 협상 추진",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/europe/20261127-france-and-germany-push-for-eu-budget-deal-by-year-end-as-far-right-rise-threatens-ukraine-aid",
+   "at": "2026-11-27T08:17:02.000Z",
+   "ev": [
+    "ukraine"
+   ],
+   "cc": [
+    "France",
+    "Germany",
+    "Ukraine"
+   ]
+  },
+  {
+   "id": "a2457849fb25",
+   "t": "Italy's former police chief rejected mafia inquiry allegations before death",
+   "ko": "이탈리아 전 경찰청장, 사망 전 마피아 수사 혐의 부인",
+   "src": "BBC",
+   "u": "https://www.bbc.co.uk/news/articles/c69q8yjj1v0po?at_medium=RSS&at_campaign=rss",
+   "at": "2026-11-27T07:28:10.000Z",
+   "ev": [],
+   "cc": [
+    "Italy"
+   ]
+  },
+  {
+   "id": "6a2bb63a3e7c",
+   "t": "Israel's Eisenkot agrees to coalition deal with left-wing Democrats",
+   "ko": "이스라엘 아이젠코트, 좌파 민주당과 연합협상 합의",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/middle-east/20261127-israel-s-eisenkot-agrees-to-coalition-deal-with-left-wing-democrats",
+   "at": "2026-11-27T06:46:42.000Z",
+   "ev": [],
+   "cc": [
+    "Israel"
+   ]
+  },
+  {
+   "id": "a07a9d9c0aff",
+   "t": "Inside Saudi Arabia, Houthi attacks test kingdom's image of security",
+   "ko": "사우디아라비아 내부에서 후티 반군, 테스트 왕국의 보안 이미지 공격",
+   "src": "BBC",
+   "u": "https://www.bbc.co.uk/news/articles/c6ly7jgv7jzdo?at_medium=RSS&at_campaign=rss",
+   "at": "2026-11-27T06:04:51.000Z",
+   "ev": [
+    "yemen"
+   ],
+   "cc": [
+    "Saudi Arabia"
+   ]
+  },
+  {
+   "id": "49d953b6158b",
+   "t": "Leaders clash in final Spain election debate as housing dominates run-in",
+   "ko": "주택 문제가 경쟁을 지배하면서 스페인 최종 선거 토론에서 지도자들 충돌",
+   "src": "BBC",
+   "u": "https://www.bbc.co.uk/news/articles/ckr5gr4g8gn5o?at_medium=RSS&at_campaign=rss",
+   "at": "2026-11-27T06:03:39.000Z",
+   "ev": [],
+   "cc": [
+    "Spain"
+   ]
+  },
   {
    "id": "d0228671f3c2",
    "t": "At least 13 Niger soldiers killed in Sanam armed attack",
@@ -92,8 +497,8 @@
   },
   {
    "id": "ca498d96b558",
-   "t": "Met Police ruined my life, says Kenyan man wrongly sentenced over attack on UK couple",
-   "ko": "Met Police가 내 인생을 망쳤다고 케냐 남성이 영국 부부를 공격한 혐의로 형을 선고받았다고 말했습니다.",
+   "t": "Met Police ruined my life, says Kenyan man wrongly convicted over attack on UK couple",
+   "ko": "경찰이 내 인생을 망쳤다고 케냐 남성이 영국 부부를 폭행한 혐의로 유죄 판결을 받았다고 말했습니다.",
    "src": "BBC",
    "u": "https://www.bbc.co.uk/news/articles/cqvg2nlr8kd8o?at_medium=RSS&at_campaign=rss",
    "at": "2026-11-27T00:48:11.000Z",
@@ -1313,413 +1718,6 @@
     "Iran",
     "United States",
     "Israel"
-   ]
-  },
-  {
-   "id": "9324de5b2f5b",
-   "t": "Libya’s Haftar visits old foe Turkey for first time in ‘new phase’ of ties",
-   "ko": "리비아 하프타르, '새로운 단계' 관계에서 처음으로 옛 적 터키 방문",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/middle-east/20261125-libya-s-haftar-visits-old-foe-turkey-in-a-first-hails-new-phase-of-ties",
-   "at": "2026-11-25T15:19:19.000Z",
-   "ev": [
-    "ukraine"
-   ],
-   "cc": [
-    "Libya",
-    "Turkey",
-    "Ukraine"
-   ]
-  },
-  {
-   "id": "ffa724863311",
-   "t": "Kremlin declines comment on reports 700,000 Russian soldiers killed in Ukraine war",
-   "ko": "크렘린궁, 우크라이나 전쟁에서 러시아군 70만명 사망 보도에 대한 논평 거부",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/europe/20261125-kremlin-declines-comment-reports-700-000-russian-soldiers-killed-ukraine-war",
-   "at": "2026-11-25T15:14:07.000Z",
-   "ev": [
-    "ukraine"
-   ],
-   "cc": [
-    "Russia",
-    "Ukraine"
-   ]
-  },
-  {
-   "id": "f2a5159aceda",
-   "t": "Houthi rebels close in on Aden, Yemeni forces dig in behind fortified line",
-   "ko": "후티 반군이 아덴에 접근하고 예멘군이 요새화된 방어선 뒤를 파고듭니다.",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/video/20261125-houthi-rebels-close-in-on-aden-yemeni-forces-dig-in-behind-fortified-line",
-   "at": "2026-11-25T14:52:06.000Z",
-   "ev": [
-    "iran",
-    "yemen"
-   ],
-   "cc": [
-    "Yemen"
-   ]
-  },
-  {
-   "id": "2ade0562e21e",
-   "t": "Five Russian military jets hit in airfield strike, says Ukraine",
-   "ko": "우크라이나, 러시아 군용기 5대 비행장 공습",
-   "src": "BBC",
-   "u": "https://www.bbc.co.uk/news/articles/ck9q8xp5r5pgo?at_medium=RSS&at_campaign=rss",
-   "at": "2026-11-25T14:46:41.000Z",
-   "ev": [
-    "ukraine"
-   ],
-   "cc": [
-    "Russia",
-    "Ukraine"
-   ]
-  },
-  {
-   "id": "27aa41ea10e1",
-   "t": "Israeli strike kills senior Hamas security official and family in Gaza City",
-   "ko": "이스라엘 공습으로 가자시티 하마스 고위관리와 가족 사망",
-   "src": "BBC",
-   "u": "https://www.bbc.co.uk/news/articles/cmd718zydz9qo?at_medium=RSS&at_campaign=rss",
-   "at": "2026-11-25T14:06:13.000Z",
-   "ev": [
-    "gaza"
-   ],
-   "cc": [
-    "Israel",
-    "Palestine"
-   ]
-  },
-  {
-   "id": "9c36131a4095",
-   "t": "Why Indian nationals are still ending up in Russia's war on Ukraine",
-   "ko": "인도 국민이 여전히 러시아의 우크라이나 전쟁에 참여하고 있는 이유",
-   "src": "DW",
-   "u": "https://www.dw.com/en/why-indian-nationals-are-still-ending-up-in-russia-s-war-on-ukraine/a-80048537?maca=en-rss-en-world-4025-rdf",
-   "at": "2026-11-25T13:17:00.000Z",
-   "ev": [
-    "ukraine",
-    "delhi"
-   ],
-   "cc": [
-    "Russia",
-    "Ukraine"
-   ]
-  },
-  {
-   "id": "210017cf545b",
-   "t": "Israeli MPs advance bill for inquiry into security failings that led to October 7 Hamas attack",
-   "ko": "이스라엘 국회의원, 10월 7일 하마스 공격으로 이어진 보안 실패 조사에 대한 사전 법안",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/middle-east/20261125-israeli-mps-advance-bill-for-inquiry-into-security-failings-that-led-to-october-7-hamas-attack",
-   "at": "2026-11-25T12:55:47.000Z",
-   "ev": [
-    "gaza"
-   ],
-   "cc": [
-    "Israel"
-   ]
-  },
-  {
-   "id": "44b01ce1b1e9",
-   "t": "The rising cost of Thanksgiving",
-   "ko": "추수감사절 비용 상승",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/video/newsfeed/2026/11/25/the-rising-cost-of-thanksgiving?traffic_source=rss",
-   "at": "2026-11-25T12:29:09.000Z",
-   "ev": [],
-   "cc": [
-    "United States"
-   ]
-  },
-  {
-   "id": "3efb062ecab5",
-   "t": "Bangladesh garment workers protest over new wages",
-   "ko": "방글라데시 의류노동자들, 임금 인상 반대 시위",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/video/newsfeed/2026/11/25/bangladesh-garment-workers-protest-over-new-wages?traffic_source=rss",
-   "at": "2026-11-25T12:23:41.000Z",
-   "ev": [],
-   "cc": [
-    "Bangladesh"
-   ]
-  },
-  {
-   "id": "3ae1349c025d",
-   "t": "Russia's own figures show it has lost nearly 500,000 people in Ukraine war",
-   "ko": "러시아 자체 통계에 따르면 우크라이나 전쟁에서 거의 50만 명의 사망자가 발생했습니다.",
-   "src": "BBC",
-   "u": "https://www.bbc.co.uk/news/articles/cmx27g533zwyo?at_medium=RSS&at_campaign=rss",
-   "at": "2026-11-25T12:21:49.000Z",
-   "ev": [
-    "ukraine"
-   ],
-   "cc": [
-    "Russia",
-    "Ukraine"
-   ]
-  },
-  {
-   "id": "82c96fcfe95c",
-   "t": "Russian strikes on Ukraine cause power outages in five regions",
-   "ko": "러시아, 우크라이나 공습으로 5개 지역 정전",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/news/2026/11/25/russian-strikes-on-ukraine-cause-power-outages-in-five-regions?traffic_source=rss",
-   "at": "2026-11-25T12:19:17.000Z",
-   "ev": [
-    "ukraine"
-   ],
-   "cc": [
-    "Russia",
-    "Ukraine"
-   ]
-  },
-  {
-   "id": "e82871161895",
-   "t": "Army to detonate tons of lead azide after delays. And, Abrego Garcia leaves U.S.",
-   "ko": "육군은 지연 후 엄청난 양의 아지드화납을 폭발시킬 예정입니다. 그리고 아브레고 가르시아가 미국을 떠난다.",
-   "src": "NPR",
-   "u": "https://www.npr.org/2026/11/25/g-s1-155493/up-first-newsletter-iowa-detonation-kilmar-abrego-garcia-nvidia-jensen-huang",
-   "at": "2026-11-25T12:18:09.000Z",
-   "ev": [],
-   "cc": [
-    "United States"
-   ]
-  },
-  {
-   "id": "b15305e65488",
-   "t": "Gaza’s widows raise their families alone: ‘We do our duties twice over, but where are our rights?’",
-   "ko": "가자지구의 과부들은 혼자 가족을 부양합니다. '우리는 의무를 두 번이나 수행하지만 우리의 권리는 어디에 있습니까?'",
-   "src": "UN News",
-   "u": "https://news.un.org/feed/view/en/story/2026/11/1168875",
-   "at": "2026-11-25T12:00:00.000Z",
-   "ev": [
-    "gaza"
-   ],
-   "cc": [
-    "Palestine"
-   ]
-  },
-  {
-   "id": "5a0050dcd41d",
-   "t": "Somalia: Famine risk decreases in Baidoa – but millions still going hungry",
-   "ko": "소말리아: 바이도아(Baidoa)에서는 기근 위험이 감소하지만 수백만 명이 여전히 굶주리고 있습니다.",
-   "src": "UN News",
-   "u": "https://news.un.org/feed/view/en/story/2026/11/1168874",
-   "at": "2026-11-25T12:00:00.000Z",
-   "ev": [
-    "somalia"
-   ],
-   "cc": [
-    "Somalia"
-   ]
-  },
-  {
-   "id": "273c3dfbddba",
-   "t": "Yemen war: Emergency aid chief calls for access to war-hit communities",
-   "ko": "예멘 전쟁: 긴급구호 책임자, 전쟁 피해 지역사회에 대한 접근 요청",
-   "src": "UN News",
-   "u": "https://news.un.org/feed/view/en/story/2026/11/1168872",
-   "at": "2026-11-25T12:00:00.000Z",
-   "ev": [
-    "yemen"
-   ],
-   "cc": [
-    "Yemen"
-   ]
-  },
-  {
-   "id": "89032c5467f9",
-   "t": "Türk warns of widening risk of atrocity crimes against Palestinians",
-   "ko": "터키, 팔레스타인에 대한 잔학행위 위험 확대 경고",
-   "src": "UN News",
-   "u": "https://news.un.org/feed/view/en/story/2026/11/1168879",
-   "at": "2026-11-25T12:00:00.000Z",
-   "ev": [
-    "westbank"
-   ],
-   "cc": [
-    "Israel",
-    "Palestine"
-   ]
-  },
-  {
-   "id": "c316a2a9b736",
-   "t": "Overnight RSF drone attacks kill 19 in Sudan",
-   "ko": "수단에서 밤새 RSF 드론 공격으로 19명 사망",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/news/2026/11/25/overnight-rsf-drone-attacks-kill-19-in-sudan?traffic_source=rss",
-   "at": "2026-11-25T11:58:15.000Z",
-   "ev": [
-    "sudan"
-   ],
-   "cc": [
-    "Sudan"
-   ]
-  },
-  {
-   "id": "a11f6129fac2",
-   "t": "Fire breaks out following drone strikes on a residential area in Al Damazin",
-   "ko": "알 다마진 주택가에 드론 공격으로 화재 발생",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/video/newsfeed/2026/11/25/fire-breaks-out-following-drone-strikes-on-a-residential-area-in-al-damazin?traffic_source=rss",
-   "at": "2026-11-25T11:50:50.000Z",
-   "ev": [
-    "sudan"
-   ],
-   "cc": [
-    "Sudan"
-   ]
-  },
-  {
-   "id": "0a71ace042b3",
-   "t": "Israeli strike kills Hamas official, his wife and children",
-   "ko": "이스라엘 공습으로 하마스 간부와 그의 아내, 자녀 사망",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/news/2026/11/25/israeli-strike-kills-hamas-official-his-wife-and-children?traffic_source=rss",
-   "at": "2026-11-25T11:24:37.000Z",
-   "ev": [
-    "gaza"
-   ],
-   "cc": [
-    "Israel",
-    "Palestine"
-   ]
-  },
-  {
-   "id": "cb432651ce09",
-   "t": "Violence against women: Its many forms and the paths to justice",
-   "ko": "여성에 대한 폭력: 정의를 향한 다양한 형태와 길",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/tv-shows/press-review/20261125-violence-against-women-its-many-forms-and-the-paths-to-justice",
-   "at": "2026-11-25T11:16:24.000Z",
-   "ev": [
-    "sahel"
-   ],
-   "cc": [
-    "Russia",
-    "Mali",
-    "Spain"
-   ]
-  },
-  {
-   "id": "1674540c898e",
-   "t": "‘People are going hungry’: Guinea’s gold mining crackdown",
-   "ko": "'사람들이 배고프다': 기니의 금광 탄압",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/video/newsfeed/2026/11/25/people-are-going-hungry-guineas-gold-mining-crackdown?traffic_source=rss",
-   "at": "2026-11-25T11:10:21.000Z",
-   "ev": [],
-   "cc": [
-    "Guinea"
-   ]
-  },
-  {
-   "id": "e3c518c7cc02",
-   "t": "Yemen's Houthis claim attacks on Riyadh financial district, Saudi refinery",
-   "ko": "예멘 후티 반군, 리야드 금융 지구와 사우디 정유소 공격 주장",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/video/20261125-yemen-s-houthis-claim-attacks-on-riyadh-financial-district-saudi-refinery",
-   "at": "2026-11-25T11:09:43.000Z",
-   "ev": [
-    "yemen"
-   ],
-   "cc": [
-    "Yemen",
-    "Saudi Arabia"
-   ]
-  },
-  {
-   "id": "353be2ca0bc0",
-   "t": "Cyberattack exposes unclassified information from CIA system, US media reports",
-   "ko": "사이버 공격으로 CIA 시스템의 기밀 정보 노출, 미국 언론 보도",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/americas/20261125-cyberattack-exposes-unclassified-information-from-cia-system-us-media-reports",
-   "at": "2026-11-25T10:48:10.000Z",
-   "ev": [],
-   "cc": [
-    "United States"
-   ]
-  },
-  {
-   "id": "9b0ba875f022",
-   "t": "Fact check: Deepfakes and 'US abandons Taiwan' claims spread ahead of vote",
-   "ko": "사실 확인: 딥페이크와 '미국이 대만을 포기한다'는 주장이 투표를 앞두고 퍼졌습니다.",
-   "src": "DW",
-   "u": "https://www.dw.com/en/fact-check-deepfakes-and-us-abandons-taiwan-claims-spread-ahead-of-vote/a-80004834?maca=en-rss-en-world-4025-rdf",
-   "at": "2026-11-25T10:35:00.000Z",
-   "ev": [],
-   "cc": [
-    "United States",
-    "Taiwan"
-   ]
-  },
-  {
-   "id": "ec1374253bc8",
-   "t": "Could Netanyahu take Israel into another war with Iran to cling to power?",
-   "ko": "네타냐후가 권력을 유지하기 위해 이스라엘을 이란과의 또 다른 전쟁에 끌어들일 수 있을까요?",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/news/2026/11/25/could-netanyahu-take-israel-into-another-war-with-iran-to-cling-to-power?traffic_source=rss",
-   "at": "2026-11-25T10:27:53.000Z",
-   "ev": [
-    "iran"
-   ],
-   "cc": [
-    "Israel",
-    "Iran"
-   ]
-  },
-  {
-   "id": "f8fae99390de",
-   "t": "Protesters call on Israel to free Palestinian student held without charge",
-   "ko": "시위대, 이스라엘에 무혐의로 구금된 팔레스타인 학생 석방 촉구",
-   "src": "BBC",
-   "u": "https://www.bbc.co.uk/news/articles/cw62p8z9edjlo?at_medium=RSS&at_campaign=rss",
-   "at": "2026-11-25T10:03:42.000Z",
-   "ev": [],
-   "cc": [
-    "Israel",
-    "Palestine"
-   ]
-  },
-  {
-   "id": "153ef34139d6",
-   "t": "Surprise Eurostar strike cancels London, Paris and Brussels trains",
-   "ko": "깜짝 유로스타 파업으로 런던, 파리, 브뤼셀 열차 취소",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/europe/20261125-surprise-eurostar-strike-cancels-london-paris-and-brussels-trains",
-   "at": "2026-11-25T10:02:32.000Z",
-   "ev": [
-    "belgium"
-   ],
-   "cc": []
-  },
-  {
-   "id": "99d677d8fb1c",
-   "t": "🔴 Colombia president says all hostages freed, one assailant killed after supermarket hostage siege",
-   "ko": "🔴 콜롬비아 대통령은 슈퍼마켓 인질극으로 인질 모두 석방됐고 가해자 1명이 사망했다고 밝혔습니다.",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/americas/20261124-hostages-supermarket-colombia-cartagena-flights",
-   "at": "2026-11-25T07:20:50.000Z",
-   "ev": [
-    "colombia"
-   ],
-   "cc": [
-    "Colombia"
-   ]
-  },
-  {
-   "id": "a2acf5847ee5",
-   "t": "Africa Cup title given back to Senegal after sports court rules against Morocco",
-   "ko": "모로코에 대한 스포츠 법원의 판결 이후 세네갈에게 아프리카 컵 타이틀이 반환되었습니다.",
-   "src": "NPR",
-   "u": "https://www.npr.org/2026/11/25/nx-s1-6053783/africa-cup-senegal-morocco",
-   "at": "2026-11-25T06:43:23.000Z",
-   "ev": [],
-   "cc": [
-    "Senegal",
-    "Morocco"
    ]
   }
  ]
