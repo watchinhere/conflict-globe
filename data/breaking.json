@@ -1,9 +1,9 @@
 {
- "updated": "2026-11-26T23:34:15.086Z",
+ "updated": "2026-11-27T05:20:28.695Z",
  "sources": {
   "BBC": {
    "ok": true,
-   "n": 13
+   "n": 14
   },
   "Al Jazeera": {
    "ok": true,
@@ -19,7 +19,7 @@
   },
   "France 24": {
    "ok": true,
-   "n": 7
+   "n": 6
   },
   "UN News": {
    "ok": true,
@@ -31,6 +31,137 @@
   }
  },
  "items": [
+  {
+   "id": "d0228671f3c2",
+   "t": "At least 13 Niger soldiers killed in Sanam armed attack",
+   "ko": "사남 무장공격으로 니제르 군인 최소 13명 사망",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/11/27/at-least-13-niger-soldiers-killed-in-sanam-armed-attack?traffic_source=rss",
+   "at": "2026-11-27T04:06:52.000Z",
+   "ev": [
+    "sahel",
+    "niger"
+   ],
+   "cc": [
+    "Niger",
+    "Mali"
+   ]
+  },
+  {
+   "id": "17c4524e951a",
+   "t": "Trump downplays Russia, China support for Iran during talks with US troops",
+   "ko": "트럼프, 미군과의 회담에서 이란에 대한 러시아·중국 지원 경시",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/11/27/trump-downplays-russia-china-support-for-iran-during-talks-with-us-troops?traffic_source=rss",
+   "at": "2026-11-27T03:49:08.000Z",
+   "ev": [
+    "iran"
+   ],
+   "cc": [
+    "Russia",
+    "China",
+    "Iran"
+   ]
+  },
+  {
+   "id": "1cf14ec2e93b",
+   "t": "Zelenskyy warns of major Russian attack as Trump urges Putin to ‘pull back’",
+   "ko": "젤렌스키는 트럼프가 푸틴에게 '철수'를 촉구하자 러시아의 대규모 공격을 경고했다.",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/11/27/zelenskyy-warns-of-major-russian-attack-as-trump-urges-putin-to-pull-back?traffic_source=rss",
+   "at": "2026-11-27T02:14:25.000Z",
+   "ev": [
+    "ukraine"
+   ],
+   "cc": [
+    "Russia",
+    "Ukraine"
+   ]
+  },
+  {
+   "id": "656a441bf148",
+   "t": "Trump says the US has ‘close to 50%’ of world’s oil",
+   "ko": "트럼프 \"미국이 전 세계 석유 50% 가까이 보유하고 있다\"",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/video/newsfeed/2026/11/27/trump-says-the-us-has-close-to-50-of-worlds-oil?traffic_source=rss",
+   "at": "2026-11-27T01:44:02.000Z",
+   "ev": [],
+   "cc": [
+    "United States"
+   ]
+  },
+  {
+   "id": "ca498d96b558",
+   "t": "Met Police ruined my life, says Kenyan man wrongly sentenced over attack on UK couple",
+   "ko": "Met Police가 내 인생을 망쳤다고 케냐 남성이 영국 부부를 공격한 혐의로 형을 선고받았다고 말했습니다.",
+   "src": "BBC",
+   "u": "https://www.bbc.co.uk/news/articles/cqvg2nlr8kd8o?at_medium=RSS&at_campaign=rss",
+   "at": "2026-11-27T00:48:11.000Z",
+   "ev": [],
+   "cc": [
+    "Kenya",
+    "United Kingdom"
+   ]
+  },
+  {
+   "id": "39bf977e2159",
+   "t": "Sheikh Hasina's planned return puts Bangladesh on edge - and India in a bind",
+   "ko": "셰이크 하시나의 귀국 계획으로 방글라데시는 위기에 처했고 인도는 곤경에 빠졌습니다.",
+   "src": "BBC",
+   "u": "https://www.bbc.co.uk/news/articles/cx30g71rev23o?at_medium=RSS&at_campaign=rss",
+   "at": "2026-11-27T00:47:43.000Z",
+   "ev": [
+    "delhi"
+   ],
+   "cc": [
+    "Bangladesh",
+    "India"
+   ]
+  },
+  {
+   "id": "63523d7218be",
+   "t": "Inside Ukraine’s power crisis amid its war with Russia",
+   "ko": "러시아와의 전쟁으로 인한 우크라이나의 전력 위기",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/video/newsfeed/2026/11/27/inside-ukraines-power-crisis-amid-its-war-with-russia?traffic_source=rss",
+   "at": "2026-11-27T00:46:19.000Z",
+   "ev": [
+    "ukraine"
+   ],
+   "cc": [
+    "Ukraine",
+    "Russia"
+   ]
+  },
+  {
+   "id": "3980a4e9d9d7",
+   "t": "Iran war live: Iran’s Araghchi calls deadly Kuwait attack ‘suspicious’",
+   "ko": "이란 전쟁 라이브: 이란 아라그치, 치명적인 쿠웨이트 공격 '의심스럽다'",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/liveblog/2026/11/27/iran-war-live-irans-araghchi-calls-deadly-kuwait-attack-suspicious?traffic_source=rss",
+   "at": "2026-11-27T00:00:00.000Z",
+   "ev": [
+    "iran"
+   ],
+   "cc": [
+    "Iran",
+    "Kuwait"
+   ]
+  },
+  {
+   "id": "92bd584fd1f0",
+   "t": "Georgian police clash with Turkiye’s Besiktas fans over Palestinian flag",
+   "ko": "그루지아 경찰, 팔레스타인 국기 놓고 투르키예 베식타스 팬들과 충돌",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/sports/2026/11/26/georgian-police-clash-with-turkiyes-besiktas-fans-over-palestinian-flag?traffic_source=rss",
+   "at": "2026-11-26T23:37:17.000Z",
+   "ev": [],
+   "cc": [
+    "Georgia",
+    "Turkey",
+    "Palestine"
+   ]
+  },
   {
    "id": "aa11c033bf20",
    "t": "Israeli settlers damage Palestinian family’s homes in West Bank attack",
@@ -1589,139 +1720,6 @@
    "cc": [
     "Senegal",
     "Morocco"
-   ]
-  },
-  {
-   "id": "5ad39cf0c2d2",
-   "t": "Amnesty calls for ICC genocide probe over Israel's impact on births in Gaza",
-   "ko": "국제앰네스티, 이스라엘이 가자지구 출산에 미친 영향 ICC 대량학살 조사 촉구",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/middle-east/20261125-amnesty-calls-for-icc-genocide-probe-over-israel-s-impact-on-births-in-gaza",
-   "at": "2026-11-25T04:01:48.000Z",
-   "ev": [
-    "gaza"
-   ],
-   "cc": [
-    "Israel",
-    "Palestine"
-   ]
-  },
-  {
-   "id": "4ca9b0144029",
-   "t": "Live: Two Libyan soldiers killed in Ukrainian attack on Russian vessels in Benghazi",
-   "ko": "라이브: 벵가지에서 러시아 선박에 대한 우크라이나의 공격으로 리비아 군인 2명이 사망",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/europe/20261125-live-two-libyan-soldiers-killed-in-ukrainian-attack-on-russian-vessels-in-benghazi",
-   "at": "2026-11-25T03:46:51.000Z",
-   "ev": [
-    "ukraine"
-   ],
-   "cc": [
-    "Libya",
-    "Ukraine",
-    "Russia"
-   ]
-  },
-  {
-   "id": "8a02256d527c",
-   "t": "Pakistani astronaut launches into space aboard Chinese rocket",
-   "ko": "파키스탄 우주 비행사, 중국 로켓을 타고 우주로 발사",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/video/newsfeed/2026/11/25/pakistani-astronaut-launches-into-space-aboard-chinese-rocket?traffic_source=rss",
-   "at": "2026-11-25T02:44:45.000Z",
-   "ev": [],
-   "cc": [
-    "Pakistan",
-    "China"
-   ]
-  },
-  {
-   "id": "769710ef94e2",
-   "t": "Ukraine seeks €115 billion in foreign aid for 2027, Zelensky says",
-   "ko": "젤렌스키 \"우크라이나, 2027년까지 1150억 유로의 대외 원조 추구\"",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/europe/20261125-ukraine-seeks-%E2%82%AC115-billion-in-foreign-aid-for-2027-zelensky-says",
-   "at": "2026-11-25T01:19:31.000Z",
-   "ev": [
-    "ukraine"
-   ],
-   "cc": [
-    "Ukraine",
-    "Russia"
-   ]
-  },
-  {
-   "id": "75d4a6c12ba2",
-   "t": "Poll finds US voters want government to end Iran war regardless of terms",
-   "ko": "여론조사에 따르면 미국 유권자들은 조건에 관계없이 정부가 이란 전쟁을 끝내기를 원하고 있는 것으로 나타났습니다.",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/news/2026/11/25/poll-finds-us-voters-want-government-to-end-iran-war-regardless-of-terms?traffic_source=rss",
-   "at": "2026-11-25T01:14:22.000Z",
-   "ev": [
-    "iran"
-   ],
-   "cc": [
-    "United States",
-    "Iran"
-   ]
-  },
-  {
-   "id": "c2f1c9c14e1c",
-   "t": "My family were killed in Ukraine. My mum blamed Zelensky's troops - the truth is complicated",
-   "ko": "우리 가족은 우크라이나에서 살해당했습니다. 엄마는 젤렌스키의 군대를 비난했다 - 진실은 복잡하다",
-   "src": "BBC",
-   "u": "https://www.bbc.co.uk/news/articles/cw24e17v9e51o?at_medium=RSS&at_campaign=rss",
-   "at": "2026-11-25T00:54:13.000Z",
-   "ev": [
-    "ukraine"
-   ],
-   "cc": [
-    "Ukraine"
-   ]
-  },
-  {
-   "id": "b7670f6d932b",
-   "t": "Gunmen hold dozens hostage in Colombia supermarket",
-   "ko": "콜롬비아 슈퍼마켓에서 무장괴한들이 수십 명을 인질로 잡았다.",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/video/newsfeed/2026/11/25/gunmen-hold-dozens-hostage-in-colombia-supermarket?traffic_source=rss",
-   "at": "2026-11-25T00:49:35.000Z",
-   "ev": [
-    "colombia"
-   ],
-   "cc": [
-    "Colombia"
-   ]
-  },
-  {
-   "id": "b10ed5ca2171",
-   "t": "Iran war live: Saudi-led coalition strikes Yemen’s Hodeidah port",
-   "ko": "이란 전쟁 라이브: 사우디 주도 연합군, 예멘 호데이다 항구 공격",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/news/liveblog/2026/11/25/iran-war-live-houthis-threaten-saudi-ports-over-coalitions-hodeidah-order?traffic_source=rss",
-   "at": "2026-11-25T00:00:00.000Z",
-   "ev": [
-    "iran",
-    "yemen"
-   ],
-   "cc": [
-    "Iran",
-    "Yemen",
-    "Saudi Arabia"
-   ]
-  },
-  {
-   "id": "ffd99e93193a",
-   "t": "Rebel group retreats in DR Congo after heavy clashes with government forces",
-   "ko": "콩고민주공화국 정부군과 격렬한 충돌 후 반군 그룹 후퇴",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/news/2026/11/24/rebel-group-retreats-in-dr-congo-after-heavy-clashes-with-government-forces?traffic_source=rss",
-   "at": "2026-11-24T23:39:13.000Z",
-   "ev": [
-    "drc"
-   ],
-   "cc": [
-    "Democratic Republic of the Congo"
    ]
   }
  ]
