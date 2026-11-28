@@ -1,13 +1,13 @@
 {
- "updated": "2026-11-27T23:44:00.534Z",
+ "updated": "2026-11-28T06:58:58.921Z",
  "sources": {
   "BBC": {
    "ok": true,
-   "n": 8
+   "n": 5
   },
   "Al Jazeera": {
    "ok": true,
-   "n": 10
+   "n": 11
   },
   "The Guardian": {
    "ok": false,
@@ -19,7 +19,7 @@
   },
   "France 24": {
    "ok": true,
-   "n": 10
+   "n": 9
   },
   "UN News": {
    "ok": true,
@@ -31,6 +31,138 @@
   }
  },
  "items": [
+  {
+   "id": "38468b355c85",
+   "t": "US military cloud platform reportedly hacked as Pentagon insists systems are secure",
+   "ko": "국방부가 시스템이 안전하다고 주장함에 따라 미군 클라우드 플랫폼이 해킹당한 것으로 알려졌습니다.",
+   "src": "France 24",
+   "u": "https://www.france24.com/en/americas/20261128-us-military-cloud-platform-reportedly-hacked-as-pentagon-insists-systems-are-secure",
+   "at": "2026-11-28T06:04:56.000Z",
+   "ev": [],
+   "cc": [
+    "United States"
+   ]
+  },
+  {
+   "id": "d4f62329faa8",
+   "t": "‘Last local militant’: India declares victory but Kashmir’s rebels adapt",
+   "ko": "'마지막 지역 무장세력': 인도가 승리를 선언했지만 카슈미르 반군은 적응했다",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/11/28/last-local-militant-india-declares-victory-but-kashmirs-rebels-adapt?traffic_source=rss",
+   "at": "2026-11-28T04:30:16.000Z",
+   "ev": [],
+   "cc": [
+    "India",
+    "Kashmir"
+   ]
+  },
+  {
+   "id": "ecb5df903f5b",
+   "t": "Eight killed in Peruvian military helicopter crash",
+   "ko": "페루 군용 헬기 추락해 8명 사망",
+   "src": "BBC",
+   "u": "https://www.bbc.co.uk/news/articles/cwp9d85mlp88o?at_medium=RSS&at_campaign=rss",
+   "at": "2026-11-28T04:19:16.000Z",
+   "ev": [],
+   "cc": [
+    "Peru"
+   ]
+  },
+  {
+   "id": "d5c7b4da8156",
+   "t": "Israeli ‘direct hit ‘on Doctors Without Borders Gaza clinic kills 2 staff",
+   "ko": "이스라엘, 국경 없는 의사회 가자 병원에 '직격탄'으로 직원 2명 사망",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/11/28/israeli-strike-on-doctors-without-borders-clinic-in-gaza-kills-two-staff?traffic_source=rss",
+   "at": "2026-11-28T03:45:58.000Z",
+   "ev": [
+    "gaza"
+   ],
+   "cc": [
+    "Israel",
+    "Palestine"
+   ]
+  },
+  {
+   "id": "8bbbdcd9355b",
+   "t": "Bulgarians demand action by French after Marseille match violence",
+   "ko": "불가리아인, 마르세유전 폭력 사태 이후 프랑스에 조치 요구",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/video/newsfeed/2026/11/28/bulgarians-demand-action-by-french-after-marseille-match-violence?traffic_source=rss",
+   "at": "2026-11-28T02:30:27.000Z",
+   "ev": [],
+   "cc": [
+    "France"
+   ]
+  },
+  {
+   "id": "a89cfc699210",
+   "t": "Israel kills two MSF staff in targeted strike on Gaza clinic",
+   "ko": "이스라엘, 가자지구 병원 표적 공격으로 국경없는의사회 직원 2명 사망",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/video/newsfeed/2026/11/28/israel-kills-two-msf-staff-in-targeted-strike-on-gaza-clinic?traffic_source=rss",
+   "at": "2026-11-28T01:55:03.000Z",
+   "ev": [
+    "gaza"
+   ],
+   "cc": [
+    "Israel",
+    "Palestine"
+   ]
+  },
+  {
+   "id": "ec278298d964",
+   "t": "Thousands of Puerto Ricans join ‘Day of National Outrage’ protest",
+   "ko": "푸에르토리코 주민 수천명 '국가 분노의 날' 시위 참여",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/11/28/thousands-of-puerto-ricans-join-day-of-national-outrage-protest?traffic_source=rss",
+   "at": "2026-11-28T01:00:00.000Z",
+   "ev": [],
+   "cc": []
+  },
+  {
+   "id": "70414c38be0f",
+   "t": "Iran war live: Italy says drone in deadly Kuwait attack was made in Iran",
+   "ko": "이란 전쟁 라이브 : 이탈리아는 치명적인 쿠웨이트 공격의 드론이이란에서 만들어 졌다고 말합니다",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/liveblog/2026/11/28/iran-war-live-italy-says-drone-in-deadly-kuwait-attack-was-made-in-iran?traffic_source=rss",
+   "at": "2026-11-28T00:00:00.000Z",
+   "ev": [
+    "iran"
+   ],
+   "cc": [
+    "Iran",
+    "Italy",
+    "Kuwait"
+   ]
+  },
+  {
+   "id": "592576d67e72",
+   "t": "At least eight found dead on migrant boat off Spain’s Canary Islands",
+   "ko": "스페인 카나리아 제도 앞바다에서 이주 보트에서 최소 8명이 숨진 채 발견됐다.",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/11/27/at-least-eight-found-dead-on-migrant-boat-off-spains-canary-islands?traffic_source=rss",
+   "at": "2026-11-27T23:57:03.000Z",
+   "ev": [],
+   "cc": [
+    "Spain"
+   ]
+  },
+  {
+   "id": "276e911c487e",
+   "t": "US disables ship attempting to breach Iran blockade",
+   "ko": "미국, 이란 봉쇄 돌파 시도 선박 무력화",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/video/newsfeed/2026/11/27/us-disables-ship-attempting-to-breach-iran-blockade?traffic_source=rss",
+   "at": "2026-11-27T23:55:16.000Z",
+   "ev": [
+    "iran"
+   ],
+   "cc": [
+    "United States",
+    "Iran"
+   ]
+  },
   {
    "id": "700060f62ce7",
    "t": "Kenyan cult leader guilty of manslaughter more than 123 starvation deaths",
@@ -1502,169 +1634,6 @@
    ],
    "cc": [
     "Democratic Republic of the Congo"
-   ]
-  },
-  {
-   "id": "b40b65aefab9",
-   "t": "Desperate appeals from women on death row in Iran after protests",
-   "ko": "이란 시위 이후 사형수 여성들의 절박한 호소",
-   "src": "BBC",
-   "u": "https://www.bbc.co.uk/news/articles/cm8x0ve4yd7wo?at_medium=RSS&at_campaign=rss",
-   "at": "2026-11-26T06:01:58.000Z",
-   "ev": [
-    "iran"
-   ],
-   "cc": [
-    "Iran"
-   ]
-  },
-  {
-   "id": "7f5e18c1ef93",
-   "t": "Can Rassvet, 'Russia's Starlink' change the course of the war in Ukraine?",
-   "ko": "'러시아의 스타링크' 라스베트(Rassvet)가 우크라이나 전쟁의 방향을 바꿀 수 있을까?",
-   "src": "DW",
-   "u": "https://www.dw.com/en/can-rassvet-russia-s-starlink-change-the-course-of-the-war-in-ukraine/a-80052579?maca=en-rss-en-world-4025-rdf",
-   "at": "2026-11-26T05:45:00.000Z",
-   "ev": [
-    "ukraine"
-   ],
-   "cc": [
-    "Russia",
-    "Ukraine",
-    "United States"
-   ]
-  },
-  {
-   "id": "fb68ac76532b",
-   "t": "Colombian president taunts arrested supermarket hostage-takers",
-   "ko": "콜롬비아 대통령, 체포된 슈퍼마켓 인질범 조롱",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/video/newsfeed/2026/11/26/colombian-president-taunts-arrested-supermarket-hostage-takers?traffic_source=rss",
-   "at": "2026-11-26T03:23:24.000Z",
-   "ev": [
-    "colombia"
-   ],
-   "cc": [
-    "Colombia"
-   ]
-  },
-  {
-   "id": "9cde7b8014dd",
-   "t": "As foreign troops withdraw from Somalia, could al-Shabab take over?",
-   "ko": "외국군이 소말리아에서 철수함에 따라 알샤바브가 장악할 수 있을까요?",
-   "src": "BBC",
-   "u": "https://www.bbc.co.uk/news/articles/ck62y23z58yeo?at_medium=RSS&at_campaign=rss",
-   "at": "2026-11-26T02:06:10.000Z",
-   "ev": [
-    "somalia"
-   ],
-   "cc": [
-    "Somalia"
-   ]
-  },
-  {
-   "id": "4b4af1f4284c",
-   "t": "Kim Jong Un says North Korea should widen deployment of tactical nukes",
-   "ko": "김정은 \"전술핵 배치 확대해야\"",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/news/2026/11/26/kim-jong-un-says-north-korea-should-widen-deployment-of-tactical-nukes?traffic_source=rss",
-   "at": "2026-11-26T02:03:03.000Z",
-   "ev": [],
-   "cc": [
-    "North Korea"
-   ]
-  },
-  {
-   "id": "6cc600fdef49",
-   "t": "Ukraine attacks Russian military base, says five planes struck",
-   "ko": "우크라이나, 러시아 군사기지 공격…여객기 5대 피격",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/news/2026/11/26/ukraine-attacks-russian-military-base-says-five-planes-struck?traffic_source=rss",
-   "at": "2026-11-26T01:39:46.000Z",
-   "ev": [
-    "ukraine"
-   ],
-   "cc": [
-    "Ukraine",
-    "Russia"
-   ]
-  },
-  {
-   "id": "b0c600767aa6",
-   "t": "At least 31 killed in Cairo fire after fuel truck overturns on busy highway",
-   "ko": "카이로에서 화재로 혼잡한 고속도로에서 연료트럭이 전복돼 최소 31명이 사망했다.",
-   "src": "France 24",
-   "u": "https://www.france24.com/en/africa/20261126-at-least-31-killed-in-cairo-fire-after-fuel-truck-overturns-on-busy-highway",
-   "at": "2026-11-26T01:25:54.000Z",
-   "ev": [],
-   "cc": [
-    "Egypt"
-   ]
-  },
-  {
-   "id": "ba3664869a69",
-   "t": "ISIL blamed for multiple suicide attacks in Syria",
-   "ko": "ISIL은 시리아에서 여러 차례 자살 공격을 가해 비난을 받았습니다",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/video/newsfeed/2026/11/26/isil-blamed-for-multiple-suicide-attacks-in-syria?traffic_source=rss",
-   "at": "2026-11-26T00:51:17.000Z",
-   "ev": [
-    "syria"
-   ],
-   "cc": [
-    "Syria"
-   ]
-  },
-  {
-   "id": "f4b2e4965e7a",
-   "t": "Two Syrian security personnel killed in ISIL suicide attack",
-   "ko": "ISIL 자살공격으로 시리아 보안요원 2명 사망",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/news/2026/11/26/two-syrian-security-personnel-killed-in-isil-suicide-attack?traffic_source=rss",
-   "at": "2026-11-26T00:41:49.000Z",
-   "ev": [
-    "syria"
-   ],
-   "cc": [
-    "Syria"
-   ]
-  },
-  {
-   "id": "f173cde591e3",
-   "t": "Has global jihadism failed, or is it simply changing shape?",
-   "ko": "글로벌 지하디즘은 실패했나요, 아니면 단순히 형태가 바뀌고 있는 건가요?",
-   "src": "BBC",
-   "u": "https://www.bbc.co.uk/news/articles/cmx2x4e0n5jro?at_medium=RSS&at_campaign=rss",
-   "at": "2026-11-26T00:22:18.000Z",
-   "ev": [],
-   "cc": []
-  },
-  {
-   "id": "f55d55e52a9e",
-   "t": "Zambia bans protest against push to remove presidential term limits",
-   "ko": "잠비아, 대통령 임기 제한 폐지 반대 시위 금지",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/news/2026/11/26/zambia-bans-protest-against-push-to-remove-presidential-term-limits?traffic_source=rss",
-   "at": "2026-11-26T00:22:15.000Z",
-   "ev": [],
-   "cc": [
-    "Zambia"
-   ]
-  },
-  {
-   "id": "317078de0b76",
-   "t": "Iran war live: Explosion rocks Sanaa; missiles intercepted over Riyadh",
-   "ko": "이란 전쟁 라이브: 폭발이 Sanaa를 뒤흔들었습니다. 리야드 상공에서 미사일 요격",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/news/liveblog/2026/11/26/iran-war-live-explosion-rocks-sanaa-missiles-intercepted-over-riyadh?traffic_source=rss",
-   "at": "2026-11-26T00:00:00.000Z",
-   "ev": [
-    "iran",
-    "yemen"
-   ],
-   "cc": [
-    "Iran",
-    "Saudi Arabia"
    ]
   }
  ]
